@@ -59,7 +59,8 @@ function initMember(rootElement, contents) {
         list.style.display = "none";
         rootElement.appendChild(list);
         contents.files.forEach(function (fileIndex) {
-            var file = fileTable[fileIndex];
+            var entry = fileTable[fileIndex];
+            var file = dirTable[entry[0]] + "/" + entry[1];
             var item = document.createElement("li");
             var anchor = document.createElement("a");
             anchor.innerText =file;
