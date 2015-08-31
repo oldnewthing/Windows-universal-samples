@@ -292,7 +292,7 @@ var contents = {
 "children": {
 "Appointment":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [43,
 44,
 45],
@@ -473,7 +473,7 @@ var contents = {
 ,
 "AppointmentInvitee":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [43],
 "memberKind": "Constructor"
 }
@@ -536,7 +536,7 @@ var contents = {
 ,
 "AppointmentOrganizer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [43],
 "memberKind": "Constructor"
 }
@@ -603,7 +603,7 @@ var contents = {
 ,
 "AppointmentRecurrence":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [47],
 "memberKind": "Constructor"
 }
@@ -733,7 +733,7 @@ var contents = {
 "children": {
 "AppServiceConnection":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [50,
 51,
 52],
@@ -933,7 +933,7 @@ var contents = {
 "children": {
 "ActivitySensorTrigger":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [57],
 "memberKind": "Constructor"
 }
@@ -947,7 +947,7 @@ var contents = {
 ,
 "ApplicationTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [58],
 "memberKind": "Constructor"
 }
@@ -1042,7 +1042,7 @@ var contents = {
 ,
 "BackgroundTaskBuilder":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [57,
 59,
 70,
@@ -1155,7 +1155,7 @@ var contents = {
 ,
 "BackgroundTaskCanceledEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [77,
 78,
 79,
@@ -1201,7 +1201,7 @@ var contents = {
 ,
 "BackgroundTaskCompletedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [57,
 59,
 85,
@@ -1256,7 +1256,7 @@ var contents = {
 ,
 "BackgroundTaskProgressEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [85,
 86,
 87,
@@ -1359,7 +1359,7 @@ var contents = {
 ,
 "BluetoothLEAdvertisementPublisherTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [67],
 "memberKind": "Constructor"
 }
@@ -1373,7 +1373,7 @@ var contents = {
 ,
 "BluetoothLEAdvertisementWatcherTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [66],
 "memberKind": "Constructor"
 }
@@ -1419,7 +1419,7 @@ var contents = {
 ,
 "DeviceUseTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [59,
 71],
 "memberKind": "Constructor"
@@ -1563,7 +1563,7 @@ var contents = {
 ,
 "LocationTrigger":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [69],
 "memberKind": "Constructor"
 }
@@ -1581,7 +1581,7 @@ var contents = {
 ,
 "SmsMessageReceivedTrigger":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [75],
 "memberKind": "Constructor"
 }
@@ -1590,7 +1590,7 @@ var contents = {
 ,
 "SocketActivityTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [76],
 "memberKind": "Constructor"
 }
@@ -1599,7 +1599,7 @@ var contents = {
 ,
 "SystemCondition":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [86],
 "memberKind": "Constructor"
 }
@@ -1617,7 +1617,7 @@ var contents = {
 ,
 "SystemTrigger":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [85,
 86,
 87,
@@ -1649,7 +1649,7 @@ var contents = {
 ,
 "TimeTrigger":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [88,
 68],
 "memberKind": "Constructor"
@@ -1659,7 +1659,7 @@ var contents = {
 ,
 "ToastNotificationActionTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [62,
 63],
 "memberKind": "Constructor"
@@ -1669,7 +1669,7 @@ var contents = {
 ,
 "ToastNotificationHistoryChangedTrigger":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [64,
 65],
 "memberKind": "Constructor"
@@ -1683,7 +1683,7 @@ var contents = {
 "children": {
 "Contact":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [99,
 100],
 "memberKind": "Constructor"
@@ -1738,7 +1738,7 @@ var contents = {
 ,
 "ContactAddress":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [100],
 "memberKind": "Constructor"
 }
@@ -1813,7 +1813,7 @@ var contents = {
 ,
 "ContactCardOptions":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [103,
 100],
 "memberKind": "Constructor"
@@ -1832,7 +1832,7 @@ var contents = {
 ,
 "ContactEmail":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [99,
 100],
 "memberKind": "Constructor"
@@ -1961,7 +1961,7 @@ var contents = {
 ,
 "ContactPhone":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [99,
 100],
 "memberKind": "Constructor"
@@ -2002,7 +2002,7 @@ var contents = {
 ,
 "ContactPicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [104,
 105],
 "memberKind": "Constructor"
@@ -2028,7 +2028,7 @@ var contents = {
 ,
 "ContactQueryOptions":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [102],
 "memberKind": "Constructor"
 }
@@ -2083,7 +2083,7 @@ var contents = {
 ,
 "FullContactCardOptions":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [106,
 102],
 "memberKind": "Constructor"
@@ -2257,7 +2257,7 @@ var contents = {
 ,
 "DataPackage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [128,
 129,
 130,
@@ -2740,7 +2740,7 @@ var contents = {
 "children": {
 "QuickLink":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [149,
 150],
 "memberKind": "Constructor"
@@ -3261,7 +3261,7 @@ var contents = {
 ,
 "ResourceLoader":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [28,
 179],
 "memberKind": "Constructor"
@@ -3592,7 +3592,7 @@ var contents = {
 ,
 "VoiceCommandContentTile":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [56],
 "memberKind": "Constructor"
 }
@@ -3736,7 +3736,7 @@ var contents = {
 ,
 "VoiceCommandUserMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [56],
 "memberKind": "Constructor"
 }
@@ -3800,7 +3800,7 @@ var contents = {
 ,
 "JsonArray":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [89,
 206,
 204],
@@ -3856,7 +3856,7 @@ var contents = {
 ,
 "JsonObject":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [208,
 204],
 "memberKind": "Constructor"
@@ -4009,7 +4009,7 @@ var contents = {
 ,
 "SelectableWordsSegmenter":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [213,
 212],
 "memberKind": "Constructor"
@@ -4029,7 +4029,7 @@ var contents = {
 ,
 "SemanticTextQuery":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [214,
 215],
 "memberKind": "Constructor"
@@ -4049,7 +4049,7 @@ var contents = {
 ,
 "TextConversionGenerator":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [216],
 "memberKind": "Constructor"
 }
@@ -4078,7 +4078,7 @@ var contents = {
 ,
 "TextPredictionGenerator":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [217],
 "memberKind": "Constructor"
 }
@@ -4107,7 +4107,7 @@ var contents = {
 ,
 "TextReverseConversionGenerator":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [218],
 "memberKind": "Constructor"
 }
@@ -4169,7 +4169,7 @@ var contents = {
 ,
 "WordsSegmenter":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [213,
 212],
 "memberKind": "Constructor"
@@ -4238,7 +4238,7 @@ var contents = {
 ,
 "XmlDocument":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [225,
 226,
 227,
@@ -4443,7 +4443,7 @@ var contents = {
 ,
 "XmlLoadSettings":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [164,
 165],
 "memberKind": "Constructor"
@@ -4528,7 +4528,7 @@ var contents = {
 "children": {
 "XsltProcessor":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [166],
 "memberKind": "Constructor"
 }
@@ -4619,7 +4619,7 @@ var contents = {
 ,
 "AllJoynBusAttachment":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [247,
 255,
 254,
@@ -4842,7 +4842,7 @@ var contents = {
 ,
 "BluetoothLEAdvertisementPublisher":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [258],
 "memberKind": "Constructor"
 }
@@ -4933,7 +4933,7 @@ var contents = {
 ,
 "BluetoothLEAdvertisementWatcher":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [257],
 "memberKind": "Constructor"
 }
@@ -4981,7 +4981,7 @@ var contents = {
 ,
 "BluetoothLEManufacturerData":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [257,
 258,
 66,
@@ -5607,7 +5607,7 @@ var contents = {
 ,
 "DevicePicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [107,
 108,
 316],
@@ -6057,7 +6057,7 @@ var contents = {
 "children": {
 "BasicGeoposition":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [318,
 319,
 320,
@@ -6110,7 +6110,7 @@ var contents = {
 ,
 "Geocircle":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [325],
 "memberKind": "Constructor"
 }
@@ -6185,7 +6185,7 @@ var contents = {
 "children": {
 "Geofence":{
 "members": {
-".ctor`7":{
+":ctor`7":{
 "files": [325],
 "memberKind": "Constructor"
 }
@@ -6398,7 +6398,7 @@ var contents = {
 ,
 "Geolocator":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [90,
 327,
 328,
@@ -6454,7 +6454,7 @@ var contents = {
 ,
 "Geopath":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [320],
 "memberKind": "Constructor"
 }
@@ -6463,7 +6463,7 @@ var contents = {
 ,
 "Geopoint":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [318,
 319,
 320,
@@ -6643,7 +6643,7 @@ var contents = {
 "children": {
 "KeyboardCapabilities":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [331],
 "memberKind": "Constructor"
 }
@@ -6657,7 +6657,7 @@ var contents = {
 ,
 "MouseCapabilities":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [331],
 "memberKind": "Constructor"
 }
@@ -6720,7 +6720,7 @@ var contents = {
 ,
 "TouchCapabilities":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [331],
 "memberKind": "Constructor"
 }
@@ -6827,7 +6827,7 @@ var contents = {
 ,
 "MidiActiveSensingMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -6836,7 +6836,7 @@ var contents = {
 ,
 "MidiChannelPressureMessage":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -6855,7 +6855,7 @@ var contents = {
 ,
 "MidiContinueMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -6864,7 +6864,7 @@ var contents = {
 ,
 "MidiControlChangeMessage":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7035,7 +7035,7 @@ var contents = {
 ,
 "MidiNoteOffMessage":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7059,7 +7059,7 @@ var contents = {
 ,
 "MidiNoteOnMessage":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7098,7 +7098,7 @@ var contents = {
 ,
 "MidiPitchBendChangeMessage":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7117,7 +7117,7 @@ var contents = {
 ,
 "MidiPolyphonicKeyPressureMessage":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7141,7 +7141,7 @@ var contents = {
 ,
 "MidiProgramChangeMessage":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7160,7 +7160,7 @@ var contents = {
 ,
 "MidiSongPositionPointerMessage":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7174,7 +7174,7 @@ var contents = {
 ,
 "MidiSongSelectMessage":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7188,7 +7188,7 @@ var contents = {
 ,
 "MidiStartMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7197,7 +7197,7 @@ var contents = {
 ,
 "MidiStopMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7206,7 +7206,7 @@ var contents = {
 ,
 "MidiSystemExclusiveMessage":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7220,7 +7220,7 @@ var contents = {
 ,
 "MidiSystemResetMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7229,7 +7229,7 @@ var contents = {
 ,
 "MidiTimeCodeMessage":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7248,7 +7248,7 @@ var contents = {
 ,
 "MidiTimingClockMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -7257,7 +7257,7 @@ var contents = {
 ,
 "MidiTuneRequestMessage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [307],
 "memberKind": "Constructor"
 }
@@ -9387,7 +9387,7 @@ var contents = {
 ,
 "SmartCardPinPolicy":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [381],
 "memberKind": "Constructor"
 }
@@ -9610,7 +9610,7 @@ var contents = {
 ,
 "SmsFilterRule":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [75],
 "memberKind": "Constructor"
 }
@@ -9619,7 +9619,7 @@ var contents = {
 ,
 "SmsFilterRules":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [75],
 "memberKind": "Constructor"
 }
@@ -9735,7 +9735,7 @@ var contents = {
 ,
 "SmsTextMessage2":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [394],
 "memberKind": "Constructor"
 }
@@ -9819,7 +9819,7 @@ var contents = {
 ,
 "UsbControlRequestType":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [397],
 "memberKind": "Constructor"
 }
@@ -10054,7 +10054,7 @@ var contents = {
 ,
 "UsbSetupPacket":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [397],
 "memberKind": "Constructor"
 }
@@ -10362,7 +10362,7 @@ var contents = {
 ,
 "WiFiDirectServiceAdvertiser":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [305],
 "memberKind": "Constructor"
 }
@@ -10728,7 +10728,7 @@ var contents = {
 ,
 "WiFiDirectAdvertisementPublisher":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [308],
 "memberKind": "Constructor"
 }
@@ -10780,7 +10780,7 @@ var contents = {
 ,
 "WiFiDirectConnectionListener":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [308],
 "memberKind": "Constructor"
 }
@@ -10794,7 +10794,7 @@ var contents = {
 ,
 "WiFiDirectConnectionParameters":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [308,
 289],
 "memberKind": "Constructor"
@@ -10892,7 +10892,7 @@ var contents = {
 ,
 "WiFiDirectInformationElement":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [308],
 "memberKind": "Constructor"
 }
@@ -10930,7 +10930,7 @@ var contents = {
 "children": {
 "AsyncActionCompletedHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [186],
 "memberKind": "Constructor"
 }
@@ -10945,7 +10945,7 @@ var contents = {
 "children": {
 "TranscodeFailureReason, double>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [406],
 "memberKind": "Constructor"
 }
@@ -10966,7 +10966,7 @@ var contents = {
 "children": {
 "TranscodeFailureReason, double>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [406],
 "memberKind": "Constructor"
 }
@@ -11241,7 +11241,7 @@ var contents = {
 ,
 "PropertySet":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [423,
 435,
 197],
@@ -11259,7 +11259,7 @@ var contents = {
 ,
 "ValueSet":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [50,
 51,
 53,
@@ -11314,19 +11314,19 @@ var contents = {
 ,
 "DateTime":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [364,
 365,
 366],
 "memberKind": "Constructor"
 }
 ,
-".ctor`6":{
+":ctor`6":{
 "files": [439],
 "memberKind": "Constructor"
 }
 ,
-".ctor`7":{
+":ctor`7":{
 "files": [440],
 "memberKind": "Constructor"
 }
@@ -11404,7 +11404,7 @@ var contents = {
 "children": {
 "FileLoggingSession":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [194],
 "memberKind": "Constructor"
 }
@@ -11467,12 +11467,12 @@ var contents = {
 ,
 "LoggingActivity":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [448],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [195],
 "memberKind": "Constructor"
 }
@@ -11496,19 +11496,19 @@ var contents = {
 ,
 "LoggingChannel":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [194,
 448,
 195],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [448],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [448],
 "memberKind": "Constructor"
 }
@@ -11604,7 +11604,7 @@ var contents = {
 ,
 "LoggingChannelOptions":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [448],
 "memberKind": "Constructor"
 }
@@ -11627,7 +11627,7 @@ var contents = {
 ,
 "LoggingFields":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [448],
 "memberKind": "Constructor"
 }
@@ -11713,12 +11713,12 @@ var contents = {
 ,
 "LoggingOptions":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [448],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [448],
 "memberKind": "Constructor"
 }
@@ -11737,7 +11737,7 @@ var contents = {
 ,
 "LoggingSession":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [195],
 "memberKind": "Constructor"
 }
@@ -11763,7 +11763,7 @@ var contents = {
 ,
 "EventHandler<T>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [261,
 279,
 264,
@@ -12150,7 +12150,7 @@ var contents = {
 ,
 "Point":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [477,
 154,
 465,
@@ -12164,7 +12164,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [317,
 277,
 107,
@@ -12255,13 +12255,13 @@ var contents = {
 ,
 "Rect":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [189,
 473],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [477,
 99,
 478,
@@ -12272,7 +12272,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`4":{
+":ctor`4":{
 "files": [317,
 277,
 107,
@@ -12431,13 +12431,13 @@ var contents = {
 ,
 "Size":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [501,
 527],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [477,
 188,
 99,
@@ -12493,19 +12493,19 @@ var contents = {
 ,
 "TimeSpan":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [186],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [406,
 535,
 536],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [59,
 364,
 365,
@@ -12514,7 +12514,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`5":{
+":ctor`5":{
 "files": [344,
 353,
 355,
@@ -12589,7 +12589,7 @@ var contents = {
 "children": {
 "DeviceInformation>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [540],
 "memberKind": "Constructor"
 }
@@ -12625,7 +12625,7 @@ var contents = {
 ,
 "TypedEventHandler<Oven, Bread>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [541,
 542,
 543,
@@ -12643,7 +12643,7 @@ var contents = {
 "children": {
 "SplashScreen, Object>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [41],
 "memberKind": "Constructor"
 }
@@ -12662,7 +12662,7 @@ var contents = {
 "children": {
 "DataRequestedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [137,
 143],
 "memberKind": "Constructor"
@@ -12692,7 +12692,7 @@ var contents = {
 "children": {
 "DeviceAccessChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [260,
 261,
 262,
@@ -12712,7 +12712,7 @@ var contents = {
 ,
 "DevicePicker, object>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [316],
 "memberKind": "Constructor"
 }
@@ -12727,7 +12727,7 @@ var contents = {
 "children": {
 "DeviceSelectedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [316],
 "memberKind": "Constructor"
 }
@@ -12742,7 +12742,7 @@ var contents = {
 ,
 "DeviceWatcher, Object>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [279,
 280,
 281,
@@ -12764,7 +12764,7 @@ var contents = {
 "children": {
 "DeviceInformation>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [261,
 279,
 264,
@@ -12784,7 +12784,7 @@ var contents = {
 ,
 "DeviceInformationUpdate>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [261,
 279,
 264,
@@ -12820,7 +12820,7 @@ var contents = {
 "children": {
 "HidInputReportReceivedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [329],
 "memberKind": "Constructor"
 }
@@ -12845,7 +12845,7 @@ var contents = {
 "children": {
 "AccelerometerReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [345,
 348,
 79],
@@ -12856,7 +12856,7 @@ var contents = {
 ,
 "AccelerometerShakenEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [346],
 "memberKind": "Constructor"
 }
@@ -12877,7 +12877,7 @@ var contents = {
 "children": {
 "ActivitySensorReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [260],
 "memberKind": "Constructor"
 }
@@ -12898,7 +12898,7 @@ var contents = {
 "children": {
 "AltimeterReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [350],
 "memberKind": "Constructor"
 }
@@ -12919,7 +12919,7 @@ var contents = {
 "children": {
 "BarometerReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [352],
 "memberKind": "Constructor"
 }
@@ -12940,7 +12940,7 @@ var contents = {
 "children": {
 "CompassReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [354],
 "memberKind": "Constructor"
 }
@@ -12965,7 +12965,7 @@ var contents = {
 "children": {
 "CustomSensorReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [262],
 "memberKind": "Constructor"
 }
@@ -12990,7 +12990,7 @@ var contents = {
 "children": {
 "GyrometerReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [357],
 "memberKind": "Constructor"
 }
@@ -13011,7 +13011,7 @@ var contents = {
 "children": {
 "InclinometerReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [360,
 361],
 "memberKind": "Constructor"
@@ -13033,7 +13033,7 @@ var contents = {
 "children": {
 "LightSensorReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [363],
 "memberKind": "Constructor"
 }
@@ -13054,7 +13054,7 @@ var contents = {
 "children": {
 "OrientationSensorReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [367,
 373],
 "memberKind": "Constructor"
@@ -13076,7 +13076,7 @@ var contents = {
 "children": {
 "ProximitySensorReadingChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [284],
 "memberKind": "Constructor"
 }
@@ -13097,7 +13097,7 @@ var contents = {
 "children": {
 "SimpleOrientationSensorOrientationChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [374],
 "memberKind": "Constructor"
 }
@@ -13122,7 +13122,7 @@ var contents = {
 "children": {
 "ErrorReceivedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [545],
 "memberKind": "Constructor"
 }
@@ -13131,7 +13131,7 @@ var contents = {
 ,
 "PinChangedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [545],
 "memberKind": "Constructor"
 }
@@ -13156,7 +13156,7 @@ var contents = {
 "children": {
 "UsbInterruptInEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [400],
 "memberKind": "Constructor"
 }
@@ -13177,7 +13177,7 @@ var contents = {
 "children": {
 "ApplicationData, object>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [546,
 547],
 "memberKind": "Constructor"
@@ -13199,7 +13199,7 @@ var contents = {
 "children": {
 "FileRemovedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [156,
 548,
 549],
@@ -13226,7 +13226,7 @@ var contents = {
 "children": {
 "TargetFileRequestedEventArgs>":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [550,
 551,
 552],
@@ -13253,7 +13253,7 @@ var contents = {
 ,
 "Uri":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [508,
 465,
 186,
@@ -13277,7 +13277,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [452,
 148,
 147],
@@ -13308,7 +13308,7 @@ var contents = {
 ,
 "WwwFormUrlDecoder":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [3],
 "memberKind": "Constructor"
 }
@@ -13370,7 +13370,7 @@ var contents = {
 ,
 "Calendar":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [269,
 558,
 559,
@@ -13383,19 +13383,19 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [560],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [558,
 559,
 440],
 "memberKind": "Constructor"
 }
 ,
-".ctor`4":{
+":ctor`4":{
 "files": [440],
 "memberKind": "Constructor"
 }
@@ -13737,7 +13737,7 @@ var contents = {
 ,
 "CharacterGroupings":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [563],
 "memberKind": "Constructor"
 }
@@ -13770,7 +13770,7 @@ var contents = {
 "children": {
 "DateTimeFormatter":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [440,
 442,
 443,
@@ -13785,35 +13785,35 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`11":{
+":ctor`11":{
 "files": [445,
 446],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [446],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [444],
 "memberKind": "Constructor"
 }
 ,
-".ctor`4":{
+":ctor`4":{
 "files": [444],
 "memberKind": "Constructor"
 }
 ,
-".ctor`5":{
+":ctor`5":{
 "files": [445,
 89,
 325],
 "memberKind": "Constructor"
 }
 ,
-".ctor`8":{
+":ctor`8":{
 "files": [446],
 "memberKind": "Constructor"
 }
@@ -14053,7 +14053,7 @@ var contents = {
 ,
 "LanguageFontGroup":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [568,
 569],
 "memberKind": "Constructor"
@@ -14095,12 +14095,12 @@ var contents = {
 ,
 "GeographicRegion":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [570],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [570],
 "memberKind": "Constructor"
 }
@@ -14167,7 +14167,7 @@ var contents = {
 ,
 "Language":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [557,
 572,
 196],
@@ -14231,14 +14231,14 @@ var contents = {
 "children": {
 "CurrencyFormatter":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [564,
 575,
 576],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [564,
 575,
 565],
@@ -14307,7 +14307,7 @@ var contents = {
 ,
 "DecimalFormatter":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [325,
 577,
 575,
@@ -14315,7 +14315,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [577,
 575,
 565],
@@ -14378,7 +14378,7 @@ var contents = {
 ,
 "IncrementNumberRounder":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [576,
 565],
 "memberKind": "Constructor"
@@ -14431,12 +14431,12 @@ var contents = {
 ,
 "NumeralSystemTranslator":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [578],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [578,
 565],
 "memberKind": "Constructor"
@@ -14457,14 +14457,14 @@ var contents = {
 ,
 "PercentFormatter":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [579,
 575,
 576],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [579,
 575,
 565],
@@ -14519,12 +14519,12 @@ var contents = {
 ,
 "PermilleFormatter":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [579],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [579,
 565],
 "memberKind": "Constructor"
@@ -14609,7 +14609,7 @@ var contents = {
 ,
 "SignificantDigitsNumberRounder":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [576],
 "memberKind": "Constructor"
 }
@@ -15165,7 +15165,7 @@ var contents = {
 ,
 "BitmapPropertySet":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [189,
 191,
 192,
@@ -15214,7 +15214,7 @@ var contents = {
 ,
 "BitmapTransform":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [583,
 492,
 198,
@@ -15251,7 +15251,7 @@ var contents = {
 ,
 "BitmapTypedValue":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [189,
 191,
 192,
@@ -15924,7 +15924,7 @@ var contents = {
 ,
 "AudioGraphSettings":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [588,
 293,
 589,
@@ -16073,7 +16073,7 @@ var contents = {
 ,
 "EchoEffectDefinition":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [590,
 591],
 "memberKind": "Constructor"
@@ -16101,7 +16101,7 @@ var contents = {
 ,
 "EqualizerEffectDefinition":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [591],
 "memberKind": "Constructor"
 }
@@ -16124,7 +16124,7 @@ var contents = {
 ,
 "LimiterEffectDefinition":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [591],
 "memberKind": "Constructor"
 }
@@ -16152,7 +16152,7 @@ var contents = {
 ,
 "ReverbEffectDefinition":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [591],
 "memberKind": "Constructor"
 }
@@ -16218,7 +16218,7 @@ var contents = {
 ,
 "AudioFrame":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [589],
 "memberKind": "Constructor"
 }
@@ -16277,7 +16277,7 @@ var contents = {
 ,
 "MediaCapture":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [187,
 188,
 189,
@@ -16525,7 +16525,7 @@ var contents = {
 ,
 "MediaCaptureInitializationSettings":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [187,
 188,
 189,
@@ -16879,7 +16879,7 @@ var contents = {
 ,
 "CastingDevicePicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [317,
 596,
 482],
@@ -16984,7 +16984,7 @@ var contents = {
 ,
 "FaceDetectionEffectDefinition":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [189],
 "memberKind": "Constructor"
 }
@@ -17116,7 +17116,7 @@ var contents = {
 ,
 "MseStreamSource":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [602,
 601],
 "memberKind": "Constructor"
@@ -17170,7 +17170,7 @@ var contents = {
 ,
 "SceneAnalysisEffectDefinition":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [191],
 "memberKind": "Constructor"
 }
@@ -17253,7 +17253,7 @@ var contents = {
 ,
 "VideoStabilizationEffectDefinition":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [193],
 "memberKind": "Constructor"
 }
@@ -17275,7 +17275,7 @@ var contents = {
 "children": {
 "AdvancedPhotoCaptureSettings":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [191],
 "memberKind": "Constructor"
 }
@@ -17528,7 +17528,7 @@ var contents = {
 ,
 "DialDevicePicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [277],
 "memberKind": "Constructor"
 }
@@ -17624,7 +17624,7 @@ var contents = {
 ,
 "MediaComposition":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [406,
 604,
 603,
@@ -17667,7 +17667,7 @@ var contents = {
 ,
 "MediaOverlay":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [495],
 "memberKind": "Constructor"
 }
@@ -17686,7 +17686,7 @@ var contents = {
 ,
 "MediaOverlayLayer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [495],
 "memberKind": "Constructor"
 }
@@ -17713,7 +17713,7 @@ var contents = {
 "children": {
 "AudioEffectDefinition":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [435],
 "memberKind": "Constructor"
 }
@@ -18169,7 +18169,7 @@ var contents = {
 ,
 "MediaExtensionManager":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [606],
 "memberKind": "Constructor"
 }
@@ -18671,7 +18671,7 @@ var contents = {
 ,
 "MediaPlaybackItem":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [78,
 598,
 414,
@@ -18712,7 +18712,7 @@ var contents = {
 ,
 "MediaPlaybackList":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [78,
 415],
 "memberKind": "Constructor"
@@ -18905,7 +18905,7 @@ var contents = {
 "children": {
 "Playlist":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [610],
 "memberKind": "Constructor"
 }
@@ -18965,7 +18965,7 @@ var contents = {
 ,
 "ComponentLoadFailedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [423],
 "memberKind": "Constructor"
 }
@@ -18974,7 +18974,7 @@ var contents = {
 ,
 "MediaProtectionManager":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [423],
 "memberKind": "Constructor"
 }
@@ -19009,7 +19009,7 @@ var contents = {
 "children": {
 "PlayReadyIndividualizationServiceRequest":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [423],
 "memberKind": "Constructor"
 }
@@ -19101,7 +19101,7 @@ var contents = {
 ,
 "ServiceRequestedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [423],
 "memberKind": "Constructor"
 }
@@ -19302,7 +19302,7 @@ var contents = {
 ,
 "SpeechRecognitionGrammarFileConstraint":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [161,
 162],
 "memberKind": "Constructor"
@@ -19330,7 +19330,7 @@ var contents = {
 ,
 "SpeechRecognitionListConstraint":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [172,
 173,
 616],
@@ -19452,7 +19452,7 @@ var contents = {
 ,
 "SpeechRecognitionTopicConstraint":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [574,
 174,
 175],
@@ -19463,12 +19463,12 @@ var contents = {
 ,
 "SpeechRecognizer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [616],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [574,
 172,
 161,
@@ -19709,7 +19709,7 @@ var contents = {
 ,
 "SpeechSynthesizer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [176,
 177],
 "memberKind": "Constructor"
@@ -20207,7 +20207,7 @@ var contents = {
 ,
 "SystemMediaTransportControlsTimelineProperties":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [593],
 "memberKind": "Constructor"
 }
@@ -20243,7 +20243,7 @@ var contents = {
 "children": {
 "MediaTranscoder":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [609,
 607,
 535],
@@ -20327,7 +20327,7 @@ var contents = {
 ,
 "VideoFrame":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [187,
 188,
 190,
@@ -20351,13 +20351,13 @@ var contents = {
 "children": {
 "BackgroundDownloader":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [453,
 223],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [72],
 "memberKind": "Constructor"
 }
@@ -20459,7 +20459,7 @@ var contents = {
 ,
 "BackgroundTransferCompletionGroup":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [72],
 "memberKind": "Constructor"
 }
@@ -20488,7 +20488,7 @@ var contents = {
 ,
 "BackgroundTransferContentPart":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [454],
 "memberKind": "Constructor"
 }
@@ -20565,7 +20565,7 @@ var contents = {
 ,
 "BackgroundUploader":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [454],
 "memberKind": "Constructor"
 }
@@ -21177,7 +21177,7 @@ var contents = {
 ,
 "HostName":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [119,
 620,
 621,
@@ -21292,7 +21292,7 @@ var contents = {
 ,
 "MobileBroadbandAccountWatcher":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [625],
 "memberKind": "Constructor"
 }
@@ -21706,7 +21706,7 @@ var contents = {
 ,
 "UssdMessage":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [624],
 "memberKind": "Constructor"
 }
@@ -21809,7 +21809,7 @@ var contents = {
 "children": {
 "DatagramSocket":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [118,
 119,
 620,
@@ -21946,7 +21946,7 @@ var contents = {
 ,
 "MessageWebSocket":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [629],
 "memberKind": "Constructor"
 }
@@ -22151,7 +22151,7 @@ var contents = {
 ,
 "StreamSocket":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [91,
 76,
 123,
@@ -22291,7 +22291,7 @@ var contents = {
 ,
 "StreamSocketListener":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [630,
 122,
 308,
@@ -22375,7 +22375,7 @@ var contents = {
 ,
 "StreamWebSocket":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [631],
 "memberKind": "Constructor"
 }
@@ -22523,7 +22523,7 @@ var contents = {
 ,
 "WebTokenRequest":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [633,
 632,
 430,
@@ -22842,13 +22842,13 @@ var contents = {
 ,
 "PasswordCredential":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [255,
 304],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [639],
 "memberKind": "Constructor"
 }
@@ -22885,7 +22885,7 @@ var contents = {
 ,
 "PasswordVault":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [641,
 639,
 640],
@@ -22987,7 +22987,7 @@ var contents = {
 ,
 "CredentialPickerOptions":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [642],
 "memberKind": "Constructor"
 }
@@ -23186,7 +23186,7 @@ var contents = {
 ,
 "WebAccount":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [632,
 430],
 "memberKind": "Constructor"
@@ -23223,7 +23223,7 @@ var contents = {
 ,
 "WebAccountProvider":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [632,
 430],
 "memberKind": "Constructor"
@@ -23437,7 +23437,7 @@ var contents = {
 "children": {
 "DataProtectionProvider":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [649],
 "memberKind": "Constructor"
 }
@@ -23706,7 +23706,7 @@ var contents = {
 "children": {
 "EasClientDeviceInformation":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [657],
 "memberKind": "Constructor"
 }
@@ -23745,7 +23745,7 @@ var contents = {
 ,
 "EasClientSecurityPolicy":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [658,
 659],
 "memberKind": "Constructor"
@@ -24297,7 +24297,7 @@ var contents = {
 ,
 "ApplicationDataCompositeValue":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [434,
 428],
 "memberKind": "Constructor"
@@ -24403,7 +24403,7 @@ var contents = {
 ,
 "ApplicationDataSetVersionHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [666],
 "memberKind": "Constructor"
 }
@@ -24473,12 +24473,12 @@ var contents = {
 ,
 "Compressor":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [668],
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [668],
 "memberKind": "Constructor"
 }
@@ -24492,7 +24492,7 @@ var contents = {
 ,
 "Decompressor":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [668],
 "memberKind": "Constructor"
 }
@@ -25072,7 +25072,7 @@ var contents = {
 "children": {
 "FileOpenPicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [154,
 441,
 588,
@@ -25307,7 +25307,7 @@ var contents = {
 ,
 "FileSavePicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [293,
 682,
 715,
@@ -25367,7 +25367,7 @@ var contents = {
 ,
 "FolderPicker":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [661,
 696,
 697,
@@ -25942,7 +25942,7 @@ var contents = {
 ,
 "IndexableContent":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [155,
 718,
 719],
@@ -25993,7 +25993,7 @@ var contents = {
 ,
 "QueryOptions":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [670,
 691,
 409,
@@ -26001,12 +26001,12 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [707],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [702,
 692,
 700,
@@ -26093,7 +26093,7 @@ var contents = {
 ,
 "ValueAndLanguage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [718],
 "memberKind": "Constructor"
 }
@@ -26663,7 +26663,7 @@ var contents = {
 "children": {
 "Buffer":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [397,
 396],
 "memberKind": "Constructor"
@@ -26687,7 +26687,7 @@ var contents = {
 ,
 "DataReader":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [725,
 540,
 724,
@@ -26880,7 +26880,7 @@ var contents = {
 ,
 "DataWriter":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [257,
 258,
 66,
@@ -26900,7 +26900,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [718,
 725,
 82,
@@ -27162,7 +27162,7 @@ var contents = {
 ,
 "InMemoryRandomAccessStream":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [189,
 191,
 192,
@@ -27372,7 +27372,7 @@ var contents = {
 "children": {
 "DisplayRequest":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [189,
 190,
 191,
@@ -27517,7 +27517,7 @@ var contents = {
 ,
 "LauncherOptions":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [154,
 465,
 553],
@@ -27657,7 +27657,7 @@ var contents = {
 ,
 "TimerElapsedHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [80,
 188,
 536],
@@ -28104,7 +28104,7 @@ var contents = {
 ,
 "SettingsCommand":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [632,
 430,
 431,
@@ -28152,7 +28152,7 @@ var contents = {
 ,
 "WebAccountCommand":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [632,
 430,
 431,
@@ -28181,7 +28181,7 @@ var contents = {
 ,
 "WebAccountProviderCommand":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [632,
 430,
 431,
@@ -28203,7 +28203,7 @@ var contents = {
 ,
 "Color":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [138,
 746],
 "memberKind": "Constructor"
@@ -29608,7 +29608,7 @@ var contents = {
 "children": {
 "AnimationDescription":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [487,
 739],
 "memberKind": "Constructor"
@@ -30309,7 +30309,7 @@ var contents = {
 ,
 "DispatchedHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [617,
 618,
 423,
@@ -30443,7 +30443,7 @@ var contents = {
 "children": {
 "GestureRecognizer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [481],
 "memberKind": "Constructor"
 }
@@ -30545,7 +30545,7 @@ var contents = {
 "children": {
 "InkDrawingAttributes":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [502,
 503],
 "memberKind": "Constructor"
@@ -30663,7 +30663,7 @@ var contents = {
 ,
 "InkRecognizerContainer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [503],
 "memberKind": "Constructor"
 }
@@ -30867,7 +30867,7 @@ var contents = {
 "children": {
 "BadgeNotification":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [226,
 230,
 94,
@@ -30950,7 +30950,7 @@ var contents = {
 ,
 "TileNotification":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [223,
 228,
 230,
@@ -31062,7 +31062,7 @@ var contents = {
 ,
 "ToastNotification":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [247,
 223,
 72,
@@ -31310,7 +31310,7 @@ var contents = {
 ,
 "MessageDialog":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [550,
 813,
 814,
@@ -31339,7 +31339,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [822,
 823,
 14,
@@ -31528,7 +31528,7 @@ var contents = {
 ,
 "PopupMenu":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [186,
 478,
 134,
@@ -31560,14 +31560,14 @@ var contents = {
 ,
 "UICommand":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [13,
 378,
 427],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [186,
 478,
 813,
@@ -31577,7 +31577,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`3":{
+":ctor`3":{
 "files": [134,
 822,
 622,
@@ -31589,7 +31589,7 @@ var contents = {
 ,
 "UICommandInvokedHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [813],
 "memberKind": "Constructor"
 }
@@ -31598,7 +31598,7 @@ var contents = {
 ,
 "UICommandSeparator":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [134],
 "memberKind": "Constructor"
 }
@@ -31630,12 +31630,12 @@ var contents = {
 ,
 "SecondaryTile":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [760],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [824,
 826,
 471,
@@ -31643,7 +31643,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`5":{
+":ctor`5":{
 "files": [479,
 231,
 253,
@@ -32490,7 +32490,7 @@ var contents = {
 ,
 "UISettings":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [538,
 490],
 "memberKind": "Constructor"
@@ -32693,7 +32693,7 @@ var contents = {
 ,
 "AppBarButton":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [419],
 "memberKind": "Constructor"
 }
@@ -32712,7 +32712,7 @@ var contents = {
 ,
 "AppBarSeparator":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [418,
 420,
 421,
@@ -32735,7 +32735,7 @@ var contents = {
 ,
 "AppBarToggleButton":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [420,
 421,
 422],
@@ -32850,7 +32850,7 @@ var contents = {
 ,
 "Border":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [196,
 157],
 "memberKind": "Constructor"
@@ -32894,7 +32894,7 @@ var contents = {
 ,
 "Button":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [701,
 401,
 302,
@@ -33004,7 +33004,7 @@ var contents = {
 ,
 "Canvas":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [492],
 "memberKind": "Constructor"
 }
@@ -33134,7 +33134,7 @@ var contents = {
 ,
 "ComboBoxItem":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [574,
 172,
 161,
@@ -33295,7 +33295,7 @@ var contents = {
 ,
 "ContentDialog":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [776,
 777,
 850],
@@ -33419,7 +33419,7 @@ var contents = {
 ,
 "Frame":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [107,
 108,
 1,
@@ -33794,7 +33794,7 @@ var contents = {
 ,
 "Grid":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [492],
 "memberKind": "Constructor"
 }
@@ -33974,7 +33974,7 @@ var contents = {
 ,
 "Image":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [492,
 776,
 777],
@@ -34085,7 +34085,7 @@ var contents = {
 ,
 "ItemsControl":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [152],
 "memberKind": "Constructor"
 }
@@ -34174,7 +34174,7 @@ var contents = {
 ,
 "ListBoxItem":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [29,
 32,
 33,
@@ -34341,7 +34341,7 @@ var contents = {
 "children": {
 "MapIcon":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [320],
 "memberKind": "Constructor"
 }
@@ -34384,7 +34384,7 @@ var contents = {
 ,
 "MapPolygon":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [320],
 "memberKind": "Constructor"
 }
@@ -34423,7 +34423,7 @@ var contents = {
 ,
 "MapPolyline":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [320],
 "memberKind": "Constructor"
 }
@@ -34495,7 +34495,7 @@ var contents = {
 ,
 "StreetsideExperience":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [323],
 "memberKind": "Constructor"
 }
@@ -35217,7 +35217,7 @@ var contents = {
 ,
 "SelectionChangedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [868,
 609,
 607,
@@ -35299,7 +35299,7 @@ var contents = {
 ,
 "StackPanel":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [332],
 "memberKind": "Constructor"
 }
@@ -35428,7 +35428,7 @@ var contents = {
 ,
 "SymbolIcon":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [471,
 420,
 421,
@@ -35441,7 +35441,7 @@ var contents = {
 ,
 "TextBlock":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [617,
 618,
 423,
@@ -35619,7 +35619,7 @@ var contents = {
 ,
 "ToolTip":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [503],
 "memberKind": "Constructor"
 }
@@ -35728,7 +35728,7 @@ var contents = {
 "children": {
 "Binding":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [841,
 498],
 "memberKind": "Constructor"
@@ -35738,7 +35738,7 @@ var contents = {
 ,
 "LoadMoreItemsResult":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [882],
 "memberKind": "Constructor"
 }
@@ -35752,7 +35752,7 @@ var contents = {
 ,
 "PropertyChangedEventArgs":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [259,
 498,
 818,
@@ -35855,7 +35855,7 @@ var contents = {
 ,
 "DispatcherTimer":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [344,
 59,
 364,
@@ -35990,7 +35990,7 @@ var contents = {
 ,
 "Bold":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [400],
 "memberKind": "Constructor"
 }
@@ -36020,7 +36020,7 @@ var contents = {
 ,
 "LineBreak":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [400],
 "memberKind": "Constructor"
 }
@@ -36029,7 +36029,7 @@ var contents = {
 ,
 "Paragraph":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [585],
 "memberKind": "Constructor"
 }
@@ -36043,7 +36043,7 @@ var contents = {
 ,
 "Run":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [400,
 149,
 585,
@@ -36070,7 +36070,7 @@ var contents = {
 ,
 "Span":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [400],
 "memberKind": "Constructor"
 }
@@ -36381,7 +36381,7 @@ var contents = {
 ,
 "GridLength":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [586,
 891],
 "memberKind": "Constructor"
@@ -36431,7 +36431,7 @@ var contents = {
 "children": {
 "DoubleTappedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [759],
 "memberKind": "Constructor"
 }
@@ -36502,7 +36502,7 @@ var contents = {
 ,
 "HoldingEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [759],
 "memberKind": "Constructor"
 }
@@ -36557,7 +36557,7 @@ var contents = {
 ,
 "ManipulationCompletedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [480],
 "memberKind": "Constructor"
 }
@@ -36566,7 +36566,7 @@ var contents = {
 ,
 "ManipulationDeltaEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [480],
 "memberKind": "Constructor"
 }
@@ -36594,7 +36594,7 @@ var contents = {
 ,
 "ManipulationInertiaStartingEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [480],
 "memberKind": "Constructor"
 }
@@ -36632,7 +36632,7 @@ var contents = {
 ,
 "ManipulationStartedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [480],
 "memberKind": "Constructor"
 }
@@ -36656,7 +36656,7 @@ var contents = {
 ,
 "PointerEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [759,
 332,
 893],
@@ -36692,7 +36692,7 @@ var contents = {
 ,
 "RightTappedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [759],
 "memberKind": "Constructor"
 }
@@ -36720,7 +36720,7 @@ var contents = {
 ,
 "TappedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [759],
 "memberKind": "Constructor"
 }
@@ -36757,7 +36757,7 @@ var contents = {
 ,
 "NotifyCollectionChangedEventArgs":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [409,
 412],
 "memberKind": "Constructor"
@@ -36773,7 +36773,7 @@ var contents = {
 "children": {
 "DoubleAnimationUsingKeyFrames":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [739],
 "memberKind": "Constructor"
 }
@@ -36796,7 +36796,7 @@ var contents = {
 ,
 "DrillInNavigationTransitionInfo":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [522,
 855,
 767,
@@ -36810,7 +36810,7 @@ var contents = {
 ,
 "EntranceNavigationTransitionInfo":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [522,
 523],
 "memberKind": "Constructor"
@@ -36826,7 +36826,7 @@ var contents = {
 ,
 "EntranceThemeTransition":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [855,
 861],
 "memberKind": "Constructor"
@@ -36836,7 +36836,7 @@ var contents = {
 ,
 "FadeOutThemeAnimation":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [783],
 "memberKind": "Constructor"
 }
@@ -36845,7 +36845,7 @@ var contents = {
 ,
 "KeySpline":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [739],
 "memberKind": "Constructor"
 }
@@ -36854,7 +36854,7 @@ var contents = {
 ,
 "SplineDoubleKeyFrame":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [739],
 "memberKind": "Constructor"
 }
@@ -36878,7 +36878,7 @@ var contents = {
 ,
 "Storyboard":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [783,
 739],
 "memberKind": "Constructor"
@@ -36931,7 +36931,7 @@ var contents = {
 ,
 "SuppressNavigationTransitionInfo":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [522,
 855,
 523,
@@ -37024,7 +37024,7 @@ var contents = {
 ,
 "CompositeTransform":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [480,
 481],
 "memberKind": "Constructor"
@@ -37073,7 +37073,7 @@ var contents = {
 ,
 "DoubleCollection":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [484],
 "memberKind": "Constructor"
 }
@@ -37082,7 +37082,7 @@ var contents = {
 ,
 "FontFamily":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [568,
 569,
 904,
@@ -37122,7 +37122,7 @@ var contents = {
 ,
 "ImageBrush":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [583,
 187],
 "memberKind": "Constructor"
@@ -37146,7 +37146,7 @@ var contents = {
 "children": {
 "BitmapImage":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [186,
 129,
 259,
@@ -37168,7 +37168,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [665,
 693,
 233,
@@ -37218,7 +37218,7 @@ var contents = {
 ,
 "RenderTargetBitmap":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [148],
 "memberKind": "Constructor"
 }
@@ -37247,7 +37247,7 @@ var contents = {
 ,
 "SoftwareBitmapSource":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [190],
 "memberKind": "Constructor"
 }
@@ -37261,7 +37261,7 @@ var contents = {
 ,
 "WriteableBitmap":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [583,
 187,
 196,
@@ -37311,7 +37311,7 @@ var contents = {
 ,
 "MatrixTransform":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [480,
 481],
 "memberKind": "Constructor"
@@ -37422,7 +37422,7 @@ var contents = {
 ,
 "RotateTransform":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [189,
 191,
 192,
@@ -37462,7 +37462,7 @@ var contents = {
 ,
 "ScaleTransform":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [196,
 157],
 "memberKind": "Constructor"
@@ -37501,7 +37501,7 @@ var contents = {
 ,
 "SolidColorBrush":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [506,
 507,
 508,
@@ -37611,7 +37611,7 @@ var contents = {
 ,
 "TransformGroup":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [480,
 481,
 739],
@@ -37635,7 +37635,7 @@ var contents = {
 ,
 "TranslateTransform":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [332,
 739],
 "memberKind": "Constructor"
@@ -37872,7 +37872,7 @@ var contents = {
 ,
 "PageStackEntry":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [737,
 740,
 497,
@@ -37919,7 +37919,7 @@ var contents = {
 ,
 "PrintDocument":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [500],
 "memberKind": "Constructor"
 }
@@ -37974,7 +37974,7 @@ var contents = {
 ,
 "PropertyChangedCallback":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [449,
 490],
 "memberKind": "Constructor"
@@ -37984,7 +37984,7 @@ var contents = {
 ,
 "PropertyMetadata":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [849,
 884,
 841,
@@ -38010,7 +38010,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [841,
 488,
 152,
@@ -38026,7 +38026,7 @@ var contents = {
 ,
 "PropertyPath":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [841,
 498],
 "memberKind": "Constructor"
@@ -38036,7 +38036,7 @@ var contents = {
 ,
 "RoutedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [128,
 129,
 130,
@@ -38085,7 +38085,7 @@ var contents = {
 "children": {
 "Polyline":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [484],
 "memberKind": "Constructor"
 }
@@ -38099,7 +38099,7 @@ var contents = {
 ,
 "Rectangle":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [583,
 187,
 188,
@@ -38205,7 +38205,7 @@ var contents = {
 ,
 "SuspendingEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [261,
 279,
 264,
@@ -38244,17 +38244,17 @@ var contents = {
 ,
 "Thickness":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [113],
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [755],
 "memberKind": "Constructor"
 }
 ,
-".ctor`4":{
+":ctor`4":{
 "files": [583,
 187,
 188,
@@ -39032,7 +39032,7 @@ var contents = {
 ,
 "WindowActivatedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [127],
 "memberKind": "Constructor"
 }
@@ -39041,7 +39041,7 @@ var contents = {
 ,
 "WindowSizeChangedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [512,
 41],
 "memberKind": "Constructor"
@@ -39051,7 +39051,7 @@ var contents = {
 ,
 "WindowVisibilityChangedEventHandler":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [345,
 346,
 344,
@@ -39090,7 +39090,7 @@ var contents = {
 "children": {
 "HttpBaseProtocolFilter":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [450,
 455,
 915,
@@ -39201,7 +39201,7 @@ var contents = {
 "children": {
 "HttpContentHeaderCollection":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [205],
 "memberKind": "Constructor"
 }
@@ -39221,7 +39221,7 @@ var contents = {
 ,
 "HttpCredentialsHeaderValue":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [634],
 "memberKind": "Constructor"
 }
@@ -39230,7 +39230,7 @@ var contents = {
 ,
 "HttpMediaTypeHeaderValue":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [205],
 "memberKind": "Constructor"
 }
@@ -39249,7 +39249,7 @@ var contents = {
 ,
 "HttpProductInfoHeaderValue":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [450],
 "memberKind": "Constructor"
 }
@@ -39302,7 +39302,7 @@ var contents = {
 ,
 "HttpClient":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [618,
 464,
 211,
@@ -39312,7 +39312,7 @@ var contents = {
 "memberKind": "Constructor"
 }
 ,
-".ctor`1":{
+":ctor`1":{
 "files": [450,
 455,
 456,
@@ -39398,7 +39398,7 @@ var contents = {
 ,
 "HttpCookie":{
 "members": {
-".ctor`3":{
+":ctor`3":{
 "files": [915,
 916],
 "memberKind": "Constructor"
@@ -39495,7 +39495,7 @@ var contents = {
 ,
 "HttpMultipartFormDataContent":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [461],
 "memberKind": "Constructor"
 }
@@ -39562,7 +39562,7 @@ var contents = {
 ,
 "HttpRequestMessage":{
 "members": {
-".ctor`2":{
+":ctor`2":{
 "files": [456,
 458,
 460,
@@ -39646,7 +39646,7 @@ var contents = {
 ,
 "HttpStreamContent":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [460,
 464],
 "memberKind": "Constructor"
@@ -39661,13 +39661,13 @@ var contents = {
 ,
 "HttpStringContent":{
 "members": {
-".ctor`1":{
+":ctor`1":{
 "files": [459,
 461],
 "memberKind": "Constructor"
 }
 ,
-".ctor`2":{
+":ctor`2":{
 "files": [634],
 "memberKind": "Constructor"
 }
@@ -39733,7 +39733,7 @@ var contents = {
 ,
 "SyndicationClient":{
 "members": {
-".ctor`0":{
+":ctor`0":{
 "files": [741],
 "memberKind": "Constructor"
 }
