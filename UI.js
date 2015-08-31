@@ -93,7 +93,7 @@ MemberNode.prototype.populateNode = function populateNode() {
 };
 
 function autoNavigate(target) {
-    var pieces = target.split(".");
+    var pieces = decodeURIComponent(target).split(".");
     var current = contents;
     contents.node.openNode();
     pieces.forEach(function (name) {
