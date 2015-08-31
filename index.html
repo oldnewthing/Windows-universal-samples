@@ -23,7 +23,11 @@ li {
     <script src="dirs.js"></script>
     <script src="UI.js"></script>
     <script>
-        initNode(idTree, contents, true);
+        new ContainerNode(idTree, contents);
+        contents.node.openNode();
+        if (window.location.hash) {
+            autoNavigate(window.location.hash.substring(1));
+        }
     </script>
 </body>
 </html>
