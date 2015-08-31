@@ -75,19 +75,28 @@ function MemberNode(rootElement, contents) {
 
 MemberNode.prototype = new ApiNode;
 
+function createAnchor(href, text) {
+    var anchor = document.createElement("a");
+    anchor.innerText = text;
+    anchor.href = href;
+    anchor.target = "_blank";
+    return anchor;
+}
+
 MemberNode.prototype.populateNode = function populateNode() {
     this.list = document.createElement("ul");
     this.list.style.display = "none";
     this.element.appendChild(this.list);
-    this.contents.files.forEach(function (fileIndex) {
-        var entry = fileTable[fileIndex];
+    this.contents.files.forEach(function (fileEntry) {
+        var entry = fileTable[fileEntry[0]];
         var file = dirTable[entry[0]] + "/" + entry[1];
         var item = document.createElement("li");
-        var anchor = document.createElement("a");
-        anchor.innerText =file;
-        anchor.href = "https://github.com/Microsoft/Windows-universal-samples/blob/v1.0.4/Samples/" + file;
-        anchor.target = "_blank";
-        item.appendChild(anchor);
+        var href = "https://github.com/Microsoft/Windows-universal-samples/blob/v1.0.4/Samples/" + file;
+        item.appendChild(createAnchor(href, file));
+        fileEntry[1].forEach(function (lineNumber) {
+            item.appendChild(document.createTextNode(" "));
+            item.appendChild(createAnchor(href + "#L" + lineNumber, lineNumber));
+        }, this);
         this.list.appendChild(item);
     }, this);
 };

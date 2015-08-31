@@ -9,31 +9,41 @@ var contents = {
 "ActivationKind":{
 "members": {
 "Device":{
-"files": [0],
+"files": [
+[0, [164]]
+],
 "memberKind": "Field"
 }
 ,
 "DialReceiver":{
-"files": [1],
+"files": [
+[1, [122]]
+],
 "memberKind": "Field"
 }
 ,
 "Protocol":{
-"files": [2,
-3,
-4,
-5],
+"files": [
+[2, [137]],
+[3, [200]],
+[4, [71]],
+[5, [37]]
+],
 "memberKind": "Field"
 }
 ,
 "ToastNotification":{
-"files": [6,
-7],
+"files": [
+[6, [44]],
+[7, [70]]
+],
 "memberKind": "Field"
 }
 ,
 "VoiceCommand":{
-"files": [3],
+"files": [
+[3, [159]]
+],
 "memberKind": "Field"
 }
 }
@@ -42,40 +52,46 @@ var contents = {
 "ApplicationExecutionState":{
 "members": {
 "NotRunning":{
-"files": [0],
+"files": [
+[0, [72]]
+],
 "memberKind": "Field"
 }
 ,
 "Running":{
-"files": [8],
+"files": [
+[8, [57]]
+],
 "memberKind": "Field"
 }
 ,
 "Terminated":{
-"files": [1,
-9,
-2,
-10,
-11,
-12,
-0,
-13,
-14,
-15,
-16,
-17,
-8,
-18,
-19,
-20,
-21,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [70]],
+[9, [66]],
+[2, [66]],
+[10, [67]],
+[11, [66]],
+[12, [39]],
+[0, [72]],
+[13, [77]],
+[14, [68]],
+[15, [67]],
+[16, [69]],
+[17, [58]],
+[8, [59]],
+[18, [63]],
+[19, [60]],
+[20, [68]],
+[21, [50]],
+[22, [69]],
+[23, [65]],
+[24, [68]],
+[25, [68]],
+[26, [68]],
+[27, [58]],
+[28, [95]]
+],
 "memberKind": "Field"
 }
 }
@@ -84,7 +100,9 @@ var contents = {
 "CachedFileUpdaterActivatedEventArgs":{
 "members": {
 "CachedFileUpdaterUI":{
-"files": [29],
+"files": [
+[29, [51]]
+],
 "memberKind": "Property"
 }
 }
@@ -93,7 +111,9 @@ var contents = {
 "DeviceActivatedEventArgs":{
 "members": {
 "DeviceInformationId":{
-"files": [30],
+"files": [
+[30, [742]]
+],
 "memberKind": "Property"
 }
 }
@@ -102,7 +122,9 @@ var contents = {
 "DialReceiverActivatedEventArgs":{
 "members": {
 "Arguments":{
-"files": [31],
+"files": [
+[31, [52]]
+],
 "memberKind": "Property"
 }
 }
@@ -111,7 +133,9 @@ var contents = {
 "FileOpenPickerActivatedEventArgs":{
 "members": {
 "FileOpenPickerUI":{
-"files": [32],
+"files": [
+[32, [52]]
+],
 "memberKind": "Property"
 }
 }
@@ -120,7 +144,9 @@ var contents = {
 "FileSavePickerActivatedEventArgs":{
 "members": {
 "FileSavePickerUI":{
-"files": [33],
+"files": [
+[33, [50]]
+],
 "memberKind": "Property"
 }
 }
@@ -129,19 +155,23 @@ var contents = {
 "IActivatedEventArgs":{
 "members": {
 "Kind":{
-"files": [1,
-2,
-3,
-0,
-4,
-7,
-5],
+"files": [
+[1, [122]],
+[2, [137]],
+[3, [159,200]],
+[0, [164]],
+[4, [71]],
+[7, [70]],
+[5, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "PreviousExecutionState":{
-"files": [4,
-14],
+"files": [
+[4, [91]],
+[14, [68]]
+],
 "memberKind": "Property"
 }
 }
@@ -150,71 +180,79 @@ var contents = {
 "LaunchActivatedEventArgs":{
 "members": {
 "Arguments":{
-"files": [1,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-0,
-13,
-15,
-16,
-17,
-18,
-19,
-20,
-21,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [93]],
+[9, [80]],
+[2, [80]],
+[10, [81]],
+[34, [71]],
+[35, [71]],
+[36, [71]],
+[37, [71]],
+[38, [71]],
+[3, [77,86]],
+[11, [80]],
+[0, [131]],
+[13, [56,86,87,90,98]],
+[15, [81]],
+[16, [83]],
+[17, [77]],
+[18, [77]],
+[19, [74]],
+[20, [82]],
+[21, [64]],
+[22, [82]],
+[23, [79]],
+[24, [82]],
+[25, [82]],
+[26, [86,90]],
+[27, [72]],
+[28, [112]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentlyShownApplicationViewId":{
-"files": [4],
+"files": [
+[4, [53]]
+],
 "memberKind": "Property"
 }
 ,
 "PreviousExecutionState":{
-"files": [1,
-9,
-2,
-10,
-11,
-12,
-0,
-39,
-13,
-15,
-16,
-17,
-8,
-18,
-19,
-20,
-21,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [70]],
+[9, [66]],
+[2, [66]],
+[10, [67]],
+[11, [66]],
+[12, [39]],
+[0, [72]],
+[39, [62]],
+[13, [77]],
+[15, [67]],
+[16, [69]],
+[17, [58]],
+[8, [57,59]],
+[18, [63]],
+[19, [60]],
+[20, [68]],
+[21, [50]],
+[22, [69]],
+[23, [65]],
+[24, [68]],
+[25, [68]],
+[26, [68]],
+[27, [58]],
+[28, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "SplashScreen":{
-"files": [8],
+"files": [
+[8, [60]]
+],
 "memberKind": "Property"
 }
 }
@@ -223,14 +261,18 @@ var contents = {
 "ProtocolActivatedEventArgs":{
 "members": {
 "CurrentlyShownApplicationViewId":{
-"files": [4],
+"files": [
+[4, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "Uri":{
-"files": [3,
-4,
-5],
+"files": [
+[3, [207]],
+[4, [83,94]],
+[5, [74]]
+],
 "memberKind": "Property"
 }
 }
@@ -239,7 +281,9 @@ var contents = {
 "ShareTargetActivatedEventArgs":{
 "members": {
 "ShareOperation":{
-"files": [40],
+"files": [
+[40, [44]]
+],
 "memberKind": "Property"
 }
 }
@@ -248,12 +292,16 @@ var contents = {
 "SplashScreen":{
 "members": {
 "Dismissed":{
-"files": [41],
+"files": [
+[41, [50]]
+],
 "memberKind": "?"
 }
 ,
 "ImageLocation":{
-"files": [41],
+"files": [
+[41, [53,89]]
+],
 "memberKind": "Property"
 }
 }
@@ -262,16 +310,20 @@ var contents = {
 "ToastNotificationActivatedEventArgs":{
 "members": {
 "Argument":{
-"files": [42,
-6,
-7],
+"files": [
+[42, [73]],
+[6, [57,115]],
+[7, [80]]
+],
 "memberKind": "Property"
 }
 ,
 "UserInput":{
-"files": [42,
-6,
-7],
+"files": [
+[42, [84]],
+[6, [65,126]],
+[7, [84,91]]
+],
 "memberKind": "Property"
 }
 }
@@ -280,7 +332,9 @@ var contents = {
 "VoiceCommandActivatedEventArgs":{
 "members": {
 "Result":{
-"files": [3],
+"files": [
+[3, [165]]
+],
 "memberKind": "Property"
 }
 }
@@ -293,69 +347,95 @@ var contents = {
 "Appointment":{
 "members": {
 ":ctor`0":{
-"files": [43,
-44,
-45],
+"files": [
+[43, [36]],
+[44, [36]],
+[45, [45]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AllDay":{
-"files": [43],
+"files": [
+[43, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "BusyStatus":{
-"files": [43],
+"files": [
+[43, [105,108,111,114,117]]
+],
 "memberKind": "?"
 }
 ,
 "Details":{
-"files": [43],
+"files": [
+[43, [62,64]]
+],
 "memberKind": "Property"
 }
 ,
 "Duration":{
-"files": [43],
+"files": [
+[43, [73,78]]
+],
 "memberKind": "Property"
 }
 ,
 "Invitees":{
-"files": [43],
+"files": [
+[43, [240]]
+],
 "memberKind": "Property"
 }
 ,
 "Location":{
-"files": [43],
+"files": [
+[43, [54,56]]
+],
 "memberKind": "Property"
 }
 ,
 "Organizer":{
-"files": [43],
+"files": [
+[43, [173]]
+],
 "memberKind": "?"
 }
 ,
 "Reminder":{
-"files": [43],
+"files": [
+[43, [90,93,96]]
+],
 "memberKind": "Property"
 }
 ,
 "Sensitivity":{
-"files": [43],
+"files": [
+[43, [125,128]]
+],
 "memberKind": "?"
 }
 ,
 "StartTime":{
-"files": [43],
+"files": [
+[43, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "Subject":{
-"files": [43],
+"files": [
+[43, [46,48]]
+],
 "memberKind": "Property"
 }
 ,
 "Uri":{
-"files": [43],
+"files": [
+[43, [137]]
+],
 "memberKind": "Property"
 }
 }
@@ -364,27 +444,37 @@ var contents = {
 "AppointmentBusyStatus":{
 "members": {
 "Busy":{
-"files": [43],
+"files": [
+[43, [105]]
+],
 "memberKind": "Field"
 }
 ,
 "Free":{
-"files": [43],
+"files": [
+[43, [111]]
+],
 "memberKind": "Field"
 }
 ,
 "OutOfOffice":{
-"files": [43],
+"files": [
+[43, [114]]
+],
 "memberKind": "Field"
 }
 ,
 "Tentative":{
-"files": [43],
+"files": [
+[43, [108]]
+],
 "memberKind": "Field"
 }
 ,
 "WorkingElsewhere":{
-"files": [43],
+"files": [
+[43, [117]]
+],
 "memberKind": "Field"
 }
 }
@@ -393,7 +483,9 @@ var contents = {
 "AppointmentCalendar":{
 "members": {
 "SyncManager":{
-"files": [46],
+"files": [
+[46, [92,94]]
+],
 "memberKind": "Property"
 }
 }
@@ -402,7 +494,9 @@ var contents = {
 "AppointmentCalendarSyncManager":{
 "members": {
 "Status":{
-"files": [46],
+"files": [
+[46, [94]]
+],
 "memberKind": "Property"
 }
 }
@@ -411,17 +505,23 @@ var contents = {
 "AppointmentCalendarSyncStatus":{
 "members": {
 "AuthenticationError":{
-"files": [46],
+"files": [
+[46, [96]]
+],
 "memberKind": "Field"
 }
 ,
 "PolicyError":{
-"files": [46],
+"files": [
+[46, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "UnknownError":{
-"files": [46],
+"files": [
+[46, [98]]
+],
 "memberKind": "Field"
 }
 }
@@ -430,42 +530,58 @@ var contents = {
 "AppointmentDaysOfWeek":{
 "members": {
 "Friday":{
-"files": [47],
+"files": [
+[47, [105]]
+],
 "memberKind": "Field"
 }
 ,
 "Monday":{
-"files": [47],
+"files": [
+[47, [101]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [47],
+"files": [
+[47, [111]]
+],
 "memberKind": "Field"
 }
 ,
 "Saturday":{
-"files": [47],
+"files": [
+[47, [106]]
+],
 "memberKind": "Field"
 }
 ,
 "Sunday":{
-"files": [47],
+"files": [
+[47, [100]]
+],
 "memberKind": "Field"
 }
 ,
 "Thursday":{
-"files": [47],
+"files": [
+[47, [104]]
+],
 "memberKind": "Field"
 }
 ,
 "Tuesday":{
-"files": [47],
+"files": [
+[47, [102]]
+],
 "memberKind": "Field"
 }
 ,
 "Wednesday":{
-"files": [47],
+"files": [
+[47, [103]]
+],
 "memberKind": "Field"
 }
 }
@@ -474,27 +590,37 @@ var contents = {
 "AppointmentInvitee":{
 "members": {
 ":ctor`0":{
-"files": [43],
+"files": [
+[43, [182]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Address":{
-"files": [43],
+"files": [
+[43, [194,196,200]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [43],
+"files": [
+[43, [185,187]]
+],
 "memberKind": "Property"
 }
 ,
 "Response":{
-"files": [43],
+"files": [
+[43, [224,227,230,233,236]]
+],
 "memberKind": "?"
 }
 ,
 "Role":{
-"files": [43],
+"files": [
+[43, [210,213,216]]
+],
 "memberKind": "?"
 }
 }
@@ -503,32 +629,44 @@ var contents = {
 "AppointmentManager":{
 "members": {
 "ShowAddAppointmentAsync`3":{
-"files": [44],
+"files": [
+[44, [44]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowRemoveAppointmentAsync`3":{
-"files": [48],
+"files": [
+[48, [61]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowRemoveAppointmentAsync`4":{
-"files": [48],
+"files": [
+[48, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowReplaceAppointmentAsync`4":{
-"files": [45],
+"files": [
+[45, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowReplaceAppointmentAsync`5":{
-"files": [45],
+"files": [
+[45, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowTimeFrameAsync`2":{
-"files": [49],
+"files": [
+[49, [37]]
+],
 "memberKind": "Method"
 }
 }
@@ -537,17 +675,23 @@ var contents = {
 "AppointmentOrganizer":{
 "members": {
 ":ctor`0":{
-"files": [43],
+"files": [
+[43, [149]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Address":{
-"files": [43],
+"files": [
+[43, [161,163,167]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [43],
+"files": [
+[43, [152,154]]
+],
 "memberKind": "Property"
 }
 }
@@ -556,27 +700,37 @@ var contents = {
 "AppointmentParticipantResponse":{
 "members": {
 "Accepted":{
-"files": [43],
+"files": [
+[43, [230]]
+],
 "memberKind": "Field"
 }
 ,
 "Declined":{
-"files": [43],
+"files": [
+[43, [233]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [43],
+"files": [
+[43, [224]]
+],
 "memberKind": "Field"
 }
 ,
 "Tentative":{
-"files": [43],
+"files": [
+[43, [227]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [43],
+"files": [
+[43, [236]]
+],
 "memberKind": "Field"
 }
 }
@@ -585,17 +739,23 @@ var contents = {
 "AppointmentParticipantRole":{
 "members": {
 "OptionalAttendee":{
-"files": [43],
+"files": [
+[43, [213]]
+],
 "memberKind": "Field"
 }
 ,
 "RequiredAttendee":{
-"files": [43],
+"files": [
+[43, [210]]
+],
 "memberKind": "Field"
 }
 ,
 "Resource":{
-"files": [43],
+"files": [
+[43, [216]]
+],
 "memberKind": "Field"
 }
 }
@@ -604,47 +764,65 @@ var contents = {
 "AppointmentRecurrence":{
 "members": {
 ":ctor`0":{
-"files": [47],
+"files": [
+[47, [36]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Day":{
-"files": [47],
+"files": [
+[47, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "DaysOfWeek":{
-"files": [47],
+"files": [
+[47, [100,101,102,103,104,105,106,111]]
+],
 "memberKind": "Property"
 }
 ,
 "Interval":{
-"files": [47],
+"files": [
+[47, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "Month":{
-"files": [47],
+"files": [
+[47, [117]]
+],
 "memberKind": "Property"
 }
 ,
 "Occurrences":{
-"files": [47],
+"files": [
+[47, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "Unit":{
-"files": [47],
+"files": [
+[47, [42,45,48,51,54,57,108,109,110]]
+],
 "memberKind": "Property"
 }
 ,
 "Until":{
-"files": [47],
+"files": [
+[47, [72]]
+],
 "memberKind": "Property"
 }
 ,
 "WeekOfMonth":{
-"files": [47],
+"files": [
+[47, [82,85,88,91,94]]
+],
 "memberKind": "?"
 }
 }
@@ -653,32 +831,44 @@ var contents = {
 "AppointmentRecurrenceUnit":{
 "members": {
 "Daily":{
-"files": [47],
+"files": [
+[47, [42]]
+],
 "memberKind": "Field"
 }
 ,
 "Monthly":{
-"files": [47],
+"files": [
+[47, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "MonthlyOnDay":{
-"files": [47],
+"files": [
+[47, [51,109]]
+],
 "memberKind": "Field"
 }
 ,
 "Weekly":{
-"files": [47],
+"files": [
+[47, [45,108]]
+],
 "memberKind": "Field"
 }
 ,
 "Yearly":{
-"files": [47],
+"files": [
+[47, [54]]
+],
 "memberKind": "Field"
 }
 ,
 "YearlyOnDay":{
-"files": [47],
+"files": [
+[47, [57,110]]
+],
 "memberKind": "Field"
 }
 }
@@ -687,12 +877,16 @@ var contents = {
 "AppointmentSensitivity":{
 "members": {
 "Private":{
-"files": [43],
+"files": [
+[43, [128]]
+],
 "memberKind": "Field"
 }
 ,
 "Public":{
-"files": [43],
+"files": [
+[43, [125]]
+],
 "memberKind": "Field"
 }
 }
@@ -701,27 +895,37 @@ var contents = {
 "AppointmentWeekOfMonth":{
 "members": {
 "First":{
-"files": [47],
+"files": [
+[47, [82]]
+],
 "memberKind": "Field"
 }
 ,
 "Fourth":{
-"files": [47],
+"files": [
+[47, [91]]
+],
 "memberKind": "Field"
 }
 ,
 "Last":{
-"files": [47],
+"files": [
+[47, [94]]
+],
 "memberKind": "Field"
 }
 ,
 "Second":{
-"files": [47],
+"files": [
+[47, [85]]
+],
 "memberKind": "Field"
 }
 ,
 "Third":{
-"files": [47],
+"files": [
+[47, [88]]
+],
 "memberKind": "Field"
 }
 }
@@ -734,55 +938,71 @@ var contents = {
 "AppServiceConnection":{
 "members": {
 ":ctor`0":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [52]],
+[51, [66]],
+[52, [67]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AppServiceName":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [53,78]],
+[51, [69,92]],
+[52, [71]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [50,
-52],
+"files": [
+[50, [87,99,115]],
+[52, [25]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenAsync`0":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [56]],
+[51, [71]],
+[52, [75]]
+],
 "memberKind": "Method"
 }
 ,
 "PackageFamilyName":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [54]],
+[51, [70]],
+[52, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestReceived":{
-"files": [53,
-54],
+"files": [
+[53, [28]],
+[54, [37]]
+],
 "memberKind": "?"
 }
 ,
 "SendMessageAsync`1":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [158]],
+[51, [104]],
+[52, [37,57]]
+],
 "memberKind": "Method"
 }
 ,
 "ServiceClosed":{
-"files": [50,
-52],
+"files": [
+[50, [55]],
+[52, [69]]
+],
 "memberKind": "?"
 }
 }
@@ -791,33 +1011,43 @@ var contents = {
 "AppServiceConnectionStatus":{
 "members": {
 "AppNotInstalled":{
-"files": [50,
-51],
+"files": [
+[50, [69]],
+[51, [83]]
+],
 "memberKind": "Field"
 }
 ,
 "AppServiceUnavailable":{
-"files": [50,
-51],
+"files": [
+[50, [77]],
+[51, [91]]
+],
 "memberKind": "Field"
 }
 ,
 "AppUnavailable":{
-"files": [50,
-51],
+"files": [
+[50, [73]],
+[51, [87]]
+],
 "memberKind": "Field"
 }
 ,
 "Success":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [59]],
+[51, [74]],
+[52, [77]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [50,
-51],
+"files": [
+[50, [81]],
+[51, [95]]
+],
 "memberKind": "Field"
 }
 }
@@ -826,8 +1056,10 @@ var contents = {
 "AppServiceDeferral":{
 "members": {
 "Complete`0":{
-"files": [53,
-55],
+"files": [
+[53, [63]],
+[55, [135,165,190]]
+],
 "memberKind": "Method"
 }
 }
@@ -836,14 +1068,18 @@ var contents = {
 "AppServiceRequest":{
 "members": {
 "Message":{
-"files": [53,
-54],
+"files": [
+[53, [48]],
+[54, [48]]
+],
 "memberKind": "Property"
 }
 ,
 "SendResponseAsync`1":{
-"files": [53,
-55],
+"files": [
+[53, [57]],
+[55, [128,160,185]]
+],
 "memberKind": "Method"
 }
 }
@@ -852,14 +1088,18 @@ var contents = {
 "AppServiceRequestReceivedEventArgs":{
 "members": {
 "GetDeferral`0":{
-"files": [53,
-54],
+"files": [
+[53, [44]],
+[54, [42]]
+],
 "memberKind": "Method"
 }
 ,
 "Request":{
-"files": [53,
-54],
+"files": [
+[53, [48,57]],
+[54, [47,54,62,70,76]]
+],
 "memberKind": "Property"
 }
 }
@@ -868,16 +1108,20 @@ var contents = {
 "AppServiceResponse":{
 "members": {
 "Message":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [163,169]],
+[51, [108,110]],
+[52, [41,43]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [161,184]],
+[51, [107,126]],
+[52, [39]]
+],
 "memberKind": "Property"
 }
 }
@@ -886,27 +1130,35 @@ var contents = {
 "AppServiceResponseStatus":{
 "members": {
 "Failure":{
-"files": [50,
-51],
+"files": [
+[50, [186]],
+[51, [128]]
+],
 "memberKind": "Field"
 }
 ,
 "ResourceLimitsExceeded":{
-"files": [50,
-51],
+"files": [
+[50, [190]],
+[51, [132]]
+],
 "memberKind": "Field"
 }
 ,
 "Success":{
-"files": [50,
-51,
-52],
+"files": [
+[50, [161]],
+[51, [107]],
+[52, [39]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [50,
-51],
+"files": [
+[50, [194]],
+[51, [136]]
+],
 "memberKind": "Field"
 }
 }
@@ -915,13 +1167,17 @@ var contents = {
 "AppServiceTriggerDetails":{
 "members": {
 "AppServiceConnection":{
-"files": [53,
-54],
+"files": [
+[53, [25]],
+[54, [34]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [56],
+"files": [
+[56, [109]]
+],
 "memberKind": "Property"
 }
 }
@@ -934,12 +1190,16 @@ var contents = {
 "ActivitySensorTrigger":{
 "members": {
 ":ctor`1":{
-"files": [57],
+"files": [
+[57, [157]]
+],
 "memberKind": "Constructor"
 }
 ,
 "SubscribedActivities":{
-"files": [57],
+"files": [
+[57, [159,160,161]]
+],
 "memberKind": "Property"
 }
 }
@@ -948,12 +1208,16 @@ var contents = {
 "ApplicationTrigger":{
 "members": {
 ":ctor`0":{
-"files": [58],
+"files": [
+[58, [69]]
+],
 "memberKind": "Constructor"
 }
 ,
 "RequestAsync`0":{
-"files": [58],
+"files": [
+[58, [104]]
+],
 "memberKind": "Method"
 }
 }
@@ -962,44 +1226,52 @@ var contents = {
 "BackgroundAccessStatus":{
 "members": {
 "AllowedMayUseActiveRealTimeConnectivity":{
-"files": [57,
-59,
-60,
-61,
-62,
-63,
-64,
-65],
+"files": [
+[57, [83]],
+[59, [150]],
+[60, [49,76]],
+[61, [93]],
+[62, [79]],
+[63, [82]],
+[64, [59]],
+[65, [70]]
+],
 "memberKind": "Field"
 }
 ,
 "AllowedWithAlwaysOnRealTimeConnectivity":{
-"files": [57,
-59,
-60,
-61,
-62,
-63,
-64,
-65],
+"files": [
+[57, [82]],
+[59, [149]],
+[60, [46,73]],
+[61, [94]],
+[62, [79]],
+[63, [82]],
+[64, [59]],
+[65, [70]]
+],
 "memberKind": "Field"
 }
 ,
 "Denied":{
-"files": [66,
-67,
-68,
-69,
-60],
+"files": [
+[66, [253]],
+[67, [230]],
+[68, [69,146]],
+[69, [79,158]],
+[60, [52,79]]
+],
 "memberKind": "Field"
 }
 ,
 "Unspecified":{
-"files": [66,
-67,
-68,
-69,
-60],
+"files": [
+[66, [253]],
+[67, [230]],
+[68, [68,145]],
+[69, [78,157]],
+[60, [33,55,82]]
+],
 "memberKind": "Field"
 }
 }
@@ -1008,33 +1280,39 @@ var contents = {
 "BackgroundExecutionManager":{
 "members": {
 "GetAccessStatus`0":{
-"files": [68,
-69,
-60],
+"files": [
+[68, [64]],
+[69, [75]],
+[60, [71]]
+],
 "memberKind": "Method"
 }
 ,
 "RemoveAccess`0":{
-"files": [60,
-61],
+"files": [
+[60, [65]],
+[61, [88]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestAccessAsync`0":{
-"files": [57,
-59,
-70,
-66,
-67,
-71,
-68,
-69,
-60,
-61,
-62,
-63,
-64,
-65],
+"files": [
+[57, [80]],
+[59, [147]],
+[70, [81]],
+[66, [231]],
+[67, [211]],
+[71, [155]],
+[68, [119]],
+[69, [124]],
+[60, [36]],
+[61, [91]],
+[62, [76]],
+[63, [79]],
+[64, [56]],
+[65, [67]]
+],
 "memberKind": "Method"
 }
 }
@@ -1043,111 +1321,125 @@ var contents = {
 "BackgroundTaskBuilder":{
 "members": {
 ":ctor`0":{
-"files": [57,
-59,
-70,
-72,
-66,
-67,
-71,
-73,
-74,
-68,
-69,
-61,
-62,
-63,
-64,
-65,
-75,
-76],
+"files": [
+[57, [150]],
+[59, [214]],
+[70, [84]],
+[72, [117]],
+[66, [238]],
+[67, [218]],
+[71, [159]],
+[73, [118]],
+[74, [108]],
+[68, [124]],
+[69, [129]],
+[61, [54]],
+[62, [83]],
+[63, [86]],
+[64, [63]],
+[65, [74]],
+[75, [179]],
+[76, [56]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddCondition`1":{
-"files": [70,
-74],
+"files": [
+[70, [92]],
+[74, [116]]
+],
 "memberKind": "Method"
 }
 ,
 "CancelOnConditionLoss":{
-"files": [70,
-74],
+"files": [
+[70, [98]],
+[74, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [70,
-66,
-67,
-71,
-73,
-74,
-68,
-69,
-61,
-75,
-76],
+"files": [
+[70, [86]],
+[66, [241]],
+[67, [221]],
+[71, [161]],
+[73, [119]],
+[74, [110]],
+[68, [126]],
+[69, [131]],
+[61, [55]],
+[75, [191]],
+[76, [57]]
+],
 "memberKind": "Property"
 }
 ,
 "Register`0":{
-"files": [57,
-59,
-70,
-72,
-66,
-67,
-71,
-73,
-74,
-68,
-69,
-61,
-62,
-63,
-64,
-65,
-75,
-76],
+"files": [
+[57, [165]],
+[59, [221]],
+[70, [101]],
+[72, [121]],
+[66, [247]],
+[67, [224]],
+[71, [164]],
+[73, [123]],
+[74, [123]],
+[68, [136]],
+[69, [147]],
+[61, [58]],
+[62, [93]],
+[63, [96]],
+[64, [73]],
+[65, [84]],
+[75, [194]],
+[76, [61]]
+],
 "memberKind": "Method"
 }
 ,
 "SetTrigger`1":{
-"files": [57,
-59,
-70,
-72,
-66,
-67,
-71,
-73,
-74,
-68,
-69,
-61,
-62,
-63,
-64,
-65,
-75,
-76],
+"files": [
+[57, [163]],
+[59, [220]],
+[70, [88]],
+[72, [119]],
+[66, [240]],
+[67, [220]],
+[71, [163]],
+[73, [121]],
+[74, [112]],
+[68, [133]],
+[69, [138]],
+[61, [57]],
+[62, [90]],
+[63, [93]],
+[64, [70]],
+[65, [81]],
+[75, [185]],
+[76, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "TaskEntryPoint":{
-"files": [70,
-72,
-66,
-67,
-71,
-73,
-74,
-68,
-69,
-61,
-75,
-76],
+"files": [
+[70, [87]],
+[72, [118]],
+[66, [239]],
+[67, [219]],
+[71, [162]],
+[73, [120]],
+[74, [111]],
+[68, [127]],
+[69, [132]],
+[61, [56]],
+[75, [188]],
+[76, [58]]
+],
 "memberKind": "Property"
 }
 }
@@ -1156,14 +1448,16 @@ var contents = {
 "BackgroundTaskCanceledEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [77,
-78,
-79,
-80,
-81,
-82,
-83,
-84],
+"files": [
+[77, [32]],
+[78, [131]],
+[79, [46]],
+[80, [55]],
+[81, [38]],
+[82, [51]],
+[83, [45]],
+[84, [38]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1172,14 +1466,18 @@ var contents = {
 "BackgroundTaskCancellationReason":{
 "members": {
 "Abort":{
-"files": [80],
+"files": [
+[80, [29]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [77,
-79,
-80],
+"files": [
+[77, [68]],
+[79, [60]],
+[80, [100]]
+],
 "memberKind": "Method"
 }
 }
@@ -1188,12 +1486,14 @@ var contents = {
 "BackgroundTaskCompletedEventArgs":{
 "members": {
 "CheckResult`0":{
-"files": [57,
-59,
-71,
-68,
-69,
-75],
+"files": [
+[57, [136]],
+[59, [309]],
+[71, [262]],
+[68, [230]],
+[69, [239]],
+[75, [238]]
+],
 "memberKind": "Method"
 }
 }
@@ -1202,17 +1502,19 @@ var contents = {
 "BackgroundTaskCompletedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [57,
-59,
-85,
-86,
-87,
-88,
-58,
-71,
-73,
-74,
-75],
+"files": [
+[57, [166]],
+[59, [224]],
+[85, [93]],
+[86, [94]],
+[87, [93]],
+[88, [93]],
+[58, [116]],
+[71, [167]],
+[73, [124]],
+[74, [145]],
+[75, [99,197]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1221,18 +1523,20 @@ var contents = {
 "BackgroundTaskDeferral":{
 "members": {
 "Complete`0":{
-"files": [53,
-78,
-79,
-80,
-56,
-82,
-89,
-90,
-91,
-54,
-92,
-55],
+"files": [
+[53, [36]],
+[78, [140,182]],
+[79, [71]],
+[80, [106]],
+[56, [467,484]],
+[82, [88]],
+[89, [51]],
+[90, [63]],
+[91, [72,77]],
+[54, [92,101]],
+[92, [33]],
+[55, [224]]
+],
 "memberKind": "Method"
 }
 }
@@ -1241,14 +1545,16 @@ var contents = {
 "BackgroundTaskProgressEventArgs":{
 "members": {
 "Progress":{
-"files": [85,
-86,
-87,
-88,
-58,
-71,
-61,
-65],
+"files": [
+[85, [103]],
+[86, [104]],
+[87, [103]],
+[88, [103]],
+[58, [126]],
+[71, [325]],
+[61, [99]],
+[65, [94]]
+],
 "memberKind": "Property"
 }
 }
@@ -1257,13 +1563,15 @@ var contents = {
 "BackgroundTaskProgressEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [85,
-86,
-87,
-88,
-58,
-71,
-74],
+"files": [
+[85, [92]],
+[86, [93]],
+[87, [92]],
+[88, [92]],
+[58, [115]],
+[71, [168]],
+[74, [144]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1272,68 +1580,80 @@ var contents = {
 "BackgroundTaskRegistration":{
 "members": {
 "AllTasks":{
-"files": [57,
-59,
-70,
-85,
-86,
-87,
-88,
-58,
-66,
-67,
-71,
-73,
-74,
-68,
-69,
-61,
-62,
-63,
-64,
-65,
-75,
-76],
+"files": [
+[57, [52,111]],
+[59, [268]],
+[70, [124]],
+[85, [46]],
+[86, [47]],
+[87, [46]],
+[88, [46]],
+[58, [49]],
+[66, [124,198]],
+[67, [104,178]],
+[71, [123]],
+[73, [43,110]],
+[74, [55,130]],
+[68, [48]],
+[69, [57]],
+[61, [39]],
+[62, [100]],
+[63, [153]],
+[64, [80]],
+[65, [181]],
+[75, [93,212]],
+[76, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "Completed":{
-"files": [57,
-78,
-59,
-71,
-63,
-75],
+"files": [
+[57, [166]],
+[78, [130]],
+[59, [224]],
+[71, [167]],
+[63, [99]],
+[75, [197]]
+],
 "memberKind": "?"
 }
 ,
 "Name":{
-"files": [77,
-78,
-80,
-81,
-93,
-83,
-84],
+"files": [
+[77, [28,67]],
+[78, [89]],
+[80, [41,77,95,101]],
+[81, [33,61,67,80]],
+[93, [97,135]],
+[83, [32,34,37,77,212]],
+[84, [34,51,103]]
+],
 "memberKind": "Property"
 }
 ,
 "Progress":{
-"files": [71,
-65],
+"files": [
+[71, [168]],
+[65, [87]]
+],
 "memberKind": "?"
 }
 ,
 "TaskId":{
-"files": [78,
-84,
-91],
+"files": [
+[78, [139,152]],
+[84, [49,101]],
+[91, [59]]
+],
 "memberKind": "Property"
 }
 ,
 "Unregister`1":{
-"files": [59,
-71],
+"files": [
+[59, [188,272,327]],
+[71, [98,138,311]]
+],
 "memberKind": "Method"
 }
 }
@@ -1342,7 +1662,9 @@ var contents = {
 "BackgroundWorkCost":{
 "members": {
 "CurrentBackgroundWorkCost":{
-"files": [80],
+"files": [
+[80, [48]]
+],
 "memberKind": "Property"
 }
 }
@@ -1351,7 +1673,9 @@ var contents = {
 "BackgroundWorkCostValue":{
 "members": {
 "ToString`0":{
-"files": [80],
+"files": [
+[80, [50]]
+],
 "memberKind": "Method"
 }
 }
@@ -1360,12 +1684,16 @@ var contents = {
 "BluetoothLEAdvertisementPublisherTrigger":{
 "members": {
 ":ctor`0":{
-"files": [67],
+"files": [
+[67, [55]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Advertisement":{
-"files": [67],
+"files": [
+[67, [78]]
+],
 "memberKind": "Property"
 }
 }
@@ -1374,17 +1702,23 @@ var contents = {
 "BluetoothLEAdvertisementWatcherTrigger":{
 "members": {
 ":ctor`0":{
-"files": [66],
+"files": [
+[66, [54]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AdvertisementFilter":{
-"files": [66],
+"files": [
+[66, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "SignalStrengthFilter":{
-"files": [66],
+"files": [
+[66, [93,97,101,106]]
+],
 "memberKind": "Property"
 }
 }
@@ -1393,25 +1727,33 @@ var contents = {
 "DeviceTriggerResult":{
 "members": {
 "Allowed":{
-"files": [59,
-71],
+"files": [
+[59, [233]],
+[71, [208]]
+],
 "memberKind": "Field"
 }
 ,
 "DeniedBySystem":{
-"files": [59,
-71],
+"files": [
+[59, [242]],
+[71, [222]]
+],
 "memberKind": "Field"
 }
 ,
 "DeniedByUser":{
-"files": [71],
+"files": [
+[71, [217]]
+],
 "memberKind": "Field"
 }
 ,
 "LowBattery":{
-"files": [59,
-71],
+"files": [
+[59, [238]],
+[71, [212]]
+],
 "memberKind": "Field"
 }
 }
@@ -1420,14 +1762,18 @@ var contents = {
 "DeviceUseTrigger":{
 "members": {
 ":ctor`0":{
-"files": [59,
-71],
+"files": [
+[59, [44]],
+[71, [69]]
+],
 "memberKind": "Constructor"
 }
 ,
 "RequestAsync`1":{
-"files": [59,
-71],
+"files": [
+[59, [229]],
+[71, [189]]
+],
 "memberKind": "Method"
 }
 }
@@ -1436,74 +1782,84 @@ var contents = {
 "IBackgroundTaskInstance":{
 "members": {
 "Canceled":{
-"files": [77,
-53,
-78,
-79,
-80,
-81,
-56,
-82,
-83,
-90,
-84,
-54,
-92],
+"files": [
+[77, [32]],
+[53, [19]],
+[78, [131]],
+[79, [46]],
+[80, [55]],
+[81, [38]],
+[56, [93]],
+[82, [51]],
+[83, [45]],
+[90, [30]],
+[84, [38]],
+[54, [32]],
+[92, [26]]
+],
 "memberKind": "?"
 }
 ,
 "GetDeferral`0":{
-"files": [53,
-78,
-79,
-80,
-56,
-82,
-89,
-90,
-91,
-54,
-92],
+"files": [
+[53, [17]],
+[78, [124]],
+[79, [43]],
+[80, [60]],
+[56, [88]],
+[82, [43]],
+[89, [37]],
+[90, [25]],
+[91, [32]],
+[54, [29]],
+[92, [22]]
+],
 "memberKind": "Method"
 }
 ,
 "Progress":{
-"files": [80,
-81,
-82,
-83,
-94,
-95],
+"files": [
+[80, [88]],
+[81, [57]],
+[82, [47,109,121,140,143,162]],
+[83, [70]],
+[94, [26]],
+[95, [15]]
+],
 "memberKind": "Property"
 }
 ,
 "Task":{
-"files": [77,
-78,
-80,
-81,
-93,
-83,
-84,
-91],
+"files": [
+[77, [28,67]],
+[78, [89,130,152]],
+[80, [41,77,95,101]],
+[81, [33,61,67,80]],
+[93, [97,135]],
+[83, [32,34,37,77,212]],
+[84, [34,49,51,101,103]],
+[91, [59]]
+],
 "memberKind": "Property"
 }
 ,
 "TriggerDetails":{
-"files": [77,
-53,
-72,
-93,
-56,
-82,
-96,
-94,
-97,
-95,
-98,
-84,
-91,
-54],
+"files": [
+[77, [35]],
+[53, [24]],
+[72, [34]],
+[93, [39,115]],
+[56, [95]],
+[82, [41]],
+[96, [25]],
+[94, [13]],
+[97, [11]],
+[95, [10]],
+[98, [11]],
+[84, [58]],
+[91, [35]],
+[54, [28]]
+],
 "memberKind": "Property"
 }
 }
@@ -1512,50 +1868,60 @@ var contents = {
 "IBackgroundTaskRegistration":{
 "members": {
 "Completed":{
-"files": [85,
-86,
-87,
-88,
-58,
-66,
-67,
-73,
-74,
-68,
-69,
-75],
+"files": [
+[85, [93]],
+[86, [94]],
+[87, [93]],
+[88, [93]],
+[58, [116]],
+[66, [129,136,165,182,203,210,250]],
+[67, [109,116,145,162,183,190,227]],
+[73, [124]],
+[74, [145]],
+[68, [60,103,139]],
+[69, [71,150]],
+[75, [99]]
+],
 "memberKind": "?"
 }
 ,
 "Name":{
-"files": [74,
-75],
+"files": [
+[74, [58,133]],
+[75, [96]]
+],
 "memberKind": "Property"
 }
 ,
 "Progress":{
-"files": [85,
-86,
-87,
-88,
-58,
-74],
+"files": [
+[85, [92]],
+[86, [93]],
+[87, [92]],
+[88, [92]],
+[58, [115]],
+[74, [144]]
+],
 "memberKind": "?"
 }
 ,
 "TaskId":{
-"files": [75,
-76],
+"files": [
+[75, [242]],
+[76, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "Unregister`1":{
-"files": [66,
-67,
-73,
-74,
-68,
-69],
+"files": [
+[66, [288]],
+[67, [253]],
+[73, [147]],
+[74, [135]],
+[68, [203]],
+[69, [215]]
+],
 "memberKind": "Method"
 }
 }
@@ -1564,7 +1930,9 @@ var contents = {
 "LocationTrigger":{
 "members": {
 ":ctor`1":{
-"files": [69],
+"files": [
+[69, [135]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1573,8 +1941,21 @@ var contents = {
 "LocationTriggerType":{
 "members": {
 "Geofence":{
-"files": [69],
+"files": [
+[69, [135]]
+],
 "memberKind": "Field"
+}
+}
+}
+,
+"SmartCardTrigger":{
+"members": {
+":ctor`1":{
+"files": [
+[61, [57]]
+],
+"memberKind": "Constructor"
 }
 }
 }
@@ -1582,7 +1963,9 @@ var contents = {
 "SmsMessageReceivedTrigger":{
 "members": {
 ":ctor`1":{
-"files": [75],
+"files": [
+[75, [182]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1591,7 +1974,9 @@ var contents = {
 "SocketActivityTrigger":{
 "members": {
 ":ctor`0":{
-"files": [76],
+"files": [
+[76, [59]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1600,7 +1985,9 @@ var contents = {
 "SystemCondition":{
 "members": {
 ":ctor`1":{
-"files": [86],
+"files": [
+[86, [70]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1609,7 +1996,9 @@ var contents = {
 "SystemConditionType":{
 "members": {
 "InternetAvailable":{
-"files": [86],
+"files": [
+[86, [70]]
+],
 "memberKind": "Field"
 }
 }
@@ -1618,10 +2007,12 @@ var contents = {
 "SystemTrigger":{
 "members": {
 ":ctor`2":{
-"files": [85,
-86,
-87,
-74],
+"files": [
+[85, [68]],
+[86, [69]],
+[87, [68]],
+[74, [99]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1630,18 +2021,24 @@ var contents = {
 "SystemTriggerType":{
 "members": {
 "ServicingComplete":{
-"files": [87],
+"files": [
+[87, [68]]
+],
 "memberKind": "Field"
 }
 ,
 "TimeZoneChange":{
-"files": [85,
-86],
+"files": [
+[85, [68]],
+[86, [69]]
+],
 "memberKind": "Field"
 }
 ,
 "UserAway":{
-"files": [74],
+"files": [
+[74, [99]]
+],
 "memberKind": "Field"
 }
 }
@@ -1650,8 +2047,10 @@ var contents = {
 "TimeTrigger":{
 "members": {
 ":ctor`2":{
-"files": [88,
-68],
+"files": [
+[88, [68]],
+[68, [130]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1660,8 +2059,10 @@ var contents = {
 "ToastNotificationActionTrigger":{
 "members": {
 ":ctor`0":{
-"files": [62,
-63],
+"files": [
+[62, [90]],
+[63, [93]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1670,9 +2071,492 @@ var contents = {
 "ToastNotificationHistoryChangedTrigger":{
 "members": {
 ":ctor`0":{
-"files": [64,
-65],
+"files": [
+[64, [70]],
+[65, [81]]
+],
 "memberKind": "Constructor"
+}
+}
+}
+}
+}
+,
+"Calls":{
+"children": {
+"PhoneCallManager":{
+"members": {
+"CallStateChanged":{
+"files": [
+[99, [133]]
+],
+"memberKind": "?"
+}
+,
+"IsCallActive":{
+"files": [
+[99, [135]]
+],
+"memberKind": "Property"
+}
+,
+"IsCallIncoming":{
+"files": [
+[99, [135]]
+],
+"memberKind": "Property"
+}
+,
+"RequestStoreAsync`0":{
+"files": [
+[99, [149,187]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"PhoneCallStore":{
+"members": {
+"GetDefaultLineAsync`0":{
+"files": [
+[99, [188]]
+],
+"memberKind": "Method"
+}
+,
+"RequestLineWatcher`0":{
+"files": [
+[99, [152]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"PhoneLine":{
+"members": {
+"CellularDetails":{
+"files": [
+[99, [198]],
+[100, [78]]
+],
+"memberKind": "Property"
+}
+,
+"Dial`2":{
+"files": [
+[99, [89]]
+],
+"memberKind": "Method"
+}
+,
+"DisplayColor":{
+"files": [
+[99, [207]]
+],
+"memberKind": "Property"
+}
+,
+"DisplayName":{
+"files": [
+[99, [204]]
+],
+"memberKind": "Property"
+}
+,
+"FromIdAsync`1":{
+"files": [
+[99, [155,189]]
+],
+"memberKind": "Method"
+}
+,
+"Id":{
+"files": [
+[99, [174]]
+],
+"memberKind": "Property"
+}
+,
+"LineConfiguration":{
+"files": [
+[99, [256]]
+],
+"memberKind": "Property"
+}
+,
+"NetworkName":{
+"files": [
+[99, [278,282,286]]
+],
+"memberKind": "Property"
+}
+,
+"NetworkState":{
+"files": [
+[99, [252,253]]
+],
+"memberKind": "Property"
+}
+,
+"Transport":{
+"files": [
+[99, [172]]
+],
+"memberKind": "Property"
+}
+,
+"Voicemail":{
+"files": [
+[99, [210,213]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"PhoneLineCellularDetails":{
+"members": {
+"SimSlotIndex":{
+"files": [
+[99, [201]],
+[100, [78]]
+],
+"memberKind": "Property"
+}
+,
+"SimState":{
+"files": [
+[99, [219]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"PhoneLineConfiguration":{
+"members": {
+"ExtendedProperties":{
+"files": [
+[99, [256]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"PhoneLineTransport":{
+"members": {
+"Cellular":{
+"files": [
+[99, [172]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"PhoneLineWatcher":{
+"members": {
+"EnumerationCompleted":{
+"files": [
+[99, [157]]
+],
+"memberKind": "?"
+}
+,
+"LineAdded":{
+"files": [
+[99, [155]]
+],
+"memberKind": "?"
+}
+,
+"Start`0":{
+"files": [
+[99, [158]]
+],
+"memberKind": "Method"
+}
+,
+"Stop`0":{
+"files": [
+[99, [166]]
+],
+"memberKind": "Method"
+}
+,
+"Stopped":{
+"files": [
+[99, [156]]
+],
+"memberKind": "?"
+}
+}
+}
+,
+"PhoneNetworkState":{
+"members": {
+"Denied":{
+"files": [
+[99, [270]]
+],
+"memberKind": "Field"
+}
+,
+"Deregistered":{
+"files": [
+[99, [267]]
+],
+"memberKind": "Field"
+}
+,
+"Home":{
+"files": [
+[99, [276]]
+],
+"memberKind": "Field"
+}
+,
+"NoSignal":{
+"files": [
+[99, [255]]
+],
+"memberKind": "Field"
+}
+,
+"RoamingDomestic":{
+"files": [
+[99, [284]]
+],
+"memberKind": "Field"
+}
+,
+"RoamingInternational":{
+"files": [
+[99, [280]]
+],
+"memberKind": "Field"
+}
+,
+"Searching":{
+"files": [
+[99, [273]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"PhoneSimState":{
+"members": {
+"Disabled":{
+"files": [
+[99, [243]]
+],
+"memberKind": "Field"
+}
+,
+"Invalid":{
+"files": [
+[99, [240]]
+],
+"memberKind": "Field"
+}
+,
+"NotInserted":{
+"files": [
+[99, [237]]
+],
+"memberKind": "Field"
+}
+,
+"PinLocked":{
+"files": [
+[99, [231]]
+],
+"memberKind": "Field"
+}
+,
+"PinNotRequired":{
+"files": [
+[99, [225]]
+],
+"memberKind": "Field"
+}
+,
+"PinUnlocked":{
+"files": [
+[99, [228]]
+],
+"memberKind": "Field"
+}
+,
+"PukLocked":{
+"files": [
+[99, [234]]
+],
+"memberKind": "Field"
+}
+,
+"Unknown":{
+"files": [
+[99, [222]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"PhoneVoicemail":{
+"members": {
+"MessageCount":{
+"files": [
+[99, [213]]
+],
+"memberKind": "Property"
+}
+,
+"Number":{
+"files": [
+[99, [210]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"VoipCallCoordinator":{
+"members": {
+"GetDefault`0":{
+"files": [
+[101, [60,83,118]]
+],
+"memberKind": "Method"
+}
+,
+"RequestNewIncomingCall`10":{
+"files": [
+[101, [119]]
+],
+"memberKind": "Method"
+}
+,
+"RequestNewOutgoingCall`4":{
+"files": [
+[101, [84]]
+],
+"memberKind": "Method"
+}
+,
+"ReserveCallResourcesAsync`1":{
+"files": [
+[101, [65]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"VoipPhoneCall":{
+"members": {
+"AnswerRequested":{
+"files": [
+[101, [132]]
+],
+"memberKind": "?"
+}
+,
+"EndRequested":{
+"files": [
+[101, [87,133]]
+],
+"memberKind": "?"
+}
+,
+"HoldRequested":{
+"files": [
+[101, [88,134]]
+],
+"memberKind": "?"
+}
+,
+"NotifyCallActive`0":{
+"files": [
+[54, [107,127]],
+[55, [152]],
+[101, [92,156,184]]
+],
+"memberKind": "Method"
+}
+,
+"NotifyCallEnded`0":{
+"files": [
+[54, [112,122]],
+[55, [212]],
+[101, [164,178]]
+],
+"memberKind": "Method"
+}
+,
+"NotifyCallHeld`0":{
+"files": [
+[54, [117]],
+[101, [171]]
+],
+"memberKind": "Method"
+}
+,
+"RejectRequested":{
+"files": [
+[101, [89,135]]
+],
+"memberKind": "?"
+}
+,
+"ResumeRequested":{
+"files": [
+[101, [90,136]]
+],
+"memberKind": "?"
+}
+,
+"StartTime":{
+"files": [
+[55, [153]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"VoipPhoneCallMedia":{
+"members": {
+"Audio":{
+"files": [
+[101, [84,128]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"VoipPhoneCallResourceReservationStatus":{
+"members": {
+"ResourcesNotAvailable":{
+"files": [
+[55, [242]],
+[101, [26,61]]
+],
+"memberKind": "Field"
+}
+,
+"Success":{
+"files": [
+[101, [32,40]]
+],
+"memberKind": "Field"
 }
 }
 }
@@ -1684,53 +2568,71 @@ var contents = {
 "Contact":{
 "members": {
 ":ctor`0":{
-"files": [99,
-100],
+"files": [
+[102, [40]],
+[103, [42]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Addresses":{
-"files": [100],
+"files": [
+[103, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [101,
-102],
+"files": [
+[104, [33]],
+[105, [172]]
+],
 "memberKind": "Property"
 }
 ,
 "Emails":{
-"files": [99,
-100,
-101],
+"files": [
+[102, [46]],
+[103, [48,67]],
+[104, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
-"files": [100],
+"files": [
+[103, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [102],
+"files": [
+[105, [172]]
+],
 "memberKind": "Property"
 }
 ,
 "LastName":{
-"files": [100],
+"files": [
+[103, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "Phones":{
-"files": [99,
-100,
-101],
+"files": [
+[102, [53]],
+[103, [72,77,82]],
+[104, [42]]
+],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
-"files": [102],
+"files": [
+[105, [173]]
+],
 "memberKind": "Property"
 }
 }
@@ -1739,37 +2641,51 @@ var contents = {
 "ContactAddress":{
 "members": {
 ":ctor`0":{
-"files": [100],
+"files": [
+[103, [84]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Country":{
-"files": [100],
+"files": [
+[103, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "Kind":{
-"files": [100],
+"files": [
+[103, [90]]
+],
 "memberKind": "?"
 }
 ,
 "Locality":{
-"files": [100],
+"files": [
+[103, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "PostalCode":{
-"files": [100],
+"files": [
+[103, [89]]
+],
 "memberKind": "Property"
 }
 ,
 "Region":{
-"files": [100],
+"files": [
+[103, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "StreetAddress":{
-"files": [100],
+"files": [
+[103, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -1778,7 +2694,9 @@ var contents = {
 "ContactAddressKind":{
 "members": {
 "Home":{
-"files": [100],
+"files": [
+[103, [90]]
+],
 "memberKind": "Field"
 }
 }
@@ -1787,7 +2705,9 @@ var contents = {
 "ContactBatch":{
 "members": {
 "Contacts":{
-"files": [102],
+"files": [
+[105, [159,167,170]]
+],
 "memberKind": "Property"
 }
 }
@@ -1796,7 +2716,9 @@ var contents = {
 "ContactCardDelayedDataLoader":{
 "members": {
 "SetData`1":{
-"files": [100],
+"files": [
+[103, [122]]
+],
 "memberKind": "Method"
 }
 }
@@ -1805,7 +2727,9 @@ var contents = {
 "ContactCardHeaderKind":{
 "members": {
 "Enterprise":{
-"files": [100],
+"files": [
+[103, [111]]
+],
 "memberKind": "Field"
 }
 }
@@ -1814,8 +2738,10 @@ var contents = {
 "ContactCardOptions":{
 "members": {
 ":ctor`0":{
-"files": [103,
-100],
+"files": [
+[106, [73]],
+[103, [111]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -1824,7 +2750,9 @@ var contents = {
 "ContactCardTabKind":{
 "members": {
 "Phone":{
-"files": [103],
+"files": [
+[106, [73]]
+],
 "memberKind": "Field"
 }
 }
@@ -1833,20 +2761,26 @@ var contents = {
 "ContactEmail":{
 "members": {
 ":ctor`0":{
-"files": [99,
-100],
+"files": [
+[102, [45]],
+[103, [46,64]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Address":{
-"files": [100,
-101],
+"files": [
+[103, [47,65]],
+[104, [38]]
+],
 "memberKind": "Property"
 }
 ,
 "Kind":{
-"files": [100,
-101],
+"files": [
+[103, [66]],
+[104, [38]]
+],
 "memberKind": "Property"
 }
 }
@@ -1855,7 +2789,9 @@ var contents = {
 "ContactEmailKind":{
 "members": {
 "Work":{
-"files": [100],
+"files": [
+[103, [66]]
+],
 "memberKind": "Field"
 }
 }
@@ -1864,14 +2800,18 @@ var contents = {
 "ContactFieldType":{
 "members": {
 "Email":{
-"files": [104,
-105],
+"files": [
+[107, [58]],
+[108, [62]]
+],
 "memberKind": "Field"
 }
 ,
 "PhoneNumber":{
-"files": [104,
-105],
+"files": [
+[107, [71]],
+[108, [74]]
+],
 "memberKind": "Field"
 }
 }
@@ -1880,7 +2820,9 @@ var contents = {
 "ContactList":{
 "members": {
 "SyncManager":{
-"files": [46],
+"files": [
+[46, [106,108]]
+],
 "memberKind": "Property"
 }
 }
@@ -1889,7 +2831,9 @@ var contents = {
 "ContactListSyncManager":{
 "members": {
 "Status":{
-"files": [46],
+"files": [
+[46, [108]]
+],
 "memberKind": "Property"
 }
 }
@@ -1898,17 +2842,23 @@ var contents = {
 "ContactListSyncStatus":{
 "members": {
 "AuthenticationError":{
-"files": [46],
+"files": [
+[46, [110]]
+],
 "memberKind": "Field"
 }
 ,
 "PolicyError":{
-"files": [46],
+"files": [
+[46, [111]]
+],
 "memberKind": "Field"
 }
 ,
 "UnknownError":{
-"files": [46],
+"files": [
+[46, [112]]
+],
 "memberKind": "Field"
 }
 }
@@ -1917,43 +2867,59 @@ var contents = {
 "ContactManager":{
 "members": {
 "IsShowContactCardSupported`0":{
-"files": [103],
+"files": [
+[106, [32]]
+],
 "memberKind": "Method"
 }
 ,
 "IsShowDelayLoadedContactCardSupported`0":{
-"files": [100],
+"files": [
+[103, [33]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestStoreAsync`1":{
-"files": [102],
+"files": [
+[105, [96]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowContactCard`2":{
-"files": [103],
+"files": [
+[106, [47]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowContactCard`3":{
-"files": [103],
+"files": [
+[106, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowContactCard`4":{
-"files": [103],
+"files": [
+[106, [76]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowDelayLoadedContactCard`4":{
-"files": [100],
+"files": [
+[103, [113]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowFullContactCard`2":{
-"files": [106,
-102],
+"files": [
+[109, [40]],
+[105, [302]]
+],
 "memberKind": "Method"
 }
 }
@@ -1962,20 +2928,26 @@ var contents = {
 "ContactPhone":{
 "members": {
 ":ctor`0":{
-"files": [99,
-100],
+"files": [
+[102, [52]],
+[103, [69,74,79]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Kind":{
-"files": [100,
-101],
+"files": [
+[103, [71,76,81]],
+[104, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "Number":{
-"files": [100,
-101],
+"files": [
+[103, [70,75,80]],
+[104, [44]]
+],
 "memberKind": "Property"
 }
 }
@@ -1984,17 +2956,23 @@ var contents = {
 "ContactPhoneKind":{
 "members": {
 "Home":{
-"files": [100],
+"files": [
+[103, [71]]
+],
 "memberKind": "Field"
 }
 ,
 "Mobile":{
-"files": [100],
+"files": [
+[103, [81]]
+],
 "memberKind": "Field"
 }
 ,
 "Work":{
-"files": [100],
+"files": [
+[103, [76]]
+],
 "memberKind": "Field"
 }
 }
@@ -2003,24 +2981,32 @@ var contents = {
 "ContactPicker":{
 "members": {
 ":ctor`0":{
-"files": [104,
-105],
+"files": [
+[107, [57,70]],
+[108, [60,72]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DesiredFieldsWithContactFieldType":{
-"files": [104,
-105],
+"files": [
+[107, [58,71]],
+[108, [62,74]]
+],
 "memberKind": "Property"
 }
 ,
 "PickContactAsync`0":{
-"files": [104],
+"files": [
+[107, [60,73]]
+],
 "memberKind": "Method"
 }
 ,
 "PickContactsAsync`0":{
-"files": [105],
+"files": [
+[108, [63,75]]
+],
 "memberKind": "Method"
 }
 }
@@ -2029,7 +3015,9 @@ var contents = {
 "ContactQueryOptions":{
 "members": {
 ":ctor`2":{
-"files": [102],
+"files": [
+[105, [134]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -2038,7 +3026,9 @@ var contents = {
 "ContactQuerySearchFields":{
 "members": {
 "All":{
-"files": [102],
+"files": [
+[105, [134]]
+],
 "memberKind": "Field"
 }
 }
@@ -2047,7 +3037,9 @@ var contents = {
 "ContactReader":{
 "members": {
 "ReadBatchAsync`0":{
-"files": [102],
+"files": [
+[105, [158,176]]
+],
 "memberKind": "Method"
 }
 }
@@ -2056,17 +3048,23 @@ var contents = {
 "ContactStore":{
 "members": {
 "GetContactAsync`1":{
-"files": [102],
+"files": [
+[105, [301]]
+],
 "memberKind": "Method"
 }
 ,
 "GetContactReader`0":{
-"files": [102],
+"files": [
+[105, [114,140]]
+],
 "memberKind": "Method"
 }
 ,
 "GetContactReader`1":{
-"files": [102],
+"files": [
+[105, [135]]
+],
 "memberKind": "Method"
 }
 }
@@ -2075,7 +3073,9 @@ var contents = {
 "ContactStoreAccessType":{
 "members": {
 "AllContactsReadOnly":{
-"files": [102],
+"files": [
+[105, [96]]
+],
 "memberKind": "Field"
 }
 }
@@ -2084,13 +3084,17 @@ var contents = {
 "FullContactCardOptions":{
 "members": {
 ":ctor`0":{
-"files": [106,
-102],
+"files": [
+[109, [36]],
+[105, [302]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DesiredRemainingView":{
-"files": [106],
+"files": [
+[109, [37]]
+],
 "memberKind": "?"
 }
 }
@@ -2103,43 +3107,51 @@ var contents = {
 "CoreApplication":{
 "members": {
 "CreateNewView`0":{
-"files": [107,
-108,
-109,
-110,
-111,
-112],
+"files": [
+[110, [120]],
+[111, [229]],
+[112, [72]],
+[113, [54]],
+[114, [87,138]],
+[115, [82]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCurrentView`0":{
-"files": [113,
-114],
+"files": [
+[116, [13]],
+[117, [28,51]]
+],
 "memberKind": "Method"
 }
 ,
 "MainView":{
-"files": [42,
-63,
-6,
-7,
-65,
-102,
-115,
-116,
-117],
+"files": [
+[42, [67]],
+[63, [106]],
+[6, [109]],
+[7, [68]],
+[65, [96]],
+[105, [59]],
+[100, [48]],
+[118, [54,68]],
+[119, [46]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [118,
-119,
-120,
-121,
-122,
-123,
-124,
-125],
+"files": [
+[120, [78,86,127,131,165,187,205,212]],
+[121, [48,85,106,119]],
+[122, [55,63,73,76]],
+[123, [56,59,69,72,80,83,91,92,93]],
+[124, [75,89,90,104,117,143,157]],
+[125, [51,61,74,110,145]],
+[126, [55,63,73,76]],
+[127, [56,59,69,72,80,83,91,92,93]]
+],
 "memberKind": "Property"
 }
 }
@@ -2148,31 +3160,37 @@ var contents = {
 "CoreApplicationView":{
 "members": {
 "CoreWindow":{
-"files": [42,
-63,
-6,
-7,
-65,
-102,
-115,
-116,
-117],
+"files": [
+[42, [67]],
+[63, [106]],
+[6, [109]],
+[7, [68]],
+[65, [96]],
+[105, [59]],
+[100, [48]],
+[118, [54,68]],
+[119, [46]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
-"files": [107,
-108,
-109,
-110,
-111,
-112],
+"files": [
+[110, [120]],
+[111, [229]],
+[112, [72]],
+[113, [54]],
+[114, [87,138]],
+[115, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "TitleBar":{
-"files": [113,
-114],
+"files": [
+[116, [13]],
+[117, [28,51]]
+],
 "memberKind": "Property"
 }
 }
@@ -2181,37 +3199,51 @@ var contents = {
 "CoreApplicationViewTitleBar":{
 "members": {
 "ExtendViewIntoTitleBar":{
-"files": [114],
+"files": [
+[117, [28,51]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [113],
+"files": [
+[116, [141]]
+],
 "memberKind": "Property"
 }
 ,
 "IsVisible":{
-"files": [113],
+"files": [
+[116, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "IsVisibleChanged":{
-"files": [113],
+"files": [
+[116, [23,35]]
+],
 "memberKind": "?"
 }
 ,
 "LayoutMetricsChanged":{
-"files": [113],
+"files": [
+[116, [22,34]]
+],
 "memberKind": "?"
 }
 ,
 "SystemOverlayLeftInset":{
-"files": [113],
+"files": [
+[116, [128,132]]
+],
 "memberKind": "Property"
 }
 ,
 "SystemOverlayRightInset":{
-"files": [113],
+"files": [
+[116, [128,132]]
+],
 "memberKind": "Property"
 }
 }
@@ -2224,32 +3256,40 @@ var contents = {
 "Clipboard":{
 "members": {
 "Clear`0":{
-"files": [126],
+"files": [
+[128, [59]]
+],
 "memberKind": "Method"
 }
 ,
 "ContentChanged":{
-"files": [127],
+"files": [
+[129, [43,48]]
+],
 "memberKind": "?"
 }
 ,
 "GetContent`0":{
-"files": [128,
-129,
-130,
-127,
-131,
-132,
-133],
+"files": [
+[130, [80]],
+[131, [61]],
+[132, [85]],
+[129, [55]],
+[133, [49]],
+[134, [47]],
+[135, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "SetContent`1":{
-"files": [128,
-129,
-130,
-134,
-135],
+"files": [
+[130, [61]],
+[131, [163]],
+[132, [68]],
+[136, [108]],
+[137, [42]]
+],
 "memberKind": "Method"
 }
 }
@@ -2258,94 +3298,120 @@ var contents = {
 "DataPackage":{
 "members": {
 ":ctor`0":{
-"files": [128,
-129,
-130,
-134,
-135],
+"files": [
+[130, [54]],
+[131, [146]],
+[132, [53]],
+[136, [106]],
+[137, [39]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetView`0":{
-"files": [136],
+"files": [
+[138, [45]]
+],
 "memberKind": "Method"
 }
 ,
 "Properties":{
-"files": [135,
-137,
-138,
-139,
-140,
-141,
-136,
-142,
-143,
-144,
-145],
+"files": [
+[137, [41,43]],
+[139, [49,50,51]],
+[140, [46,47,48,54,55,59,60]],
+[141, [52,53,54]],
+[142, [39,40,41,42]],
+[143, [37,38,39]],
+[138, [47,48,49,50]],
+[144, [39,40,41,51]],
+[145, [48]],
+[146, [32,33,34]],
+[147, [35,36,37]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestedOperation":{
-"files": [128,
-146,
-147],
+"files": [
+[130, [58]],
+[148, [86,144]],
+[149, [160]]
+],
 "memberKind": "?"
 }
 ,
 "ResourceMap":{
-"files": [130],
+"files": [
+[132, [63]]
+],
 "memberKind": "Property"
 }
 ,
 "SetApplicationLink`1":{
-"files": [138],
+"files": [
+[140, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "SetBitmap`1":{
-"files": [129,
-142],
+"files": [
+[131, [157]],
+[144, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "SetData`2":{
-"files": [139],
+"files": [
+[141, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "SetDataProvider`2":{
-"files": [129,
-140],
+"files": [
+[131, [152]],
+[142, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "SetHtmlFormat`1":{
-"files": [130],
+"files": [
+[132, [54]]
+],
 "memberKind": "Method"
 }
 ,
 "SetStorageItems`1":{
-"files": [128,
-141,
-142],
+"files": [
+[130, [55]],
+[143, [40]],
+[144, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "SetText`1":{
-"files": [130,
-134,
-135,
-137,
-144,
-146,
-148,
-147],
+"files": [
+[132, [58]],
+[136, [107]],
+[137, [40]],
+[139, [52]],
+[146, [35]],
+[148, [84,142]],
+[150, [41]],
+[149, [161]]
+],
 "memberKind": "Method"
 }
 ,
 "SetWebLink`1":{
-"files": [145],
+"files": [
+[147, [38]]
+],
 "memberKind": "Method"
 }
 }
@@ -2354,29 +3420,37 @@ var contents = {
 "DataPackageOperation":{
 "members": {
 "Copy":{
-"files": [128,
-146,
-148,
-147],
+"files": [
+[130, [58,101]],
+[148, [86,98,124]],
+[150, [76,120]],
+[149, [149,160,183,195]]
+],
 "memberKind": "Field"
 }
 ,
 "Link":{
-"files": [128],
+"files": [
+[130, [104]]
+],
 "memberKind": "Field"
 }
 ,
 "Move":{
-"files": [128,
-146],
+"files": [
+[130, [107]],
+[148, [144,174,194]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [128,
-146,
-148,
-147],
+"files": [
+[130, [110]],
+[148, [98,174]],
+[150, [76,120]],
+[149, [183,195]]
+],
 "memberKind": "Field"
 }
 }
@@ -2385,68 +3459,84 @@ var contents = {
 "DataPackagePropertySet":{
 "members": {
 "ContentSourceApplicationLink":{
-"files": [138,
-139,
-140,
-141,
-136,
-142,
-144,
-145],
+"files": [
+[140, [48]],
+[141, [54]],
+[142, [41]],
+[143, [39]],
+[138, [49]],
+[144, [41]],
+[146, [34]],
+[147, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "ContentSourceWebLink":{
-"files": [136],
+"files": [
+[138, [50]]
+],
 "memberKind": "Property"
 }
 ,
 "Description":{
-"files": [137,
-138,
-139,
-140,
-141,
-136,
-142,
-144,
-145],
+"files": [
+[139, [50]],
+[140, [47]],
+[141, [53]],
+[142, [40]],
+[143, [38]],
+[138, [48]],
+[144, [40]],
+[146, [33]],
+[147, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "EnterpriseId":{
-"files": [135,
-137],
+"files": [
+[137, [41,43]],
+[139, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "LogoBackgroundColor":{
-"files": [138],
+"files": [
+[140, [55,60]]
+],
 "memberKind": "Property"
 }
 ,
 "Square30x30Logo":{
-"files": [138],
+"files": [
+[140, [54,59]]
+],
 "memberKind": "?"
 }
 ,
 "Thumbnail":{
-"files": [140,
-142],
+"files": [
+[142, [42]],
+[144, [51]]
+],
 "memberKind": "?"
 }
 ,
 "Title":{
-"files": [137,
-138,
-139,
-140,
-141,
-136,
-142,
-143,
-144,
-145],
+"files": [
+[139, [49]],
+[140, [46]],
+[141, [52]],
+[142, [39]],
+[143, [37]],
+[138, [47]],
+[144, [39]],
+[145, [48]],
+[146, [32]],
+[147, [35]]
+],
 "memberKind": "Property"
 }
 }
@@ -2455,57 +3545,75 @@ var contents = {
 "DataPackagePropertySetView":{
 "members": {
 "ContentSourceApplicationLink":{
-"files": [149,
-150],
+"files": [
+[151, [91]],
+[152, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "ContentSourceWebLink":{
-"files": [149,
-150],
+"files": [
+[151, [90]],
+[152, [74]]
+],
 "memberKind": "Property"
 }
 ,
 "Description":{
-"files": [149,
-150],
+"files": [
+[151, [88]],
+[152, [72]]
+],
 "memberKind": "Property"
 }
 ,
 "EnterpriseId":{
-"files": [149,
-132,
-133],
+"files": [
+[151, [78]],
+[134, [51]],
+[135, [56,57]]
+],
 "memberKind": "Property"
 }
 ,
 "LogoBackgroundColor":{
-"files": [149,
-150],
+"files": [
+[151, [92]],
+[152, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "PackageFamilyName":{
-"files": [149,
-150],
+"files": [
+[151, [89]],
+[152, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "Square30x30Logo":{
-"files": [149,
-150],
+"files": [
+[151, [93]],
+[152, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
-"files": [149,
-150],
+"files": [
+[151, [94]],
+[152, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [149,
-150],
+"files": [
+[151, [87]],
+[152, [71]]
+],
 "memberKind": "Property"
 }
 }
@@ -2514,103 +3622,131 @@ var contents = {
 "DataPackageView":{
 "members": {
 "AvailableFormats":{
-"files": [127,
-136],
+"files": [
+[129, [58,61]],
+[138, [45]]
+],
 "memberKind": "Property"
 }
 ,
 "Contains`1":{
-"files": [128,
-129,
-130,
-131,
-149,
-132,
-133,
-150,
-146,
-148,
-147],
+"files": [
+[130, [82]],
+[131, [62]],
+[132, [86,105]],
+[133, [50]],
+[151, [100,111,122,133,144,155,175]],
+[134, [48]],
+[135, [50]],
+[152, [84,95,106,117,128,139,159]],
+[148, [98,113,174,188]],
+[150, [75,117]],
+[149, [182,194]]
+],
 "memberKind": "Method"
 }
 ,
 "GetApplicationLinkAsync`0":{
-"files": [149,
-150],
+"files": [
+[151, [115]],
+[152, [99]]
+],
 "memberKind": "Method"
 }
 ,
 "GetBitmapAsync`0":{
-"files": [129,
-149,
-150],
+"files": [
+[131, [67]],
+[151, [179]],
+[152, [163]]
+],
 "memberKind": "Method"
 }
 ,
 "GetHtmlFormatAsync`0":{
-"files": [130,
-149,
-150],
+"files": [
+[132, [112]],
+[151, [159]],
+[152, [143]]
+],
 "memberKind": "Method"
 }
 ,
 "GetResourceMapAsync`0":{
-"files": [130,
-149,
-150],
+"files": [
+[132, [161]],
+[151, [168]],
+[152, [152]]
+],
 "memberKind": "Method"
 }
 ,
 "GetStorageItemsAsync`0":{
-"files": [128,
-149,
-150],
+"files": [
+[130, [87]],
+[151, [137]],
+[152, [121]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTextAsync`0":{
-"files": [130,
-131,
-149,
-133,
-150,
-146,
-148],
+"files": [
+[132, [90]],
+[133, [59]],
+[151, [126]],
+[135, [55]],
+[152, [110]],
+[148, [118,193]],
+[150, [123]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTextAsync`1":{
-"files": [149,
-150],
+"files": [
+[151, [148]],
+[152, [132]]
+],
 "memberKind": "Method"
 }
 ,
 "GetWebLinkAsync`0":{
-"files": [149,
-150],
+"files": [
+[151, [104]],
+[152, [88]]
+],
 "memberKind": "Method"
 }
 ,
 "Properties":{
-"files": [149,
-132,
-133,
-150],
+"files": [
+[151, [78,87,88,89,90,91,92,93,94]],
+[134, [51]],
+[135, [56,57]],
+[152, [71,72,73,74,75,76,77,78]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
-"files": [133],
+"files": [
+[135, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestedOperation":{
-"files": [128],
+"files": [
+[130, [97]]
+],
 "memberKind": "Property"
 }
 ,
 "UnlockAndAssumeEnterpriseIdentity`0":{
-"files": [131],
+"files": [
+[133, [54]]
+],
 "memberKind": "Method"
 }
 }
@@ -2619,8 +3755,10 @@ var contents = {
 "DataProviderDeferral":{
 "members": {
 "Complete`0":{
-"files": [129,
-140],
+"files": [
+[131, [123]],
+[142, [81]]
+],
 "memberKind": "Method"
 }
 }
@@ -2629,14 +3767,18 @@ var contents = {
 "DataProviderRequest":{
 "members": {
 "GetDeferral`0":{
-"files": [129,
-140],
+"files": [
+[131, [101]],
+[142, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "SetData`1":{
-"files": [129,
-140],
+"files": [
+[131, [118]],
+[142, [77]]
+],
 "memberKind": "Method"
 }
 }
@@ -2645,35 +3787,41 @@ var contents = {
 "DataRequest":{
 "members": {
 "Data":{
-"files": [137,
-138,
-139,
-140,
-141,
-136,
-142,
-143,
-144,
-145],
+"files": [
+[139, [49,50,51,52]],
+[140, [45]],
+[141, [51]],
+[142, [38]],
+[143, [36]],
+[138, [51]],
+[144, [38]],
+[145, [48]],
+[146, [31]],
+[147, [34]]
+],
 "memberKind": "Property"
 }
 ,
 "FailWithDisplayText`1":{
-"files": [151,
-138,
-139,
-140,
-141,
-136,
-142,
-143,
-144,
-145],
+"files": [
+[153, [32]],
+[140, [67]],
+[141, [60,65]],
+[142, [48]],
+[143, [45]],
+[138, [57]],
+[144, [57]],
+[145, [50]],
+[146, [40]],
+[147, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeferral`0":{
-"files": [136],
+"files": [
+[138, [36]]
+],
 "memberKind": "Method"
 }
 }
@@ -2682,7 +3830,9 @@ var contents = {
 "DataRequestDeferral":{
 "members": {
 "Complete`0":{
-"files": [136],
+"files": [
+[138, [52,63]]
+],
 "memberKind": "Method"
 }
 }
@@ -2691,8 +3841,10 @@ var contents = {
 "DataRequestedEventArgs":{
 "members": {
 "Request":{
-"files": [137,
-143],
+"files": [
+[139, [48]],
+[145, [44,48,50]]
+],
 "memberKind": "Property"
 }
 }
@@ -2701,20 +3853,26 @@ var contents = {
 "DataTransferManager":{
 "members": {
 "DataRequested":{
-"files": [137,
-143],
+"files": [
+[139, [42]],
+[145, [30,36]]
+],
 "memberKind": "?"
 }
 ,
 "GetForCurrentView`0":{
-"files": [137,
-143],
+"files": [
+[139, [41]],
+[145, [29]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowShareUI`0":{
-"files": [137,
-143],
+"files": [
+[139, [58]],
+[145, [58]]
+],
 "memberKind": "Method"
 }
 }
@@ -2723,14 +3881,18 @@ var contents = {
 "HtmlFormatHelper":{
 "members": {
 "CreateHtmlFormat`1":{
-"files": [130],
+"files": [
+[132, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "GetStaticFragment`1":{
-"files": [130,
-149,
-150],
+"files": [
+[132, [121]],
+[151, [300]],
+[152, [284]]
+],
 "memberKind": "Method"
 }
 }
@@ -2741,38 +3903,50 @@ var contents = {
 "QuickLink":{
 "members": {
 ":ctor`0":{
-"files": [149,
-150],
+"files": [
+[151, [355]],
+[152, [339]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Id":{
-"files": [149,
-150],
+"files": [
+[151, [355]],
+[152, [339]]
+],
 "memberKind": "?"
 }
 ,
 "SupportedDataFormats":{
-"files": [149,
-150],
+"files": [
+[151, [355]],
+[152, [339]]
+],
 "memberKind": "?"
 }
 ,
 "SupportedFileTypes":{
-"files": [149,
-150],
+"files": [
+[151, [355]],
+[152, [339]]
+],
 "memberKind": "?"
 }
 ,
 "Thumbnail":{
-"files": [149,
-150],
+"files": [
+[151, [377]],
+[152, [361]]
+],
 "memberKind": "?"
 }
 ,
 "Title":{
-"files": [149,
-150],
+"files": [
+[151, [355]],
+[152, [339]]
+],
 "memberKind": "?"
 }
 }
@@ -2781,54 +3955,72 @@ var contents = {
 "ShareOperation":{
 "members": {
 "Data":{
-"files": [149,
-150],
+"files": [
+[151, [78,87,88,89,90,91,92,93,94,100,104,111,115,122,126,133,137,144,148,155,159,168,175,179]],
+[152, [71,72,73,74,75,76,77,78,84,88,95,99,106,110,117,121,128,132,139,143,152,159,163]]
+],
 "memberKind": "Property"
 }
 ,
 "DismissUI`0":{
-"files": [149,
-150],
+"files": [
+[151, [396]],
+[152, [380]]
+],
 "memberKind": "Method"
 }
 ,
 "QuickLinkId":{
-"files": [149,
-150],
+"files": [
+[151, [95,214]],
+[152, [79,198]]
+],
 "memberKind": "Property"
 }
 ,
 "ReportCompleted`0":{
-"files": [149,
-150],
+"files": [
+[151, [384,390]],
+[152, [368,374]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportCompleted`1":{
-"files": [149,
-150],
+"files": [
+[151, [378]],
+[152, [362]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportDataRetrieved`0":{
-"files": [149,
-150],
+"files": [
+[151, [423]],
+[152, [401]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportError`1":{
-"files": [149,
-150],
+"files": [
+[151, [435]],
+[152, [407]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportStarted`0":{
-"files": [149],
+"files": [
+[151, [417]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportSubmittedBackgroundTask`0":{
-"files": [149],
+"files": [
+[151, [429]]
+],
 "memberKind": "Method"
 }
 }
@@ -2839,48 +4031,60 @@ var contents = {
 "StandardDataFormats":{
 "members": {
 "ApplicationLink":{
-"files": [149,
-150],
+"files": [
+[151, [111,366]],
+[152, [95,350]]
+],
 "memberKind": "Property"
 }
 ,
 "Bitmap":{
-"files": [129,
-149,
-140,
-150],
+"files": [
+[131, [62,152]],
+[151, [175,367]],
+[142, [43]],
+[152, [159,351]]
+],
 "memberKind": "Property"
 }
 ,
 "Html":{
-"files": [130,
-149,
-150],
+"files": [
+[132, [105]],
+[151, [155,369]],
+[152, [139,353]]
+],
 "memberKind": "Property"
 }
 ,
 "StorageItems":{
-"files": [128,
-149,
-150],
+"files": [
+[130, [82]],
+[151, [133,368]],
+[152, [117,352]]
+],
 "memberKind": "Property"
 }
 ,
 "Text":{
-"files": [130,
-131,
-149,
-133,
-150,
-146,
-148,
-147],
+"files": [
+[132, [86]],
+[133, [50]],
+[151, [122,364]],
+[135, [50]],
+[152, [106,348]],
+[148, [98,113,174,188]],
+[150, [75,117]],
+[149, [182,194]]
+],
 "memberKind": "Property"
 }
 ,
 "WebLink":{
-"files": [149,
-150],
+"files": [
+[151, [100,365]],
+[152, [84,349]]
+],
 "memberKind": "Property"
 }
 }
@@ -2891,7 +4095,9 @@ var contents = {
 "DesignMode":{
 "members": {
 "DesignModeEnabled":{
-"files": [152],
+"files": [
+[154, [62]]
+],
 "memberKind": "Property"
 }
 }
@@ -2902,7 +4108,9 @@ var contents = {
 "EmailMailbox":{
 "members": {
 "SyncManager":{
-"files": [46],
+"files": [
+[46, [78,80]]
+],
 "memberKind": "Property"
 }
 }
@@ -2911,7 +4119,9 @@ var contents = {
 "EmailMailboxSyncManager":{
 "members": {
 "Status":{
-"files": [46],
+"files": [
+[46, [80]]
+],
 "memberKind": "Property"
 }
 }
@@ -2920,17 +4130,23 @@ var contents = {
 "EmailMailboxSyncStatus":{
 "members": {
 "AuthenticationError":{
-"files": [46],
+"files": [
+[46, [82]]
+],
 "memberKind": "Field"
 }
 ,
 "PolicyError":{
-"files": [46],
+"files": [
+[46, [83]]
+],
 "memberKind": "Field"
 }
 ,
 "UnknownError":{
-"files": [46],
+"files": [
+[46, [84]]
+],
 "memberKind": "Field"
 }
 }
@@ -2941,62 +4157,72 @@ var contents = {
 "Package":{
 "members": {
 "Current":{
-"files": [153,
-154,
-155,
-3,
-149,
-156,
-61,
-157,
-158,
-159,
-160,
-150,
-161,
-162,
-52,
-163,
-164,
-165,
-166],
+"files": [
+[155, [37]],
+[156, [39]],
+[157, [119]],
+[3, [96]],
+[151, [376]],
+[158, [74]],
+[61, [77,78,79,80]],
+[159, [116]],
+[160, [61]],
+[161, [37]],
+[162, [37]],
+[152, [360]],
+[163, [218]],
+[164, [215]],
+[52, [73]],
+[165, [25]],
+[166, [48]],
+[167, [95,147]],
+[168, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "Dependencies":{
-"files": [160],
+"files": [
+[162, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [153,
-61,
-158,
-160,
-52,
-163],
+"files": [
+[155, [37]],
+[61, [77,78,79,80]],
+[160, [62]],
+[162, [43]],
+[52, [73]],
+[165, [25]]
+],
 "memberKind": "Property"
 }
 ,
 "InstalledLocation":{
-"files": [154,
-155,
-3,
-149,
-156,
-157,
-159,
-150,
-161,
-162,
-164,
-165,
-166],
+"files": [
+[156, [39]],
+[157, [119]],
+[3, [96]],
+[151, [376]],
+[158, [74]],
+[159, [116]],
+[161, [37]],
+[152, [360]],
+[163, [218]],
+[164, [215]],
+[166, [48]],
+[167, [95,147]],
+[168, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "IsFramework":{
-"files": [158],
+"files": [
+[160, [81]]
+],
 "memberKind": "Property"
 }
 }
@@ -3005,47 +4231,63 @@ var contents = {
 "PackageId":{
 "members": {
 "Architecture":{
-"files": [158],
+"files": [
+[160, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "FamilyName":{
-"files": [153,
-158,
-52],
+"files": [
+[155, [37]],
+[160, [80]],
+[52, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "FullName":{
-"files": [158,
-160],
+"files": [
+[160, [79]],
+[162, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [158],
+"files": [
+[160, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "Publisher":{
-"files": [158,
-163],
+"files": [
+[160, [77]],
+[165, [25]]
+],
 "memberKind": "Property"
 }
 ,
 "PublisherId":{
-"files": [158],
+"files": [
+[160, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "ResourceId":{
-"files": [158],
+"files": [
+[160, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "Version":{
-"files": [61,
-158],
+"files": [
+[61, [77,78,79,80]],
+[160, [74]]
+],
 "memberKind": "Property"
 }
 }
@@ -3054,26 +4296,34 @@ var contents = {
 "PackageVersion":{
 "members": {
 "Build":{
-"files": [61,
-158],
+"files": [
+[61, [77]],
+[160, [37]]
+],
 "memberKind": "Field"
 }
 ,
 "Major":{
-"files": [61,
-158],
+"files": [
+[61, [78]],
+[160, [37]]
+],
 "memberKind": "Field"
 }
 ,
 "Minor":{
-"files": [61,
-158],
+"files": [
+[61, [79]],
+[160, [37]]
+],
 "memberKind": "Field"
 }
 ,
 "Revision":{
-"files": [61,
-158],
+"files": [
+[61, [80]],
+[160, [37]]
+],
 "memberKind": "Field"
 }
 }
@@ -3086,7 +4336,9 @@ var contents = {
 "NamedResource":{
 "members": {
 "ResolveAll`1":{
-"files": [167],
+"files": [
+[169, [97]]
+],
 "memberKind": "Method"
 }
 }
@@ -3095,19 +4347,21 @@ var contents = {
 "ResourceCandidate":{
 "members": {
 "ValueAsString":{
-"files": [168,
-169,
-170,
-171,
-56,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[170, [95,99]],
+[171, [61,67]],
+[172, [67]],
+[173, [93]],
+[56, [161,177,179,199,210,215,229,241,252,360,380,391,395,446]],
+[174, [190,196,202,203,209,210,216,217,223,224,229,230,231,233]],
+[163, [220,256,293,308,360,403,418,433,467]],
+[175, [208,214,220,221,227,228,234,235,241,242,247,248,249,252]],
+[176, [190]],
+[177, [159]],
+[164, [224,247,293,343,421,436,451,485]],
+[178, [140]],
+[179, [139]]
+],
 "memberKind": "Property"
 }
 }
@@ -3116,59 +4370,73 @@ var contents = {
 "ResourceContext":{
 "members": {
 "Clone`0":{
-"files": [167],
+"files": [
+[169, [59]]
+],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`0":{
-"files": [167,
-168,
-169,
-170,
-171,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[169, [59]],
+[170, [55]],
+[171, [36]],
+[172, [65]],
+[173, [55,84]],
+[174, [88]],
+[163, [95]],
+[175, [83]],
+[176, [73]],
+[177, [73]],
+[164, [93]],
+[178, [34]],
+[179, [34]]
+],
 "memberKind": "Method"
 }
 ,
 "GetForViewIndependentUse`0":{
-"files": [168,
-56],
+"files": [
+[170, [76]],
+[56, [101]]
+],
 "memberKind": "Method"
 }
 ,
 "Languages":{
-"files": [171,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[173, [91]],
+[174, [89,147]],
+[163, [96,156]],
+[175, [84,142]],
+[176, [74,122]],
+[177, [74,321]],
+[164, [94,153]],
+[178, [35,139]],
+[179, [35,138]]
+],
 "memberKind": "Property"
 }
 ,
 "QualifierValues":{
-"files": [167,
-169],
+"files": [
+[169, [68,72,76,80]],
+[171, [63]]
+],
 "memberKind": "Property"
 }
 ,
 "Reset`0":{
-"files": [171],
+"files": [
+[173, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "SetGlobalQualifierValue`2":{
-"files": [178],
+"files": [
+[180, [64]]
+],
 "memberKind": "Method"
 }
 }
@@ -3177,38 +4445,42 @@ var contents = {
 "ResourceManager":{
 "members": {
 "Current":{
-"files": [167,
-168,
-169,
-170,
-171,
-56,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[169, [90]],
+[170, [71]],
+[171, [61,67]],
+[172, [66]],
+[173, [92]],
+[56, [98]],
+[174, [91]],
+[163, [98]],
+[175, [86]],
+[176, [76]],
+[177, [76]],
+[164, [96]],
+[178, [37]],
+[179, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "MainResourceMap":{
-"files": [167,
-168,
-169,
-170,
-171,
-56,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[169, [90]],
+[170, [71]],
+[171, [61,67]],
+[172, [66]],
+[173, [92]],
+[56, [98]],
+[174, [91]],
+[163, [98]],
+[175, [86]],
+[176, [76]],
+[177, [76]],
+[164, [96]],
+[178, [37]],
+[179, [37]]
+],
 "memberKind": "Property"
 }
 }
@@ -3217,41 +4489,47 @@ var contents = {
 "ResourceMap":{
 "members": {
 "GetSubtree`1":{
-"files": [167,
-168,
-170,
-171,
-56,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[169, [90]],
+[170, [71]],
+[172, [66]],
+[173, [92]],
+[56, [98]],
+[174, [91]],
+[163, [98]],
+[175, [86]],
+[176, [76]],
+[177, [76]],
+[164, [96]],
+[178, [37]],
+[179, [37]]
+],
 "memberKind": "Method"
 }
 ,
 "GetValue`2":{
-"files": [168,
-169,
-170,
-171,
-56,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[170, [95,99]],
+[171, [61,67]],
+[172, [67]],
+[173, [93]],
+[56, [161,177,179,199,210,215,229,241,252,360,380,391,395,446]],
+[174, [190,196,202,203,209,210,216,217,223,224,229,230,231,233]],
+[163, [220,256,293,308,360,403,418,433,467]],
+[175, [208,214,220,221,227,228,234,235,241,242,247,248,249,252]],
+[176, [190]],
+[177, [159]],
+[164, [224,247,293,343,421,436,451,485]],
+[178, [140]],
+[179, [139]]
+],
 "memberKind": "Method"
 }
 ,
 "TryGetValue`2":{
-"files": [167],
+"files": [
+[169, [95]]
+],
 "memberKind": "Method"
 }
 }
@@ -3262,32 +4540,40 @@ var contents = {
 "ResourceLoader":{
 "members": {
 ":ctor`0":{
-"files": [28,
-179],
+"files": [
+[28, [150]],
+[181, [79,135]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetForCurrentView`0":{
-"files": [180,
-181],
+"files": [
+[182, [54]],
+[183, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`1":{
-"files": [182,
-183,
-184],
+"files": [
+[184, [27]],
+[185, [55]],
+[186, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "GetString`1":{
-"files": [182,
-180,
-181,
-183,
-184,
-28,
-179],
+"files": [
+[184, [29]],
+[182, [55]],
+[183, [56]],
+[185, [56]],
+[186, [56]],
+[28, [162,164,166]],
+[181, [81,137,138]]
+],
 "memberKind": "Method"
 }
 }
@@ -3300,7 +4586,9 @@ var contents = {
 "SearchQueryLinguisticDetails":{
 "members": {
 "QueryTextAlternatives":{
-"files": [185],
+"files": [
+[187, [197]]
+],
 "memberKind": "Property"
 }
 }
@@ -3309,7 +4597,9 @@ var contents = {
 "SearchSuggestionCollection":{
 "members": {
 "AppendQuerySuggestion`1":{
-"files": [185],
+"files": [
+[187, [193,202]]
+],
 "memberKind": "Method"
 }
 }
@@ -3318,12 +4608,16 @@ var contents = {
 "SearchSuggestionsRequest":{
 "members": {
 "GetDeferral`0":{
-"files": [185],
+"files": [
+[187, [179]]
+],
 "memberKind": "Method"
 }
 ,
 "SearchSuggestionCollection":{
-"files": [185],
+"files": [
+[187, [183]]
+],
 "memberKind": "Property"
 }
 }
@@ -3332,7 +4626,9 @@ var contents = {
 "SearchSuggestionsRequestDeferral":{
 "members": {
 "Complete`0":{
-"files": [185],
+"files": [
+[187, [209]]
+],
 "memberKind": "Method"
 }
 }
@@ -3343,42 +4639,44 @@ var contents = {
 "SuspendingDeferral":{
 "members": {
 "Complete`0":{
-"files": [1,
-9,
-186,
-187,
-188,
-189,
-190,
-191,
-192,
-193,
-3,
-11,
-12,
-194,
-195,
-0,
-13,
-14,
-196,
-15,
-16,
-17,
-197,
-198,
-8,
-19,
-20,
-21,
-199,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [163]],
+[9, [107]],
+[188, [233]],
+[189, [139]],
+[190, [147]],
+[191, [101]],
+[192, [94]],
+[193, [117]],
+[194, [94]],
+[195, [99]],
+[3, [133]],
+[11, [107]],
+[12, [34]],
+[196, [455]],
+[197, [402]],
+[0, [158]],
+[13, [125]],
+[14, [134]],
+[198, [127]],
+[15, [108]],
+[16, [110]],
+[17, [115]],
+[199, [121]],
+[200, [109]],
+[8, [88]],
+[19, [101]],
+[20, [109]],
+[21, [91]],
+[201, [92]],
+[22, [110]],
+[23, [106]],
+[24, [109]],
+[25, [109]],
+[26, [118]],
+[27, [99]],
+[28, [145]]
+],
 "memberKind": "Method"
 }
 }
@@ -3387,42 +4685,44 @@ var contents = {
 "SuspendingEventArgs":{
 "members": {
 "SuspendingOperation":{
-"files": [1,
-9,
-186,
-187,
-188,
-189,
-190,
-191,
-192,
-193,
-3,
-11,
-12,
-194,
-195,
-0,
-13,
-14,
-196,
-15,
-16,
-17,
-197,
-198,
-8,
-19,
-20,
-21,
-199,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [161]],
+[9, [105]],
+[188, [217]],
+[189, [132]],
+[190, [140]],
+[191, [95]],
+[192, [88]],
+[193, [111]],
+[194, [88]],
+[195, [93]],
+[3, [132]],
+[11, [105]],
+[12, [32]],
+[196, [448]],
+[197, [397]],
+[0, [156]],
+[13, [123]],
+[14, [132]],
+[198, [121]],
+[15, [106]],
+[16, [108]],
+[17, [102]],
+[199, [98]],
+[200, [90]],
+[8, [86]],
+[19, [99]],
+[20, [107]],
+[21, [89]],
+[201, [90]],
+[22, [108]],
+[23, [104]],
+[24, [107]],
+[25, [107]],
+[26, [116]],
+[27, [97]],
+[28, [143]]
+],
 "memberKind": "Property"
 }
 }
@@ -3431,42 +4731,44 @@ var contents = {
 "SuspendingOperation":{
 "members": {
 "GetDeferral`0":{
-"files": [1,
-9,
-186,
-187,
-188,
-189,
-190,
-191,
-192,
-193,
-3,
-11,
-12,
-194,
-195,
-0,
-13,
-14,
-196,
-15,
-16,
-17,
-197,
-198,
-8,
-19,
-20,
-21,
-199,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [161]],
+[9, [105]],
+[188, [217]],
+[189, [132]],
+[190, [140]],
+[191, [95]],
+[192, [88]],
+[193, [111]],
+[194, [88]],
+[195, [93]],
+[3, [132]],
+[11, [105]],
+[12, [32]],
+[196, [448]],
+[197, [397]],
+[0, [156]],
+[13, [123]],
+[14, [132]],
+[198, [121]],
+[15, [106]],
+[16, [108]],
+[17, [102]],
+[199, [98]],
+[200, [90]],
+[8, [86]],
+[19, [99]],
+[20, [107]],
+[21, [89]],
+[201, [90]],
+[22, [108]],
+[23, [104]],
+[24, [107]],
+[25, [107]],
+[26, [116]],
+[27, [97]],
+[28, [143]]
+],
 "memberKind": "Method"
 }
 }
@@ -3477,28 +4779,38 @@ var contents = {
 "UserDataAccount":{
 "members": {
 "FindAppointmentCalendarsAsync`0":{
-"files": [46],
+"files": [
+[46, [90]]
+],
 "memberKind": "Method"
 }
 ,
 "FindContactListsAsync`0":{
-"files": [46],
+"files": [
+[46, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "FindEmailMailboxesAsync`0":{
-"files": [46],
+"files": [
+[46, [76]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [200,
-46],
+"files": [
+[202, [49]],
+[46, [55]]
+],
 "memberKind": "Property"
 }
 ,
 "UserDisplayName":{
-"files": [201],
+"files": [
+[203, [78]]
+],
 "memberKind": "Property"
 }
 }
@@ -3507,17 +4819,23 @@ var contents = {
 "UserDataAccountContentKinds":{
 "members": {
 "Appointment":{
-"files": [201],
+"files": [
+[203, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "Contact":{
-"files": [201],
+"files": [
+[203, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "Email":{
-"files": [201],
+"files": [
+[203, [48]]
+],
 "memberKind": "Field"
 }
 }
@@ -3526,23 +4844,31 @@ var contents = {
 "UserDataAccountManager":{
 "members": {
 "RequestStoreAsync`1":{
-"files": [202,
-201],
+"files": [
+[204, [36]],
+[203, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowAccountErrorResolverAsync`1":{
-"files": [46],
+"files": [
+[46, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowAccountSettingsAsync`1":{
-"files": [200],
+"files": [
+[202, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowAddAccountAsync`1":{
-"files": [201],
+"files": [
+[203, [48]]
+],
 "memberKind": "Method"
 }
 }
@@ -3551,12 +4877,16 @@ var contents = {
 "UserDataAccountStore":{
 "members": {
 "FindAccountsAsync`0":{
-"files": [202],
+"files": [
+[204, [40]]
+],
 "memberKind": "Method"
 }
 ,
 "GetAccountAsync`1":{
-"files": [201],
+"files": [
+[203, [77]]
+],
 "memberKind": "Method"
 }
 }
@@ -3565,8 +4895,10 @@ var contents = {
 "UserDataAccountStoreAccessType":{
 "members": {
 "AllAccountsReadOnly":{
-"files": [202,
-201],
+"files": [
+[204, [36]],
+[203, [67]]
+],
 "memberKind": "Field"
 }
 }
@@ -3579,12 +4911,16 @@ var contents = {
 "VoiceCommand":{
 "members": {
 "CommandName":{
-"files": [56],
+"files": [
+[56, [123]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [56],
+"files": [
+[56, [126,130]]
+],
 "memberKind": "Property"
 }
 }
@@ -3593,37 +4929,51 @@ var contents = {
 "VoiceCommandContentTile":{
 "members": {
 ":ctor`0":{
-"files": [56],
+"files": [
+[56, [305,406]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AppContext":{
-"files": [56],
+"files": [
+[56, [314]]
+],
 "memberKind": "Property"
 }
 ,
 "AppLaunchArgument":{
-"files": [56],
+"files": [
+[56, [413]]
+],
 "memberKind": "Property"
 }
 ,
 "ContentTileType":{
-"files": [56],
+"files": [
+[56, [309,410]]
+],
 "memberKind": "?"
 }
 ,
 "Image":{
-"files": [56],
+"files": [
+[56, [310,411]]
+],
 "memberKind": "?"
 }
 ,
 "TextLine1":{
-"files": [56],
+"files": [
+[56, [328,417,421]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [56],
+"files": [
+[56, [327,414]]
+],
 "memberKind": "Property"
 }
 }
@@ -3632,7 +4982,9 @@ var contents = {
 "VoiceCommandContentTileType":{
 "members": {
 "TitleWith68x68IconAndText":{
-"files": [56],
+"files": [
+[56, [309,410]]
+],
 "memberKind": "Field"
 }
 }
@@ -3641,7 +4993,9 @@ var contents = {
 "VoiceCommandDefinition":{
 "members": {
 "SetPhraseListAsync`2":{
-"files": [203],
+"files": [
+[205, [212]]
+],
 "memberKind": "Method"
 }
 }
@@ -3650,12 +5004,16 @@ var contents = {
 "VoiceCommandDefinitionManager":{
 "members": {
 "InstallCommandDefinitionsFromStorageFileAsync`1":{
-"files": [3],
+"files": [
+[3, [98]]
+],
 "memberKind": "Method"
 }
 ,
 "InstalledCommandDefinitions":{
-"files": [203],
+"files": [
+[205, [204]]
+],
 "memberKind": "Property"
 }
 }
@@ -3664,27 +5022,37 @@ var contents = {
 "VoiceCommandResponse":{
 "members": {
 "AppLaunchArgument":{
-"files": [56],
+"files": [
+[56, [433,450]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateResponse`1":{
-"files": [56],
+"files": [
+[56, [203,244,256,275,448]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateResponse`2":{
-"files": [56],
+"files": [
+[56, [429]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateResponseForPrompt`2":{
-"files": [56],
+"files": [
+[56, [219]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateResponseForPrompt`3":{
-"files": [56],
+"files": [
+[56, [335]]
+],
 "memberKind": "Method"
 }
 }
@@ -3693,42 +5061,58 @@ var contents = {
 "VoiceCommandServiceConnection":{
 "members": {
 "FromAppServiceTriggerDetails`1":{
-"files": [56],
+"files": [
+[56, [114]]
+],
 "memberKind": "Method"
 }
 ,
 "GetVoiceCommandAsync`0":{
-"files": [56],
+"files": [
+[56, [119]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportProgressAsync`1":{
-"files": [56],
+"files": [
+[56, [276]]
+],
 "memberKind": "Method"
 }
 ,
 "ReportSuccessAsync`1":{
-"files": [56],
+"files": [
+[56, [204,245,257,436]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestAppLaunchAsync`1":{
-"files": [56],
+"files": [
+[56, [452]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestConfirmationAsync`1":{
-"files": [56],
+"files": [
+[56, [221]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestDisambiguationAsync`1":{
-"files": [56],
+"files": [
+[56, [339]]
+],
 "memberKind": "Method"
 }
 ,
 "VoiceCommandCompleted":{
-"files": [56],
+"files": [
+[56, [117]]
+],
 "memberKind": "?"
 }
 }
@@ -3737,17 +5121,23 @@ var contents = {
 "VoiceCommandUserMessage":{
 "members": {
 ":ctor`0":{
-"files": [56],
+"files": [
+[56, [188,193,213,239,250,272,291,296,371,445]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DisplayMessage":{
-"files": [56],
+"files": [
+[56, [201,212,217,243,254,273,292,297,382,397]]
+],
 "memberKind": "Property"
 }
 ,
 "SpokenMessage":{
-"files": [56],
+"files": [
+[56, [201,212,217,243,254,273,293,298,383,398,446]]
+],
 "memberKind": "Property"
 }
 }
@@ -3764,7 +5154,9 @@ var contents = {
 "HtmlUtilities":{
 "members": {
 "ConvertToText`1":{
-"files": [130],
+"files": [
+[132, [57]]
+],
 "memberKind": "Method"
 }
 }
@@ -3777,22 +5169,30 @@ var contents = {
 "IJsonValue":{
 "members": {
 "GetObject`0":{
-"files": [204],
+"files": [
+[206, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "GetString`0":{
-"files": [204],
+"files": [
+[206, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "Stringify`0":{
-"files": [205],
+"files": [
+[207, [75,94,114,135,155]]
+],
 "memberKind": "Method"
 }
 ,
 "ValueType":{
-"files": [204],
+"files": [
+[206, [50,65]]
+],
 "memberKind": "Property"
 }
 }
@@ -3801,36 +5201,46 @@ var contents = {
 "JsonArray":{
 "members": {
 ":ctor`0":{
-"files": [89,
-206,
-204],
+"files": [
+[89, [227]],
+[208, [388]],
+[206, [63,74]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`1":{
-"files": [89,
-206,
-204],
+"files": [
+[89, [231]],
+[208, [392]],
+[206, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "Count":{
-"files": [89,
-206,
-69],
+"files": [
+[89, [216]],
+[208, [376]],
+[69, [298]]
+],
 "memberKind": "?"
 }
 ,
 "GetStringAt`1":{
-"files": [89,
-206,
-69],
+"files": [
+[89, [218]],
+[208, [378]],
+[69, [300]]
+],
 "memberKind": "Method"
 }
 ,
 "Stringify`0":{
-"files": [89,
-206],
+"files": [
+[89, [234]],
+[208, [395]]
+],
 "memberKind": "Method"
 }
 }
@@ -3839,7 +5249,9 @@ var contents = {
 "JsonError":{
 "members": {
 "GetJsonStatus`1":{
-"files": [207],
+"files": [
+[209, [107]]
+],
 "memberKind": "Method"
 }
 }
@@ -3848,7 +5260,9 @@ var contents = {
 "JsonErrorStatus":{
 "members": {
 "Unknown":{
-"files": [207],
+"files": [
+[209, [108]]
+],
 "memberKind": "Field"
 }
 }
@@ -3857,70 +5271,94 @@ var contents = {
 "JsonObject":{
 "members": {
 ":ctor`0":{
-"files": [208,
-204],
+"files": [
+[210, [52,56]],
+[206, [80]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ContainsKey`1":{
-"files": [149,
-150,
-209],
+"files": [
+[151, [264]],
+[152, [248]],
+[211, [181,189]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedArray`2":{
-"files": [204],
+"files": [
+[206, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedBoolean`2":{
-"files": [204],
+"files": [
+[206, [61]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedNumber`2":{
-"files": [204],
+"files": [
+[206, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedObject`2":{
-"files": [208],
+"files": [
+[210, [41]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedString`1":{
-"files": [208,
-210],
+"files": [
+[210, [47]],
+[212, [110]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedString`2":{
-"files": [208,
-204],
+"files": [
+[210, [44,45]],
+[206, [47,59]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNamedValue`1":{
-"files": [204],
+"files": [
+[206, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "Parse`1":{
-"files": [149,
-204,
-150,
-209],
+"files": [
+[151, [263]],
+[206, [46]],
+[152, [247]],
+[211, [157]]
+],
 "memberKind": "Method"
 }
 ,
 "SetNamedValue`2":{
-"files": [208],
+"files": [
+[210, [53,54,57,58]]
+],
 "memberKind": "Method"
 }
 ,
 "Stringify`0":{
-"files": [204],
+"files": [
+[206, [98]]
+],
 "memberKind": "Method"
 }
 }
@@ -3929,52 +5367,68 @@ var contents = {
 "JsonValue":{
 "members": {
 "CreateBooleanValue`1":{
-"files": [204],
+"files": [
+[206, [96]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateNullValue`0":{
-"files": [204],
+"files": [
+[206, [86]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateNumberValue`1":{
-"files": [204],
+"files": [
+[206, [95]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateStringValue`1":{
-"files": [89,
-206,
-208,
-204],
+"files": [
+[89, [231]],
+[208, [392]],
+[210, [53,54,58]],
+[206, [81,90,93]]
+],
 "memberKind": "Method"
 }
 ,
 "GetArray`0":{
-"files": [89,
-206,
-69],
+"files": [
+[89, [210]],
+[208, [370]],
+[69, [292]]
+],
 "memberKind": "Method"
 }
 ,
 "GetObject`0":{
-"files": [210,
-209],
+"files": [
+[212, [109]],
+[211, [164,174,185]]
+],
 "memberKind": "Method"
 }
 ,
 "GetString`0":{
-"files": [209],
+"files": [
+[211, [193]]
+],
 "memberKind": "Method"
 }
 ,
 "Parse`1":{
-"files": [89,
-206,
-69,
-211,
-210],
+"files": [
+[89, [210]],
+[208, [370]],
+[69, [292]],
+[213, [81]],
+[212, [109]]
+],
 "memberKind": "Method"
 }
 }
@@ -3983,12 +5437,16 @@ var contents = {
 "JsonValueType":{
 "members": {
 "Null":{
-"files": [204],
+"files": [
+[206, [50]]
+],
 "memberKind": "Field"
 }
 ,
 "Object":{
-"files": [204],
+"files": [
+[206, [65]]
+],
 "memberKind": "Field"
 }
 }
@@ -4001,7 +5459,9 @@ var contents = {
 "SelectableWordSegment":{
 "members": {
 "Text":{
-"files": [212],
+"files": [
+[214, [233]]
+],
 "memberKind": "Property"
 }
 }
@@ -4010,18 +5470,24 @@ var contents = {
 "SelectableWordsSegmenter":{
 "members": {
 ":ctor`1":{
-"files": [213,
-212],
+"files": [
+[215, [162]],
+[214, [229]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetTokenAt`2":{
-"files": [212],
+"files": [
+[214, [232]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTokens`1":{
-"files": [213],
+"files": [
+[215, [163]]
+],
 "memberKind": "Method"
 }
 }
@@ -4030,18 +5496,24 @@ var contents = {
 "SemanticTextQuery":{
 "members": {
 ":ctor`1":{
-"files": [214,
-215],
+"files": [
+[216, [52]],
+[217, [54]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Find`1":{
-"files": [214],
+"files": [
+[216, [53]]
+],
 "memberKind": "Method"
 }
 ,
 "FindInProperty`2":{
-"files": [215],
+"files": [
+[217, [55,57]]
+],
 "memberKind": "Method"
 }
 }
@@ -4050,27 +5522,37 @@ var contents = {
 "TextConversionGenerator":{
 "members": {
 ":ctor`1":{
-"files": [216],
+"files": [
+[218, [133]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetCandidatesAsync`1":{
-"files": [216],
+"files": [
+[218, [86]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCandidatesAsync`2":{
-"files": [216],
+"files": [
+[218, [71]]
+],
 "memberKind": "Method"
 }
 ,
 "LanguageAvailableButNotInstalled":{
-"files": [216],
+"files": [
+[218, [154]]
+],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
-"files": [216],
+"files": [
+[218, [145]]
+],
 "memberKind": "Property"
 }
 }
@@ -4079,27 +5561,37 @@ var contents = {
 "TextPredictionGenerator":{
 "members": {
 ":ctor`1":{
-"files": [217],
+"files": [
+[219, [133]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetCandidatesAsync`1":{
-"files": [217],
+"files": [
+[219, [87]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCandidatesAsync`2":{
-"files": [217],
+"files": [
+[219, [72]]
+],
 "memberKind": "Method"
 }
 ,
 "LanguageAvailableButNotInstalled":{
-"files": [217],
+"files": [
+[219, [154]]
+],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
-"files": [217],
+"files": [
+[219, [145]]
+],
 "memberKind": "Property"
 }
 }
@@ -4108,22 +5600,30 @@ var contents = {
 "TextReverseConversionGenerator":{
 "members": {
 ":ctor`1":{
-"files": [218],
+"files": [
+[220, [82]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ConvertBackAsync`1":{
-"files": [218],
+"files": [
+[220, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "LanguageAvailableButNotInstalled":{
-"files": [218],
+"files": [
+[220, [103]]
+],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
-"files": [218],
+"files": [
+[220, [94]]
+],
 "memberKind": "Property"
 }
 }
@@ -4132,27 +5632,37 @@ var contents = {
 "UnicodeCharacters":{
 "members": {
 "GetCodepointFromSurrogatePair`2":{
-"files": [219],
+"files": [
+[221, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "IsHighSurrogate`1":{
-"files": [219],
+"files": [
+[221, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "IsIdContinue`1":{
-"files": [219],
+"files": [
+[221, [79]]
+],
 "memberKind": "Method"
 }
 ,
 "IsIdStart`1":{
-"files": [219],
+"files": [
+[221, [72]]
+],
 "memberKind": "Method"
 }
 ,
 "IsSupplementary`1":{
-"files": [219],
+"files": [
+[221, [76]]
+],
 "memberKind": "Method"
 }
 }
@@ -4161,7 +5671,9 @@ var contents = {
 "WordSegment":{
 "members": {
 "Text":{
-"files": [212],
+"files": [
+[214, [129]]
+],
 "memberKind": "Property"
 }
 }
@@ -4170,18 +5682,24 @@ var contents = {
 "WordsSegmenter":{
 "members": {
 ":ctor`1":{
-"files": [213,
-212],
+"files": [
+[215, [88]],
+[214, [125]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetTokenAt`2":{
-"files": [212],
+"files": [
+[214, [128]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTokens`1":{
-"files": [213],
+"files": [
+[215, [89]]
+],
 "memberKind": "Method"
 }
 }
@@ -4196,32 +5714,42 @@ var contents = {
 "IXmlNode":{
 "members": {
 "AppendChild`1":{
-"files": [72,
-89,
-220,
-84,
-221],
+"files": [
+[72, [100,104]],
+[89, [180,184,189]],
+[222, [33,37]],
+[84, [70,72]],
+[223, [64]]
+],
 "memberKind": "Method"
 }
 ,
 "Attributes":{
-"files": [222],
+"files": [
+[224, [267,269,275,277,279,281,284,286,296,298,302,304,314,316,319,321,323,325,327,329,332,334,337,339]]
+],
 "memberKind": "Property"
 }
 ,
 "ChildNodes":{
-"files": [222],
+"files": [
+[224, [504]]
+],
 "memberKind": "Property"
 }
 ,
 "InnerText":{
-"files": [223,
-222],
+"files": [
+[225, [138,145,164,165,166,167,176,177,178,179]],
+[224, [269,277,281,286,298,304,316,321,325,329,334,339]]
+],
 "memberKind": "Property"
 }
 ,
 "NodeValue":{
-"files": [224],
+"files": [
+[226, [65]]
+],
 "memberKind": "Property"
 }
 }
@@ -4230,7 +5758,9 @@ var contents = {
 "XmlAttribute":{
 "members": {
 "InnerText":{
-"files": [176],
+"files": [
+[178, [163]]
+],
 "memberKind": "Property"
 }
 }
@@ -4239,163 +5769,193 @@ var contents = {
 "XmlDocument":{
 "members": {
 ":ctor`0":{
-"files": [225,
-226,
-227,
-228,
-229,
-230,
-94,
-220,
-231,
-232,
-233,
-234,
-235,
-236,
-237,
-238,
-239,
-240,
-241,
-242,
-243,
-244,
-245,
-176,
-221,
-224,
-165,
-246,
-166],
+"files": [
+[227, [197]],
+[228, [86,97,167,178]],
+[229, [133]],
+[230, [51]],
+[231, [460]],
+[232, [45,74]],
+[94, [83]],
+[222, [25,49]],
+[233, [48,62]],
+[234, [28]],
+[235, [80]],
+[236, [54]],
+[237, [54]],
+[238, [82]],
+[239, [89]],
+[240, [46]],
+[241, [50]],
+[242, [22]],
+[243, [86,97,167,178]],
+[244, [133]],
+[245, [51]],
+[246, [460]],
+[247, [215,232]],
+[178, [159]],
+[223, [57]],
+[226, [57,83]],
+[167, [106]],
+[248, [71]],
+[168, [117,130,192,205]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CreateCDataSection`1":{
-"files": [221],
+"files": [
+[223, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateElement`1":{
-"files": [89,
-220],
+"files": [
+[89, [194]],
+[222, [30,35]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateTextNode`1":{
-"files": [247,
-72,
-89,
-248,
-84,
-91],
+"files": [
+[249, [355]],
+[72, [100,104]],
+[89, [180,184,189]],
+[250, [40,41]],
+[84, [70,72]],
+[91, [86]]
+],
 "memberKind": "Method"
 }
 ,
 "DocumentElement":{
-"files": [222,
-176],
+"files": [
+[224, [39,215]],
+[178, [162]]
+],
 "memberKind": "Property"
 }
 ,
 "GetElementsByTagName`1":{
-"files": [247,
-223,
-72,
-89,
-248,
-249,
-84,
-91,
-221],
+"files": [
+[249, [354]],
+[225, [138,145,163,175]],
+[72, [99]],
+[89, [179]],
+[250, [36]],
+[251, [110]],
+[84, [68]],
+[91, [85]],
+[223, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "GetXml`0":{
-"files": [250,
-176,
-221,
-224,
-165,
-246,
-166],
+"files": [
+[252, [15]],
+[178, [165]],
+[223, [66,79]],
+[226, [68,100]],
+[167, [51,110]],
+[248, [52]],
+[168, [57,63]]
+],
 "memberKind": "Method"
 }
 ,
 "LoadFromFileAsync`1":{
-"files": [166],
+"files": [
+[168, [56,60]]
+],
 "memberKind": "Method"
 }
 ,
 "LoadFromFileAsync`2":{
-"files": [164,
-165],
+"files": [
+[166, [53]],
+[167, [150]]
+],
 "memberKind": "Method"
 }
 ,
 "LoadXml`1":{
-"files": [226,
-227,
-228,
-229,
-230,
-94,
-220,
-231,
-232,
-233,
-234,
-235,
-236,
-237,
-238,
-239,
-240,
-241,
-242,
-243,
-244,
-245,
-176,
-221,
-224,
-246,
-166],
+"files": [
+[228, [87,98,168,179]],
+[229, [134]],
+[230, [52]],
+[231, [461]],
+[232, [46,75]],
+[94, [84]],
+[222, [26,50]],
+[233, [49,63]],
+[234, [29]],
+[235, [81]],
+[236, [55]],
+[237, [55]],
+[238, [83]],
+[239, [90]],
+[240, [47]],
+[241, [51]],
+[242, [23]],
+[243, [87,98,168,179]],
+[244, [134]],
+[245, [52]],
+[246, [461]],
+[247, [216,233]],
+[178, [160]],
+[223, [59]],
+[226, [58,84]],
+[248, [72]],
+[168, [118,131,193,206]]
+],
 "memberKind": "Method"
 }
 ,
 "LoadXmlFromBuffer`1":{
-"files": [225],
+"files": [
+[227, [203]]
+],
 "memberKind": "Method"
 }
 ,
 "LoadXmlFromBuffer`2":{
-"files": [165],
+"files": [
+[167, [108]]
+],
 "memberKind": "Method"
 }
 ,
 "SaveToFileAsync`1":{
-"files": [224,
-166],
+"files": [
+[226, [88]],
+[168, [223]]
+],
 "memberKind": "Method"
 }
 ,
 "SelectNodes`1":{
-"files": [222,
-238,
-239,
-224,
-246],
+"files": [
+[224, [561,575]],
+[240, [52]],
+[241, [56]],
+[226, [62]],
+[248, [93]]
+],
 "memberKind": "Method"
 }
 ,
 "SelectSingleNode`1":{
-"files": [89,
-220,
-251,
-252,
-253,
-248],
+"files": [
+[89, [193]],
+[222, [28]],
+[253, [28]],
+[254, [36]],
+[255, [43,64]],
+[250, [44]]
+],
 "memberKind": "Method"
 }
 }
@@ -4404,38 +5964,50 @@ var contents = {
 "XmlElement":{
 "members": {
 "ChildNodes":{
-"files": [222],
+"files": [
+[224, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "GetAttribute`1":{
-"files": [222],
+"files": [
+[224, [216,220,224,226,229,231,234,237,240,243,246,248,251,253]]
+],
 "memberKind": "Method"
 }
 ,
 "GetAttributeNode`1":{
-"files": [176],
+"files": [
+[178, [162]]
+],
 "memberKind": "Method"
 }
 ,
 "GetElementsByTagName`1":{
-"files": [222],
+"files": [
+[224, [260]]
+],
 "memberKind": "Method"
 }
 ,
 "InnerText":{
-"files": [220,
-238,
-239],
+"files": [
+[222, [31,36]],
+[240, [53,54]],
+[241, [57,58]]
+],
 "memberKind": "Property"
 }
 ,
 "SetAttribute`2":{
-"files": [89,
-251,
-252,
-253,
-248],
+"files": [
+[89, [195]],
+[253, [29]],
+[254, [37]],
+[255, [44,65]],
+[250, [45]]
+],
 "memberKind": "Method"
 }
 }
@@ -4444,20 +6016,26 @@ var contents = {
 "XmlLoadSettings":{
 "members": {
 ":ctor`0":{
-"files": [164,
-165],
+"files": [
+[166, [50]],
+[167, [71,130]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ProhibitDtd":{
-"files": [164,
-165],
+"files": [
+[166, [51]],
+[167, [74,79,84,93,133,138,143]]
+],
 "memberKind": "Property"
 }
 ,
 "ResolveExternals":{
-"files": [164,
-165],
+"files": [
+[166, [52]],
+[167, [75,80,85,93,134,139,144]]
+],
 "memberKind": "Property"
 }
 }
@@ -4466,7 +6044,9 @@ var contents = {
 "XmlNamedNodeMap":{
 "members": {
 "GetNamedItem`1":{
-"files": [222],
+"files": [
+[224, [267,269,275,277,279,281,284,286,296,298,302,304,314,316,319,321,323,325,327,329,332,334,337,339]]
+],
 "memberKind": "Method"
 }
 }
@@ -4475,48 +6055,64 @@ var contents = {
 "XmlNodeList":{
 "members": {
 "Count`0":{
-"files": [222],
+"files": [
+[224, [261]]
+],
 "memberKind": "Method"
 }
 ,
 "First`0":{
-"files": [91],
+"files": [
+[91, [86]]
+],
 "memberKind": "Method"
 }
 ,
 "Item`1":{
-"files": [223,
-72,
-89,
-84,
-221,
-224],
+"files": [
+[225, [138,145,164,165,166,167,176,177,178,179]],
+[72, [100,104]],
+[89, [180,184,189]],
+[84, [70,72]],
+[223, [63]],
+[226, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "Last<IXmlNode>`0":{
-"files": [222],
+"files": [
+[224, [266]]
+],
 "memberKind": "Method"
 }
 ,
 "Length":{
-"files": [224],
+"files": [
+[226, [63]]
+],
 "memberKind": "Property"
 }
 ,
 "OfType<XmlElement>`0":{
-"files": [238,
-239],
+"files": [
+[240, [52]],
+[241, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "Single`0":{
-"files": [249],
+"files": [
+[251, [110]]
+],
 "memberKind": "Method"
 }
 ,
 "Where`1":{
-"files": [222],
+"files": [
+[224, [39,504,561,575]]
+],
 "memberKind": "Method"
 }
 }
@@ -4529,17 +6125,23 @@ var contents = {
 "XsltProcessor":{
 "members": {
 ":ctor`1":{
-"files": [166],
+"files": [
+[168, [143,218]]
+],
 "memberKind": "Constructor"
 }
 ,
 "TransformToDocument`1":{
-"files": [166],
+"files": [
+[168, [219]]
+],
 "memberKind": "Method"
 }
 ,
 "TransformToString`1":{
-"files": [166],
+"files": [
+[168, [144]]
+],
 "memberKind": "Method"
 }
 }
@@ -4558,12 +6160,16 @@ var contents = {
 "AllJoynAboutData":{
 "members": {
 "DefaultManufacturer":{
-"files": [254],
+"files": [
+[256, [179]]
+],
 "memberKind": "Property"
 }
 ,
 "SupportUrl":{
-"files": [254],
+"files": [
+[256, [180]]
+],
 "memberKind": "Property"
 }
 }
@@ -4572,22 +6178,30 @@ var contents = {
 "AllJoynAboutDataView":{
 "members": {
 "AppName":{
-"files": [247],
+"files": [
+[249, [300]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceName":{
-"files": [247],
+"files": [
+[249, [300]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDataBySessionPortAsync`3":{
-"files": [247],
+"files": [
+[249, [299]]
+],
 "memberKind": "Method"
 }
 ,
 "Manufacturer":{
-"files": [247],
+"files": [
+[249, [300]]
+],
 "memberKind": "Property"
 }
 }
@@ -4596,10 +6210,12 @@ var contents = {
 "AllJoynAuthenticationCompleteEventArgs":{
 "members": {
 "Succeeded":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [251,260]],
+[257, [704,713]],
+[256, [235]],
+[258, [249]]
+],
 "memberKind": "Property"
 }
 }
@@ -4608,10 +6224,12 @@ var contents = {
 "AllJoynAuthenticationMechanism":{
 "members": {
 "EcdhePsk":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [179,277]],
+[257, [684,723]],
+[256, [174,247]],
+[258, [209,261]]
+],
 "memberKind": "Field"
 }
 }
@@ -4620,55 +6238,69 @@ var contents = {
 "AllJoynBusAttachment":{
 "members": {
 ":ctor`0":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [176]],
+[257, [681]],
+[256, [171]],
+[258, [206]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AboutData":{
-"files": [254],
+"files": [
+[256, [179,180]]
+],
 "memberKind": "Property"
 }
 ,
 "AuthenticationComplete":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [156,180]],
+[257, [520,685]],
+[256, [142,175]],
+[258, [177,210]]
+],
 "memberKind": "?"
 }
 ,
 "AuthenticationMechanisms":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [178,179]],
+[257, [683,684]],
+[256, [173,174]],
+[258, [208,209]]
+],
 "memberKind": "Property"
 }
 ,
 "CredentialsRequested":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [155,181]],
+[257, [519,686]],
+[256, [141,176]],
+[258, [176,211]]
+],
 "memberKind": "?"
 }
 ,
 "Disconnect`0":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [158]],
+[257, [522]],
+[256, [144]],
+[258, [179]]
+],
 "memberKind": "Method"
 }
 ,
 "StateChanged":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [157,177]],
+[257, [521,682]],
+[256, [143,172]],
+[258, [178,207]]
+],
 "memberKind": "?"
 }
 }
@@ -4677,16 +6309,20 @@ var contents = {
 "AllJoynBusAttachmentState":{
 "members": {
 "Connected":{
-"files": [254,
-256],
+"files": [
+[256, [222]],
+[258, [237]]
+],
 "memberKind": "Field"
 }
 ,
 "Disconnected":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [242]],
+[257, [695]],
+[256, [216]],
+[258, [232]]
+],
 "memberKind": "Field"
 }
 }
@@ -4695,18 +6331,22 @@ var contents = {
 "AllJoynBusAttachmentStateChangedEventArgs":{
 "members": {
 "State":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [242]],
+[257, [695]],
+[256, [214]],
+[258, [230]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [244]],
+[257, [697]],
+[256, [217]],
+[258, [233]]
+],
 "memberKind": "Property"
 }
 }
@@ -4715,18 +6355,22 @@ var contents = {
 "AllJoynCredentials":{
 "members": {
 "AuthenticationMechanism":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [277]],
+[257, [723]],
+[256, [247]],
+[258, [261]]
+],
 "memberKind": "Property"
 }
 ,
 "PasswordCredential":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [281]],
+[257, [734]],
+[256, [249]],
+[258, [263]]
+],
 "memberKind": "Property"
 }
 }
@@ -4735,16 +6379,20 @@ var contents = {
 "AllJoynCredentialsRequestedEventArgs":{
 "members": {
 "Credentials":{
-"files": [247,
-255,
-254,
-256],
+"files": [
+[249, [277,281]],
+[257, [723,734]],
+[256, [247,249]],
+[258, [261,263]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [247,
-255],
+"files": [
+[249, [267]],
+[257, [720]]
+],
 "memberKind": "Method"
 }
 }
@@ -4753,12 +6401,16 @@ var contents = {
 "AllJoynServiceInfo":{
 "members": {
 "SessionPort":{
-"files": [247],
+"files": [
+[249, [299]]
+],
 "memberKind": "Property"
 }
 ,
 "UniqueName":{
-"files": [247],
+"files": [
+[249, [299]]
+],
 "memberKind": "Property"
 }
 }
@@ -4767,8 +6419,10 @@ var contents = {
 "AllJoynSessionLostEventArgs":{
 "members": {
 "Reason":{
-"files": [247,
-255],
+"files": [
+[249, [342]],
+[257, [779]]
+],
 "memberKind": "Property"
 }
 }
@@ -4777,8 +6431,10 @@ var contents = {
 "AllJoynSessionLostReason":{
 "members": {
 "ToString`0":{
-"files": [247,
-255],
+"files": [
+[249, [342]],
+[257, [779]]
+],
 "memberKind": "Method"
 }
 }
@@ -4787,8 +6443,10 @@ var contents = {
 "AllJoynStatus":{
 "members": {
 "Ok":{
-"files": [247,
-255],
+"files": [
+[249, [224,305,372,386]],
+[257, [753,804,878]]
+],
 "memberKind": "Property"
 }
 }
@@ -4801,7 +6459,9 @@ var contents = {
 "DeviceUseDetails":{
 "members": {
 "DeviceId":{
-"files": [82],
+"files": [
+[82, [102]]
+],
 "memberKind": "Property"
 }
 }
@@ -4816,15 +6476,19 @@ var contents = {
 "BluetoothLEAdvertisement":{
 "members": {
 "LocalName":{
-"files": [257],
+"files": [
+[259, [229]]
+],
 "memberKind": "Property"
 }
 ,
 "ManufacturerData":{
-"files": [257,
-258,
-66,
-67],
+"files": [
+[259, [78,234]],
+[260, [69]],
+[66, [85]],
+[67, [78]]
+],
 "memberKind": "Property"
 }
 }
@@ -4833,8 +6497,10 @@ var contents = {
 "BluetoothLEAdvertisementFilter":{
 "members": {
 "Advertisement":{
-"files": [257,
-66],
+"files": [
+[259, [78]],
+[66, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -4843,32 +6509,44 @@ var contents = {
 "BluetoothLEAdvertisementPublisher":{
 "members": {
 ":ctor`0":{
-"files": [258],
+"files": [
+[260, [46]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Advertisement":{
-"files": [258],
+"files": [
+[260, [69]]
+],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
-"files": [258],
+"files": [
+[260, [165]]
+],
 "memberKind": "Method"
 }
 ,
 "Status":{
-"files": [258],
+"files": [
+[260, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "StatusChanged":{
-"files": [258],
+"files": [
+[260, [97,124,142,154]]
+],
 "memberKind": "?"
 }
 ,
 "Stop`0":{
-"files": [258],
+"files": [
+[260, [122,140,178]]
+],
 "memberKind": "Method"
 }
 }
@@ -4877,8 +6555,10 @@ var contents = {
 "BluetoothLEAdvertisementPublisherStatus":{
 "members": {
 "ToString`0":{
-"files": [258,
-93],
+"files": [
+[260, [202]],
+[93, [130]]
+],
 "memberKind": "Method"
 }
 }
@@ -4887,12 +6567,16 @@ var contents = {
 "BluetoothLEAdvertisementPublisherStatusChangedEventArgs":{
 "members": {
 "Error":{
-"files": [258],
+"files": [
+[260, [195]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [258],
+"files": [
+[260, [194]]
+],
 "memberKind": "Property"
 }
 }
@@ -4901,22 +6585,30 @@ var contents = {
 "BluetoothLEAdvertisementReceivedEventArgs":{
 "members": {
 "Advertisement":{
-"files": [257],
+"files": [
+[259, [229,234]]
+],
 "memberKind": "Property"
 }
 ,
 "AdvertisementType":{
-"files": [257],
+"files": [
+[259, [223]]
+],
 "memberKind": "Property"
 }
 ,
 "RawSignalStrengthInDBm":{
-"files": [257],
+"files": [
+[259, [226]]
+],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
-"files": [257],
+"files": [
+[259, [220]]
+],
 "memberKind": "Property"
 }
 }
@@ -4925,7 +6617,9 @@ var contents = {
 "BluetoothLEAdvertisementType":{
 "members": {
 "ToString`0":{
-"files": [257],
+"files": [
+[259, [256]]
+],
 "memberKind": "Method"
 }
 }
@@ -4934,37 +6628,51 @@ var contents = {
 "BluetoothLEAdvertisementWatcher":{
 "members": {
 ":ctor`0":{
-"files": [257],
+"files": [
+[259, [45]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AdvertisementFilter":{
-"files": [257],
+"files": [
+[259, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "Received":{
-"files": [257],
+"files": [
+[259, [116,147,166,179]]
+],
 "memberKind": "?"
 }
 ,
 "SignalStrengthFilter":{
-"files": [257],
+"files": [
+[259, [87,91,95]]
+],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
-"files": [257],
+"files": [
+[259, [191]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [257],
+"files": [
+[259, [145,164,204]]
+],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
-"files": [257],
+"files": [
+[259, [120,148,167,180]]
+],
 "memberKind": "?"
 }
 }
@@ -4973,7 +6681,9 @@ var contents = {
 "BluetoothLEAdvertisementWatcherStoppedEventArgs":{
 "members": {
 "Error":{
-"files": [257],
+"files": [
+[259, [273]]
+],
 "memberKind": "Property"
 }
 }
@@ -4982,26 +6692,32 @@ var contents = {
 "BluetoothLEManufacturerData":{
 "members": {
 ":ctor`0":{
-"files": [257,
-258,
-66,
-67],
+"files": [
+[259, [64]],
+[260, [54]],
+[66, [71]],
+[67, [63]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CompanyId":{
-"files": [257,
-258,
-66,
-67],
+"files": [
+[259, [67]],
+[260, [57,73]],
+[66, [74]],
+[67, [66,82]]
+],
 "memberKind": "Property"
 }
 ,
 "Data":{
-"files": [257,
-258,
-66,
-67],
+"files": [
+[259, [75]],
+[260, [66]],
+[66, [82]],
+[67, [75]]
+],
 "memberKind": "?"
 }
 }
@@ -5014,12 +6730,16 @@ var contents = {
 "BluetoothLEAdvertisementPublisherTriggerDetails":{
 "members": {
 "Error":{
-"files": [93],
+"files": [
+[93, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [93],
+"files": [
+[93, [124]]
+],
 "memberKind": "Property"
 }
 }
@@ -5028,17 +6748,23 @@ var contents = {
 "BluetoothLEAdvertisementWatcherTriggerDetails":{
 "members": {
 "Advertisements":{
-"files": [93],
+"files": [
+[93, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "Error":{
-"files": [93],
+"files": [
+[93, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "SignalStrengthFilter":{
-"files": [93],
+"files": [
+[93, [53]]
+],
 "memberKind": "Property"
 }
 }
@@ -5049,14 +6775,18 @@ var contents = {
 "BluetoothError":{
 "members": {
 "Success":{
-"files": [258],
+"files": [
+[260, [79]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [257,
-258,
-93],
+"files": [
+[259, [273]],
+[260, [203]],
+[93, [59,131]]
+],
 "memberKind": "Method"
 }
 }
@@ -5065,29 +6795,37 @@ var contents = {
 "BluetoothSignalStrengthFilter":{
 "members": {
 "InRangeThresholdInDBm":{
-"files": [257,
-66,
-93],
+"files": [
+[259, [87]],
+[66, [93]],
+[93, [61]]
+],
 "memberKind": "Property"
 }
 ,
 "OutOfRangeThresholdInDBm":{
-"files": [257,
-66,
-93],
+"files": [
+[259, [91]],
+[66, [97]],
+[93, [62]]
+],
 "memberKind": "Property"
 }
 ,
 "OutOfRangeTimeout":{
-"files": [257,
-66,
-93],
+"files": [
+[259, [95]],
+[66, [101]],
+[93, [63]]
+],
 "memberKind": "Property"
 }
 ,
 "SamplingInterval":{
-"files": [66,
-93],
+"files": [
+[66, [106]],
+[93, [64]]
+],
 "memberKind": "Property"
 }
 }
@@ -5098,7 +6836,9 @@ var contents = {
 "GattDeviceService":{
 "members": {
 "GetDeviceSelectorFromUuid`1":{
-"files": [259],
+"files": [
+[261, [69]]
+],
 "memberKind": "Method"
 }
 }
@@ -5107,7 +6847,9 @@ var contents = {
 "GattServiceUuids":{
 "members": {
 "HeartRate":{
-"files": [259],
+"files": [
+[261, [69]]
+],
 "memberKind": "Property"
 }
 }
@@ -5120,7 +6862,9 @@ var contents = {
 "RfcommDeviceService":{
 "members": {
 "GetDeviceSelector`1":{
-"files": [259],
+"files": [
+[261, [68]]
+],
 "memberKind": "Method"
 }
 }
@@ -5129,7 +6873,9 @@ var contents = {
 "RfcommServiceId":{
 "members": {
 "FromUuid`1":{
-"files": [259],
+"files": [
+[261, [68]]
+],
 "memberKind": "Method"
 }
 }
@@ -5144,14 +6890,16 @@ var contents = {
 "DeviceAccessChangedEventArgs":{
 "members": {
 "Status":{
-"files": [260,
-261,
-262,
-263,
-264,
-265,
-266,
-267],
+"files": [
+[262, [154]],
+[263, [569,570,574]],
+[264, [112]],
+[265, [101]],
+[266, [574,575,579]],
+[267, [587,588,592]],
+[268, [167]],
+[269, [594,595,599]]
+],
 "memberKind": "Property"
 }
 }
@@ -5160,49 +6908,57 @@ var contents = {
 "DeviceAccessInformation":{
 "members": {
 "AccessChanged":{
-"files": [260,
-261,
-262,
-263,
-264,
-265,
-266,
-267],
+"files": [
+[262, [42]],
+[263, [448,453]],
+[264, [60]],
+[265, [58]],
+[266, [459]],
+[267, [467,472]],
+[268, [42]],
+[269, [479]]
+],
 "memberKind": "?"
 }
 ,
 "CreateFromDeviceClassId`1":{
-"files": [268,
-269,
-260,
-57,
-262,
-263,
-266,
-270,
-271],
+"files": [
+[270, [48]],
+[271, [53]],
+[262, [41]],
+[57, [72]],
+[264, [59]],
+[265, [57]],
+[268, [41]],
+[272, [73]],
+[273, [47]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromId`1":{
-"files": [261,
-264,
-265,
-267],
+"files": [
+[263, [265,445]],
+[266, [277]],
+[267, [292,464]],
+[269, [277]]
+],
 "memberKind": "Method"
 }
 ,
 "CurrentStatus":{
-"files": [268,
-269,
-260,
-57,
-261,
-264,
-265,
-270,
-271,
-267],
+"files": [
+[270, [49]],
+[271, [54]],
+[262, [98]],
+[57, [73]],
+[263, [265]],
+[266, [277]],
+[267, [292]],
+[272, [74]],
+[273, [48]],
+[269, [277]]
+],
 "memberKind": "Property"
 }
 }
@@ -5211,35 +6967,41 @@ var contents = {
 "DeviceAccessStatus":{
 "members": {
 "Allowed":{
-"files": [268,
-269,
-260,
-57,
-261,
-262,
-263,
-264,
-265,
-266,
-270,
-271,
-267],
+"files": [
+[270, [49]],
+[271, [54]],
+[262, [98,155]],
+[57, [73]],
+[263, [574]],
+[264, [113]],
+[265, [102]],
+[266, [579]],
+[267, [592]],
+[268, [168]],
+[272, [74]],
+[273, [48]],
+[269, [599]]
+],
 "memberKind": "Field"
 }
 ,
 "DeniedBySystem":{
-"files": [261,
-264,
-265,
-267],
+"files": [
+[263, [271,569]],
+[266, [283,574]],
+[267, [298,587]],
+[269, [283,594]]
+],
 "memberKind": "Field"
 }
 ,
 "DeniedByUser":{
-"files": [261,
-264,
-265,
-267],
+"files": [
+[263, [267,570]],
+[266, [279,575]],
+[267, [294,588]],
+[269, [279,595]]
+],
 "memberKind": "Field"
 }
 }
@@ -5248,48 +7010,62 @@ var contents = {
 "DeviceClass":{
 "members": {
 "All":{
-"files": [259],
+"files": [
+[261, [57]]
+],
 "memberKind": "Field"
 }
 ,
 "AudioCapture":{
-"files": [259],
+"files": [
+[261, [58]]
+],
 "memberKind": "Field"
 }
 ,
 "AudioRender":{
-"files": [259,
-272],
+"files": [
+[261, [59]],
+[274, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "ImageScanner":{
-"files": [259],
+"files": [
+[261, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "Location":{
-"files": [259],
+"files": [
+[261, [61]]
+],
 "memberKind": "Field"
 }
 ,
 "PortableStorageDevice":{
-"files": [259],
+"files": [
+[261, [62]]
+],
 "memberKind": "Field"
 }
 ,
 "VideoCapture":{
-"files": [189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-259,
-196,
-276],
+"files": [
+[191, [727]],
+[192, [481]],
+[193, [777]],
+[275, [178]],
+[276, [150]],
+[277, [126]],
+[194, [634]],
+[195, [776]],
+[261, [63]],
+[198, [537]],
+[278, [234]]
+],
 "memberKind": "Field"
 }
 }
@@ -5298,8 +7074,10 @@ var contents = {
 "DeviceDisconnectButtonClickedEventArgs":{
 "members": {
 "Device":{
-"files": [107,
-108],
+"files": [
+[110, [207,213]],
+[111, [183,196,207]]
+],
 "memberKind": "Property"
 }
 }
@@ -5308,175 +7086,209 @@ var contents = {
 "DeviceInformation":{
 "members": {
 "CreateFromIdAsync`1":{
-"files": [277],
+"files": [
+[279, [220]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromIdAsync`3":{
-"files": [272],
+"files": [
+[274, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateWatcher`1":{
-"files": [278,
-261,
-279,
-262,
-263,
-264,
-280,
-265,
-281,
-282,
-73,
-283,
-284,
-285,
-286,
-267,
-287],
+"files": [
+[280, [36]],
+[263, [248]],
+[281, [178]],
+[264, [54]],
+[265, [52]],
+[266, [260]],
+[282, [205]],
+[267, [275]],
+[283, [205,221]],
+[284, [81]],
+[73, [80]],
+[285, [45]],
+[286, [37]],
+[287, [37]],
+[288, [38]],
+[269, [260]],
+[289, [192]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateWatcher`2":{
-"files": [282,
-73,
-288,
-289],
+"files": [
+[284, [86]],
+[73, [85]],
+[290, [79]],
+[291, [84]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateWatcher`3":{
-"files": [290,
-291],
+"files": [
+[292, [146]],
+[293, [83]]
+],
 "memberKind": "Method"
 }
 ,
 "EnclosureLocation":{
-"files": [292],
+"files": [
+[294, [349]]
+],
 "memberKind": "Property"
 }
 ,
 "FindAllAsync`1":{
-"files": [293,
-294,
-189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-295,
-272,
-296,
-283,
-292,
-297,
-196,
-298,
-299,
-300,
-112,
-276,
-301,
-302,
-303,
-304],
+"files": [
+[295, [171]],
+[296, [54]],
+[191, [727]],
+[192, [481]],
+[193, [777]],
+[275, [178]],
+[276, [150]],
+[277, [126]],
+[194, [634]],
+[195, [776]],
+[297, [60]],
+[274, [48]],
+[298, [74]],
+[285, [104]],
+[294, [139,184]],
+[299, [109,114]],
+[198, [537]],
+[300, [296]],
+[301, [220]],
+[302, [196]],
+[115, [56]],
+[278, [234]],
+[303, [64]],
+[304, [54]],
+[305, [56]],
+[306, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAllAsync`2":{
-"files": [295,
-305],
+"files": [
+[297, [65]],
+[307, [340]]
+],
 "memberKind": "Method"
 }
 ,
 "GetGlyphThumbnailAsync`0":{
-"files": [259],
+"files": [
+[261, [246]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [108,
-278,
-261,
-279,
-262,
-263,
-264,
-280,
-265,
-281,
-71,
-96,
-259,
-296,
-292,
-306,
-307,
-298,
-299,
-300,
-284,
-285,
-286,
-267,
-287,
-301,
-308,
-309,
-310],
+"files": [
+[111, [119,327,343]],
+[280, [104]],
+[263, [216,231,265,269,275,280,374,445,533,548]],
+[281, [265,375]],
+[264, [72]],
+[265, [70]],
+[266, [222,237,277,281,287,292,378,539,554]],
+[282, [292,402]],
+[267, [237,252,292,296,302,307,393,464,552,567]],
+[283, [308,418]],
+[71, [189]],
+[96, [34]],
+[261, [175]],
+[298, [86,87]],
+[294, [345]],
+[308, [133]],
+[309, [180]],
+[300, [300]],
+[301, [224]],
+[302, [200,205]],
+[286, [51]],
+[287, [51]],
+[288, [52]],
+[269, [222,237,277,281,287,292,398,559,574]],
+[289, [279,389]],
+[303, [73]],
+[310, [212]],
+[311, [32,139]],
+[312, [481]]
+],
 "memberKind": "Property"
 }
 ,
 "IsDefault":{
-"files": [292],
+"files": [
+[294, [347]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
-"files": [292],
+"files": [
+[294, [348]]
+],
 "memberKind": "Property"
 }
 ,
 "Kind":{
-"files": [259],
+"files": [
+[261, [167]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [277,
-107,
-108,
-259,
-292,
-112,
-308,
-311],
+"files": [
+[279, [137,172]],
+[110, [171,178]],
+[111, [257,279,322,342,348,353,362,387,440,445,458,468,540]],
+[261, [183]],
+[294, [154,199,346]],
+[115, [113,116]],
+[310, [175,206,244]],
+[313, [126]]
+],
 "memberKind": "Property"
 }
 ,
 "Pairing":{
-"files": [259],
+"files": [
+[261, [197,205]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [108,
-312,
-313,
-314,
-259,
-292,
-315,
-310],
+"files": [
+[111, [447]],
+[314, [32]],
+[315, [38]],
+[316, [38]],
+[261, [213]],
+[294, [353]],
+[317, [38]],
+[312, [382,392,402,412,433]]
+],
 "memberKind": "Property"
 }
 ,
 "Update`1":{
-"files": [259],
+"files": [
+[261, [232]]
+],
 "memberKind": "Method"
 }
 }
@@ -5485,25 +7297,29 @@ var contents = {
 "DeviceInformationCollection":{
 "members": {
 "Count":{
-"files": [294,
-273,
-274,
-275,
-295,
-272,
-296,
-283,
-292,
-297,
-298,
-299,
-300,
-305],
+"files": [
+[296, [55]],
+[275, [179]],
+[276, [151]],
+[277, [127]],
+[297, [72]],
+[274, [49]],
+[298, [75]],
+[285, [107]],
+[294, [142,187]],
+[299, [116]],
+[300, [297]],
+[301, [221]],
+[302, [197]],
+[307, [342,344]]
+],
 "memberKind": "?"
 }
 ,
 "FirstOrDefault`1":{
-"files": [296],
+"files": [
+[298, [79]]
+],
 "memberKind": "Method"
 }
 }
@@ -5512,38 +7328,52 @@ var contents = {
 "DeviceInformationKind":{
 "members": {
 "AssociationEndpoint":{
-"files": [259,
-291],
+"files": [
+[261, [111]],
+[293, [86]]
+],
 "memberKind": "Field"
 }
 ,
 "AssociationEndpointContainer":{
-"files": [259],
+"files": [
+[261, [110]]
+],
 "memberKind": "Field"
 }
 ,
 "AssociationEndpointService":{
-"files": [259],
+"files": [
+[261, [112,113]]
+],
 "memberKind": "Field"
 }
 ,
 "Device":{
-"files": [259],
+"files": [
+[261, [107]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceContainer":{
-"files": [259],
+"files": [
+[261, [106]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceInterface":{
-"files": [259],
+"files": [
+[261, [108,113]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceInterfaceClass":{
-"files": [259],
+"files": [
+[261, [109]]
+],
 "memberKind": "Field"
 }
 }
@@ -5552,12 +7382,16 @@ var contents = {
 "DeviceInformationPairing":{
 "members": {
 "CanPair":{
-"files": [259],
+"files": [
+[261, [197]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPaired":{
-"files": [259],
+"files": [
+[261, [205]]
+],
 "memberKind": "Property"
 }
 }
@@ -5566,17 +7400,19 @@ var contents = {
 "DeviceInformationUpdate":{
 "members": {
 "Id":{
-"files": [278,
-261,
-279,
-264,
-280,
-265,
-281,
-96,
-267,
-287,
-289],
+"files": [
+[280, [116]],
+[263, [533]],
+[281, [358,360]],
+[266, [539]],
+[282, [385,387]],
+[267, [552]],
+[283, [401,403]],
+[96, [38,42]],
+[269, [559]],
+[289, [372,374]],
+[291, [131,151]]
+],
 "memberKind": "Property"
 }
 }
@@ -5585,7 +7421,9 @@ var contents = {
 "DevicePairingResult":{
 "members": {
 "Status":{
-"files": [291],
+"files": [
+[293, [209,210]]
+],
 "memberKind": "Property"
 }
 }
@@ -5594,12 +7432,16 @@ var contents = {
 "DevicePairingResultStatus":{
 "members": {
 "Paired":{
-"files": [291],
+"files": [
+[293, [210]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [291],
+"files": [
+[293, [209]]
+],
 "memberKind": "Method"
 }
 }
@@ -5608,64 +7450,84 @@ var contents = {
 "DevicePicker":{
 "members": {
 ":ctor`0":{
-"files": [107,
-108,
-316],
+"files": [
+[110, [64]],
+[111, [71]],
+[318, [74]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DevicePickerDismissed":{
-"files": [107,
-108,
-316],
+"files": [
+[110, [76]],
+[111, [80]],
+[318, [108]]
+],
 "memberKind": "?"
 }
 ,
 "DeviceSelected":{
-"files": [107,
-108,
-316],
+"files": [
+[110, [70]],
+[111, [74]],
+[318, [119]]
+],
 "memberKind": "?"
 }
 ,
 "DisconnectButtonClicked":{
-"files": [107,
-108],
+"files": [
+[110, [73]],
+[111, [77]]
+],
 "memberKind": "?"
 }
 ,
 "Filter":{
-"files": [107,
-108,
-316],
+"files": [
+[110, [67]],
+[111, [84,89,92]],
+[318, [82,87]]
+],
 "memberKind": "Property"
 }
 ,
 "Hide`0":{
-"files": [107,
-108],
+"files": [
+[110, [167]],
+[111, [155,202]]
+],
 "memberKind": "Method"
 }
 ,
 "PickSingleDeviceAsync`1":{
-"files": [316],
+"files": [
+[318, [99]]
+],
 "memberKind": "Method"
 }
 ,
 "SetDisplayStatus`3":{
-"files": [107,
-108],
+"files": [
+[110, [107,166,173,180,207,213]],
+[111, [125,152,160,183,196,207]]
+],
 "memberKind": "Method"
 }
 ,
 "Show`1":{
-"files": [316],
+"files": [
+[318, [131]]
+],
 "memberKind": "Method"
 }
 ,
 "Show`2":{
-"files": [107,
-108],
+"files": [
+[110, [97]],
+[111, [113]]
+],
 "memberKind": "Method"
 }
 }
@@ -5674,32 +7536,44 @@ var contents = {
 "DevicePickerAppearance":{
 "members": {
 "AccentColor":{
-"files": [317],
+"files": [
+[319, [72]]
+],
 "memberKind": "Property"
 }
 ,
 "BackgroundColor":{
-"files": [317],
+"files": [
+[319, [70]]
+],
 "memberKind": "Property"
 }
 ,
 "ForegroundColor":{
-"files": [317],
+"files": [
+[319, [71]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedAccentColor":{
-"files": [317],
+"files": [
+[319, [74]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedBackgroundColor":{
-"files": [317],
+"files": [
+[319, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedForegroundColor":{
-"files": [317],
+"files": [
+[319, [76]]
+],
 "memberKind": "Property"
 }
 }
@@ -5708,26 +7582,34 @@ var contents = {
 "DevicePickerDisplayStatusOptions":{
 "members": {
 "None":{
-"files": [107,
-108],
+"files": [
+[110, [213]],
+[111, [196]]
+],
 "memberKind": "Field"
 }
 ,
 "ShowDisconnectButton":{
-"files": [107,
-108],
+"files": [
+[110, [166]],
+[111, [152,207]]
+],
 "memberKind": "Field"
 }
 ,
 "ShowProgress":{
-"files": [107,
-108],
+"files": [
+[110, [107,207]],
+[111, [125,183]]
+],
 "memberKind": "Field"
 }
 ,
 "ShowRetryButton":{
-"files": [107,
-108],
+"files": [
+[110, [173,180]],
+[111, [160]]
+],
 "memberKind": "Field"
 }
 }
@@ -5736,14 +7618,18 @@ var contents = {
 "DevicePickerFilter":{
 "members": {
 "SupportedDeviceClasses":{
-"files": [316],
+"files": [
+[318, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "SupportedDeviceSelectors":{
-"files": [107,
-108,
-316],
+"files": [
+[110, [67]],
+[111, [84,89,92]],
+[318, [87]]
+],
 "memberKind": "Property"
 }
 }
@@ -5752,8 +7638,10 @@ var contents = {
 "DeviceSelectedEventArgs":{
 "members": {
 "SelectedDevice":{
-"files": [107,
-108],
+"files": [
+[110, [107,110,166,173,180]],
+[111, [119,125,128]]
+],
 "memberKind": "Property"
 }
 }
@@ -5762,146 +7650,164 @@ var contents = {
 "DeviceWatcher":{
 "members": {
 "Added":{
-"files": [278,
-261,
-279,
-262,
-263,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-283,
-284,
-285,
-286,
-267,
-287,
-289],
+"files": [
+[280, [39]],
+[263, [422,429]],
+[281, [210]],
+[264, [55]],
+[265, [53]],
+[266, [426,433]],
+[282, [237]],
+[267, [441,448]],
+[283, [253]],
+[284, [106,189]],
+[290, [98,184]],
+[292, [155,178]],
+[293, [103,186]],
+[285, [50,61]],
+[286, [38]],
+[287, [38]],
+[288, [39]],
+[269, [446,453]],
+[289, [224]],
+[291, [86,99]]
+],
 "memberKind": "?"
 }
 ,
 "EnumerationCompleted":{
-"files": [278,
-279,
-280,
-281,
-282,
-288,
-290,
-291,
-283,
-287,
-289],
+"files": [
+[280, [42]],
+[281, [212]],
+[282, [239]],
+[283, [255]],
+[284, [159,192]],
+[290, [151,187]],
+[292, [158,181]],
+[293, [156,189]],
+[285, [53,64]],
+[289, [226]],
+[291, [89,102]]
+],
 "memberKind": "?"
 }
 ,
 "GetBackgroundTrigger`1":{
-"files": [73],
+"files": [
+[73, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "Removed":{
-"files": [278,
-261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-283,
-267,
-287,
-289],
+"files": [
+[280, [40]],
+[263, [424,432]],
+[281, [211]],
+[266, [428,436]],
+[282, [238]],
+[267, [443,451]],
+[283, [254]],
+[284, [148,191]],
+[290, [140,186]],
+[292, [157,180]],
+[293, [145,188]],
+[285, [51,62]],
+[269, [448,456]],
+[289, [225]],
+[291, [87,100]]
+],
 "memberKind": "?"
 }
 ,
 "Start`0":{
-"files": [278,
-261,
-279,
-262,
-263,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-283,
-284,
-285,
-286,
-267,
-287,
-289],
+"files": [
+[280, [83]],
+[263, [465]],
+[281, [231]],
+[264, [56]],
+[265, [54]],
+[266, [471]],
+[282, [258]],
+[267, [484]],
+[283, [274]],
+[284, [175]],
+[290, [167]],
+[292, [161]],
+[293, [172]],
+[285, [74]],
+[286, [39]],
+[287, [39]],
+[288, [40]],
+[269, [491]],
+[289, [245]],
+[291, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "Status":{
-"files": [278,
-261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-283,
-267,
-287],
+"files": [
+[280, [77,152]],
+[263, [462,463,471,472]],
+[281, [228,229,244,245]],
+[266, [468,469,477,478]],
+[282, [255,256,271,272]],
+[267, [481,482,490,491]],
+[283, [271,272,287,288]],
+[284, [194,195]],
+[290, [189,190]],
+[292, [183,184,202,203,204]],
+[293, [191,192]],
+[285, [72,83]],
+[269, [488,489,497,498]],
+[289, [242,243,258,259]]
+],
 "memberKind": "Property"
 }
 ,
 "Stop`0":{
-"files": [278,
-261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-283,
-267,
-287,
-289],
+"files": [
+[280, [95,132,155]],
+[263, [474]],
+[281, [247]],
+[266, [480]],
+[282, [274]],
+[267, [493]],
+[283, [290]],
+[284, [197]],
+[290, [192]],
+[292, [186]],
+[293, [194]],
+[285, [85]],
+[269, [500]],
+[289, [261]],
+[291, [105]]
+],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
-"files": [278,
-282,
-288,
-290,
-291,
-289],
+"files": [
+[280, [41]],
+[284, [172]],
+[290, [164]],
+[292, [159]],
+[293, [169]],
+[291, [90,103]]
+],
 "memberKind": "?"
 }
 ,
 "Updated":{
-"files": [282,
-288,
-290,
-291,
-283,
-289],
+"files": [
+[284, [126,190]],
+[290, [118,185]],
+[292, [156,179]],
+[293, [123,187]],
+[285, [52,63]],
+[291, [88,101]]
+],
 "memberKind": "?"
 }
 }
@@ -5910,17 +7816,23 @@ var contents = {
 "DeviceWatcherEvent":{
 "members": {
 "DeviceInformation":{
-"files": [96],
+"files": [
+[96, [34]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceInformationUpdate":{
-"files": [96],
+"files": [
+[96, [38,42]]
+],
 "memberKind": "Property"
 }
 ,
 "Kind":{
-"files": [96],
+"files": [
+[96, [31]]
+],
 "memberKind": "Property"
 }
 }
@@ -5929,20 +7841,26 @@ var contents = {
 "DeviceWatcherEventKind":{
 "members": {
 "Add":{
-"files": [96,
-73],
+"files": [
+[96, [33]],
+[73, [68]]
+],
 "memberKind": "Field"
 }
 ,
 "Remove":{
-"files": [96,
-73],
+"files": [
+[96, [41]],
+[73, [68]]
+],
 "memberKind": "Field"
 }
 ,
 "Update":{
-"files": [96,
-73],
+"files": [
+[96, [37]],
+[73, [68]]
+],
 "memberKind": "Field"
 }
 }
@@ -5951,54 +7869,64 @@ var contents = {
 "DeviceWatcherStatus":{
 "members": {
 "Aborted":{
-"files": [282,
-288,
-291],
+"files": [
+[284, [168]],
+[290, [160]],
+[293, [165]]
+],
 "memberKind": "Field"
 }
 ,
 "EnumerationCompleted":{
-"files": [261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-267,
-287],
+"files": [
+[263, [463,472]],
+[281, [229,245]],
+[266, [469,478]],
+[282, [256,272]],
+[267, [482,491]],
+[283, [272,288]],
+[284, [195]],
+[290, [190]],
+[292, [184,203]],
+[293, [192]],
+[269, [489,498]],
+[289, [243,259]]
+],
 "memberKind": "Field"
 }
 ,
 "Started":{
-"files": [278,
-261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-283,
-267,
-287],
+"files": [
+[280, [77]],
+[263, [462,471]],
+[281, [228,244]],
+[266, [468,477]],
+[282, [255,271]],
+[267, [481,490]],
+[283, [271,287]],
+[284, [194]],
+[290, [189]],
+[292, [183,202]],
+[293, [191]],
+[285, [72]],
+[269, [488,497]],
+[289, [242,258]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
-"files": [278,
-283],
+"files": [
+[280, [152]],
+[285, [83]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopping":{
-"files": [290],
+"files": [
+[292, [204]]
+],
 "memberKind": "Field"
 }
 }
@@ -6007,7 +7935,9 @@ var contents = {
 "DeviceWatcherTriggerDetails":{
 "members": {
 "DeviceWatcherEvents":{
-"files": [96],
+"files": [
+[96, [27,29,54]]
+],
 "memberKind": "Property"
 }
 }
@@ -6016,36 +7946,42 @@ var contents = {
 "Panel":{
 "members": {
 "Back":{
-"files": [190,
-191,
-273,
-274,
-275,
-192,
-193,
-296,
-196],
+"files": [
+[192, [216]],
+[193, [316]],
+[275, [69,140]],
+[276, [75]],
+[277, [69]],
+[194, [253]],
+[195, [295]],
+[298, [79]],
+[198, [365]]
+],
 "memberKind": "Field"
 }
 ,
 "Front":{
-"files": [189,
-190,
-191,
-274,
-192,
-193,
-196],
+"files": [
+[191, [283,330]],
+[192, [262]],
+[193, [365]],
+[276, [73]],
+[194, [300]],
+[195, [345]],
+[198, [412]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [319]],
+[192, [251]],
+[193, [354]],
+[194, [289]],
+[195, [334]],
+[198, [401]]
+],
 "memberKind": "Field"
 }
 }
@@ -6058,51 +7994,59 @@ var contents = {
 "BasicGeoposition":{
 "members": {
 ":ctor`0":{
-"files": [318,
-319,
-320,
-321,
-322,
-323,
-324],
+"files": [
+[320, [109]],
+[321, [43]],
+[322, [43,73,74,75,76,94,95]],
+[323, [40]],
+[324, [59,84]],
+[325, [54,78]],
+[326, [20,30,40,50]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Altitude":{
-"files": [325,
-318],
+"files": [
+[327, [275]],
+[320, [112]]
+],
 "memberKind": "Field"
 }
 ,
 "Latitude":{
-"files": [89,
-90,
-326,
-327,
-328,
-325,
-206,
-318,
-319,
-322,
-323,
-324],
+"files": [
+[89, [103]],
+[90, [70]],
+[328, [63]],
+[329, [225]],
+[330, [193]],
+[327, [273]],
+[208, [291]],
+[320, [70,110]],
+[321, [56]],
+[324, [60]],
+[325, [55]],
+[326, [22,32,42,52]]
+],
 "memberKind": "Field"
 }
 ,
 "Longitude":{
-"files": [89,
-90,
-326,
-327,
-328,
-325,
-206,
-318,
-319,
-322,
-323,
-324],
+"files": [
+[89, [104]],
+[90, [71]],
+[328, [72]],
+[329, [226]],
+[330, [194]],
+[327, [274]],
+[208, [292]],
+[320, [70,111]],
+[321, [56]],
+[324, [61]],
+[325, [56]],
+[326, [23,33,43,53]]
+],
 "memberKind": "Field"
 }
 }
@@ -6111,17 +8055,23 @@ var contents = {
 "Geocircle":{
 "members": {
 ":ctor`2":{
-"files": [325],
+"files": [
+[327, [279]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Center":{
-"files": [326],
+"files": [
+[328, [63,72]]
+],
 "memberKind": "Property"
 }
 ,
 "Radius":{
-"files": [326],
+"files": [
+[328, [81]]
+],
 "memberKind": "Property"
 }
 }
@@ -6130,33 +8080,43 @@ var contents = {
 "Geocoordinate":{
 "members": {
 "Accuracy":{
-"files": [90,
-327,
-328],
+"files": [
+[90, [72]],
+[329, [227]],
+[330, [195]]
+],
 "memberKind": "Property"
 }
 ,
 "Point":{
-"files": [89,
-90,
-327,
-328,
-206],
+"files": [
+[89, [103,104]],
+[90, [70,71]],
+[329, [225,226]],
+[330, [193,194]],
+[208, [291,292]]
+],
 "memberKind": "Property"
 }
 ,
 "PositionSource":{
-"files": [328],
+"files": [
+[330, [196,198]]
+],
 "memberKind": "Property"
 }
 ,
 "SatelliteData":{
-"files": [328],
+"files": [
+[330, [201,202,203]]
+],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
-"files": [89],
+"files": [
+[89, [86]]
+],
 "memberKind": "Property"
 }
 }
@@ -6165,17 +8125,23 @@ var contents = {
 "GeocoordinateSatelliteData":{
 "members": {
 "HorizontalDilutionOfPrecision":{
-"files": [328],
+"files": [
+[330, [202]]
+],
 "memberKind": "Property"
 }
 ,
 "PositionDilutionOfPrecision":{
-"files": [328],
+"files": [
+[330, [201]]
+],
 "memberKind": "Property"
 }
 ,
 "VerticalDilutionOfPrecision":{
-"files": [328],
+"files": [
+[330, [203]]
+],
 "memberKind": "Property"
 }
 }
@@ -6186,43 +8152,59 @@ var contents = {
 "Geofence":{
 "members": {
 ":ctor`7":{
-"files": [325],
+"files": [
+[327, [337]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Duration":{
-"files": [326],
+"files": [
+[328, [121]]
+],
 "memberKind": "Property"
 }
 ,
 "DwellTime":{
-"files": [326],
+"files": [
+[328, [105]]
+],
 "memberKind": "Property"
 }
 ,
 "Geoshape":{
-"files": [326],
+"files": [
+[328, [62,71,80]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [326,
-325],
+"files": [
+[328, [28]],
+[327, [196,234]]
+],
 "memberKind": "Property"
 }
 ,
 "MonitoredStates":{
-"files": [326],
+"files": [
+[328, [97]]
+],
 "memberKind": "Property"
 }
 ,
 "SingleUse":{
-"files": [326],
+"files": [
+[328, [89]]
+],
 "memberKind": "Property"
 }
 ,
 "StartTime":{
-"files": [326],
+"files": [
+[328, [113]]
+],
 "memberKind": "Property"
 }
 }
@@ -6231,39 +8213,53 @@ var contents = {
 "GeofenceMonitor":{
 "members": {
 "Current":{
-"files": [89,
-325],
+"files": [
+[89, [42,73,120]],
+[327, [99,105,106,144,145,162,163,168,169]]
+],
 "memberKind": "Property"
 }
 ,
 "Geofences":{
-"files": [325],
+"files": [
+[327, [99]]
+],
 "memberKind": "Property"
 }
 ,
 "GeofenceStateChanged":{
-"files": [325],
+"files": [
+[327, [105,144,162,168]]
+],
 "memberKind": "?"
 }
 ,
 "LastKnownGeoposition":{
-"files": [89],
+"files": [
+[89, [42,75]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadReports`0":{
-"files": [89,
-325],
+"files": [
+[89, [120]],
+[327, [188]]
+],
 "memberKind": "Method"
 }
 ,
 "Status":{
-"files": [325],
+"files": [
+[327, [175]]
+],
 "memberKind": "Property"
 }
 ,
 "StatusChanged":{
-"files": [325],
+"files": [
+[327, [106,145,163,169]]
+],
 "memberKind": "?"
 }
 }
@@ -6272,7 +8268,9 @@ var contents = {
 "GeofenceMonitorStatus":{
 "members": {
 "ToString`0":{
-"files": [325],
+"files": [
+[327, [178]]
+],
 "memberKind": "Method"
 }
 }
@@ -6281,17 +8279,23 @@ var contents = {
 "GeofenceRemovalReason":{
 "members": {
 "Expired":{
-"files": [89],
+"files": [
+[89, [130]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [325],
+"files": [
+[327, [201]]
+],
 "memberKind": "Method"
 }
 ,
 "Used":{
-"files": [89],
+"files": [
+[89, [134]]
+],
 "memberKind": "Field"
 }
 }
@@ -6300,25 +8304,33 @@ var contents = {
 "GeofenceState":{
 "members": {
 "Entered":{
-"files": [89,
-325],
+"files": [
+[89, [139]],
+[327, [212]]
+],
 "memberKind": "Field"
 }
 ,
 "Exited":{
-"files": [89,
-325],
+"files": [
+[89, [143]],
+[327, [212]]
+],
 "memberKind": "Field"
 }
 ,
 "Removed":{
-"files": [89,
-325],
+"files": [
+[89, [127]],
+[327, [199]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [325],
+"files": [
+[327, [197]]
+],
 "memberKind": "Method"
 }
 }
@@ -6327,17 +8339,23 @@ var contents = {
 "GeofenceStateChangeReport":{
 "members": {
 "Geofence":{
-"files": [325],
+"files": [
+[327, [195]]
+],
 "memberKind": "Property"
 }
 ,
 "NewState":{
-"files": [325],
+"files": [
+[327, [194]]
+],
 "memberKind": "Property"
 }
 ,
 "RemovalReason":{
-"files": [325],
+"files": [
+[327, [201]]
+],
 "memberKind": "Property"
 }
 }
@@ -6346,17 +8364,23 @@ var contents = {
 "MonitoredGeofenceStates":{
 "members": {
 "Entered":{
-"files": [325],
+"files": [
+[327, [285]]
+],
 "memberKind": "Field"
 }
 ,
 "Exited":{
-"files": [325],
+"files": [
+[327, [285]]
+],
 "memberKind": "Field"
 }
 ,
 "Removed":{
-"files": [325],
+"files": [
+[327, [285]]
+],
 "memberKind": "Field"
 }
 }
@@ -6367,30 +8391,36 @@ var contents = {
 "GeolocationAccessStatus":{
 "members": {
 "Allowed":{
-"files": [327,
-328,
-68,
-325,
-69,
-318],
+"files": [
+[329, [78]],
+[330, [86]],
+[68, [180]],
+[327, [98]],
+[69, [192]],
+[320, [51]]
+],
 "memberKind": "Field"
 }
 ,
 "Denied":{
-"files": [327,
-328,
-68,
-325,
-69],
+"files": [
+[329, [100]],
+[330, [104]],
+[68, [183]],
+[327, [109]],
+[69, [195]]
+],
 "memberKind": "Field"
 }
 ,
 "Unspecified":{
-"files": [327,
-328,
-68,
-325,
-69],
+"files": [
+[329, [105]],
+[330, [110]],
+[68, [187]],
+[327, [113]],
+[69, [199]]
+],
 "memberKind": "Field"
 }
 }
@@ -6399,54 +8429,70 @@ var contents = {
 "Geolocator":{
 "members": {
 ":ctor`0":{
-"files": [90,
-327,
-328,
-206,
-318],
+"files": [
+[90, [40]],
+[329, [86]],
+[330, [95]],
+[208, [284]],
+[320, [90]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DesiredAccuracy":{
-"files": [206,
-318],
+"files": [
+[208, [287]],
+[320, [91]]
+],
 "memberKind": "?"
 }
 ,
 "DesiredAccuracyInMeters":{
-"files": [328],
+"files": [
+[330, [95]]
+],
 "memberKind": "?"
 }
 ,
 "GetGeopositionAsync`0":{
-"files": [90,
-328,
-206],
+"files": [
+[90, [43]],
+[330, [98]],
+[208, [289]]
+],
 "memberKind": "Method"
 }
 ,
 "PositionChanged":{
-"files": [327],
+"files": [
+[329, [59,89,119]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [327],
+"files": [
+[329, [86]]
+],
 "memberKind": "?"
 }
 ,
 "RequestAccessAsync`0":{
-"files": [327,
-328,
-68,
-325,
-69,
-318],
+"files": [
+[329, [74]],
+[330, [82]],
+[68, [176]],
+[327, [95]],
+[69, [188]],
+[320, [50]]
+],
 "memberKind": "Method"
 }
 ,
 "StatusChanged":{
-"files": [327],
+"files": [
+[329, [60,92,120]]
+],
 "memberKind": "?"
 }
 }
@@ -6455,7 +8501,9 @@ var contents = {
 "Geopath":{
 "members": {
 ":ctor`1":{
-"files": [320],
+"files": [
+[322, [72,93]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -6464,24 +8512,28 @@ var contents = {
 "Geopoint":{
 "members": {
 ":ctor`1":{
-"files": [318,
-319,
-320,
-321,
-322,
-323,
-324],
+"files": [
+[320, [113]],
+[321, [43]],
+[322, [43]],
+[323, [40]],
+[324, [63,84]],
+[325, [58,78]],
+[326, [20,30,40,50]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Position":{
-"files": [89,
-90,
-327,
-328,
-206,
-318,
-319],
+"files": [
+[89, [103,104]],
+[90, [70,71]],
+[329, [225,226]],
+[330, [193,194]],
+[208, [291,292]],
+[320, [70]],
+[321, [55]]
+],
 "memberKind": "Property"
 }
 }
@@ -6490,11 +8542,13 @@ var contents = {
 "Geoposition":{
 "members": {
 "Coordinate":{
-"files": [89,
-90,
-327,
-328,
-206],
+"files": [
+[89, [86,103,104]],
+[90, [70,71,72]],
+[329, [225,226,227]],
+[330, [193,194,195,196,198,201,202,203]],
+[208, [291,292]]
+],
 "memberKind": "Property"
 }
 }
@@ -6503,8 +8557,10 @@ var contents = {
 "PositionAccuracy":{
 "members": {
 "High":{
-"files": [206,
-318],
+"files": [
+[208, [287]],
+[320, [91]]
+],
 "memberKind": "Field"
 }
 }
@@ -6513,7 +8569,9 @@ var contents = {
 "PositionChangedEventArgs":{
 "members": {
 "Position":{
-"files": [327],
+"files": [
+[329, [141]]
+],
 "memberKind": "Property"
 }
 }
@@ -6522,12 +8580,16 @@ var contents = {
 "PositionSource":{
 "members": {
 "Satellite":{
-"files": [328],
+"files": [
+[330, [198]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [328],
+"files": [
+[330, [196]]
+],
 "memberKind": "Method"
 }
 }
@@ -6536,32 +8598,44 @@ var contents = {
 "PositionStatus":{
 "members": {
 "Disabled":{
-"files": [327],
+"files": [
+[329, [178]]
+],
 "memberKind": "Field"
 }
 ,
 "Initializing":{
-"files": [327],
+"files": [
+[329, [166]]
+],
 "memberKind": "Field"
 }
 ,
 "NoData":{
-"files": [327],
+"files": [
+[329, [172]]
+],
 "memberKind": "Field"
 }
 ,
 "NotAvailable":{
-"files": [327],
+"files": [
+[329, [197]]
+],
 "memberKind": "Field"
 }
 ,
 "NotInitialized":{
-"files": [327],
+"files": [
+[329, [190]]
+],
 "memberKind": "Field"
 }
 ,
 "Ready":{
-"files": [327],
+"files": [
+[329, [160]]
+],
 "memberKind": "Field"
 }
 }
@@ -6570,7 +8644,9 @@ var contents = {
 "StatusChangedEventArgs":{
 "members": {
 "Status":{
-"files": [327],
+"files": [
+[329, [158]]
+],
 "memberKind": "Property"
 }
 }
@@ -6583,37 +8659,51 @@ var contents = {
 "HidDevice":{
 "members": {
 "Dispose`0":{
-"files": [261],
+"files": [
+[263, [368]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`2":{
-"files": [261],
+"files": [
+[263, [216]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`2":{
-"files": [259],
+"files": [
+[261, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`4":{
-"files": [279],
+"files": [
+[281, [175]]
+],
 "memberKind": "Method"
 }
 ,
 "InputReportReceived":{
-"files": [329],
+"files": [
+[331, [247,266]]
+],
 "memberKind": "?"
 }
 ,
 "ProductId":{
-"files": [330],
+"files": [
+[332, [68]]
+],
 "memberKind": "Property"
 }
 ,
 "VendorId":{
-"files": [330],
+"files": [
+[332, [67]]
+],
 "memberKind": "Property"
 }
 }
@@ -6622,7 +8712,9 @@ var contents = {
 "HidInputReport":{
 "members": {
 "Data":{
-"files": [329],
+"files": [
+[331, [204]]
+],
 "memberKind": "Property"
 }
 }
@@ -6631,7 +8723,9 @@ var contents = {
 "HidInputReportReceivedEventArgs":{
 "members": {
 "Report":{
-"files": [329],
+"files": [
+[331, [203]]
+],
 "memberKind": "Property"
 }
 }
@@ -6644,12 +8738,16 @@ var contents = {
 "KeyboardCapabilities":{
 "members": {
 ":ctor`0":{
-"files": [331],
+"files": [
+[333, [24]]
+],
 "memberKind": "Constructor"
 }
 ,
 "KeyboardPresent":{
-"files": [331],
+"files": [
+[333, [25]]
+],
 "memberKind": "Property"
 }
 }
@@ -6658,32 +8756,44 @@ var contents = {
 "MouseCapabilities":{
 "members": {
 ":ctor`0":{
-"files": [331],
+"files": [
+[333, [34]]
+],
 "memberKind": "Constructor"
 }
 ,
 "HorizontalWheelPresent":{
-"files": [331],
+"files": [
+[333, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "MousePresent":{
-"files": [331],
+"files": [
+[333, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberOfButtons":{
-"files": [331],
+"files": [
+[333, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "SwapButtons":{
-"files": [331],
+"files": [
+[333, [40]]
+],
 "memberKind": "Property"
 }
 ,
 "VerticalWheelPresent":{
-"files": [331],
+"files": [
+[333, [38]]
+],
 "memberKind": "Property"
 }
 }
@@ -6692,7 +8802,9 @@ var contents = {
 "PointerDevice":{
 "members": {
 "PointerDeviceType":{
-"files": [332],
+"files": [
+[334, [127,210]]
+],
 "memberKind": "Property"
 }
 }
@@ -6701,18 +8813,24 @@ var contents = {
 "PointerDeviceType":{
 "members": {
 "Mouse":{
-"files": [332],
+"files": [
+[334, [129,212]]
+],
 "memberKind": "Field"
 }
 ,
 "Pen":{
-"files": [332],
+"files": [
+[334, [132,220]]
+],
 "memberKind": "Field"
 }
 ,
 "Touch":{
-"files": [332,
-333],
+"files": [
+[334, [135,216]],
+[335, [80]]
+],
 "memberKind": "Field"
 }
 }
@@ -6721,17 +8839,23 @@ var contents = {
 "TouchCapabilities":{
 "members": {
 ":ctor`0":{
-"files": [331],
+"files": [
+[333, [46]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Contacts":{
-"files": [331],
+"files": [
+[333, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "TouchPresent":{
-"files": [331],
+"files": [
+[333, [48]]
+],
 "memberKind": "Property"
 }
 }
@@ -6744,41 +8868,55 @@ var contents = {
 "Lamp":{
 "members": {
 "AvailabilityChanged":{
-"files": [334],
+"files": [
+[336, [108,127,166]]
+],
 "memberKind": "?"
 }
 ,
 "DeviceId":{
-"files": [296,
-334],
+"files": [
+[298, [88]],
+[336, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [296,
-334],
+"files": [
+[298, [93]],
+[336, [110]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [296],
+"files": [
+[298, [87]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
-"files": [296,
-335,
-334],
+"files": [
+[298, [118]],
+[337, [65,118]],
+[336, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [296],
+"files": [
+[298, [68]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
-"files": [334],
+"files": [
+[336, [109,189,194]]
+],
 "memberKind": "Property"
 }
 }
@@ -6787,7 +8925,9 @@ var contents = {
 "LampAvailabilityChangedEventArgs":{
 "members": {
 "IsAvailable":{
-"files": [334],
+"files": [
+[336, [144,147,150]]
+],
 "memberKind": "Property"
 }
 }
@@ -6800,12 +8940,16 @@ var contents = {
 "IMidiMessage":{
 "members": {
 "Timestamp":{
-"files": [306],
+"files": [
+[308, [165]]
+],
 "memberKind": "Property"
 }
 ,
 "Type":{
-"files": [306],
+"files": [
+[308, [165,168,254]]
+],
 "memberKind": "Property"
 }
 }
@@ -6814,12 +8958,16 @@ var contents = {
 "IMidiOutPort":{
 "members": {
 "Dispose`0":{
-"files": [307],
+"files": [
+[309, [87]]
+],
 "memberKind": "Method"
 }
 ,
 "SendMessage`1":{
-"files": [307],
+"files": [
+[309, [338]]
+],
 "memberKind": "Method"
 }
 }
@@ -6828,7 +8976,9 @@ var contents = {
 "MidiActiveSensingMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [327]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -6837,17 +8987,23 @@ var contents = {
 "MidiChannelPressureMessage":{
 "members": {
 ":ctor`2":{
-"files": [307],
+"files": [
+[309, [272]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [192]]
+],
 "memberKind": "Property"
 }
 ,
 "Pressure":{
-"files": [306],
+"files": [
+[308, [192]]
+],
 "memberKind": "Property"
 }
 }
@@ -6856,7 +9012,9 @@ var contents = {
 "MidiContinueMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [321]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -6865,22 +9023,30 @@ var contents = {
 "MidiControlChangeMessage":{
 "members": {
 ":ctor`3":{
-"files": [307],
+"files": [
+[309, [266]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [184]]
+],
 "memberKind": "Property"
 }
 ,
 "Controller":{
-"files": [306],
+"files": [
+[308, [184]]
+],
 "memberKind": "Property"
 }
 ,
 "ControlValue":{
-"files": [306],
+"files": [
+[308, [184]]
+],
 "memberKind": "Property"
 }
 }
@@ -6889,18 +9055,24 @@ var contents = {
 "MidiInPort":{
 "members": {
 "Dispose`0":{
-"files": [306],
+"files": [
+[308, [70]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [306],
+"files": [
+[308, [133]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [292,
-306],
+"files": [
+[294, [78,138]],
+[308, [86]]
+],
 "memberKind": "Method"
 }
 }
@@ -6909,7 +9081,9 @@ var contents = {
 "MidiMessageReceivedEventArgs":{
 "members": {
 "Message":{
-"files": [306],
+"files": [
+[308, [161]]
+],
 "memberKind": "Property"
 }
 }
@@ -6918,116 +9092,154 @@ var contents = {
 "MidiMessageType":{
 "members": {
 "ActiveSensing":{
-"files": [306,
-307],
+"files": [
+[308, [238,254]],
+[309, [120,326,390]]
+],
 "memberKind": "Field"
 }
 ,
 "ChannelPressure":{
-"files": [306,
-307],
+"files": [
+[308, [190]],
+[309, [121,271,426,541,583]]
+],
 "memberKind": "Field"
 }
 ,
 "Continue":{
-"files": [306,
-307],
+"files": [
+[308, [232]],
+[309, [122,320,391]]
+],
 "memberKind": "Field"
 }
 ,
 "ControlChange":{
-"files": [306,
-307],
+"files": [
+[308, [182]],
+[309, [123,265,424,531,634,669]]
+],
 "memberKind": "Field"
 }
 ,
 "MidiTimeCode":{
-"files": [306,
-307],
+"files": [
+[308, [211]],
+[309, [124,302,432,551,585]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [306,
-307],
+"files": [
+[308, [244]],
+[309, [57,220,332]]
+],
 "memberKind": "Field"
 }
 ,
 "NoteOff":{
-"files": [306,
-307],
+"files": [
+[308, [170]],
+[309, [125,256,421,524,623,666]]
+],
 "memberKind": "Field"
 }
 ,
 "NoteOn":{
-"files": [306,
-307],
+"files": [
+[308, [174]],
+[309, [126,259,422,525,624,667]]
+],
 "memberKind": "Field"
 }
 ,
 "PitchBendChange":{
-"files": [306,
-307],
+"files": [
+[308, [194]],
+[309, [127,274,427,546,584]]
+],
 "memberKind": "Field"
 }
 ,
 "PolyphonicKeyPressure":{
-"files": [306,
-307],
+"files": [
+[308, [178]],
+[309, [128,262,423,526,629,668]]
+],
 "memberKind": "Field"
 }
 ,
 "ProgramChange":{
-"files": [306,
-307],
+"files": [
+[308, [186]],
+[309, [129,268,425,536,582]]
+],
 "memberKind": "Field"
 }
 ,
 "SongPositionPointer":{
-"files": [306,
-307],
+"files": [
+[308, [215]],
+[309, [130,305,437,485]]
+],
 "memberKind": "Field"
 }
 ,
 "SongSelect":{
-"files": [306,
-307],
+"files": [
+[308, [219]],
+[309, [131,308,442,486]]
+],
 "memberKind": "Field"
 }
 ,
 "Start":{
-"files": [306,
-307],
+"files": [
+[308, [229]],
+[309, [132,317,392]]
+],
 "memberKind": "Field"
 }
 ,
 "Stop":{
-"files": [306,
-307],
+"files": [
+[308, [235]],
+[309, [133,323,393]]
+],
 "memberKind": "Field"
 }
 ,
 "SystemExclusive":{
-"files": [306,
-307],
+"files": [
+[308, [198]],
+[309, [134,277,379,447]]
+],
 "memberKind": "Field"
 }
 ,
 "SystemReset":{
-"files": [306,
-307],
+"files": [
+[308, [241]],
+[309, [135,329,394]]
+],
 "memberKind": "Field"
 }
 ,
 "TimingClock":{
-"files": [306,
-307],
+"files": [
+[308, [226,254]],
+[309, [136,314,395]]
+],
 "memberKind": "Field"
 }
 ,
 "TuneRequest":{
-"files": [306,
-307],
+"files": [
+[308, [223]],
+[309, [137,311,396]]
+],
 "memberKind": "Field"
 }
 }
@@ -7036,22 +9248,30 @@ var contents = {
 "MidiNoteOffMessage":{
 "members": {
 ":ctor`3":{
-"files": [307],
+"files": [
+[309, [257]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [172]]
+],
 "memberKind": "Property"
 }
 ,
 "Note":{
-"files": [306],
+"files": [
+[308, [172]]
+],
 "memberKind": "Property"
 }
 ,
 "Velocity":{
-"files": [306],
+"files": [
+[308, [172]]
+],
 "memberKind": "Property"
 }
 }
@@ -7060,22 +9280,30 @@ var contents = {
 "MidiNoteOnMessage":{
 "members": {
 ":ctor`3":{
-"files": [307],
+"files": [
+[309, [260]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [176]]
+],
 "memberKind": "Property"
 }
 ,
 "Note":{
-"files": [306],
+"files": [
+[308, [176]]
+],
 "memberKind": "Property"
 }
 ,
 "Velocity":{
-"files": [306],
+"files": [
+[308, [176]]
+],
 "memberKind": "Property"
 }
 }
@@ -7084,13 +9312,17 @@ var contents = {
 "MidiOutPort":{
 "members": {
 "FromIdAsync`1":{
-"files": [307],
+"files": [
+[309, [180]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [292,
-307],
+"files": [
+[294, [79,183]],
+[309, [103]]
+],
 "memberKind": "Method"
 }
 }
@@ -7099,17 +9331,23 @@ var contents = {
 "MidiPitchBendChangeMessage":{
 "members": {
 ":ctor`2":{
-"files": [307],
+"files": [
+[309, [275]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Bend":{
-"files": [306],
+"files": [
+[308, [196]]
+],
 "memberKind": "Property"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [196]]
+],
 "memberKind": "Property"
 }
 }
@@ -7118,22 +9356,30 @@ var contents = {
 "MidiPolyphonicKeyPressureMessage":{
 "members": {
 ":ctor`3":{
-"files": [307],
+"files": [
+[309, [263]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [180]]
+],
 "memberKind": "Property"
 }
 ,
 "Note":{
-"files": [306],
+"files": [
+[308, [180]]
+],
 "memberKind": "Property"
 }
 ,
 "Pressure":{
-"files": [306],
+"files": [
+[308, [180]]
+],
 "memberKind": "Property"
 }
 }
@@ -7142,17 +9388,23 @@ var contents = {
 "MidiProgramChangeMessage":{
 "members": {
 ":ctor`2":{
-"files": [307],
+"files": [
+[309, [269]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
-"files": [306],
+"files": [
+[308, [188]]
+],
 "memberKind": "Property"
 }
 ,
 "Program":{
-"files": [306],
+"files": [
+[308, [188]]
+],
 "memberKind": "Property"
 }
 }
@@ -7161,12 +9413,16 @@ var contents = {
 "MidiSongPositionPointerMessage":{
 "members": {
 ":ctor`1":{
-"files": [307],
+"files": [
+[309, [306]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Beats":{
-"files": [306],
+"files": [
+[308, [217]]
+],
 "memberKind": "Property"
 }
 }
@@ -7175,12 +9431,16 @@ var contents = {
 "MidiSongSelectMessage":{
 "members": {
 ":ctor`1":{
-"files": [307],
+"files": [
+[309, [309]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Song":{
-"files": [306],
+"files": [
+[308, [221]]
+],
 "memberKind": "Property"
 }
 }
@@ -7189,7 +9449,9 @@ var contents = {
 "MidiStartMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [318]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -7198,7 +9460,9 @@ var contents = {
 "MidiStopMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [324]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -7207,12 +9471,16 @@ var contents = {
 "MidiSystemExclusiveMessage":{
 "members": {
 ":ctor`1":{
-"files": [307],
+"files": [
+[309, [300]]
+],
 "memberKind": "Constructor"
 }
 ,
 "RawData":{
-"files": [306],
+"files": [
+[308, [203]]
+],
 "memberKind": "Property"
 }
 }
@@ -7221,7 +9489,9 @@ var contents = {
 "MidiSystemResetMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [330]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -7230,17 +9500,23 @@ var contents = {
 "MidiTimeCodeMessage":{
 "members": {
 ":ctor`2":{
-"files": [307],
+"files": [
+[309, [303]]
+],
 "memberKind": "Constructor"
 }
 ,
 "FrameType":{
-"files": [306],
+"files": [
+[308, [213]]
+],
 "memberKind": "Property"
 }
 ,
 "Values":{
-"files": [306],
+"files": [
+[308, [213]]
+],
 "memberKind": "Property"
 }
 }
@@ -7249,7 +9525,9 @@ var contents = {
 "MidiTimingClockMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [315]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -7258,7 +9536,9 @@ var contents = {
 "MidiTuneRequestMessage":{
 "members": {
 ":ctor`0":{
-"files": [307],
+"files": [
+[309, [312]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -7271,23 +9551,31 @@ var contents = {
 "BarcodeScanner":{
 "members": {
 "ClaimScannerAsync`0":{
-"files": [294,
-336],
+"files": [
+[296, [84]],
+[338, [312,321]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [294],
+"files": [
+[296, [57]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
-"files": [336],
+"files": [
+[338, [277]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [294],
+"files": [
+[296, [54]]
+],
 "memberKind": "Method"
 }
 }
@@ -7296,8 +9584,10 @@ var contents = {
 "BarcodeScannerDataReceivedEventArgs":{
 "members": {
 "Report":{
-"files": [294,
-336],
+"files": [
+[296, [261,263,265]],
+[338, [529,531,534,536,543,567,569,572,574,582]]
+],
 "memberKind": "Property"
 }
 }
@@ -7306,20 +9596,26 @@ var contents = {
 "BarcodeScannerReport":{
 "members": {
 "ScanData":{
-"files": [294,
-336],
+"files": [
+[296, [263]],
+[338, [529,531,567,569]]
+],
 "memberKind": "Property"
 }
 ,
 "ScanDataLabel":{
-"files": [294,
-336],
+"files": [
+[296, [261]],
+[338, [534,536,572,574]]
+],
 "memberKind": "Property"
 }
 ,
 "ScanDataType":{
-"files": [294,
-336],
+"files": [
+[296, [261,265]],
+[338, [536,543,574,582]]
+],
 "memberKind": "Property"
 }
 }
@@ -7328,8 +9624,10 @@ var contents = {
 "BarcodeSymbologies":{
 "members": {
 "GetName`1":{
-"files": [294,
-336],
+"files": [
+[296, [220,265]],
+[338, [489,543,582]]
+],
 "memberKind": "Method"
 }
 }
@@ -7338,26 +9636,34 @@ var contents = {
 "CashDrawer":{
 "members": {
 "ClaimDrawerAsync`0":{
-"files": [337,
-338,
-339],
+"files": [
+[339, [140]],
+[340, [164]],
+[341, [120,134]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
-"files": [337,
-338,
-339],
+"files": [
+[339, [121]],
+[340, [145]],
+[341, [84]]
+],
 "memberKind": "Method"
 }
 ,
 "Status":{
-"files": [338],
+"files": [
+[340, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "StatusUpdated":{
-"files": [338],
+"files": [
+[340, [76]]
+],
 "memberKind": "?"
 }
 }
@@ -7366,32 +9672,44 @@ var contents = {
 "CashDrawerCloseAlarm":{
 "members": {
 "AlarmTimeout":{
-"files": [338],
+"files": [
+[340, [121]]
+],
 "memberKind": "Property"
 }
 ,
 "AlarmTimeoutExpired":{
-"files": [338],
+"files": [
+[340, [125]]
+],
 "memberKind": "?"
 }
 ,
 "BeepDelay":{
-"files": [338],
+"files": [
+[340, [122]]
+],
 "memberKind": "Property"
 }
 ,
 "BeepDuration":{
-"files": [338],
+"files": [
+[340, [123]]
+],
 "memberKind": "Property"
 }
 ,
 "BeepFrequency":{
-"files": [338],
+"files": [
+[340, [124]]
+],
 "memberKind": "Property"
 }
 ,
 "StartAsync`0":{
-"files": [338],
+"files": [
+[340, [129]]
+],
 "memberKind": "Method"
 }
 }
@@ -7400,7 +9718,9 @@ var contents = {
 "CashDrawerStatus":{
 "members": {
 "StatusKind":{
-"files": [338],
+"files": [
+[340, [81,196,197]]
+],
 "memberKind": "Property"
 }
 }
@@ -7409,12 +9729,16 @@ var contents = {
 "CashDrawerStatusKind":{
 "members": {
 "Offline":{
-"files": [338],
+"files": [
+[340, [227]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [338],
+"files": [
+[340, [197,241]]
+],
 "memberKind": "Method"
 }
 }
@@ -7423,7 +9747,9 @@ var contents = {
 "CashDrawerStatusUpdatedEventArgs":{
 "members": {
 "Status":{
-"files": [338],
+"files": [
+[340, [196,197]]
+],
 "memberKind": "Property"
 }
 }
@@ -7432,44 +9758,58 @@ var contents = {
 "ClaimedBarcodeScanner":{
 "members": {
 "DataReceived":{
-"files": [294,
-336],
+"files": [
+[296, [140,277]],
+[338, [97,166,231,256]]
+],
 "memberKind": "?"
 }
 ,
 "DeviceId":{
-"files": [294,
-336],
+"files": [
+[296, [155]],
+[338, [344,348]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [294,
-336],
+"files": [
+[296, [280]],
+[338, [142,213,235,260,363,371]]
+],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
-"files": [294,
-336],
+"files": [
+[296, [149]],
+[338, [343,347]]
+],
 "memberKind": "Method"
 }
 ,
 "IsDecodeDataEnabled":{
-"files": [294,
-336],
+"files": [
+[296, [144]],
+[338, [98,169]]
+],
 "memberKind": "Property"
 }
 ,
 "ReleaseDeviceRequested":{
-"files": [294,
-336],
+"files": [
+[296, [137,278]],
+[338, [96,165,232,257]]
+],
 "memberKind": "?"
 }
 ,
 "RetainDevice`0":{
-"files": [294,
-336],
+"files": [
+[296, [170]],
+[338, [132,203]]
+],
 "memberKind": "Method"
 }
 }
@@ -7478,47 +9818,63 @@ var contents = {
 "ClaimedCashDrawer":{
 "members": {
 "CloseAlarm":{
-"files": [338],
+"files": [
+[340, [113]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceId":{
-"files": [337,
-338],
+"files": [
+[339, [80]],
+[340, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [337,
-338,
-339],
+"files": [
+[339, [184]],
+[340, [223]],
+[341, [204,222,249,275,293,299]]
+],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
-"files": [337,
-338],
+"files": [
+[339, [160]],
+[340, [184]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
-"files": [337,
-338],
+"files": [
+[339, [157,169]],
+[340, [181]]
+],
 "memberKind": "Property"
 }
 ,
 "OpenDrawerAsync`0":{
-"files": [337],
+"files": [
+[339, [172]]
+],
 "memberKind": "Method"
 }
 ,
 "ReleaseDeviceRequested":{
-"files": [339],
+"files": [
+[341, [164,185]]
+],
 "memberKind": "?"
 }
 ,
 "RetainDeviceAsync`0":{
-"files": [339],
+"files": [
+[341, [244,270]]
+],
 "memberKind": "Method"
 }
 }
@@ -7527,48 +9883,64 @@ var contents = {
 "ClaimedMagneticStripeReader":{
 "members": {
 "AamvaCardDataReceived":{
-"files": [340],
+"files": [
+[342, [99,201]]
+],
 "memberKind": "?"
 }
 ,
 "BankCardDataReceived":{
-"files": [341],
+"files": [
+[343, [99,191]]
+],
 "memberKind": "?"
 }
 ,
 "DeviceId":{
-"files": [341,
-340],
+"files": [
+[343, [106]],
+[342, [106]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [341,
-340],
+"files": [
+[343, [195]],
+[342, [205]]
+],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
-"files": [341,
-340],
+"files": [
+[343, [104]],
+[342, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "IsDecodeDataEnabled":{
-"files": [341,
-340],
+"files": [
+[343, [102]],
+[342, [102]]
+],
 "memberKind": "Property"
 }
 ,
 "ReleaseDeviceRequested":{
-"files": [341,
-340],
+"files": [
+[343, [94,192]],
+[342, [94,202]]
+],
 "memberKind": "?"
 }
 ,
 "RetainDevice`0":{
-"files": [341,
-340],
+"files": [
+[343, [135]],
+[342, [135]]
+],
 "memberKind": "Method"
 }
 }
@@ -7577,37 +9949,47 @@ var contents = {
 "ClaimedPosPrinter":{
 "members": {
 "Dispose`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [48]],
+[301, [63]],
+[302, [78,104,244,251,267,281]]
+],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [159]],
+[301, [176]],
+[302, [132,169]]
+],
 "memberKind": "Method"
 }
 ,
 "Receipt":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [176,205,224,261,277]],
+[301, [98,108,112,116,120,124,203]],
+[302, [303,309]]
+],
 "memberKind": "Property"
 }
 ,
 "ReleaseDeviceRequested":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [47,136]],
+[301, [62,171]],
+[302, [77,103,130,167,243,250,266,280]]
+],
 "memberKind": "?"
 }
 ,
 "RetainDeviceAsync`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [92]],
+[301, [252]],
+[302, [262,276]]
+],
 "memberKind": "Method"
 }
 }
@@ -7616,34 +9998,46 @@ var contents = {
 "ClaimedReceiptPrinter":{
 "members": {
 "CreateJob`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [176,224,261,277]],
+[301, [98]],
+[302, [309]]
+],
 "memberKind": "Method"
 }
 ,
 "IsCartridgeEmpty":{
-"files": [299],
+"files": [
+[301, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "IsCartridgeRemoved":{
-"files": [299],
+"files": [
+[301, [112]]
+],
 "memberKind": "Property"
 }
 ,
 "IsCoverOpen":{
-"files": [299],
+"files": [
+[301, [116]]
+],
 "memberKind": "Property"
 }
 ,
 "IsHeadCleaning":{
-"files": [299],
+"files": [
+[301, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPaperEmpty":{
-"files": [299],
+"files": [
+[301, [124]]
+],
 "memberKind": "Property"
 }
 }
@@ -7652,14 +10046,18 @@ var contents = {
 "MagneticStripeReader":{
 "members": {
 "ClaimReaderAsync`0":{
-"files": [341,
-340],
+"files": [
+[343, [70]],
+[342, [70]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
-"files": [341,
-340],
+"files": [
+[343, [50]],
+[342, [50]]
+],
 "memberKind": "Method"
 }
 }
@@ -7668,92 +10066,128 @@ var contents = {
 "MagneticStripeReaderAamvaCardDataReceivedEventArgs":{
 "members": {
 "Address":{
-"files": [340],
+"files": [
+[342, [150]]
+],
 "memberKind": "Property"
 }
 ,
 "BirthDate":{
-"files": [340],
+"files": [
+[342, [151]]
+],
 "memberKind": "Property"
 }
 ,
 "City":{
-"files": [340],
+"files": [
+[342, [152]]
+],
 "memberKind": "Property"
 }
 ,
 "Class":{
-"files": [340],
+"files": [
+[342, [153]]
+],
 "memberKind": "Property"
 }
 ,
 "Endorsements":{
-"files": [340],
+"files": [
+[342, [154]]
+],
 "memberKind": "Property"
 }
 ,
 "ExpirationDate":{
-"files": [340],
+"files": [
+[342, [155]]
+],
 "memberKind": "Property"
 }
 ,
 "EyeColor":{
-"files": [340],
+"files": [
+[342, [156]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
-"files": [340],
+"files": [
+[342, [157]]
+],
 "memberKind": "Property"
 }
 ,
 "Gender":{
-"files": [340],
+"files": [
+[342, [158]]
+],
 "memberKind": "Property"
 }
 ,
 "HairColor":{
-"files": [340],
+"files": [
+[342, [159]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [340],
+"files": [
+[342, [160]]
+],
 "memberKind": "Property"
 }
 ,
 "LicenseNumber":{
-"files": [340],
+"files": [
+[342, [161]]
+],
 "memberKind": "Property"
 }
 ,
 "PostalCode":{
-"files": [340],
+"files": [
+[342, [162]]
+],
 "memberKind": "Property"
 }
 ,
 "Restrictions":{
-"files": [340],
+"files": [
+[342, [163]]
+],
 "memberKind": "Property"
 }
 ,
 "State":{
-"files": [340],
+"files": [
+[342, [164]]
+],
 "memberKind": "Property"
 }
 ,
 "Suffix":{
-"files": [340],
+"files": [
+[342, [165]]
+],
 "memberKind": "Property"
 }
 ,
 "Surname":{
-"files": [340],
+"files": [
+[342, [166]]
+],
 "memberKind": "Property"
 }
 ,
 "Weight":{
-"files": [340],
+"files": [
+[342, [167]]
+],
 "memberKind": "Property"
 }
 }
@@ -7762,42 +10196,58 @@ var contents = {
 "MagneticStripeReaderBankCardDataReceivedEventArgs":{
 "members": {
 "AccountNumber":{
-"files": [341],
+"files": [
+[343, [150]]
+],
 "memberKind": "Property"
 }
 ,
 "ExpirationDate":{
-"files": [341],
+"files": [
+[343, [151]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
-"files": [341],
+"files": [
+[343, [152]]
+],
 "memberKind": "Property"
 }
 ,
 "MiddleInitial":{
-"files": [341],
+"files": [
+[343, [153]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceCode":{
-"files": [341],
+"files": [
+[343, [154]]
+],
 "memberKind": "Property"
 }
 ,
 "Suffix":{
-"files": [341],
+"files": [
+[343, [155]]
+],
 "memberKind": "Property"
 }
 ,
 "Surname":{
-"files": [341],
+"files": [
+[343, [156]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [341],
+"files": [
+[343, [157]]
+],
 "memberKind": "Property"
 }
 }
@@ -7806,37 +10256,47 @@ var contents = {
 "PosPrinter":{
 "members": {
 "Capabilities":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [303]],
+[301, [227]],
+[302, [201,206]]
+],
 "memberKind": "Property"
 }
 ,
 "ClaimPrinterAsync`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [133]],
+[301, [150]],
+[302, [127,164]]
+],
 "memberKind": "Method"
 }
 ,
 "DeviceId":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [305]],
+[301, [229]],
+[302, [203,208]]
+],
 "memberKind": "Property"
 }
 ,
 "FromIdAsync`1":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [300]],
+[301, [224]],
+[302, [200,205]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [296]],
+[301, [220]],
+[302, [196]]
+],
 "memberKind": "Method"
 }
 }
@@ -7845,9 +10305,11 @@ var contents = {
 "PosPrinterCapabilities":{
 "members": {
 "Receipt":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [303]],
+[301, [227]],
+[302, [201,206]]
+],
 "memberKind": "Property"
 }
 }
@@ -7856,9 +10318,11 @@ var contents = {
 "ReceiptPrinterCapabilities":{
 "members": {
 "IsPrinterPresent":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [303]],
+[301, [227]],
+[302, [201,206]]
+],
 "memberKind": "Property"
 }
 }
@@ -7867,26 +10331,34 @@ var contents = {
 "ReceiptPrintJob":{
 "members": {
 "CutPaper`0":{
-"files": [298],
+"files": [
+[300, [270,283]]
+],
 "memberKind": "Method"
 }
 ,
 "ExecuteAsync`0":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [179,247,248,249,250]],
+[301, [101]],
+[302, [311]]
+],
 "memberKind": "Method"
 }
 ,
 "PrintLine`0":{
-"files": [298],
+"files": [
+[300, [262,265,268,278,281]]
+],
 "memberKind": "Method"
 }
 ,
 "PrintLine`1":{
-"files": [298,
-299,
-300],
+"files": [
+[300, [177,225,226,227,229,230,234,237,238,263,264,266,267,269,279,280,282]],
+[301, [99]],
+[302, [310]]
+],
 "memberKind": "Method"
 }
 }
@@ -7899,32 +10371,44 @@ var contents = {
 "Radio":{
 "members": {
 "GetRadiosAsync`0":{
-"files": [342],
+"files": [
+[344, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "Name":{
-"files": [343],
+"files": [
+[345, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
-"files": [342],
+"files": [
+[344, [34]]
+],
 "memberKind": "Method"
 }
 ,
 "SetStateAsync`1":{
-"files": [343],
+"files": [
+[345, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "State":{
-"files": [343],
+"files": [
+[345, [57]]
+],
 "memberKind": "Property"
 }
 ,
 "StateChanged":{
-"files": [343],
+"files": [
+[345, [32]]
+],
 "memberKind": "?"
 }
 }
@@ -7933,7 +10417,9 @@ var contents = {
 "RadioAccessStatus":{
 "members": {
 "Allowed":{
-"files": [342],
+"files": [
+[344, [35]]
+],
 "memberKind": "Field"
 }
 }
@@ -7942,12 +10428,16 @@ var contents = {
 "RadioState":{
 "members": {
 "Off":{
-"files": [343],
+"files": [
+[345, [90]]
+],
 "memberKind": "Field"
 }
 ,
 "On":{
-"files": [343],
+"files": [
+[345, [57,90]]
+],
 "memberKind": "Field"
 }
 }
@@ -7960,69 +10450,89 @@ var contents = {
 "Accelerometer":{
 "members": {
 "DeviceId":{
-"files": [59],
+"files": [
+[59, [152]]
+],
 "memberKind": "Property"
 }
 ,
 "GetCurrentReading`0":{
-"files": [344],
+"files": [
+[346, [124]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [345,
-346,
-344,
-347,
-348,
-79,
-59],
+"files": [
+[347, [36]],
+[348, [37]],
+[346, [38]],
+[349, [43,45]],
+[350, [38]],
+[79, [29]],
+[59, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "MaxBatchSize":{
-"files": [348],
+"files": [
+[350, [47]]
+],
 "memberKind": "Property"
 }
 ,
 "MinimumReportInterval":{
-"files": [345,
-344,
-347,
-348,
-79],
+"files": [
+[347, [41]],
+[346, [43]],
+[349, [125,126]],
+[350, [43]],
+[79, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [345,
-347,
-348,
-79],
+"files": [
+[347, [74,98,103,137,156]],
+[349, [88,89,134,135,196,197,202,203,216,217]],
+[350, [80,104,109,145,164]],
+[79, [40,66]]
+],
 "memberKind": "?"
 }
 ,
 "ReadingTransform":{
-"files": [347],
+"files": [
+[349, [113,131]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [345,
-344,
-347,
-348,
-79],
+"files": [
+[347, [77,134,159]],
+[346, [86,143,170]],
+[349, [92,93,125,126,220,221]],
+[350, [83,140,167]],
+[79, [37,67]]
+],
 "memberKind": "Property"
 }
 ,
 "ReportLatency":{
-"files": [348],
+"files": [
+[350, [143]]
+],
 "memberKind": "Property"
 }
 ,
 "Shaken":{
-"files": [346],
+"files": [
+[348, [69,90,95,124,142]]
+],
 "memberKind": "?"
 }
 }
@@ -8031,26 +10541,32 @@ var contents = {
 "AccelerometerReading":{
 "members": {
 "AccelerationX":{
-"files": [345,
-344,
-347,
-348],
+"files": [
+[347, [118]],
+[346, [127]],
+[349, [155,175]],
+[350, [124]]
+],
 "memberKind": "Property"
 }
 ,
 "AccelerationY":{
-"files": [345,
-344,
-347,
-348],
+"files": [
+[347, [119]],
+[346, [128]],
+[349, [156,176]],
+[350, [125]]
+],
 "memberKind": "Property"
 }
 ,
 "AccelerationZ":{
-"files": [345,
-344,
-347,
-348],
+"files": [
+[347, [120]],
+[346, [129]],
+[349, [157,177]],
+[350, [126]]
+],
 "memberKind": "Property"
 }
 }
@@ -8059,9 +10575,11 @@ var contents = {
 "AccelerometerReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [345,
-347,
-348],
+"files": [
+[347, [117]],
+[349, [154,174]],
+[350, [123]]
+],
 "memberKind": "Property"
 }
 }
@@ -8070,30 +10588,40 @@ var contents = {
 "ActivitySensor":{
 "members": {
 "GetDefaultAsync`0":{
-"files": [268,
-269,
-260,
-57],
+"files": [
+[270, [52]],
+[271, [58]],
+[262, [102]],
+[57, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [259],
+"files": [
+[261, [74]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSystemHistoryAsync`1":{
-"files": [269],
+"files": [
+[271, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadingChanged":{
-"files": [260],
+"files": [
+[262, [68,113,139]]
+],
 "memberKind": "?"
 }
 ,
 "SubscribedActivities":{
-"files": [260],
+"files": [
+[262, [107,108,109,110,111]]
+],
 "memberKind": "Property"
 }
 }
@@ -8102,17 +10630,23 @@ var contents = {
 "ActivitySensorReading":{
 "members": {
 "Activity":{
-"files": [260],
+"files": [
+[262, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "Confidence":{
-"files": [260],
+"files": [
+[262, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
-"files": [260],
+"files": [
+[262, [86]]
+],
 "memberKind": "Property"
 }
 }
@@ -8121,7 +10655,9 @@ var contents = {
 "ActivitySensorReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [260],
+"files": [
+[262, [83]]
+],
 "memberKind": "Property"
 }
 }
@@ -8130,7 +10666,9 @@ var contents = {
 "ActivitySensorReadingConfidence":{
 "members": {
 "ToString`0":{
-"files": [260],
+"files": [
+[262, [85]]
+],
 "memberKind": "Method"
 }
 }
@@ -8139,7 +10677,9 @@ var contents = {
 "ActivitySensorTriggerDetails":{
 "members": {
 "ReadReports`0":{
-"files": [77],
+"files": [
+[77, [36]]
+],
 "memberKind": "Method"
 }
 }
@@ -8148,35 +10688,47 @@ var contents = {
 "ActivityType":{
 "members": {
 "Biking":{
-"files": [260,
-57],
+"files": [
+[262, [110]],
+[57, [161]]
+],
 "memberKind": "Field"
 }
 ,
 "Fidgeting":{
-"files": [260],
+"files": [
+[262, [111]]
+],
 "memberKind": "Field"
 }
 ,
 "InVehicle":{
-"files": [260],
+"files": [
+[262, [109]]
+],
 "memberKind": "Field"
 }
 ,
 "Running":{
-"files": [260,
-57],
+"files": [
+[262, [108]],
+[57, [160]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [260],
+"files": [
+[262, [84]]
+],
 "memberKind": "Method"
 }
 ,
 "Walking":{
-"files": [260,
-57],
+"files": [
+[262, [107]],
+[57, [159]]
+],
 "memberKind": "Field"
 }
 }
@@ -8185,28 +10737,38 @@ var contents = {
 "Altimeter":{
 "members": {
 "GetCurrentReading`0":{
-"files": [349],
+"files": [
+[351, [51]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [350,
-349],
+"files": [
+[352, [36]],
+[351, [35]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [350],
+"files": [
+[352, [41]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [350],
+"files": [
+[352, [74,98,103,135,154]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [350],
+"files": [
+[352, [77,132,157]]
+],
 "memberKind": "Property"
 }
 }
@@ -8215,8 +10777,10 @@ var contents = {
 "AltimeterReading":{
 "members": {
 "AltitudeChangeInMeters":{
-"files": [350,
-349],
+"files": [
+[352, [118]],
+[351, [54]]
+],
 "memberKind": "Property"
 }
 }
@@ -8225,7 +10789,9 @@ var contents = {
 "AltimeterReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [350],
+"files": [
+[352, [117]]
+],
 "memberKind": "Property"
 }
 }
@@ -8234,28 +10800,38 @@ var contents = {
 "Barometer":{
 "members": {
 "GetCurrentReading`0":{
-"files": [351],
+"files": [
+[353, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [352,
-351],
+"files": [
+[354, [37]],
+[353, [36]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [352],
+"files": [
+[354, [42]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [352],
+"files": [
+[354, [75,99,104,136,155]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [352],
+"files": [
+[354, [78,133,158]]
+],
 "memberKind": "Property"
 }
 }
@@ -8264,8 +10840,10 @@ var contents = {
 "BarometerReading":{
 "members": {
 "StationPressureInHectopascals":{
-"files": [352,
-351],
+"files": [
+[354, [119]],
+[353, [55]]
+],
 "memberKind": "Property"
 }
 }
@@ -8274,7 +10852,9 @@ var contents = {
 "BarometerReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [352],
+"files": [
+[354, [118]]
+],
 "memberKind": "Property"
 }
 }
@@ -8283,30 +10863,40 @@ var contents = {
 "Compass":{
 "members": {
 "GetCurrentReading`0":{
-"files": [353],
+"files": [
+[355, [124]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [354,
-353],
+"files": [
+[356, [37]],
+[355, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [354,
-353],
+"files": [
+[356, [42]],
+[355, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [354],
+"files": [
+[356, [75,99,104,162,181]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [354,
-353],
+"files": [
+[356, [78,159,184]],
+[355, [86,167,194]]
+],
 "memberKind": "Property"
 }
 }
@@ -8315,20 +10905,26 @@ var contents = {
 "CompassReading":{
 "members": {
 "HeadingAccuracy":{
-"files": [354,
-353],
+"files": [
+[356, [128]],
+[355, [136]]
+],
 "memberKind": "Property"
 }
 ,
 "HeadingMagneticNorth":{
-"files": [354,
-353],
+"files": [
+[356, [119]],
+[355, [127]]
+],
 "memberKind": "Property"
 }
 ,
 "HeadingTrueNorth":{
-"files": [354,
-353],
+"files": [
+[356, [120,122]],
+[355, [128,130]]
+],
 "memberKind": "Property"
 }
 }
@@ -8337,7 +10933,9 @@ var contents = {
 "CompassReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [354],
+"files": [
+[356, [118]]
+],
 "memberKind": "Property"
 }
 }
@@ -8348,35 +10946,47 @@ var contents = {
 "CustomSensor":{
 "members": {
 "FromIdAsync`1":{
-"files": [262,
-263],
+"files": [
+[264, [72]],
+[265, [70]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCurrentReading`0":{
-"files": [262,
-263],
+"files": [
+[264, [75]],
+[265, [73,121]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
-"files": [262,
-263],
+"files": [
+[264, [53]],
+[265, [51]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [262],
+"files": [
+[264, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [262],
+"files": [
+[264, [150,175,180,214,236]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [262],
+"files": [
+[264, [153,211,239]]
+],
 "memberKind": "Property"
 }
 }
@@ -8385,8 +10995,10 @@ var contents = {
 "CustomSensorReading":{
 "members": {
 "Properties":{
-"files": [262,
-263],
+"files": [
+[264, [76,194]],
+[265, [74,123]]
+],
 "memberKind": "Property"
 }
 }
@@ -8395,7 +11007,9 @@ var contents = {
 "CustomSensorReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [262],
+"files": [
+[264, [192]]
+],
 "memberKind": "Property"
 }
 }
@@ -8406,39 +11020,51 @@ var contents = {
 "Gyrometer":{
 "members": {
 "GetCurrentReading`0":{
-"files": [355,
-356],
+"files": [
+[357, [124]],
+[358, [91,92]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [357,
-355,
-356],
+"files": [
+[359, [37]],
+[357, [38]],
+[358, [32,34]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [357,
-355,
-356],
+"files": [
+[359, [42]],
+[357, [43]],
+[358, [88,89]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [357],
+"files": [
+[359, [75,99,104,138,157]]
+],
 "memberKind": "?"
 }
 ,
 "ReadingTransform":{
-"files": [356],
+"files": [
+[358, [50]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [357,
-355,
-356],
+"files": [
+[359, [78,135,160]],
+[357, [86,143,170]],
+[358, [88,89,108,109]]
+],
 "memberKind": "Property"
 }
 }
@@ -8447,23 +11073,29 @@ var contents = {
 "GyrometerReading":{
 "members": {
 "AngularVelocityX":{
-"files": [357,
-355,
-356],
+"files": [
+[359, [119]],
+[357, [127]],
+[358, [96,103]]
+],
 "memberKind": "Property"
 }
 ,
 "AngularVelocityY":{
-"files": [357,
-355,
-356],
+"files": [
+[359, [120]],
+[357, [128]],
+[358, [97,104]]
+],
 "memberKind": "Property"
 }
 ,
 "AngularVelocityZ":{
-"files": [357,
-355,
-356],
+"files": [
+[359, [121]],
+[357, [129]],
+[358, [98,105]]
+],
 "memberKind": "Property"
 }
 }
@@ -8472,7 +11104,9 @@ var contents = {
 "GyrometerReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [357],
+"files": [
+[359, [118]]
+],
 "memberKind": "Property"
 }
 }
@@ -8481,40 +11115,52 @@ var contents = {
 "Inclinometer":{
 "members": {
 "GetCurrentReading`0":{
-"files": [358,
-359],
+"files": [
+[360, [124]],
+[361, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [360,
-358],
+"files": [
+[362, [37]],
+[360, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefaultForRelativeReadings`0":{
-"files": [361,
-359],
+"files": [
+[363, [37]],
+[361, [32]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [360,
-358,
-361],
+"files": [
+[362, [42]],
+[360, [43]],
+[363, [42]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [360,
-361],
+"files": [
+[362, [75,99,104,156,175]],
+[363, [75,99,104,138,157]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [360,
-358,
-361],
+"files": [
+[362, [78,153,178]],
+[360, [86,161,188]],
+[363, [78,135,160]]
+],
 "memberKind": "Property"
 }
 }
@@ -8523,32 +11169,40 @@ var contents = {
 "InclinometerReading":{
 "members": {
 "PitchDegrees":{
-"files": [360,
-358,
-361,
-359],
+"files": [
+[362, [119]],
+[360, [127]],
+[363, [119]],
+[361, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "RollDegrees":{
-"files": [360,
-358,
-361,
-359],
+"files": [
+[362, [120]],
+[360, [128]],
+[363, [120]],
+[361, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "YawAccuracy":{
-"files": [360,
-358],
+"files": [
+[362, [122]],
+[360, [130]]
+],
 "memberKind": "Property"
 }
 ,
 "YawDegrees":{
-"files": [360,
-358,
-361,
-359],
+"files": [
+[362, [121]],
+[360, [129]],
+[363, [121]],
+[361, [78]]
+],
 "memberKind": "Property"
 }
 }
@@ -8557,8 +11211,10 @@ var contents = {
 "InclinometerReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [360,
-361],
+"files": [
+[362, [118]],
+[363, [118]]
+],
 "memberKind": "Property"
 }
 }
@@ -8567,30 +11223,40 @@ var contents = {
 "LightSensor":{
 "members": {
 "GetCurrentReading`0":{
-"files": [362],
+"files": [
+[364, [124]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [363,
-362],
+"files": [
+[365, [37]],
+[364, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [363,
-362],
+"files": [
+[365, [42]],
+[364, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [363],
+"files": [
+[365, [75,99,104,136,155]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [363,
-362],
+"files": [
+[365, [78,133,158]],
+[364, [86,141,168]]
+],
 "memberKind": "Property"
 }
 }
@@ -8599,8 +11265,10 @@ var contents = {
 "LightSensorReading":{
 "members": {
 "IlluminanceInLux":{
-"files": [363,
-362],
+"files": [
+[365, [119]],
+[364, [127]]
+],
 "memberKind": "Property"
 }
 }
@@ -8609,7 +11277,9 @@ var contents = {
 "LightSensorReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [363],
+"files": [
+[365, [118]]
+],
 "memberKind": "Property"
 }
 }
@@ -8618,51 +11288,59 @@ var contents = {
 "MagnetometerAccuracy":{
 "members": {
 "Approximate":{
-"files": [364,
-354,
-353,
-365,
-360,
-358,
-366,
-367,
-368],
+"files": [
+[366, [137]],
+[356, [136]],
+[355, [144]],
+[367, [137]],
+[362, [130]],
+[360, [138]],
+[368, [137]],
+[369, [148]],
+[370, [155]]
+],
 "memberKind": "Field"
 }
 ,
 "High":{
-"files": [354,
-353,
-360,
-358,
-367,
-368],
+"files": [
+[356, [139]],
+[355, [147]],
+[362, [133]],
+[360, [141]],
+[369, [151]],
+[370, [158]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [354,
-353,
-360,
-358,
-367,
-368],
+"files": [
+[356, [130]],
+[355, [138]],
+[362, [124]],
+[360, [132]],
+[369, [142]],
+[370, [149]]
+],
 "memberKind": "Field"
 }
 ,
 "Unreliable":{
-"files": [364,
-354,
-353,
-369,
-365,
-360,
-358,
-370,
-366,
-367,
-368,
-371],
+"files": [
+[366, [142]],
+[356, [133]],
+[355, [141]],
+[371, [89]],
+[367, [142]],
+[362, [127]],
+[360, [135]],
+[372, [90]],
+[368, [142]],
+[369, [145]],
+[370, [152]],
+[373, [90]]
+],
 "memberKind": "Field"
 }
 }
@@ -8671,40 +11349,52 @@ var contents = {
 "OrientationSensor":{
 "members": {
 "GetCurrentReading`0":{
-"files": [368,
-372],
+"files": [
+[370, [124]],
+[374, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [367,
-368],
+"files": [
+[369, [37]],
+[370, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefaultForRelativeReadings`0":{
-"files": [373,
-372],
+"files": [
+[375, [37]],
+[374, [32]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [367,
-368,
-373],
+"files": [
+[369, [42]],
+[370, [43]],
+[375, [42]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [367,
-373],
+"files": [
+[369, [75,99,104,174,193]],
+[375, [75,99,104,154,173]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [367,
-368,
-373],
+"files": [
+[369, [78,171,196]],
+[370, [86,178,205]],
+[375, [78,151,176]]
+],
 "memberKind": "Property"
 }
 }
@@ -8713,24 +11403,30 @@ var contents = {
 "OrientationSensorReading":{
 "members": {
 "Quaternion":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [121]],
+[370, [128]],
+[375, [121]],
+[374, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "RotationMatrix":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [128]],
+[370, [135]],
+[375, [128]],
+[374, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "YawAccuracy":{
-"files": [367,
-368],
+"files": [
+[369, [140]],
+[370, [147]]
+],
 "memberKind": "Property"
 }
 }
@@ -8739,8 +11435,10 @@ var contents = {
 "OrientationSensorReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [367,
-373],
+"files": [
+[369, [118]],
+[375, [118]]
+],
 "memberKind": "Property"
 }
 }
@@ -8749,40 +11447,54 @@ var contents = {
 "Pedometer":{
 "members": {
 "GetDefaultAsync`0":{
-"files": [266,
-270,
-271],
+"files": [
+[268, [69]],
+[272, [78]],
+[273, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [259],
+"files": [
+[261, [75]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSystemHistoryAsync`1":{
-"files": [270,
-271],
+"files": [
+[272, [97]],
+[273, [68]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSystemHistoryAsync`2":{
-"files": [270],
+"files": [
+[272, [141]]
+],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
-"files": [266],
+"files": [
+[268, [79]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [266],
+"files": [
+[268, [80,94]]
+],
 "memberKind": "?"
 }
 ,
 "ReportInterval":{
-"files": [266],
+"files": [
+[268, [79]]
+],
 "memberKind": "Property"
 }
 }
@@ -8791,27 +11503,35 @@ var contents = {
 "PedometerReading":{
 "members": {
 "CumulativeSteps":{
-"files": [266,
-270,
-271],
+"files": [
+[268, [119,123,124,129,133,134,139,143,144]],
+[272, [243]],
+[273, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "CumulativeStepsDuration":{
-"files": [266],
+"files": [
+[268, [126,136,146]]
+],
 "memberKind": "Property"
 }
 ,
 "StepKind":{
-"files": [266,
-270],
+"files": [
+[268, [116]],
+[272, [242]]
+],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
-"files": [266,
-270,
-271],
+"files": [
+[268, [156]],
+[272, [244]],
+[273, [88]]
+],
 "memberKind": "Property"
 }
 }
@@ -8820,7 +11540,9 @@ var contents = {
 "PedometerReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [266],
+"files": [
+[268, [112]]
+],
 "memberKind": "Property"
 }
 }
@@ -8829,22 +11551,28 @@ var contents = {
 "PedometerStepKind":{
 "members": {
 "Running":{
-"files": [266,
-270,
-271],
+"files": [
+[268, [138]],
+[272, [213]],
+[273, [79]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [266,
-270,
-271],
+"files": [
+[268, [118]],
+[272, [207]],
+[273, [74,90]]
+],
 "memberKind": "Field"
 }
 ,
 "Walking":{
-"files": [266,
-270],
+"files": [
+[268, [128]],
+[272, [210]]
+],
 "memberKind": "Field"
 }
 }
@@ -8853,37 +11581,49 @@ var contents = {
 "ProximitySensor":{
 "members": {
 "CreateDisplayOnOffController`0":{
-"files": [286],
+"files": [
+[288, [113]]
+],
 "memberKind": "Method"
 }
 ,
 "FromId`1":{
-"files": [284,
-285,
-286],
+"files": [
+[286, [51]],
+[287, [51]],
+[288, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCurrentReading`0":{
-"files": [285],
+"files": [
+[287, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [259,
-284,
-285,
-286],
+"files": [
+[261, [76]],
+[286, [37]],
+[287, [37]],
+[288, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "MaxDistanceInMillimeters":{
-"files": [284],
+"files": [
+[286, [54,64,65]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
-"files": [284],
+"files": [
+[286, [128,143,161]]
+],
 "memberKind": "?"
 }
 }
@@ -8892,7 +11632,9 @@ var contents = {
 "ProximitySensorDisplayOnOffController":{
 "members": {
 "Dispose`0":{
-"files": [286],
+"files": [
+[288, [92,137]]
+],
 "memberKind": "Method"
 }
 }
@@ -8901,20 +11643,26 @@ var contents = {
 "ProximitySensorReading":{
 "members": {
 "DistanceInMillimeters":{
-"files": [284,
-285],
+"files": [
+[286, [183,185]],
+[287, [84,86]]
+],
 "memberKind": "Property"
 }
 ,
 "IsDetected":{
-"files": [284,
-285],
+"files": [
+[286, [179]],
+[287, [80]]
+],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
-"files": [284,
-285],
+"files": [
+[286, [180]],
+[287, [81]]
+],
 "memberKind": "Property"
 }
 }
@@ -8923,7 +11671,9 @@ var contents = {
 "ProximitySensorReadingChangedEventArgs":{
 "members": {
 "Reading":{
-"files": [284],
+"files": [
+[286, [176]]
+],
 "memberKind": "Property"
 }
 }
@@ -8932,34 +11682,42 @@ var contents = {
 "SensorQuaternion":{
 "members": {
 "W":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [125]],
+[370, [132]],
+[375, [125]],
+[374, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "X":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [122]],
+[370, [129]],
+[375, [122]],
+[374, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "Y":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [123]],
+[370, [130]],
+[375, [123]],
+[374, [79]]
+],
 "memberKind": "Property"
 }
 ,
 "Z":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [124]],
+[370, [131]],
+[375, [124]],
+[374, [80]]
+],
 "memberKind": "Property"
 }
 }
@@ -8968,74 +11726,92 @@ var contents = {
 "SensorRotationMatrix":{
 "members": {
 "M11":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [129]],
+[370, [136]],
+[375, [129]],
+[374, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "M12":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [130]],
+[370, [137]],
+[375, [130]],
+[374, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "M13":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [131]],
+[370, [138]],
+[375, [131]],
+[374, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "M21":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [132]],
+[370, [139]],
+[375, [132]],
+[374, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "M22":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [133]],
+[370, [140]],
+[375, [133]],
+[374, [89]]
+],
 "memberKind": "Property"
 }
 ,
 "M23":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [134]],
+[370, [141]],
+[375, [134]],
+[374, [90]]
+],
 "memberKind": "Property"
 }
 ,
 "M31":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [135]],
+[370, [142]],
+[375, [135]],
+[374, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "M32":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [136]],
+[370, [143]],
+[375, [136]],
+[374, [92]]
+],
 "memberKind": "Property"
 }
 ,
 "M33":{
-"files": [367,
-368,
-373,
-372],
+"files": [
+[369, [137]],
+[370, [144]],
+[375, [137]],
+[374, [93]]
+],
 "memberKind": "Property"
 }
 }
@@ -9044,62 +11820,74 @@ var contents = {
 "SimpleOrientation":{
 "members": {
 "Facedown":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [171]],
+[193, [187]],
+[194, [164]],
+[195, [169]],
+[376, [126]],
+[377, [71]]
+],
 "memberKind": "Field"
 }
 ,
 "Faceup":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [171]],
+[193, [187]],
+[194, [164]],
+[195, [169]],
+[376, [123]],
+[377, [68]]
+],
 "memberKind": "Field"
 }
 ,
 "NotRotated":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [51,776,787,795,832,874]],
+[193, [48,827,838,846,883,925]],
+[194, [46,683,694,702,739,781]],
+[195, [46,800,811,819,856,898]],
+[376, [111]],
+[377, [56]]
+],
 "memberKind": "Field"
 }
 ,
 "Rotated180DegreesCounterclockwise":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [789,793,828,870]],
+[193, [840,844,879,921]],
+[194, [696,700,735,777]],
+[195, [813,817,852,894]],
+[376, [117]],
+[377, [62]]
+],
 "memberKind": "Field"
 }
 ,
 "Rotated270DegreesCounterclockwise":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [792,796,808,809,830,872]],
+[193, [843,847,859,860,881,923]],
+[194, [699,703,715,716,737,779]],
+[195, [816,820,832,833,854,896]],
+[376, [120]],
+[377, [65]]
+],
 "memberKind": "Field"
 }
 ,
 "Rotated90DegreesCounterclockwise":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [786,790,807,810,826,868]],
+[193, [837,841,858,861,877,919]],
+[194, [693,697,714,717,733,775]],
+[195, [810,814,831,834,850,892]],
+[376, [114]],
+[377, [59]]
+],
 "memberKind": "Field"
 }
 }
@@ -9108,31 +11896,37 @@ var contents = {
 "SimpleOrientationSensor":{
 "members": {
 "GetCurrentOrientation`0":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [622]],
+[193, [687]],
+[194, [537]],
+[195, [683]],
+[376, [164]],
+[377, [89]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [189,
-191,
-192,
-193,
-374,
-375],
+"files": [
+[191, [50]],
+[193, [47]],
+[194, [45]],
+[195, [45]],
+[376, [36]],
+[377, [36]]
+],
 "memberKind": "Method"
 }
 ,
 "OrientationChanged":{
-"files": [189,
-191,
-192,
-193,
-374],
+"files": [
+[191, [690,712]],
+[193, [740,762]],
+[194, [597,619]],
+[195, [744,761]],
+[376, [67,88,93,158,180]]
+],
 "memberKind": "?"
 }
 }
@@ -9141,11 +11935,13 @@ var contents = {
 "SimpleOrientationSensorOrientationChangedEventArgs":{
 "members": {
 "Orientation":{
-"files": [189,
-191,
-192,
-193,
-374],
+"files": [
+[191, [171,178]],
+[193, [187,194]],
+[194, [164,171]],
+[195, [169,176]],
+[376, [144]]
+],
 "memberKind": "Property"
 }
 }
@@ -9158,49 +11954,67 @@ var contents = {
 "SerialDevice":{
 "members": {
 "BaudRate":{
-"files": [267],
+"files": [
+[269, [355]]
+],
 "memberKind": "Property"
 }
 ,
 "DataBits":{
-"files": [267],
+"files": [
+[269, [359]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [264,
-267],
+"files": [
+[266, [372]],
+[269, [392]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [264,
-267],
+"files": [
+[266, [222]],
+[269, [222]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [280],
+"files": [
+[282, [188]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelectorFromUsbVidPid`2":{
-"files": [287],
+"files": [
+[289, [186]]
+],
 "memberKind": "Method"
 }
 ,
 "Handshake":{
-"files": [267],
+"files": [
+[269, [358]]
+],
 "memberKind": "?"
 }
 ,
 "Parity":{
-"files": [267],
+"files": [
+[269, [356]]
+],
 "memberKind": "?"
 }
 ,
 "StopBits":{
-"files": [267],
+"files": [
+[269, [357]]
+],
 "memberKind": "?"
 }
 }
@@ -9209,19 +12023,25 @@ var contents = {
 "SerialHandshake":{
 "members": {
 "None":{
-"files": [376,
-267],
+"files": [
+[378, [156]],
+[269, [358]]
+],
 "memberKind": "Field"
 }
 ,
 "RequestToSend":{
-"files": [377,
-376],
+"files": [
+[379, [38]],
+[378, [160]]
+],
 "memberKind": "Field"
 }
 ,
 "RequestToSendXOnXOff":{
-"files": [376],
+"files": [
+[378, [164,168]]
+],
 "memberKind": "Field"
 }
 }
@@ -9230,29 +12050,39 @@ var contents = {
 "SerialParity":{
 "members": {
 "Even":{
-"files": [377,
-376],
+"files": [
+[379, [32]],
+[378, [103]]
+],
 "memberKind": "Field"
 }
 ,
 "Mark":{
-"files": [376],
+"files": [
+[378, [111]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [376,
-267],
+"files": [
+[378, [99]],
+[269, [356]]
+],
 "memberKind": "Field"
 }
 ,
 "Odd":{
-"files": [376],
+"files": [
+[378, [107]]
+],
 "memberKind": "Field"
 }
 ,
 "Space":{
-"files": [376],
+"files": [
+[378, [115]]
+],
 "memberKind": "Field"
 }
 }
@@ -9261,19 +12091,25 @@ var contents = {
 "SerialStopBitCount":{
 "members": {
 "One":{
-"files": [376,
-267],
+"files": [
+[378, [133]],
+[269, [357]]
+],
 "memberKind": "Field"
 }
 ,
 "OnePointFive":{
-"files": [377,
-376],
+"files": [
+[379, [34]],
+[378, [137]]
+],
 "memberKind": "Field"
 }
 ,
 "Two":{
-"files": [376],
+"files": [
+[378, [141]]
+],
 "memberKind": "Field"
 }
 }
@@ -9286,7 +12122,9 @@ var contents = {
 "CardAddedEventArgs":{
 "members": {
 "SmartCard":{
-"files": [378],
+"files": [
+[380, [98]]
+],
 "memberKind": "Property"
 }
 }
@@ -9295,25 +12133,175 @@ var contents = {
 "SmartCard":{
 "members": {
 "ConnectAsync`0":{
-"files": [378,
-379],
+"files": [
+[380, [113]],
+[381, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "GetAnswerToResetAsync`0":{
-"files": [380],
+"files": [
+[382, [79]]
+],
 "memberKind": "Method"
 }
 ,
 "GetStatusAsync`0":{
-"files": [380],
+"files": [
+[382, [82]]
+],
 "memberKind": "Method"
 }
 ,
 "Reader":{
-"files": [381,
-382,
-301],
+"files": [
+[383, [97,102]],
+[384, [65]],
+[303, [86]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"SmartCardActivationPolicyChangeResult":{
+"members": {
+"Allowed":{
+"files": [
+[61, [158]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"SmartCardAppletIdGroup":{
+"members": {
+":ctor`4":{
+"files": [
+[61, [111]]
+],
+"memberKind": "Constructor"
+}
+,
+"AutomaticEnablement":{
+"files": [
+[61, [116]]
+],
+"memberKind": "Property"
+}
+,
+"SmartCardEmulationCategory":{
+"files": [
+[385, [193]]
+],
+"memberKind": "Property"
+}
+,
+"SmartCardEmulationType":{
+"files": [
+[385, [194]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"SmartCardAppletIdGroupActivationPolicy":{
+"members": {
+"Disabled":{
+"files": [
+[385, [154]]
+],
+"memberKind": "Field"
+}
+,
+"Enabled":{
+"files": [
+[385, [136]]
+],
+"memberKind": "Field"
+}
+,
+"ForegroundOverride":{
+"files": [
+[385, [172]]
+],
+"memberKind": "Field"
+}
+,
+"ToString`0":{
+"files": [
+[385, [232]],
+[61, [160]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"SmartCardAppletIdGroupRegistration":{
+"members": {
+"ActivationPolicy":{
+"files": [
+[385, [232]],
+[61, [154]]
+],
+"memberKind": "Property"
+}
+,
+"AppletIdGroup":{
+"files": [
+[385, [193,194]]
+],
+"memberKind": "Property"
+}
+,
+"Id":{
+"files": [
+[385, [197]],
+[386, [226]]
+],
+"memberKind": "Property"
+}
+,
+"RequestActivationPolicyChangeAsync`1":{
+"files": [
+[61, [157]]
+],
+"memberKind": "Method"
+}
+,
+"SetAutomaticResponseApdusAsync`1":{
+"files": [
+[386, [157,229]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"SmartCardAutomaticResponseApdu":{
+"members": {
+":ctor`2":{
+"files": [
+[386, [155,173,184,193,205]]
+],
+"memberKind": "Constructor"
+}
+,
+"AppletId":{
+"files": [
+[386, [156,199,208]]
+],
+"memberKind": "?"
+}
+,
+"ShouldMatchLength":{
+"files": [
+[386, [200,209]]
+],
 "memberKind": "Property"
 }
 }
@@ -9322,18 +12310,24 @@ var contents = {
 "SmartCardChallengeContext":{
 "members": {
 "Challenge":{
-"files": [383,
-384],
+"files": [
+[387, [47]],
+[388, [45]]
+],
 "memberKind": "Property"
 }
 ,
 "ChangeAdministrativeKeyAsync`2":{
-"files": [383],
+"files": [
+[387, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "VerifyResponseAsync`1":{
-"files": [384],
+"files": [
+[388, [46]]
+],
 "memberKind": "Method"
 }
 }
@@ -9342,26 +12336,115 @@ var contents = {
 "SmartCardConnection":{
 "members": {
 "TransceiveAsync`1":{
-"files": [385,
-386,
-387,
-388,
-389],
+"files": [
+[389, [61,79,94,129,162,194]],
+[390, [69,110,140]],
+[391, [50,69,99]],
+[392, [57,83,89,117,123,152]],
+[393, [53,76,106]]
+],
 "memberKind": "Method"
 }
 ,
 "TransmitAsync`1":{
-"files": [297,
-379],
+"files": [
+[299, [38]],
+[381, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "TransparentExchangeAsync`1":{
-"files": [386,
-387,
-388,
-389],
+"files": [
+[390, [128]],
+[391, [87]],
+[392, [140]],
+[393, [94]]
+],
 "memberKind": "Method"
+}
+}
+}
+,
+"SmartCardEmulationCategory":{
+"members": {
+"Other":{
+"files": [
+[386, [151]]
+],
+"memberKind": "Field"
+}
+,
+"Payment":{
+"files": [
+[385, [193]],
+[386, [142,166]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"SmartCardEmulationType":{
+"members": {
+"Host":{
+"files": [
+[385, [194]],
+[386, [152,167]]
+],
+"memberKind": "Field"
+}
+,
+"Uicc":{
+"files": [
+[386, [143]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"SmartCardEmulator":{
+"members": {
+"GetAppletIdGroupRegistrationsAsync`0":{
+"files": [
+[385, [64,139,157,175,200]],
+[61, [135]]
+],
+"memberKind": "Method"
+}
+,
+"GetDefaultAsync`0":{
+"files": [
+[385, [110]],
+[61, [180]]
+],
+"memberKind": "Method"
+}
+,
+"RegisterAppletIdGroupAsync`1":{
+"files": [
+[61, [118]]
+],
+"memberKind": "Method"
+}
+,
+"UnregisterAppletIdGroupAsync`1":{
+"files": [
+[385, [191]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"SmartCardEmulatorEnablementPolicy":{
+"members": {
+"Never":{
+"files": [
+[385, [110]]
+],
+"memberKind": "Field"
 }
 }
 }
@@ -9369,17 +12452,23 @@ var contents = {
 "SmartCardPinCharacterPolicyOption":{
 "members": {
 "Allow":{
-"files": [381],
+"files": [
+[383, [173,188,203,218]]
+],
 "memberKind": "Field"
 }
 ,
 "Disallow":{
-"files": [381],
+"files": [
+[383, [170,185,200,215]]
+],
 "memberKind": "Field"
 }
 ,
 "RequireAtLeastOne":{
-"files": [381],
+"files": [
+[383, [176,191,206,221]]
+],
 "memberKind": "Field"
 }
 }
@@ -9388,37 +12477,51 @@ var contents = {
 "SmartCardPinPolicy":{
 "members": {
 ":ctor`0":{
-"files": [381],
+"files": [
+[383, [163]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Digits":{
-"files": [381],
+"files": [
+[383, [200,203,206]]
+],
 "memberKind": "?"
 }
 ,
 "LowercaseLetters":{
-"files": [381],
+"files": [
+[383, [185,188,191]]
+],
 "memberKind": "?"
 }
 ,
 "MaxLength":{
-"files": [381],
+"files": [
+[383, [165]]
+],
 "memberKind": "Property"
 }
 ,
 "MinLength":{
-"files": [381],
+"files": [
+[383, [164]]
+],
 "memberKind": "Property"
 }
 ,
 "SpecialCharacters":{
-"files": [381],
+"files": [
+[383, [215,218,221]]
+],
 "memberKind": "?"
 }
 ,
 "UppercaseLetters":{
-"files": [381],
+"files": [
+[383, [170,173,176]]
+],
 "memberKind": "?"
 }
 }
@@ -9427,7 +12530,9 @@ var contents = {
 "SmartCardPinResetDeferral":{
 "members": {
 "Complete`0":{
-"files": [390],
+"files": [
+[394, [69]]
+],
 "memberKind": "Method"
 }
 }
@@ -9436,48 +12541,64 @@ var contents = {
 "SmartCardProvisioning":{
 "members": {
 "FromSmartCardAsync`1":{
-"files": [391,
-390,
-383,
-384,
-301],
+"files": [
+[395, [48]],
+[394, [49]],
+[387, [41]],
+[388, [39]],
+[303, [82]]
+],
 "memberKind": "Method"
 }
 ,
 "GetChallengeContextAsync`0":{
-"files": [381,
-383,
-384],
+"files": [
+[383, [112]],
+[387, [45]],
+[388, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNameAsync`0":{
-"files": [301],
+"files": [
+[303, [87]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestPinChangeAsync`0":{
-"files": [391],
+"files": [
+[395, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestPinResetAsync`1":{
-"files": [390],
+"files": [
+[394, [57]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestVirtualSmartCardCreationAsync`3":{
-"files": [381],
+"files": [
+[383, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestVirtualSmartCardDeletionAsync`1":{
-"files": [382],
+"files": [
+[384, [68]]
+],
 "memberKind": "Method"
 }
 ,
 "SmartCard":{
-"files": [381],
+"files": [
+[383, [97,102]]
+],
 "memberKind": "Property"
 }
 }
@@ -9486,44 +12607,58 @@ var contents = {
 "SmartCardReader":{
 "members": {
 "CardAdded":{
-"files": [378,
-381],
+"files": [
+[380, [73,83]],
+[383, [98]]
+],
 "memberKind": "?"
 }
 ,
 "CardRemoved":{
-"files": [378,
-382],
+"files": [
+[380, [74,84]],
+[384, [66]]
+],
 "memberKind": "?"
 }
 ,
 "DeviceId":{
-"files": [381],
+"files": [
+[383, [102]]
+],
 "memberKind": "Property"
 }
 ,
 "FindAllCardsAsync`0":{
-"files": [392,
-301],
+"files": [
+[396, [46]],
+[303, [78]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [378,
-392,
-301],
+"files": [
+[380, [72]],
+[396, [45]],
+[303, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [301],
+"files": [
+[303, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "Name":{
-"files": [381,
-382,
-301],
+"files": [
+[383, [157]],
+[384, [99]],
+[303, [86]]
+],
 "memberKind": "Property"
 }
 }
@@ -9532,13 +12667,42 @@ var contents = {
 "SmartCardReaderKind":{
 "members": {
 "Any":{
-"files": [378],
+"files": [
+[380, [50]]
+],
 "memberKind": "Field"
 }
 ,
 "Nfc":{
-"files": [378,
-297],
+"files": [
+[380, [46]],
+[299, [98]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"SmartCardTriggerType":{
+"members": {
+"EmulatorAppletIdGroupRegistrationChanged":{
+"files": [
+[385, [91]]
+],
+"memberKind": "Field"
+}
+,
+"EmulatorHostApplicationActivated":{
+"files": [
+[385, [88]]
+],
+"memberKind": "Field"
+}
+,
+"EmulatorTransaction":{
+"files": [
+[385, [94]]
+],
 "memberKind": "Field"
 }
 }
@@ -9551,20 +12715,26 @@ var contents = {
 "CellularClass":{
 "members": {
 "Cdma":{
-"files": [393,
-394],
+"files": [
+[397, [181]],
+[398, [109]]
+],
 "memberKind": "Field"
 }
 ,
 "Gsm":{
-"files": [393],
+"files": [
+[397, [173]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [393,
-395,
-394],
+"files": [
+[397, [161]],
+[399, [58]],
+[398, [91]]
+],
 "memberKind": "Method"
 }
 }
@@ -9573,12 +12743,16 @@ var contents = {
 "SmsDevice2":{
 "members": {
 "GetDefault`0":{
-"files": [394],
+"files": [
+[398, [64]]
+],
 "memberKind": "Method"
 }
 ,
 "SendMessageAndGetResultAsync`1":{
-"files": [394],
+"files": [
+[398, [86]]
+],
 "memberKind": "Method"
 }
 }
@@ -9587,22 +12761,30 @@ var contents = {
 "SmsFilterActionType":{
 "members": {
 "Accept":{
-"files": [75],
+"files": [
+[75, [155,170]]
+],
 "memberKind": "Field"
 }
 ,
 "AcceptImmediately":{
-"files": [75],
+"files": [
+[75, [158]]
+],
 "memberKind": "Field"
 }
 ,
 "Drop":{
-"files": [75],
+"files": [
+[75, [162]]
+],
 "memberKind": "Field"
 }
 ,
 "Peek":{
-"files": [75],
+"files": [
+[75, [166]]
+],
 "memberKind": "Field"
 }
 }
@@ -9611,7 +12793,9 @@ var contents = {
 "SmsFilterRule":{
 "members": {
 ":ctor`1":{
-"files": [75],
+"files": [
+[75, [152]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -9620,12 +12804,16 @@ var contents = {
 "SmsFilterRules":{
 "members": {
 ":ctor`1":{
-"files": [75],
+"files": [
+[75, [174]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Rules":{
-"files": [75],
+"files": [
+[75, [175]]
+],
 "memberKind": "Property"
 }
 }
@@ -9634,17 +12822,23 @@ var contents = {
 "SmsMessageReceivedTriggerDetails":{
 "members": {
 "Accept`0":{
-"files": [84],
+"files": [
+[84, [83]]
+],
 "memberKind": "Method"
 }
 ,
 "MessageType":{
-"files": [84],
+"files": [
+[84, [62,79]]
+],
 "memberKind": "Property"
 }
 ,
 "TextMessage":{
-"files": [84],
+"files": [
+[84, [64]]
+],
 "memberKind": "Property"
 }
 }
@@ -9653,28 +12847,38 @@ var contents = {
 "SmsMessageType":{
 "members": {
 "App":{
-"files": [75],
+"files": [
+[75, [136]]
+],
 "memberKind": "Field"
 }
 ,
 "Broadcast":{
-"files": [75],
+"files": [
+[75, [144]]
+],
 "memberKind": "Field"
 }
 ,
 "Text":{
-"files": [84,
-75],
+"files": [
+[84, [62]],
+[75, [129,132]]
+],
 "memberKind": "Field"
 }
 ,
 "Voicemail":{
-"files": [75],
+"files": [
+[75, [148]]
+],
 "memberKind": "Field"
 }
 ,
 "Wap":{
-"files": [75],
+"files": [
+[75, [140]]
+],
 "memberKind": "Field"
 }
 }
@@ -9683,12 +12887,16 @@ var contents = {
 "SmsModemErrorCode":{
 "members": {
 "MessagingNetworkError":{
-"files": [394],
+"files": [
+[398, [105]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [394],
+"files": [
+[398, [103]]
+],
 "memberKind": "Method"
 }
 }
@@ -9697,37 +12905,51 @@ var contents = {
 "SmsSendMessageResult":{
 "members": {
 "CellularClass":{
-"files": [394],
+"files": [
+[398, [91,109]]
+],
 "memberKind": "Property"
 }
 ,
 "IsErrorTransient":{
-"files": [394],
+"files": [
+[398, [104]]
+],
 "memberKind": "Property"
 }
 ,
 "IsSuccessful":{
-"files": [394],
+"files": [
+[398, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "MessageReferenceNumbers":{
-"files": [394],
+"files": [
+[398, [92]]
+],
 "memberKind": "Property"
 }
 ,
 "ModemErrorCode":{
-"files": [394],
+"files": [
+[398, [103,105]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkCauseCode":{
-"files": [394],
+"files": [
+[398, [107]]
+],
 "memberKind": "Property"
 }
 ,
 "TransportFailureCause":{
-"files": [394],
+"files": [
+[398, [111]]
+],
 "memberKind": "Property"
 }
 }
@@ -9736,23 +12958,31 @@ var contents = {
 "SmsTextMessage2":{
 "members": {
 ":ctor`0":{
-"files": [394],
+"files": [
+[398, [80]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Body":{
-"files": [84,
-394],
+"files": [
+[84, [72]],
+[398, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "From":{
-"files": [84],
+"files": [
+[84, [70]]
+],
 "memberKind": "Property"
 }
 ,
 "To":{
-"files": [394],
+"files": [
+[398, [81]]
+],
 "memberKind": "Property"
 }
 }
@@ -9765,12 +12995,16 @@ var contents = {
 "UsbBulkInEndpointDescriptor":{
 "members": {
 "EndpointNumber":{
-"files": [396],
+"files": [
+[400, [277]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
-"files": [396],
+"files": [
+[400, [278]]
+],
 "memberKind": "Property"
 }
 }
@@ -9779,7 +13013,9 @@ var contents = {
 "UsbBulkInPipe":{
 "members": {
 "EndpointDescriptor":{
-"files": [396],
+"files": [
+[400, [274]]
+],
 "memberKind": "Property"
 }
 }
@@ -9788,12 +13024,16 @@ var contents = {
 "UsbBulkOutEndpointDescriptor":{
 "members": {
 "EndpointNumber":{
-"files": [396],
+"files": [
+[400, [287]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
-"files": [396],
+"files": [
+[400, [288]]
+],
 "memberKind": "Property"
 }
 }
@@ -9802,7 +13042,9 @@ var contents = {
 "UsbBulkOutPipe":{
 "members": {
 "EndpointDescriptor":{
-"files": [396],
+"files": [
+[400, [284]]
+],
 "memberKind": "Property"
 }
 }
@@ -9811,7 +13053,9 @@ var contents = {
 "UsbControlRecipient":{
 "members": {
 "Device":{
-"files": [397],
+"files": [
+[401, [166,281,351]]
+],
 "memberKind": "Field"
 }
 }
@@ -9820,22 +13064,30 @@ var contents = {
 "UsbControlRequestType":{
 "members": {
 ":ctor`0":{
-"files": [397],
+"files": [
+[401, [163,278,348]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ControlTransferType":{
-"files": [397],
+"files": [
+[401, [163,278,348]]
+],
 "memberKind": "?"
 }
 ,
 "Direction":{
-"files": [397],
+"files": [
+[401, [163,278,348]]
+],
 "memberKind": "?"
 }
 ,
 "Recipient":{
-"files": [397],
+"files": [
+[401, [163,278,348]]
+],
 "memberKind": "?"
 }
 }
@@ -9844,7 +13096,9 @@ var contents = {
 "UsbControlTransferType":{
 "members": {
 "Vendor":{
-"files": [397],
+"files": [
+[401, [167,282,352]]
+],
 "memberKind": "Field"
 }
 }
@@ -9853,12 +13107,16 @@ var contents = {
 "UsbDescriptor":{
 "members": {
 "Length":{
-"files": [396],
+"files": [
+[400, [347]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadDescriptorBuffer`1":{
-"files": [396],
+"files": [
+[400, [348]]
+],
 "memberKind": "Method"
 }
 }
@@ -9867,34 +13125,46 @@ var contents = {
 "UsbDevice":{
 "members": {
 "DefaultInterface":{
-"files": [82],
+"files": [
+[82, [137]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceDescriptor":{
-"files": [398],
+"files": [
+[402, [77,78,82,83]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [82,
-265],
+"files": [
+[82, [82]],
+[267, [387]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [82,
-265],
+"files": [
+[82, [102]],
+[267, [237]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`2":{
-"files": [281],
+"files": [
+[283, [202]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`3":{
-"files": [281],
+"files": [
+[283, [218]]
+],
 "memberKind": "Method"
 }
 }
@@ -9903,12 +13173,16 @@ var contents = {
 "UsbDeviceDescriptor":{
 "members": {
 "ProductId":{
-"files": [398],
+"files": [
+[402, [78,83]]
+],
 "memberKind": "Property"
 }
 ,
 "VendorId":{
-"files": [398],
+"files": [
+[402, [77,82]]
+],
 "memberKind": "Property"
 }
 }
@@ -9917,33 +13191,45 @@ var contents = {
 "UsbInterface":{
 "members": {
 "BulkInPipes":{
-"files": [396],
+"files": [
+[400, [243]]
+],
 "memberKind": "Property"
 }
 ,
 "BulkOutPipes":{
-"files": [82,
-396],
+"files": [
+[82, [137]],
+[400, [244]]
+],
 "memberKind": "Property"
 }
 ,
 "InterfaceNumber":{
-"files": [396],
+"files": [
+[400, [238]]
+],
 "memberKind": "Property"
 }
 ,
 "InterfaceSettings":{
-"files": [396],
+"files": [
+[400, [236,242]]
+],
 "memberKind": "Property"
 }
 ,
 "InterruptInPipes":{
-"files": [396],
+"files": [
+[400, [245]]
+],
 "memberKind": "Property"
 }
 ,
 "InterruptOutPipes":{
-"files": [396],
+"files": [
+[400, [246]]
+],
 "memberKind": "Property"
 }
 }
@@ -9952,22 +13238,30 @@ var contents = {
 "UsbInterfaceDescriptor":{
 "members": {
 "AlternateSettingNumber":{
-"files": [399],
+"files": [
+[403, [147]]
+],
 "memberKind": "Property"
 }
 ,
 "ClassCode":{
-"files": [396],
+"files": [
+[400, [239]]
+],
 "memberKind": "Property"
 }
 ,
 "ProtocolCode":{
-"files": [396],
+"files": [
+[400, [241]]
+],
 "memberKind": "Property"
 }
 ,
 "SubclassCode":{
-"files": [396],
+"files": [
+[400, [240]]
+],
 "memberKind": "Property"
 }
 }
@@ -9976,12 +13270,16 @@ var contents = {
 "UsbInterfaceSetting":{
 "members": {
 "InterfaceDescriptor":{
-"files": [399],
+"files": [
+[403, [147]]
+],
 "memberKind": "Property"
 }
 ,
 "Selected":{
-"files": [399],
+"files": [
+[403, [145]]
+],
 "memberKind": "Property"
 }
 }
@@ -9990,17 +13288,23 @@ var contents = {
 "UsbInterruptInEndpointDescriptor":{
 "members": {
 "EndpointNumber":{
-"files": [396],
+"files": [
+[400, [297]]
+],
 "memberKind": "Property"
 }
 ,
 "Interval":{
-"files": [396],
+"files": [
+[400, [299]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
-"files": [396],
+"files": [
+[400, [298]]
+],
 "memberKind": "Property"
 }
 }
@@ -10009,7 +13313,9 @@ var contents = {
 "UsbInterruptInEventArgs":{
 "members": {
 "InterruptData":{
-"files": [400],
+"files": [
+[404, [285,364]]
+],
 "memberKind": "Property"
 }
 }
@@ -10018,7 +13324,9 @@ var contents = {
 "UsbInterruptInPipe":{
 "members": {
 "EndpointDescriptor":{
-"files": [396],
+"files": [
+[400, [294]]
+],
 "memberKind": "Property"
 }
 }
@@ -10027,17 +13335,23 @@ var contents = {
 "UsbInterruptOutEndpointDescriptor":{
 "members": {
 "EndpointNumber":{
-"files": [396],
+"files": [
+[400, [308]]
+],
 "memberKind": "Property"
 }
 ,
 "Interval":{
-"files": [396],
+"files": [
+[400, [310]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
-"files": [396],
+"files": [
+[400, [309]]
+],
 "memberKind": "Property"
 }
 }
@@ -10046,7 +13360,9 @@ var contents = {
 "UsbInterruptOutPipe":{
 "members": {
 "EndpointDescriptor":{
-"files": [396],
+"files": [
+[400, [305]]
+],
 "memberKind": "Property"
 }
 }
@@ -10055,27 +13371,37 @@ var contents = {
 "UsbSetupPacket":{
 "members": {
 ":ctor`0":{
-"files": [397],
+"files": [
+[401, [161,276,346]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Length":{
-"files": [397],
+"files": [
+[401, [161,276,346]]
+],
 "memberKind": "?"
 }
 ,
 "Request":{
-"files": [397],
+"files": [
+[401, [161,276,346]]
+],
 "memberKind": "?"
 }
 ,
 "RequestType":{
-"files": [397],
+"files": [
+[401, [161,276,346]]
+],
 "memberKind": "?"
 }
 ,
 "Value":{
-"files": [397],
+"files": [
+[401, [161,276]]
+],
 "memberKind": "?"
 }
 }
@@ -10084,12 +13410,16 @@ var contents = {
 "UsbTransferDirection":{
 "members": {
 "In":{
-"files": [397],
+"files": [
+[401, [350]]
+],
 "memberKind": "Field"
 }
 ,
 "Out":{
-"files": [397],
+"files": [
+[401, [165,280]]
+],
 "memberKind": "Field"
 }
 }
@@ -10102,11 +13432,13 @@ var contents = {
 "WiFiAccessStatus":{
 "members": {
 "Allowed":{
-"files": [255,
-401,
-302,
-303,
-304],
+"files": [
+[257, [556]],
+[405, [47]],
+[304, [46]],
+[305, [48]],
+[306, [57]]
+],
 "memberKind": "Field"
 }
 }
@@ -10115,75 +13447,97 @@ var contents = {
 "WiFiAdapter":{
 "members": {
 "AvailableNetworksChanged":{
-"files": [303],
+"files": [
+[305, [93,100]]
+],
 "memberKind": "?"
 }
 ,
 "ConnectAsync`2":{
-"files": [255,
-304],
+"files": [
+[257, [646]],
+[306, [188]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`3":{
-"files": [255,
-304],
+"files": [
+[257, [658]],
+[306, [204]]
+],
 "memberKind": "Method"
 }
 ,
 "Disconnect`0":{
-"files": [304],
+"files": [
+[306, [93]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAllAdaptersAsync`0":{
-"files": [255,
-401],
+"files": [
+[257, [562]],
+[405, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [302,
-303,
-304],
+"files": [
+[304, [57]],
+[305, [59]],
+[306, [68]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [302,
-303,
-304],
+"files": [
+[304, [54]],
+[305, [56]],
+[306, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "NetworkAdapter":{
-"files": [255,
-402,
-304],
+"files": [
+[257, [614]],
+[406, [54]],
+[306, [109]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkReport":{
-"files": [255,
-302,
-303,
-304],
+"files": [
+[257, [594,596]],
+[304, [74]],
+[305, [71]],
+[306, [132]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
-"files": [255,
-401,
-302,
-303,
-304],
+"files": [
+[257, [555]],
+[405, [46]],
+[304, [45]],
+[305, [47]],
+[306, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "ScanAsync`0":{
-"files": [255,
-302,
-304],
+"files": [
+[257, [592]],
+[304, [73]],
+[306, [130]]
+],
 "memberKind": "Method"
 }
 }
@@ -10192,34 +13546,46 @@ var contents = {
 "WiFiAvailableNetwork":{
 "members": {
 "Bssid":{
-"files": [402],
+"files": [
+[406, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "ChannelCenterFrequencyInKilohertz":{
-"files": [402],
+"files": [
+[406, [96]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkRssiInDecibelMilliwatts":{
-"files": [402],
+"files": [
+[406, [104]]
+],
 "memberKind": "Property"
 }
 ,
 "SecuritySettings":{
-"files": [255,
-402],
+"files": [
+[257, [129,644]],
+[406, [36,112]]
+],
 "memberKind": "Property"
 }
 ,
 "SignalBars":{
-"files": [402],
+"files": [
+[406, [41]]
+],
 "memberKind": "Property"
 }
 ,
 "Ssid":{
-"files": [255,
-402],
+"files": [
+[257, [642,667,672,859]],
+[406, [64,79]]
+],
 "memberKind": "Property"
 }
 }
@@ -10228,8 +13594,10 @@ var contents = {
 "WiFiConnectionResult":{
 "members": {
 "ConnectionStatus":{
-"files": [255,
-304],
+"files": [
+[257, [665,672]],
+[306, [207,213]]
+],
 "memberKind": "Property"
 }
 }
@@ -10238,8 +13606,10 @@ var contents = {
 "WiFiConnectionStatus":{
 "members": {
 "Success":{
-"files": [255,
-304],
+"files": [
+[257, [665]],
+[306, [207]]
+],
 "memberKind": "Field"
 }
 }
@@ -10248,19 +13618,23 @@ var contents = {
 "WiFiNetworkReport":{
 "members": {
 "AvailableNetworks":{
-"files": [255,
-401,
-302,
-303,
-304],
+"files": [
+[257, [594,596]],
+[405, [85]],
+[304, [83]],
+[305, [82]],
+[306, [141]]
+],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
-"files": [401,
-302,
-303,
-304],
+"files": [
+[405, [81]],
+[304, [79]],
+[305, [78]],
+[306, [137]]
+],
 "memberKind": "Property"
 }
 }
@@ -10269,13 +13643,17 @@ var contents = {
 "WiFiReconnectionKind":{
 "members": {
 "Automatic":{
-"files": [304],
+"files": [
+[306, [182]]
+],
 "memberKind": "Field"
 }
 ,
 "Manual":{
-"files": [255,
-304],
+"files": [
+[257, [646,658]],
+[306, [179]]
+],
 "memberKind": "Field"
 }
 }
@@ -10290,47 +13668,65 @@ var contents = {
 "WiFiDirectService":{
 "members": {
 "ConnectAsync`0":{
-"files": [310],
+"files": [
+[312, [603]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`1":{
-"files": [310],
+"files": [
+[312, [599]]
+],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
-"files": [310],
+"files": [
+[312, [481]]
+],
 "memberKind": "Method"
 }
 ,
 "GetProvisioningInfoAsync`1":{
-"files": [310],
+"files": [
+[312, [543]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSelector`1":{
-"files": [305],
+"files": [
+[307, [318]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSelector`2":{
-"files": [305],
+"files": [
+[307, [326]]
+],
 "memberKind": "Method"
 }
 ,
 "PreferGroupOwnerMode":{
-"files": [310],
+"files": [
+[312, [505]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionDeferred":{
-"files": [310],
+"files": [
+[312, [482,610,662]]
+],
 "memberKind": "?"
 }
 ,
 "SessionInfo":{
-"files": [310],
+"files": [
+[312, [512,517]]
+],
 "memberKind": "?"
 }
 }
@@ -10339,22 +13735,30 @@ var contents = {
 "WiFiDirectServiceAdvertisementStatus":{
 "members": {
 "Aborted":{
-"files": [305],
+"files": [
+[307, [448]]
+],
 "memberKind": "Field"
 }
 ,
 "Started":{
-"files": [310],
+"files": [
+[312, [324]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
-"files": [305],
+"files": [
+[307, [449]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [310],
+"files": [
+[312, [93,286]]
+],
 "memberKind": "Method"
 }
 }
@@ -10363,92 +13767,128 @@ var contents = {
 "WiFiDirectServiceAdvertiser":{
 "members": {
 ":ctor`1":{
-"files": [305],
+"files": [
+[307, [178]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AdvertisementStatus":{
-"files": [310],
+"files": [
+[312, [93,284,324]]
+],
 "memberKind": "Property"
 }
 ,
 "AdvertisementStatusChanged":{
-"files": [310],
+"files": [
+[312, [63,335]]
+],
 "memberKind": "?"
 }
 ,
 "AutoAcceptSession":{
-"files": [305],
+"files": [
+[307, [182]]
+],
 "memberKind": "Property"
 }
 ,
 "AutoAcceptSessionConnected":{
-"files": [310],
+"files": [
+[312, [65,336]]
+],
 "memberKind": "?"
 }
 ,
 "ConnectAsync`1":{
-"files": [310],
+"files": [
+[312, [206]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`2":{
-"files": [310],
+"files": [
+[312, [201]]
+],
 "memberKind": "Method"
 }
 ,
 "CustomServiceStatusCode":{
-"files": [305],
+"files": [
+[307, [190]]
+],
 "memberKind": "Property"
 }
 ,
 "DeferredSessionInfo":{
-"files": [305],
+"files": [
+[307, [222,228]]
+],
 "memberKind": "?"
 }
 ,
 "PreferGroupOwnerMode":{
-"files": [305],
+"files": [
+[307, [186]]
+],
 "memberKind": "Property"
 }
 ,
 "PreferredConfigurationMethods":{
-"files": [305],
+"files": [
+[307, [237,240]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceInfo":{
-"files": [305],
+"files": [
+[307, [203,209]]
+],
 "memberKind": "?"
 }
 ,
 "ServiceName":{
-"files": [310],
+"files": [
+[312, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceNamePrefixes":{
-"files": [305],
+"files": [
+[307, [247,250]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceStatus":{
-"files": [305],
+"files": [
+[307, [189]]
+],
 "memberKind": "?"
 }
 ,
 "SessionRequested":{
-"files": [310],
+"files": [
+[312, [68,337]]
+],
 "memberKind": "?"
 }
 ,
 "Start`0":{
-"files": [305],
+"files": [
+[307, [265]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [310],
+"files": [
+[312, [326]]
+],
 "memberKind": "Method"
 }
 }
@@ -10457,12 +13897,16 @@ var contents = {
 "WiFiDirectServiceAutoAcceptSessionConnectedEventArgs":{
 "members": {
 "Session":{
-"files": [310],
+"files": [
+[312, [269]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionInfo":{
-"files": [310],
+"files": [
+[312, [259,261,263]]
+],
 "memberKind": "Property"
 }
 }
@@ -10471,28 +13915,36 @@ var contents = {
 "WiFiDirectServiceConfigurationMethod":{
 "members": {
 "Default":{
-"files": [403,
-404],
+"files": [
+[407, [88]],
+[408, [111,114,145]]
+],
 "memberKind": "Field"
 }
 ,
 "PinDisplay":{
-"files": [403,
-309,
-404,
-310],
+"files": [
+[407, [80]],
+[311, [38]],
+[408, [122]],
+[312, [129,174,547]]
+],
 "memberKind": "Field"
 }
 ,
 "PinEntry":{
-"files": [403,
-404,
-310],
+"files": [
+[407, [84]],
+[408, [118]],
+[312, [181,552]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [309],
+"files": [
+[311, [36]]
+],
 "memberKind": "Method"
 }
 }
@@ -10501,12 +13953,16 @@ var contents = {
 "WiFiDirectServiceIPProtocol":{
 "members": {
 "Tcp":{
-"files": [310],
+"files": [
+[312, [823,831]]
+],
 "memberKind": "Field"
 }
 ,
 "Udp":{
-"files": [310],
+"files": [
+[312, [823,843]]
+],
 "memberKind": "Field"
 }
 }
@@ -10515,16 +13971,20 @@ var contents = {
 "WiFiDirectServiceProvisioningInfo":{
 "members": {
 "IsGroupFormationNeeded":{
-"files": [309,
-404,
-310],
+"files": [
+[311, [35]],
+[408, [144]],
+[312, [128,173,180,545]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedConfigurationMethod":{
-"files": [309,
-404,
-310],
+"files": [
+[311, [36,38]],
+[408, [145]],
+[312, [129,174,181,547,552]]
+],
 "memberKind": "Property"
 }
 }
@@ -10533,12 +13993,16 @@ var contents = {
 "WiFiDirectServiceRemotePortAddedEventArgs":{
 "members": {
 "EndpointPairs":{
-"files": [310],
+"files": [
+[312, [814]]
+],
 "memberKind": "Property"
 }
 ,
 "Protocol":{
-"files": [310],
+"files": [
+[312, [815,831,843]]
+],
 "memberKind": "Property"
 }
 }
@@ -10547,57 +14011,79 @@ var contents = {
 "WiFiDirectServiceSession":{
 "members": {
 "AddDatagramSocketAsync`1":{
-"files": [310],
+"files": [
+[312, [799]]
+],
 "memberKind": "Method"
 }
 ,
 "AddStreamSocketListenerAsync`1":{
-"files": [310],
+"files": [
+[312, [776]]
+],
 "memberKind": "Method"
 }
 ,
 "AdvertisementId":{
-"files": [310],
+"files": [
+[312, [712]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [310],
+"files": [
+[312, [744,926]]
+],
 "memberKind": "Method"
 }
 ,
 "GetConnectionEndpointPairs`0":{
-"files": [310],
+"files": [
+[312, [760,786]]
+],
 "memberKind": "Method"
 }
 ,
 "RemotePortAdded":{
-"files": [310],
+"files": [
+[312, [702,930]]
+],
 "memberKind": "?"
 }
 ,
 "ServiceAddress":{
-"files": [310],
+"files": [
+[312, [721]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionAddress":{
-"files": [310],
+"files": [
+[312, [726]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionId":{
-"files": [310],
+"files": [
+[312, [716]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionStatusChanged":{
-"files": [310],
+"files": [
+[312, [701,929]]
+],
 "memberKind": "?"
 }
 ,
 "Status":{
-"files": [310],
+"files": [
+[312, [887,889]]
+],
 "memberKind": "Property"
 }
 }
@@ -10606,7 +14092,9 @@ var contents = {
 "WiFiDirectServiceSessionDeferredEventArgs":{
 "members": {
 "DeferredSessionInfo":{
-"files": [310],
+"files": [
+[312, [626,628,630]]
+],
 "memberKind": "Property"
 }
 }
@@ -10615,25 +14103,33 @@ var contents = {
 "WiFiDirectServiceSessionRequest":{
 "members": {
 "DeviceInformation":{
-"files": [309,
-310],
+"files": [
+[311, [32,139]],
+[312, [201,206]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [310],
+"files": [
+[312, [247]]
+],
 "memberKind": "Method"
 }
 ,
 "ProvisioningInfo":{
-"files": [309,
-310],
+"files": [
+[311, [35,36,38]],
+[312, [128,129,173,174,180,181]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionInfo":{
-"files": [309,
-310],
+"files": [
+[311, [43]],
+[312, [111,113,115]]
+],
 "memberKind": "Property"
 }
 }
@@ -10642,7 +14138,9 @@ var contents = {
 "WiFiDirectServiceSessionRequestedEventArgs":{
 "members": {
 "GetSessionRequest`0":{
-"files": [310],
+"files": [
+[312, [111,113,115,122,126,128,129]]
+],
 "memberKind": "Method"
 }
 }
@@ -10651,12 +14149,16 @@ var contents = {
 "WiFiDirectServiceSessionStatus":{
 "members": {
 "Closed":{
-"files": [310],
+"files": [
+[312, [889]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [310],
+"files": [
+[312, [887]]
+],
 "memberKind": "Method"
 }
 }
@@ -10665,22 +14167,30 @@ var contents = {
 "WiFiDirectServiceStatus":{
 "members": {
 "Available":{
-"files": [403],
+"files": [
+[407, [91]]
+],
 "memberKind": "Field"
 }
 ,
 "Busy":{
-"files": [403],
+"files": [
+[407, [94]]
+],
 "memberKind": "Field"
 }
 ,
 "Custom":{
-"files": [403],
+"files": [
+[407, [98]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [405],
+"files": [
+[409, [27]]
+],
 "memberKind": "Method"
 }
 }
@@ -10691,17 +14201,23 @@ var contents = {
 "WiFiDirectAdvertisement":{
 "members": {
 "InformationElements":{
-"files": [308],
+"files": [
+[310, [139]]
+],
 "memberKind": "Property"
 }
 ,
 "IsAutonomousGroupOwnerEnabled":{
-"files": [308],
+"files": [
+[310, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "ListenStateDiscoverability":{
-"files": [308],
+"files": [
+[310, [85,89,93]]
+],
 "memberKind": "?"
 }
 }
@@ -10710,17 +14226,23 @@ var contents = {
 "WiFiDirectAdvertisementListenStateDiscoverability":{
 "members": {
 "Intensive":{
-"files": [308],
+"files": [
+[310, [89]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [308],
+"files": [
+[310, [93]]
+],
 "memberKind": "Field"
 }
 ,
 "Normal":{
-"files": [308],
+"files": [
+[310, [85]]
+],
 "memberKind": "Field"
 }
 }
@@ -10729,27 +14251,37 @@ var contents = {
 "WiFiDirectAdvertisementPublisher":{
 "members": {
 ":ctor`0":{
-"files": [308],
+"files": [
+[310, [68,112]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Advertisement":{
-"files": [308],
+"files": [
+[310, [81,85,89,93,139]]
+],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
-"files": [308],
+"files": [
+[310, [98]]
+],
 "memberKind": "Method"
 }
 ,
 "StatusChanged":{
-"files": [308],
+"files": [
+[310, [96,152]]
+],
 "memberKind": "?"
 }
 ,
 "Stop`0":{
-"files": [308],
+"files": [
+[310, [151]]
+],
 "memberKind": "Method"
 }
 }
@@ -10758,7 +14290,9 @@ var contents = {
 "WiFiDirectAdvertisementPublisherStatus":{
 "members": {
 "ToString`0":{
-"files": [308],
+"files": [
+[310, [256]]
+],
 "memberKind": "Method"
 }
 }
@@ -10767,12 +14301,16 @@ var contents = {
 "WiFiDirectAdvertisementPublisherStatusChangedEventArgs":{
 "members": {
 "Error":{
-"files": [308],
+"files": [
+[310, [256]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [308],
+"files": [
+[310, [256]]
+],
 "memberKind": "Property"
 }
 }
@@ -10781,12 +14319,16 @@ var contents = {
 "WiFiDirectConnectionListener":{
 "members": {
 ":ctor`0":{
-"files": [308],
+"files": [
+[310, [75]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ConnectionRequested":{
-"files": [308],
+"files": [
+[310, [78,158]]
+],
 "memberKind": "?"
 }
 }
@@ -10795,14 +14337,18 @@ var contents = {
 "WiFiDirectConnectionParameters":{
 "members": {
 ":ctor`0":{
-"files": [308,
-289],
+"files": [
+[310, [208]],
+[291, [261]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GroupOwnerIntent":{
-"files": [308,
-289],
+"files": [
+[310, [209]],
+[291, [262]]
+],
 "memberKind": "Property"
 }
 }
@@ -10811,12 +14357,16 @@ var contents = {
 "WiFiDirectConnectionRequest":{
 "members": {
 "DeviceInformation":{
-"files": [308],
+"files": [
+[310, [175,206,212,244]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [308],
+"files": [
+[310, [245]]
+],
 "memberKind": "Method"
 }
 }
@@ -10825,7 +14375,9 @@ var contents = {
 "WiFiDirectConnectionRequestedEventArgs":{
 "members": {
 "GetConnectionRequest`0":{
-"files": [308],
+"files": [
+[310, [171]]
+],
 "memberKind": "Method"
 }
 }
@@ -10834,34 +14386,46 @@ var contents = {
 "WiFiDirectDevice":{
 "members": {
 "ConnectionStatus":{
-"files": [308,
-289],
+"files": [
+[310, [310]],
+[291, [310]]
+],
 "memberKind": "Property"
 }
 ,
 "ConnectionStatusChanged":{
-"files": [308],
+"files": [
+[310, [223]]
+],
 "memberKind": "?"
 }
 ,
 "FromIdAsync`2":{
-"files": [308,
-289],
+"files": [
+[310, [212]],
+[291, [267]]
+],
 "memberKind": "Method"
 }
 ,
 "GetConnectionEndpointPairs`0":{
-"files": [308],
+"files": [
+[310, [231]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [259],
+"files": [
+[261, [70]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
-"files": [289],
+"files": [
+[291, [81]]
+],
 "memberKind": "Method"
 }
 }
@@ -10870,12 +14434,16 @@ var contents = {
 "WiFiDirectDeviceSelectorType":{
 "members": {
 "AssociationEndpoint":{
-"files": [289],
+"files": [
+[291, [82]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceInterface":{
-"files": [289],
+"files": [
+[291, [82]]
+],
 "memberKind": "Field"
 }
 }
@@ -10884,7 +14452,9 @@ var contents = {
 "WiFiDirectError":{
 "members": {
 "ToString`0":{
-"files": [308],
+"files": [
+[310, [256]]
+],
 "memberKind": "Method"
 }
 }
@@ -10893,30 +14463,40 @@ var contents = {
 "WiFiDirectInformationElement":{
 "members": {
 ":ctor`0":{
-"files": [308],
+"files": [
+[310, [121]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CreateFromDeviceInformation`1":{
-"files": [289],
+"files": [
+[291, [190]]
+],
 "memberKind": "Method"
 }
 ,
 "Oui":{
-"files": [308,
-289],
+"files": [
+[310, [134]],
+[291, [203]]
+],
 "memberKind": "Property"
 }
 ,
 "OuiType":{
-"files": [308,
-289],
+"files": [
+[310, [137]],
+[291, [230]]
+],
 "memberKind": "Property"
 }
 ,
 "Value":{
-"files": [308,
-289],
+"files": [
+[310, [129]],
+[291, [217]]
+],
 "memberKind": "Property"
 }
 }
@@ -10931,7 +14511,9 @@ var contents = {
 "AsyncActionCompletedHandler":{
 "members": {
 ":ctor`1":{
-"files": [186],
+"files": [
+[188, [471]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -10946,7 +14528,9 @@ var contents = {
 "TranscodeFailureReason, double>":{
 "members": {
 ":ctor`1":{
-"files": [406],
+"files": [
+[410, [114]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -10967,7 +14551,9 @@ var contents = {
 "TranscodeFailureReason, double>":{
 "members": {
 ":ctor`1":{
-"files": [406],
+"files": [
+[410, [121]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -10982,14 +14568,18 @@ var contents = {
 "AsyncStatus":{
 "members": {
 "Completed":{
-"files": [186,
-406,
-147],
+"files": [
+[188, [476]],
+[410, [128]],
+[149, [149]]
+],
 "memberKind": "Field"
 }
 ,
 "Error":{
-"files": [186],
+"files": [
+[188, [480]]
+],
 "memberKind": "Field"
 }
 }
@@ -11000,27 +14590,35 @@ var contents = {
 "CollectionChange":{
 "members": {
 "ItemChanged":{
-"files": [407],
+"files": [
+[411, [80]]
+],
 "memberKind": "Field"
 }
 ,
 "ItemInserted":{
-"files": [407],
+"files": [
+[411, [41]]
+],
 "memberKind": "Field"
 }
 ,
 "ItemRemoved":{
-"files": [407],
+"files": [
+[411, [53,65,90]]
+],
 "memberKind": "Field"
 }
 ,
 "Reset":{
-"files": [408,
-409,
-410,
-411,
-412,
-413],
+"files": [
+[412, [36]],
+[413, [144,162]],
+[414, [34]],
+[415, [36]],
+[416, [144,162]],
+[417, [34]]
+],
 "memberKind": "Field"
 }
 }
@@ -11029,7 +14627,9 @@ var contents = {
 "IObservableMap<string, string>":{
 "members": {
 "MapChanged":{
-"files": [169],
+"files": [
+[171, [63]]
+],
 "memberKind": "?"
 }
 }
@@ -11044,7 +14644,9 @@ var contents = {
 "TimedTextSource>":{
 "members": {
 "Add`1":{
-"files": [414],
+"files": [
+[418, [57,58,59]]
+],
 "memberKind": "Method"
 }
 }
@@ -11057,14 +14659,18 @@ var contents = {
 "MediaPlaybackItem>":{
 "members": {
 "Add`1":{
-"files": [78,
-415],
+"files": [
+[78, [511]],
+[419, [99]]
+],
 "memberKind": "Method"
 }
 ,
 "ToList`0":{
-"files": [78,
-415],
+"files": [
+[78, [295,476]],
+[419, [114,156]]
+],
 "memberKind": "Method"
 }
 }
@@ -11079,8 +14685,10 @@ var contents = {
 "StorageFolder>":{
 "members": {
 "Count":{
-"files": [416,
-417],
+"files": [
+[420, [73]],
+[421, [100]]
+],
 "memberKind": "?"
 }
 }
@@ -11097,40 +14705,52 @@ var contents = {
 "ICommandBarElement>":{
 "members": {
 "Add`1":{
-"files": [418,
-419],
+"files": [
+[422, [139,148]],
+[423, [68,73,75,80,85]]
+],
 "memberKind": "Method"
 }
 ,
 "Count":{
-"files": [418,
-419],
+"files": [
+[422, [64,76,107,121]],
+[423, [63,109,111]]
+],
 "memberKind": "?"
 }
 ,
 "Insert`2":{
-"files": [418,
-420,
-421,
-422],
+"files": [
+[422, [94,101]],
+[424, [57,63]],
+[425, [57,63]],
+[426, [57,63]]
+],
 "memberKind": "Method"
 }
 ,
 "LastOrDefault`0":{
-"files": [418],
+"files": [
+[422, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "Remove`1":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [43]],
+[425, [43]],
+[426, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "RemoveAt`1":{
-"files": [418,
-419],
+"files": [
+[422, [86,107,119,125,158]],
+[423, [111]]
+],
 "memberKind": "Method"
 }
 }
@@ -11147,93 +14767,105 @@ var contents = {
 "IPropertySet":{
 "members": {
 "Add`2":{
-"files": [423,
-424,
-155,
-425,
-118,
-119,
-120,
-74,
-197,
-198,
-122,
-123,
-124],
+"files": [
+[427, [111,115,118]],
+[428, [55]],
+[157, [19]],
+[429, [38]],
+[120, [127,131,212]],
+[121, [106,119]],
+[122, [76]],
+[74, [79]],
+[199, [103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119]],
+[200, [95,96,97,98,99,103,107]],
+[124, [104,117,143]],
+[125, [110,145]],
+[126, [76]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [71],
+"files": [
+[71, [305]]
+],
 "memberKind": "Method"
 }
 ,
 "ContainsKey`1":{
-"files": [57,
-426,
-424,
-59,
-70,
-155,
-425,
-118,
-119,
-120,
-89,
-206,
-69,
-427,
-428,
-429,
-197,
-198,
-122,
-123,
-124,
-430,
-431,
-432],
+"files": [
+[57, [186,190,194,198,202]],
+[430, [36,60,79,98,117,133,152]],
+[428, [32,53]],
+[59, [69,285,310]],
+[70, [192]],
+[157, [17]],
+[429, [36]],
+[120, [78]],
+[121, [85]],
+[122, [55]],
+[89, [204]],
+[208, [364]],
+[69, [246,283]],
+[385, [43,48]],
+[431, [23]],
+[432, [25]],
+[199, [64]],
+[200, [74]],
+[124, [75]],
+[125, [74]],
+[126, [55]],
+[433, [299,300,301]],
+[434, [94,226]],
+[435, [95,225]]
+],
 "memberKind": "Method"
 }
 ,
 "Keys":{
-"files": [423,
-66,
-67],
+"files": [
+[427, [187]],
+[66, [307]],
+[67, [272]]
+],
 "memberKind": "?"
 }
 ,
 "Remove`1":{
-"files": [433,
-434,
-424,
-70,
-58,
-118,
-121,
-74,
-429,
-197,
-198,
-122,
-125,
-430,
-431,
-432],
+"files": [
+[436, [79]],
+[437, [56]],
+[428, [40]],
+[70, [109]],
+[58, [101]],
+[120, [86,165]],
+[123, [59,72,83,91,92,93]],
+[74, [78]],
+[432, [37]],
+[199, [500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516]],
+[200, [634,635,636,637,638,639,640,641]],
+[124, [89,90,157]],
+[127, [59,72,83,91,92,93]],
+[433, [329,330,331]],
+[434, [137,198,237]],
+[435, [138,197,236]]
+],
 "memberKind": "Method"
 }
 ,
 "TryGetValue`2":{
-"files": [118,
-119,
-120,
-121,
-194,
-195,
-428,
-123,
-124,
-125],
+"files": [
+[120, [187,205]],
+[121, [48]],
+[122, [63,73]],
+[123, [56,69,80]],
+[196, [321,336]],
+[197, [289]],
+[431, [41]],
+[125, [51,61]],
+[126, [63,73]],
+[127, [56,69,80]]
+],
 "memberKind": "Method"
 }
 }
@@ -11242,16 +14874,20 @@ var contents = {
 "PropertySet":{
 "members": {
 ":ctor`0":{
-"files": [423,
-435,
-197],
+"files": [
+[427, [108]],
+[438, [170]],
+[199, [376]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`2":{
-"files": [423,
-435,
-197],
+"files": [
+[427, [110]],
+[438, [171]],
+[199, [413,414,442,443,444,445]]
+],
 "memberKind": "Method"
 }
 }
@@ -11260,51 +14896,63 @@ var contents = {
 "ValueSet":{
 "members": {
 ":ctor`0":{
-"files": [50,
-51,
-53,
-436,
-437,
-54,
-55,
-438],
+"files": [
+[50, [155]],
+[51, [101]],
+[53, [53]],
+[439, [45,53]],
+[440, [30,56,77,89,106,123]],
+[54, [43]],
+[55, [158,183]],
+[101, [106,148]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`2":{
-"files": [50,
-51,
-53,
-436],
+"files": [
+[50, [156,157]],
+[51, [102,103]],
+[53, [54]],
+[439, [46,47,54,55]]
+],
 "memberKind": "Method"
 }
 ,
 "ContainsKey`1":{
-"files": [50,
-51,
-97,
-42,
-6,
-7,
-54],
+"files": [
+[50, [163]],
+[51, [108]],
+[97, [31]],
+[42, [100]],
+[6, [142]],
+[7, [107]],
+[54, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "Count":{
-"files": [97,
-42,
-6,
-7],
+"files": [
+[97, [28,29]],
+[42, [97,98]],
+[6, [139,140]],
+[7, [104,105]]
+],
 "memberKind": "?"
 }
 ,
 "Keys":{
-"files": [52],
+"files": [
+[52, [41]]
+],
 "memberKind": "?"
 }
 ,
 "TryGetValue`2":{
-"files": [436],
+"files": [
+[439, [67,68]]
+],
 "memberKind": "Method"
 }
 }
@@ -11315,75 +14963,97 @@ var contents = {
 "DateTime":{
 "members": {
 ":ctor`1":{
-"files": [364,
-365,
-366],
+"files": [
+[366, [43]],
+[367, [43]],
+[368, [43]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`6":{
-"files": [439],
+"files": [
+[441, [62]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`7":{
-"files": [440],
+"files": [
+[442, [105]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddMinutes`1":{
-"files": [364,
-365,
-366],
+"files": [
+[366, [138,143]],
+[367, [138,143]],
+[368, [138,143]]
+],
 "memberKind": "Method"
 }
 ,
 "AddMonths`1":{
-"files": [439],
+"files": [
+[441, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "Date":{
-"files": [409,
-412],
+"files": [
+[413, [61,65]],
+[416, [61,65]]
+],
 "memberKind": "?"
 }
 ,
 "Hour":{
-"files": [439],
+"files": [
+[441, [62]]
+],
 "memberKind": "?"
 }
 ,
 "Minute":{
-"files": [439],
+"files": [
+[441, [62]]
+],
 "memberKind": "?"
 }
 ,
 "Now":{
-"files": [441,
-191,
-364,
-442,
-443,
-444,
-445,
-446,
-439,
-365,
-447,
-366,
-409,
-412],
+"files": [
+[443, [128]],
+[193, [577,604]],
+[366, [83,138,143]],
+[444, [58]],
+[445, [84]],
+[446, [91]],
+[447, [84]],
+[448, [77]],
+[441, [48]],
+[367, [83,138,143]],
+[449, [40]],
+[368, [83,138,143]],
+[413, [60]],
+[416, [60]]
+],
 "memberKind": "?"
 }
 ,
 "Second":{
-"files": [439],
+"files": [
+[441, [62]]
+],
 "memberKind": "?"
 }
 ,
 "Year":{
-"files": [439],
+"files": [
+[441, [62]]
+],
 "memberKind": "?"
 }
 }
@@ -11392,9 +15062,11 @@ var contents = {
 "Deferral":{
 "members": {
 "Complete`0":{
-"files": [247,
-255,
-83],
+"files": [
+[249, [293]],
+[257, [746]],
+[83, [171]]
+],
 "memberKind": "Method"
 }
 }
@@ -11405,27 +15077,37 @@ var contents = {
 "FileLoggingSession":{
 "members": {
 ":ctor`1":{
-"files": [194],
+"files": [
+[196, [162]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddLoggingChannel`2":{
-"files": [194],
+"files": [
+[196, [169]]
+],
 "memberKind": "Method"
 }
 ,
 "CloseAndSaveToFileAsync`0":{
-"files": [194],
+"files": [
+[196, [203]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [194],
+"files": [
+[196, [54,288,512]]
+],
 "memberKind": "Method"
 }
 ,
 "LogFileGenerated":{
-"files": [194],
+"files": [
+[196, [163]]
+],
 "memberKind": "?"
 }
 }
@@ -11434,14 +15116,18 @@ var contents = {
 "ILoggingChannel":{
 "members": {
 "Enabled":{
-"files": [194,
-195],
+"files": [
+[196, [251]],
+[197, [259]]
+],
 "memberKind": "Property"
 }
 ,
 "Level":{
-"files": [194,
-195],
+"files": [
+[196, [252]],
+[197, [260]]
+],
 "memberKind": "Property"
 }
 }
@@ -11450,7 +15136,9 @@ var contents = {
 "ILoggingTarget":{
 "members": {
 "LogEvent`1":{
-"files": [448],
+"files": [
+[450, [385]]
+],
 "memberKind": "Method"
 }
 }
@@ -11459,7 +15147,9 @@ var contents = {
 "LogFileGeneratedEventArgs":{
 "members": {
 "File":{
-"files": [194],
+"files": [
+[196, [189]]
+],
 "memberKind": "Property"
 }
 }
@@ -11468,27 +15158,37 @@ var contents = {
 "LoggingActivity":{
 "members": {
 ":ctor`2":{
-"files": [448],
+"files": [
+[450, [335]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [195],
+"files": [
+[197, [151]]
+],
 "memberKind": "Constructor"
 }
 ,
 "LogEvent`1":{
-"files": [448],
+"files": [
+[450, [343]]
+],
 "memberKind": "Method"
 }
 ,
 "StartActivity`1":{
-"files": [448],
+"files": [
+[450, [352]]
+],
 "memberKind": "Method"
 }
 ,
 "StopActivity`1":{
-"files": [448],
+"files": [
+[450, [357]]
+],
 "memberKind": "Method"
 }
 }
@@ -11497,106 +15197,144 @@ var contents = {
 "LoggingChannel":{
 "members": {
 ":ctor`1":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [424]],
+[450, [69]],
+[197, [373]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [448],
+"files": [
+[450, [138,154]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [448],
+"files": [
+[450, [164]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Dispose`0":{
-"files": [194,
-195],
+"files": [
+[196, [506]],
+[197, [453]]
+],
 "memberKind": "Method"
 }
 ,
 "Enabled":{
-"files": [448],
+"files": [
+[450, [209,224]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [448],
+"files": [
+[450, [205]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEnabled`0":{
-"files": [448],
+"files": [
+[450, [216]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEnabled`1":{
-"files": [448],
+"files": [
+[450, [231]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEnabled`2":{
-"files": [448],
+"files": [
+[450, [237]]
+],
 "memberKind": "Method"
 }
 ,
 "Level":{
-"files": [448],
+"files": [
+[450, [224]]
+],
 "memberKind": "Property"
 }
 ,
 "LogEvent`2":{
-"files": [448],
+"files": [
+[450, [262]]
+],
 "memberKind": "Method"
 }
 ,
 "LogEvent`4":{
-"files": [448],
+"files": [
+[450, [245,298]]
+],
 "memberKind": "Method"
 }
 ,
 "LoggingEnabled":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [427]],
+[450, [188]],
+[197, [376]]
+],
 "memberKind": "?"
 }
 ,
 "LogMessage`1":{
-"files": [448],
+"files": [
+[450, [191,202,205,211,218]]
+],
 "memberKind": "Method"
 }
 ,
 "LogMessage`2":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [111,119,126]],
+[450, [192,226,233,239]],
+[197, [110,118,125,156,166]]
+],
 "memberKind": "Method"
 }
 ,
 "LogValuePair`2":{
-"files": [448],
+"files": [
+[450, [195]]
+],
 "memberKind": "Method"
 }
 ,
 "LogValuePair`3":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [127]],
+[450, [196]],
+[197, [126]]
+],
 "memberKind": "Method"
 }
 ,
 "Name":{
-"files": [448],
+"files": [
+[450, [202]]
+],
 "memberKind": "Property"
 }
 ,
 "StartActivity`1":{
-"files": [448],
+"files": [
+[450, [369]]
+],
 "memberKind": "Method"
 }
 }
@@ -11605,7 +15343,9 @@ var contents = {
 "LoggingChannelOptions":{
 "members": {
 ":ctor`1":{
-"files": [448],
+"files": [
+[450, [156]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -11614,12 +15354,16 @@ var contents = {
 "LoggingFieldFormat":{
 "members": {
 "Default":{
-"files": [448],
+"files": [
+[450, [279]]
+],
 "memberKind": "Field"
 }
 ,
 "String":{
-"files": [448],
+"files": [
+[450, [273]]
+],
 "memberKind": "Field"
 }
 }
@@ -11628,47 +15372,65 @@ var contents = {
 "LoggingFields":{
 "members": {
 ":ctor`0":{
-"files": [448],
+"files": [
+[450, [243]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddDateTime`2":{
-"files": [448],
+"files": [
+[450, [261]]
+],
 "memberKind": "Method"
 }
 ,
 "AddDouble`2":{
-"files": [448],
+"files": [
+[450, [244]]
+],
 "memberKind": "Method"
 }
 ,
 "AddInt16`2":{
-"files": [448],
+"files": [
+[450, [285,286,288,290]]
+],
 "memberKind": "Method"
 }
 ,
 "AddString`4":{
-"files": [448],
+"files": [
+[450, [279]]
+],
 "memberKind": "Method"
 }
 ,
 "AddUInt8Array`3":{
-"files": [448],
+"files": [
+[450, [270]]
+],
 "memberKind": "Method"
 }
 ,
 "BeginStruct`1":{
-"files": [448],
+"files": [
+[450, [284,287]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [448],
+"files": [
+[450, [260,264]]
+],
 "memberKind": "Method"
 }
 ,
 "EndStruct`0":{
-"files": [448],
+"files": [
+[450, [289,291]]
+],
 "memberKind": "Method"
 }
 }
@@ -11677,35 +15439,45 @@ var contents = {
 "LoggingLevel":{
 "members": {
 "Critical":{
-"files": [194,
-195],
+"files": [
+[196, [115,126,127]],
+[197, [114,125,126,151,156]]
+],
 "memberKind": "Field"
 }
 ,
 "Error":{
-"files": [448,
-195],
+"files": [
+[450, [192,196]],
+[197, [166]]
+],
 "memberKind": "Field"
 }
 ,
 "Information":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [123]],
+[450, [237,239,301]],
+[197, [122]]
+],
 "memberKind": "Field"
 }
 ,
 "Verbose":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [243]],
+[450, [248]],
+[197, [251]]
+],
 "memberKind": "Field"
 }
 ,
 "Warning":{
-"files": [194,
-448,
-195],
+"files": [
+[196, [169]],
+[450, [224,226,231,233]],
+[197, [212]]
+],
 "memberKind": "Field"
 }
 }
@@ -11714,22 +15486,30 @@ var contents = {
 "LoggingOptions":{
 "members": {
 ":ctor`0":{
-"files": [448],
+"files": [
+[450, [302]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [448],
+"files": [
+[450, [249]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Keywords":{
-"files": [448],
+"files": [
+[450, [302]]
+],
 "memberKind": "?"
 }
 ,
 "Tags":{
-"files": [448],
+"files": [
+[450, [302]]
+],
 "memberKind": "?"
 }
 }
@@ -11738,22 +15518,30 @@ var contents = {
 "LoggingSession":{
 "members": {
 ":ctor`1":{
-"files": [195],
+"files": [
+[197, [206]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddLoggingChannel`2":{
-"files": [195],
+"files": [
+[197, [212]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [195],
+"files": [
+[197, [53,459]]
+],
 "memberKind": "Method"
 }
 ,
 "SaveToFileAsync`2":{
-"files": [195],
+"files": [
+[197, [221]]
+],
 "memberKind": "Method"
 }
 }
@@ -11764,14 +15552,16 @@ var contents = {
 "EventHandler<T>":{
 "members": {
 ":ctor`1":{
-"files": [261,
-279,
-264,
-280,
-265,
-281,
-267,
-287],
+"files": [
+[263, [394]],
+[281, [187]],
+[266, [398]],
+[282, [214]],
+[267, [413]],
+[283, [230]],
+[269, [418]],
+[289, [201]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -11780,12 +15570,16 @@ var contents = {
 "IAsyncAction":{
 "members": {
 "Completed":{
-"files": [186],
+"files": [
+[188, [471]]
+],
 "memberKind": "?"
 }
 ,
 "ErrorCode":{
-"files": [186],
+"files": [
+[188, [482]]
+],
 "memberKind": "Property"
 }
 }
@@ -11800,7 +15594,9 @@ var contents = {
 "DeviceTriggerResult>":{
 "members": {
 "AsTask`0":{
-"files": [71],
+"files": [
+[71, [189]]
+],
 "memberKind": "Method"
 }
 }
@@ -11813,17 +15609,23 @@ var contents = {
 "DataPackageOperation>":{
 "members": {
 "Cancel`0":{
-"files": [147],
+"files": [
+[149, [99]]
+],
 "memberKind": "Method"
 }
 ,
 "Completed":{
-"files": [147],
+"files": [
+[149, [122]]
+],
 "memberKind": "?"
 }
 ,
 "GetResults`0":{
-"files": [147],
+"files": [
+[149, [149]]
+],
 "memberKind": "Method"
 }
 }
@@ -11840,9 +15642,11 @@ var contents = {
 "Geoposition>":{
 "members": {
 "AsTask`1":{
-"files": [90,
-328,
-206],
+"files": [
+[90, [43]],
+[330, [98]],
+[208, [289]]
+],
 "memberKind": "Method"
 }
 }
@@ -11855,7 +15659,9 @@ var contents = {
 "UsbDevice>":{
 "members": {
 "AsTask`1":{
-"files": [82],
+"files": [
+[82, [102]]
+],
 "memberKind": "Method"
 }
 }
@@ -11868,7 +15674,9 @@ var contents = {
 "WiFiDirectDevice>":{
 "members": {
 "AsTask`1":{
-"files": [289],
+"files": [
+[291, [267]]
+],
 "memberKind": "Method"
 }
 }
@@ -11885,10 +15693,12 @@ var contents = {
 "SpeechRecognitionResult>":{
 "members": {
 "Cancel`0":{
-"files": [173,
-174,
-175,
-162],
+"files": [
+[175, [168]],
+[176, [149]],
+[177, [119]],
+[164, [177]]
+],
 "memberKind": "Method"
 }
 }
@@ -11905,7 +15715,9 @@ var contents = {
 "IRandomAccessStreamWithContentType>":{
 "members": {
 "AsTask`1":{
-"files": [449],
+"files": [
+[451, [95]]
+],
 "memberKind": "Method"
 }
 }
@@ -11920,8 +15732,10 @@ var contents = {
 "IAsyncOperationWithProgress<string, ulong>":{
 "members": {
 "AsTask`1":{
-"files": [450,
-451],
+"files": [
+[452, [35]],
+[453, [87]]
+],
 "memberKind": "Method"
 }
 }
@@ -11930,7 +15744,9 @@ var contents = {
 "IAsyncOperationWithProgress<ulong, ulong>":{
 "members": {
 "AsTask`1":{
-"files": [449],
+"files": [
+[451, [106]]
+],
 "memberKind": "Method"
 }
 }
@@ -11945,7 +15761,9 @@ var contents = {
 "PhotoImportDeleteImportedItemsFromSourceResult, double>":{
 "members": {
 "AsTask`2":{
-"files": [30],
+"files": [
+[30, [437,705]]
+],
 "memberKind": "Method"
 }
 }
@@ -11954,12 +15772,16 @@ var contents = {
 "PhotoImportFindItemsResult, uint>":{
 "members": {
 "AsTask`0":{
-"files": [30],
+"files": [
+[30, [668]]
+],
 "memberKind": "Method"
 }
 ,
 "AsTask`2":{
-"files": [30],
+"files": [
+[30, [234,635]]
+],
 "memberKind": "Method"
 }
 }
@@ -11974,7 +15796,9 @@ var contents = {
 "PhotoImportProgress>":{
 "members": {
 "AsTask`2":{
-"files": [30],
+"files": [
+[30, [320,680]]
+],
 "memberKind": "Method"
 }
 }
@@ -11993,12 +15817,16 @@ var contents = {
 "TranscodeFailureReason, double>":{
 "members": {
 "Completed":{
-"files": [406],
+"files": [
+[410, [121]]
+],
 "memberKind": "?"
 }
 ,
 "Progress":{
-"files": [406],
+"files": [
+[410, [114]]
+],
 "memberKind": "?"
 }
 }
@@ -12021,13 +15849,17 @@ var contents = {
 "DownloadOperation>":{
 "members": {
 "AsTask`0":{
-"files": [452,
-72],
+"files": [
+[454, [66]],
+[72, [89]]
+],
 "memberKind": "Method"
 }
 ,
 "AsTask`2":{
-"files": [453],
+"files": [
+[455, [313,318]]
+],
 "memberKind": "Method"
 }
 }
@@ -12048,7 +15880,9 @@ var contents = {
 "UploadOperation>":{
 "members": {
 "AsTask`2":{
-"files": [454],
+"files": [
+[456, [298,303]]
+],
 "memberKind": "Method"
 }
 }
@@ -12077,22 +15911,26 @@ var contents = {
 "HttpProgress>":{
 "members": {
 "AsTask`1":{
-"files": [455,
-456,
-457,
-458,
-451,
-459,
-460,
-461,
-211,
-462],
+"files": [
+[457, [132]],
+[458, [95]],
+[459, [107]],
+[460, [87]],
+[453, [82]],
+[461, [80]],
+[462, [91]],
+[463, [83]],
+[213, [83]],
+[464, [114]]
+],
 "memberKind": "Method"
 }
 ,
 "AsTask`2":{
-"files": [463,
-464],
+"files": [
+[465, [38]],
+[466, [112]]
+],
 "memberKind": "Method"
 }
 }
@@ -12115,32 +15953,36 @@ var contents = {
 "ApiInformation":{
 "members": {
 "IsApiContractPresent`2":{
-"files": [437],
+"files": [
+[440, [23,49]]
+],
 "memberKind": "Method"
 }
 ,
 "IsTypePresent`1":{
-"files": [154,
-465,
-466,
-467,
-189,
-191,
-192,
-193,
-61,
-297,
-17,
-468,
-469,
-470,
-245,
-471,
-472,
-473,
-474,
-475,
-476],
+"files": [
+[156, [55,143]],
+[467, [36,130,185]],
+[468, [38]],
+[469, [36]],
+[191, [613,637,682,705]],
+[193, [678,702,732,755]],
+[194, [528,552,589,612]],
+[195, [674,698]],
+[61, [173]],
+[299, [101]],
+[17, [105]],
+[470, [40,49,176]],
+[471, [76]],
+[472, [89,103,118,132]],
+[247, [113,128]],
+[473, [72,122,138,147]],
+[474, [50]],
+[475, [73]],
+[476, [85,104]],
+[477, [68]],
+[478, [68]]
+],
 "memberKind": "Method"
 }
 }
@@ -12151,69 +15993,77 @@ var contents = {
 "Point":{
 "members": {
 ":ctor`0":{
-"files": [477,
-154,
-465,
-99,
-478,
-134,
-316,
-479,
-469,
-449],
+"files": [
+[479, [37]],
+[156, [234]],
+[467, [177]],
+[102, [62]],
+[480, [36]],
+[136, [60]],
+[318, [94]],
+[481, [105]],
+[471, [68]],
+[451, [420]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [317,
-277,
-107,
-108,
-186,
-480,
-481,
-482,
-316,
-483,
-320,
-484,
-415,
-485,
-148,
-486],
+"files": [
+[319, [92]],
+[279, [90]],
+[110, [94]],
+[111, [110]],
+[188, [411]],
+[482, [87]],
+[483, [197]],
+[484, [78]],
+[318, [95]],
+[485, [16]],
+[322, [56]],
+[486, [178]],
+[419, [216]],
+[487, [75,88]],
+[150, [90]],
+[488, [63]]
+],
 "memberKind": "Constructor"
 }
 ,
 "X":{
-"files": [317,
-277,
-107,
-108,
-487,
-332,
-480,
-481,
-482,
-134,
-316,
-333],
+"files": [
+[319, [95]],
+[279, [93]],
+[110, [97]],
+[111, [113]],
+[489, [78]],
+[334, [114,229]],
+[482, [87,88,94]],
+[483, [197,198,204]],
+[484, [81]],
+[136, [69,74]],
+[318, [95]],
+[335, [86]]
+],
 "memberKind": "?"
 }
 ,
 "Y":{
-"files": [317,
-277,
-107,
-108,
-487,
-154,
-465,
-332,
-480,
-481,
-482,
-134,
-316],
+"files": [
+[319, [95]],
+[279, [93]],
+[110, [97]],
+[111, [113]],
+[489, [78]],
+[156, [235]],
+[467, [178]],
+[334, [115,230]],
+[482, [87,89,95]],
+[483, [197,199,205]],
+[484, [81]],
+[136, [65]],
+[318, [95]]
+],
 "memberKind": "?"
 }
 }
@@ -12222,21 +16072,27 @@ var contents = {
 "PropertyType":{
 "members": {
 "UInt16":{
-"files": [189,
-191,
-192,
-198,
-449],
+"files": [
+[191, [754]],
+[193, [805]],
+[194, [661]],
+[200, [396]],
+[451, [518]]
+],
 "memberKind": "Field"
 }
 ,
 "UInt8":{
-"files": [449],
+"files": [
+[451, [527]]
+],
 "memberKind": "Field"
 }
 ,
 "UInt8Array":{
-"files": [449],
+"files": [
+[451, [461,468]]
+],
 "memberKind": "Field"
 }
 }
@@ -12245,9 +16101,11 @@ var contents = {
 "PropertyValue":{
 "members": {
 "CreateInt32`1":{
-"files": [189,
-192,
-193],
+"files": [
+[191, [521]],
+[194, [441]],
+[195, [571]]
+],
 "memberKind": "Method"
 }
 }
@@ -12256,174 +16114,204 @@ var contents = {
 "Rect":{
 "members": {
 ":ctor`0":{
-"files": [189,
-473],
+"files": [
+[191, [1037]],
+[475, [277]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [477,
-99,
-478,
-316,
-479,
-469,
-449],
+"files": [
+[479, [38]],
+[102, [63]],
+[480, [37]],
+[318, [95]],
+[481, [106]],
+[471, [69]],
+[451, [420]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
-"files": [317,
-277,
-107,
-108,
-482,
-134,
-488,
-111,
-449,
-473,
-489,
-490,
-491],
+"files": [
+[319, [95]],
+[279, [93]],
+[110, [97]],
+[111, [113]],
+[484, [81]],
+[136, [78]],
+[490, [31]],
+[114, [166]],
+[451, [546]],
+[475, [272]],
+[491, [93,131,132]],
+[492, [69]],
+[493, [436,437]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Bottom":{
-"files": [134,
-492],
+"files": [
+[136, [66]],
+[494, [325]]
+],
 "memberKind": "?"
 }
 ,
 "Empty":{
-"files": [157,
-484],
+"files": [
+[159, [211]],
+[486, [123]]
+],
 "memberKind": "?"
 }
 ,
 "Height":{
-"files": [332,
-189,
-493,
-494,
-495,
-496,
-497,
-157,
-498,
-499,
-500,
-501,
-502,
-503,
-484,
-41,
-504,
-449,
-474],
+"files": [
+[334, [168]],
+[191, [932,936,937,942,1018,1022,1058,1075]],
+[495, [95]],
+[496, [57]],
+[497, [92,93]],
+[498, [103]],
+[499, [50]],
+[159, [219]],
+[500, [95]],
+[501, [39]],
+[502, [295]],
+[503, [83]],
+[504, [61,63]],
+[505, [105,107]],
+[486, [98,109]],
+[41, [79]],
+[506, [37]],
+[451, [400]],
+[476, [82]]
+],
 "memberKind": "?"
 }
 ,
 "Intersect`1":{
-"files": [449],
+"files": [
+[451, [421]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEmpty":{
-"files": [484],
+"files": [
+[486, [98]]
+],
 "memberKind": "?"
 }
 ,
 "Left":{
-"files": [134,
-498,
-492,
-41],
+"files": [
+[136, [67,69,70,75]],
+[500, [93]],
+[494, [320]],
+[41, [77]]
+],
 "memberKind": "?"
 }
 ,
 "Right":{
-"files": [134,
-492,
-505],
+"files": [
+[136, [67,70,74,75]],
+[494, [321]],
+[507, [36]]
+],
 "memberKind": "?"
 }
 ,
 "Top":{
-"files": [134,
-498,
-492,
-41],
+"files": [
+[136, [65,66]],
+[500, [93]],
+[494, [324]],
+[41, [78]]
+],
 "memberKind": "?"
 }
 ,
 "Union`1":{
-"files": [157],
+"files": [
+[159, [214]]
+],
 "memberKind": "Method"
 }
 ,
 "Width":{
-"files": [506,
-507,
-508,
-509,
-332,
-189,
-364,
-493,
-494,
-510,
-365,
-511,
-512,
-495,
-513,
-496,
-497,
-157,
-498,
-366,
-500,
-514,
-501,
-502,
-503,
-484,
-41,
-504,
-449,
-515,
-516,
-517,
-518,
-519,
-520,
-521,
-522,
-523,
-524,
-525,
-474,
-526,
-179],
+"files": [
+[508, [93,137]],
+[509, [45,71]],
+[510, [70,96]],
+[511, [49,80]],
+[334, [167]],
+[191, [933,936,937,941,1017,1021,1057,1067]],
+[366, [106]],
+[495, [96]],
+[496, [57]],
+[512, [45,71]],
+[367, [106]],
+[513, [45,71]],
+[514, [100]],
+[497, [93]],
+[515, [71,97]],
+[498, [54,95]],
+[499, [49]],
+[159, [219]],
+[500, [94]],
+[368, [106]],
+[502, [294]],
+[516, [42,68]],
+[503, [82]],
+[504, [60,62]],
+[505, [104,106]],
+[486, [98,108]],
+[41, [80]],
+[506, [36]],
+[451, [399]],
+[517, [45,68]],
+[518, [44,70]],
+[519, [45,71]],
+[520, [44,70]],
+[521, [45,68]],
+[522, [45,48]],
+[523, [45,68]],
+[524, [76]],
+[525, [106]],
+[526, [45,71]],
+[527, [45,71]],
+[476, [83]],
+[528, [55]],
+[181, [146]]
+],
 "memberKind": "?"
 }
 ,
 "X":{
-"files": [332,
-189,
-495,
-484,
-504],
+"files": [
+[334, [165]],
+[191, [936,944,1066]],
+[497, [94]],
+[486, [112]],
+[506, [34]]
+],
 "memberKind": "?"
 }
 ,
 "Y":{
-"files": [332,
-189,
-495,
-484,
-504],
+"files": [
+[334, [166]],
+[191, [937,945,1074]],
+[497, [95]],
+[486, [113]],
+[506, [35]]
+],
 "memberKind": "?"
 }
 }
@@ -12432,60 +16320,68 @@ var contents = {
 "Size":{
 "members": {
 ":ctor`0":{
-"files": [501,
-527],
+"files": [
+[503, [47,65,70]],
+[529, [36]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [477,
-188,
-99,
-478,
-479,
-488,
-469,
-502,
-503,
-418,
-489,
-491,
-528],
+"files": [
+[479, [38]],
+[190, [270]],
+[102, [63]],
+[480, [37]],
+[481, [106]],
+[490, [11]],
+[471, [69]],
+[504, [47,101,105,120,128,135]],
+[505, [46]],
+[422, [81,162]],
+[491, [115,117]],
+[493, [250,301]],
+[530, [85]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Height":{
-"files": [188,
-488,
-529,
-500,
-492,
-501,
-527,
-489,
-530,
-490,
-491],
+"files": [
+[190, [303]],
+[490, [17,18,31]],
+[531, [25,28]],
+[502, [288,295]],
+[494, [67,73,80,323,325,328,335,339,343,347,352,355,356,369,524,530,534,540,550,564]],
+[503, [47,65]],
+[529, [36]],
+[491, [93,115,117,132]],
+[532, [58]],
+[492, [75]],
+[493, [243,252,262,325,353,426]]
+],
 "memberKind": "?"
 }
 ,
 "Width":{
-"files": [188,
-488,
-529,
-500,
-492,
-501,
-527,
-418,
-489,
-530,
-490,
-531,
-491,
-532,
-533,
-534],
+"files": [
+[190, [302]],
+[490, [11,31]],
+[531, [24,27]],
+[502, [287,294]],
+[494, [66,72,79,319,321,327,334,338,342,346,352,354,355,368,523,529,533,539,550,563]],
+[503, [47,65]],
+[529, [36]],
+[422, [51,60,64,74,82,83,99,108,109,110,115,163,164]],
+[491, [93,115,132]],
+[532, [59]],
+[492, [75]],
+[533, [46]],
+[493, [243,251,261,325,352,426]],
+[534, [173,175,179]],
+[535, [181,185]],
+[536, [182,186]]
+],
 "memberKind": "?"
 }
 }
@@ -12494,88 +16390,114 @@ var contents = {
 "TimeSpan":{
 "members": {
 ":ctor`0":{
-"files": [186],
+"files": [
+[188, [322]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [406,
-535,
-536],
+"files": [
+[410, [87,88]],
+[537, [43,44]],
+[538, [80,85,90]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [59,
-364,
-365,
-535,
-366],
+"files": [
+[59, [49]],
+[366, [39]],
+[367, [39]],
+[537, [45,46]],
+[368, [39]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`5":{
-"files": [344,
-353,
-355,
-358,
-362,
-368],
+"files": [
+[346, [49]],
+[355, [49]],
+[357, [49]],
+[360, [49]],
+[364, [49]],
+[370, [49]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`1":{
-"files": [535],
+"files": [
+[537, [212]]
+],
 "memberKind": "Method"
 }
 ,
 "CompareTo`1":{
-"files": [535],
+"files": [
+[537, [210,222,224]]
+],
 "memberKind": "Method"
 }
 ,
 "FromMilliseconds`1":{
-"files": [189,
-449],
+"files": [
+[191, [447]],
+[451, [296]]
+],
 "memberKind": "Method"
 }
 ,
 "FromSeconds`1":{
-"files": [80,
-537,
-162,
-147,
-489,
-538,
-539],
+"files": [
+[80, [63]],
+[539, [31,32,150,152]],
+[164, [250]],
+[149, [79]],
+[491, [32]],
+[540, [53]],
+[541, [37]]
+],
 "memberKind": "Method"
 }
 ,
 "Parse`1":{
-"files": [78],
+"files": [
+[78, [319]]
+],
 "memberKind": "Method"
 }
 ,
 "Subtract`1":{
-"files": [535],
+"files": [
+[537, [226]]
+],
 "memberKind": "Method"
 }
 ,
 "ToString`0":{
-"files": [186],
+"files": [
+[188, [322]]
+],
 "memberKind": "Method"
 }
 ,
 "TotalMilliseconds":{
-"files": [537,
-535],
+"files": [
+[539, [192]],
+[537, [62,63,208,213,220,232]]
+],
 "memberKind": "?"
 }
 ,
 "Zero":{
-"files": [406,
-495,
-449],
+"files": [
+[410, [93]],
+[497, [106]],
+[451, [252]]
+],
 "memberKind": "?"
 }
 }
@@ -12590,7 +16512,9 @@ var contents = {
 "DeviceInformation>":{
 "members": {
 ":ctor`1":{
-"files": [540],
+"files": [
+[542, [100]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12611,7 +16535,9 @@ var contents = {
 "Rect>":{
 "members": {
 "DynamicInvoke`2":{
-"files": [473],
+"files": [
+[475, [284]]
+],
 "memberKind": "Method"
 }
 }
@@ -12626,10 +16552,12 @@ var contents = {
 "TypedEventHandler<Oven, Bread>":{
 "members": {
 ":ctor`1":{
-"files": [541,
-542,
-543,
-544],
+"files": [
+[543, [60,61,62,65]],
+[544, [60,61,62,65]],
+[545, [60,61,62,65]],
+[546, [60,61,62,65]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12644,7 +16572,9 @@ var contents = {
 "SplashScreen, Object>":{
 "members": {
 ":ctor`1":{
-"files": [41],
+"files": [
+[41, [50]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12663,8 +16593,10 @@ var contents = {
 "DataRequestedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [137,
-143],
+"files": [
+[139, [42]],
+[145, [30,36]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12693,12 +16625,14 @@ var contents = {
 "DeviceAccessChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [260,
-261,
-262,
-263,
-265,
-266],
+"files": [
+[262, [42]],
+[263, [447]],
+[264, [60]],
+[265, [58]],
+[267, [466]],
+[268, [42]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12713,7 +16647,9 @@ var contents = {
 "DevicePicker, object>":{
 "members": {
 ":ctor`1":{
-"files": [316],
+"files": [
+[318, [108]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12728,7 +16664,9 @@ var contents = {
 "DeviceSelectedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [316],
+"files": [
+[318, [119]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12743,14 +16681,16 @@ var contents = {
 "DeviceWatcher, Object>":{
 "members": {
 ":ctor`1":{
-"files": [279,
-280,
-281,
-282,
-288,
-290,
-291,
-287],
+"files": [
+[281, [212]],
+[282, [239]],
+[283, [255]],
+[284, [150,161]],
+[290, [142,153]],
+[292, [127,135]],
+[293, [147,158]],
+[289, [226]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12765,18 +16705,20 @@ var contents = {
 "DeviceInformation>":{
 "members": {
 ":ctor`1":{
-"files": [261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-267,
-287],
+"files": [
+[263, [418]],
+[281, [210]],
+[266, [422]],
+[282, [237]],
+[267, [437]],
+[283, [253]],
+[284, [94]],
+[290, [86]],
+[292, [78]],
+[293, [91]],
+[269, [442]],
+[289, [224]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12785,18 +16727,20 @@ var contents = {
 "DeviceInformationUpdate>":{
 "members": {
 ":ctor`1":{
-"files": [261,
-279,
-264,
-280,
-265,
-281,
-282,
-288,
-290,
-291,
-267,
-287],
+"files": [
+[263, [420]],
+[281, [211]],
+[266, [424]],
+[282, [238]],
+[267, [439]],
+[283, [254]],
+[284, [108,128]],
+[290, [100,120]],
+[292, [89,108]],
+[293, [105,125]],
+[269, [444]],
+[289, [225]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12821,7 +16765,9 @@ var contents = {
 "HidInputReportReceivedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [329],
+"files": [
+[331, [240]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12846,9 +16792,11 @@ var contents = {
 "AccelerometerReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [345,
-348,
-79],
+"files": [
+[347, [74,98,103,137,156]],
+[350, [80,104,109,145,164]],
+[79, [40,66]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12857,7 +16805,9 @@ var contents = {
 "AccelerometerShakenEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [346],
+"files": [
+[348, [69,90,95,124,142]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12878,7 +16828,9 @@ var contents = {
 "ActivitySensorReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [260],
+"files": [
+[262, [68,113,139]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12899,7 +16851,9 @@ var contents = {
 "AltimeterReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [350],
+"files": [
+[352, [74,98,103,135,154]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12920,7 +16874,9 @@ var contents = {
 "BarometerReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [352],
+"files": [
+[354, [75,99,104,136,155]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12941,7 +16897,9 @@ var contents = {
 "CompassReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [354],
+"files": [
+[356, [75,99,104,162,181]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12966,7 +16924,9 @@ var contents = {
 "CustomSensorReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [262],
+"files": [
+[264, [150,175,180,214,236]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -12991,7 +16951,9 @@ var contents = {
 "GyrometerReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [357],
+"files": [
+[359, [75,99,104,138,157]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13012,8 +16974,10 @@ var contents = {
 "InclinometerReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [360,
-361],
+"files": [
+[362, [75,99,104,156,175]],
+[363, [75,99,104,138,157]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13034,7 +16998,9 @@ var contents = {
 "LightSensorReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [363],
+"files": [
+[365, [75,99,104,136,155]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13055,8 +17021,10 @@ var contents = {
 "OrientationSensorReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [367,
-373],
+"files": [
+[369, [75,99,104,174,193]],
+[375, [75,99,104,154,173]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13077,7 +17045,9 @@ var contents = {
 "ProximitySensorReadingChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [284],
+"files": [
+[286, [128,143,161]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13098,7 +17068,9 @@ var contents = {
 "SimpleOrientationSensorOrientationChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [374],
+"files": [
+[376, [67,88,93,158,180]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13123,7 +17095,9 @@ var contents = {
 "ErrorReceivedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [545],
+"files": [
+[547, [103]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13132,7 +17106,9 @@ var contents = {
 "PinChangedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [545],
+"files": [
+[547, [86]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13157,7 +17133,9 @@ var contents = {
 "UsbInterruptInEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [400],
+"files": [
+[404, [127,152]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13178,8 +17156,10 @@ var contents = {
 "ApplicationData, object>":{
 "members": {
 ":ctor`1":{
-"files": [546,
-547],
+"files": [
+[548, [76]],
+[549, [93]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13200,9 +17180,11 @@ var contents = {
 "FileRemovedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [64,69]],
+[550, [65,70]],
+[551, [64,69]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13227,9 +17209,11 @@ var contents = {
 "TargetFileRequestedEventArgs>":{
 "members": {
 ":ctor`1":{
-"files": [550,
-551,
-552],
+"files": [
+[552, [67,72]],
+[553, [50,55]],
+[554, [53,58]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -13254,53 +17238,65 @@ var contents = {
 "Uri":{
 "members": {
 ":ctor`1":{
-"files": [508,
-465,
-186,
-549,
-537,
-512,
-479,
-320,
-553,
-447,
-554,
-492,
-468,
-143,
-174,
-175,
-472,
-415,
-555,
-556],
+"files": [
+[510, [139]],
+[467, [51,71,95,125]],
+[188, [106,107,112,113,121,122,174]],
+[551, [81]],
+[539, [103,209]],
+[514, [117]],
+[481, [44,47,74,77,78]],
+[322, [37]],
+[555, [51]],
+[449, [42,43,44,45]],
+[556, [50]],
+[494, [549]],
+[470, [155]],
+[145, [74]],
+[176, [340]],
+[177, [342]],
+[474, [149]],
+[419, [66,67,72,73,78,79]],
+[557, [34]],
+[558, [130]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [452,
-148,
-147],
+"files": [
+[454, [64]],
+[150, [88]],
+[149, [50]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AbsoluteUri":{
-"files": [465],
+"files": [
+[467, [57,81,111,162]]
+],
 "memberKind": "?"
 }
 ,
 "Equals`1":{
-"files": [449],
+"files": [
+[451, [108]]
+],
 "memberKind": "Method"
 }
 ,
 "ToString`0":{
-"files": [78],
+"files": [
+[78, [159,296,361,375,434]]
+],
 "memberKind": "Method"
 }
 ,
 "TryCreate`3":{
-"files": [452],
+"files": [
+[454, [52]]
+],
 "memberKind": "Method"
 }
 }
@@ -13309,12 +17305,16 @@ var contents = {
 "WwwFormUrlDecoder":{
 "members": {
 ":ctor`1":{
-"files": [3],
+"files": [
+[3, [207]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetFirstValueByName`1":{
-"files": [3],
+"files": [
+[3, [208]]
+],
 "memberKind": "Method"
 }
 }
@@ -13327,42 +17327,48 @@ var contents = {
 "ApplicationLanguages":{
 "members": {
 "Languages":{
-"files": [1,
-9,
-557,
-170,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-442,
-443,
-444,
-445,
-446,
-11,
-0,
-39,
-13,
-16,
-17,
-18,
-199,
-22,
-28],
+"files": [
+[1, [66]],
+[9, [62]],
+[559, [51,53]],
+[172, [79,83,86]],
+[2, [62,98]],
+[10, [63]],
+[34, [58]],
+[35, [58]],
+[36, [58]],
+[37, [58]],
+[38, [58]],
+[444, [42]],
+[445, [88]],
+[446, [43]],
+[447, [42]],
+[448, [42]],
+[11, [62]],
+[0, [66]],
+[39, [95]],
+[13, [73]],
+[16, [65]],
+[17, [54]],
+[18, [59,95]],
+[201, [54]],
+[22, [65]],
+[28, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "ManifestLanguages":{
-"files": [557],
+"files": [
+[559, [72]]
+],
 "memberKind": "Property"
 }
 ,
 "PrimaryLanguageOverride":{
-"files": [557],
+"files": [
+[559, [97,119]]
+],
 "memberKind": "Property"
 }
 }
@@ -13371,304 +17377,408 @@ var contents = {
 "Calendar":{
 "members": {
 ":ctor`0":{
-"files": [269,
-558,
-559,
-560,
-561,
-89,
-325,
-237,
-270],
+"files": [
+[271, [61]],
+[560, [42]],
+[561, [43]],
+[562, [48]],
+[563, [54]],
+[89, [77]],
+[327, [65]],
+[239, [64]],
+[272, [102]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [560],
+"files": [
+[562, [49,50,51]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [558,
-559,
-440],
+"files": [
+[560, [43,44]],
+[561, [44,45]],
+[442, [40]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
-"files": [440],
+"files": [
+[442, [101]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddDays`1":{
-"files": [269,
-440],
+"files": [
+[271, [63]],
+[442, [110,111,123]]
+],
 "memberKind": "Method"
 }
 ,
 "AddHours`1":{
-"files": [440,
-270],
+"files": [
+[442, [124]],
+[272, [112,121]]
+],
 "memberKind": "Method"
 }
 ,
 "AddMinutes`1":{
-"files": [270],
+"files": [
+[272, [111,120]]
+],
 "memberKind": "Method"
 }
 ,
 "AddMonths`1":{
-"files": [561],
+"files": [
+[563, [90]]
+],
 "memberKind": "Method"
 }
 ,
 "AddNanoseconds`1":{
-"files": [270],
+"files": [
+[272, [109,118]]
+],
 "memberKind": "Method"
 }
 ,
 "AddSeconds`1":{
-"files": [237,
-270],
+"files": [
+[239, [66]],
+[272, [110,113,119,122]]
+],
 "memberKind": "Method"
 }
 ,
 "AddYears`1":{
-"files": [440,
-561],
+"files": [
+[442, [43,49]],
+[563, [75]]
+],
 "memberKind": "Method"
 }
 ,
 "ChangeClock`1":{
-"files": [270],
+"files": [
+[272, [103]]
+],
 "memberKind": "Method"
 }
 ,
 "ChangeTimeZone`1":{
-"files": [561],
+"files": [
+[563, [64,70,79,85,94]]
+],
 "memberKind": "Method"
 }
 ,
 "Clone`0":{
-"files": [440],
+"files": [
+[442, [109,122]]
+],
 "memberKind": "Method"
 }
 ,
 "Day":{
-"files": [440,
-561],
+"files": [
+[442, [55,114,130]],
+[563, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "DayAsPaddedString`1":{
-"files": [558,
-560,
-561],
+"files": [
+[560, [30]],
+[562, [34]],
+[563, [34]]
+],
 "memberKind": "Method"
 }
 ,
 "DayOfWeekAsSoloString`0":{
-"files": [558,
-560,
-561],
+"files": [
+[560, [31]],
+[562, [35]],
+[563, [32]]
+],
 "memberKind": "Method"
 }
 ,
 "Era":{
-"files": [440],
+"files": [
+[442, [43,84]]
+],
 "memberKind": "Property"
 }
 ,
 "EraAsString`0":{
-"files": [559,
-440],
+"files": [
+[561, [32]],
+[442, [46]]
+],
 "memberKind": "Method"
 }
 ,
 "FirstDayInThisMonth":{
-"files": [440],
+"files": [
+[442, [55]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstEra":{
-"files": [440],
+"files": [
+[442, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstHourInThisPeriod":{
-"files": [440],
+"files": [
+[442, [59,124]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstMonthInThisYear":{
-"files": [440],
+"files": [
+[442, [54]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstPeriodInThisDay":{
-"files": [440],
+"files": [
+[442, [58]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstYearInThisEra":{
-"files": [440],
+"files": [
+[442, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "GetCalendarSystem`0":{
-"files": [558,
-559,
-560],
+"files": [
+[560, [28]],
+[561, [28]],
+[562, [29,30]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDateTime`0":{
-"files": [269,
-440,
-89,
-325,
-237,
-270],
+"files": [
+[271, [64]],
+[442, [117]],
+[89, [89]],
+[327, [322]],
+[239, [70]],
+[272, [115,124]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTimeZone`0":{
-"files": [561],
+"files": [
+[563, [31,55]]
+],
 "memberKind": "Method"
 }
 ,
 "Hour":{
-"files": [440,
-270],
+"files": [
+[442, [59,124]],
+[272, [112,121]]
+],
 "memberKind": "Property"
 }
 ,
 "HourAsPaddedString`1":{
-"files": [440,
-561],
+"files": [
+[442, [127]],
+[563, [36]]
+],
 "memberKind": "Method"
 }
 ,
 "LastEra":{
-"files": [440],
+"files": [
+[442, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "LastYearInThisEra":{
-"files": [440],
+"files": [
+[442, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "Minute":{
-"files": [440,
-270],
+"files": [
+[442, [60]],
+[272, [111,120]]
+],
 "memberKind": "Property"
 }
 ,
 "MinuteAsPaddedString`1":{
-"files": [561],
+"files": [
+[563, [37]]
+],
 "memberKind": "Method"
 }
 ,
 "Month":{
-"files": [440,
-561],
+"files": [
+[442, [54]],
+[563, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "MonthAsSoloString`0":{
-"files": [558,
-560,
-561],
+"files": [
+[560, [29]],
+[562, [33]],
+[563, [33]]
+],
 "memberKind": "Method"
 }
 ,
 "Nanosecond":{
-"files": [440,
-270],
+"files": [
+[442, [62]],
+[272, [109,118]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberOfDaysInThisMonth":{
-"files": [559],
+"files": [
+[561, [30]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberOfHoursInThisPeriod":{
-"files": [559,
-440],
+"files": [
+[561, [31]],
+[442, [118]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberOfMonthsInThisYear":{
-"files": [559],
+"files": [
+[561, [29]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberOfYearsInThisEra":{
-"files": [440],
+"files": [
+[442, [46]]
+],
 "memberKind": "Property"
 }
 ,
 "NumeralSystem":{
-"files": [560],
+"files": [
+[562, [31]]
+],
 "memberKind": "Property"
 }
 ,
 "Period":{
-"files": [440],
+"files": [
+[442, [58,130]]
+],
 "memberKind": "Property"
 }
 ,
 "PeriodAsString`0":{
-"files": [561],
+"files": [
+[563, [39]]
+],
 "memberKind": "Method"
 }
 ,
 "ResolvedLanguage":{
-"files": [560],
+"files": [
+[562, [32]]
+],
 "memberKind": "Property"
 }
 ,
 "Second":{
-"files": [440,
-270],
+"files": [
+[442, [61]],
+[272, [110,119]]
+],
 "memberKind": "Property"
 }
 ,
 "SecondAsPaddedString`1":{
-"files": [561],
+"files": [
+[563, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "SetDateTime`1":{
-"files": [440,
-270],
+"files": [
+[442, [106]],
+[272, [108,117]]
+],
 "memberKind": "Method"
 }
 ,
 "SetToNow`0":{
-"files": [269,
-89,
-325,
-237],
+"files": [
+[271, [62]],
+[89, [88]],
+[327, [321]],
+[239, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "TimeZoneAsString`1":{
-"files": [561],
+"files": [
+[563, [40]]
+],
 "memberKind": "Method"
 }
 ,
 "Year":{
-"files": [440],
+"files": [
+[442, [49,64,68,76]]
+],
 "memberKind": "Property"
 }
 ,
 "YearAsString`0":{
-"files": [558,
-560,
-561],
+"files": [
+[560, [32]],
+[562, [36]],
+[563, [35]]
+],
 "memberKind": "Method"
 }
 }
@@ -13677,26 +17787,32 @@ var contents = {
 "CalendarIdentifiers":{
 "members": {
 "Gregorian":{
-"files": [440,
-445,
-446,
-89,
-325,
-562],
+"files": [
+[442, [101]],
+[447, [50,62,67,79]],
+[448, [72]],
+[89, [79]],
+[327, [63,64]],
+[564, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "Hebrew":{
-"files": [558,
-559],
+"files": [
+[560, [44]],
+[561, [45]]
+],
 "memberKind": "Property"
 }
 ,
 "Japanese":{
-"files": [558,
-559,
-440,
-445],
+"files": [
+[560, [43]],
+[561, [44]],
+[442, [40]],
+[447, [49,66]]
+],
 "memberKind": "Property"
 }
 }
@@ -13705,20 +17821,24 @@ var contents = {
 "ClockIdentifiers":{
 "members": {
 "TwelveHour":{
-"files": [558,
-559,
-445],
+"files": [
+[560, [43]],
+[561, [44]],
+[447, [49,63,66,80]]
+],
 "memberKind": "Property"
 }
 ,
 "TwentyFourHour":{
-"files": [558,
-559,
-440,
-445,
-446,
-89,
-325],
+"files": [
+[560, [44]],
+[561, [45]],
+[442, [40,101]],
+[447, [50,67]],
+[448, [73]],
+[89, [79]],
+[327, [63,64]]
+],
 "memberKind": "Property"
 }
 }
@@ -13729,7 +17849,9 @@ var contents = {
 "CharacterGrouping":{
 "members": {
 "Label":{
-"files": [563],
+"files": [
+[565, [57,58,64]]
+],
 "memberKind": "Property"
 }
 }
@@ -13738,12 +17860,16 @@ var contents = {
 "CharacterGroupings":{
 "members": {
 ":ctor`0":{
-"files": [563],
+"files": [
+[565, [81]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Lookup`1":{
-"files": [563],
+"files": [
+[565, [88]]
+],
 "memberKind": "Method"
 }
 }
@@ -13754,13 +17880,17 @@ var contents = {
 "CurrencyIdentifiers":{
 "members": {
 "EUR":{
-"files": [564,
-565],
+"files": [
+[566, [56,57,58]],
+[567, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "USD":{
-"files": [564],
+"files": [
+[566, [55]]
+],
 "memberKind": "Property"
 }
 }
@@ -13771,103 +17901,131 @@ var contents = {
 "DateTimeFormatter":{
 "members": {
 ":ctor`1":{
-"files": [440,
-442,
-443,
-446,
-439,
-237,
-248,
-266,
-270,
-271,
-566],
+"files": [
+[442, [98]],
+[444, [49,50,53,54]],
+[445, [45,46,47,48,49,50,51,58,59,60,67,68,69,76,77,78,79,80]],
+[448, [49]],
+[441, [45]],
+[239, [69]],
+[250, [30]],
+[268, [155]],
+[272, [82,195]],
+[273, [102]],
+[568, [28]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`11":{
-"files": [445,
-446],
+"files": [
+[447, [53,70]],
+[448, [63]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [446],
+"files": [
+[448, [51]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [444],
+"files": [
+[446, [76,80,84]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
-"files": [444],
+"files": [
+[446, [50,55,60,65]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`5":{
-"files": [445,
-89,
-325],
+"files": [
+[447, [49,50,66,67]],
+[89, [79]],
+[327, [63,64]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`8":{
-"files": [446],
+"files": [
+[448, [53]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Calendar":{
-"files": [446],
+"files": [
+[448, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "Format`1":{
-"files": [440,
-442,
-443,
-444,
-445,
-446,
-439,
-89,
-237,
-248,
-266,
-270,
-271,
-566],
+"files": [
+[442, [118]],
+[444, [64]],
+[445, [96,106,116,126]],
+[446, [99,109]],
+[447, [90]],
+[448, [83]],
+[441, [52,63,74]],
+[89, [125]],
+[239, [71]],
+[250, [32]],
+[268, [156]],
+[272, [126,128,196]],
+[273, [103]],
+[568, [29]]
+],
 "memberKind": "Method"
 }
 ,
 "Format`2":{
-"files": [439],
+"files": [
+[441, [55,66,77]]
+],
 "memberKind": "Method"
 }
 ,
 "Languages":{
-"files": [446],
+"files": [
+[448, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "NumeralSystem":{
-"files": [446],
+"files": [
+[448, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
-"files": [445,
-446],
+"files": [
+[447, [90]],
+[448, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "Template":{
-"files": [442,
-443,
-444,
-445,
-446],
+"files": [
+[444, [64]],
+[445, [96,106,116,126]],
+[446, [99,109]],
+[447, [90]],
+[448, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -13876,15 +18034,19 @@ var contents = {
 "DayFormat":{
 "members": {
 "Default":{
-"files": [444,
-445,
-446],
+"files": [
+[446, [53,58,68]],
+[447, [55]],
+[448, [55,65]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [444,
-445],
+"files": [
+[446, [63]],
+[447, [72]]
+],
 "memberKind": "Field"
 }
 }
@@ -13893,18 +18055,24 @@ var contents = {
 "DayOfWeekFormat":{
 "members": {
 "Abbreviated":{
-"files": [444],
+"files": [
+[446, [54]]
+],
 "memberKind": "Field"
 }
 ,
 "Default":{
-"files": [446],
+"files": [
+[448, [56,66]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [444,
-445],
+"files": [
+[446, [59,64,69]],
+[447, [56,73]]
+],
 "memberKind": "Field"
 }
 }
@@ -13913,14 +18081,18 @@ var contents = {
 "HourFormat":{
 "members": {
 "Default":{
-"files": [444,
-445,
-446],
+"files": [
+[446, [77,81,85]],
+[447, [74]],
+[448, [57,67]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [445],
+"files": [
+[447, [57]]
+],
 "memberKind": "Field"
 }
 }
@@ -13929,15 +18101,19 @@ var contents = {
 "MinuteFormat":{
 "members": {
 "Default":{
-"files": [444,
-445,
-446],
+"files": [
+[446, [78,82]],
+[447, [75]],
+[448, [58,68]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [444,
-445],
+"files": [
+[446, [86]],
+[447, [58]]
+],
 "memberKind": "Field"
 }
 }
@@ -13946,23 +18122,31 @@ var contents = {
 "MonthFormat":{
 "members": {
 "Abbreviated":{
-"files": [444,
-445],
+"files": [
+[446, [52,57]],
+[447, [54]]
+],
 "memberKind": "Field"
 }
 ,
 "Default":{
-"files": [446],
+"files": [
+[448, [54,64]]
+],
 "memberKind": "Field"
 }
 ,
 "Full":{
-"files": [444],
+"files": [
+[446, [62,67]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [445],
+"files": [
+[447, [71]]
+],
 "memberKind": "Field"
 }
 }
@@ -13971,14 +18155,18 @@ var contents = {
 "SecondFormat":{
 "members": {
 "Default":{
-"files": [444,
-446],
+"files": [
+[446, [79]],
+[448, [59,69]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [444,
-445],
+"files": [
+[446, [83,87]],
+[447, [59,76]]
+],
 "memberKind": "Field"
 }
 }
@@ -13987,24 +18175,32 @@ var contents = {
 "YearFormat":{
 "members": {
 "Abbreviated":{
-"files": [444,
-445],
+"files": [
+[446, [56]],
+[447, [53]]
+],
 "memberKind": "Field"
 }
 ,
 "Default":{
-"files": [446],
+"files": [
+[448, [53,63]]
+],
 "memberKind": "Field"
 }
 ,
 "Full":{
-"files": [444],
+"files": [
+[446, [51,61]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [444,
-445],
+"files": [
+[446, [66]],
+[447, [70]]
+],
 "memberKind": "Field"
 }
 }
@@ -14015,7 +18211,9 @@ var contents = {
 "DayOfWeek":{
 "members": {
 "ToString`0":{
-"files": [567],
+"files": [
+[569, [34]]
+],
 "memberKind": "Method"
 }
 }
@@ -14026,26 +18224,34 @@ var contents = {
 "LanguageFont":{
 "members": {
 "FontFamily":{
-"files": [568,
-569],
+"files": [
+[570, [112]],
+[571, [107]]
+],
 "memberKind": "Property"
 }
 ,
 "FontStretch":{
-"files": [568,
-569],
+"files": [
+[570, [116]],
+[571, [111]]
+],
 "memberKind": "Property"
 }
 ,
 "FontStyle":{
-"files": [568,
-569],
+"files": [
+[570, [115]],
+[571, [110]]
+],
 "memberKind": "Property"
 }
 ,
 "FontWeight":{
-"files": [568,
-569],
+"files": [
+[570, [114]],
+[571, [109]]
+],
 "memberKind": "Property"
 }
 }
@@ -14054,38 +18260,52 @@ var contents = {
 "LanguageFontGroup":{
 "members": {
 ":ctor`1":{
-"files": [568,
-569],
+"files": [
+[570, [74]],
+[571, [69]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DocumentAlternate1Font":{
-"files": [569],
+"files": [
+[571, [92,94]]
+],
 "memberKind": "Property"
 }
 ,
 "DocumentAlternate2Font":{
-"files": [569],
+"files": [
+[571, [88,90]]
+],
 "memberKind": "Property"
 }
 ,
 "DocumentHeadingFont":{
-"files": [569],
+"files": [
+[571, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "ModernDocumentFont":{
-"files": [569],
+"files": [
+[571, [98]]
+],
 "memberKind": "Property"
 }
 ,
 "UIHeadingFont":{
-"files": [568],
+"files": [
+[570, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "UITextFont":{
-"files": [568],
+"files": [
+[570, [89]]
+],
 "memberKind": "Property"
 }
 }
@@ -14096,42 +18316,58 @@ var contents = {
 "GeographicRegion":{
 "members": {
 ":ctor`0":{
-"files": [570],
+"files": [
+[572, [38]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [570],
+"files": [
+[572, [41]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CodeThreeDigit":{
-"files": [570],
+"files": [
+[572, [31]]
+],
 "memberKind": "Property"
 }
 ,
 "CodeThreeLetter":{
-"files": [570],
+"files": [
+[572, [31]]
+],
 "memberKind": "Property"
 }
 ,
 "CodeTwoLetter":{
-"files": [570],
+"files": [
+[572, [31]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrenciesInUse":{
-"files": [570],
+"files": [
+[572, [30]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [570],
+"files": [
+[572, [28]]
+],
 "memberKind": "Property"
 }
 ,
 "NativeName":{
-"files": [570],
+"files": [
+[572, [29]]
+],
 "memberKind": "Property"
 }
 }
@@ -14140,17 +18376,23 @@ var contents = {
 "JapanesePhoneme":{
 "members": {
 "DisplayText":{
-"files": [571],
+"files": [
+[573, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPhraseStart":{
-"files": [571],
+"files": [
+[573, [42]]
+],
 "memberKind": "Property"
 }
 ,
 "YomiText":{
-"files": [571],
+"files": [
+[573, [49]]
+],
 "memberKind": "Property"
 }
 }
@@ -14159,7 +18401,9 @@ var contents = {
 "JapanesePhoneticAnalyzer":{
 "members": {
 "GetWords`2":{
-"files": [571],
+"files": [
+[573, [38]]
+],
 "memberKind": "Method"
 }
 }
@@ -14168,60 +18412,74 @@ var contents = {
 "Language":{
 "members": {
 ":ctor`1":{
-"files": [557,
-572,
-196],
+"files": [
+[559, [53,74]],
+[574, [39,42]],
+[198, [43]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CurrentInputMethodLanguageTag":{
-"files": [573],
+"files": [
+[575, [31]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [572,
-196,
-157,
-574,
-172,
-161,
-173,
-174,
-175,
-162],
+"files": [
+[574, [28]],
+[198, [87,194,262]],
+[159, [250,325]],
+[576, [104]],
+[174, [112]],
+[163, [122]],
+[175, [108]],
+[176, [94]],
+[177, [94]],
+[164, [118]]
+],
 "memberKind": "Property"
 }
 ,
 "IsWellFormed`1":{
-"files": [213,
-212,
-562],
+"files": [
+[215, [74,148]],
+[214, [76,180]],
+[564, [57]]
+],
 "memberKind": "Method"
 }
 ,
 "LanguageTag":{
-"files": [557,
-572,
-503,
-574,
-172,
-161,
-173,
-174,
-175,
-162],
+"files": [
+[559, [91]],
+[574, [29]],
+[505, [193]],
+[576, [107]],
+[174, [87,115,147]],
+[163, [94,125,156,216]],
+[175, [82,111,142]],
+[176, [74,97,122]],
+[177, [74,97,321]],
+[164, [92,121,153,213]]
+],
 "memberKind": "Property"
 }
 ,
 "NativeName":{
-"files": [557,
-572],
+"files": [
+[559, [91]],
+[574, [30]]
+],
 "memberKind": "Property"
 }
 ,
 "Script":{
-"files": [572],
+"files": [
+[574, [31]]
+],
 "memberKind": "Property"
 }
 }
@@ -14232,60 +18490,80 @@ var contents = {
 "CurrencyFormatter":{
 "members": {
 ":ctor`1":{
-"files": [564,
-575,
-576],
+"files": [
+[566, [53,55,58]],
+[577, [62]],
+[578, [180]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [564,
-575,
-565],
+"files": [
+[566, [56,57]],
+[577, [63,64]],
+[567, [73]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ApplyRoundingForCurrency`1":{
-"files": [576],
+"files": [
+[578, [181]]
+],
 "memberKind": "Method"
 }
 ,
 "Currency":{
-"files": [576],
+"files": [
+[578, [186]]
+],
 "memberKind": "Property"
 }
 ,
 "Format`1":{
-"files": [564,
-575,
-576,
-565],
+"files": [
+[566, [62,63,64,65,69,73,77,81]],
+[577, [106,109,112]],
+[578, [193]],
+[567, [84]]
+],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
-"files": [564,
-565],
+"files": [
+[566, [68]],
+[567, [74]]
+],
 "memberKind": "Property"
 }
 ,
 "IsGrouped":{
-"files": [564],
+"files": [
+[566, [72]]
+],
 "memberKind": "Property"
 }
 ,
 "Mode":{
-"files": [564],
+"files": [
+[566, [76,80]]
+],
 "memberKind": "?"
 }
 ,
 "NumberRounder":{
-"files": [565],
+"files": [
+[567, [74]]
+],
 "memberKind": "?"
 }
 ,
 "ParseDouble`1":{
-"files": [575],
+"files": [
+[577, [107,110,113]]
+],
 "memberKind": "Method"
 }
 }
@@ -14294,12 +18572,16 @@ var contents = {
 "CurrencyFormatterMode":{
 "members": {
 "UseCurrencyCode":{
-"files": [564],
+"files": [
+[566, [76]]
+],
 "memberKind": "Field"
 }
 ,
 "UseSymbol":{
-"files": [564],
+"files": [
+[566, [80]]
+],
 "memberKind": "Field"
 }
 }
@@ -14308,69 +18590,91 @@ var contents = {
 "DecimalFormatter":{
 "members": {
 ":ctor`0":{
-"files": [325,
-577,
-575,
-576],
+"files": [
+[327, [66]],
+[579, [45,54,75,81]],
+[577, [53]],
+[578, [129,214,299]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [577,
-575,
-565],
+"files": [
+[579, [59,64]],
+[577, [55,57]],
+[567, [71]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Format`1":{
-"files": [577,
-575,
-576,
-565],
+"files": [
+[579, [51,56,61,66,72,78,83]],
+[577, [89,92,95]],
+[578, [157,236]],
+[567, [83]]
+],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
-"files": [577,
-576,
-565],
+"files": [
+[579, [77,82]],
+[578, [132,149,302]],
+[567, [72]]
+],
 "memberKind": "Property"
 }
 ,
 "IntegerDigits":{
-"files": [576],
+"files": [
+[578, [131,148,301]]
+],
 "memberKind": "Property"
 }
 ,
 "IsDecimalPointAlwaysDisplayed":{
-"files": [577],
+"files": [
+[579, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "IsGrouped":{
-"files": [577,
-575],
+"files": [
+[579, [55,60,65]],
+[577, [54,56,58]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
-"files": [576,
-565],
+"files": [
+[578, [133,215]],
+[567, [72]]
+],
 "memberKind": "?"
 }
 ,
 "ParseDouble`1":{
-"files": [575],
+"files": [
+[577, [90,93,96]]
+],
 "memberKind": "Method"
 }
 ,
 "ResolvedLanguage":{
-"files": [565],
+"files": [
+[567, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "SignificantDigits":{
-"files": [576],
+"files": [
+[578, [130,147,300]]
+],
 "memberKind": "Property"
 }
 }
@@ -14379,19 +18683,25 @@ var contents = {
 "IncrementNumberRounder":{
 "members": {
 ":ctor`0":{
-"files": [576,
-565],
+"files": [
+[578, [124,209]],
+[567, [54]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Increment":{
-"files": [576,
-565],
+"files": [
+[578, [143,150,225,229]],
+[567, [55]]
+],
 "memberKind": "Property"
 }
 ,
 "RoundingAlgorithm":{
-"files": [576],
+"files": [
+[578, [125,151,210,230]]
+],
 "memberKind": "Property"
 }
 }
@@ -14400,7 +18710,9 @@ var contents = {
 "INumberFormatter":{
 "members": {
 "Format`1":{
-"files": [576],
+"files": [
+[578, [103]]
+],
 "memberKind": "Method"
 }
 }
@@ -14409,12 +18721,16 @@ var contents = {
 "INumberFormatterOptions":{
 "members": {
 "FractionDigits":{
-"files": [576],
+"files": [
+[578, [97]]
+],
 "memberKind": "Property"
 }
 ,
 "IntegerDigits":{
-"files": [576],
+"files": [
+[578, [96]]
+],
 "memberKind": "Property"
 }
 }
@@ -14423,7 +18739,9 @@ var contents = {
 "ISignificantDigitsOption":{
 "members": {
 "SignificantDigits":{
-"files": [576],
+"files": [
+[578, [95]]
+],
 "memberKind": "Property"
 }
 }
@@ -14432,24 +18750,32 @@ var contents = {
 "NumeralSystemTranslator":{
 "members": {
 ":ctor`0":{
-"files": [578],
+"files": [
+[580, [51]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [578,
-565],
+"files": [
+[580, [65]],
+[567, [79]]
+],
 "memberKind": "Constructor"
 }
 ,
 "NumeralSystem":{
-"files": [578],
+"files": [
+[580, [54,58,61,68]]
+],
 "memberKind": "Property"
 }
 ,
 "TranslateNumerals`1":{
-"files": [578,
-565],
+"files": [
+[580, [55,62,69]],
+[567, [87]]
+],
 "memberKind": "Method"
 }
 }
@@ -14458,60 +18784,80 @@ var contents = {
 "PercentFormatter":{
 "members": {
 ":ctor`0":{
-"files": [579,
-575,
-576],
+"files": [
+[581, [50]],
+[577, [48]],
+[578, [310]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [579,
-575,
-565],
+"files": [
+[581, [51,52]],
+[577, [49,50]],
+[567, [75]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Format`1":{
-"files": [579,
-575,
-565],
+"files": [
+[581, [60,63,70,74,77,82,87]],
+[577, [72,75,78]],
+[567, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
-"files": [579,
-576,
-565],
+"files": [
+[581, [80]],
+[578, [313]],
+[567, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "IntegerDigits":{
-"files": [576],
+"files": [
+[578, [312]]
+],
 "memberKind": "Property"
 }
 ,
 "IsDecimalPointAlwaysDisplayed":{
-"files": [579],
+"files": [
+[581, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "IsGrouped":{
-"files": [579],
+"files": [
+[581, [69,73,81,86]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
-"files": [565],
+"files": [
+[567, [76]]
+],
 "memberKind": "?"
 }
 ,
 "ParseDouble`1":{
-"files": [575],
+"files": [
+[577, [73,76,79]]
+],
 "memberKind": "Method"
 }
 ,
 "SignificantDigits":{
-"files": [576],
+"files": [
+[578, [311]]
+],
 "memberKind": "Property"
 }
 }
@@ -14520,29 +18866,39 @@ var contents = {
 "PermilleFormatter":{
 "members": {
 ":ctor`0":{
-"files": [579],
+"files": [
+[581, [55]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [579,
-565],
+"files": [
+[581, [56]],
+[567, [77]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Format`1":{
-"files": [579,
-565],
+"files": [
+[581, [61,64]],
+[567, [86]]
+],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
-"files": [565],
+"files": [
+[567, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
-"files": [565],
+"files": [
+[567, [78]]
+],
 "memberKind": "?"
 }
 }
@@ -14551,57 +18907,79 @@ var contents = {
 "RoundingAlgorithm":{
 "members": {
 "None":{
-"files": [576],
+"files": [
+[578, [43]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundAwayFromZero":{
-"files": [576],
+"files": [
+[578, [46]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundDown":{
-"files": [576],
+"files": [
+[578, [49,322]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundHalfAwayFromZero":{
-"files": [576],
+"files": [
+[578, [52]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundHalfDown":{
-"files": [576],
+"files": [
+[578, [55,328,340]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundHalfToEven":{
-"files": [576],
+"files": [
+[578, [58,334]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundHalfToOdd":{
-"files": [576],
+"files": [
+[578, [61,331]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundHalfTowardsZero":{
-"files": [576],
+"files": [
+[578, [64]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundHalfUp":{
-"files": [576],
+"files": [
+[578, [67,325,337]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundTowardsZero":{
-"files": [576],
+"files": [
+[578, [70]]
+],
 "memberKind": "Field"
 }
 ,
 "RoundUp":{
-"files": [576],
+"files": [
+[578, [73,319]]
+],
 "memberKind": "Field"
 }
 }
@@ -14610,22 +18988,30 @@ var contents = {
 "SignificantDigitsNumberRounder":{
 "members": {
 ":ctor`0":{
-"files": [576],
+"files": [
+[578, [253]]
+],
 "memberKind": "Constructor"
 }
 ,
 "RoundDouble`1":{
-"files": [576],
+"files": [
+[578, [275]]
+],
 "memberKind": "Method"
 }
 ,
 "RoundingAlgorithm":{
-"files": [576],
+"files": [
+[578, [254,269]]
+],
 "memberKind": "Property"
 }
 ,
 "SignificantDigits":{
-"files": [576],
+"files": [
+[578, [264,268]]
+],
 "memberKind": "Property"
 }
 }
@@ -14642,7 +19028,9 @@ var contents = {
 "DirectXPixelFormat":{
 "members": {
 "B8G8R8A8UIntNormalized":{
-"files": [449],
+"files": [
+[451, [349,401]]
+],
 "memberKind": "Field"
 }
 }
@@ -14655,82 +19043,100 @@ var contents = {
 "DisplayInformation":{
 "members": {
 "AutoRotationPreferences":{
-"files": [189,
-191,
-192,
-193,
-580,
-581],
+"files": [
+[191, [610,643]],
+[193, [675,708]],
+[194, [525,558]],
+[195, [671,704]],
+[582, [52,74]],
+[583, [66,70]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentOrientation":{
-"files": [347,
-189,
-190,
-191,
-192,
-193,
-580,
-196],
+"files": [
+[349, [113,131]],
+[191, [191,368,619]],
+[192, [104,114,168]],
+[193, [208,684]],
+[194, [184,534]],
+[195, [189,680]],
+[582, [51]],
+[198, [175,555]]
+],
 "memberKind": "Property"
 }
 ,
 "DpiChanged":{
-"files": [582,
-494],
+"files": [
+[584, [29]],
+[496, [27]]
+],
 "memberKind": "?"
 }
 ,
 "GetForCurrentView`0":{
-"files": [347,
-189,
-190,
-191,
-192,
-193,
-580,
-582,
-494,
-196,
-41],
+"files": [
+[349, [51]],
+[191, [49]],
+[192, [46]],
+[193, [46]],
+[194, [44]],
+[195, [44]],
+[582, [33]],
+[584, [28,34]],
+[496, [26,59]],
+[198, [49]],
+[41, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "LogicalDpi":{
-"files": [582],
+"files": [
+[584, [38]]
+],
 "memberKind": "Property"
 }
 ,
 "NativeOrientation":{
-"files": [189,
-191,
-192,
-193,
-580],
+"files": [
+[191, [782,891]],
+[193, [833,940]],
+[194, [689,796]],
+[195, [806,913]],
+[582, [50]]
+],
 "memberKind": "Property"
 }
 ,
 "OrientationChanged":{
-"files": [347,
-189,
-190,
-191,
-192,
-193,
-580,
-196],
+"files": [
+[349, [72,96]],
+[191, [696,715]],
+[192, [92,105,115,126]],
+[193, [746,765]],
+[194, [603,622]],
+[195, [750,764]],
+[582, [34,40]],
+[198, [83,106,125,141]]
+],
 "memberKind": "?"
 }
 ,
 "RawPixelsPerViewPixel":{
-"files": [582,
-494],
+"files": [
+[584, [35]],
+[496, [60]]
+],
 "memberKind": "Property"
 }
 ,
 "ResolutionScale":{
-"files": [41],
+"files": [
+[41, [43]]
+],
 "memberKind": "Property"
 }
 }
@@ -14739,65 +19145,77 @@ var contents = {
 "DisplayOrientations":{
 "members": {
 "Landscape":{
-"files": [189,
-190,
-191,
-192,
-193,
-580,
-196,
-581],
+"files": [
+[191, [610,853]],
+[192, [505]],
+[193, [675,904]],
+[194, [525,760]],
+[195, [671,877]],
+[582, [60]],
+[198, [589]],
+[583, [71]]
+],
 "memberKind": "Field"
 }
 ,
 "LandscapeFlipped":{
-"files": [189,
-190,
-191,
-192,
-193,
-580,
-196,
-581],
+"files": [
+[191, [849]],
+[192, [501]],
+[193, [900]],
+[194, [756]],
+[195, [873]],
+[582, [68]],
+[198, [570]],
+[583, [72]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [189,
-191,
-192,
-193,
-580],
+"files": [
+[191, [643]],
+[193, [708]],
+[194, [558]],
+[195, [704]],
+[582, [57]]
+],
 "memberKind": "Field"
 }
 ,
 "Portrait":{
-"files": [189,
-190,
-191,
-192,
-193,
-580,
-356,
-196,
-581],
+"files": [
+[191, [52,782,847,891,930,1007,1050]],
+[192, [47,499]],
+[193, [49,833,898,940]],
+[194, [47,689,754,796]],
+[195, [47,806,871,913]],
+[582, [64]],
+[358, [50]],
+[198, [175,557]],
+[583, [66,71]]
+],
 "memberKind": "Field"
 }
 ,
 "PortraitFlipped":{
-"files": [189,
-190,
-191,
-192,
-193,
-580,
-196,
-581],
+"files": [
+[191, [851,930,1007,1050]],
+[192, [503]],
+[193, [902]],
+[194, [758]],
+[195, [875]],
+[582, [72]],
+[198, [175,576]],
+[583, [72]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [580],
+"files": [
+[582, [50,51,52]]
+],
 "memberKind": "Method"
 }
 }
@@ -14810,19 +19228,25 @@ var contents = {
 "BitmapAlphaMode":{
 "members": {
 "Ignore":{
-"files": [583],
+"files": [
+[585, [206]]
+],
 "memberKind": "Field"
 }
 ,
 "Premultiplied":{
-"files": [157,
-449,
-148],
+"files": [
+[159, [105]],
+[451, [307]],
+[150, [59]]
+],
 "memberKind": "Field"
 }
 ,
 "Straight":{
-"files": [492],
+"files": [
+[494, [612]]
+],
 "memberKind": "Field"
 }
 }
@@ -14831,34 +19255,42 @@ var contents = {
 "BitmapBounds":{
 "members": {
 "Height":{
-"files": [583,
-187,
-188,
-189],
+"files": [
+[585, [108,275]],
+[189, [289,453]],
+[190, [311]],
+[191, [1018]]
+],
 "memberKind": "Field"
 }
 ,
 "Width":{
-"files": [583,
-187,
-188,
-189],
+"files": [
+[585, [107,274]],
+[189, [288,452]],
+[190, [310]],
+[191, [1017]]
+],
 "memberKind": "Field"
 }
 ,
 "X":{
-"files": [583,
-187,
-188,
-189],
+"files": [
+[585, [112,277]],
+[189, [293,455]],
+[190, [315]],
+[191, [1021]]
+],
 "memberKind": "Field"
 }
 ,
 "Y":{
-"files": [583,
-187,
-188,
-189],
+"files": [
+[585, [112,277]],
+[189, [293,455]],
+[190, [315]],
+[191, [1022]]
+],
 "memberKind": "Field"
 }
 }
@@ -14867,12 +19299,16 @@ var contents = {
 "BitmapBuffer":{
 "members": {
 "CreateReference`0":{
-"files": [190],
+"files": [
+[192, [542]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPlaneDescription`1":{
-"files": [190],
+"files": [
+[192, [552]]
+],
 "memberKind": "Method"
 }
 }
@@ -14881,7 +19317,9 @@ var contents = {
 "BitmapBufferAccessMode":{
 "members": {
 "ReadWrite":{
-"files": [190],
+"files": [
+[192, [541]]
+],
 "memberKind": "Field"
 }
 }
@@ -14890,7 +19328,9 @@ var contents = {
 "BitmapCodecInformation":{
 "members": {
 "FileExtensions":{
-"files": [584],
+"files": [
+[586, [37]]
+],
 "memberKind": "Property"
 }
 }
@@ -14899,108 +19339,144 @@ var contents = {
 "BitmapDecoder":{
 "members": {
 "BitmapAlphaMode":{
-"files": [198],
+"files": [
+[200, [530]]
+],
 "memberKind": "Property"
 }
 ,
 "BitmapContainerProperties":{
-"files": [449],
+"files": [
+[451, [445]]
+],
 "memberKind": "Property"
 }
 ,
 "BitmapPixelFormat":{
-"files": [583,
-198],
+"files": [
+[585, [206]],
+[200, [529]]
+],
 "memberKind": "Property"
 }
 ,
 "BitmapProperties":{
-"files": [198],
+"files": [
+[200, [274]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateAsync`1":{
-"files": [583,
-189,
-191,
-192,
-129,
-157,
-492,
-140,
-198],
+"files": [
+[585, [203]],
+[191, [746]],
+[193, [796]],
+[194, [653]],
+[131, [109]],
+[159, [103]],
+[494, [592]],
+[142, [71]],
+[200, [258,358,515]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateAsync`2":{
-"files": [449],
+"files": [
+[451, [220]]
+],
 "memberKind": "Method"
 }
 ,
 "DpiX":{
-"files": [198],
+"files": [
+[200, [551]]
+],
 "memberKind": "Property"
 }
 ,
 "DpiY":{
-"files": [198],
+"files": [
+[200, [552]]
+],
 "memberKind": "Property"
 }
 ,
 "FrameCount":{
-"files": [449],
+"files": [
+[451, [272,283]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDecoderInformationEnumerator`0":{
-"files": [584],
+"files": [
+[586, [31]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFrameAsync`1":{
-"files": [449],
+"files": [
+[451, [304]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPixelDataAsync`5":{
-"files": [492,
-198],
+"files": [
+[494, [610]],
+[200, [532]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSoftwareBitmapAsync`5":{
-"files": [583],
+"files": [
+[585, [206]]
+],
 "memberKind": "Method"
 }
 ,
 "GifDecoderId":{
-"files": [449],
+"files": [
+[451, [220]]
+],
 "memberKind": "Property"
 }
 ,
 "OrientedPixelHeight":{
-"files": [140,
-198],
+"files": [
+[142, [74]],
+[200, [262]]
+],
 "memberKind": "Property"
 }
 ,
 "OrientedPixelWidth":{
-"files": [140,
-198],
+"files": [
+[142, [73]],
+[200, [263]]
+],
 "memberKind": "Property"
 }
 ,
 "PixelHeight":{
-"files": [583,
-492,
-198],
+"files": [
+[585, [158,160,163]],
+[494, [597]],
+[200, [363,520]]
+],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
-"files": [583,
-492,
-198],
+"files": [
+[585, [162]],
+[494, [596]],
+[200, [362,521]]
+],
 "memberKind": "Property"
 }
 }
@@ -15009,61 +19485,81 @@ var contents = {
 "BitmapEncoder":{
 "members": {
 "BitmapProperties":{
-"files": [198],
+"files": [
+[200, [400]]
+],
 "memberKind": "Property"
 }
 ,
 "BitmapTransform":{
-"files": [140,
-198],
+"files": [
+[142, [73,74]],
+[200, [373,374,377,404]]
+],
 "memberKind": "Property"
 }
 ,
 "BmpEncoderId":{
-"files": [198],
+"files": [
+[200, [498]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateAsync`2":{
-"files": [190,
-198],
+"files": [
+[192, [521]],
+[200, [545]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateForTranscodingAsync`2":{
-"files": [189,
-191,
-192,
-129,
-140,
-198],
+"files": [
+[191, [752]],
+[193, [802]],
+[194, [659]],
+[131, [113]],
+[142, [72]],
+[200, [366]]
+],
 "memberKind": "Method"
 }
 ,
 "FlushAsync`0":{
-"files": [140,
-198],
+"files": [
+[142, [75]],
+[200, [412,430,556]]
+],
 "memberKind": "Method"
 }
 ,
 "IsThumbnailGenerated":{
-"files": [198],
+"files": [
+[200, [408,421,428]]
+],
 "memberKind": "Property"
 }
 ,
 "JpegEncoderId":{
-"files": [190,
-198],
+"files": [
+[192, [521]],
+[200, [502]]
+],
 "memberKind": "Property"
 }
 ,
 "PngEncoderId":{
-"files": [198],
+"files": [
+[200, [495]]
+],
 "memberKind": "Property"
 }
 ,
 "SetPixelData`7":{
-"files": [198],
+"files": [
+[200, [546]]
+],
 "memberKind": "Method"
 }
 }
@@ -15072,7 +19568,9 @@ var contents = {
 "BitmapFrame":{
 "members": {
 "BitmapProperties":{
-"files": [449],
+"files": [
+[451, [501]]
+],
 "memberKind": "Property"
 }
 }
@@ -15081,7 +19579,9 @@ var contents = {
 "BitmapInterpolationMode":{
 "members": {
 "Fant":{
-"files": [198],
+"files": [
+[200, [377,525]]
+],
 "memberKind": "Field"
 }
 }
@@ -15090,31 +19590,39 @@ var contents = {
 "BitmapPixelFormat":{
 "members": {
 "Bgra8":{
-"files": [187,
-190,
-196,
-157,
-492,
-449,
-148],
+"files": [
+[189, [244]],
+[192, [371,536]],
+[198, [182]],
+[159, [105]],
+[494, [611]],
+[451, [306]],
+[150, [56]]
+],
 "memberKind": "Field"
 }
 ,
 "Gray8":{
-"files": [583],
+"files": [
+[585, [210]]
+],
 "memberKind": "Field"
 }
 ,
 "Nv12":{
-"files": [187,
-188],
+"files": [
+[189, [227]],
+[190, [254]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [583,
-187,
-188],
+"files": [
+[585, [234]],
+[189, [239]],
+[190, [266]]
+],
 "memberKind": "Method"
 }
 }
@@ -15123,22 +19631,30 @@ var contents = {
 "BitmapPlaneDescription":{
 "members": {
 "Height":{
-"files": [190],
+"files": [
+[192, [555]]
+],
 "memberKind": "Field"
 }
 ,
 "StartIndex":{
-"files": [190],
+"files": [
+[192, [560]]
+],
 "memberKind": "Field"
 }
 ,
 "Stride":{
-"files": [190],
+"files": [
+[192, [560]]
+],
 "memberKind": "Field"
 }
 ,
 "Width":{
-"files": [190],
+"files": [
+[192, [557]]
+],
 "memberKind": "Field"
 }
 }
@@ -15147,7 +19663,9 @@ var contents = {
 "BitmapProperties":{
 "members": {
 "SetPropertiesAsync`1":{
-"files": [198],
+"files": [
+[200, [400]]
+],
 "memberKind": "Method"
 }
 }
@@ -15156,8 +19674,10 @@ var contents = {
 "BitmapPropertiesView":{
 "members": {
 "GetPropertiesAsync`1":{
-"files": [198,
-449],
+"files": [
+[200, [274]],
+[451, [447,458,503,516]]
+],
 "memberKind": "Method"
 }
 }
@@ -15166,20 +19686,26 @@ var contents = {
 "BitmapPropertySet":{
 "members": {
 ":ctor`0":{
-"files": [189,
-191,
-192,
-198],
+"files": [
+[191, [754]],
+[193, [805]],
+[194, [661]],
+[200, [385]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`2":{
-"files": [198],
+"files": [
+[200, [399]]
+],
 "memberKind": "Method"
 }
 ,
 "ContainsKey`1":{
-"files": [198],
+"files": [
+[200, [277]]
+],
 "memberKind": "Method"
 }
 }
@@ -15188,25 +19714,33 @@ var contents = {
 "BitmapRotation":{
 "members": {
 "Clockwise180Degrees":{
-"files": [584],
+"files": [
+[586, [93,116]]
+],
 "memberKind": "Field"
 }
 ,
 "Clockwise270Degrees":{
-"files": [492,
-584],
+"files": [
+[494, [601]],
+[586, [95,118]]
+],
 "memberKind": "Field"
 }
 ,
 "Clockwise90Degrees":{
-"files": [492,
-584],
+"files": [
+[494, [606]],
+[586, [91,114]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [492,
-584],
+"files": [
+[494, [595]],
+[586, [89,98,112]]
+],
 "memberKind": "Field"
 }
 }
@@ -15215,35 +19749,45 @@ var contents = {
 "BitmapTransform":{
 "members": {
 ":ctor`0":{
-"files": [583,
-492,
-198,
-449],
+"files": [
+[585, [156]],
+[494, [594]],
+[200, [516]],
+[451, [308]]
+],
 "memberKind": "Constructor"
 }
 ,
 "InterpolationMode":{
-"files": [198],
+"files": [
+[200, [377,525]]
+],
 "memberKind": "?"
 }
 ,
 "Rotation":{
-"files": [492,
-198],
+"files": [
+[494, [595,601,606]],
+[200, [404,522]]
+],
 "memberKind": "?"
 }
 ,
 "ScaledHeight":{
-"files": [583,
-140,
-198],
+"files": [
+[585, [163]],
+[142, [74]],
+[200, [374,520]]
+],
 "memberKind": "Property"
 }
 ,
 "ScaledWidth":{
-"files": [583,
-140,
-198],
+"files": [
+[585, [162]],
+[142, [73]],
+[200, [373,521]]
+],
 "memberKind": "Property"
 }
 }
@@ -15252,10 +19796,12 @@ var contents = {
 "BitmapTypedValue":{
 "members": {
 ":ctor`2":{
-"files": [189,
-191,
-192,
-198],
+"files": [
+[191, [754]],
+[193, [805]],
+[194, [661]],
+[200, [394]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -15264,14 +19810,18 @@ var contents = {
 "ColorManagementMode":{
 "members": {
 "ColorManageToSRgb":{
-"files": [198],
+"files": [
+[200, [537]]
+],
 "memberKind": "Field"
 }
 ,
 "DoNotColorManage":{
-"files": [583,
-492,
-449],
+"files": [
+[585, [206]],
+[494, [615]],
+[451, [310]]
+],
 "memberKind": "Field"
 }
 }
@@ -15280,14 +19830,18 @@ var contents = {
 "ExifOrientationMode":{
 "members": {
 "IgnoreExifOrientation":{
-"files": [583,
-492,
-449],
+"files": [
+[585, [206]],
+[494, [614]],
+[451, [309]]
+],
 "memberKind": "Field"
 }
 ,
 "RespectExifOrientation":{
-"files": [198],
+"files": [
+[200, [536]]
+],
 "memberKind": "Field"
 }
 }
@@ -15296,8 +19850,10 @@ var contents = {
 "PixelDataProvider":{
 "members": {
 "DetachPixelData`0":{
-"files": [492,
-198],
+"files": [
+[494, [618]],
+[200, [540]]
+],
 "memberKind": "Method"
 }
 }
@@ -15306,53 +19862,67 @@ var contents = {
 "SoftwareBitmap":{
 "members": {
 "BitmapPixelFormat":{
-"files": [187,
-188,
-190],
+"files": [
+[189, [233]],
+[190, [260]],
+[192, [380,432,536]]
+],
 "memberKind": "Property"
 }
 ,
 "Convert`2":{
-"files": [583,
-187],
+"files": [
+[585, [213]],
+[189, [244]]
+],
 "memberKind": "Method"
 }
 ,
 "CopyToBuffer`1":{
-"files": [583,
-187,
-196,
-157],
+"files": [
+[585, [217]],
+[189, [247]],
+[198, [200]],
+[159, [108]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateCopyFromBuffer`5":{
-"files": [148],
+"files": [
+[150, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "LockBuffer`1":{
-"files": [190],
+"files": [
+[192, [541]]
+],
 "memberKind": "Method"
 }
 ,
 "PixelHeight":{
-"files": [583,
-187,
-188,
-190,
-196,
-157],
+"files": [
+[585, [216]],
+[189, [246]],
+[190, [270]],
+[192, [380,432]],
+[198, [199,212]],
+[159, [107,143,163,166,307]]
+],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
-"files": [583,
-187,
-188,
-190,
-196,
-157],
+"files": [
+[585, [216]],
+[189, [246]],
+[190, [270]],
+[192, [380,432]],
+[198, [199,211]],
+[159, [107,142,163,166,307]]
+],
 "memberKind": "Property"
 }
 }
@@ -15367,13 +19937,17 @@ var contents = {
 "IPrintOptionDetails":{
 "members": {
 "ErrorText":{
-"files": [585],
+"files": [
+[587, [219,223,231]]
+],
 "memberKind": "Property"
 }
 ,
 "Value":{
-"files": [585,
-492],
+"files": [
+[587, [178,217,226]],
+[494, [244,270]]
+],
 "memberKind": "Property"
 }
 }
@@ -15382,9 +19956,11 @@ var contents = {
 "PrintCustomItemListOptionDetails":{
 "members": {
 "AddItem`2":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [94,95,96]],
+[587, [118,119,120]],
+[494, [173,174,175,176,182,183]]
+],
 "memberKind": "Method"
 }
 }
@@ -15393,9 +19969,11 @@ var contents = {
 "PrintTaskOptionChangedEventArgs":{
 "members": {
 "OptionId":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [123]],
+[587, [167,172]],
+[494, [234,239]]
+],
 "memberKind": "Property"
 }
 }
@@ -15404,42 +19982,54 @@ var contents = {
 "PrintTaskOptionDetails":{
 "members": {
 "CreateItemListOption`2":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [93]],
+[587, [117]],
+[494, [172,181]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateTextOption`2":{
-"files": [585],
+"files": [
+[587, [126]]
+],
 "memberKind": "Method"
 }
 ,
 "DisplayedOptions":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [82]],
+[587, [106,186,310,313]],
+[494, [167,168,169,179,186]]
+],
 "memberKind": "Property"
 }
 ,
 "GetFromPrintTaskOptions`1":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [81,180]],
+[587, [105]],
+[494, [163,310]]
+],
 "memberKind": "Method"
 }
 ,
 "OptionChanged":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [101]],
+[587, [129]],
+[494, [192]]
+],
 "memberKind": "?"
 }
 ,
 "Options":{
-"files": [586,
-585,
-492],
+"files": [
+[588, [181]],
+[587, [177,215]],
+[494, [243,269,314,371]]
+],
 "memberKind": "Property"
 }
 }
@@ -15450,17 +20040,23 @@ var contents = {
 "PrintManager":{
 "members": {
 "GetForCurrentView`0":{
-"files": [500],
+"files": [
+[502, [91,110]]
+],
 "memberKind": "Method"
 }
 ,
 "PrintTaskRequested":{
-"files": [500],
+"files": [
+[502, [92,111]]
+],
 "memberKind": "?"
 }
 ,
 "ShowPrintUIAsync`0":{
-"files": [500],
+"files": [
+[502, [121]]
+],
 "memberKind": "Method"
 }
 }
@@ -15469,7 +20065,9 @@ var contents = {
 "PrintMediaSize":{
 "members": {
 "NorthAmericaLegal":{
-"files": [587],
+"files": [
+[589, [51]]
+],
 "memberKind": "Field"
 }
 }
@@ -15478,7 +20076,9 @@ var contents = {
 "PrintOrientation":{
 "members": {
 "Landscape":{
-"files": [492],
+"files": [
+[494, [189]]
+],
 "memberKind": "Field"
 }
 }
@@ -15487,14 +20087,18 @@ var contents = {
 "PrintPageDescription":{
 "members": {
 "ImageableRect":{
-"files": [500,
-492],
+"files": [
+[502, [294,295]],
+[494, [320,321,324,325]]
+],
 "memberKind": "Field"
 }
 ,
 "PageSize":{
-"files": [500,
-492],
+"files": [
+[502, [287,288,294,295]],
+[494, [317,321,325,327,328]]
+],
 "memberKind": "Field"
 }
 }
@@ -15503,19 +20107,23 @@ var contents = {
 "PrintTask":{
 "members": {
 "Completed":{
-"files": [500,
-587,
-586,
-585,
-492],
+"files": [
+[502, [162]],
+[589, [54]],
+[588, [104]],
+[587, [133]],
+[494, [196]]
+],
 "memberKind": "?"
 }
 ,
 "Options":{
-"files": [587,
-586,
-585,
-492],
+"files": [
+[589, [39,51]],
+[588, [81]],
+[587, [105]],
+[494, [163,189]]
+],
 "memberKind": "Property"
 }
 }
@@ -15524,11 +20132,13 @@ var contents = {
 "PrintTaskCompletion":{
 "members": {
 "Failed":{
-"files": [500,
-587,
-586,
-585,
-492],
+"files": [
+[502, [165]],
+[589, [57]],
+[588, [107]],
+[587, [140]],
+[494, [210]]
+],
 "memberKind": "Field"
 }
 }
@@ -15537,23 +20147,31 @@ var contents = {
 "PrintTaskOptions":{
 "members": {
 "DisplayedOptions":{
-"files": [587],
+"files": [
+[589, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "GetPageDescription`1":{
-"files": [500,
-492],
+"files": [
+[502, [198]],
+[494, [311]]
+],
 "memberKind": "Method"
 }
 ,
 "MediaSize":{
-"files": [587],
+"files": [
+[589, [51]]
+],
 "memberKind": "?"
 }
 ,
 "Orientation":{
-"files": [492],
+"files": [
+[494, [189]]
+],
 "memberKind": "?"
 }
 }
@@ -15562,11 +20180,13 @@ var contents = {
 "PrintTaskRequest":{
 "members": {
 "CreatePrintTask`2":{
-"files": [500,
-587,
-586,
-585,
-492],
+"files": [
+[502, [159]],
+[589, [37]],
+[588, [79]],
+[587, [103]],
+[494, [161]]
+],
 "memberKind": "Method"
 }
 }
@@ -15575,11 +20195,13 @@ var contents = {
 "PrintTaskRequestedEventArgs":{
 "members": {
 "Request":{
-"files": [500,
-587,
-586,
-585,
-492],
+"files": [
+[502, [159]],
+[589, [37]],
+[588, [79]],
+[587, [103]],
+[494, [161]]
+],
 "memberKind": "Property"
 }
 }
@@ -15588,39 +20210,51 @@ var contents = {
 "StandardPrintTaskOptions":{
 "members": {
 "Collation":{
-"files": [587],
+"files": [
+[589, [47]]
+],
 "memberKind": "Property"
 }
 ,
 "ColorMode":{
-"files": [586,
-585],
+"files": [
+[588, [90]],
+[587, [114]]
+],
 "memberKind": "Property"
 }
 ,
 "Copies":{
-"files": [587,
-586,
-585,
-492],
+"files": [
+[589, [44]],
+[588, [88]],
+[587, [112]],
+[494, [169]]
+],
 "memberKind": "Property"
 }
 ,
 "Duplex":{
-"files": [587],
+"files": [
+[589, [48]]
+],
 "memberKind": "Property"
 }
 ,
 "MediaSize":{
-"files": [587,
-492],
+"files": [
+[589, [46]],
+[494, [168]]
+],
 "memberKind": "Property"
 }
 ,
 "Orientation":{
-"files": [587,
-586,
-585],
+"files": [
+[589, [45]],
+[588, [89]],
+[587, [113]]
+],
 "memberKind": "Property"
 }
 }
@@ -15637,7 +20271,9 @@ var contents = {
 "AudioDeviceInputNode":{
 "members": {
 "AddOutgoingConnection`1":{
-"files": [293],
+"files": [
+[295, [115,116]]
+],
 "memberKind": "Method"
 }
 }
@@ -15646,22 +20282,26 @@ var contents = {
 "AudioDeviceNodeCreationStatus":{
 "members": {
 "Success":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [181]],
+[295, [199,214]],
+[591, [143]],
+[592, [227]],
+[593, [389]],
+[438, [154]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [184]],
+[295, [202,217]],
+[591, [146]],
+[592, [230]],
+[593, [392]],
+[438, [157]]
+],
 "memberKind": "Method"
 }
 }
@@ -15670,78 +20310,106 @@ var contents = {
 "AudioFileInputNode":{
 "members": {
 "AddOutgoingConnection`1":{
-"files": [588,
-591,
-435],
+"files": [
+[590, [99]],
+[593, [107]],
+[438, [101]]
+],
 "memberKind": "Method"
 }
 ,
 "AddOutgoingConnection`2":{
-"files": [590],
+"files": [
+[592, [98,149]]
+],
 "memberKind": "Method"
 }
 ,
 "DisableEffectsByDefinition`1":{
-"files": [591],
+"files": [
+[593, [154,182,210,250,314,331,343,368]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [588,
-590,
-591,
-435],
+"files": [
+[590, [67]],
+[592, [66,119]],
+[593, [69]],
+[438, [72]]
+],
 "memberKind": "Method"
 }
 ,
 "Duration":{
-"files": [588],
+"files": [
+[590, [150]]
+],
 "memberKind": "Property"
 }
 ,
 "EffectDefinitions":{
-"files": [591,
-435],
+"files": [
+[593, [313,330,342,367]],
+[438, [175]]
+],
 "memberKind": "Property"
 }
 ,
 "EnableEffectsByDefinition`1":{
-"files": [591],
+"files": [
+[593, [148,176,204,238]]
+],
 "memberKind": "Method"
 }
 ,
 "FileCompleted":{
-"files": [435],
+"files": [
+[438, [105]]
+],
 "memberKind": "?"
 }
 ,
 "LoopCount":{
-"files": [588],
+"files": [
+[590, [155,159]]
+],
 "memberKind": "Property"
 }
 ,
 "PlaybackSpeedFactor":{
-"files": [588],
+"files": [
+[590, [138]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [588],
+"files": [
+[590, [150]]
+],
 "memberKind": "Property"
 }
 ,
 "Reset`0":{
-"files": [435],
+"files": [
+[438, [185]]
+],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
-"files": [588],
+"files": [
+[590, [153]]
+],
 "memberKind": "Method"
 }
 ,
 "StartTime":{
-"files": [588],
+"files": [
+[590, [104,153]]
+],
 "memberKind": "Property"
 }
 }
@@ -15750,20 +20418,24 @@ var contents = {
 "AudioFileNodeCreationStatus":{
 "members": {
 "Success":{
-"files": [588,
-293,
-590,
-591,
-435],
+"files": [
+[590, [91]],
+[295, [103]],
+[592, [89,140]],
+[593, [92]],
+[438, [93]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [588,
-293,
-590,
-591,
-435],
+"files": [
+[590, [94]],
+[295, [106]],
+[592, [92,143]],
+[593, [95]],
+[438, [96]]
+],
 "memberKind": "Method"
 }
 }
@@ -15772,7 +20444,9 @@ var contents = {
 "AudioFileOutputNode":{
 "members": {
 "FinalizeAsync`0":{
-"files": [293],
+"files": [
+[295, [151]]
+],
 "memberKind": "Method"
 }
 }
@@ -15781,27 +20455,37 @@ var contents = {
 "AudioFrameInputNode":{
 "members": {
 "AddFrame`1":{
-"files": [589],
+"files": [
+[591, [182]]
+],
 "memberKind": "Method"
 }
 ,
 "AddOutgoingConnection`1":{
-"files": [589],
+"files": [
+[591, [158]]
+],
 "memberKind": "Method"
 }
 ,
 "QuantumStarted":{
-"files": [589],
+"files": [
+[591, [166]]
+],
 "memberKind": "?"
 }
 ,
 "Start`0":{
-"files": [589],
+"files": [
+[591, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [589],
+"files": [
+[591, [83,162]]
+],
 "memberKind": "Method"
 }
 }
@@ -15810,89 +20494,113 @@ var contents = {
 "AudioGraph":{
 "members": {
 "CreateAsync`1":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [167]],
+[295, [185]],
+[591, [130]],
+[592, [213]],
+[593, [375]],
+[438, [140]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateDeviceInputNodeAsync`1":{
-"files": [293],
+"files": [
+[295, [212]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateDeviceOutputNodeAsync`0":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [179]],
+[295, [198]],
+[591, [142]],
+[592, [225]],
+[593, [387]],
+[438, [152]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFileInputNodeAsync`1":{
-"files": [588,
-590,
-591,
-435],
+"files": [
+[590, [90]],
+[592, [88,139]],
+[593, [91]],
+[438, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFileOutputNodeAsync`2":{
-"files": [293],
+"files": [
+[295, [101]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFrameInputNode`1":{
-"files": [589],
+"files": [
+[591, [157]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateSubmixNode`0":{
-"files": [590],
+"files": [
+[592, [239]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [57]],
+[295, [63,241,268]],
+[591, [69]],
+[592, [56]],
+[593, [59]],
+[438, [57]]
+],
 "memberKind": "Method"
 }
 ,
 "EncodingProperties":{
-"files": [589],
+"files": [
+[591, [111,155]]
+],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [122]],
+[295, [139]],
+[591, [169]],
+[592, [173]],
+[593, [128]],
+[438, [124]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [588,
-293,
-590,
-591,
-435],
+"files": [
+[590, [128]],
+[295, [147]],
+[592, [187]],
+[593, [134]],
+[438, [130,182]]
+],
 "memberKind": "Method"
 }
 ,
 "UnrecoverableErrorOccurred":{
-"files": [293],
+"files": [
+[295, [233]]
+],
 "memberKind": "?"
 }
 }
@@ -15901,22 +20609,26 @@ var contents = {
 "AudioGraphCreationStatus":{
 "members": {
 "Success":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [169]],
+[295, [187]],
+[591, [132]],
+[592, [215]],
+[593, [377]],
+[438, [142]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [172]],
+[295, [190]],
+[591, [135]],
+[592, [218]],
+[593, [380]],
+[438, [145]]
+],
 "memberKind": "Method"
 }
 }
@@ -15925,22 +20637,28 @@ var contents = {
 "AudioGraphSettings":{
 "members": {
 ":ctor`1":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [166]],
+[295, [181]],
+[591, [129]],
+[592, [212]],
+[593, [374]],
+[438, [139]]
+],
 "memberKind": "Constructor"
 }
 ,
 "PrimaryRenderDevice":{
-"files": [293],
+"files": [
+[295, [183]]
+],
 "memberKind": "?"
 }
 ,
 "QuantumSizeSelectionMode":{
-"files": [293],
+"files": [
+[295, [182]]
+],
 "memberKind": "?"
 }
 }
@@ -15949,27 +20667,37 @@ var contents = {
 "AudioSubmixNode":{
 "members": {
 "AddOutgoingConnection`1":{
-"files": [590],
+"files": [
+[592, [241]]
+],
 "memberKind": "Method"
 }
 ,
 "DisableEffectsByDefinition`1":{
-"files": [590],
+"files": [
+[592, [205,250]]
+],
 "memberKind": "Method"
 }
 ,
 "EffectDefinitions":{
-"files": [590],
+"files": [
+[592, [247]]
+],
 "memberKind": "Property"
 }
 ,
 "EnableEffectsByDefinition`1":{
-"files": [590],
+"files": [
+[592, [201]]
+],
 "memberKind": "Method"
 }
 ,
 "OutgoingGain":{
-"files": [590],
+"files": [
+[592, [254]]
+],
 "memberKind": "Property"
 }
 }
@@ -15978,12 +20706,16 @@ var contents = {
 "CreateAudioDeviceInputNodeResult":{
 "members": {
 "DeviceInputNode":{
-"files": [293],
+"files": [
+[295, [222]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [293],
+"files": [
+[295, [214,217]]
+],
 "memberKind": "Property"
 }
 }
@@ -15992,22 +20724,26 @@ var contents = {
 "CreateAudioDeviceOutputNodeResult":{
 "members": {
 "DeviceOutputNode":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [189]],
+[295, [207]],
+[591, [150]],
+[592, [235]],
+[593, [397]],
+[438, [162]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [181,184]],
+[295, [199,202]],
+[591, [143,146]],
+[592, [227,230]],
+[593, [389,392]],
+[438, [154,157]]
+],
 "memberKind": "Property"
 }
 }
@@ -16016,18 +20752,22 @@ var contents = {
 "CreateAudioFileInputNodeResult":{
 "members": {
 "FileInputNode":{
-"files": [588,
-590,
-591,
-435],
+"files": [
+[590, [98]],
+[592, [96,147]],
+[593, [106]],
+[438, [100]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [588,
-590,
-591,
-435],
+"files": [
+[590, [91,94]],
+[592, [89,92,140,143]],
+[593, [92,95]],
+[438, [93,96]]
+],
 "memberKind": "Property"
 }
 }
@@ -16036,12 +20776,16 @@ var contents = {
 "CreateAudioFileOutputNodeResult":{
 "members": {
 "FileOutputNode":{
-"files": [293],
+"files": [
+[295, [111]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [293],
+"files": [
+[295, [103,106]]
+],
 "memberKind": "Property"
 }
 }
@@ -16050,22 +20794,26 @@ var contents = {
 "CreateAudioGraphResult":{
 "members": {
 "Graph":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [176]],
+[295, [194]],
+[591, [139]],
+[592, [222]],
+[593, [384]],
+[438, [149]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [169,172]],
+[295, [187,190]],
+[591, [132,135]],
+[592, [215,218]],
+[593, [377,380]],
+[438, [142,145]]
+],
 "memberKind": "Property"
 }
 }
@@ -16074,26 +20822,34 @@ var contents = {
 "EchoEffectDefinition":{
 "members": {
 ":ctor`1":{
-"files": [590,
-591],
+"files": [
+[592, [243]],
+[593, [305]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Delay":{
-"files": [590,
-591],
+"files": [
+[592, [246]],
+[593, [164,311]]
+],
 "memberKind": "Property"
 }
 ,
 "Feedback":{
-"files": [590,
-591],
+"files": [
+[592, [245]],
+[593, [310]]
+],
 "memberKind": "Property"
 }
 ,
 "WetDryMix":{
-"files": [590,
-591],
+"files": [
+[592, [244]],
+[593, [309]]
+],
 "memberKind": "Property"
 }
 }
@@ -16102,12 +20858,16 @@ var contents = {
 "EqualizerEffectDefinition":{
 "members": {
 ":ctor`1":{
-"files": [591],
+"files": [
+[593, [350]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Bands":{
-"files": [591],
+"files": [
+[593, [271,280,289,298,351,352,353,355,356,357,359,360,361,363,364,365]]
+],
 "memberKind": "Property"
 }
 }
@@ -16116,7 +20876,9 @@ var contents = {
 "FrameInputNodeQuantumStartedEventArgs":{
 "members": {
 "RequiredSamples":{
-"files": [589],
+"files": [
+[591, [177]]
+],
 "memberKind": "Property"
 }
 }
@@ -16125,17 +20887,23 @@ var contents = {
 "LimiterEffectDefinition":{
 "members": {
 ":ctor`1":{
-"files": [591],
+"files": [
+[593, [337]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Loudness":{
-"files": [591],
+"files": [
+[593, [219,339]]
+],
 "memberKind": "Property"
 }
 ,
 "Release":{
-"files": [591],
+"files": [
+[593, [340]]
+],
 "memberKind": "Property"
 }
 }
@@ -16144,7 +20912,9 @@ var contents = {
 "QuantumSizeSelectionMode":{
 "members": {
 "LowestLatency":{
-"files": [293],
+"files": [
+[295, [182]]
+],
 "memberKind": "Field"
 }
 }
@@ -16153,32 +20923,44 @@ var contents = {
 "ReverbEffectDefinition":{
 "members": {
 ":ctor`1":{
-"files": [591],
+"files": [
+[593, [320]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DecayTime":{
-"files": [591],
+"files": [
+[593, [192,328]]
+],
 "memberKind": "Property"
 }
 ,
 "RearDelay":{
-"files": [591],
+"files": [
+[593, [327]]
+],
 "memberKind": "Property"
 }
 ,
 "ReflectionsDelay":{
-"files": [591],
+"files": [
+[593, [325]]
+],
 "memberKind": "Property"
 }
 ,
 "ReverbDelay":{
-"files": [591],
+"files": [
+[593, [326]]
+],
 "memberKind": "Property"
 }
 ,
 "WetDryMix":{
-"files": [591],
+"files": [
+[593, [324]]
+],
 "memberKind": "Property"
 }
 }
@@ -16189,13 +20971,17 @@ var contents = {
 "AudioBuffer":{
 "members": {
 "CreateReference`0":{
-"files": [589,
-592],
+"files": [
+[591, [97]],
+[594, [78,79]]
+],
 "memberKind": "Method"
 }
 ,
 "Length":{
-"files": [592],
+"files": [
+[594, [96]]
+],
 "memberKind": "Property"
 }
 }
@@ -16204,13 +20990,17 @@ var contents = {
 "AudioBufferAccessMode":{
 "members": {
 "Read":{
-"files": [592],
+"files": [
+[594, [76]]
+],
 "memberKind": "Field"
 }
 ,
 "Write":{
-"files": [589,
-592],
+"files": [
+[591, [96]],
+[594, [77]]
+],
 "memberKind": "Field"
 }
 }
@@ -16219,13 +21009,17 @@ var contents = {
 "AudioFrame":{
 "members": {
 ":ctor`1":{
-"files": [589],
+"files": [
+[591, [94]]
+],
 "memberKind": "Constructor"
 }
 ,
 "LockBuffer`1":{
-"files": [589,
-592],
+"files": [
+[591, [96]],
+[594, [76,77]]
+],
 "memberKind": "Method"
 }
 }
@@ -16234,7 +21028,9 @@ var contents = {
 "AutoRepeatModeChangeRequestedEventArgs":{
 "members": {
 "RequestedAutoRepeatMode":{
-"files": [593],
+"files": [
+[595, [222,239]]
+],
 "memberKind": "Property"
 }
 }
@@ -16245,22 +21041,30 @@ var contents = {
 "AdvancedPhotoCapture":{
 "members": {
 "AllPhotosCaptured":{
-"files": [191],
+"files": [
+[193, [524]]
+],
 "memberKind": "?"
 }
 ,
 "CaptureAsync`1":{
-"files": [191],
+"files": [
+[193, [610]]
+],
 "memberKind": "Method"
 }
 ,
 "FinishAsync`0":{
-"files": [191],
+"files": [
+[193, [537]]
+],
 "memberKind": "Method"
 }
 ,
 "OptionalReferencePhotoCaptured":{
-"files": [191],
+"files": [
+[193, [525]]
+],
 "memberKind": "?"
 }
 }
@@ -16269,7 +21073,9 @@ var contents = {
 "KnownVideoProfile":{
 "members": {
 "VideoRecording":{
-"files": [275],
+"files": [
+[277, [79]]
+],
 "memberKind": "Field"
 }
 }
@@ -16278,222 +21084,276 @@ var contents = {
 "MediaCapture":{
 "members": {
 ":ctor`0":{
-"files": [187,
-188,
-189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-196,
-276,
-594],
+"files": [
+[189, [154]],
+[190, [162]],
+[191, [292]],
+[192, [225]],
+[193, [325]],
+[275, [64,132]],
+[276, [68,69]],
+[277, [64]],
+[194, [262]],
+[195, [304]],
+[198, [375]],
+[278, [91]],
+[596, [44]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddVideoEffectAsync`2":{
-"files": [189,
-191,
-193],
+"files": [
+[191, [441]],
+[193, [472]],
+[195, [450]]
+],
 "memberKind": "Method"
 }
 ,
 "CameraStreamState":{
-"files": [187,
-188],
+"files": [
+[189, [195]],
+[190, [212]]
+],
 "memberKind": "Property"
 }
 ,
 "CameraStreamStateChanged":{
-"files": [187,
-188],
+"files": [
+[189, [162]],
+[190, [170]]
+],
 "memberKind": "?"
 }
 ,
 "CapturePhotoToStreamAsync`2":{
-"files": [189,
-191,
-192],
+"files": [
+[191, [489]],
+[193, [582]],
+[194, [409]]
+],
 "memberKind": "Method"
 }
 ,
 "ClearEffectsAsync`1":{
-"files": [189,
-191,
-193],
+"files": [
+[191, [466]],
+[193, [495]],
+[195, [535]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [187,
-188,
-189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[189, [200]],
+[190, [217]],
+[191, [593]],
+[192, [462]],
+[193, [658]],
+[194, [508]],
+[195, [654]],
+[198, [523]]
+],
 "memberKind": "Method"
 }
 ,
 "Failed":{
-"files": [189,
-190,
-191,
-192,
-193,
-196,
-276],
+"files": [
+[191, [296,592]],
+[192, [228,461]],
+[193, [328,657]],
+[194, [266,507]],
+[195, [308,653]],
+[198, [378,522]],
+[278, [73,92]]
+],
 "memberKind": "?"
 }
 ,
 "FindAllVideoProfiles`1":{
-"files": [273],
+"files": [
+[275, [79,150,158]]
+],
 "memberKind": "Method"
 }
 ,
 "FindConcurrentProfiles`1":{
-"files": [274],
+"files": [
+[276, [99,100]]
+],
 "memberKind": "Method"
 }
 ,
 "FindKnownVideoProfiles`2":{
-"files": [275],
+"files": [
+[277, [79]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPreviewFrameAsync`0":{
-"files": [190],
+"files": [
+[192, [414]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPreviewFrameAsync`1":{
-"files": [187,
-188,
-190,
-196],
+"files": [
+[189, [230]],
+[190, [257]],
+[192, [374]],
+[198, [185]]
+],
 "memberKind": "Method"
 }
 ,
 "InitializeAsync`0":{
-"files": [276],
+"files": [
+[278, [94]]
+],
 "memberKind": "Method"
 }
 ,
 "InitializeAsync`1":{
-"files": [187,
-188,
-189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-196,
-594],
+"files": [
+[189, [161]],
+[190, [169]],
+[191, [303]],
+[192, [235]],
+[193, [335]],
+[275, [117,162]],
+[276, [126,134]],
+[277, [105]],
+[194, [273]],
+[195, [315]],
+[198, [385]],
+[596, [46]]
+],
 "memberKind": "Method"
 }
 ,
 "IsVideoProfileSupported`1":{
-"files": [273,
-274,
-275],
+"files": [
+[275, [185]],
+[276, [156]],
+[277, [132]]
+],
 "memberKind": "Method"
 }
 ,
 "MediaCaptureSettings":{
-"files": [189,
-192],
+"files": [
+[191, [479,668]],
+[194, [399,575]]
+],
 "memberKind": "Property"
 }
 ,
 "PrepareAdvancedPhotoCaptureAsync`1":{
-"files": [191],
+"files": [
+[193, [519]]
+],
 "memberKind": "Method"
 }
 ,
 "RecordLimitationExceeded":{
-"files": [189,
-192,
-193],
+"files": [
+[191, [295,591]],
+[194, [265,506]],
+[195, [307,652]]
+],
 "memberKind": "?"
 }
 ,
 "SetEncodingPropertiesAsync`3":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [394]],
+[192, [329]],
+[193, [431]],
+[194, [361]],
+[195, [406]],
+[198, [469]]
+],
 "memberKind": "Method"
 }
 ,
 "SetPreviewRotation`1":{
-"files": [196],
+"files": [
+[198, [464]]
+],
 "memberKind": "Method"
 }
 ,
 "StartPreviewAsync`0":{
-"files": [187,
-188,
-189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[189, [171]],
+[190, [179]],
+[191, [356]],
+[192, [291]],
+[193, [396]],
+[194, [326]],
+[195, [371]],
+[198, [435]]
+],
 "memberKind": "Method"
 }
 ,
 "StartRecordToCustomSinkAsync`2":{
-"files": [276],
+"files": [
+[278, [200]]
+],
 "memberKind": "Method"
 }
 ,
 "StartRecordToStorageFileAsync`2":{
-"files": [189,
-192,
-193],
+"files": [
+[191, [525]],
+[194, [445]],
+[195, [575]]
+],
 "memberKind": "Method"
 }
 ,
 "StopPreviewAsync`0":{
-"files": [187,
-188,
-189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[189, [197]],
+[190, [214]],
+[191, [407]],
+[192, [341]],
+[193, [444]],
+[194, [374]],
+[195, [419]],
+[198, [481]]
+],
 "memberKind": "Method"
 }
 ,
 "StopRecordAsync`0":{
-"files": [189,
-192,
-193,
-276],
+"files": [
+[191, [547]],
+[194, [467]],
+[195, [597]],
+[278, [116,220]]
+],
 "memberKind": "Method"
 }
 ,
 "VideoDeviceController":{
-"files": [187,
-188,
-189,
-190,
-191,
-275,
-192,
-193,
-196,
-276],
+"files": [
+[189, [165]],
+[190, [173]],
+[191, [358,392]],
+[192, [327,368]],
+[193, [351,429,516]],
+[277, [109]],
+[194, [359]],
+[195, [404,493,499,502,542]],
+[198, [170,467]],
+[278, [157,170]]
+],
 "memberKind": "Property"
 }
 }
@@ -16502,22 +21362,26 @@ var contents = {
 "MediaCaptureFailedEventArgs":{
 "members": {
 "Code":{
-"files": [189,
-190,
-191,
-192,
-193],
+"files": [
+[191, [254]],
+[192, [193]],
+[193, [293]],
+[194, [230]],
+[195, [272]]
+],
 "memberKind": "Property"
 }
 ,
 "Message":{
-"files": [189,
-190,
-191,
-192,
-193,
-196,
-595],
+"files": [
+[191, [254]],
+[192, [193]],
+[193, [293]],
+[194, [230]],
+[195, [272]],
+[198, [611]],
+[597, [148]]
+],
 "memberKind": "Property"
 }
 }
@@ -16526,54 +21390,66 @@ var contents = {
 "MediaCaptureInitializationSettings":{
 "members": {
 ":ctor`0":{
-"files": [187,
-188,
-189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-196,
-594],
+"files": [
+[189, [159]],
+[190, [167]],
+[191, [298]],
+[192, [230]],
+[193, [330]],
+[275, [65,133]],
+[276, [87,88]],
+[277, [65]],
+[194, [268]],
+[195, [310]],
+[198, [380]],
+[596, [41]]
+],
 "memberKind": "Constructor"
 }
 ,
 "MediaCategory":{
-"files": [594],
+"files": [
+[596, [43]]
+],
 "memberKind": "?"
 }
 ,
 "RecordMediaDescription":{
-"files": [273,
-275],
+"files": [
+[275, [104,107,108]],
+[277, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "StreamingCaptureMode":{
-"files": [187,
-188,
-594],
+"files": [
+[189, [160]],
+[190, [168]],
+[596, [42]]
+],
 "memberKind": "?"
 }
 ,
 "VideoDeviceId":{
-"files": [189,
-190,
-191,
-274,
-192,
-193,
-196],
+"files": [
+[191, [298]],
+[192, [230]],
+[193, [330]],
+[276, [90,91]],
+[194, [268]],
+[195, [310]],
+[198, [380]]
+],
 "memberKind": "Property"
 }
 ,
 "VideoProfile":{
-"files": [273,
-274,
-275],
+"files": [
+[275, [103,107,113,150,155,158]],
+[276, [106,107,119,120]],
+[277, [90]]
+],
 "memberKind": "Property"
 }
 }
@@ -16582,8 +21458,10 @@ var contents = {
 "MediaCaptureSettings":{
 "members": {
 "ConcurrentRecordAndPhotoSupported":{
-"files": [189,
-192],
+"files": [
+[191, [479,668]],
+[194, [399,575]]
+],
 "memberKind": "Property"
 }
 }
@@ -16592,12 +21470,16 @@ var contents = {
 "MediaCaptureVideoProfile":{
 "members": {
 "Id":{
-"files": [273],
+"files": [
+[275, [107]]
+],
 "memberKind": "Property"
 }
 ,
 "SupportedRecordMediaDescription":{
-"files": [275],
+"files": [
+[277, [84]]
+],
 "memberKind": "Property"
 }
 }
@@ -16606,22 +21488,30 @@ var contents = {
 "MediaCaptureVideoProfileMediaDescription":{
 "members": {
 "FrameRate":{
-"files": [273],
+"files": [
+[275, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [273],
+"files": [
+[275, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "IsHdrVideoSupported":{
-"files": [275],
+"files": [
+[277, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "Width":{
-"files": [273],
+"files": [
+[275, [107]]
+],
 "memberKind": "Property"
 }
 }
@@ -16630,12 +21520,16 @@ var contents = {
 "MediaCategory":{
 "members": {
 "Other":{
-"files": [293],
+"files": [
+[295, [212]]
+],
 "memberKind": "Field"
 }
 ,
 "Speech":{
-"files": [594],
+"files": [
+[596, [43]]
+],
 "memberKind": "Field"
 }
 }
@@ -16644,30 +21538,38 @@ var contents = {
 "MediaStreamType":{
 "members": {
 "Audio":{
-"files": [276],
+"files": [
+[278, [148]]
+],
 "memberKind": "Field"
 }
 ,
 "Photo":{
-"files": [276],
+"files": [
+[278, [148]]
+],
 "memberKind": "Field"
 }
 ,
 "VideoPreview":{
-"files": [187,
-188,
-189,
-190,
-191,
-192,
-193,
-196,
-595],
+"files": [
+[189, [166]],
+[190, [174]],
+[191, [358,392,394,441,466]],
+[192, [327,329,368]],
+[193, [429,431,472,495]],
+[194, [359,361]],
+[195, [404,406]],
+[198, [170,467,469]],
+[597, [114]]
+],
 "memberKind": "Field"
 }
 ,
 "VideoRecord":{
-"files": [193],
+"files": [
+[195, [450,499,502,535,542]]
+],
 "memberKind": "Field"
 }
 }
@@ -16676,12 +21578,16 @@ var contents = {
 "OptionalReferencePhotoCapturedEventArgs":{
 "members": {
 "Context":{
-"files": [191],
+"files": [
+[193, [257]]
+],
 "memberKind": "Property"
 }
 ,
 "Frame":{
-"files": [191],
+"files": [
+[193, [264]]
+],
 "memberKind": "Property"
 }
 }
@@ -16690,13 +21596,17 @@ var contents = {
 "StreamingCaptureMode":{
 "members": {
 "Audio":{
-"files": [594],
+"files": [
+[596, [42]]
+],
 "memberKind": "Field"
 }
 ,
 "Video":{
-"files": [187,
-188],
+"files": [
+[189, [160]],
+[190, [168]]
+],
 "memberKind": "Field"
 }
 }
@@ -16705,22 +21615,30 @@ var contents = {
 "VideoRotation":{
 "members": {
 "Clockwise180Degrees":{
-"files": [196],
+"files": [
+[198, [573]]
+],
 "memberKind": "Field"
 }
 ,
 "Clockwise270Degrees":{
-"files": [196],
+"files": [
+[198, [561,585]]
+],
 "memberKind": "Field"
 }
 ,
 "Clockwise90Degrees":{
-"files": [196],
+"files": [
+[198, [566,580]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [196],
+"files": [
+[198, [592]]
+],
 "memberKind": "Field"
 }
 }
@@ -16729,12 +21647,16 @@ var contents = {
 "VideoStreamConfiguration":{
 "members": {
 "InputProperties":{
-"files": [193],
+"files": [
+[195, [496,502]]
+],
 "memberKind": "Property"
 }
 ,
 "OutputProperties":{
-"files": [193],
+"files": [
+[195, [507,515]]
+],
 "memberKind": "Property"
 }
 }
@@ -16747,40 +21669,50 @@ var contents = {
 "CastingConnection":{
 "members": {
 "DisconnectAsync`0":{
-"files": [108,
-278],
+"files": [
+[111, [414]],
+[280, [219]]
+],
 "memberKind": "Method"
 }
 ,
 "ErrorOccurred":{
-"files": [317,
-108,
-482,
-278],
+"files": [
+[319, [127]],
+[111, [357]],
+[484, [95]],
+[280, [162]]
+],
 "memberKind": "?"
 }
 ,
 "RequestStartCastingAsync`1":{
-"files": [317,
-108,
-482,
-278],
+"files": [
+[319, [140]],
+[111, [374]],
+[484, [99]],
+[280, [166]]
+],
 "memberKind": "Method"
 }
 ,
 "State":{
-"files": [317,
-108,
-482,
-278],
+"files": [
+[319, [166]],
+[111, [336,397]],
+[484, [107]],
+[280, [175,181,188]]
+],
 "memberKind": "Property"
 }
 ,
 "StateChanged":{
-"files": [317,
-108,
-482,
-278],
+"files": [
+[319, [128]],
+[111, [358]],
+[484, [96]],
+[280, [163]]
+],
 "memberKind": "?"
 }
 }
@@ -16789,10 +21721,12 @@ var contents = {
 "CastingConnectionErrorOccurredEventArgs":{
 "members": {
 "Message":{
-"files": [317,
-108,
-482,
-278],
+"files": [
+[319, [173]],
+[111, [404]],
+[484, [115]],
+[280, [209]]
+],
 "memberKind": "Property"
 }
 }
@@ -16801,13 +21735,17 @@ var contents = {
 "CastingConnectionErrorStatus":{
 "members": {
 "Succeeded":{
-"files": [317,
-108],
+"files": [
+[319, [142]],
+[111, [376,416]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [108],
+"files": [
+[111, [423]]
+],
 "memberKind": "Method"
 }
 }
@@ -16816,28 +21754,38 @@ var contents = {
 "CastingConnectionState":{
 "members": {
 "Connected":{
-"files": [278],
+"files": [
+[280, [175]]
+],
 "memberKind": "Field"
 }
 ,
 "Connecting":{
-"files": [278],
+"files": [
+[280, [188]]
+],
 "memberKind": "Field"
 }
 ,
 "Disconnected":{
-"files": [108,
-278],
+"files": [
+[111, [336]],
+[280, [181]]
+],
 "memberKind": "Field"
 }
 ,
 "Disconnecting":{
-"files": [108],
+"files": [
+[111, [336]]
+],
 "memberKind": "Field"
 }
 ,
 "Rendering":{
-"files": [278],
+"files": [
+[280, [175]]
+],
 "memberKind": "Field"
 }
 }
@@ -16846,32 +21794,42 @@ var contents = {
 "CastingDevice":{
 "members": {
 "CreateCastingConnection`0":{
-"files": [317,
-108,
-482,
-278],
+"files": [
+[319, [124]],
+[111, [354]],
+[484, [92]],
+[280, [159]]
+],
 "memberKind": "Method"
 }
 ,
 "FriendlyName":{
-"files": [317],
+"files": [
+[319, [112,123,139,145]]
+],
 "memberKind": "Property"
 }
 ,
 "FromIdAsync`1":{
-"files": [108,
-278],
+"files": [
+[111, [343]],
+[280, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
-"files": [278,
-259],
+"files": [
+[280, [36]],
+[261, [71]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [278],
+"files": [
+[280, [116]]
+],
 "memberKind": "Property"
 }
 }
@@ -16880,37 +21838,49 @@ var contents = {
 "CastingDevicePicker":{
 "members": {
 ":ctor`0":{
-"files": [317,
-596,
-482],
+"files": [
+[319, [58]],
+[598, [26]],
+[484, [36]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Appearance":{
-"files": [317],
+"files": [
+[319, [70,71,72,74,76,77]]
+],
 "memberKind": "Property"
 }
 ,
 "CastingDevicePickerDismissed":{
-"files": [317],
+"files": [
+[319, [67]]
+],
 "memberKind": "?"
 }
 ,
 "CastingDeviceSelected":{
-"files": [317,
-482],
+"files": [
+[319, [64]],
+[484, [42]]
+],
 "memberKind": "?"
 }
 ,
 "Filter":{
-"files": [317,
-482],
+"files": [
+[319, [61]],
+[484, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "Show`2":{
-"files": [317,
-482],
+"files": [
+[319, [95]],
+[484, [81]]
+],
 "memberKind": "Method"
 }
 }
@@ -16919,12 +21889,16 @@ var contents = {
 "CastingDevicePickerFilter":{
 "members": {
 "SupportedCastingSources":{
-"files": [317],
+"files": [
+[319, [61]]
+],
 "memberKind": "Property"
 }
 ,
 "SupportsVideo":{
-"files": [482],
+"files": [
+[484, [39]]
+],
 "memberKind": "Property"
 }
 }
@@ -16933,8 +21907,10 @@ var contents = {
 "CastingDeviceSelectedEventArgs":{
 "members": {
 "SelectedCastingDevice":{
-"files": [317,
-482],
+"files": [
+[319, [112,123,124,139,145]],
+[484, [92]]
+],
 "memberKind": "Property"
 }
 }
@@ -16943,8 +21919,10 @@ var contents = {
 "CastingPlaybackTypes":{
 "members": {
 "Video":{
-"files": [278,
-259],
+"files": [
+[280, [36]],
+[261, [71]]
+],
 "memberKind": "Field"
 }
 }
@@ -16957,7 +21935,9 @@ var contents = {
 "FaceDetectedEventArgs":{
 "members": {
 "ResultFrame":{
-"files": [189],
+"files": [
+[191, [264]]
+],
 "memberKind": "Property"
 }
 }
@@ -16966,17 +21946,23 @@ var contents = {
 "FaceDetectionEffect":{
 "members": {
 "DesiredDetectionInterval":{
-"files": [189],
+"files": [
+[191, [447]]
+],
 "memberKind": "Property"
 }
 ,
 "Enabled":{
-"files": [189],
+"files": [
+[191, [223,450,460,657,658,661]]
+],
 "memberKind": "Property"
 }
 ,
 "FaceDetected":{
-"files": [189],
+"files": [
+[191, [444,463]]
+],
 "memberKind": "?"
 }
 }
@@ -16985,17 +21971,23 @@ var contents = {
 "FaceDetectionEffectDefinition":{
 "members": {
 ":ctor`0":{
-"files": [189],
+"files": [
+[191, [432]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DetectionMode":{
-"files": [189],
+"files": [
+[191, [438]]
+],
 "memberKind": "?"
 }
 ,
 "SynchronousDetectionEnabled":{
-"files": [189],
+"files": [
+[191, [435]]
+],
 "memberKind": "Property"
 }
 }
@@ -17004,7 +21996,9 @@ var contents = {
 "FaceDetectionEffectFrame":{
 "members": {
 "DetectedFaces":{
-"files": [189],
+"files": [
+[191, [264]]
+],
 "memberKind": "Property"
 }
 }
@@ -17013,7 +22007,9 @@ var contents = {
 "FaceDetectionMode":{
 "members": {
 "HighPerformance":{
-"files": [189],
+"files": [
+[191, [438]]
+],
 "memberKind": "Field"
 }
 }
@@ -17022,7 +22018,9 @@ var contents = {
 "HighDynamicRangeControl":{
 "members": {
 "Enabled":{
-"files": [191],
+"files": [
+[193, [480,490]]
+],
 "memberKind": "Property"
 }
 }
@@ -17031,7 +22029,9 @@ var contents = {
 "HighDynamicRangeOutput":{
 "members": {
 "Certainty":{
-"files": [191],
+"files": [
+[193, [230]]
+],
 "memberKind": "Property"
 }
 }
@@ -17040,28 +22040,36 @@ var contents = {
 "MediaSource":{
 "members": {
 "CreateFromStorageFile`1":{
-"files": [597],
+"files": [
+[599, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromUri`1":{
-"files": [78,
-598,
-414,
-599,
-600,
-415],
+"files": [
+[78, [507]],
+[600, [31]],
+[418, [39]],
+[601, [41]],
+[602, [41]],
+[419, [94]]
+],
 "memberKind": "Method"
 }
 ,
 "CustomProperties":{
-"files": [78,
-415],
+"files": [
+[78, [78,203,205,369,508,509,510]],
+[419, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "ExternalTimedTextSources":{
-"files": [414],
+"files": [
+[418, [57,58,59]]
+],
 "memberKind": "Property"
 }
 }
@@ -17070,7 +22078,9 @@ var contents = {
 "MseEndOfStreamStatus":{
 "members": {
 "Success":{
-"files": [601],
+"files": [
+[603, [329,388]]
+],
 "memberKind": "Field"
 }
 }
@@ -17079,7 +22089,9 @@ var contents = {
 "MseReadyState":{
 "members": {
 "Open":{
-"files": [601],
+"files": [
+[603, [324]]
+],
 "memberKind": "Field"
 }
 }
@@ -17088,27 +22100,37 @@ var contents = {
 "MseSourceBuffer":{
 "members": {
 "Abort`0":{
-"files": [537],
+"files": [
+[539, [212,241]]
+],
 "memberKind": "Method"
 }
 ,
 "AppendBuffer`1":{
-"files": [537],
+"files": [
+[539, [125,226]]
+],
 "memberKind": "Method"
 }
 ,
 "Buffered":{
-"files": [537],
+"files": [
+[539, [145,178]]
+],
 "memberKind": "Property"
 }
 ,
 "IsUpdating":{
-"files": [537],
+"files": [
+[539, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "Remove`2":{
-"files": [537],
+"files": [
+[539, [152]]
+],
 "memberKind": "Method"
 }
 }
@@ -17117,38 +22139,52 @@ var contents = {
 "MseStreamSource":{
 "members": {
 ":ctor`0":{
-"files": [602,
-601],
+"files": [
+[604, [77]],
+[603, [391]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddSourceBuffer`1":{
-"files": [537],
+"files": [
+[539, [75]]
+],
 "memberKind": "Method"
 }
 ,
 "Closed":{
-"files": [601],
+"files": [
+[603, [259]]
+],
 "memberKind": "?"
 }
 ,
 "Duration":{
-"files": [601],
+"files": [
+[603, [288]]
+],
 "memberKind": "Property"
 }
 ,
 "EndOfStream`1":{
-"files": [601],
+"files": [
+[603, [329,388]]
+],
 "memberKind": "Method"
 }
 ,
 "Opened":{
-"files": [601],
+"files": [
+[603, [257]]
+],
 "memberKind": "?"
 }
 ,
 "ReadyState":{
-"files": [601],
+"files": [
+[603, [324]]
+],
 "memberKind": "Property"
 }
 }
@@ -17157,12 +22193,16 @@ var contents = {
 "SceneAnalysisEffect":{
 "members": {
 "HighDynamicRangeAnalyzer":{
-"files": [191],
+"files": [
+[193, [480,490]]
+],
 "memberKind": "Property"
 }
 ,
 "SceneAnalyzed":{
-"files": [191],
+"files": [
+[193, [477,492]]
+],
 "memberKind": "?"
 }
 }
@@ -17171,7 +22211,9 @@ var contents = {
 "SceneAnalysisEffectDefinition":{
 "members": {
 ":ctor`0":{
-"files": [191],
+"files": [
+[193, [469]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -17180,7 +22222,9 @@ var contents = {
 "SceneAnalysisEffectFrame":{
 "members": {
 "HighDynamicRange":{
-"files": [191],
+"files": [
+[193, [230]]
+],
 "memberKind": "Property"
 }
 }
@@ -17189,7 +22233,9 @@ var contents = {
 "SceneAnalyzedEventArgs":{
 "members": {
 "ResultFrame":{
-"files": [191],
+"files": [
+[193, [230]]
+],
 "memberKind": "Property"
 }
 }
@@ -17198,7 +22244,9 @@ var contents = {
 "TimedMetadataTrackError":{
 "members": {
 "ErrorCode":{
-"files": [414],
+"files": [
+[418, [88]]
+],
 "memberKind": "Property"
 }
 }
@@ -17207,12 +22255,16 @@ var contents = {
 "TimedTextSource":{
 "members": {
 "CreateFromUri`1":{
-"files": [414],
+"files": [
+[418, [42,46,50]]
+],
 "memberKind": "Method"
 }
 ,
 "Resolved":{
-"files": [414],
+"files": [
+[418, [53,54,55]]
+],
 "memberKind": "?"
 }
 }
@@ -17221,12 +22273,16 @@ var contents = {
 "TimedTextSourceResolveResultEventArgs":{
 "members": {
 "Error":{
-"files": [414],
+"files": [
+[418, [84,88]]
+],
 "memberKind": "Property"
 }
 ,
 "Tracks":{
-"files": [414],
+"files": [
+[418, [96,98,100]]
+],
 "memberKind": "Property"
 }
 }
@@ -17235,17 +22291,23 @@ var contents = {
 "VideoStabilizationEffect":{
 "members": {
 "Enabled":{
-"files": [193],
+"files": [
+[195, [214,220,224,254,458,530,600,717,724]]
+],
 "memberKind": "Property"
 }
 ,
 "EnabledChanged":{
-"files": [193],
+"files": [
+[195, [455,532]]
+],
 "memberKind": "?"
 }
 ,
 "GetRecommendedStreamConfiguration`2":{
-"files": [193],
+"files": [
+[195, [493]]
+],
 "memberKind": "Method"
 }
 }
@@ -17254,7 +22316,9 @@ var contents = {
 "VideoStabilizationEffectDefinition":{
 "members": {
 ":ctor`0":{
-"files": [193],
+"files": [
+[195, [447]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -17263,7 +22327,9 @@ var contents = {
 "VideoStabilizationEffectEnabledChangedEventArgs":{
 "members": {
 "Reason":{
-"files": [193],
+"files": [
+[195, [254]]
+],
 "memberKind": "Property"
 }
 }
@@ -17276,12 +22342,16 @@ var contents = {
 "AdvancedPhotoCaptureSettings":{
 "members": {
 ":ctor`0":{
-"files": [191],
+"files": [
+[193, [513]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Mode":{
-"files": [191],
+"files": [
+[193, [513]]
+],
 "memberKind": "?"
 }
 }
@@ -17290,12 +22360,16 @@ var contents = {
 "AdvancedPhotoControl":{
 "members": {
 "Configure`1":{
-"files": [191],
+"files": [
+[193, [516]]
+],
 "memberKind": "Method"
 }
 ,
 "SupportedModes":{
-"files": [191],
+"files": [
+[193, [351]]
+],
 "memberKind": "Property"
 }
 }
@@ -17304,7 +22378,9 @@ var contents = {
 "AdvancedPhotoMode":{
 "members": {
 "Hdr":{
-"files": [191],
+"files": [
+[193, [351,513]]
+],
 "memberKind": "Field"
 }
 }
@@ -17313,8 +22389,10 @@ var contents = {
 "CameraStreamState":{
 "members": {
 "Streaming":{
-"files": [187,
-188],
+"files": [
+[189, [195]],
+[190, [212]]
+],
 "memberKind": "Field"
 }
 }
@@ -17323,7 +22401,9 @@ var contents = {
 "HdrVideoControl":{
 "members": {
 "Mode":{
-"files": [275],
+"files": [
+[277, [109]]
+],
 "memberKind": "?"
 }
 }
@@ -17332,7 +22412,9 @@ var contents = {
 "HdrVideoMode":{
 "members": {
 "Auto":{
-"files": [275],
+"files": [
+[277, [109]]
+],
 "memberKind": "Field"
 }
 }
@@ -17341,7 +22423,9 @@ var contents = {
 "MediaDevice":{
 "members": {
 "GetAudioRenderSelector`0":{
-"files": [293],
+"files": [
+[295, [171]]
+],
 "memberKind": "Method"
 }
 }
@@ -17350,35 +22434,45 @@ var contents = {
 "VideoDeviceController":{
 "members": {
 "AdvancedPhotoControl":{
-"files": [191],
+"files": [
+[193, [351,516]]
+],
 "memberKind": "Property"
 }
 ,
 "GetAvailableMediaStreamProperties`1":{
-"files": [276],
+"files": [
+[278, [157]]
+],
 "memberKind": "Method"
 }
 ,
 "GetMediaStreamProperties`1":{
-"files": [187,
-188,
-189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[189, [166]],
+[190, [174]],
+[191, [358,392]],
+[192, [327,368]],
+[193, [429]],
+[194, [359]],
+[195, [404,499]],
+[198, [170,467]]
+],
 "memberKind": "Method"
 }
 ,
 "HdrVideoControl":{
-"files": [275],
+"files": [
+[277, [109]]
+],
 "memberKind": "Property"
 }
 ,
 "SetMediaStreamPropertiesAsync`2":{
-"files": [193,
-276],
+"files": [
+[195, [502,542]],
+[278, [170]]
+],
 "memberKind": "Method"
 }
 }
@@ -17391,25 +22485,33 @@ var contents = {
 "DialApp":{
 "members": {
 "AppName":{
-"files": [277,
-108],
+"files": [
+[279, [211,218,234]],
+[111, [472,484]]
+],
 "memberKind": "Property"
 }
 ,
 "GetAppStateAsync`0":{
-"files": [108],
+"files": [
+[111, [501]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestLaunchAsync`1":{
-"files": [277,
-108],
+"files": [
+[279, [213]],
+[111, [474]]
+],
 "memberKind": "Method"
 }
 ,
 "StopAsync`0":{
-"files": [277,
-108],
+"files": [
+[279, [149]],
+[111, [520]]
+],
 "memberKind": "Method"
 }
 }
@@ -17418,8 +22520,10 @@ var contents = {
 "DialAppLaunchResult":{
 "members": {
 "Launched":{
-"files": [277,
-108],
+"files": [
+[279, [216]],
+[111, [477]]
+],
 "memberKind": "Field"
 }
 }
@@ -17428,12 +22532,16 @@ var contents = {
 "DialAppState":{
 "members": {
 "NetworkFailure":{
-"files": [108],
+"files": [
+[111, [505]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
-"files": [108],
+"files": [
+[111, [511]]
+],
 "memberKind": "Field"
 }
 }
@@ -17442,7 +22550,9 @@ var contents = {
 "DialAppStateDetails":{
 "members": {
 "State":{
-"files": [108],
+"files": [
+[111, [503]]
+],
 "memberKind": "Property"
 }
 }
@@ -17451,26 +22561,34 @@ var contents = {
 "DialAppStopResult":{
 "members": {
 "NetworkFailure":{
-"files": [277,
-108],
+"files": [
+[279, [162]],
+[111, [530]]
+],
 "memberKind": "Field"
 }
 ,
 "StopFailed":{
-"files": [277,
-108],
+"files": [
+[279, [162]],
+[111, [530]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
-"files": [277,
-108],
+"files": [
+[279, [151]],
+[111, [522]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [277,
-108],
+"files": [
+[279, [165]],
+[111, [533]]
+],
 "memberKind": "Method"
 }
 }
@@ -17479,24 +22597,32 @@ var contents = {
 "DialDevice":{
 "members": {
 "FromIdAsync`1":{
-"files": [277,
-108],
+"files": [
+[279, [140]],
+[111, [452]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
-"files": [259],
+"files": [
+[261, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDialApp`1":{
-"files": [277,
-108],
+"files": [
+[279, [144,201]],
+[111, [463]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [277],
+"files": [
+[279, [140,220]]
+],
 "memberKind": "Property"
 }
 }
@@ -17505,22 +22631,30 @@ var contents = {
 "DialDeviceDisplayStatus":{
 "members": {
 "Connected":{
-"files": [277],
+"files": [
+[279, [98,229]]
+],
 "memberKind": "Field"
 }
 ,
 "Connecting":{
-"files": [277],
+"files": [
+[279, [142,196]]
+],
 "memberKind": "Field"
 }
 ,
 "Disconnected":{
-"files": [277],
+"files": [
+[279, [155]]
+],
 "memberKind": "Field"
 }
 ,
 "Error":{
-"files": [277],
+"files": [
+[279, [166,207,235]]
+],
 "memberKind": "Field"
 }
 }
@@ -17529,42 +22663,58 @@ var contents = {
 "DialDevicePicker":{
 "members": {
 ":ctor`0":{
-"files": [277],
+"files": [
+[279, [64]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DialDevicePickerDismissed":{
-"files": [277],
+"files": [
+[279, [77]]
+],
 "memberKind": "?"
 }
 ,
 "DialDeviceSelected":{
-"files": [277],
+"files": [
+[279, [71]]
+],
 "memberKind": "?"
 }
 ,
 "DisconnectButtonClicked":{
-"files": [277],
+"files": [
+[279, [74]]
+],
 "memberKind": "?"
 }
 ,
 "Filter":{
-"files": [277],
+"files": [
+[279, [68]]
+],
 "memberKind": "Property"
 }
 ,
 "Hide`0":{
-"files": [277],
+"files": [
+[279, [158,230]]
+],
 "memberKind": "Method"
 }
 ,
 "SetDisplayStatus`2":{
-"files": [277],
+"files": [
+[279, [98,142,155,166,196,207,229,235]]
+],
 "memberKind": "Method"
 }
 ,
 "Show`2":{
-"files": [277],
+"files": [
+[279, [93]]
+],
 "memberKind": "Method"
 }
 }
@@ -17573,7 +22723,9 @@ var contents = {
 "DialDevicePickerFilter":{
 "members": {
 "SupportedAppNames":{
-"files": [277],
+"files": [
+[279, [68]]
+],
 "memberKind": "Property"
 }
 }
@@ -17582,7 +22734,9 @@ var contents = {
 "DialDeviceSelectedEventArgs":{
 "members": {
 "SelectedDialDevice":{
-"files": [277],
+"files": [
+[279, [196,201,207,219,220,235]]
+],
 "memberKind": "Property"
 }
 }
@@ -17591,7 +22745,9 @@ var contents = {
 "DialDisconnectButtonClickedEventArgs":{
 "members": {
 "Device":{
-"files": [277],
+"files": [
+[279, [140,155,166]]
+],
 "memberKind": "Property"
 }
 }
@@ -17604,7 +22760,9 @@ var contents = {
 "BackgroundAudioTrack":{
 "members": {
 "CreateFromFileAsync`1":{
-"files": [603],
+"files": [
+[605, [85]]
+],
 "memberKind": "Method"
 }
 }
@@ -17613,10 +22771,12 @@ var contents = {
 "MediaClip":{
 "members": {
 "CreateFromFileAsync`1":{
-"files": [406,
-604,
-603,
-495],
+"files": [
+[410, [86]],
+[606, [85,86]],
+[605, [68]],
+[497, [83,87]]
+],
 "memberKind": "Method"
 }
 }
@@ -17625,41 +22785,53 @@ var contents = {
 "MediaComposition":{
 "members": {
 ":ctor`0":{
-"files": [406,
-604,
-603,
-495],
+"files": [
+[410, [91]],
+[606, [88]],
+[605, [69]],
+[497, [84]]
+],
 "memberKind": "Constructor"
 }
 ,
 "BackgroundAudioTracks":{
-"files": [603],
+"files": [
+[605, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "Clips":{
-"files": [406,
-604,
-603,
-495],
+"files": [
+[410, [92]],
+[606, [89,90]],
+[605, [70]],
+[497, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "GeneratePreviewMediaStreamSource`2":{
-"files": [406,
-604,
-603,
-495],
+"files": [
+[410, [94]],
+[606, [94]],
+[605, [90]],
+[497, [107]]
+],
 "memberKind": "Method"
 }
 ,
 "OverlayLayers":{
-"files": [495],
+"files": [
+[497, [103]]
+],
 "memberKind": "Property"
 }
 ,
 "RenderToFileAsync`2":{
-"files": [406],
+"files": [
+[410, [113]]
+],
 "memberKind": "Method"
 }
 }
@@ -17668,17 +22840,23 @@ var contents = {
 "MediaOverlay":{
 "members": {
 ":ctor`1":{
-"files": [495],
+"files": [
+[497, [97]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Opacity":{
-"files": [495],
+"files": [
+[497, [99]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [495],
+"files": [
+[497, [98]]
+],
 "memberKind": "Property"
 }
 }
@@ -17687,12 +22865,16 @@ var contents = {
 "MediaOverlayLayer":{
 "members": {
 ":ctor`0":{
-"files": [495],
+"files": [
+[497, [101]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Overlays":{
-"files": [495],
+"files": [
+[497, [102]]
+],
 "memberKind": "Property"
 }
 }
@@ -17701,7 +22883,9 @@ var contents = {
 "MediaTrimmingPreference":{
 "members": {
 "Precise":{
-"files": [406],
+"files": [
+[410, [113]]
+],
 "memberKind": "Field"
 }
 }
@@ -17714,7 +22898,9 @@ var contents = {
 "AudioEffectDefinition":{
 "members": {
 ":ctor`2":{
-"files": [435],
+"files": [
+[438, [174]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -17723,12 +22909,16 @@ var contents = {
 "ProcessAudioFrameContext":{
 "members": {
 "InputFrame":{
-"files": [592],
+"files": [
+[594, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "OutputFrame":{
-"files": [592],
+"files": [
+[594, [74]]
+],
 "memberKind": "Property"
 }
 }
@@ -17741,9 +22931,11 @@ var contents = {
 "DetectedFace":{
 "members": {
 "FaceBox":{
-"files": [583,
-187,
-188],
+"files": [
+[585, [106,107,108,112]],
+[189, [287,288,289,293]],
+[190, [310,311,315]]
+],
 "memberKind": "Property"
 }
 }
@@ -17752,21 +22944,27 @@ var contents = {
 "FaceDetector":{
 "members": {
 "CreateAsync`0":{
-"files": [583,
-187],
+"files": [
+[585, [225]],
+[189, [119]]
+],
 "memberKind": "Method"
 }
 ,
 "DetectFacesAsync`1":{
-"files": [583,
-187],
+"files": [
+[585, [226]],
+[189, [235]]
+],
 "memberKind": "Method"
 }
 ,
 "IsBitmapPixelFormatSupported`1":{
-"files": [583,
-187,
-188],
+"files": [
+[585, [211]],
+[189, [233]],
+[190, [260]]
+],
 "memberKind": "Method"
 }
 }
@@ -17775,12 +22973,16 @@ var contents = {
 "FaceTracker":{
 "members": {
 "CreateAsync`0":{
-"files": [188],
+"files": [
+[190, [127]]
+],
 "memberKind": "Method"
 }
 ,
 "ProcessNextFrameAsync`1":{
-"files": [188],
+"files": [
+[190, [262]]
+],
 "memberKind": "Method"
 }
 }
@@ -17793,17 +22995,23 @@ var contents = {
 "PhotoImportContentTypeFilter":{
 "members": {
 "ImagesAndVideos":{
-"files": [30],
+"files": [
+[30, [777]]
+],
 "memberKind": "Field"
 }
 ,
 "OnlyImages":{
-"files": [30],
+"files": [
+[30, [759]]
+],
 "memberKind": "Field"
 }
 ,
 "OnlyVideos":{
-"files": [30],
+"files": [
+[30, [768]]
+],
 "memberKind": "Field"
 }
 }
@@ -17812,37 +23020,51 @@ var contents = {
 "PhotoImportDeleteImportedItemsFromSourceResult":{
 "members": {
 "HasSucceeded":{
-"files": [30],
+"files": [
+[30, [441,709]]
+],
 "memberKind": "Property"
 }
 ,
 "PhotosCount":{
-"files": [30],
+"files": [
+[30, [553]]
+],
 "memberKind": "Property"
 }
 ,
 "SiblingsCount":{
-"files": [30],
+"files": [
+[30, [556]]
+],
 "memberKind": "Property"
 }
 ,
 "SidecarsCount":{
-"files": [30],
+"files": [
+[30, [555]]
+],
 "memberKind": "Property"
 }
 ,
 "TotalCount":{
-"files": [30],
+"files": [
+[30, [557]]
+],
 "memberKind": "Property"
 }
 ,
 "TotalSizeInBytes":{
-"files": [30],
+"files": [
+[30, [558]]
+],
 "memberKind": "Property"
 }
 ,
 "VideosCount":{
-"files": [30],
+"files": [
+[30, [554]]
+],
 "memberKind": "Property"
 }
 }
@@ -17851,87 +23073,121 @@ var contents = {
 "PhotoImportFindItemsResult":{
 "members": {
 "FoundItems":{
-"files": [30],
+"files": [
+[30, [403]]
+],
 "memberKind": "Property"
 }
 ,
 "HasSucceeded":{
-"files": [30],
+"files": [
+[30, [239]]
+],
 "memberKind": "Property"
 }
 ,
 "ImportItemsAsync`0":{
-"files": [30],
+"files": [
+[30, [320]]
+],
 "memberKind": "Method"
 }
 ,
 "ItemImported":{
-"files": [30],
+"files": [
+[30, [311,671]]
+],
 "memberKind": "?"
 }
 ,
 "PhotosCount":{
-"files": [30],
+"files": [
+[30, [492]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectAll`0":{
-"files": [30],
+"files": [
+[30, [362]]
+],
 "memberKind": "Method"
 }
 ,
 "SelectedPhotosCount":{
-"files": [30],
+"files": [
+[30, [492]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedSiblingsCount":{
-"files": [30],
+"files": [
+[30, [495]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedSidecarsCount":{
-"files": [30],
+"files": [
+[30, [494]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedTotalCount":{
-"files": [30],
+"files": [
+[30, [300,496]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedVideosCount":{
-"files": [30],
+"files": [
+[30, [493]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectNewAsync`0":{
-"files": [30],
+"files": [
+[30, [375]]
+],
 "memberKind": "Method"
 }
 ,
 "SelectNone`0":{
-"files": [30],
+"files": [
+[30, [388]]
+],
 "memberKind": "Method"
 }
 ,
 "SiblingsCount":{
-"files": [30],
+"files": [
+[30, [495]]
+],
 "memberKind": "Property"
 }
 ,
 "SidecarsCount":{
-"files": [30],
+"files": [
+[30, [494]]
+],
 "memberKind": "Property"
 }
 ,
 "TotalCount":{
-"files": [30],
+"files": [
+[30, [400,496]]
+],
 "memberKind": "Property"
 }
 ,
 "VideosCount":{
-"files": [30],
+"files": [
+[30, [493]]
+],
 "memberKind": "Property"
 }
 }
@@ -17940,42 +23196,58 @@ var contents = {
 "PhotoImportImportItemsResult":{
 "members": {
 "DeleteImportedItemsFromSourceAsync`0":{
-"files": [30],
+"files": [
+[30, [437]]
+],
 "memberKind": "Method"
 }
 ,
 "HasSucceeded":{
-"files": [30],
+"files": [
+[30, [324]]
+],
 "memberKind": "Property"
 }
 ,
 "PhotosCount":{
-"files": [30],
+"files": [
+[30, [510]]
+],
 "memberKind": "Property"
 }
 ,
 "SiblingsCount":{
-"files": [30],
+"files": [
+[30, [513]]
+],
 "memberKind": "Property"
 }
 ,
 "SidecarsCount":{
-"files": [30],
+"files": [
+[30, [512]]
+],
 "memberKind": "Property"
 }
 ,
 "TotalCount":{
-"files": [30],
+"files": [
+[30, [514]]
+],
 "memberKind": "Property"
 }
 ,
 "TotalSizeInBytes":{
-"files": [30],
+"files": [
+[30, [515]]
+],
 "memberKind": "Property"
 }
 ,
 "VideosCount":{
-"files": [30],
+"files": [
+[30, [511]]
+],
 "memberKind": "Property"
 }
 }
@@ -17984,7 +23256,9 @@ var contents = {
 "PhotoImportItem":{
 "members": {
 "Thumbnail":{
-"files": [605],
+"files": [
+[607, [57]]
+],
 "memberKind": "Property"
 }
 }
@@ -17993,12 +23267,16 @@ var contents = {
 "PhotoImportItemSelectionMode":{
 "members": {
 "SelectAll":{
-"files": [30],
+"files": [
+[30, [192]]
+],
 "memberKind": "Field"
 }
 ,
 "SelectNew":{
-"files": [30],
+"files": [
+[30, [182]]
+],
 "memberKind": "Field"
 }
 }
@@ -18007,18 +23285,24 @@ var contents = {
 "PhotoImportManager":{
 "members": {
 "FindAllSourcesAsync`0":{
-"files": [30],
+"files": [
+[30, [124]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPendingOperations`0":{
-"files": [0],
+"files": [
+[0, [80]]
+],
 "memberKind": "Method"
 }
 ,
 "IsSupportedAsync`0":{
-"files": [0,
-30],
+"files": [
+[0, [76]],
+[30, [119,736]]
+],
 "memberKind": "Method"
 }
 }
@@ -18027,27 +23311,37 @@ var contents = {
 "PhotoImportOperation":{
 "members": {
 "ContinueDeletingImportedItemsFromSourceAsync":{
-"files": [30],
+"files": [
+[30, [705]]
+],
 "memberKind": "Property"
 }
 ,
 "ContinueFindingItemsAsync":{
-"files": [30],
+"files": [
+[30, [635,668]]
+],
 "memberKind": "Property"
 }
 ,
 "ContinueImportingItemsAsync":{
-"files": [30],
+"files": [
+[30, [680]]
+],
 "memberKind": "Property"
 }
 ,
 "Session":{
-"files": [30],
+"files": [
+[30, [633,665,724]]
+],
 "memberKind": "Property"
 }
 ,
 "Stage":{
-"files": [30],
+"files": [
+[30, [618]]
+],
 "memberKind": "Property"
 }
 }
@@ -18056,22 +23350,30 @@ var contents = {
 "PhotoImportSession":{
 "members": {
 "AppendSessionDateToDestinationFolder":{
-"files": [30],
+"files": [
+[30, [63,74]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [30],
+"files": [
+[30, [115,219]]
+],
 "memberKind": "Method"
 }
 ,
 "FindItemsAsync`2":{
-"files": [30],
+"files": [
+[30, [234]]
+],
 "memberKind": "Method"
 }
 ,
 "SubfolderCreationMode":{
-"files": [30],
+"files": [
+[30, [786,791,796,801]]
+],
 "memberKind": "?"
 }
 }
@@ -18080,37 +23382,51 @@ var contents = {
 "PhotoImportSource":{
 "members": {
 "CreateImportSession`0":{
-"files": [30],
+"files": [
+[30, [223]]
+],
 "memberKind": "Method"
 }
 ,
 "Description":{
-"files": [30],
+"files": [
+[30, [529]]
+],
 "memberKind": "Property"
 }
 ,
 "FromIdAsync`1":{
-"files": [30],
+"files": [
+[30, [742]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [30],
+"files": [
+[30, [539]]
+],
 "memberKind": "Property"
 }
 ,
 "IsMassStorage":{
-"files": [30],
+"files": [
+[30, [530]]
+],
 "memberKind": "Property"
 }
 ,
 "Manufacturer":{
-"files": [30],
+"files": [
+[30, [531]]
+],
 "memberKind": "Property"
 }
 ,
 "StorageMedia":{
-"files": [30],
+"files": [
+[30, [533]]
+],
 "memberKind": "Property"
 }
 }
@@ -18119,23 +23435,31 @@ var contents = {
 "PhotoImportStage":{
 "members": {
 "DeletingImportedItemsFromSource":{
-"files": [30],
+"files": [
+[30, [691]]
+],
 "memberKind": "Field"
 }
 ,
 "FindingItems":{
-"files": [30],
+"files": [
+[30, [621]]
+],
 "memberKind": "Field"
 }
 ,
 "ImportingItems":{
-"files": [30],
+"files": [
+[30, [650]]
+],
 "memberKind": "Field"
 }
 ,
 "NotStarted":{
-"files": [0,
-30],
+"files": [
+[0, [104]],
+[30, [721]]
+],
 "memberKind": "Field"
 }
 }
@@ -18144,22 +23468,30 @@ var contents = {
 "PhotoImportSubfolderCreationMode":{
 "members": {
 "CreateSubfoldersFromExifDate":{
-"files": [30],
+"files": [
+[30, [796]]
+],
 "memberKind": "Field"
 }
 ,
 "CreateSubfoldersFromFileDate":{
-"files": [30],
+"files": [
+[30, [791]]
+],
 "memberKind": "Field"
 }
 ,
 "DoNotCreateSubfolders":{
-"files": [30],
+"files": [
+[30, [786]]
+],
 "memberKind": "Field"
 }
 ,
 "KeepOriginalFolderStructure":{
-"files": [30],
+"files": [
+[30, [801]]
+],
 "memberKind": "Field"
 }
 }
@@ -18170,12 +23502,16 @@ var contents = {
 "MediaExtensionManager":{
 "members": {
 ":ctor`0":{
-"files": [606],
+"files": [
+[608, [34]]
+],
 "memberKind": "Constructor"
 }
 ,
 "RegisterSchemeHandler`2":{
-"files": [606],
+"files": [
+[608, [35]]
+],
 "memberKind": "Method"
 }
 }
@@ -18184,17 +23520,23 @@ var contents = {
 "MediaPlaybackAutoRepeatMode":{
 "members": {
 "List":{
-"files": [593],
+"files": [
+[595, [228]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [593],
+"files": [
+[595, [224]]
+],
 "memberKind": "Field"
 }
 ,
 "Track":{
-"files": [593],
+"files": [
+[595, [232]]
+],
 "memberKind": "Field"
 }
 }
@@ -18203,35 +23545,45 @@ var contents = {
 "MediaPlaybackStatus":{
 "members": {
 "Changing":{
-"files": [78],
+"files": [
+[78, [383,395,478]]
+],
 "memberKind": "Field"
 }
 ,
 "Closed":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [48]],
+[78, [417]],
+[595, [182,470]]
+],
 "memberKind": "Field"
 }
 ,
 "Paused":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [74]],
+[78, [413]],
+[595, [488]]
+],
 "memberKind": "Field"
 }
 ,
 "Playing":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [65]],
+[78, [201,409]],
+[595, [492]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [83]],
+[78, [195]],
+[595, [496]]
+],
 "memberKind": "Field"
 }
 }
@@ -18240,23 +23592,31 @@ var contents = {
 "MediaPlaybackType":{
 "members": {
 "Image":{
-"files": [593],
+"files": [
+[595, [631]]
+],
 "memberKind": "Field"
 }
 ,
 "Music":{
-"files": [78,
-593],
+"files": [
+[78, [202]],
+[595, [623]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [593],
+"files": [
+[595, [618,649]]
+],
 "memberKind": "Field"
 }
 ,
 "Video":{
-"files": [593],
+"files": [
+[595, [627]]
+],
 "memberKind": "Field"
 }
 }
@@ -18267,35 +23627,47 @@ var contents = {
 "AudioEncodingProperties":{
 "members": {
 "Bitrate":{
-"files": [607],
+"files": [
+[609, [66,159]]
+],
 "memberKind": "Property"
 }
 ,
 "BitsPerSample":{
-"files": [607],
+"files": [
+[609, [64,157]]
+],
 "memberKind": "Property"
 }
 ,
 "ChannelCount":{
-"files": [589,
-607],
+"files": [
+[591, [156]],
+[609, [65,158]]
+],
 "memberKind": "Property"
 }
 ,
 "CreatePcm`3":{
-"files": [592],
+"files": [
+[594, [45,47]]
+],
 "memberKind": "Method"
 }
 ,
 "SampleRate":{
-"files": [589,
-592,
-607],
+"files": [
+[591, [111]],
+[594, [67]],
+[609, [67,160]]
+],
 "memberKind": "Property"
 }
 ,
 "Subtype":{
-"files": [592],
+"files": [
+[594, [46,48]]
+],
 "memberKind": "Property"
 }
 }
@@ -18304,7 +23676,9 @@ var contents = {
 "AudioEncodingQuality":{
 "members": {
 "High":{
-"files": [293],
+"files": [
+[295, [125,127,129]]
+],
 "memberKind": "Field"
 }
 }
@@ -18313,9 +23687,11 @@ var contents = {
 "ImageEncodingProperties":{
 "members": {
 "CreateJpeg`0":{
-"files": [189,
-191,
-192],
+"files": [
+[191, [489]],
+[193, [519,582]],
+[194, [409]]
+],
 "memberKind": "Method"
 }
 }
@@ -18324,12 +23700,14 @@ var contents = {
 "IMediaEncodingProperties":{
 "members": {
 "Properties":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [393]],
+[192, [328]],
+[193, [430]],
+[194, [360]],
+[195, [405]],
+[198, [468]]
+],
 "memberKind": "Property"
 }
 }
@@ -18338,66 +23716,84 @@ var contents = {
 "MediaEncodingProfile":{
 "members": {
 "Audio":{
-"files": [607,
-276,
-595],
+"files": [
+[609, [64,65,66,67,157,158,159,160]],
+[278, [199]],
+[597, [317]]
+],
 "memberKind": "Property"
 }
 ,
 "Container":{
-"files": [595,
-608],
+"files": [
+[597, [318]],
+[610, [153]]
+],
 "memberKind": "?"
 }
 ,
 "CreateAvi`1":{
-"files": [609,
-535],
+"files": [
+[611, [163]],
+[537, [181]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateMp3`1":{
-"files": [293],
+"files": [
+[295, [127]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateMp4`1":{
-"files": [189,
-192,
-193,
-609,
-607,
-535,
-595,
-608],
+"files": [
+[191, [517]],
+[194, [437]],
+[195, [328]],
+[611, [169]],
+[609, [59,143]],
+[537, [187]],
+[597, [316]],
+[610, [149]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateWav`1":{
-"files": [293],
+"files": [
+[295, [129]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateWma`1":{
-"files": [293],
+"files": [
+[295, [125]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateWmv`1":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [166]],
+[609, [147]],
+[537, [184]]
+],
 "memberKind": "Method"
 }
 ,
 "Video":{
-"files": [189,
-192,
-193,
-607,
-276,
-595,
-608],
+"files": [
+[191, [521]],
+[194, [441]],
+[195, [493,510,515,548,571]],
+[609, [60,61,62,63,152,153,154,155,156]],
+[278, [199]],
+[597, [321,322]],
+[610, [151,152]]
+],
 "memberKind": "Property"
 }
 }
@@ -18406,7 +23802,9 @@ var contents = {
 "MediaEncodingSubtypes":{
 "members": {
 "Float":{
-"files": [592],
+"files": [
+[594, [46,48]]
+],
 "memberKind": "Property"
 }
 }
@@ -18415,12 +23813,14 @@ var contents = {
 "MediaPropertySet":{
 "members": {
 "Add`2":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [393,521]],
+[192, [328]],
+[193, [430]],
+[194, [360,441]],
+[195, [405]],
+[198, [468]]
+],
 "memberKind": "Method"
 }
 }
@@ -18429,14 +23829,18 @@ var contents = {
 "MediaRatio":{
 "members": {
 "Denominator":{
-"files": [607,
-608],
+"files": [
+[609, [156]],
+[610, [152]]
+],
 "memberKind": "Property"
 }
 ,
 "Numerator":{
-"files": [607,
-608],
+"files": [
+[609, [63,155]],
+[610, [151]]
+],
 "memberKind": "Property"
 }
 }
@@ -18445,48 +23849,60 @@ var contents = {
 "VideoEncodingProperties":{
 "members": {
 "Bitrate":{
-"files": [607],
+"files": [
+[609, [62,154]]
+],
 "memberKind": "Property"
 }
 ,
 "FrameRate":{
-"files": [607,
-608],
+"files": [
+[609, [63,155,156]],
+[610, [151,152]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [187,
-188,
-189,
-190,
-607,
-196,
-595],
+"files": [
+[189, [228]],
+[190, [255]],
+[191, [1001,1004,1010,1041,1047,1052]],
+[192, [371]],
+[609, [61,153]],
+[198, [172,177]],
+[597, [322]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [189,
-192,
-193],
+"files": [
+[191, [521]],
+[194, [441]],
+[195, [571]]
+],
 "memberKind": "Property"
 }
 ,
 "Subtype":{
-"files": [595],
+"files": [
+[597, [119]]
+],
 "memberKind": "Property"
 }
 ,
 "Width":{
-"files": [187,
-188,
-189,
-190,
-607,
-196,
-276,
-595],
+"files": [
+[189, [228]],
+[190, [255]],
+[191, [1001,1003,1009,1041,1046,1053]],
+[192, [371]],
+[609, [60,152]],
+[198, [171,178]],
+[278, [163,164]],
+[597, [118,321]]
+],
 "memberKind": "Property"
 }
 }
@@ -18495,54 +23911,70 @@ var contents = {
 "VideoEncodingQuality":{
 "members": {
 "Auto":{
-"files": [189,
-192,
-193],
+"files": [
+[191, [517]],
+[194, [437]],
+[195, [328]]
+],
 "memberKind": "Field"
 }
 ,
 "HD1080p":{
-"files": [609,
-535],
+"files": [
+[611, [138]],
+[537, [156]]
+],
 "memberKind": "Field"
 }
 ,
 "HD720p":{
-"files": [609,
-535],
+"files": [
+[611, [141]],
+[537, [159]]
+],
 "memberKind": "Field"
 }
 ,
 "Ntsc":{
-"files": [609,
-535],
+"files": [
+[611, [147]],
+[537, [165]]
+],
 "memberKind": "Field"
 }
 ,
 "Pal":{
-"files": [609,
-535],
+"files": [
+[611, [150]],
+[537, [168]]
+],
 "memberKind": "Field"
 }
 ,
 "Qvga":{
-"files": [609,
-535,
-608],
+"files": [
+[611, [156]],
+[537, [174]],
+[610, [149]]
+],
 "memberKind": "Field"
 }
 ,
 "Vga":{
-"files": [609,
-535,
-595],
+"files": [
+[611, [153]],
+[537, [171]],
+[597, [316]]
+],
 "memberKind": "Field"
 }
 ,
 "Wvga":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [134,144]],
+[609, [59,143,147]],
+[537, [152,162]]
+],
 "memberKind": "Field"
 }
 }
@@ -18553,7 +23985,9 @@ var contents = {
 "MusicDisplayProperties":{
 "members": {
 "Title":{
-"files": [78],
+"files": [
+[78, [196,203]]
+],
 "memberKind": "Property"
 }
 }
@@ -18564,40 +23998,54 @@ var contents = {
 "OcrEngine":{
 "members": {
 "AvailableRecognizerLanguages":{
-"files": [157],
+"files": [
+[159, [67,69,326]]
+],
 "memberKind": "Property"
 }
 ,
 "IsLanguageSupported`1":{
-"files": [196],
+"files": [
+[198, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "MaxImageDimension":{
-"files": [157],
+"files": [
+[159, [163,167]]
+],
 "memberKind": "Property"
 }
 ,
 "RecognizeAsync`1":{
-"files": [196,
-157],
+"files": [
+[198, [203]],
+[159, [191]]
+],
 "memberKind": "Method"
 }
 ,
 "RecognizerLanguage":{
-"files": [196,
-157],
+"files": [
+[198, [262]],
+[159, [250]]
+],
 "memberKind": "Property"
 }
 ,
 "TryCreateFromLanguage`1":{
-"files": [196,
-157],
+"files": [
+[198, [190]],
+[159, [185]]
+],
 "memberKind": "Method"
 }
 ,
 "TryCreateFromUserProfileLanguages`0":{
-"files": [157],
+"files": [
+[159, [179]]
+],
 "memberKind": "Method"
 }
 }
@@ -18606,7 +24054,9 @@ var contents = {
 "OcrWord":{
 "members": {
 "BoundingRect":{
-"files": [498],
+"files": [
+[500, [49,55]]
+],
 "memberKind": "Property"
 }
 }
@@ -18619,33 +24069,45 @@ var contents = {
 "BackgroundMediaPlayer":{
 "members": {
 "Current":{
-"files": [186,
-78],
+"files": [
+[188, [196,200,318,333,335,362,364,366,368,370,401,402,403,404,405,437,446]],
+[78, [96,113,160,254,305,321,324,337,343,387,399,482,515,518]]
+],
 "memberKind": "Property"
 }
 ,
 "MessageReceivedFromBackground":{
-"files": [186],
+"files": [
+[188, [438,447]]
+],
 "memberKind": "?"
 }
 ,
 "MessageReceivedFromForeground":{
-"files": [78],
+"files": [
+[78, [116,172]]
+],
 "memberKind": "?"
 }
 ,
 "SendMessageToBackground`1":{
-"files": [436],
+"files": [
+[439, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "SendMessageToForeground`1":{
-"files": [436],
+"files": [
+[439, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "Shutdown`0":{
-"files": [78],
+"files": [
+[78, [176]]
+],
 "memberKind": "Method"
 }
 }
@@ -18654,7 +24116,9 @@ var contents = {
 "CurrentMediaPlaybackItemChangedEventArgs":{
 "members": {
 "NewItem":{
-"files": [78],
+"files": [
+[78, [313,360]]
+],
 "memberKind": "Property"
 }
 }
@@ -18663,7 +24127,9 @@ var contents = {
 "MediaPlaybackAudioTrackList":{
 "members": {
 "SelectedIndex":{
-"files": [600],
+"files": [
+[602, [56]]
+],
 "memberKind": "Property"
 }
 }
@@ -18672,39 +24138,51 @@ var contents = {
 "MediaPlaybackItem":{
 "members": {
 ":ctor`1":{
-"files": [78,
-598,
-414,
-599,
-600,
-415],
+"files": [
+[78, [511]],
+[600, [32]],
+[418, [62]],
+[601, [40]],
+[602, [40]],
+[419, [97]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AudioTracks":{
-"files": [600],
+"files": [
+[602, [56,58,59,60]]
+],
 "memberKind": "Property"
 }
 ,
 "Source":{
-"files": [78],
+"files": [
+[78, [78,203,205,369]]
+],
 "memberKind": "Property"
 }
 ,
 "TimedMetadataTracks":{
-"files": [598,
-414],
+"files": [
+[600, [38,41]],
+[418, [67]]
+],
 "memberKind": "Property"
 }
 ,
 "TimedMetadataTracksChanged":{
-"files": [598,
-414],
+"files": [
+[600, [35]],
+[418, [65]]
+],
 "memberKind": "?"
 }
 ,
 "VideoTracks":{
-"files": [599],
+"files": [
+[601, [56,58,59]]
+],
 "memberKind": "Property"
 }
 }
@@ -18713,50 +24191,66 @@ var contents = {
 "MediaPlaybackList":{
 "members": {
 ":ctor`0":{
-"files": [78,
-415],
+"files": [
+[78, [57,501]],
+[419, [39]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AutoRepeatEnabled":{
-"files": [78,
-415],
+"files": [
+[78, [502]],
+[419, [106]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentItem":{
-"files": [78,
-415],
+"files": [
+[78, [70]],
+[419, [113]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentItemChanged":{
-"files": [78,
-415],
+"files": [
+[78, [167,316,327,521]],
+[419, [103]]
+],
 "memberKind": "?"
 }
 ,
 "Items":{
-"files": [78,
-415],
+"files": [
+[78, [295,313,476,511]],
+[419, [99,114,156]]
+],
 "memberKind": "Property"
 }
 ,
 "MoveNext`0":{
-"files": [78,
-415],
+"files": [
+[78, [396]],
+[419, [198]]
+],
 "memberKind": "Method"
 }
 ,
 "MovePrevious`0":{
-"files": [78,
-415],
+"files": [
+[78, [384]],
+[419, [170]]
+],
 "memberKind": "Method"
 }
 ,
 "MoveTo`1":{
-"files": [78,
-415],
+"files": [
+[78, [302,331,479]],
+[419, [156]]
+],
 "memberKind": "Method"
 }
 }
@@ -18765,8 +24259,10 @@ var contents = {
 "MediaPlaybackTimedMetadataTrackList":{
 "members": {
 "SetPresentationMode`2":{
-"files": [598,
-414],
+"files": [
+[600, [41]],
+[418, [67]]
+],
 "memberKind": "Method"
 }
 }
@@ -18775,7 +24271,9 @@ var contents = {
 "MediaPlaybackVideoTrackList":{
 "members": {
 "SelectedIndex":{
-"files": [599],
+"files": [
+[601, [56]]
+],
 "memberKind": "Property"
 }
 }
@@ -18784,51 +24282,69 @@ var contents = {
 "MediaPlayer":{
 "members": {
 "AutoPlay":{
-"files": [78],
+"files": [
+[78, [515]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentState":{
-"files": [186,
-78],
+"files": [
+[188, [196,200,246,318,333,362,366,370]],
+[78, [407,411,415]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentStateChanged":{
-"files": [186,
-78],
+"files": [
+[188, [437,446]],
+[78, [113]]
+],
 "memberKind": "?"
 }
 ,
 "Pause`0":{
-"files": [186,
-78],
+"files": [
+[188, [364]],
+[78, [254]]
+],
 "memberKind": "Method"
 }
 ,
 "Play`0":{
-"files": [186,
-78],
+"files": [
+[188, [335,368]],
+[78, [305,324,337,343,387,399,482]]
+],
 "memberKind": "Method"
 }
 ,
 "PlaybackRate":{
-"files": [186],
+"files": [
+[188, [401,402,403,404,405]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [78],
+"files": [
+[78, [160,321]]
+],
 "memberKind": "Property"
 }
 ,
 "Source":{
-"files": [78],
+"files": [
+[78, [518]]
+],
 "memberKind": "?"
 }
 ,
 "SystemMediaTransportControls":{
-"files": [78],
+"files": [
+[78, [96]]
+],
 "memberKind": "Property"
 }
 }
@@ -18837,8 +24353,10 @@ var contents = {
 "MediaPlayerDataReceivedEventArgs":{
 "members": {
 "Data":{
-"files": [186,
-78],
+"files": [
+[188, [263,299]],
+[78, [429,439,447,456,465,474,487]]
+],
 "memberKind": "Property"
 }
 }
@@ -18847,25 +24365,33 @@ var contents = {
 "MediaPlayerState":{
 "members": {
 "Closed":{
-"files": [186,
-78],
+"files": [
+[188, [318,370]],
+[78, [415]]
+],
 "memberKind": "Field"
 }
 ,
 "Paused":{
-"files": [186,
-78],
+"files": [
+[188, [333,366]],
+[78, [411]]
+],
 "memberKind": "Field"
 }
 ,
 "Playing":{
-"files": [186,
-78],
+"files": [
+[188, [362,422]],
+[78, [407]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [186],
+"files": [
+[188, [200,250]]
+],
 "memberKind": "Method"
 }
 }
@@ -18874,8 +24400,10 @@ var contents = {
 "TimedMetadataTrackPresentationMode":{
 "members": {
 "PlatformPresented":{
-"files": [598,
-414],
+"files": [
+[600, [41]],
+[418, [67]]
+],
 "memberKind": "Field"
 }
 }
@@ -18886,7 +24414,9 @@ var contents = {
 "PlaybackPositionChangeRequestedEventArgs":{
 "members": {
 "RequestedPlaybackPosition":{
-"files": [593],
+"files": [
+[595, [279,280,286]]
+],
 "memberKind": "Property"
 }
 }
@@ -18895,7 +24425,9 @@ var contents = {
 "PlaybackRateChangeRequestedEventArgs":{
 "members": {
 "RequestedPlaybackRate":{
-"files": [593],
+"files": [
+[595, [304,306]]
+],
 "memberKind": "Property"
 }
 }
@@ -18906,31 +24438,41 @@ var contents = {
 "Playlist":{
 "members": {
 ":ctor`0":{
-"files": [610],
+"files": [
+[612, [44]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Files":{
-"files": [610,
-611,
-612,
-613,
-614],
+"files": [
+[612, [48]],
+[613, [44,46]],
+[614, [67]],
+[615, [43,45]],
+[616, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "LoadAsync`1":{
-"files": [615],
+"files": [
+[617, [79]]
+],
 "memberKind": "Method"
 }
 ,
 "SaveAsAsync`4":{
-"files": [610],
+"files": [
+[612, [58]]
+],
 "memberKind": "Method"
 }
 ,
 "SaveAsync`0":{
-"files": [615],
+"files": [
+[617, [92]]
+],
 "memberKind": "Method"
 }
 }
@@ -18939,7 +24481,9 @@ var contents = {
 "PlaylistFormat":{
 "members": {
 "WindowsMedia":{
-"files": [610],
+"files": [
+[612, [54]]
+],
 "memberKind": "Field"
 }
 }
@@ -18952,12 +24496,16 @@ var contents = {
 "ComponentLoadFailedEventArgs":{
 "members": {
 "Completion":{
-"files": [423],
+"files": [
+[427, [155]]
+],
 "memberKind": "Property"
 }
 ,
 "Information":{
-"files": [423],
+"files": [
+[427, [146,149,151,152]]
+],
 "memberKind": "Property"
 }
 }
@@ -18966,7 +24514,9 @@ var contents = {
 "ComponentLoadFailedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [423],
+"files": [
+[427, [103]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -18975,22 +24525,30 @@ var contents = {
 "MediaProtectionManager":{
 "members": {
 ":ctor`0":{
-"files": [423],
+"files": [
+[427, [101]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ComponentLoadFailed":{
-"files": [423],
+"files": [
+[427, [103]]
+],
 "memberKind": "?"
 }
 ,
 "Properties":{
-"files": [423],
+"files": [
+[427, [111,115,118]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceRequested":{
-"files": [423],
+"files": [
+[427, [104]]
+],
 "memberKind": "?"
 }
 }
@@ -18999,7 +24557,9 @@ var contents = {
 "MediaProtectionServiceCompletion":{
 "members": {
 "Complete`1":{
-"files": [423],
+"files": [
+[427, [155,230,281]]
+],
 "memberKind": "Method"
 }
 }
@@ -19010,17 +24570,23 @@ var contents = {
 "PlayReadyIndividualizationServiceRequest":{
 "members": {
 ":ctor`0":{
-"files": [423],
+"files": [
+[427, [237]]
+],
 "memberKind": "Constructor"
 }
 ,
 "BeginServiceRequest`0":{
-"files": [423],
+"files": [
+[427, [256]]
+],
 "memberKind": "Method"
 }
 ,
 "NextServiceRequest`0":{
-"files": [423],
+"files": [
+[427, [273]]
+],
 "memberKind": "Method"
 }
 }
@@ -19029,27 +24595,37 @@ var contents = {
 "PlayReadyLicenseAcquisitionServiceRequest":{
 "members": {
 "BeginServiceRequest`0":{
-"files": [423],
+"files": [
+[427, [215]]
+],
 "memberKind": "Method"
 }
 ,
 "ChallengeCustomData":{
-"files": [423],
+"files": [
+[427, [178]]
+],
 "memberKind": "Property"
 }
 ,
 "GenerateManualEnablingChallenge`0":{
-"files": [423],
+"files": [
+[427, [181]]
+],
 "memberKind": "Method"
 }
 ,
 "ProcessManualEnablingResponse`1":{
-"files": [423],
+"files": [
+[427, [202]]
+],
 "memberKind": "Method"
 }
 ,
 "Uri":{
-"files": [423],
+"files": [
+[427, [214]]
+],
 "memberKind": "Property"
 }
 }
@@ -19058,12 +24634,16 @@ var contents = {
 "PlayReadySoapMessage":{
 "members": {
 "GetMessageBody`0":{
-"files": [423],
+"files": [
+[427, [183]]
+],
 "memberKind": "Method"
 }
 ,
 "MessageHeaders":{
-"files": [423],
+"files": [
+[427, [186]]
+],
 "memberKind": "Property"
 }
 }
@@ -19074,12 +24654,16 @@ var contents = {
 "RevocationAndRenewalInformation":{
 "members": {
 "Items":{
-"files": [423],
+"files": [
+[427, [149,151,152]]
+],
 "memberKind": "Property"
 }
 ,
 "ToString`0":{
-"files": [423],
+"files": [
+[427, [146]]
+],
 "memberKind": "Method"
 }
 }
@@ -19088,12 +24672,16 @@ var contents = {
 "ServiceRequestedEventArgs":{
 "members": {
 "Completion":{
-"files": [423],
+"files": [
+[427, [132,137]]
+],
 "memberKind": "Property"
 }
 ,
 "Request":{
-"files": [423],
+"files": [
+[427, [129,131,134,136]]
+],
 "memberKind": "Property"
 }
 }
@@ -19102,7 +24690,9 @@ var contents = {
 "ServiceRequestedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [423],
+"files": [
+[427, [104]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -19115,12 +24705,14 @@ var contents = {
 "AudioRenderCategory":{
 "members": {
 "Media":{
-"files": [588,
-293,
-589,
-590,
-591,
-435],
+"files": [
+[590, [166]],
+[295, [181]],
+[591, [129]],
+[592, [212]],
+[593, [374]],
+[438, [139]]
+],
 "memberKind": "Field"
 }
 }
@@ -19131,25 +24723,31 @@ var contents = {
 "SoundLevel":{
 "members": {
 "Full":{
-"files": [441,
-593],
+"files": [
+[443, [147]],
+[595, [194]]
+],
 "memberKind": "Field"
 }
 ,
 "Low":{
-"files": [441,
-593],
+"files": [
+[443, [144]],
+[595, [201]]
+],
 "memberKind": "Field"
 }
 ,
 "Muted":{
-"files": [441,
-189,
-190,
-191,
-192,
-193,
-593],
+"files": [
+[443, [141,193]],
+[191, [152]],
+[192, [149]],
+[193, [168]],
+[194, [145]],
+[195, [150]],
+[595, [204]]
+],
 "memberKind": "Field"
 }
 }
@@ -19160,9 +24758,11 @@ var contents = {
 "ISpeechRecognitionConstraint":{
 "members": {
 "Tag":{
-"files": [172,
-173,
-616],
+"files": [
+[174, [336]],
+[175, [331,399]],
+[618, [185]]
+],
 "memberKind": "Property"
 }
 }
@@ -19171,10 +24771,12 @@ var contents = {
 "SpeechContinuousRecognitionCompletedEventArgs":{
 "members": {
 "Status":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [223,229,244]],
+[174, [310,314]],
+[163, [327]],
+[618, [158,162]]
+],
 "memberKind": "Property"
 }
 }
@@ -19183,10 +24785,12 @@ var contents = {
 "SpeechContinuousRecognitionResultGeneratedEventArgs":{
 "members": {
 "Result":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [282,283,285,303]],
+[174, [334,336,341,342,348,359]],
+[163, [344,345,349,353,354]],
+[618, [183,185,190,191,195,204]]
+],
 "memberKind": "Property"
 }
 }
@@ -19195,49 +24799,63 @@ var contents = {
 "SpeechContinuousRecognitionSession":{
 "members": {
 "CancelAsync`0":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [197]],
+[174, [288,416]],
+[163, [179,312]],
+[618, [137,266,316,382]]
+],
 "memberKind": "Method"
 }
 ,
 "Completed":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [154,181,205]],
+[174, [170,255,293]],
+[163, [182,201,250]],
+[618, [89,122,141]]
+],
 "memberKind": "?"
 }
 ,
 "PauseAsync`0":{
-"files": [616],
+"files": [
+[618, [288,354]]
+],
 "memberKind": "Method"
 }
 ,
 "ResultGenerated":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [155,182,206]],
+[174, [171,256,294]],
+[163, [183,202,251]],
+[618, [90,123,142]]
+],
 "memberKind": "?"
 }
 ,
 "Resume`0":{
-"files": [616],
+"files": [
+[618, [320,386]]
+],
 "memberKind": "Method"
 }
 ,
 "StartAsync`0":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [349]],
+[174, [391]],
+[163, [292]],
+[618, [238]]
+],
 "memberKind": "Method"
 }
 ,
 "StopAsync`0":{
-"files": [574],
+"files": [
+[576, [382]]
+],
 "memberKind": "Method"
 }
 }
@@ -19246,14 +24864,16 @@ var contents = {
 "SpeechRecognitionCompilationResult":{
 "members": {
 "Status":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [172,174]],
+[174, [237]],
+[163, [234]],
+[175, [259]],
+[618, [111,308,374]],
+[176, [193]],
+[177, [165]],
+[164, [231]]
+],
 "memberKind": "Property"
 }
 }
@@ -19262,39 +24882,49 @@ var contents = {
 "SpeechRecognitionConfidence":{
 "members": {
 "High":{
-"files": [574,
-172,
-161,
-616,
-162],
+"files": [
+[576, [283]],
+[174, [342]],
+[163, [345,385]],
+[618, [191]],
+[164, [403]]
+],
 "memberKind": "Field"
 }
 ,
 "Low":{
-"files": [161,
-162],
+"files": [
+[163, [354,465]],
+[164, [483]]
+],
 "memberKind": "Field"
 }
 ,
 "Medium":{
-"files": [574,
-172,
-161,
-616,
-162],
+"files": [
+[576, [282]],
+[174, [341]],
+[163, [344,386]],
+[618, [190]],
+[164, [404]]
+],
 "memberKind": "Field"
 }
 ,
 "Rejected":{
-"files": [161,
-162],
+"files": [
+[163, [353,464]],
+[164, [482]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [172,
-173,
-616],
+"files": [
+[174, [348,359]],
+[175, [335,403]],
+[618, [195,204]]
+],
 "memberKind": "Method"
 }
 }
@@ -19303,8 +24933,10 @@ var contents = {
 "SpeechRecognitionGrammarFileConstraint":{
 "members": {
 ":ctor`1":{
-"files": [161,
-162],
+"files": [
+[163, [229]],
+[164, [226]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -19313,7 +24945,9 @@ var contents = {
 "SpeechRecognitionHypothesis":{
 "members": {
 "Text":{
-"files": [574],
+"files": [
+[576, [260]]
+],
 "memberKind": "Property"
 }
 }
@@ -19322,7 +24956,9 @@ var contents = {
 "SpeechRecognitionHypothesisGeneratedEventArgs":{
 "members": {
 "Hypothesis":{
-"files": [574],
+"files": [
+[576, [260]]
+],
 "memberKind": "Property"
 }
 }
@@ -19331,9 +24967,11 @@ var contents = {
 "SpeechRecognitionListConstraint":{
 "members": {
 ":ctor`2":{
-"files": [172,
-173,
-616],
+"files": [
+[174, [187,193,199,206,213,220]],
+[175, [205,211,217,224,231,238]],
+[618, [104,105]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -19342,50 +24980,62 @@ var contents = {
 "SpeechRecognitionResult":{
 "members": {
 "Confidence":{
-"files": [574,
-172,
-161,
-173,
-616,
-162],
+"files": [
+[576, [282,283]],
+[174, [341,342,348,359]],
+[163, [344,345,353,354,385,386,464,465]],
+[175, [335,403]],
+[618, [190,191,195,204]],
+[164, [403,404,482,483]]
+],
 "memberKind": "Property"
 }
 ,
 "Constraint":{
-"files": [172,
-173,
-616],
+"files": [
+[174, [334,336]],
+[175, [328,331,396,399]],
+[618, [183,185]]
+],
 "memberKind": "Property"
 }
 ,
 "RulePath":{
-"files": [3],
+"files": [
+[3, [169]]
+],
 "memberKind": "Property"
 }
 ,
 "SemanticInterpretation":{
-"files": [3,
-161,
-162],
+"files": [
+[3, [262]],
+[163, [393,395,400,409,411,416,424,426,431,441]],
+[164, [411,413,418,427,429,434,442,444,449,459]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [173,
-174,
-175,
-162],
+"files": [
+[175, [325,340,393,408]],
+[176, [235,243,292,300]],
+[177, [207,215,264,272]],
+[164, [300,307,356,363]]
+],
 "memberKind": "Property"
 }
 ,
 "Text":{
-"files": [3,
-574,
-172,
-173,
-616,
-174,
-175],
+"files": [
+[3, [170]],
+[576, [285,303]],
+[174, [348,359]],
+[175, [335,403]],
+[618, [195,204]],
+[176, [238,295]],
+[177, [210,267]]
+],
 "memberKind": "Property"
 }
 }
@@ -19394,31 +25044,37 @@ var contents = {
 "SpeechRecognitionResultStatus":{
 "members": {
 "Success":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [172,223]],
+[174, [237,310]],
+[163, [234]],
+[175, [259,325,393]],
+[618, [111,158,308,374]],
+[176, [193,235,292]],
+[177, [165,207,264]],
+[164, [231,300,356]]
+],
 "memberKind": "Field"
 }
 ,
 "TimeoutExceeded":{
-"files": [574],
+"files": [
+[576, [229]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [174,244]],
+[174, [314]],
+[163, [327]],
+[175, [340,408]],
+[618, [162]],
+[176, [243,300]],
+[177, [215,272]],
+[164, [307,363]]
+],
 "memberKind": "Method"
 }
 }
@@ -19427,13 +25083,17 @@ var contents = {
 "SpeechRecognitionScenario":{
 "members": {
 "Dictation":{
-"files": [574,
-174],
+"files": [
+[576, [169]],
+[176, [184]]
+],
 "memberKind": "Field"
 }
 ,
 "WebSearch":{
-"files": [175],
+"files": [
+[177, [154]]
+],
 "memberKind": "Field"
 }
 }
@@ -19442,9 +25102,11 @@ var contents = {
 "SpeechRecognitionSemanticInterpretation":{
 "members": {
 "Properties":{
-"files": [3,
-161,
-162],
+"files": [
+[3, [262]],
+[163, [393,395,400,409,411,416,424,426,431,441]],
+[164, [411,413,418,427,429,434,442,444,449,459]]
+],
 "memberKind": "Property"
 }
 }
@@ -19453,9 +25115,11 @@ var contents = {
 "SpeechRecognitionTopicConstraint":{
 "members": {
 ":ctor`2":{
-"files": [574,
-174,
-175],
+"files": [
+[576, [169]],
+[176, [184]],
+[177, [154]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -19464,158 +25128,192 @@ var contents = {
 "SpeechRecognizer":{
 "members": {
 ":ctor`0":{
-"files": [616],
+"files": [
+[618, [97]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [574,
-172,
-161,
-173,
-174,
-175,
-162],
+"files": [
+[576, [162]],
+[174, [178]],
+[163, [223]],
+[175, [198]],
+[176, [178]],
+[177, [148]],
+[164, [218]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CompileConstraintsAsync`0":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [171]],
+[174, [236]],
+[163, [231]],
+[175, [256]],
+[618, [110,307,373]],
+[176, [186]],
+[177, [162]],
+[164, [228]]
+],
 "memberKind": "Method"
 }
 ,
 "Constraints":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [170]],
+[174, [186,192,198,205,212,219]],
+[163, [230]],
+[175, [204,210,216,223,230,237]],
+[618, [108,294,301,360,367]],
+[176, [185]],
+[177, [155]],
+[164, [227]]
+],
 "memberKind": "Property"
 }
 ,
 "ContinuousRecognitionSession":{
-"files": [574,
-172,
-161,
-616],
+"files": [
+[576, [154,155,181,182,197,205,206,349,382]],
+[174, [170,171,255,256,288,293,294,391,416]],
+[163, [179,182,183,201,202,250,251,292,312]],
+[618, [89,90,122,123,137,141,142,238,266,288,316,320,354,382,386]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentLanguage":{
-"files": [574,
-172,
-161,
-173,
-174,
-175,
-162],
+"files": [
+[576, [127]],
+[174, [137]],
+[163, [146]],
+[175, [132]],
+[176, [117]],
+[177, [316]],
+[164, [144]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [158,210]],
+[174, [173,297]],
+[163, [186,205]],
+[175, [175,192]],
+[618, [93,145]],
+[176, [156,173]],
+[177, [126,143]],
+[164, [184,201]]
+],
 "memberKind": "Method"
 }
 ,
 "HypothesisGenerated":{
-"files": [574],
+"files": [
+[576, [156,183,207]]
+],
 "memberKind": "?"
 }
 ,
 "RecognizeAsync`0":{
-"files": [173,
-174,
-175,
-162],
+"files": [
+[175, [388]],
+[176, [289]],
+[177, [261]],
+[164, [354]]
+],
 "memberKind": "Method"
 }
 ,
 "RecognizeWithUIAsync`0":{
-"files": [173,
-174,
-175,
-162],
+"files": [
+[175, [321]],
+[176, [232]],
+[177, [204]],
+[164, [298]]
+],
 "memberKind": "Method"
 }
 ,
 "State":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [338,377]],
+[174, [387,411]],
+[163, [177,287]],
+[175, [164]],
+[618, [233,261]],
+[176, [145]],
+[177, [115]],
+[164, [173]]
+],
 "memberKind": "Property"
 }
 ,
 "StateChanged":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [153,166,208]],
+[174, [169,182,295]],
+[163, [184,203,227]],
+[175, [173,190,201]],
+[618, [91,101,143]],
+[176, [154,171,181]],
+[177, [124,141,151]],
+[164, [182,199,221]]
+],
 "memberKind": "?"
 }
 ,
 "SupportedGrammarLanguages":{
-"files": [172,
-161,
-173,
-162],
+"files": [
+[174, [107]],
+[163, [117]],
+[175, [103]],
+[164, [113]]
+],
 "memberKind": "Property"
 }
 ,
 "SupportedTopicLanguages":{
-"files": [574,
-174,
-175],
+"files": [
+[576, [99]],
+[176, [89]],
+[177, [89]]
+],
 "memberKind": "Property"
 }
 ,
 "SystemSpeechLanguage":{
-"files": [574,
-172,
-161,
-173,
-174,
-175,
-162],
+"files": [
+[576, [89,98]],
+[174, [86,94,106]],
+[163, [93,104,116]],
+[175, [81,89,102]],
+[176, [72,79,88]],
+[177, [72,79,88]],
+[164, [91,99,112]]
+],
 "memberKind": "Property"
 }
 ,
 "Timeouts":{
-"files": [161,
-162],
+"files": [
+[163, [246]],
+[164, [250]]
+],
 "memberKind": "Property"
 }
 ,
 "UIOptions":{
-"files": [173,
-174,
-175,
-162],
+"files": [
+[175, [250]],
+[176, [189,190]],
+[177, [158,159]],
+[164, [224]]
+],
 "memberKind": "Property"
 }
 }
@@ -19624,26 +25322,30 @@ var contents = {
 "SpeechRecognizerState":{
 "members": {
 "Idle":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [338,377]],
+[174, [387,411]],
+[163, [177,287]],
+[175, [164]],
+[618, [233,261]],
+[176, [145]],
+[177, [115]],
+[164, [173]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [323]],
+[174, [372]],
+[163, [374]],
+[175, [304]],
+[618, [218]],
+[176, [214]],
+[177, [186]],
+[164, [280]]
+],
 "memberKind": "Method"
 }
 }
@@ -19652,14 +25354,16 @@ var contents = {
 "SpeechRecognizerStateChangedEventArgs":{
 "members": {
 "State":{
-"files": [574,
-172,
-161,
-173,
-616,
-174,
-175,
-162],
+"files": [
+[576, [323]],
+[174, [372]],
+[163, [374]],
+[175, [304]],
+[618, [218]],
+[176, [214]],
+[177, [186]],
+[164, [280]]
+],
 "memberKind": "Property"
 }
 }
@@ -19668,8 +25372,10 @@ var contents = {
 "SpeechRecognizerTimeouts":{
 "members": {
 "EndSilenceTimeout":{
-"files": [161,
-162],
+"files": [
+[163, [246]],
+[164, [250]]
+],
 "memberKind": "Property"
 }
 }
@@ -19678,16 +25384,20 @@ var contents = {
 "SpeechRecognizerUIOptions":{
 "members": {
 "AudiblePrompt":{
-"files": [174,
-175],
+"files": [
+[176, [189]],
+[177, [158]]
+],
 "memberKind": "Property"
 }
 ,
 "ExampleText":{
-"files": [173,
-174,
-175,
-162],
+"files": [
+[175, [250]],
+[176, [190]],
+[177, [159]],
+[164, [224]]
+],
 "memberKind": "Property"
 }
 }
@@ -19700,8 +25410,10 @@ var contents = {
 "SpeechSynthesisStream":{
 "members": {
 "ContentType":{
-"files": [176,
-177],
+"files": [
+[178, [71]],
+[179, [70]]
+],
 "memberKind": "Property"
 }
 }
@@ -19710,36 +25422,48 @@ var contents = {
 "SpeechSynthesizer":{
 "members": {
 ":ctor`0":{
-"files": [176,
-177],
+"files": [
+[178, [32]],
+[179, [32]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AllVoices":{
-"files": [176,
-177],
+"files": [
+[178, [105]],
+[179, [104]]
+],
 "memberKind": "Property"
 }
 ,
 "DefaultVoice":{
-"files": [176,
-177],
+"files": [
+[178, [35]],
+[179, [35]]
+],
 "memberKind": "Property"
 }
 ,
 "SynthesizeSsmlToStreamAsync`1":{
-"files": [176],
+"files": [
+[178, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "SynthesizeTextToStreamAsync`1":{
-"files": [177],
+"files": [
+[179, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "Voice":{
-"files": [176,
-177],
+"files": [
+[178, [108,136,157]],
+[179, [107,135]]
+],
 "memberKind": "Property"
 }
 }
@@ -19748,20 +25472,26 @@ var contents = {
 "VoiceInformation":{
 "members": {
 "DisplayName":{
-"files": [176,
-177],
+"files": [
+[178, [113,115]],
+[179, [112,114]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [176,
-177],
+"files": [
+[178, [119]],
+[179, [118]]
+],
 "memberKind": "Property"
 }
 ,
 "Language":{
-"files": [176,
-177],
+"files": [
+[178, [35,115,139,157]],
+[179, [35,114,138]]
+],
 "memberKind": "Property"
 }
 }
@@ -19776,70 +25506,96 @@ var contents = {
 "AdaptiveMediaSource":{
 "members": {
 "AvailableBitrates":{
-"files": [617],
+"files": [
+[619, [114,151,152,177,178]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateFromUriAsync`1":{
-"files": [617,
-423,
-602],
+"files": [
+[619, [63]],
+[427, [83]],
+[604, [89]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromUriAsync`2":{
-"files": [618],
+"files": [
+[620, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "DesiredMaxBitrate":{
-"files": [617],
+"files": [
+[619, [185]]
+],
 "memberKind": "Property"
 }
 ,
 "DesiredMinBitrate":{
-"files": [617],
+"files": [
+[619, [160]]
+],
 "memberKind": "Property"
 }
 ,
 "DownloadBitrateChanged":{
-"files": [617],
+"files": [
+[619, [77]]
+],
 "memberKind": "?"
 }
 ,
 "DownloadCompleted":{
-"files": [618],
+"files": [
+[620, [77]]
+],
 "memberKind": "?"
 }
 ,
 "DownloadFailed":{
-"files": [618],
+"files": [
+[620, [78]]
+],
 "memberKind": "?"
 }
 ,
 "DownloadRequested":{
-"files": [617,
-618],
+"files": [
+[619, [74]],
+[620, [74]]
+],
 "memberKind": "?"
 }
 ,
 "InboundBitsPerSecond":{
-"files": [617],
+"files": [
+[619, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "InboundBitsPerSecondWindow":{
-"files": [617],
+"files": [
+[619, [202]]
+],
 "memberKind": "Property"
 }
 ,
 "InitialBitrate":{
-"files": [617],
+"files": [
+[619, [70,71,131]]
+],
 "memberKind": "Property"
 }
 ,
 "PlaybackBitrateChanged":{
-"files": [617],
+"files": [
+[619, [78]]
+],
 "memberKind": "?"
 }
 }
@@ -19848,16 +25604,20 @@ var contents = {
 "AdaptiveMediaSourceCreationResult":{
 "members": {
 "MediaSource":{
-"files": [617,
-618,
-423],
+"files": [
+[619, [66]],
+[620, [70]],
+[427, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [617,
-618,
-423],
+"files": [
+[619, [64,82]],
+[620, [68,82]],
+[427, [84,92]]
+],
 "memberKind": "Property"
 }
 }
@@ -19866,10 +25626,12 @@ var contents = {
 "AdaptiveMediaSourceCreationStatus":{
 "members": {
 "Success":{
-"files": [617,
-618,
-423,
-602],
+"files": [
+[619, [64]],
+[620, [68]],
+[427, [84]],
+[604, [90]]
+],
 "memberKind": "Field"
 }
 }
@@ -19878,7 +25640,9 @@ var contents = {
 "AdaptiveMediaSourceDownloadBitrateChangedEventArgs":{
 "members": {
 "NewValue":{
-"files": [617],
+"files": [
+[619, [93]]
+],
 "memberKind": "Property"
 }
 }
@@ -19887,12 +25651,16 @@ var contents = {
 "AdaptiveMediaSourceDownloadCompletedEventArgs":{
 "members": {
 "ResourceType":{
-"files": [618],
+"files": [
+[620, [101]]
+],
 "memberKind": "Property"
 }
 ,
 "ResourceUri":{
-"files": [618],
+"files": [
+[620, [101]]
+],
 "memberKind": "Property"
 }
 }
@@ -19901,17 +25669,23 @@ var contents = {
 "AdaptiveMediaSourceDownloadFailedEventArgs":{
 "members": {
 "HttpResponseMessage":{
-"files": [618],
+"files": [
+[620, [105]]
+],
 "memberKind": "Property"
 }
 ,
 "ResourceType":{
-"files": [618],
+"files": [
+[620, [105]]
+],
 "memberKind": "Property"
 }
 ,
 "ResourceUri":{
-"files": [618],
+"files": [
+[620, [105]]
+],
 "memberKind": "Property"
 }
 }
@@ -19920,17 +25694,23 @@ var contents = {
 "AdaptiveMediaSourceDownloadRequestedEventArgs":{
 "members": {
 "ResourceType":{
-"files": [618],
+"files": [
+[620, [89]]
+],
 "memberKind": "Property"
 }
 ,
 "ResourceUri":{
-"files": [618],
+"files": [
+[620, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "Result":{
-"files": [618],
+"files": [
+[620, [95]]
+],
 "memberKind": "Property"
 }
 }
@@ -19939,7 +25719,9 @@ var contents = {
 "AdaptiveMediaSourceDownloadResult":{
 "members": {
 "ResourceUri":{
-"files": [618],
+"files": [
+[620, [95]]
+],
 "memberKind": "Property"
 }
 }
@@ -19948,7 +25730,9 @@ var contents = {
 "AdaptiveMediaSourcePlaybackBitrateChangedEventArgs":{
 "members": {
 "NewValue":{
-"files": [617],
+"files": [
+[619, [98]]
+],
 "memberKind": "Property"
 }
 }
@@ -19957,7 +25741,9 @@ var contents = {
 "AdaptiveMediaSourceResourceType":{
 "members": {
 "Key":{
-"files": [618],
+"files": [
+[620, [89]]
+],
 "memberKind": "Field"
 }
 }
@@ -19970,124 +25756,160 @@ var contents = {
 "SystemMediaTransportControls":{
 "members": {
 "AutoRepeatMode":{
-"files": [593],
+"files": [
+[595, [239]]
+],
 "memberKind": "?"
 }
 ,
 "AutoRepeatModeChangeRequested":{
-"files": [593],
+"files": [
+[595, [121,172]]
+],
 "memberKind": "?"
 }
 ,
 "ButtonPressed":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [44,56]],
+[78, [97,173]],
+[595, [118,167]]
+],
 "memberKind": "?"
 }
 ,
 "DisplayUpdater":{
-"files": [78,
-593],
+"files": [
+[78, [196,197,202,203,207,209,211]],
+[595, [666,701,706]]
+],
 "memberKind": "Property"
 }
 ,
 "GetForCurrentView`0":{
-"files": [441,
-189,
-190,
-191,
-192,
-193,
-593],
+"files": [
+[443, [42]],
+[191, [62]],
+[192, [57]],
+[193, [59]],
+[194, [57]],
+[195, [57]],
+[595, [140]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
-"files": [78,
-593],
+"files": [
+[78, [99]],
+[595, [148,359]]
+],
 "memberKind": "Property"
 }
 ,
 "IsNextEnabled":{
-"files": [78,
-593],
+"files": [
+[78, [102]],
+[595, [722,727]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPauseEnabled":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [46]],
+[78, [100]],
+[595, [180]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPlayEnabled":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [45]],
+[78, [101]],
+[595, [179]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPreviousEnabled":{
-"files": [78,
-593],
+"files": [
+[78, [103]],
+[595, [733,738]]
+],
 "memberKind": "Property"
 }
 ,
 "IsStopEnabled":{
-"files": [441,
-593],
+"files": [
+[443, [47]],
+[595, [181]]
+],
 "memberKind": "Property"
 }
 ,
 "PlaybackPositionChangeRequested":{
-"files": [593],
+"files": [
+[595, [120,171]]
+],
 "memberKind": "?"
 }
 ,
 "PlaybackRate":{
-"files": [593],
+"files": [
+[595, [307]]
+],
 "memberKind": "Property"
 }
 ,
 "PlaybackRateChangeRequested":{
-"files": [593],
+"files": [
+[595, [119,170]]
+],
 "memberKind": "?"
 }
 ,
 "PlaybackStatus":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [48,65,74,83]],
+[78, [195,201,383,395,409,413,417,478]],
+[595, [182,470,488,492,496]]
+],
 "memberKind": "?"
 }
 ,
 "PropertyChanged":{
-"files": [441,
-78,
-189,
-190,
-191,
-192,
-193,
-593],
+"files": [
+[443, [43,55]],
+[78, [98,174]],
+[191, [697,716]],
+[192, [282]],
+[193, [747,766]],
+[194, [604,623]],
+[195, [751,765]],
+[595, [175]]
+],
 "memberKind": "?"
 }
 ,
 "SoundLevel":{
-"files": [441,
-189,
-190,
-191,
-192,
-193,
-593],
+"files": [
+[443, [190]],
+[191, [152]],
+[192, [149]],
+[193, [168]],
+[194, [145]],
+[195, [150]],
+[595, [192]]
+],
 "memberKind": "Property"
 }
 ,
 "UpdateTimelineProperties`1":{
-"files": [593],
+"files": [
+[595, [267]]
+],
 "memberKind": "Method"
 }
 }
@@ -20096,34 +25918,44 @@ var contents = {
 "SystemMediaTransportControlsButton":{
 "members": {
 "Next":{
-"files": [78,
-593],
+"files": [
+[78, [261]],
+[595, [577]]
+],
 "memberKind": "Field"
 }
 ,
 "Pause":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [213]],
+[78, [250]],
+[595, [567]]
+],
 "memberKind": "Field"
 }
 ,
 "Play":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [208]],
+[78, [234]],
+[595, [562]]
+],
 "memberKind": "Field"
 }
 ,
 "Previous":{
-"files": [78,
-593],
+"files": [
+[78, [265]],
+[595, [583]]
+],
 "memberKind": "Field"
 }
 ,
 "Stop":{
-"files": [441,
-593],
+"files": [
+[443, [218]],
+[595, [572]]
+],
 "memberKind": "Field"
 }
 }
@@ -20132,9 +25964,11 @@ var contents = {
 "SystemMediaTransportControlsButtonPressedEventArgs":{
 "members": {
 "Button":{
-"files": [441,
-78,
-593],
+"files": [
+[443, [206]],
+[78, [232]],
+[595, [560]]
+],
 "memberKind": "Property"
 }
 }
@@ -20143,33 +25977,45 @@ var contents = {
 "SystemMediaTransportControlsDisplayUpdater":{
 "members": {
 "ClearAll`0":{
-"files": [593],
+"files": [
+[595, [701]]
+],
 "memberKind": "Method"
 }
 ,
 "CopyFromFileAsync`2":{
-"files": [593],
+"files": [
+[595, [666]]
+],
 "memberKind": "Method"
 }
 ,
 "MusicProperties":{
-"files": [78],
+"files": [
+[78, [196,203]]
+],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
-"files": [78],
+"files": [
+[78, [207,209]]
+],
 "memberKind": "?"
 }
 ,
 "Type":{
-"files": [78],
+"files": [
+[78, [202]]
+],
 "memberKind": "?"
 }
 ,
 "Update`0":{
-"files": [78,
-593],
+"files": [
+[78, [197,211]],
+[595, [706]]
+],
 "memberKind": "Method"
 }
 }
@@ -20178,13 +26024,15 @@ var contents = {
 "SystemMediaTransportControlsProperty":{
 "members": {
 "SoundLevel":{
-"files": [441,
-189,
-190,
-191,
-192,
-193,
-593],
+"files": [
+[443, [188]],
+[191, [148]],
+[192, [145]],
+[193, [164]],
+[194, [141]],
+[195, [146]],
+[595, [189]]
+],
 "memberKind": "Field"
 }
 }
@@ -20193,13 +26041,15 @@ var contents = {
 "SystemMediaTransportControlsPropertyChangedEventArgs":{
 "members": {
 "Property":{
-"files": [441,
-189,
-190,
-191,
-192,
-193,
-593],
+"files": [
+[443, [188]],
+[191, [148]],
+[192, [145]],
+[193, [164]],
+[194, [141]],
+[195, [146]],
+[595, [189]]
+],
 "memberKind": "Property"
 }
 }
@@ -20208,32 +26058,44 @@ var contents = {
 "SystemMediaTransportControlsTimelineProperties":{
 "members": {
 ":ctor`0":{
-"files": [593],
+"files": [
+[595, [252]]
+],
 "memberKind": "Constructor"
 }
 ,
 "EndTime":{
-"files": [593],
+"files": [
+[595, [265]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxSeekTime":{
-"files": [593],
+"files": [
+[595, [264]]
+],
 "memberKind": "Property"
 }
 ,
 "MinSeekTime":{
-"files": [593],
+"files": [
+[595, [262]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [593],
+"files": [
+[595, [263]]
+],
 "memberKind": "Property"
 }
 ,
 "StartTime":{
-"files": [593],
+"files": [
+[595, [261]]
+],
 "memberKind": "Property"
 }
 }
@@ -20244,33 +26106,43 @@ var contents = {
 "MediaTranscoder":{
 "members": {
 ":ctor`0":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [39]],
+[609, [36]],
+[537, [40]]
+],
 "memberKind": "Constructor"
 }
 ,
 "PrepareFileTranscodeAsync`3":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [96]],
+[609, [104]],
+[537, [114]]
+],
 "memberKind": "Method"
 }
 ,
 "TrimStartTime":{
-"files": [535],
+"files": [
+[537, [105]]
+],
 "memberKind": "Property"
 }
 ,
 "TrimStopTime":{
-"files": [535],
+"files": [
+[537, [106]]
+],
 "memberKind": "Property"
 }
 ,
 "VideoProcessingAlgorithm":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [100,104]],
+[609, [108,112]],
+[537, [118,122]]
+],
 "memberKind": "?"
 }
 }
@@ -20279,16 +26151,20 @@ var contents = {
 "MediaVideoProcessingAlgorithm":{
 "members": {
 "Default":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [104]],
+[609, [112]],
+[537, [122]]
+],
 "memberKind": "Field"
 }
 ,
 "MrfCrf444":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [100]],
+[609, [108]],
+[537, [118]]
+],
 "memberKind": "Field"
 }
 }
@@ -20297,27 +26173,35 @@ var contents = {
 "TranscodeFailureReason":{
 "members": {
 "CodecNotFound":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [241]],
+[609, [223]],
+[537, [290]]
+],
 "memberKind": "Field"
 }
 ,
 "InvalidProfile":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [244]],
+[609, [226]],
+[537, [293]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [293,
-406],
+"files": [
+[295, [152]],
+[410, [128]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [293],
+"files": [
+[295, [155]]
+],
 "memberKind": "Method"
 }
 }
@@ -20328,16 +26212,20 @@ var contents = {
 "VideoFrame":{
 "members": {
 ":ctor`3":{
-"files": [187,
-188,
-190,
-196],
+"files": [
+[189, [228]],
+[190, [255]],
+[192, [371]],
+[198, [182]]
+],
 "memberKind": "Constructor"
 }
 ,
 "SoftwareBitmap":{
-"files": [187,
-188],
+"files": [
+[189, [233,235,244]],
+[190, [260,270]]
+],
 "memberKind": "Property"
 }
 }
@@ -20352,67 +26240,91 @@ var contents = {
 "BackgroundDownloader":{
 "members": {
 ":ctor`0":{
-"files": [453,
-223],
+"files": [
+[455, [150]],
+[225, [133,157]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [72],
+"files": [
+[72, [123]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CompletionGroup":{
-"files": [452,
-72],
+"files": [
+[454, [70]],
+[72, [92]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateDownload`2":{
-"files": [453,
-223,
-452,
-72],
+"files": [
+[455, [151]],
+[225, [254]],
+[454, [65]],
+[72, [88]]
+],
 "memberKind": "Method"
 }
 ,
 "FailureTileNotification":{
-"files": [223],
+"files": [
+[225, [182]]
+],
 "memberKind": "?"
 }
 ,
 "FailureToastNotification":{
-"files": [223],
+"files": [
+[225, [148]]
+],
 "memberKind": "?"
 }
 ,
 "GetCurrentDownloadsAsync`0":{
-"files": [453],
+"files": [
+[455, [81]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCurrentDownloadsForTransferGroupAsync`1":{
-"files": [223],
+"files": [
+[225, [89]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestUnconstrainedDownloadsAsync`1":{
-"files": [453],
+"files": [
+[455, [174]]
+],
 "memberKind": "Method"
 }
 ,
 "SuccessTileNotification":{
-"files": [223],
+"files": [
+[225, [170]]
+],
 "memberKind": "?"
 }
 ,
 "SuccessToastNotification":{
-"files": [223],
+"files": [
+[225, [141]]
+],
 "memberKind": "?"
 }
 ,
 "TransferGroup":{
-"files": [223],
+"files": [
+[225, [134,158]]
+],
 "memberKind": "?"
 }
 }
@@ -20421,28 +26333,38 @@ var contents = {
 "BackgroundDownloadProgress":{
 "members": {
 "BytesReceived":{
-"files": [453],
+"files": [
+[455, [271,277]]
+],
 "memberKind": "Field"
 }
 ,
 "HasResponseChanged":{
-"files": [453],
+"files": [
+[455, [286]]
+],
 "memberKind": "Field"
 }
 ,
 "HasRestarted":{
-"files": [453],
+"files": [
+[455, [281]]
+],
 "memberKind": "Field"
 }
 ,
 "Status":{
-"files": [453,
-72],
+"files": [
+[455, [101,208,216,232,240,266]],
+[72, [67]]
+],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToReceive":{
-"files": [453],
+"files": [
+[455, [269,271,278]]
+],
 "memberKind": "Field"
 }
 }
@@ -20451,7 +26373,9 @@ var contents = {
 "BackgroundTransferBehavior":{
 "members": {
 "Parallel":{
-"files": [223],
+"files": [
+[225, [61]]
+],
 "memberKind": "Field"
 }
 }
@@ -20460,18 +26384,24 @@ var contents = {
 "BackgroundTransferCompletionGroup":{
 "members": {
 ":ctor`0":{
-"files": [72],
+"files": [
+[72, [115]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Enable`0":{
-"files": [452,
-72],
+"files": [
+[454, [70]],
+[72, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "Trigger":{
-"files": [72],
+"files": [
+[72, [119]]
+],
 "memberKind": "Property"
 }
 }
@@ -20480,7 +26410,9 @@ var contents = {
 "BackgroundTransferCompletionGroupTriggerDetails":{
 "members": {
 "Downloads":{
-"files": [72],
+"files": [
+[72, [45]]
+],
 "memberKind": "Property"
 }
 }
@@ -20489,12 +26421,16 @@ var contents = {
 "BackgroundTransferContentPart":{
 "members": {
 ":ctor`2":{
-"files": [454],
+"files": [
+[456, [220]]
+],
 "memberKind": "Constructor"
 }
 ,
 "SetFile`1":{
-"files": [454],
+"files": [
+[456, [221]]
+],
 "memberKind": "Method"
 }
 }
@@ -20503,9 +26439,11 @@ var contents = {
 "BackgroundTransferError":{
 "members": {
 "GetStatus`1":{
-"files": [453,
-454,
-223],
+"files": [
+[455, [353]],
+[456, [326]],
+[225, [281]]
+],
 "memberKind": "Method"
 }
 }
@@ -20514,12 +26452,16 @@ var contents = {
 "BackgroundTransferGroup":{
 "members": {
 "CreateGroup`1":{
-"files": [223],
+"files": [
+[225, [55]]
+],
 "memberKind": "Method"
 }
 ,
 "TransferBehavior":{
-"files": [223],
+"files": [
+[225, [61]]
+],
 "memberKind": "?"
 }
 }
@@ -20528,12 +26470,16 @@ var contents = {
 "BackgroundTransferPriority":{
 "members": {
 "Default":{
-"files": [453],
+"files": [
+[455, [184,194]]
+],
 "memberKind": "Field"
 }
 ,
 "High":{
-"files": [453],
+"files": [
+[455, [189]]
+],
 "memberKind": "Field"
 }
 }
@@ -20542,22 +26488,30 @@ var contents = {
 "BackgroundTransferStatus":{
 "members": {
 "Canceled":{
-"files": [72],
+"files": [
+[72, [68]]
+],
 "memberKind": "Field"
 }
 ,
 "Error":{
-"files": [72],
+"files": [
+[72, [68]]
+],
 "memberKind": "Field"
 }
 ,
 "PausedByApplication":{
-"files": [453],
+"files": [
+[455, [232]]
+],
 "memberKind": "Field"
 }
 ,
 "Running":{
-"files": [453],
+"files": [
+[455, [208]]
+],
 "memberKind": "Field"
 }
 }
@@ -20566,27 +26520,37 @@ var contents = {
 "BackgroundUploader":{
 "members": {
 ":ctor`0":{
-"files": [454],
+"files": [
+[456, [151,225]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CreateUpload`2":{
-"files": [454],
+"files": [
+[456, [154]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateUploadAsync`2":{
-"files": [454],
+"files": [
+[456, [226]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCurrentUploadsAsync`0":{
-"files": [454],
+"files": [
+[456, [81]]
+],
 "memberKind": "Method"
 }
 ,
 "SetRequestHeader`2":{
-"files": [454],
+"files": [
+[456, [152]]
+],
 "memberKind": "Method"
 }
 }
@@ -20595,37 +26559,51 @@ var contents = {
 "BackgroundUploadProgress":{
 "members": {
 "BytesReceived":{
-"files": [454],
+"files": [
+[456, [271]]
+],
 "memberKind": "Field"
 }
 ,
 "BytesSent":{
-"files": [454],
+"files": [
+[456, [266,270]]
+],
 "memberKind": "Field"
 }
 ,
 "HasResponseChanged":{
-"files": [454],
+"files": [
+[456, [278]]
+],
 "memberKind": "Field"
 }
 ,
 "HasRestarted":{
-"files": [454],
+"files": [
+[456, [273]]
+],
 "memberKind": "Field"
 }
 ,
 "Status":{
-"files": [454],
+"files": [
+[456, [100,261]]
+],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToReceive":{
-"files": [454],
+"files": [
+[456, [271]]
+],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToSend":{
-"files": [454],
+"files": [
+[456, [264,266,271]]
+],
 "memberKind": "Field"
 }
 }
@@ -20634,58 +26612,78 @@ var contents = {
 "DownloadOperation":{
 "members": {
 "AttachAsync`0":{
-"files": [453],
+"files": [
+[455, [318]]
+],
 "memberKind": "Method"
 }
 ,
 "GetResponseInformation`0":{
-"files": [453,
-72],
+"files": [
+[455, [290,321]],
+[72, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "Guid":{
-"files": [453],
+"files": [
+[455, [100,154,211,215,235,239,265,304,330,336,366]]
+],
 "memberKind": "Property"
 }
 ,
 "Pause`0":{
-"files": [453],
+"files": [
+[455, [210]]
+],
 "memberKind": "Method"
 }
 ,
 "Priority":{
-"files": [453],
+"files": [
+[455, [156]]
+],
 "memberKind": "?"
 }
 ,
 "Progress":{
-"files": [453,
-72],
+"files": [
+[455, [101,206,230,263]],
+[72, [67]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestedUri":{
-"files": [72],
+"files": [
+[72, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "ResultFile":{
-"files": [223,
-72],
+"files": [
+[225, [259,265,294]],
+[72, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "Resume`0":{
-"files": [453],
+"files": [
+[455, [234]]
+],
 "memberKind": "Method"
 }
 ,
 "StartAsync`0":{
-"files": [453,
-223,
-452,
-72],
+"files": [
+[455, [313]],
+[225, [263]],
+[454, [66]],
+[72, [89]]
+],
 "memberKind": "Method"
 }
 }
@@ -20694,15 +26692,19 @@ var contents = {
 "ResponseInformation":{
 "members": {
 "Headers":{
-"files": [453,
-454],
+"files": [
+[455, [291]],
+[456, [281]]
+],
 "memberKind": "Property"
 }
 ,
 "StatusCode":{
-"files": [453,
-454,
-72],
+"files": [
+[455, [324]],
+[456, [309]],
+[72, [74]]
+],
 "memberKind": "Property"
 }
 }
@@ -20711,7 +26713,9 @@ var contents = {
 "UnconstrainedTransferRequestResult":{
 "members": {
 "IsUnconstrained":{
-"files": [453],
+"files": [
+[455, [177]]
+],
 "memberKind": "Property"
 }
 }
@@ -20720,27 +26724,37 @@ var contents = {
 "UploadOperation":{
 "members": {
 "AttachAsync`0":{
-"files": [454],
+"files": [
+[456, [303]]
+],
 "memberKind": "Method"
 }
 ,
 "GetResponseInformation`0":{
-"files": [454],
+"files": [
+[456, [281,306]]
+],
 "memberKind": "Method"
 }
 ,
 "Guid":{
-"files": [454],
+"files": [
+[456, [100,156,235,260,292,308,313,339]]
+],
 "memberKind": "Property"
 }
 ,
 "Progress":{
-"files": [454],
+"files": [
+[456, [100,258]]
+],
 "memberKind": "Property"
 }
 ,
 "StartAsync`0":{
-"files": [454],
+"files": [
+[456, [298]]
+],
 "memberKind": "Method"
 }
 }
@@ -20753,22 +26767,30 @@ var contents = {
 "ConnectionCost":{
 "members": {
 "ApproachingDataLimit":{
-"files": [619],
+"files": [
+[621, [244,270]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkCostType":{
-"files": [619],
+"files": [
+[621, [223,264,268]]
+],
 "memberKind": "Property"
 }
 ,
 "OverDataLimit":{
-"files": [619],
+"files": [
+[621, [243,270]]
+],
 "memberKind": "Property"
 }
 ,
 "Roaming":{
-"files": [619],
+"files": [
+[621, [242,260]]
+],
 "memberKind": "Property"
 }
 }
@@ -20777,63 +26799,87 @@ var contents = {
 "ConnectionProfile":{
 "members": {
 "GetConnectionCost`0":{
-"files": [619],
+"files": [
+[621, [166]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDataPlanStatus`0":{
-"files": [619],
+"files": [
+[621, [170]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDomainConnectivityLevel`0":{
-"files": [619],
+"files": [
+[621, [152]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNetworkConnectivityLevel`0":{
-"files": [619],
+"files": [
+[621, [136]]
+],
 "memberKind": "Method"
 }
 ,
 "GetSignalBars`0":{
-"files": [619],
+"files": [
+[621, [199,202]]
+],
 "memberKind": "Method"
 }
 ,
 "IsWlanConnectionProfile":{
-"files": [619],
+"files": [
+[621, [178]]
+],
 "memberKind": "Property"
 }
 ,
 "IsWwanConnectionProfile":{
-"files": [619],
+"files": [
+[621, [185]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkSecuritySettings":{
-"files": [619],
+"files": [
+[621, [174]]
+],
 "memberKind": "Property"
 }
 ,
 "ProfileName":{
-"files": [255,
-619],
+"files": [
+[257, [615,617]],
+[621, [134]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceProviderGuid":{
-"files": [619],
+"files": [
+[621, [192,195]]
+],
 "memberKind": "Property"
 }
 ,
 "WlanConnectionProfileDetails":{
-"files": [619],
+"files": [
+[621, [180]]
+],
 "memberKind": "Property"
 }
 ,
 "WwanConnectionProfileDetails":{
-"files": [619],
+"files": [
+[621, [187]]
+],
 "memberKind": "Property"
 }
 }
@@ -20842,32 +26888,44 @@ var contents = {
 "DataPlanStatus":{
 "members": {
 "DataLimitInMegabytes":{
-"files": [619],
+"files": [
+[621, [331]]
+],
 "memberKind": "Property"
 }
 ,
 "DataPlanUsage":{
-"files": [619],
+"files": [
+[621, [301,303,304]]
+],
 "memberKind": "Property"
 }
 ,
 "InboundBitsPerSecond":{
-"files": [619],
+"files": [
+[621, [311]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxTransferSizeInMegabytes":{
-"files": [619],
+"files": [
+[621, [351]]
+],
 "memberKind": "Property"
 }
 ,
 "NextBillingCycle":{
-"files": [619],
+"files": [
+[621, [341]]
+],
 "memberKind": "Property"
 }
 ,
 "OutboundBitsPerSecond":{
-"files": [619],
+"files": [
+[621, [321]]
+],
 "memberKind": "Property"
 }
 }
@@ -20876,12 +26934,16 @@ var contents = {
 "DataPlanUsage":{
 "members": {
 "LastSyncTime":{
-"files": [619],
+"files": [
+[621, [304]]
+],
 "memberKind": "Property"
 }
 ,
 "MegabytesUsed":{
-"files": [619],
+"files": [
+[621, [303]]
+],
 "memberKind": "Property"
 }
 }
@@ -20890,17 +26952,23 @@ var contents = {
 "DomainConnectivityLevel":{
 "members": {
 "Authenticated":{
-"files": [619],
+"files": [
+[621, [160]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [619],
+"files": [
+[621, [154]]
+],
 "memberKind": "Field"
 }
 ,
 "Unauthenticated":{
-"files": [619],
+"files": [
+[621, [157]]
+],
 "memberKind": "Field"
 }
 }
@@ -20909,8 +26977,10 @@ var contents = {
 "IPInformation":{
 "members": {
 "NetworkAdapter":{
-"files": [118,
-122],
+"files": [
+[120, [154,362]],
+[124, [140,280]]
+],
 "memberKind": "Property"
 }
 }
@@ -20919,22 +26989,28 @@ var contents = {
 "NetworkAdapter":{
 "members": {
 "GetConnectedProfileAsync`0":{
-"files": [255,
-402,
-304],
+"files": [
+[257, [614]],
+[406, [54]],
+[306, [109]]
+],
 "memberKind": "Method"
 }
 ,
 "NetworkAdapterId":{
-"files": [118,
-393,
-122,
-123],
+"files": [
+[120, [159,362]],
+[397, [127]],
+[124, [151,280]],
+[125, [126,139]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkItem":{
-"files": [393],
+"files": [
+[397, [128]]
+],
 "memberKind": "Property"
 }
 }
@@ -20943,50 +27019,68 @@ var contents = {
 "NetworkAuthenticationType":{
 "members": {
 "None":{
-"files": [619],
+"files": [
+[621, [381]]
+],
 "memberKind": "Field"
 }
 ,
 "Open80211":{
-"files": [255,
-619,
-402,
-304],
+"files": [
+[257, [129,644]],
+[621, [387]],
+[406, [36]],
+[306, [161,186]]
+],
 "memberKind": "Field"
 }
 ,
 "Rsna":{
-"files": [619],
+"files": [
+[621, [402]]
+],
 "memberKind": "Field"
 }
 ,
 "RsnaPsk":{
-"files": [619],
+"files": [
+[621, [405]]
+],
 "memberKind": "Field"
 }
 ,
 "SharedKey80211":{
-"files": [619],
+"files": [
+[621, [390]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [619],
+"files": [
+[621, [384]]
+],
 "memberKind": "Field"
 }
 ,
 "Wpa":{
-"files": [619],
+"files": [
+[621, [393]]
+],
 "memberKind": "Field"
 }
 ,
 "WpaNone":{
-"files": [619],
+"files": [
+[621, [399]]
+],
 "memberKind": "Field"
 }
 ,
 "WpaPsk":{
-"files": [619],
+"files": [
+[621, [396]]
+],
 "memberKind": "Field"
 }
 }
@@ -20995,22 +27089,30 @@ var contents = {
 "NetworkConnectivityLevel":{
 "members": {
 "ConstrainedInternetAccess":{
-"files": [619],
+"files": [
+[621, [144]]
+],
 "memberKind": "Field"
 }
 ,
 "InternetAccess":{
-"files": [619],
+"files": [
+[621, [147]]
+],
 "memberKind": "Field"
 }
 ,
 "LocalAccess":{
-"files": [619],
+"files": [
+[621, [141]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [619],
+"files": [
+[621, [138]]
+],
 "memberKind": "Field"
 }
 }
@@ -21019,22 +27121,30 @@ var contents = {
 "NetworkCostType":{
 "members": {
 "Fixed":{
-"files": [619],
+"files": [
+[621, [228,268]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [619],
+"files": [
+[621, [234]]
+],
 "memberKind": "Field"
 }
 ,
 "Unrestricted":{
-"files": [619],
+"files": [
+[621, [225]]
+],
 "memberKind": "Field"
 }
 ,
 "Variable":{
-"files": [619],
+"files": [
+[621, [231,264]]
+],
 "memberKind": "Field"
 }
 }
@@ -21043,47 +27153,65 @@ var contents = {
 "NetworkEncryptionType":{
 "members": {
 "Ccmp":{
-"files": [619],
+"files": [
+[621, [435]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [619],
+"files": [
+[621, [417]]
+],
 "memberKind": "Field"
 }
 ,
 "RsnUseGroup":{
-"files": [619],
+"files": [
+[621, [441]]
+],
 "memberKind": "Field"
 }
 ,
 "Tkip":{
-"files": [619],
+"files": [
+[621, [432]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [619],
+"files": [
+[621, [420]]
+],
 "memberKind": "Field"
 }
 ,
 "Wep":{
-"files": [619],
+"files": [
+[621, [423]]
+],
 "memberKind": "Field"
 }
 ,
 "Wep104":{
-"files": [619],
+"files": [
+[621, [429]]
+],
 "memberKind": "Field"
 }
 ,
 "Wep40":{
-"files": [619],
+"files": [
+[621, [426]]
+],
 "memberKind": "Field"
 }
 ,
 "WpaUseGroup":{
-"files": [619],
+"files": [
+[621, [438]]
+],
 "memberKind": "Field"
 }
 }
@@ -21092,14 +27220,18 @@ var contents = {
 "NetworkInformation":{
 "members": {
 "GetHostNames`0":{
-"files": [118,
-122],
+"files": [
+[120, [288]],
+[124, [238]]
+],
 "memberKind": "Method"
 }
 ,
 "NetworkStatusChanged":{
-"files": [255,
-304],
+"files": [
+[257, [590]],
+[306, [82]]
+],
 "memberKind": "?"
 }
 }
@@ -21108,7 +27240,9 @@ var contents = {
 "NetworkItem":{
 "members": {
 "GetNetworkTypes`0":{
-"files": [393],
+"files": [
+[397, [128]]
+],
 "memberKind": "Method"
 }
 }
@@ -21117,15 +27251,19 @@ var contents = {
 "NetworkSecuritySettings":{
 "members": {
 "NetworkAuthenticationType":{
-"files": [255,
-619,
-402],
+"files": [
+[257, [129,644]],
+[621, [379]],
+[406, [36,112]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkEncryptionType":{
-"files": [619,
-402],
+"files": [
+[621, [415]],
+[406, [112]]
+],
 "memberKind": "Property"
 }
 }
@@ -21134,7 +27272,9 @@ var contents = {
 "NetworkTypes":{
 "members": {
 "ToString`0":{
-"files": [393],
+"files": [
+[397, [128]]
+],
 "memberKind": "Method"
 }
 }
@@ -21143,7 +27283,9 @@ var contents = {
 "WlanConnectionProfileDetails":{
 "members": {
 "GetConnectedSsid`0":{
-"files": [619],
+"files": [
+[621, [464]]
+],
 "memberKind": "Method"
 }
 }
@@ -21152,22 +27294,30 @@ var contents = {
 "WwanConnectionProfileDetails":{
 "members": {
 "AccessPointName":{
-"files": [619],
+"files": [
+[621, [481]]
+],
 "memberKind": "Property"
 }
 ,
 "GetCurrentDataClass`0":{
-"files": [619],
+"files": [
+[621, [483]]
+],
 "memberKind": "Method"
 }
 ,
 "GetNetworkRegistrationState`0":{
-"files": [619],
+"files": [
+[621, [482]]
+],
 "memberKind": "Method"
 }
 ,
 "HomeProviderId":{
-"files": [619],
+"files": [
+[621, [480]]
+],
 "memberKind": "Property"
 }
 }
@@ -21178,32 +27328,40 @@ var contents = {
 "HostName":{
 "members": {
 ":ctor`1":{
-"files": [119,
-620,
-621,
-91,
-76,
-123,
-622],
+"files": [
+[121, [77]],
+[622, [158,204]],
+[623, [61]],
+[91, [66]],
+[76, [96]],
+[125, [95]],
+[624, [75]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CanonicalName":{
-"files": [118,
-620,
-122],
+"files": [
+[120, [127,147]],
+[622, [265]],
+[124, [104,133]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [118,
-122],
+"files": [
+[120, [361]],
+[124, [279]]
+],
 "memberKind": "Property"
 }
 ,
 "IPInformation":{
-"files": [118,
-122],
+"files": [
+[120, [154,290,355,362]],
+[124, [140,240,273,280]]
+],
 "memberKind": "Property"
 }
 }
@@ -21214,23 +27372,31 @@ var contents = {
 "DataClasses":{
 "members": {
 "Custom":{
-"files": [393],
+"files": [
+[397, [163]]
+],
 "memberKind": "Field"
 }
 ,
 "HasFlag`1":{
-"files": [393],
+"files": [
+[397, [163]]
+],
 "memberKind": "Method"
 }
 ,
 "Text":{
-"files": [393],
+"files": [
+[397, [162,165,203,233]]
+],
 "memberKind": "?"
 }
 ,
 "ToString`0":{
-"files": [393,
-395],
+"files": [
+[397, [131,162]],
+[399, [61]]
+],
 "memberKind": "Method"
 }
 }
@@ -21239,52 +27405,68 @@ var contents = {
 "MobileBroadbandAccount":{
 "members": {
 "AvailableNetworkAccountIds":{
-"files": [393,
-619,
-623,
-624],
+"files": [
+[397, [76]],
+[621, [81]],
+[625, [79]],
+[626, [54]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateFromNetworkAccountId`1":{
-"files": [625,
-393,
-619,
-623],
+"files": [
+[627, [109,212]],
+[397, [106]],
+[621, [64]],
+[625, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "CurrentDeviceInformation":{
-"files": [625,
-393],
+"files": [
+[627, [216]],
+[397, [148]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentNetwork":{
-"files": [625,
-393,
-623],
+"files": [
+[627, [221]],
+[397, [112]],
+[625, [63]]
+],
 "memberKind": "Property"
 }
 ,
 "GetConnectionProfiles`0":{
-"files": [619],
+"files": [
+[621, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "NetworkAccountId":{
-"files": [393],
+"files": [
+[397, [110]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceProviderGuid":{
-"files": [393],
+"files": [
+[397, [109]]
+],
 "memberKind": "Property"
 }
 ,
 "ServiceProviderName":{
-"files": [625,
-393],
+"files": [
+[627, [111]],
+[397, [108]]
+],
 "memberKind": "Property"
 }
 }
@@ -21293,47 +27475,65 @@ var contents = {
 "MobileBroadbandAccountWatcher":{
 "members": {
 ":ctor`0":{
-"files": [625],
+"files": [
+[627, [31]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AccountAdded":{
-"files": [625],
+"files": [
+[627, [100]]
+],
 "memberKind": "?"
 }
 ,
 "AccountRemoved":{
-"files": [625],
+"files": [
+[627, [139]]
+],
 "memberKind": "?"
 }
 ,
 "AccountUpdated":{
-"files": [625],
+"files": [
+[627, [121]]
+],
 "memberKind": "?"
 }
 ,
 "EnumerationCompleted":{
-"files": [625],
+"files": [
+[627, [156]]
+],
 "memberKind": "?"
 }
 ,
 "Start`0":{
-"files": [625],
+"files": [
+[627, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "Status":{
-"files": [625],
+"files": [
+[627, [58,59,82,83]]
+],
 "memberKind": "Property"
 }
 ,
 "Stop`0":{
-"files": [625],
+"files": [
+[627, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
-"files": [625],
+"files": [
+[627, [164]]
+],
 "memberKind": "?"
 }
 }
@@ -21342,12 +27542,16 @@ var contents = {
 "MobileBroadbandAccountWatcherStatus":{
 "members": {
 "EnumerationCompleted":{
-"files": [625],
+"files": [
+[627, [59,83]]
+],
 "memberKind": "Field"
 }
 ,
 "Started":{
-"files": [625],
+"files": [
+[627, [58,82]]
+],
 "memberKind": "Field"
 }
 }
@@ -21356,106 +27560,140 @@ var contents = {
 "MobileBroadbandDeviceInformation":{
 "members": {
 "CellularClass":{
-"files": [393,
-395],
+"files": [
+[397, [161,173,181]],
+[399, [58]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentRadioState":{
-"files": [625,
-395],
+"files": [
+[627, [190]],
+[399, [59]]
+],
 "memberKind": "Property"
 }
 ,
 "CustomDataClass":{
-"files": [393,
-395],
+"files": [
+[397, [165]],
+[399, [60]]
+],
 "memberKind": "Property"
 }
 ,
 "DataClasses":{
-"files": [393,
-395],
+"files": [
+[397, [162,163]],
+[399, [61]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceId":{
-"files": [625,
-393,
-395],
+"files": [
+[627, [189]],
+[397, [104,170]],
+[399, [62]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceType":{
-"files": [393,
-395],
+"files": [
+[397, [169]],
+[399, [63]]
+],
 "memberKind": "Property"
 }
 ,
 "FirmwareInformation":{
-"files": [393,
-395],
+"files": [
+[397, [160]],
+[399, [64]]
+],
 "memberKind": "Property"
 }
 ,
 "Manufacturer":{
-"files": [393,
-395],
+"files": [
+[397, [158]],
+[399, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "MobileEquipmentId":{
-"files": [625,
-393,
-395],
+"files": [
+[627, [186]],
+[397, [176,184]],
+[399, [66]]
+],
 "memberKind": "Property"
 }
 ,
 "Model":{
-"files": [393,
-395],
+"files": [
+[397, [159]],
+[399, [67]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkDeviceStatus":{
-"files": [625,
-393,
-395],
+"files": [
+[627, [185]],
+[397, [171]],
+[399, [68]]
+],
 "memberKind": "Property"
 }
 ,
 "PinManager":{
-"files": [395],
+"files": [
+[399, [71]]
+],
 "memberKind": "Property"
 }
 ,
 "Revision":{
-"files": [395],
+"files": [
+[399, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "SerialNumber":{
-"files": [395],
+"files": [
+[399, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "SimIccId":{
-"files": [625,
-393,
-395],
+"files": [
+[627, [188]],
+[397, [168]],
+[399, [79]]
+],
 "memberKind": "Property"
 }
 ,
 "SubscriberId":{
-"files": [625,
-393,
-395],
+"files": [
+[627, [187]],
+[397, [179,187]],
+[399, [80]]
+],
 "memberKind": "Property"
 }
 ,
 "TelephoneNumbers":{
-"files": [393,
-395],
+"files": [
+[397, [153,155]],
+[399, [82]]
+],
 "memberKind": "Property"
 }
 }
@@ -21464,8 +27702,10 @@ var contents = {
 "MobileBroadbandDeviceType":{
 "members": {
 "ToString`0":{
-"files": [393,
-395],
+"files": [
+[397, [169]],
+[399, [63]]
+],
 "memberKind": "Method"
 }
 }
@@ -21474,26 +27714,34 @@ var contents = {
 "MobileBroadbandModem":{
 "members": {
 "DeviceInformation":{
-"files": [393,
-395],
+"files": [
+[397, [104]],
+[399, [58,59,60,61,62,63,64,65,66,67,68,71,77,78,79,80,82]]
+],
 "memberKind": "Property"
 }
 ,
 "DeviceServices":{
-"files": [626],
+"files": [
+[628, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "GetCurrentConfigurationAsync`0":{
-"files": [627],
+"files": [
+[629, [53]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
-"files": [393,
-626,
-395,
-627],
+"files": [
+[397, [103]],
+[628, [50]],
+[399, [56]],
+[629, [52]]
+],
 "memberKind": "Method"
 }
 }
@@ -21502,7 +27750,9 @@ var contents = {
 "MobileBroadbandModemConfiguration":{
 "members": {
 "Uicc":{
-"files": [627],
+"files": [
+[629, [54]]
+],
 "memberKind": "Property"
 }
 }
@@ -21511,57 +27761,77 @@ var contents = {
 "MobileBroadbandNetwork":{
 "members": {
 "AccessPointName":{
-"files": [625,
-393],
+"files": [
+[627, [195]],
+[397, [116]]
+],
 "memberKind": "Property"
 }
 ,
 "ActivationNetworkError":{
-"files": [625,
-393],
+"files": [
+[627, [204]],
+[397, [125]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkAdapter":{
-"files": [393],
+"files": [
+[397, [127,128]]
+],
 "memberKind": "Property"
 }
 ,
 "NetworkRegistrationState":{
-"files": [625,
-393],
+"files": [
+[627, [201]],
+[397, [122]]
+],
 "memberKind": "Property"
 }
 ,
 "PacketAttachNetworkError":{
-"files": [625,
-393],
+"files": [
+[627, [203]],
+[397, [124]]
+],
 "memberKind": "Property"
 }
 ,
 "RegisteredDataClass":{
-"files": [393],
+"files": [
+[397, [131]]
+],
 "memberKind": "Property"
 }
 ,
 "RegisteredProviderId":{
-"files": [393],
+"files": [
+[397, [129]]
+],
 "memberKind": "Property"
 }
 ,
 "RegisteredProviderName":{
-"files": [393],
+"files": [
+[397, [130]]
+],
 "memberKind": "Property"
 }
 ,
 "RegistrationNetworkError":{
-"files": [625,
-393],
+"files": [
+[627, [202]],
+[397, [123]]
+],
 "memberKind": "Property"
 }
 ,
 "ShowConnectionUI`0":{
-"files": [623],
+"files": [
+[625, [63]]
+],
 "memberKind": "Method"
 }
 }
@@ -21570,7 +27840,9 @@ var contents = {
 "MobileBroadbandPinManager":{
 "members": {
 "SupportedPins":{
-"files": [395],
+"files": [
+[399, [71]]
+],
 "memberKind": "Property"
 }
 }
@@ -21579,7 +27851,9 @@ var contents = {
 "MobileBroadbandRadioState":{
 "members": {
 "ToString`0":{
-"files": [395],
+"files": [
+[399, [59]]
+],
 "memberKind": "Method"
 }
 }
@@ -21588,12 +27862,16 @@ var contents = {
 "MobileBroadbandUicc":{
 "members": {
 "GetUiccAppsAsync`0":{
-"files": [627],
+"files": [
+[629, [61]]
+],
 "memberKind": "Method"
 }
 ,
 "SimIccId":{
-"files": [627],
+"files": [
+[629, [58]]
+],
 "memberKind": "Property"
 }
 }
@@ -21602,17 +27880,23 @@ var contents = {
 "MobileBroadbandUiccApp":{
 "members": {
 "GetRecordDetailsAsync`1":{
-"files": [627],
+"files": [
+[629, [118]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [627],
+"files": [
+[629, [97]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadRecordAsync`2":{
-"files": [627],
+"files": [
+[629, [125]]
+],
 "memberKind": "Method"
 }
 }
@@ -21621,12 +27905,16 @@ var contents = {
 "MobileBroadbandUiccAppOperationStatus":{
 "members": {
 "Success":{
-"files": [627],
+"files": [
+[629, [128]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [627],
+"files": [
+[629, [126]]
+],
 "memberKind": "Method"
 }
 }
@@ -21635,12 +27923,16 @@ var contents = {
 "MobileBroadbandUiccAppReadRecordResult":{
 "members": {
 "Data":{
-"files": [627],
+"files": [
+[629, [131]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [627],
+"files": [
+[629, [126,128]]
+],
 "memberKind": "Property"
 }
 }
@@ -21649,12 +27941,16 @@ var contents = {
 "MobileBroadbandUiccAppRecordDetailsResult":{
 "members": {
 "Kind":{
-"files": [627],
+"files": [
+[629, [121]]
+],
 "memberKind": "Property"
 }
 ,
 "RecordSize":{
-"files": [627],
+"files": [
+[629, [122]]
+],
 "memberKind": "Property"
 }
 }
@@ -21663,7 +27959,9 @@ var contents = {
 "MobileBroadbandUiccAppsResult":{
 "members": {
 "UiccApps":{
-"files": [627],
+"files": [
+[629, [63]]
+],
 "memberKind": "Property"
 }
 }
@@ -21672,14 +27970,18 @@ var contents = {
 "NetworkDeviceStatus":{
 "members": {
 "Text":{
-"files": [393],
+"files": [
+[397, [171,208,238]]
+],
 "memberKind": "?"
 }
 ,
 "ToString`0":{
-"files": [625,
-393,
-395],
+"files": [
+[627, [185]],
+[397, [171]],
+[399, [68]]
+],
 "memberKind": "Method"
 }
 }
@@ -21688,8 +27990,10 @@ var contents = {
 "NetworkRegistrationState":{
 "members": {
 "ToString`0":{
-"files": [625,
-393],
+"files": [
+[627, [201]],
+[397, [122]]
+],
 "memberKind": "Method"
 }
 }
@@ -21698,7 +28002,9 @@ var contents = {
 "UiccAppRecordKind":{
 "members": {
 "ToString`0":{
-"files": [627],
+"files": [
+[629, [121]]
+],
 "memberKind": "Method"
 }
 }
@@ -21707,17 +28013,23 @@ var contents = {
 "UssdMessage":{
 "members": {
 ":ctor`1":{
-"files": [624],
+"files": [
+[626, [73]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DataCodingScheme":{
-"files": [624],
+"files": [
+[626, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "PayloadAsText":{
-"files": [624],
+"files": [
+[626, [82]]
+],
 "memberKind": "Property"
 }
 }
@@ -21726,12 +28038,16 @@ var contents = {
 "UssdReply":{
 "members": {
 "Message":{
-"files": [624],
+"files": [
+[626, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "ResultCode":{
-"files": [624],
+"files": [
+[626, [76]]
+],
 "memberKind": "Property"
 }
 }
@@ -21740,17 +28056,23 @@ var contents = {
 "UssdResultCode":{
 "members": {
 "ActionRequired":{
-"files": [624],
+"files": [
+[626, [77,103]]
+],
 "memberKind": "Field"
 }
 ,
 "NoActionRequired":{
-"files": [624],
+"files": [
+[626, [77]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [624],
+"files": [
+[626, [101]]
+],
 "memberKind": "Method"
 }
 }
@@ -21759,17 +28081,23 @@ var contents = {
 "UssdSession":{
 "members": {
 "Close`0":{
-"files": [624],
+"files": [
+[626, [105]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromNetworkAccountId`1":{
-"files": [624],
+"files": [
+[626, [69]]
+],
 "memberKind": "Method"
 }
 ,
 "SendMessageAndGetReplyAsync`1":{
-"files": [624],
+"files": [
+[626, [73]]
+],
 "memberKind": "Method"
 }
 }
@@ -21782,22 +28110,30 @@ var contents = {
 "ProximityDevice":{
 "members": {
 "GetDefault`0":{
-"files": [628],
+"files": [
+[630, [143]]
+],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
-"files": [259],
+"files": [
+[261, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "MaxMessageBytes":{
-"files": [628],
+"files": [
+[630, [200]]
+],
 "memberKind": "Property"
 }
 ,
 "PublishBinaryMessage`3":{
-"files": [628],
+"files": [
+[630, [167]]
+],
 "memberKind": "Method"
 }
 }
@@ -21810,82 +28146,108 @@ var contents = {
 "DatagramSocket":{
 "members": {
 ":ctor`0":{
-"files": [118,
-119,
-620,
-310],
+"files": [
+[120, [88]],
+[121, [93]],
+[622, [129]],
+[312, [788,846]]
+],
 "memberKind": "Constructor"
 }
 ,
 "BindEndpointAsync`2":{
-"files": [118,
-310],
+"files": [
+[120, [145]],
+[312, [795]]
+],
 "memberKind": "Method"
 }
 ,
 "BindServiceNameAsync`1":{
-"files": [118,
-620],
+"files": [
+[120, [139]],
+[622, [153]]
+],
 "memberKind": "Method"
 }
 ,
 "BindServiceNameAsync`2":{
-"files": [118],
+"files": [
+[120, [156]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`1":{
-"files": [310],
+"files": [
+[312, [850]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`2":{
-"files": [119],
+"files": [
+[121, [113]]
+],
 "memberKind": "Method"
 }
 ,
 "Control":{
-"files": [118,
-119,
-620],
+"files": [
+[120, [106]],
+[121, [100]],
+[622, [147]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [121,
-620,
-310],
+"files": [
+[123, [77,88]],
+[622, [49,177]],
+[312, [1283]]
+],
 "memberKind": "Method"
 }
 ,
 "GetOutputStreamAsync`2":{
-"files": [118,
-620],
+"files": [
+[120, [196]],
+[622, [209]]
+],
 "memberKind": "Method"
 }
 ,
 "Information":{
-"files": [620,
-310],
+"files": [
+[622, [161,167]],
+[312, [1114]]
+],
 "memberKind": "Property"
 }
 ,
 "JoinMulticastGroup`1":{
-"files": [620],
+"files": [
+[622, [158]]
+],
 "memberKind": "Method"
 }
 ,
 "MessageReceived":{
-"files": [118,
-119,
-620,
-310],
+"files": [
+[120, [89]],
+[121, [103]],
+[622, [130]],
+[312, [1071,1284]]
+],
 "memberKind": "?"
 }
 ,
 "OutputStream":{
-"files": [120,
-310],
+"files": [
+[122, [75]],
+[312, [1072]]
+],
 "memberKind": "Property"
 }
 }
@@ -21894,17 +28256,23 @@ var contents = {
 "DatagramSocketControl":{
 "members": {
 "DontFragment":{
-"files": [119],
+"files": [
+[121, [100]]
+],
 "memberKind": "Property"
 }
 ,
 "InboundBufferSizeInBytes":{
-"files": [118],
+"files": [
+[120, [106]]
+],
 "memberKind": "Property"
 }
 ,
 "MulticastOnly":{
-"files": [620],
+"files": [
+[622, [147]]
+],
 "memberKind": "Property"
 }
 }
@@ -21913,8 +28281,10 @@ var contents = {
 "DatagramSocketInformation":{
 "members": {
 "LocalPort":{
-"files": [620,
-310],
+"files": [
+[622, [161,167]],
+[312, [1114]]
+],
 "memberKind": "Property"
 }
 }
@@ -21923,22 +28293,28 @@ var contents = {
 "DatagramSocketMessageReceivedEventArgs":{
 "members": {
 "GetDataReader`0":{
-"files": [118,
-119,
-620,
-310],
+"files": [
+[120, [254]],
+[121, [138,139]],
+[622, [260,261]],
+[312, [1241]]
+],
 "memberKind": "Method"
 }
 ,
 "RemoteAddress":{
-"files": [118,
-620],
+"files": [
+[120, [197,211,237,246]],
+[622, [265]]
+],
 "memberKind": "Property"
 }
 ,
 "RemotePort":{
-"files": [118,
-620],
+"files": [
+[120, [198,211,237,247]],
+[622, [267]]
+],
 "memberKind": "Property"
 }
 }
@@ -21947,42 +28323,58 @@ var contents = {
 "MessageWebSocket":{
 "members": {
 ":ctor`0":{
-"files": [629],
+"files": [
+[631, [78]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Close`2":{
-"files": [629],
+"files": [
+[631, [180]]
+],
 "memberKind": "Method"
 }
 ,
 "Closed":{
-"files": [629],
+"files": [
+[631, [83]]
+],
 "memberKind": "?"
 }
 ,
 "ConnectAsync`1":{
-"files": [629],
+"files": [
+[631, [88]]
+],
 "memberKind": "Method"
 }
 ,
 "Control":{
-"files": [629],
+"files": [
+[631, [79]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [629],
+"files": [
+[631, [115,213]]
+],
 "memberKind": "Method"
 }
 ,
 "MessageReceived":{
-"files": [629],
+"files": [
+[631, [80]]
+],
 "memberKind": "?"
 }
 ,
 "OutputStream":{
-"files": [629],
+"files": [
+[631, [89]]
+],
 "memberKind": "Property"
 }
 }
@@ -21991,7 +28383,9 @@ var contents = {
 "MessageWebSocketControl":{
 "members": {
 "MessageType":{
-"files": [629],
+"files": [
+[631, [79]]
+],
 "memberKind": "?"
 }
 }
@@ -22000,12 +28394,16 @@ var contents = {
 "MessageWebSocketMessageReceivedEventArgs":{
 "members": {
 "GetDataReader`0":{
-"files": [629],
+"files": [
+[631, [147]]
+],
 "memberKind": "Method"
 }
 ,
 "MessageType":{
-"files": [629],
+"files": [
+[631, [146]]
+],
 "memberKind": "Property"
 }
 }
@@ -22014,8 +28412,10 @@ var contents = {
 "SocketActivityConnectedStandbyAction":{
 "members": {
 "Wake":{
-"files": [91,
-76],
+"files": [
+[91, [59]],
+[76, [95]]
+],
 "memberKind": "Field"
 }
 }
@@ -22024,18 +28424,24 @@ var contents = {
 "SocketActivityInformation":{
 "members": {
 "AllSockets":{
-"files": [76],
+"files": [
+[76, [65,92]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [91],
+"files": [
+[91, [46,55]]
+],
 "memberKind": "Property"
 }
 ,
 "StreamSocket":{
-"files": [91,
-76],
+"files": [
+[91, [40,49]],
+[76, [69]]
+],
 "memberKind": "Property"
 }
 }
@@ -22044,12 +28450,16 @@ var contents = {
 "SocketActivityTriggerDetails":{
 "members": {
 "Reason":{
-"files": [91],
+"files": [
+[91, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "SocketInformation":{
-"files": [91],
+"files": [
+[91, [36]]
+],
 "memberKind": "Property"
 }
 }
@@ -22058,17 +28468,23 @@ var contents = {
 "SocketActivityTriggerReason":{
 "members": {
 "KeepAliveTimerExpired":{
-"files": [91],
+"files": [
+[91, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "SocketActivity":{
-"files": [91],
+"files": [
+[91, [39]]
+],
 "memberKind": "Field"
 }
 ,
 "SocketClosed":{
-"files": [91],
+"files": [
+[91, [57]]
+],
 "memberKind": "Field"
 }
 }
@@ -22077,14 +28493,16 @@ var contents = {
 "SocketError":{
 "members": {
 "GetStatus`1":{
-"files": [118,
-119,
-120,
-620,
-122,
-123,
-124,
-622],
+"files": [
+[120, [168,221,259]],
+[121, [124,148]],
+[122, [96]],
+[622, [181,224,273,275]],
+[124, [160,212]],
+[125, [150]],
+[126, [98]],
+[624, [119]]
+],
 "memberKind": "Method"
 }
 }
@@ -22093,24 +28511,30 @@ var contents = {
 "SocketErrorStatus":{
 "members": {
 "ConnectionResetByPeer":{
-"files": [119],
+"files": [
+[121, [149]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [119],
+"files": [
+[121, [161]]
+],
 "memberKind": "Method"
 }
 ,
 "Unknown":{
-"files": [118,
-119,
-120,
-620,
-122,
-123,
-124,
-622],
+"files": [
+[120, [168,221,259]],
+[121, [124,158]],
+[122, [96]],
+[622, [181,224,275]],
+[124, [160,212]],
+[125, [150]],
+[126, [98]],
+[624, [119]]
+],
 "memberKind": "Field"
 }
 }
@@ -22119,7 +28543,9 @@ var contents = {
 "SocketMessageType":{
 "members": {
 "Utf8":{
-"files": [629],
+"files": [
+[631, [79]]
+],
 "memberKind": "Field"
 }
 }
@@ -22128,13 +28554,17 @@ var contents = {
 "SocketProtectionLevel":{
 "members": {
 "PlainSocket":{
-"files": [122,
-123],
+"files": [
+[124, [147]],
+[125, [135]]
+],
 "memberKind": "Field"
 }
 ,
 "Tls12":{
-"files": [622],
+"files": [
+[624, [105]]
+],
 "memberKind": "Field"
 }
 }
@@ -22143,7 +28573,9 @@ var contents = {
 "SocketSslErrorSeverity":{
 "members": {
 "Ignorable":{
-"files": [622],
+"files": [
+[624, [126]]
+],
 "memberKind": "Field"
 }
 }
@@ -22152,90 +28584,116 @@ var contents = {
 "StreamSocket":{
 "members": {
 ":ctor`0":{
-"files": [91,
-76,
-123,
-622,
-289,
-310],
+"files": [
+[91, [58]],
+[76, [94]],
+[125, [103]],
+[624, [85]],
+[291, [281]],
+[312, [834]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CancelIOAsync`0":{
-"files": [76],
+"files": [
+[76, [107]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`1":{
-"files": [310],
+"files": [
+[312, [838]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`2":{
-"files": [91,
-76,
-123,
-289],
+"files": [
+[91, [66]],
+[76, [97]],
+[125, [118]],
+[291, [282]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`3":{
-"files": [622],
+"files": [
+[624, [105]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`4":{
-"files": [123],
+"files": [
+[125, [132]]
+],
 "memberKind": "Method"
 }
 ,
 "Control":{
-"files": [123,
-622],
+"files": [
+[125, [107]],
+[624, [89,140,143]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [630,
-125,
-311,
-310],
+"files": [
+[632, [45]],
+[127, [77]],
+[313, [57]],
+[312, [1278]]
+],
 "memberKind": "Method"
 }
 ,
 "EnableTransferOwnership`2":{
-"files": [91,
-76],
+"files": [
+[91, [59]],
+[76, [95]]
+],
 "memberKind": "Method"
 }
 ,
 "Information":{
-"files": [622,
-310],
+"files": [
+[624, [108,109,126,134,141]],
+[312, [1110]]
+],
 "memberKind": "Property"
 }
 ,
 "InputStream":{
-"files": [91,
-76,
-122,
-311,
-310],
+"files": [
+[91, [41]],
+[76, [100]],
+[124, [180]],
+[313, [40]],
+[312, [1066]]
+],
 "memberKind": "Property"
 }
 ,
 "OutputStream":{
-"files": [630,
-91,
-124,
-311,
-310],
+"files": [
+[632, [70]],
+[91, [50]],
+[126, [75]],
+[313, [44]],
+[312, [1067]]
+],
 "memberKind": "Property"
 }
 ,
 "TransferOwnership`1":{
-"files": [91,
-76],
+"files": [
+[91, [46,55,67]],
+[76, [70,108]]
+],
 "memberKind": "Method"
 }
 }
@@ -22244,17 +28702,23 @@ var contents = {
 "StreamSocketControl":{
 "members": {
 "ClientCertificate":{
-"files": [622],
+"files": [
+[624, [89]]
+],
 "memberKind": "?"
 }
 ,
 "IgnorableServerCertificateErrors":{
-"files": [622],
+"files": [
+[624, [140,143]]
+],
 "memberKind": "Property"
 }
 ,
 "KeepAlive":{
-"files": [123],
+"files": [
+[125, [107]]
+],
 "memberKind": "Property"
 }
 }
@@ -22263,27 +28727,37 @@ var contents = {
 "StreamSocketInformation":{
 "members": {
 "LocalPort":{
-"files": [310],
+"files": [
+[312, [1110]]
+],
 "memberKind": "Property"
 }
 ,
 "ServerCertificate":{
-"files": [622],
+"files": [
+[624, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "ServerCertificateErrors":{
-"files": [622],
+"files": [
+[624, [134,141]]
+],
 "memberKind": "Property"
 }
 ,
 "ServerCertificateErrorSeverity":{
-"files": [622],
+"files": [
+[624, [126]]
+],
 "memberKind": "Property"
 }
 ,
 "ServerIntermediateCertificates":{
-"files": [622],
+"files": [
+[624, [109]]
+],
 "memberKind": "Property"
 }
 }
@@ -22292,52 +28766,68 @@ var contents = {
 "StreamSocketListener":{
 "members": {
 ":ctor`0":{
-"files": [630,
-122,
-308,
-310],
+"files": [
+[632, [61]],
+[124, [107]],
+[310, [234]],
+[312, [763]]
+],
 "memberKind": "Constructor"
 }
 ,
 "BindEndpointAsync`2":{
-"files": [630,
-122,
-308,
-310],
+"files": [
+[632, [63]],
+[124, [131]],
+[310, [236]],
+[312, [772]]
+],
 "memberKind": "Method"
 }
 ,
 "BindServiceNameAsync`1":{
-"files": [122],
+"files": [
+[124, [125]]
+],
 "memberKind": "Method"
 }
 ,
 "BindServiceNameAsync`3":{
-"files": [122],
+"files": [
+[124, [145]]
+],
 "memberKind": "Method"
 }
 ,
 "ConnectionReceived":{
-"files": [630,
-122,
-308,
-310],
+"files": [
+[632, [62]],
+[124, [108]],
+[310, [235]],
+[312, [978,1013]]
+],
 "memberKind": "?"
 }
 ,
 "Control":{
-"files": [122],
+"files": [
+[124, [114]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [125,
-310],
+"files": [
+[127, [88]],
+[312, [1018]]
+],
 "memberKind": "Method"
 }
 ,
 "Information":{
-"files": [310],
+"files": [
+[312, [983]]
+],
 "memberKind": "Property"
 }
 }
@@ -22346,10 +28836,12 @@ var contents = {
 "StreamSocketListenerConnectionReceivedEventArgs":{
 "members": {
 "Socket":{
-"files": [630,
-122,
-308,
-310],
+"files": [
+[632, [48]],
+[124, [180]],
+[310, [263]],
+[312, [985]]
+],
 "memberKind": "Property"
 }
 }
@@ -22358,7 +28850,9 @@ var contents = {
 "StreamSocketListenerControl":{
 "members": {
 "KeepAlive":{
-"files": [122],
+"files": [
+[124, [114]]
+],
 "memberKind": "Property"
 }
 }
@@ -22367,7 +28861,9 @@ var contents = {
 "StreamSocketListenerInformation":{
 "members": {
 "LocalPort":{
-"files": [310],
+"files": [
+[312, [983]]
+],
 "memberKind": "Property"
 }
 }
@@ -22376,37 +28872,51 @@ var contents = {
 "StreamWebSocket":{
 "members": {
 ":ctor`0":{
-"files": [631],
+"files": [
+[633, [79]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Close`2":{
-"files": [631],
+"files": [
+[633, [237]]
+],
 "memberKind": "Method"
 }
 ,
 "Closed":{
-"files": [631],
+"files": [
+[633, [82]]
+],
 "memberKind": "?"
 }
 ,
 "ConnectAsync`1":{
-"files": [631],
+"files": [
+[633, [87]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [631],
+"files": [
+[633, [105,270]]
+],
 "memberKind": "Method"
 }
 ,
 "InputStream":{
-"files": [631],
+"files": [
+[633, [93]]
+],
 "memberKind": "Property"
 }
 ,
 "OutputStream":{
-"files": [631],
+"files": [
+[633, [97]]
+],
 "memberKind": "Property"
 }
 }
@@ -22415,14 +28925,18 @@ var contents = {
 "WebSocketClosedEventArgs":{
 "members": {
 "Code":{
-"files": [629,
-631],
+"files": [
+[631, [209]],
+[633, [266]]
+],
 "memberKind": "Property"
 }
 ,
 "Reason":{
-"files": [629,
-631],
+"files": [
+[631, [209]],
+[633, [266]]
+],
 "memberKind": "Property"
 }
 }
@@ -22431,8 +28945,10 @@ var contents = {
 "WebSocketError":{
 "members": {
 "GetStatus`1":{
-"files": [629,
-631],
+"files": [
+[631, [119,157,190]],
+[633, [109,166,211,247]]
+],
 "memberKind": "Method"
 }
 }
@@ -22451,8 +28967,35 @@ var contents = {
 "BackPressedEventArgs":{
 "members": {
 "Handled":{
-"files": [468,
-472],
+"files": [
+[15, [23]],
+[470, [88]],
+[474, [106]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"HardwareButtons":{
+"members": {
+"BackPressed":{
+"files": [
+[15, [38]],
+[470, [42]],
+[474, [52]],
+[476, [87,106]],
+[477, [70]]
+],
+"memberKind": "?"
+}
+,
+"CameraPressed":{
+"files": [
+[191, [684,707]],
+[193, [734,757]],
+[194, [591,614]]
+],
 "memberKind": "?"
 }
 }
@@ -22475,37 +29018,47 @@ var contents = {
 "WebAuthenticationCoreManager":{
 "members": {
 "FindAccountAsync`2":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [113]],
+[433, [156]],
+[434, [130,230]],
+[435, [131,229]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAccountProviderAsync`1":{
-"files": [633],
+"files": [
+[635, [98]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAccountProviderAsync`2":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [150]],
+[433, [184]],
+[434, [119,127,228]],
+[435, [120,128,227]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTokenSilentlyAsync`2":{
-"files": [633],
+"files": [
+[635, [187]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestTokenAsync`1":{
-"files": [633,
-632,
-430,
-431,
-432],
+"files": [
+[635, [152]],
+[634, [247]],
+[433, [232]],
+[434, [190]],
+[435, [189]]
+],
 "memberKind": "Method"
 }
 }
@@ -22514,8 +29067,10 @@ var contents = {
 "WebProviderError":{
 "members": {
 "ErrorMessage":{
-"files": [633,
-430],
+"files": [
+[635, [199,211]],
+[433, [279]]
+],
 "memberKind": "Property"
 }
 }
@@ -22524,19 +29079,23 @@ var contents = {
 "WebTokenRequest":{
 "members": {
 ":ctor`3":{
-"files": [633,
-632,
-430,
-431,
-432],
+"files": [
+[635, [141,179]],
+[634, [236]],
+[433, [221]],
+[434, [181]],
+[435, [183]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Properties":{
-"files": [633,
-632,
-430,
-431],
+"files": [
+[635, [146,184]],
+[634, [241]],
+[433, [226]],
+[434, [183]]
+],
 "memberKind": "Property"
 }
 }
@@ -22545,29 +29104,35 @@ var contents = {
 "WebTokenRequestResult":{
 "members": {
 "ResponseData":{
-"files": [633,
-632,
-430,
-431,
-432],
+"files": [
+[635, [156,191,207]],
+[634, [251,282]],
+[433, [236,275]],
+[434, [200,215]],
+[435, [199,214]]
+],
 "memberKind": "Property"
 }
 ,
 "ResponseError":{
-"files": [633,
-632,
-430,
-431,
-432],
+"files": [
+[635, [199,211]],
+[634, [286]],
+[433, [279]],
+[434, [220]],
+[435, [219]]
+],
 "memberKind": "Property"
 }
 ,
 "ResponseStatus":{
-"files": [633,
-632,
-430,
-431,
-432],
+"files": [
+[635, [154,189,193,199,205,211]],
+[634, [249,280]],
+[433, [234,273,279]],
+[434, [196,213]],
+[435, [195,212]]
+],
 "memberKind": "Property"
 }
 }
@@ -22576,16 +29141,20 @@ var contents = {
 "WebTokenRequestStatus":{
 "members": {
 "Success":{
-"files": [633,
-632,
-430,
-431,
-432],
+"files": [
+[635, [154,189,205]],
+[634, [249,280]],
+[433, [234,273]],
+[434, [196,213]],
+[435, [195,212]]
+],
 "memberKind": "Field"
 }
 ,
 "UserInteractionRequired":{
-"files": [633],
+"files": [
+[635, [193]]
+],
 "memberKind": "Field"
 }
 }
@@ -22596,10 +29165,12 @@ var contents = {
 "WebAuthenticationBroker":{
 "members": {
 "AuthenticateAsync`3":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [57]],
+[636, [77]],
+[637, [130]],
+[638, [44]]
+],
 "memberKind": "Method"
 }
 }
@@ -22608,14 +29179,18 @@ var contents = {
 "WebAuthenticationOptions":{
 "members": {
 "None":{
-"files": [210,
-634,
-635],
+"files": [
+[212, [57]],
+[636, [77]],
+[637, [131]]
+],
 "memberKind": "Field"
 }
 ,
 "UseTitle":{
-"files": [636],
+"files": [
+[638, [44]]
+],
 "memberKind": "Field"
 }
 }
@@ -22624,26 +29199,32 @@ var contents = {
 "WebAuthenticationResult":{
 "members": {
 "ResponseData":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [60,61]],
+[636, [80,81]],
+[637, [136]],
+[638, [47]]
+],
 "memberKind": "Property"
 }
 ,
 "ResponseErrorDetail":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [65]],
+[636, [85]],
+[637, [140]],
+[638, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "ResponseStatus":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [58,63,69]],
+[636, [78,83,89]],
+[637, [134,138,144]],
+[638, [45,49,55]]
+],
 "memberKind": "Property"
 }
 }
@@ -22652,26 +29233,32 @@ var contents = {
 "WebAuthenticationStatus":{
 "members": {
 "ErrorHttp":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [63]],
+[636, [83]],
+[637, [138]],
+[638, [49]]
+],
 "memberKind": "Field"
 }
 ,
 "Success":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [58]],
+[636, [78]],
+[637, [134]],
+[638, [45]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [210,
-634,
-635,
-636],
+"files": [
+[212, [69]],
+[636, [89]],
+[637, [144]],
+[638, [55]]
+],
 "memberKind": "Method"
 }
 }
@@ -22686,18 +29273,24 @@ var contents = {
 "KeyCredential":{
 "members": {
 "GetAttestationAsync`0":{
-"files": [637],
+"files": [
+[639, [340]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestSignAsync`1":{
-"files": [637],
+"files": [
+[639, [416]]
+],
 "memberKind": "Method"
 }
 ,
 "RetrievePublicKey`0":{
-"files": [638,
-637],
+"files": [
+[640, [63]],
+[639, [339,414]]
+],
 "memberKind": "Method"
 }
 }
@@ -22706,17 +29299,23 @@ var contents = {
 "KeyCredentialAttestationResult":{
 "members": {
 "AttestationBuffer":{
-"files": [637],
+"files": [
+[639, [351]]
+],
 "memberKind": "Property"
 }
 ,
 "CertificateChainBuffer":{
-"files": [637],
+"files": [
+[639, [352]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [637],
+"files": [
+[639, [348,355,361]]
+],
 "memberKind": "Property"
 }
 }
@@ -22725,17 +29324,23 @@ var contents = {
 "KeyCredentialAttestationStatus":{
 "members": {
 "NotSupported":{
-"files": [637],
+"files": [
+[639, [361,363]]
+],
 "memberKind": "Field"
 }
 ,
 "Success":{
-"files": [637],
+"files": [
+[639, [348]]
+],
 "memberKind": "Field"
 }
 ,
 "TemporaryFailure":{
-"files": [637],
+"files": [
+[639, [355,357]]
+],
 "memberKind": "Field"
 }
 }
@@ -22744,7 +29349,9 @@ var contents = {
 "KeyCredentialCreationOption":{
 "members": {
 "ReplaceExisting":{
-"files": [637],
+"files": [
+[639, [332]]
+],
 "memberKind": "Field"
 }
 }
@@ -22753,23 +29360,31 @@ var contents = {
 "KeyCredentialManager":{
 "members": {
 "DeleteAsync`1":{
-"files": [638],
+"files": [
+[640, [69]]
+],
 "memberKind": "Method"
 }
 ,
 "IsSupportedAsync`0":{
-"files": [637],
+"files": [
+[639, [128]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenAsync`1":{
-"files": [638,
-637],
+"files": [
+[640, [58]],
+[639, [409]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestCreateAsync`2":{
-"files": [637],
+"files": [
+[639, [332]]
+],
 "memberKind": "Method"
 }
 }
@@ -22778,12 +29393,16 @@ var contents = {
 "KeyCredentialOperationResult":{
 "members": {
 "Result":{
-"files": [637],
+"files": [
+[639, [420]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [637],
+"files": [
+[639, [418,422,429,433,437]]
+],
 "memberKind": "Property"
 }
 }
@@ -22792,14 +29411,18 @@ var contents = {
 "KeyCredentialRetrievalResult":{
 "members": {
 "Credential":{
-"files": [638,
-637],
+"files": [
+[640, [62]],
+[639, [338,413]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [638,
-637],
+"files": [
+[640, [60]],
+[639, [334,380,384,395,411,444]]
+],
 "memberKind": "Property"
 }
 }
@@ -22808,33 +29431,45 @@ var contents = {
 "KeyCredentialStatus":{
 "members": {
 "NotFound":{
-"files": [637],
+"files": [
+[639, [384,429,444]]
+],
 "memberKind": "Field"
 }
 ,
 "SecurityDeviceLocked":{
-"files": [637],
+"files": [
+[639, [433]]
+],
 "memberKind": "Field"
 }
 ,
 "Success":{
-"files": [638,
-637],
+"files": [
+[640, [60]],
+[639, [334,411,418]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [637],
+"files": [
+[639, [395]]
+],
 "memberKind": "Method"
 }
 ,
 "UnknownError":{
-"files": [637],
+"files": [
+[639, [437]]
+],
 "memberKind": "Field"
 }
 ,
 "UserCanceled":{
-"files": [637],
+"files": [
+[639, [380,422]]
+],
 "memberKind": "Field"
 }
 }
@@ -22843,41 +29478,53 @@ var contents = {
 "PasswordCredential":{
 "members": {
 ":ctor`0":{
-"files": [255,
-304],
+"files": [
+[257, [656]],
+[306, [193]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [639],
+"files": [
+[641, [45]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Password":{
-"files": [247,
-255,
-254,
-256,
-639,
-640,
-304],
+"files": [
+[249, [281]],
+[257, [657,734]],
+[256, [249]],
+[258, [263]],
+[641, [48]],
+[642, [122]],
+[306, [201]]
+],
 "memberKind": "Property"
 }
 ,
 "Resource":{
-"files": [639,
-640],
+"files": [
+[641, [48]],
+[642, [97,122,131]]
+],
 "memberKind": "Property"
 }
 ,
 "RetrievePassword`0":{
-"files": [640],
+"files": [
+[642, [121]]
+],
 "memberKind": "Method"
 }
 ,
 "UserName":{
-"files": [639,
-640],
+"files": [
+[641, [48]],
+[642, [97,122,131]]
+],
 "memberKind": "Property"
 }
 }
@@ -22886,40 +29533,54 @@ var contents = {
 "PasswordVault":{
 "members": {
 ":ctor`0":{
-"files": [641,
-639,
-640],
+"files": [
+[643, [39]],
+[641, [44]],
+[642, [41,148]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`1":{
-"files": [639],
+"files": [
+[641, [46]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAllByResource`1":{
-"files": [640],
+"files": [
+[642, [57]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAllByUserName`1":{
-"files": [640],
+"files": [
+[642, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "Remove`1":{
-"files": [640],
+"files": [
+[642, [163]]
+],
 "memberKind": "Method"
 }
 ,
 "Retrieve`2":{
-"files": [640],
+"files": [
+[642, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "RetrieveAll`0":{
-"files": [641,
-640],
+"files": [
+[643, [40]],
+[642, [52]]
+],
 "memberKind": "Method"
 }
 }
@@ -22930,37 +29591,51 @@ var contents = {
 "AuthenticationProtocol":{
 "members": {
 "Basic":{
-"files": [642],
+"files": [
+[644, [113]]
+],
 "memberKind": "Field"
 }
 ,
 "CredSsp":{
-"files": [642],
+"files": [
+[644, [109]]
+],
 "memberKind": "Field"
 }
 ,
 "Custom":{
-"files": [642],
+"files": [
+[644, [123]]
+],
 "memberKind": "Field"
 }
 ,
 "Digest":{
-"files": [642],
+"files": [
+[644, [117]]
+],
 "memberKind": "Field"
 }
 ,
 "Kerberos":{
-"files": [642],
+"files": [
+[644, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "Negotiate":{
-"files": [642],
+"files": [
+[644, [90,101]]
+],
 "memberKind": "Field"
 }
 ,
 "Ntlm":{
-"files": [642],
+"files": [
+[644, [105]]
+],
 "memberKind": "Field"
 }
 }
@@ -22969,17 +29644,23 @@ var contents = {
 "CredentialPicker":{
 "members": {
 "PickAsync`1":{
-"files": [642],
+"files": [
+[644, [150]]
+],
 "memberKind": "Method"
 }
 ,
 "PickAsync`2":{
-"files": [643],
+"files": [
+[645, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "PickAsync`3":{
-"files": [644],
+"files": [
+[646, [66]]
+],
 "memberKind": "Method"
 }
 }
@@ -22988,42 +29669,58 @@ var contents = {
 "CredentialPickerOptions":{
 "members": {
 ":ctor`0":{
-"files": [642],
+"files": [
+[644, [82]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AlwaysDisplayDialog":{
-"files": [642],
+"files": [
+[644, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "AuthenticationProtocol":{
-"files": [642],
+"files": [
+[644, [90,97,101,105,109,113,117,123]]
+],
 "memberKind": "?"
 }
 ,
 "Caption":{
-"files": [642],
+"files": [
+[644, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "CredentialSaveOption":{
-"files": [642],
+"files": [
+[644, [138,142,146]]
+],
 "memberKind": "?"
 }
 ,
 "CustomAuthenticationProtocol":{
-"files": [642],
+"files": [
+[644, [124]]
+],
 "memberKind": "Property"
 }
 ,
 "Message":{
-"files": [642],
+"files": [
+[644, [83]]
+],
 "memberKind": "Property"
 }
 ,
 "TargetName":{
-"files": [642],
+"files": [
+[644, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -23032,44 +29729,56 @@ var contents = {
 "CredentialPickerResults":{
 "members": {
 "CredentialDomainName":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [41]],
+[646, [42]],
+[644, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "CredentialPassword":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [43]],
+[646, [44]],
+[644, [58]]
+],
 "memberKind": "Property"
 }
 ,
 "CredentialSaved":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [44]],
+[646, [45]],
+[644, [59]]
+],
 "memberKind": "Property"
 }
 ,
 "CredentialSaveOption":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [45]],
+[646, [46]],
+[644, [60]]
+],
 "memberKind": "Property"
 }
 ,
 "CredentialUserName":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [42]],
+[646, [43]],
+[644, [57]]
+],
 "memberKind": "Property"
 }
 ,
 "ErrorCode":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [33,39]],
+[646, [33,39]],
+[644, [47,53]]
+],
 "memberKind": "Property"
 }
 }
@@ -23078,23 +29787,29 @@ var contents = {
 "CredentialSaveOption":{
 "members": {
 "Hidden":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [47]],
+[646, [48]],
+[644, [62,138]]
+],
 "memberKind": "Field"
 }
 ,
 "Selected":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [50]],
+[646, [51]],
+[644, [65,142]]
+],
 "memberKind": "Field"
 }
 ,
 "Unselected":{
-"files": [643,
-644,
-642],
+"files": [
+[645, [53]],
+[646, [54]],
+[644, [68,146]]
+],
 "memberKind": "Field"
 }
 }
@@ -23103,37 +29818,51 @@ var contents = {
 "UserConsentVerificationResult":{
 "members": {
 "Canceled":{
-"files": [645],
+"files": [
+[647, [83]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceBusy":{
-"files": [645],
+"files": [
+[647, [54]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceNotPresent":{
-"files": [645],
+"files": [
+[647, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "DisabledByPolicy":{
-"files": [645],
+"files": [
+[647, [66]]
+],
 "memberKind": "Field"
 }
 ,
 "NotConfiguredForUser":{
-"files": [645],
+"files": [
+[647, [72]]
+],
 "memberKind": "Field"
 }
 ,
 "RetriesExhausted":{
-"files": [645],
+"files": [
+[647, [78]]
+],
 "memberKind": "Field"
 }
 ,
 "Verified":{
-"files": [645],
+"files": [
+[647, [48]]
+],
 "memberKind": "Field"
 }
 }
@@ -23142,12 +29871,16 @@ var contents = {
 "UserConsentVerifier":{
 "members": {
 "CheckAvailabilityAsync`0":{
-"files": [646],
+"files": [
+[648, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestVerificationAsync`1":{
-"files": [645],
+"files": [
+[647, [45]]
+],
 "memberKind": "Method"
 }
 }
@@ -23156,27 +29889,37 @@ var contents = {
 "UserConsentVerifierAvailability":{
 "members": {
 "Available":{
-"files": [646],
+"files": [
+[648, [46]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceBusy":{
-"files": [646],
+"files": [
+[648, [52]]
+],
 "memberKind": "Field"
 }
 ,
 "DeviceNotPresent":{
-"files": [646],
+"files": [
+[648, [58]]
+],
 "memberKind": "Field"
 }
 ,
 "DisabledByPolicy":{
-"files": [646],
+"files": [
+[648, [64]]
+],
 "memberKind": "Field"
 }
 ,
 "NotConfiguredForUser":{
-"files": [646],
+"files": [
+[648, [70]]
+],
 "memberKind": "Field"
 }
 }
@@ -23187,35 +29930,45 @@ var contents = {
 "WebAccount":{
 "members": {
 ":ctor`3":{
-"files": [632,
-430],
+"files": [
+[634, [109,228]],
+[433, [152,213]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Id":{
-"files": [633,
-632,
-430],
+"files": [
+[635, [162]],
+[634, [266,268,269,311,312]],
+[433, [249,251]]
+],
 "memberKind": "Property"
 }
 ,
 "SignOutAsync`0":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [309]],
+[433, [319]],
+[434, [234]],
+[435, [233]]
+],
 "memberKind": "Method"
 }
 ,
 "UserName":{
-"files": [632,
-430],
+"files": [
+[634, [273,299,317]],
+[433, [256]]
+],
 "memberKind": "Property"
 }
 ,
 "WebAccountProvider":{
-"files": [632,
-430],
+"files": [
+[634, [268,269,273,307]],
+[433, [260,261,263,313]]
+],
 "memberKind": "Property"
 }
 }
@@ -23224,22 +29977,28 @@ var contents = {
 "WebAccountProvider":{
 "members": {
 ":ctor`3":{
-"files": [632,
-430],
+"files": [
+[634, [146]],
+[433, [180]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Authority":{
-"files": [633,
-632,
-430],
+"files": [
+[635, [107,108,144,176,177,182]],
+[634, [215,220,239,269]],
+[433, [200,205,224,261,263]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [633,
-632,
-430],
+"files": [
+[635, [144]],
+[634, [215,220,224,239,268,273,307]],
+[433, [200,205,209,224,260,313]]
+],
 "memberKind": "Property"
 }
 }
@@ -23248,8 +30007,10 @@ var contents = {
 "WebAccountState":{
 "members": {
 "None":{
-"files": [632,
-430],
+"files": [
+[634, [109,228]],
+[433, [152,213]]
+],
 "memberKind": "Field"
 }
 }
@@ -23262,12 +30023,14 @@ var contents = {
 "BinaryStringEncoding":{
 "members": {
 "Utf8":{
-"files": [647,
-83,
-637,
-634,
-635,
-555],
+"files": [
+[649, [62,96]],
+[83, [91,100,167,196]],
+[639, [262]],
+[636, [241,244]],
+[637, [90,93]],
+[557, [26]]
+],
 "memberKind": "Field"
 }
 }
@@ -23278,27 +30041,37 @@ var contents = {
 "Certificate":{
 "members": {
 "FriendlyName":{
-"files": [622],
+"files": [
+[624, [193]]
+],
 "memberKind": "Property"
 }
 ,
 "Issuer":{
-"files": [622],
+"files": [
+[624, [195]]
+],
 "memberKind": "Property"
 }
 ,
 "Subject":{
-"files": [622],
+"files": [
+[624, [194]]
+],
 "memberKind": "Property"
 }
 ,
 "ValidFrom":{
-"files": [622],
+"files": [
+[624, [196]]
+],
 "memberKind": "Property"
 }
 ,
 "ValidTo":{
-"files": [622],
+"files": [
+[624, [196]]
+],
 "memberKind": "Property"
 }
 }
@@ -23307,12 +30080,16 @@ var contents = {
 "ChainValidationResult":{
 "members": {
 "InvalidName":{
-"files": [455],
+"files": [
+[457, [130]]
+],
 "memberKind": "Field"
 }
 ,
 "Untrusted":{
-"files": [455],
+"files": [
+[457, [129]]
+],
 "memberKind": "Field"
 }
 }
@@ -23325,13 +30102,17 @@ var contents = {
 "CryptographicEngine":{
 "members": {
 "Encrypt`3":{
-"files": [648],
+"files": [
+[650, [29]]
+],
 "memberKind": "Method"
 }
 ,
 "Sign`2":{
-"files": [634,
-635],
+"files": [
+[636, [245]],
+[637, [94]]
+],
 "memberKind": "Method"
 }
 }
@@ -23340,14 +30121,18 @@ var contents = {
 "MacAlgorithmProvider":{
 "members": {
 "CreateKey`1":{
-"files": [634,
-635],
+"files": [
+[636, [243]],
+[637, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenAlgorithm`1":{
-"files": [634,
-635],
+"files": [
+[636, [242]],
+[637, [91]]
+],
 "memberKind": "Method"
 }
 }
@@ -23356,7 +30141,9 @@ var contents = {
 "SymmetricAlgorithmNames":{
 "members": {
 "TripleDesCbc":{
-"files": [648],
+"files": [
+[650, [27]]
+],
 "memberKind": "Property"
 }
 }
@@ -23365,12 +30152,16 @@ var contents = {
 "SymmetricKeyAlgorithmProvider":{
 "members": {
 "CreateSymmetricKey`1":{
-"files": [648],
+"files": [
+[650, [28]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenAlgorithm`1":{
-"files": [648],
+"files": [
+[650, [27]]
+],
 "memberKind": "Method"
 }
 }
@@ -23381,53 +30172,67 @@ var contents = {
 "CryptographicBuffer":{
 "members": {
 "ConvertBinaryToString`2":{
-"files": [647,
-83,
-555],
+"files": [
+[649, [62]],
+[83, [100,196]],
+[557, [26]]
+],
 "memberKind": "Method"
 }
 ,
 "ConvertStringToBinary`2":{
-"files": [647,
-83,
-637,
-634,
-635],
+"files": [
+[649, [95]],
+[83, [91,166]],
+[639, [262]],
+[636, [241,244]],
+[637, [90,93]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromByteArray`1":{
-"files": [458,
-649,
-379],
+"files": [
+[460, [108]],
+[386, [65]],
+[381, [50]]
+],
 "memberKind": "Method"
 }
 ,
 "DecodeFromHexString`1":{
-"files": [555],
+"files": [
+[557, [24]]
+],
 "memberKind": "Method"
 }
 ,
 "EncodeToBase64String`1":{
-"files": [650,
-634,
-635],
+"files": [
+[651, [41]],
+[636, [246]],
+[637, [95]]
+],
 "memberKind": "Method"
 }
 ,
 "EncodeToHexString`1":{
-"files": [647,
-651,
-83,
-458,
-379],
+"files": [
+[649, [101]],
+[652, [67,112]],
+[83, [94]],
+[460, [110]],
+[381, [54]]
+],
 "memberKind": "Method"
 }
 ,
 "GenerateRandom`1":{
-"files": [650,
-381,
-383],
+"files": [
+[651, [40]],
+[383, [64]],
+[387, [38]]
+],
 "memberKind": "Method"
 }
 }
@@ -23438,12 +30243,16 @@ var contents = {
 "DataProtectionProvider":{
 "members": {
 ":ctor`1":{
-"files": [649],
+"files": [
+[386, [62]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ProtectAsync`1":{
-"files": [649],
+"files": [
+[386, [65]]
+],
 "memberKind": "Method"
 }
 }
@@ -23458,14 +30267,18 @@ var contents = {
 "BufferProtectUnprotectResult":{
 "members": {
 "Buffer":{
-"files": [647,
-83],
+"files": [
+[649, [61,98]],
+[83, [94,99,100,169]]
+],
 "memberKind": "Property"
 }
 ,
 "ProtectionInfo":{
-"files": [647,
-83],
+"files": [
+[649, [65,99]],
+[83, [93,184]]
+],
 "memberKind": "Property"
 }
 }
@@ -23474,9 +30287,11 @@ var contents = {
 "DataProtectionInfo":{
 "members": {
 "Status":{
-"files": [647,
-651,
-83],
+"files": [
+[649, [65,82,99]],
+[652, [82]],
+[83, [93,184]]
+],
 "memberKind": "Property"
 }
 }
@@ -23485,34 +30300,46 @@ var contents = {
 "DataProtectionManager":{
 "members": {
 "GetProtectionInfoAsync`1":{
-"files": [647],
+"files": [
+[649, [81]]
+],
 "memberKind": "Method"
 }
 ,
 "GetStreamProtectionInfoAsync`1":{
-"files": [651],
+"files": [
+[652, [81]]
+],
 "memberKind": "Method"
 }
 ,
 "ProtectAsync`2":{
-"files": [647,
-83],
+"files": [
+[649, [97]],
+[83, [92,168]]
+],
 "memberKind": "Method"
 }
 ,
 "ProtectStreamAsync`3":{
-"files": [651],
+"files": [
+[652, [107]]
+],
 "memberKind": "Method"
 }
 ,
 "UnprotectAsync`1":{
-"files": [647,
-83],
+"files": [
+[649, [60]],
+[83, [99,195]]
+],
 "memberKind": "Method"
 }
 ,
 "UnprotectStreamAsync`2":{
-"files": [651],
+"files": [
+[652, [60]]
+],
 "memberKind": "Method"
 }
 }
@@ -23521,13 +30348,17 @@ var contents = {
 "FileProtectionInfo":{
 "members": {
 "IsRoamable":{
-"files": [652],
+"files": [
+[653, [159]]
+],
 "memberKind": "Property"
 }
 ,
 "Status":{
-"files": [652,
-83],
+"files": [
+[653, [86,91,95,126,129,150,156]],
+[83, [127]]
+],
 "memberKind": "Property"
 }
 }
@@ -23536,22 +30367,30 @@ var contents = {
 "FileProtectionManager":{
 "members": {
 "CopyProtectionAsync`2":{
-"files": [652],
+"files": [
+[653, [117]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateProtectedAndOpenAsync`4":{
-"files": [83],
+"files": [
+[83, [124]]
+],
 "memberKind": "Method"
 }
 ,
 "GetProtectionInfoAsync`1":{
-"files": [652],
+"files": [
+[653, [85,90,124,125,149]]
+],
 "memberKind": "Method"
 }
 ,
 "ProtectAsync`2":{
-"files": [652],
+"files": [
+[653, [89]]
+],
 "memberKind": "Method"
 }
 }
@@ -23560,17 +30399,23 @@ var contents = {
 "FileProtectionStatus":{
 "members": {
 "Protected":{
-"files": [652],
+"files": [
+[653, [86]]
+],
 "memberKind": "Field"
 }
 ,
 "Revoked":{
-"files": [652],
+"files": [
+[653, [150]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [83],
+"files": [
+[83, [127]]
+],
 "memberKind": "Method"
 }
 }
@@ -23579,7 +30424,9 @@ var contents = {
 "ProtectedAccessSuspendingEventArgs":{
 "members": {
 "GetDeferral`0":{
-"files": [83],
+"files": [
+[83, [161]]
+],
 "memberKind": "Method"
 }
 }
@@ -23588,12 +30435,16 @@ var contents = {
 "ProtectedFileCreateResult":{
 "members": {
 "ProtectionInfo":{
-"files": [83],
+"files": [
+[83, [127]]
+],
 "memberKind": "Property"
 }
 ,
 "Stream":{
-"files": [83],
+"files": [
+[83, [131]]
+],
 "memberKind": "Property"
 }
 }
@@ -23602,15 +30453,19 @@ var contents = {
 "ProtectionPolicyEvaluationResult":{
 "members": {
 "Allowed":{
-"files": [131,
-132,
-133],
+"files": [
+[133, [55]],
+[134, [58]],
+[135, [53]]
+],
 "memberKind": "Field"
 }
 ,
 "Blocked":{
-"files": [149,
-132],
+"files": [
+[151, [79]],
+[134, [46]]
+],
 "memberKind": "Field"
 }
 }
@@ -23619,73 +30474,99 @@ var contents = {
 "ProtectionPolicyManager":{
 "members": {
 "CheckAccess`2":{
-"files": [132],
+"files": [
+[134, [51]]
+],
 "memberKind": "Method"
 }
 ,
 "ClearProcessUIPolicy`0":{
-"files": [653],
+"files": [
+[654, [59]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateCurrentThreadNetworkContext`1":{
-"files": [621],
+"files": [
+[623, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`0":{
-"files": [131,
-132,
-654,
-133],
+"files": [
+[133, [36]],
+[134, [50]],
+[655, [33,40]],
+[135, [36,57]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPrimaryManagedIdentityForNetworkEndpointAsync`1":{
-"files": [621],
+"files": [
+[623, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "Identity":{
-"files": [131,
-132,
-654,
-133],
+"files": [
+[133, [37]],
+[134, [52]],
+[655, [34,41]],
+[135, [37,57]]
+],
 "memberKind": "Property"
 }
 ,
 "IsIdentityManaged`1":{
-"files": [655],
+"files": [
+[656, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "ProtectedAccessResumed":{
-"files": [83],
+"files": [
+[83, [48]]
+],
 "memberKind": "?"
 }
 ,
 "ProtectedAccessSuspending":{
-"files": [83],
+"files": [
+[83, [47]]
+],
 "memberKind": "?"
 }
 ,
 "ProtectedContentRevoked":{
-"files": [656],
+"files": [
+[657, [47]]
+],
 "memberKind": "?"
 }
 ,
 "RequestAccessAsync`2":{
-"files": [149],
+"files": [
+[151, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "RevokeContent`1":{
-"files": [656],
+"files": [
+[657, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "TryApplyProcessUIPolicy`1":{
-"files": [653],
+"files": [
+[654, [53]]
+],
 "memberKind": "Method"
 }
 }
@@ -23694,7 +30575,9 @@ var contents = {
 "ThreadNetworkContext":{
 "members": {
 "Dispose`0":{
-"files": [621],
+"files": [
+[623, [102]]
+],
 "memberKind": "Method"
 }
 }
@@ -23707,37 +30590,51 @@ var contents = {
 "EasClientDeviceInformation":{
 "members": {
 ":ctor`0":{
-"files": [657],
+"files": [
+[658, [33]]
+],
 "memberKind": "Constructor"
 }
 ,
 "FriendlyName":{
-"files": [657],
+"files": [
+[658, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "Id":{
-"files": [657],
+"files": [
+[658, [34]]
+],
 "memberKind": "Property"
 }
 ,
 "OperatingSystem":{
-"files": [657],
+"files": [
+[658, [35]]
+],
 "memberKind": "Property"
 }
 ,
 "SystemManufacturer":{
-"files": [657],
+"files": [
+[658, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "SystemProductName":{
-"files": [657],
+"files": [
+[658, [38]]
+],
 "memberKind": "Property"
 }
 ,
 "SystemSku":{
-"files": [657],
+"files": [
+[658, [39]]
+],
 "memberKind": "Property"
 }
 }
@@ -23746,66 +30643,88 @@ var contents = {
 "EasClientSecurityPolicy":{
 "members": {
 ":ctor`0":{
-"files": [658,
-659],
+"files": [
+[659, [33]],
+[660, [33]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ApplyAsync`0":{
-"files": [659],
+"files": [
+[660, [117]]
+],
 "memberKind": "Method"
 }
 ,
 "CheckCompliance`0":{
-"files": [658],
+"files": [
+[659, [122]]
+],
 "memberKind": "Method"
 }
 ,
 "DisallowConvenienceLogon":{
-"files": [658,
-659],
+"files": [
+[659, [63,69,73]],
+[660, [62,67,69]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxInactivityTimeLock":{
-"files": [658,
-659],
+"files": [
+[659, [115,119]],
+[660, [110,114]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxPasswordFailedAttempts":{
-"files": [658,
-659],
+"files": [
+[659, [106,110]],
+[660, [101,105]]
+],
 "memberKind": "Property"
 }
 ,
 "MinPasswordComplexCharacters":{
-"files": [658,
-659],
+"files": [
+[659, [79,83]],
+[660, [74,78]]
+],
 "memberKind": "Property"
 }
 ,
 "MinPasswordLength":{
-"files": [658,
-659],
+"files": [
+[659, [54,58]],
+[660, [53,57]]
+],
 "memberKind": "Property"
 }
 ,
 "PasswordExpiration":{
-"files": [658,
-659],
+"files": [
+[659, [88,92]],
+[660, [83,87]]
+],
 "memberKind": "Property"
 }
 ,
 "PasswordHistory":{
-"files": [658,
-659],
+"files": [
+[659, [97,101]],
+[660, [92,96]]
+],
 "memberKind": "Property"
 }
 ,
 "RequireEncryption":{
-"files": [658,
-659],
+"files": [
+[659, [38,44,48]],
+[660, [37,43,47]]
+],
 "memberKind": "Property"
 }
 }
@@ -23814,55 +30733,73 @@ var contents = {
 "EasComplianceResults":{
 "members": {
 "DisallowConvenienceLogonResult":{
-"files": [658,
-659],
+"files": [
+[659, [127]],
+[660, [121]]
+],
 "memberKind": "Property"
 }
 ,
 "EncryptionProviderType":{
-"files": [658],
+"files": [
+[659, [125]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxInactivityTimeLockResult":{
-"files": [658,
-659],
+"files": [
+[659, [132]],
+[660, [126]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxPasswordFailedAttemptsResult":{
-"files": [658,
-659],
+"files": [
+[659, [131]],
+[660, [125]]
+],
 "memberKind": "Property"
 }
 ,
 "MinPasswordComplexCharactersResult":{
-"files": [658,
-659],
+"files": [
+[659, [128]],
+[660, [122]]
+],
 "memberKind": "Property"
 }
 ,
 "MinPasswordLengthResult":{
-"files": [658,
-659],
+"files": [
+[659, [126]],
+[660, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "PasswordExpirationResult":{
-"files": [658,
-659],
+"files": [
+[659, [129]],
+[660, [123]]
+],
 "memberKind": "Property"
 }
 ,
 "PasswordHistoryResult":{
-"files": [658,
-659],
+"files": [
+[659, [130]],
+[660, [124]]
+],
 "memberKind": "Property"
 }
 ,
 "RequireEncryptionResult":{
-"files": [658,
-659],
+"files": [
+[659, [124]],
+[660, [119]]
+],
 "memberKind": "Property"
 }
 }
@@ -23871,8 +30808,10 @@ var contents = {
 "EasDisallowConvenienceLogonResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [127]],
+[660, [121]]
+],
 "memberKind": "Method"
 }
 }
@@ -23881,7 +30820,9 @@ var contents = {
 "EasEncryptionProviderType":{
 "members": {
 "ToString`0":{
-"files": [658],
+"files": [
+[659, [125]]
+],
 "memberKind": "Method"
 }
 }
@@ -23890,8 +30831,10 @@ var contents = {
 "EasMaxInactivityTimeLockResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [132]],
+[660, [126]]
+],
 "memberKind": "Method"
 }
 }
@@ -23900,8 +30843,10 @@ var contents = {
 "EasMaxPasswordFailedAttemptsResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [131]],
+[660, [125]]
+],
 "memberKind": "Method"
 }
 }
@@ -23910,8 +30855,10 @@ var contents = {
 "EasMinPasswordComplexCharactersResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [128]],
+[660, [122]]
+],
 "memberKind": "Method"
 }
 }
@@ -23920,8 +30867,10 @@ var contents = {
 "EasMinPasswordLengthResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [126]],
+[660, [120]]
+],
 "memberKind": "Method"
 }
 }
@@ -23930,8 +30879,10 @@ var contents = {
 "EasPasswordExpirationResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [129]],
+[660, [123]]
+],
 "memberKind": "Method"
 }
 }
@@ -23940,8 +30891,10 @@ var contents = {
 "EasPasswordHistoryResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [130]],
+[660, [124]]
+],
 "memberKind": "Method"
 }
 }
@@ -23950,8 +30903,10 @@ var contents = {
 "EasRequireEncryptionResult":{
 "members": {
 "ToString`0":{
-"files": [658,
-659],
+"files": [
+[659, [124]],
+[660, [119]]
+],
 "memberKind": "Method"
 }
 }
@@ -23968,7 +30923,9 @@ var contents = {
 "AccessListEntry":{
 "members": {
 "Metadata":{
-"files": [660],
+"files": [
+[661, [83,102]]
+],
 "memberKind": "Field"
 }
 }
@@ -23977,7 +30934,9 @@ var contents = {
 "AccessListEntryView":{
 "members": {
 "Count":{
-"files": [660],
+"files": [
+[661, [77,96]]
+],
 "memberKind": "?"
 }
 }
@@ -23986,12 +30945,16 @@ var contents = {
 "RecentStorageItemVisibility":{
 "members": {
 "AppAndSystem":{
-"files": [660],
+"files": [
+[661, [53]]
+],
 "memberKind": "Field"
 }
 ,
 "AppOnly":{
-"files": [660],
+"files": [
+[661, [53]]
+],
 "memberKind": "Field"
 }
 }
@@ -24000,16 +30963,20 @@ var contents = {
 "StorageApplicationPermissions":{
 "members": {
 "FutureAccessList":{
-"files": [660,
-661,
-406,
-197,
-198],
+"files": [
+[661, [59,95,146]],
+[662, [49]],
+[410, [48]],
+[199, [41]],
+[200, [45]]
+],
 "memberKind": "Property"
 }
 ,
 "MostRecentlyUsedList":{
-"files": [660],
+"files": [
+[661, [54,76,130]]
+],
 "memberKind": "Property"
 }
 }
@@ -24018,36 +30985,48 @@ var contents = {
 "StorageItemAccessList":{
 "members": {
 "Add`1":{
-"files": [406,
-197,
-198],
+"files": [
+[410, [77]],
+[199, [184]],
+[200, [222]]
+],
 "memberKind": "Method"
 }
 ,
 "Add`2":{
-"files": [660],
+"files": [
+[661, [59]]
+],
 "memberKind": "Method"
 }
 ,
 "AddOrReplace`2":{
-"files": [661],
+"files": [
+[662, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [406],
+"files": [
+[410, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "Entries":{
-"files": [660],
+"files": [
+[661, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "GetFileAsync`1":{
-"files": [660,
-197,
-198],
+"files": [
+[661, [146]],
+[199, [134]],
+[200, [137,354,489]]
+],
 "memberKind": "Method"
 }
 }
@@ -24056,17 +31035,23 @@ var contents = {
 "StorageItemMostRecentlyUsedList":{
 "members": {
 "Add`3":{
-"files": [660],
+"files": [
+[661, [54]]
+],
 "memberKind": "Method"
 }
 ,
 "Entries":{
-"files": [660],
+"files": [
+[661, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "GetFileAsync`1":{
-"files": [660],
+"files": [
+[661, [130]]
+],
 "memberKind": "Method"
 }
 }
@@ -24077,219 +31062,243 @@ var contents = {
 "ApplicationData":{
 "members": {
 "ClearAsync`0":{
-"files": [662],
+"files": [
+[663, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "Current":{
-"files": [57,
-77,
-426,
-663,
-433,
-664,
-434,
-546,
-547,
-665,
-662,
-666,
-667,
-154,
-424,
-79,
-59,
-70,
-58,
-80,
-81,
-66,
-67,
-93,
-128,
-668,
-155,
-425,
-669,
-670,
-671,
-672,
-82,
-71,
-96,
-73,
-74,
-652,
-83,
-673,
-548,
-551,
-552,
-89,
-90,
-68,
-206,
-69,
-674,
-675,
-194,
-195,
-427,
-61,
-676,
-649,
-428,
-429,
-233,
-677,
-678,
-679,
-197,
-198,
-84,
-75,
-91,
-76,
-680,
-632,
-430,
-431,
-432,
-28,
-681,
-224,
-166],
+"files": [
+[57, [184]],
+[77, [38,66]],
+[430, [28]],
+[664, [43,44,45,46]],
+[436, [36]],
+[665, [37]],
+[437, [38]],
+[548, [40]],
+[549, [38]],
+[666, [41]],
+[663, [38]],
+[667, [39]],
+[668, [79,110]],
+[156, [43]],
+[428, [32,39,40,53,55,59]],
+[79, [49,60,61,62,91,94]],
+[59, [69,70,80,94,121,285,287,310,312]],
+[70, [108,191]],
+[58, [100]],
+[80, [49,94]],
+[81, [60]],
+[66, [307,309]],
+[67, [272,274]],
+[93, [97,135]],
+[130, [96,126]],
+[669, [103,127]],
+[157, [16,26,35,118]],
+[429, [35,66]],
+[670, [55,78]],
+[671, [53]],
+[672, [75,219]],
+[673, [90,121]],
+[82, [71,72,76,77]],
+[71, [282,286,305]],
+[96, [24]],
+[73, [148]],
+[74, [77,161]],
+[653, [105]],
+[83, [36,74,87,119,175,178,201,203]],
+[674, [69]],
+[550, [75]],
+[553, [42]],
+[554, [43]],
+[89, [57,63,203,236]],
+[90, [69,77,85]],
+[68, [234]],
+[208, [363,396]],
+[69, [243,282]],
+[675, [26,47,52]],
+[676, [78,107]],
+[196, [60,66,186,209,292,295,306,307,321,323,324,336,347]],
+[197, [55,61,218,281,289,291,292]],
+[385, [43,45,48,50,53,54,197,207,212,217,222,238]],
+[61, [82,85]],
+[677, [79]],
+[386, [226]],
+[431, [9]],
+[432, [9]],
+[235, [41]],
+[678, [38]],
+[679, [46]],
+[680, [79,110]],
+[199, [42]],
+[200, [46]],
+[84, [48,100]],
+[75, [243]],
+[91, [60,64,65]],
+[76, [86,87]],
+[681, [79,110]],
+[634, [97,121,264,305,335,336,337]],
+[433, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
+[434, [94,129,137,198,200,226,230,237]],
+[435, [95,130,138,197,199,225,229,236]],
+[28, [151]],
+[682, [79,108]],
+[226, [87]],
+[168, [221]]
+],
 "memberKind": "Property"
 }
 ,
 "DataChanged":{
-"files": [546,
-547],
+"files": [
+[548, [77,91]],
+[549, [94,108]]
+],
 "memberKind": "?"
 }
 ,
 "LocalCacheFolder":{
-"files": [663],
+"files": [
+[664, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "LocalFolder":{
-"files": [663,
-665,
-667,
-128,
-155,
-669,
-670,
-671,
-672,
-652,
-83,
-673,
-548,
-551,
-552,
-674,
-675,
-194,
-195,
-427,
-676,
-649,
-233,
-677,
-678,
-679,
-680,
-681,
-224,
-166],
+"files": [
+[664, [43]],
+[666, [46]],
+[668, [79,110]],
+[130, [96,126]],
+[157, [118]],
+[670, [55,78]],
+[671, [53]],
+[672, [75,219]],
+[673, [90,121]],
+[653, [105]],
+[83, [74,87,119,178,203]],
+[674, [69]],
+[550, [75]],
+[553, [42]],
+[554, [43]],
+[675, [26,47,52]],
+[676, [78,107]],
+[196, [186,209]],
+[197, [218]],
+[385, [197,238]],
+[677, [79]],
+[386, [226]],
+[235, [41]],
+[678, [38]],
+[679, [46]],
+[680, [79,110]],
+[681, [79,110]],
+[682, [79,108]],
+[226, [87]],
+[168, [221]]
+],
 "memberKind": "Property"
 }
 ,
 "LocalSettings":{
-"files": [57,
-77,
-426,
-664,
-666,
-424,
-79,
-59,
-70,
-58,
-80,
-81,
-66,
-67,
-93,
-155,
-425,
-82,
-71,
-96,
-73,
-74,
-83,
-89,
-90,
-68,
-206,
-69,
-194,
-195,
-61,
-428,
-429,
-197,
-198,
-84,
-75,
-91,
-76,
-632,
-430,
-431,
-432],
+"files": [
+[57, [184]],
+[77, [38,66]],
+[430, [28]],
+[665, [37]],
+[667, [60,83]],
+[428, [32,39,40,53,55,59]],
+[79, [49,60,61,62,91,94]],
+[59, [69,70,80,94,121,285,287,310,312]],
+[70, [108,191]],
+[58, [100]],
+[80, [49,94]],
+[81, [60]],
+[66, [307,309]],
+[67, [272,274]],
+[93, [97,135]],
+[157, [16,26,35]],
+[429, [35,66]],
+[82, [71,72,76,77]],
+[71, [282,286,305]],
+[96, [24]],
+[73, [148]],
+[74, [77,161]],
+[83, [36,175,201]],
+[89, [57,63,203,236]],
+[90, [69,77,85]],
+[68, [234]],
+[208, [363,396]],
+[69, [243,282]],
+[196, [60,66,292,295,306,307,321,323,324,336,347]],
+[197, [55,61,281,289,291,292]],
+[61, [82,85]],
+[431, [9]],
+[432, [9]],
+[199, [42]],
+[200, [46]],
+[84, [48,100]],
+[75, [243]],
+[91, [60,64,65]],
+[76, [86,87]],
+[634, [97,121,264,305,335,336,337]],
+[433, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
+[434, [94,129,137,198,200,226,230,237]],
+[435, [95,130,138,197,199,225,229,236]]
+],
 "memberKind": "Property"
 }
 ,
 "RoamingFolder":{
-"files": [663,
-665],
+"files": [
+[664, [45]],
+[666, [57]]
+],
 "memberKind": "Property"
 }
 ,
 "RoamingSettings":{
-"files": [433,
-434,
-546,
-547,
-427,
-28],
+"files": [
+[436, [36]],
+[437, [38]],
+[548, [41]],
+[549, [39]],
+[385, [43,45,48,50,53,54,207,212,217,222]],
+[28, [151]]
+],
 "memberKind": "Property"
 }
 ,
 "SetVersionAsync`2":{
-"files": [666],
+"files": [
+[667, [100,106]]
+],
 "memberKind": "Method"
 }
 ,
 "SignalDataChanged`0":{
-"files": [546],
+"files": [
+[548, [51]]
+],
 "memberKind": "Method"
 }
 ,
 "TemporaryFolder":{
-"files": [663,
-665,
-154,
-668],
+"files": [
+[664, [46]],
+[666, [68]],
+[156, [43]],
+[669, [103,127]]
+],
 "memberKind": "Property"
 }
 ,
 "Version":{
-"files": [666],
+"files": [
+[667, [48,75,112]]
+],
 "memberKind": "Property"
 }
 }
@@ -24298,18 +31307,24 @@ var contents = {
 "ApplicationDataCompositeValue":{
 "members": {
 ":ctor`0":{
-"files": [434,
-428],
+"files": [
+[437, [45]],
+[431, [60]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ContainsKey`1":{
-"files": [63],
+"files": [
+[63, [138]]
+],
 "memberKind": "Method"
 }
 ,
 "Count":{
-"files": [63],
+"files": [
+[63, [135,136]]
+],
 "memberKind": "?"
 }
 }
@@ -24318,72 +31333,80 @@ var contents = {
 "ApplicationDataContainer":{
 "members": {
 "Containers":{
-"files": [664,
-632],
+"files": [
+[665, [58,60,68,70,78,79]],
+[634, [97,99,102,103,121,123,124,264,268,269,273,305,311,312,317,336,337]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateContainer`2":{
-"files": [664,
-428,
-429,
-632],
+"files": [
+[665, [44]],
+[431, [9]],
+[432, [9]],
+[634, [335]]
+],
 "memberKind": "Method"
 }
 ,
 "DeleteContainer`1":{
-"files": [664],
+"files": [
+[665, [51]]
+],
 "memberKind": "Method"
 }
 ,
 "Values":{
-"files": [57,
-77,
-426,
-433,
-434,
-546,
-547,
-666,
-424,
-79,
-59,
-70,
-58,
-80,
-81,
-66,
-67,
-93,
-155,
-425,
-82,
-71,
-96,
-73,
-74,
-83,
-89,
-90,
-68,
-206,
-69,
-194,
-195,
-427,
-61,
-428,
-429,
-197,
-198,
-84,
-75,
-91,
-76,
-430,
-431,
-432,
-28],
+"files": [
+[57, [186,188,190,192,194,196,198,200,202,204]],
+[77, [39,43,44,45,49,50,51,54,68]],
+[430, [36,38,40,46,60,66,71,79,85,90,98,104,109,117,119,121,125,133,135,144,152,154,163]],
+[436, [72,79,86]],
+[437, [49,56,63]],
+[548, [48,65]],
+[549, [63,65,81]],
+[667, [60,83]],
+[428, [32,39,40,53,55,59]],
+[79, [49,60,61,62,91,94]],
+[59, [69,70,80,94,121,285,287,310,312]],
+[70, [109,192,194]],
+[58, [101]],
+[80, [50,100,101]],
+[81, [66]],
+[66, [307,309]],
+[67, [272,274]],
+[93, [97,135]],
+[157, [17,19,27,28,36]],
+[429, [36,38,67,85]],
+[82, [71,72,76,77]],
+[71, [282,286,305]],
+[96, [47,48,50,58]],
+[73, [149]],
+[74, [78,79,162]],
+[83, [41,42,73,75,176,202]],
+[89, [58,64,204,206,237]],
+[90, [70,71,72,78,79,80,86]],
+[68, [235,237,241,242,243]],
+[208, [364,366,382,397]],
+[69, [246,248,283,285]],
+[196, [60,66,292,295,306,307,321,323,324,336,347]],
+[197, [55,61,281,289,291,292]],
+[385, [43,45,48,50,53,54,207,212,217,222]],
+[61, [82,85]],
+[431, [9]],
+[432, [9]],
+[199, [42]],
+[200, [46]],
+[84, [49,101]],
+[75, [244]],
+[91, [60,64,65]],
+[76, [86,87]],
+[433, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
+[434, [94,129,137,198,200,226,230,237]],
+[435, [95,130,138,197,199,225,229,236]],
+[28, [155,179]]
+],
 "memberKind": "Property"
 }
 }
@@ -24392,10 +31415,12 @@ var contents = {
 "ApplicationDataCreateDisposition":{
 "members": {
 "Always":{
-"files": [664,
-428,
-429,
-632],
+"files": [
+[665, [44]],
+[431, [9]],
+[432, [9]],
+[634, [335,336,337]]
+],
 "memberKind": "Field"
 }
 }
@@ -24404,7 +31429,9 @@ var contents = {
 "ApplicationDataSetVersionHandler":{
 "members": {
 ":ctor`1":{
-"files": [666],
+"files": [
+[667, [100,106]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -24413,14 +31440,18 @@ var contents = {
 "CachedFileManager":{
 "members": {
 "CompleteUpdatesAsync`1":{
-"files": [682,
-532],
+"files": [
+[683, [56]],
+[534, [84]]
+],
 "memberKind": "Method"
 }
 ,
 "DeferUpdates`1":{
-"files": [682,
-532],
+"files": [
+[683, [51]],
+[534, [75]]
+],
 "memberKind": "Method"
 }
 }
@@ -24431,27 +31462,37 @@ var contents = {
 "CompressAlgorithm":{
 "members": {
 "InvalidAlgorithm":{
-"files": [668],
+"files": [
+[669, [258,305]]
+],
 "memberKind": "Field"
 }
 ,
 "Lzms":{
-"files": [668],
+"files": [
+[669, [254,284]]
+],
 "memberKind": "Field"
 }
 ,
 "Mszip":{
-"files": [668],
+"files": [
+[669, [250,281]]
+],
 "memberKind": "Field"
 }
 ,
 "Xpress":{
-"files": [668],
+"files": [
+[669, [242,275]]
+],
 "memberKind": "Field"
 }
 ,
 "XpressHuff":{
-"files": [668],
+"files": [
+[669, [246,278]]
+],
 "memberKind": "Field"
 }
 }
@@ -24460,12 +31501,16 @@ var contents = {
 "CompressAlgorithm?":{
 "members": {
 "HasValue":{
-"files": [668],
+"files": [
+[669, [116]]
+],
 "memberKind": "?"
 }
 ,
 "Value":{
-"files": [668],
+"files": [
+[669, [118]]
+],
 "memberKind": "?"
 }
 }
@@ -24474,17 +31519,23 @@ var contents = {
 "Compressor":{
 "members": {
 ":ctor`1":{
-"files": [668],
+"files": [
+[669, [117]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [668],
+"files": [
+[669, [118]]
+],
 "memberKind": "Constructor"
 }
 ,
 "FinishAsync`0":{
-"files": [668],
+"files": [
+[669, [122]]
+],
 "memberKind": "Method"
 }
 }
@@ -24493,7 +31544,9 @@ var contents = {
 "Decompressor":{
 "members": {
 ":ctor`1":{
-"files": [668],
+"files": [
+[669, [137]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -24504,53 +31557,59 @@ var contents = {
 "CreationCollisionOption":{
 "members": {
 "GenerateUniqueName":{
-"files": [453,
-223,
-452,
-189,
-190,
-191,
-192,
-193,
-668,
-551,
-609,
-607,
-535,
-224],
+"files": [
+[455, [142]],
+[225, [246]],
+[454, [79]],
+[191, [515,748]],
+[192, [518]],
+[193, [798]],
+[194, [435,655]],
+[195, [565]],
+[669, [103,127]],
+[553, [42]],
+[611, [94]],
+[609, [102]],
+[537, [112]],
+[226, [87]]
+],
 "memberKind": "Field"
 }
 ,
 "OpenIfExists":{
-"files": [155,
-669,
-670,
-149,
-652,
-83,
-194,
-195,
-233,
-677,
-150],
+"files": [
+[157, [122]],
+[670, [56,79]],
+[671, [53]],
+[151, [376]],
+[653, [106]],
+[83, [88,121,146,181,205]],
+[196, [187,210]],
+[197, [219]],
+[235, [41]],
+[678, [38]],
+[152, [360]]
+],
 "memberKind": "Field"
 }
 ,
 "ReplaceExisting":{
-"files": [663,
-667,
-672,
-652,
-83,
-683,
-548,
-552,
-675,
-649,
-679,
-680,
-681,
-166],
+"files": [
+[664, [82,109,136,163]],
+[668, [79]],
+[673, [90]],
+[653, [114]],
+[83, [125,147]],
+[684, [41]],
+[550, [75]],
+[554, [43]],
+[676, [78]],
+[386, [226]],
+[680, [79]],
+[681, [79]],
+[682, [79]],
+[168, [222]]
+],
 "memberKind": "Field"
 }
 }
@@ -24559,40 +31618,44 @@ var contents = {
 "FileAccessMode":{
 "members": {
 "Read":{
-"files": [31,
-441,
-583,
-684,
-482,
-278,
-129,
-685,
-686,
-609,
-607,
-535,
-157,
-492,
-140,
-142,
-197,
-198,
-593,
-555,
-532],
+"files": [
+[31, [68]],
+[443, [109]],
+[585, [201]],
+[685, [55]],
+[484, [68]],
+[280, [68]],
+[131, [106]],
+[686, [86]],
+[687, [57]],
+[611, [196,263,419]],
+[609, [178,245,371]],
+[537, [245,312,472]],
+[159, [101]],
+[494, [590]],
+[142, [70,102]],
+[144, [78]],
+[199, [311]],
+[200, [140,226,256,506]],
+[595, [750]],
+[557, [42]],
+[534, [52]]
+],
 "memberKind": "Field"
 }
 ,
 "ReadWrite":{
-"files": [189,
-190,
-191,
-192,
-668,
-261,
-198,
-502,
-532],
+"files": [
+[191, [750]],
+[192, [519]],
+[193, [800]],
+[194, [657]],
+[669, [115,138]],
+[263, [216]],
+[200, [355,507]],
+[504, [169]],
+[534, [78]]
+],
 "memberKind": "Field"
 }
 }
@@ -24601,52 +31664,64 @@ var contents = {
 "FileIO":{
 "members": {
 "AppendTextAsync`2":{
-"files": [83,
-687],
+"files": [
+[83, [108,153,186,206]],
+[688, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadBufferAsync`1":{
-"files": [688,
-628],
+"files": [
+[689, [91]],
+[630, [136]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadLinesAsync`1":{
-"files": [147],
+"files": [
+[149, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadTextAsync`1":{
-"files": [663,
-178,
-671,
-83,
-689,
-660,
-687,
-673,
-674,
-427,
-676,
-209],
+"files": [
+[664, [93,120,147,174]],
+[180, [87]],
+[672, [118]],
+[83, [148]],
+[690, [77]],
+[661, [133,149]],
+[688, [35]],
+[674, [35]],
+[675, [27]],
+[385, [251]],
+[677, [92]],
+[211, [155]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteBufferAsync`2":{
-"files": [688,
-649],
+"files": [
+[689, [65]],
+[386, [227]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteTextAsync`2":{
-"files": [663,
-671,
-83,
-689,
-682,
-548,
-674],
+"files": [
+[664, [83,110,137,164]],
+[672, [258]],
+[83, [149]],
+[690, [51]],
+[683, [53]],
+[550, [76]],
+[675, [48,53]]
+],
 "memberKind": "Method"
 }
 }
@@ -24657,17 +31732,21 @@ var contents = {
 "BasicProperties":{
 "members": {
 "DateModified":{
-"files": [690,
-409,
-412],
+"files": [
+[691, [61]],
+[413, [47]],
+[416, [47]]
+],
 "memberKind": "Property"
 }
 ,
 "Size":{
-"files": [454,
-690,
-409,
-412],
+"files": [
+[456, [143,206]],
+[691, [60]],
+[413, [46]],
+[416, [46]]
+],
 "memberKind": "Property"
 }
 }
@@ -24676,17 +31755,23 @@ var contents = {
 "GeotagHelper":{
 "members": {
 "GetGeotagAsync`1":{
-"files": [318],
+"files": [
+[320, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "SetGeotagAsync`2":{
-"files": [318],
+"files": [
+[320, [115]]
+],
 "memberKind": "Method"
 }
 ,
 "SetGeotagFromGeolocatorAsync`2":{
-"files": [318],
+"files": [
+[320, [93]]
+],
 "memberKind": "Method"
 }
 }
@@ -24695,64 +31780,88 @@ var contents = {
 "ImageProperties":{
 "members": {
 "CameraManufacturer":{
-"files": [197],
+"files": [
+[199, [283]]
+],
 "memberKind": "Property"
 }
 ,
 "CameraModel":{
-"files": [197],
+"files": [
+[199, [284]]
+],
 "memberKind": "Property"
 }
 ,
 "DateTaken":{
-"files": [197],
+"files": [
+[199, [282]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [409,
-412],
+"files": [
+[413, [51]],
+[416, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "Keywords":{
-"files": [197],
+"files": [
+[199, [228,368,372]]
+],
 "memberKind": "Property"
 }
 ,
 "Latitude":{
-"files": [197],
+"files": [
+[199, [255,257]]
+],
 "memberKind": "Property"
 }
 ,
 "Longitude":{
-"files": [197],
+"files": [
+[199, [255,258]]
+],
 "memberKind": "Property"
 }
 ,
 "Orientation":{
-"files": [197],
+"files": [
+[199, [250]]
+],
 "memberKind": "Property"
 }
 ,
 "RetrievePropertiesAsync`1":{
-"files": [197],
+"files": [
+[199, [198]]
+],
 "memberKind": "Method"
 }
 ,
 "SavePropertiesAsync`1":{
-"files": [197],
+"files": [
+[199, [456]]
+],
 "memberKind": "Method"
 }
 ,
 "Title":{
-"files": [197],
+"files": [
+[199, [280,362]]
+],
 "memberKind": "Property"
 }
 ,
 "Width":{
-"files": [409,
-412],
+"files": [
+[413, [50]],
+[416, [50]]
+],
 "memberKind": "Property"
 }
 }
@@ -24761,17 +31870,23 @@ var contents = {
 "MusicProperties":{
 "members": {
 "Album":{
-"files": [611],
+"files": [
+[613, [52]]
+],
 "memberKind": "Property"
 }
 ,
 "Artist":{
-"files": [611],
+"files": [
+[613, [53]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [611],
+"files": [
+[613, [51]]
+],
 "memberKind": "Property"
 }
 }
@@ -24780,67 +31895,85 @@ var contents = {
 "PhotoOrientation":{
 "members": {
 "FlipHorizontal":{
-"files": [584],
+"files": [
+[586, [56,139,167]]
+],
 "memberKind": "Field"
 }
 ,
 "FlipVertical":{
-"files": [584],
+"files": [
+[586, [60,143,171]]
+],
 "memberKind": "Field"
 }
 ,
 "Normal":{
-"files": [189,
-191,
-192,
-193,
-584,
-198],
+"files": [
+[191, [876]],
+[193, [792,927]],
+[194, [783]],
+[195, [900]],
+[586, [54,88,113,121,137,165,204,221,224,245,252]],
+[200, [612,653,654,667]]
+],
 "memberKind": "Field"
 }
 ,
 "Rotate180":{
-"files": [189,
-191,
-192,
-193,
-584,
-198],
+"files": [
+[191, [871]],
+[193, [922]],
+[194, [778]],
+[195, [895]],
+[586, [58,92,117,141,169,200,225,228,248,249]],
+[200, [606]]
+],
 "memberKind": "Field"
 }
 ,
 "Rotate270":{
-"files": [189,
-191,
-192,
-193,
-584,
-198],
+"files": [
+[191, [873]],
+[193, [924]],
+[194, [780]],
+[195, [897]],
+[586, [64,90,115,147,175,202,222,227,250,251]],
+[200, [601]]
+],
 "memberKind": "Field"
 }
 ,
 "Rotate90":{
-"files": [189,
-191,
-192,
-193,
-584,
-198],
+"files": [
+[191, [869]],
+[193, [920]],
+[194, [776]],
+[195, [893]],
+[586, [68,94,119,151,179,198,223,226,246,247]],
+[200, [609]]
+],
 "memberKind": "Field"
 }
 ,
 "Transpose":{
-"files": [584],
+"files": [
+[586, [62,145,173]]
+],
 "memberKind": "Field"
 }
 ,
 "Transverse":{
-"files": [584],
+"files": [
+[586, [66,149,177]]
+],
 "memberKind": "Field"
 }
 ,
 "Unspecified":{
-"files": [584],
+"files": [
+[586, [70,153,231,255]]
+],
 "memberKind": "Field"
 }
 }
@@ -24849,12 +31982,16 @@ var contents = {
 "PropertyPrefetchOptions":{
 "members": {
 "DocumentProperties":{
-"files": [691],
+"files": [
+[692, [62]]
+],
 "memberKind": "Field"
 }
 ,
 "ImageProperties":{
-"files": [692],
+"files": [
+[693, [69]]
+],
 "memberKind": "Field"
 }
 }
@@ -24863,21 +32000,27 @@ var contents = {
 "StorageItemContentProperties":{
 "members": {
 "GetImagePropertiesAsync`0":{
-"files": [692,
-197,
-409,
-412],
+"files": [
+[693, [88]],
+[199, [135,189]],
+[413, [49]],
+[416, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "GetMusicPropertiesAsync`0":{
-"files": [611],
+"files": [
+[613, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "RetrievePropertiesAsync`1":{
-"files": [690,
-692],
+"files": [
+[691, [67]],
+[693, [93]]
+],
 "memberKind": "Method"
 }
 }
@@ -24886,17 +32029,23 @@ var contents = {
 "StorageItemThumbnail":{
 "members": {
 "OriginalHeight":{
-"files": [693],
+"files": [
+[694, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "OriginalWidth":{
-"files": [693],
+"files": [
+[694, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "Type":{
-"files": [694],
+"files": [
+[695, [58]]
+],
 "memberKind": "Property"
 }
 }
@@ -24905,34 +32054,44 @@ var contents = {
 "ThumbnailMode":{
 "members": {
 "DocumentsView":{
-"files": [695],
+"files": [
+[696, [51]]
+],
 "memberKind": "Field"
 }
 ,
 "MusicView":{
-"files": [694],
+"files": [
+[695, [52]]
+],
 "memberKind": "Field"
 }
 ,
 "PicturesView":{
-"files": [696,
-697],
+"files": [
+[697, [51]],
+[698, [63]]
+],
 "memberKind": "Field"
 }
 ,
 "SingleItem":{
-"files": [698,
-409,
-412],
+"files": [
+[699, [53]],
+[413, [36]],
+[416, [36]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [694,
-695,
-696,
-697,
-698],
+"files": [
+[695, [61]],
+[696, [57]],
+[697, [57]],
+[698, [70]],
+[699, [66]]
+],
 "memberKind": "Method"
 }
 }
@@ -24941,14 +32100,18 @@ var contents = {
 "ThumbnailOptions":{
 "members": {
 "ReturnOnlyIfCached":{
-"files": [699,
-698],
+"files": [
+[700, [58]],
+[699, [59]]
+],
 "memberKind": "Field"
 }
 ,
 "UseCurrentScale":{
-"files": [699,
-698],
+"files": [
+[700, [55]],
+[699, [56]]
+],
 "memberKind": "Field"
 }
 }
@@ -24957,7 +32120,9 @@ var contents = {
 "ThumbnailType":{
 "members": {
 "Image":{
-"files": [694],
+"files": [
+[695, [58]]
+],
 "memberKind": "Field"
 }
 }
@@ -24968,8 +32133,10 @@ var contents = {
 "IStorageFile":{
 "members": {
 "Name":{
-"files": [223,
-628],
+"files": [
+[225, [259,265,294]],
+[630, [83]]
+],
 "memberKind": "Property"
 }
 }
@@ -24978,12 +32145,16 @@ var contents = {
 "IStorageItem":{
 "members": {
 "IsOfType`1":{
-"files": [693],
+"files": [
+[694, [82]]
+],
 "memberKind": "Method"
 }
 ,
 "Name":{
-"files": [693],
+"files": [
+[694, [83]]
+],
 "memberKind": "Property"
 }
 }
@@ -24992,43 +32163,51 @@ var contents = {
 "KnownFolders":{
 "members": {
 "HomeGroup":{
-"files": [700,
-701],
+"files": [
+[701, [47]],
+[702, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "MusicLibrary":{
-"files": [702,
-610],
+"files": [
+[703, [36]],
+[612, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "PicturesLibrary":{
-"files": [453,
-223,
-452,
-189,
-190,
-191,
-192,
-193,
-703,
-683,
-704,
-705,
-706,
-707,
-692,
-318,
-700,
-691],
+"files": [
+[455, [140]],
+[225, [245]],
+[454, [77]],
+[191, [515,748]],
+[192, [518]],
+[193, [798]],
+[194, [435,655]],
+[195, [565]],
+[704, [51]],
+[684, [40]],
+[705, [40]],
+[706, [47]],
+[707, [30]],
+[708, [61]],
+[693, [80]],
+[320, [66,88,107]],
+[701, [48]],
+[692, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "VideosLibrary":{
-"files": [609,
-607,
-535],
+"files": [
+[611, [94]],
+[609, [102]],
+[537, [112]]
+],
 "memberKind": "Property"
 }
 }
@@ -25037,11 +32216,13 @@ var contents = {
 "KnownLibraryId":{
 "members": {
 "Pictures":{
-"files": [708,
-416,
-417,
-409,
-412],
+"files": [
+[709, [47]],
+[420, [52]],
+[421, [67]],
+[413, [123]],
+[416, [123]]
+],
 "memberKind": "Field"
 }
 }
@@ -25050,19 +32231,23 @@ var contents = {
 "NameCollisionOption":{
 "members": {
 "GenerateUniqueName":{
-"files": [673,
-233,
-677],
+"files": [
+[674, [69]],
+[235, [44]],
+[678, [41]]
+],
 "memberKind": "Field"
 }
 ,
 "ReplaceExisting":{
-"files": [154,
-128,
-155,
-705,
-678,
-610],
+"files": [
+[156, [43]],
+[130, [126]],
+[157, [127]],
+[706, [47]],
+[679, [46]],
+[612, [53]]
+],
 "memberKind": "Field"
 }
 }
@@ -25073,233 +32258,247 @@ var contents = {
 "FileOpenPicker":{
 "members": {
 ":ctor`0":{
-"files": [154,
-441,
-588,
-590,
-591,
-435,
-454,
-583,
-684,
-482,
-278,
-128,
-129,
-668,
-652,
-709,
-710,
-711,
-712,
-699,
-694,
-695,
-698,
-713,
-686,
-406,
-604,
-603,
-495,
-609,
-607,
-535,
-628,
-233,
-677,
-157,
-714,
-615,
-140,
-141,
-142,
-197,
-198,
-502,
-593,
-597,
-532],
+"files": [
+[156, [147,205]],
+[443, [99]],
+[590, [75]],
+[592, [74,127]],
+[593, [77]],
+[438, [80]],
+[456, [128,176]],
+[585, [182]],
+[685, [40]],
+[484, [53]],
+[280, [53]],
+[130, [44]],
+[131, [136]],
+[669, [176]],
+[653, [63]],
+[710, [46]],
+[711, [39]],
+[712, [41]],
+[713, [42]],
+[700, [42]],
+[695, [42]],
+[696, [42]],
+[699, [44]],
+[714, [39]],
+[687, [48]],
+[410, [62]],
+[606, [51,68]],
+[605, [49,73]],
+[497, [51,67]],
+[611, [255]],
+[609, [237]],
+[537, [304]],
+[630, [67]],
+[235, [30]],
+[678, [27]],
+[159, [293]],
+[715, [47]],
+[617, [52]],
+[142, [88]],
+[143, [52]],
+[144, [64]],
+[199, [78]],
+[200, [183]],
+[504, [189]],
+[595, [336]],
+[599, [52]],
+[534, [42]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CommitButtonText":{
-"files": [233,
-677,
-593],
+"files": [
+[235, [33]],
+[678, [30]],
+[595, [339]]
+],
 "memberKind": "Property"
 }
 ,
 "FileTypeFilter":{
-"files": [154,
-441,
-588,
-590,
-591,
-435,
-454,
-583,
-684,
-482,
-278,
-128,
-129,
-668,
-652,
-709,
-710,
-711,
-712,
-699,
-694,
-695,
-698,
-713,
-686,
-406,
-604,
-603,
-495,
-609,
-607,
-535,
-628,
-233,
-677,
-714,
-615,
-140,
-141,
-142,
-197,
-198,
-502,
-593,
-597,
-532],
+"files": [
+[156, [148,206]],
+[443, [101,102,103,104,105]],
+[590, [77,78,79,80]],
+[592, [76,77,78,129]],
+[593, [79,80,81]],
+[438, [82]],
+[456, [129,177]],
+[585, [185,186,187,188]],
+[685, [43,44]],
+[484, [56,57]],
+[280, [56,57]],
+[130, [44]],
+[131, [136]],
+[669, [178]],
+[653, [66]],
+[710, [48]],
+[711, [42,43,44]],
+[712, [44]],
+[713, [44]],
+[700, [45]],
+[695, [45]],
+[696, [45]],
+[699, [47]],
+[714, [42]],
+[687, [51,52]],
+[410, [64]],
+[606, [53,70]],
+[605, [51,75,76,77]],
+[497, [53,69]],
+[611, [257,258]],
+[609, [239,240]],
+[537, [306,307]],
+[630, [70]],
+[235, [34,35,36]],
+[678, [31,32,33]],
+[715, [47]],
+[617, [57]],
+[142, [88]],
+[143, [52]],
+[144, [64]],
+[199, [79]],
+[200, [184]],
+[504, [191,192]],
+[595, [342,346]],
+[599, [55,56,57]],
+[534, [45]]
+],
 "memberKind": "Property"
 }
 ,
 "PickMultipleFilesAsync`0":{
-"files": [454,
-128,
-711,
-712,
-610,
-612,
-141,
-593],
+"files": [
+[456, [190]],
+[130, [50]],
+[712, [45]],
+[713, [46]],
+[612, [40]],
+[614, [61]],
+[143, [59]],
+[595, [349]]
+],
 "memberKind": "Method"
 }
 ,
 "PickSingleFileAsync`0":{
-"files": [154,
-441,
-588,
-590,
-591,
-435,
-454,
-583,
-684,
-482,
-278,
-129,
-668,
-652,
-709,
-710,
-699,
-694,
-695,
-698,
-713,
-686,
-406,
-604,
-603,
-495,
-609,
-607,
-535,
-628,
-233,
-677,
-157,
-714,
-615,
-140,
-142,
-197,
-198,
-502,
-597,
-532],
+"files": [
+[156, [150,207]],
+[443, [106]],
+[590, [82]],
+[592, [80,131]],
+[593, [83]],
+[438, [84]],
+[456, [184]],
+[585, [190]],
+[685, [50]],
+[484, [63]],
+[280, [63]],
+[131, [143]],
+[669, [180]],
+[653, [67]],
+[710, [49]],
+[711, [45]],
+[700, [48]],
+[695, [48]],
+[696, [48]],
+[699, [50]],
+[714, [43]],
+[687, [53]],
+[410, [65]],
+[606, [54,71]],
+[605, [52,78]],
+[497, [54,70]],
+[611, [260]],
+[609, [242]],
+[537, [309]],
+[630, [71]],
+[235, [38]],
+[678, [35]],
+[159, [299]],
+[715, [54]],
+[617, [69]],
+[142, [95]],
+[144, [71]],
+[199, [82]],
+[200, [187]],
+[504, [193]],
+[599, [59]],
+[534, [47]]
+],
 "memberKind": "Method"
 }
 ,
 "SuggestedStartLocation":{
-"files": [441,
-588,
-590,
-591,
-435,
-583,
-684,
-482,
-278,
-129,
-652,
-709,
-710,
-711,
-713,
-686,
-406,
-604,
-603,
-495,
-609,
-607,
-535,
-233,
-677,
-714,
-615,
-140,
-141,
-142,
-197,
-198,
-502,
-593,
-597,
-532],
+"files": [
+[443, [100]],
+[590, [76]],
+[592, [75,128]],
+[593, [78]],
+[438, [81]],
+[585, [184]],
+[685, [47]],
+[484, [60]],
+[280, [60]],
+[131, [136]],
+[653, [65]],
+[710, [47]],
+[711, [41]],
+[712, [43]],
+[714, [41]],
+[687, [50]],
+[410, [63]],
+[606, [52,69]],
+[605, [50,74]],
+[497, [52,68]],
+[611, [256]],
+[609, [238]],
+[537, [305]],
+[235, [32]],
+[678, [29]],
+[715, [47]],
+[617, [53]],
+[142, [88]],
+[143, [52]],
+[144, [64]],
+[199, [80]],
+[200, [185]],
+[504, [190]],
+[595, [338]],
+[599, [54]],
+[534, [43]]
+],
 "memberKind": "?"
 }
 ,
 "ViewMode":{
-"files": [588,
-590,
-591,
-435,
-583,
-128,
-129,
-652,
-710,
-711,
-712,
-713,
-686,
-233,
-677,
-714,
-140,
-141,
-142,
-593,
-597],
+"files": [
+[590, [81]],
+[592, [79,130]],
+[593, [82]],
+[438, [83]],
+[585, [183]],
+[130, [44]],
+[131, [136]],
+[653, [64]],
+[711, [40]],
+[712, [42]],
+[713, [43]],
+[714, [40]],
+[687, [49]],
+[235, [31]],
+[678, [28]],
+[715, [47]],
+[142, [88]],
+[143, [52]],
+[144, [64]],
+[595, [337]],
+[599, [53]]
+],
 "memberKind": "?"
 }
 }
@@ -25308,58 +32507,70 @@ var contents = {
 "FileSavePicker":{
 "members": {
 ":ctor`0":{
-"files": [293,
-682,
-715,
-406,
-198,
-502,
-532],
+"files": [
+[295, [84]],
+[683, [41]],
+[716, [40]],
+[410, [105]],
+[200, [470]],
+[504, [160]],
+[534, [61]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DefaultFileExtension":{
-"files": [198],
+"files": [
+[200, [474]]
+],
 "memberKind": "Property"
 }
 ,
 "FileTypeChoices":{
-"files": [293,
-682,
-715,
-406,
-198,
-502,
-532],
+"files": [
+[295, [85,86,87]],
+[683, [44]],
+[716, [41]],
+[410, [107]],
+[200, [471,472,473]],
+[504, [162]],
+[534, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "PickSaveFileAsync`0":{
-"files": [293,
-682,
-715,
-406,
-198,
-502,
-532],
+"files": [
+[295, [89]],
+[683, [47]],
+[716, [43]],
+[410, [110]],
+[200, [478]],
+[504, [164]],
+[534, [70]]
+],
 "memberKind": "Method"
 }
 ,
 "SuggestedFileName":{
-"files": [293,
-682,
-406,
-198,
-532],
+"files": [
+[295, [88]],
+[683, [46]],
+[410, [108]],
+[200, [475]],
+[534, [68]]
+],
 "memberKind": "Property"
 }
 ,
 "SuggestedStartLocation":{
-"files": [682,
-406,
-198,
-502,
-532],
+"files": [
+[683, [42]],
+[410, [106]],
+[200, [476]],
+[504, [161]],
+[534, [62]]
+],
 "memberKind": "?"
 }
 }
@@ -25368,41 +32579,51 @@ var contents = {
 "FolderPicker":{
 "members": {
 ":ctor`0":{
-"files": [661,
-696,
-697,
-716,
-717],
+"files": [
+[662, [40]],
+[697, [42]],
+[698, [45]],
+[717, [37]],
+[718, [81]]
+],
 "memberKind": "Constructor"
 }
 ,
 "FileTypeFilter":{
-"files": [661,
-696,
-697,
-716,
-717],
+"files": [
+[662, [42,43,44]],
+[697, [45]],
+[698, [48]],
+[717, [38]],
+[718, [83,84]]
+],
 "memberKind": "Property"
 }
 ,
 "PickSingleFolderAsync`0":{
-"files": [661,
-696,
-697,
-716,
-717],
+"files": [
+[662, [45]],
+[697, [48]],
+[698, [51]],
+[717, [41]],
+[718, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "SuggestedStartLocation":{
-"files": [661,
-716,
-717],
+"files": [
+[662, [41]],
+[717, [40]],
+[718, [82]]
+],
 "memberKind": "?"
 }
 ,
 "ViewMode":{
-"files": [716],
+"files": [
+[717, [39]]
+],
 "memberKind": "?"
 }
 }
@@ -25411,68 +32632,80 @@ var contents = {
 "PickerLocationId":{
 "members": {
 "Desktop":{
-"files": [661],
+"files": [
+[662, [41]]
+],
 "memberKind": "Field"
 }
 ,
 "DocumentsLibrary":{
-"files": [652,
-711,
-682,
-716,
-141,
-532],
+"files": [
+[653, [65]],
+[712, [43]],
+[683, [42]],
+[717, [40]],
+[143, [55]],
+[534, [44,62]]
+],
 "memberKind": "Field"
 }
 ,
 "HomeGroup":{
-"files": [713,
-686],
+"files": [
+[714, [41]],
+[687, [50]]
+],
 "memberKind": "Field"
 }
 ,
 "MusicLibrary":{
-"files": [441,
-588,
-590,
-591,
-435,
-603,
-615,
-593],
+"files": [
+[443, [100]],
+[590, [76]],
+[592, [75,128]],
+[593, [78]],
+[438, [81]],
+[605, [74]],
+[617, [53]],
+[595, [338]]
+],
 "memberKind": "Field"
 }
 ,
 "PicturesLibrary":{
-"files": [583,
-129,
-709,
-710,
-233,
-677,
-157,
-714,
-140,
-142,
-197,
-198,
-502,
-717],
+"files": [
+[585, [184]],
+[131, [139]],
+[710, [47]],
+[711, [41]],
+[235, [32]],
+[678, [29]],
+[159, [295]],
+[715, [50]],
+[142, [91]],
+[144, [67]],
+[199, [80]],
+[200, [185,476]],
+[504, [161,190]],
+[718, [82]]
+],
 "memberKind": "Field"
 }
 ,
 "VideosLibrary":{
-"files": [684,
-482,
-278,
-406,
-604,
-603,
-495,
-609,
-607,
-535,
-597],
+"files": [
+[685, [47]],
+[484, [60]],
+[280, [60]],
+[410, [63,106]],
+[606, [52,69]],
+[605, [50]],
+[497, [52,68]],
+[611, [256]],
+[609, [238]],
+[537, [305]],
+[599, [54]]
+],
 "memberKind": "Field"
 }
 }
@@ -25481,32 +32714,36 @@ var contents = {
 "PickerViewMode":{
 "members": {
 "List":{
-"files": [128,
-711,
-716,
-141,
-593],
+"files": [
+[130, [46]],
+[712, [42]],
+[717, [39]],
+[143, [54]],
+[595, [337]]
+],
 "memberKind": "Field"
 }
 ,
 "Thumbnail":{
-"files": [588,
-590,
-591,
-435,
-583,
-129,
-652,
-710,
-712,
-713,
-686,
-233,
-677,
-714,
-140,
-142,
-597],
+"files": [
+[590, [81]],
+[592, [79,130]],
+[593, [82]],
+[438, [83]],
+[585, [183]],
+[131, [138]],
+[653, [64]],
+[711, [40]],
+[713, [43]],
+[714, [40]],
+[687, [49]],
+[235, [31]],
+[678, [28]],
+[715, [49]],
+[142, [90]],
+[144, [66]],
+[599, [53]]
+],
 "memberKind": "Field"
 }
 }
@@ -25517,16 +32754,20 @@ var contents = {
 "AddFileResult":{
 "members": {
 "Added":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [78]],
+[550, [82]],
+[551, [94]]
+],
 "memberKind": "Field"
 }
 ,
 "AlreadyAdded":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [79]],
+[550, [83]],
+[551, [95]]
+],
 "memberKind": "Field"
 }
 }
@@ -25535,30 +32776,38 @@ var contents = {
 "FileOpenPickerUI":{
 "members": {
 "AddFile`2":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [76]],
+[550, [80]],
+[551, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "ContainsFile`1":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [63,94]],
+[550, [64,98]],
+[551, [63,111]]
+],
 "memberKind": "Method"
 }
 ,
 "FileRemoved":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [64,69]],
+[550, [65,70]],
+[551, [64,69]]
+],
 "memberKind": "?"
 }
 ,
 "RemoveFile`1":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [96]],
+[550, [100]],
+[551, [113]]
+],
 "memberKind": "Method"
 }
 }
@@ -25567,9 +32816,11 @@ var contents = {
 "FileRemovedEventArgs":{
 "members": {
 "Id":{
-"files": [156,
-548,
-549],
+"files": [
+[158, [50]],
+[550, [51]],
+[551, [50]]
+],
 "memberKind": "Property"
 }
 }
@@ -25578,15 +32829,19 @@ var contents = {
 "FileSavePickerUI":{
 "members": {
 "FileName":{
-"files": [551,
-552],
+"files": [
+[553, [42]],
+[554, [43]]
+],
 "memberKind": "Property"
 }
 ,
 "TargetFileRequested":{
-"files": [550,
-551,
-552],
+"files": [
+[552, [67,72]],
+[553, [50,55]],
+[554, [53,58]]
+],
 "memberKind": "?"
 }
 }
@@ -25595,16 +32850,20 @@ var contents = {
 "TargetFileRequest":{
 "members": {
 "GetDeferral`0":{
-"files": [550,
-551,
-552],
+"files": [
+[552, [47]],
+[553, [40]],
+[554, [41]]
+],
 "memberKind": "Method"
 }
 ,
 "TargetFile":{
-"files": [550,
-551,
-552],
+"files": [
+[552, [60]],
+[553, [42]],
+[554, [45]]
+],
 "memberKind": "?"
 }
 }
@@ -25613,9 +32872,11 @@ var contents = {
 "TargetFileRequestDeferral":{
 "members": {
 "Complete`0":{
-"files": [550,
-551,
-552],
+"files": [
+[552, [61]],
+[553, [45]],
+[554, [48]]
+],
 "memberKind": "Method"
 }
 }
@@ -25624,9 +32885,11 @@ var contents = {
 "TargetFileRequestedEventArgs":{
 "members": {
 "Request":{
-"files": [550,
-551,
-552],
+"files": [
+[552, [47,60]],
+[553, [40,42]],
+[554, [41,45]]
+],
 "memberKind": "Property"
 }
 }
@@ -25641,9 +32904,11 @@ var contents = {
 "CachedFileOptions":{
 "members": {
 "RequireUpdateOnAccess":{
-"files": [673,
-548,
-552],
+"files": [
+[674, [70]],
+[550, [77]],
+[554, [44]]
+],
 "memberKind": "Field"
 }
 }
@@ -25652,12 +32917,16 @@ var contents = {
 "CachedFileTarget":{
 "members": {
 "Local":{
-"files": [29],
+"files": [
+[29, [58]]
+],
 "memberKind": "Field"
 }
 ,
 "Remote":{
-"files": [29],
+"files": [
+[29, [61]]
+],
 "memberKind": "Field"
 }
 }
@@ -25666,9 +32935,11 @@ var contents = {
 "CachedFileUpdater":{
 "members": {
 "SetUpdateInformation`5":{
-"files": [673,
-548,
-552],
+"files": [
+[674, [70]],
+[550, [77]],
+[554, [44]]
+],
 "memberKind": "Method"
 }
 }
@@ -25677,22 +32948,30 @@ var contents = {
 "CachedFileUpdaterUI":{
 "members": {
 "FileUpdateRequested":{
-"files": [29],
+"files": [
+[29, [53]]
+],
 "memberKind": "?"
 }
 ,
 "UIRequested":{
-"files": [29],
+"files": [
+[29, [54]]
+],
 "memberKind": "?"
 }
 ,
 "UIStatus":{
-"files": [29],
+"files": [
+[29, [83]]
+],
 "memberKind": "Property"
 }
 ,
 "UpdateTarget":{
-"files": [29],
+"files": [
+[29, [56]]
+],
 "memberKind": "Property"
 }
 }
@@ -25701,25 +32980,33 @@ var contents = {
 "FileUpdateRequest":{
 "members": {
 "File":{
-"files": [687,
-673],
+"files": [
+[688, [54,67,68]],
+[674, [56,69]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [29],
+"files": [
+[29, [82]]
+],
 "memberKind": "Method"
 }
 ,
 "Status":{
-"files": [687,
-673,
-29],
+"files": [
+[688, [56,70]],
+[674, [58,75]],
+[29, [86,92]]
+],
 "memberKind": "?"
 }
 ,
 "UpdateLocalFile`1":{
-"files": [673],
+"files": [
+[674, [71]]
+],
 "memberKind": "Method"
 }
 }
@@ -25728,9 +33015,11 @@ var contents = {
 "FileUpdateRequestDeferral":{
 "members": {
 "Complete`0":{
-"files": [687,
-673,
-29],
+"files": [
+[688, [57,71]],
+[674, [59,76]],
+[29, [87,93]]
+],
 "memberKind": "Method"
 }
 }
@@ -25739,7 +33028,9 @@ var contents = {
 "FileUpdateRequestedEventArgs":{
 "members": {
 "Request":{
-"files": [29],
+"files": [
+[29, [81]]
+],
 "memberKind": "Property"
 }
 }
@@ -25748,25 +33039,33 @@ var contents = {
 "FileUpdateStatus":{
 "members": {
 "Complete":{
-"files": [682,
-687,
-673,
-532],
+"files": [
+[683, [57]],
+[688, [56,70]],
+[674, [58]],
+[534, [85]]
+],
 "memberKind": "Field"
 }
 ,
 "CompleteAndRenamed":{
-"files": [673],
+"files": [
+[674, [75]]
+],
 "memberKind": "Field"
 }
 ,
 "Failed":{
-"files": [29],
+"files": [
+[29, [92]]
+],
 "memberKind": "Field"
 }
 ,
 "UserInputNeeded":{
-"files": [29],
+"files": [
+[29, [86]]
+],
 "memberKind": "Field"
 }
 }
@@ -25775,13 +33074,17 @@ var contents = {
 "ReadActivationMode":{
 "members": {
 "BeforeAccess":{
-"files": [548],
+"files": [
+[550, [77]]
+],
 "memberKind": "Field"
 }
 ,
 "NotNeeded":{
-"files": [673,
-552],
+"files": [
+[674, [70]],
+[554, [44]]
+],
 "memberKind": "Field"
 }
 }
@@ -25790,23 +33093,31 @@ var contents = {
 "UIStatus":{
 "members": {
 "Complete":{
-"files": [687,
-673],
+"files": [
+[688, [42]],
+[674, [42]]
+],
 "memberKind": "Field"
 }
 ,
 "Hidden":{
-"files": [29],
+"files": [
+[29, [85]]
+],
 "memberKind": "Field"
 }
 ,
 "Unavailable":{
-"files": [29],
+"files": [
+[29, [91]]
+],
 "memberKind": "Field"
 }
 ,
 "Visible":{
-"files": [29],
+"files": [
+[29, [89]]
+],
 "memberKind": "Field"
 }
 }
@@ -25815,13 +33126,17 @@ var contents = {
 "WriteActivationMode":{
 "members": {
 "AfterWrite":{
-"files": [673,
-552],
+"files": [
+[674, [70]],
+[554, [44]]
+],
 "memberKind": "Field"
 }
 ,
 "NotNeeded":{
-"files": [548],
+"files": [
+[550, [77]]
+],
 "memberKind": "Field"
 }
 }
@@ -25834,15 +33149,19 @@ var contents = {
 "CommonFileQuery":{
 "members": {
 "OrderByName":{
-"files": [670,
-692],
+"files": [
+[671, [81]],
+[693, [62]]
+],
 "memberKind": "Field"
 }
 ,
 "OrderBySearchRank":{
-"files": [702,
-700,
-701],
+"files": [
+[703, [41]],
+[701, [41]],
+[702, [89]]
+],
 "memberKind": "Field"
 }
 }
@@ -25851,18 +33170,24 @@ var contents = {
 "CommonFolderQuery":{
 "members": {
 "GroupByMonth":{
-"files": [697,
-707],
+"files": [
+[698, [54]],
+[708, [35]]
+],
 "memberKind": "Field"
 }
 ,
 "GroupByRating":{
-"files": [707],
+"files": [
+[708, [43]]
+],
 "memberKind": "Field"
 }
 ,
 "GroupByTag":{
-"files": [707],
+"files": [
+[708, [51]]
+],
 "memberKind": "Field"
 }
 }
@@ -25871,55 +33196,73 @@ var contents = {
 "ContentIndexer":{
 "members": {
 "AddAsync`1":{
-"files": [155,
-718],
+"files": [
+[157, [97]],
+[719, [91]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateQuery`2":{
-"files": [155,
-719,
-720],
+"files": [
+[157, [106]],
+[720, [112,122]],
+[721, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "DeleteAllAsync`0":{
-"files": [719],
+"files": [
+[720, [152]]
+],
 "memberKind": "Method"
 }
 ,
 "DeleteAsync`1":{
-"files": [719],
+"files": [
+[720, [134]]
+],
 "memberKind": "Method"
 }
 ,
 "DeleteMultipleAsync`1":{
-"files": [719],
+"files": [
+[720, [144]]
+],
 "memberKind": "Method"
 }
 ,
 "GetIndexer`0":{
-"files": [718,
-719,
-720,
-425],
+"files": [
+[719, [90]],
+[720, [47,54,108]],
+[721, [46,53]],
+[429, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "RetrievePropertiesAsync`2":{
-"files": [718,
-719],
+"files": [
+[719, [95]],
+[720, [60,74]]
+],
 "memberKind": "Method"
 }
 ,
 "Revision":{
-"files": [155,
-425],
+"files": [
+[157, [36]],
+[429, [69,70,73,85]]
+],
 "memberKind": "Property"
 }
 ,
 "UpdateAsync`1":{
-"files": [719],
+"files": [
+[720, [70]]
+],
 "memberKind": "Method"
 }
 }
@@ -25928,13 +33271,17 @@ var contents = {
 "ContentIndexerQuery":{
 "members": {
 "GetAsync`0":{
-"files": [720],
+"files": [
+[721, [61]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCountAsync`0":{
-"files": [155,
-719],
+"files": [
+[157, [107]],
+[720, [113,123]]
+],
 "memberKind": "Method"
 }
 }
@@ -25943,33 +33290,43 @@ var contents = {
 "IndexableContent":{
 "members": {
 ":ctor`0":{
-"files": [155,
-718,
-719],
+"files": [
+[157, [88]],
+[719, [80]],
+[720, [64]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Id":{
-"files": [155,
-718,
-719],
+"files": [
+[157, [95]],
+[719, [81]],
+[720, [66]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [155,
-718,
-719],
+"files": [
+[157, [92,93,94]],
+[719, [82,83,84,95,96]],
+[720, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "Stream":{
-"files": [718],
+"files": [
+[719, [85]]
+],
 "memberKind": "?"
 }
 ,
 "StreamContentType":{
-"files": [718],
+"files": [
+[719, [86]]
+],
 "memberKind": "Property"
 }
 }
@@ -25978,14 +33335,18 @@ var contents = {
 "IndexerOption":{
 "members": {
 "OnlyUseIndexer":{
-"files": [670,
-691],
+"files": [
+[671, [92]],
+[692, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "UseIndexerWhenAvailable":{
-"files": [409,
-412],
+"files": [
+[413, [111]],
+[416, [111]]
+],
 "memberKind": "Field"
 }
 }
@@ -25994,50 +33355,64 @@ var contents = {
 "QueryOptions":{
 "members": {
 ":ctor`0":{
-"files": [670,
-691,
-409,
-412],
+"files": [
+[671, [90]],
+[692, [59]],
+[413, [110]],
+[416, [110]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [707],
+"files": [
+[708, [35,43,51]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [702,
-692,
-700,
-701],
+"files": [
+[703, [41]],
+[693, [62]],
+[701, [41]],
+[702, [89]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ApplicationSearchFilter":{
-"files": [670],
+"files": [
+[671, [94]]
+],
 "memberKind": "Property"
 }
 ,
 "IndexerOption":{
-"files": [670,
-691,
-409,
-412],
+"files": [
+[671, [92]],
+[692, [60]],
+[413, [111]],
+[416, [111]]
+],
 "memberKind": "?"
 }
 ,
 "SetPropertyPrefetch`2":{
-"files": [692,
-691],
+"files": [
+[693, [69]],
+[692, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "UserSearchFilter":{
-"files": [702,
-700,
-701,
-691],
+"files": [
+[703, [43,53]],
+[701, [42]],
+[702, [90]],
+[692, [61]]
+],
 "memberKind": "Property"
 }
 }
@@ -26046,36 +33421,46 @@ var contents = {
 "StorageFileQueryResult":{
 "members": {
 "ContentsChanged":{
-"files": [409,
-412],
+"files": [
+[413, [113]],
+[416, [113]]
+],
 "memberKind": "?"
 }
 ,
 "GetFilesAsync`0":{
-"files": [670,
-702,
-692,
-716,
-700,
-701,
-691],
+"files": [
+[671, [55]],
+[703, [49]],
+[693, [81]],
+[717, [46]],
+[701, [49]],
+[702, [92]],
+[692, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFilesAsync`2":{
-"files": [409,
-412],
+"files": [
+[413, [172]],
+[416, [172]]
+],
 "memberKind": "Method"
 }
 ,
 "GetItemCountAsync`0":{
-"files": [409,
-412],
+"files": [
+[413, [152]],
+[416, [152]]
+],
 "memberKind": "Method"
 }
 ,
 "GetMatchingPropertiesWithRanges`1":{
-"files": [691],
+"files": [
+[692, [69]]
+],
 "memberKind": "Method"
 }
 }
@@ -26084,8 +33469,10 @@ var contents = {
 "StorageFolderQueryResult":{
 "members": {
 "GetFoldersAsync`0":{
-"files": [697,
-707],
+"files": [
+[698, [59]],
+[708, [64]]
+],
 "memberKind": "Method"
 }
 }
@@ -26094,17 +33481,23 @@ var contents = {
 "ValueAndLanguage":{
 "members": {
 ":ctor`0":{
-"files": [718],
+"files": [
+[719, [65,69,73]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Language":{
-"files": [718],
+"files": [
+[719, [66,70,74]]
+],
 "memberKind": "Property"
 }
 ,
 "Value":{
-"files": [718],
+"files": [
+[719, [67,71,75]]
+],
 "memberKind": "Property"
 }
 }
@@ -26115,7 +33508,9 @@ var contents = {
 "SetVersionDeferral":{
 "members": {
 "Complete`0":{
-"files": [666],
+"files": [
+[667, [68,95]]
+],
 "memberKind": "Method"
 }
 }
@@ -26124,7 +33519,9 @@ var contents = {
 "SetVersionRequest":{
 "members": {
 "GetDeferral`0":{
-"files": [666],
+"files": [
+[667, [46,73]]
+],
 "memberKind": "Method"
 }
 }
@@ -26133,276 +33530,332 @@ var contents = {
 "StorageFile":{
 "members": {
 "ContentType":{
-"files": [441,
-684,
-482,
-278,
-686,
-406,
-604,
-603,
-495,
-609,
-607,
-535,
-593],
+"files": [
+[443, [113]],
+[685, [56]],
+[484, [69]],
+[280, [69]],
+[687, [58]],
+[410, [79]],
+[606, [61,78]],
+[605, [59]],
+[497, [61]],
+[611, [199,266,420]],
+[609, [181,248,372]],
+[537, [248,315,473]],
+[595, [619,786]]
+],
 "memberKind": "Property"
 }
 ,
 "CopyAsync`1":{
-"files": [665],
+"files": [
+[666, [46,57,68]]
+],
 "memberKind": "Method"
 }
 ,
 "CopyAsync`3":{
-"files": [128,
-705,
-673,
-233,
-677,
-678],
+"files": [
+[130, [126]],
+[706, [47]],
+[674, [69]],
+[235, [44]],
+[678, [41]],
+[679, [46]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateStreamedFileFromUriAsync`3":{
-"files": [549],
+"files": [
+[551, [90]]
+],
 "memberKind": "Method"
 }
 ,
 "DeleteAsync`0":{
-"files": [652,
-721,
-609,
-607,
-535,
-427,
-676],
+"files": [
+[653, [110]],
+[722, [48]],
+[611, [216,231]],
+[609, [198,213]],
+[537, [265,280]],
+[385, [244]],
+[677, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "DisplayName":{
-"files": [691,
-409,
-412],
+"files": [
+[692, [74]],
+[413, [44]],
+[416, [44]]
+],
 "memberKind": "Property"
 }
 ,
 "FileType":{
-"files": [31,
-293,
-690,
-198],
+"files": [
+[31, [69]],
+[295, [122]],
+[691, [56]],
+[200, [492]]
+],
 "memberKind": "Property"
 }
 ,
 "FolderRelativeId":{
-"files": [409,
-412],
+"files": [
+[413, [48]],
+[416, [48]]
+],
 "memberKind": "Property"
 }
 ,
 "GetBasicPropertiesAsync`0":{
-"files": [454,
-690,
-409,
-412],
+"files": [
+[456, [142]],
+[691, [59]],
+[413, [45]],
+[416, [45]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFileFromApplicationUriAsync`1":{
-"files": [31,
-665,
-178,
-56,
-722,
-678,
-492,
-555,
-147,
-209],
+"files": [
+[31, [67]],
+[666, [45,56,67]],
+[180, [86]],
+[56, [310,411]],
+[723, [60]],
+[679, [37]],
+[494, [589]],
+[557, [41]],
+[149, [51]],
+[211, [154]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFileFromPathAsync`1":{
-"files": [409,
-412],
+"files": [
+[413, [35]],
+[416, [35]]
+],
 "memberKind": "Method"
 }
 ,
 "GetParentAsync`0":{
-"files": [723],
+"files": [
+[724, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "GetScaledImageAsThumbnailAsync`3":{
-"files": [698],
+"files": [
+[699, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "GetThumbnailAsync`1":{
-"files": [409,
-412],
+"files": [
+[413, [36]],
+[416, [36]]
+],
 "memberKind": "Method"
 }
 ,
 "GetThumbnailAsync`2":{
-"files": [694,
-695],
+"files": [
+[695, [54]],
+[696, [53]]
+],
 "memberKind": "Method"
 }
 ,
 "GetThumbnailAsync`3":{
-"files": [699],
+"files": [
+[700, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "IsAvailable":{
-"files": [716],
+"files": [
+[717, [60]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEqual`1":{
-"files": [709],
+"files": [
+[710, [54]]
+],
 "memberKind": "Method"
 }
 ,
 "MoveAsync`2":{
-"files": [194],
+"files": [
+[196, [189,214]]
+],
 "memberKind": "Method"
 }
 ,
 "Name":{
-"files": [154,
-466,
-293,
-453,
-454,
-128,
-668,
-721,
-704,
-723,
-689,
-688,
-685,
-690,
-660,
-705,
-710,
-711,
-682,
-687,
-673,
-712,
-715,
-702,
-697,
-706,
-707,
-692,
-716,
-700,
-701,
-233,
-677,
-610,
-140,
-142,
-197,
-198,
-593,
-597,
-532],
+"files": [
+[156, [184,214]],
+[468, [51]],
+[295, [97]],
+[455, [154]],
+[456, [152,155]],
+[130, [126,129]],
+[669, [100,102,126]],
+[722, [47]],
+[705, [44]],
+[724, [52]],
+[690, [52,78]],
+[689, [66,95]],
+[686, [59,95,99]],
+[691, [55]],
+[661, [54,55,59,60,134,150]],
+[706, [48]],
+[711, [49]],
+[712, [52]],
+[683, [53,59,63]],
+[688, [36]],
+[674, [36,69]],
+[713, [51]],
+[716, [47]],
+[703, [67]],
+[698, [80]],
+[707, [45]],
+[708, [71]],
+[693, [84]],
+[717, [52]],
+[701, [54]],
+[702, [97]],
+[235, [44,46]],
+[678, [41,43]],
+[612, [59]],
+[142, [106]],
+[144, [82]],
+[199, [158,202,317]],
+[200, [145,164,203,232,444,558]],
+[595, [767]],
+[599, [62]],
+[534, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "OpenAsync`1":{
-"files": [31,
-441,
-583,
-684,
-482,
-278,
-129,
-685,
-686,
-609,
-607,
-535,
-157,
-140,
-142,
-197,
-198,
-502,
-593,
-555,
-532],
+"files": [
+[31, [68]],
+[443, [109]],
+[585, [201]],
+[685, [55]],
+[484, [68]],
+[280, [68]],
+[131, [106]],
+[686, [86]],
+[687, [57]],
+[611, [196,263,419]],
+[609, [178,245,371]],
+[537, [245,312,472]],
+[159, [101]],
+[142, [70,102]],
+[144, [78]],
+[199, [311]],
+[200, [140,226,256,355,506,507]],
+[504, [169]],
+[595, [750]],
+[557, [42]],
+[534, [52,78]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenReadAsync`0":{
-"files": [668,
-406,
-604,
-603,
-495],
+"files": [
+[669, [114]],
+[410, [79]],
+[606, [61,78]],
+[605, [59]],
+[497, [61]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenSequentialReadAsync`0":{
-"files": [667,
-672,
-675,
-679,
-502,
-680,
-681],
+"files": [
+[668, [111]],
+[673, [122]],
+[676, [108]],
+[680, [111]],
+[504, [196]],
+[681, [111]],
+[682, [109]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenStreamForWriteAsync`0":{
-"files": [667,
-672,
-675,
-679,
-680,
-681],
+"files": [
+[668, [80]],
+[673, [91]],
+[676, [79]],
+[680, [80]],
+[681, [80]],
+[682, [80]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenTransactedWriteAsync`0":{
-"files": [685],
+"files": [
+[686, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "Path":{
-"files": [652,
-723,
-713,
-195,
-609,
-607,
-535,
-611,
-409,
-412,
-166],
+"files": [
+[653, [71,91,116,152,156,161,165]],
+[724, [52]],
+[714, [47]],
+[197, [224]],
+[611, [195]],
+[609, [177]],
+[537, [244]],
+[613, [50]],
+[413, [43]],
+[416, [43]],
+[168, [224]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [690,
-692,
-611,
-197,
-409,
-412],
+"files": [
+[691, [67]],
+[693, [88,93]],
+[613, [48]],
+[199, [135,189]],
+[413, [49]],
+[416, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "Provider":{
-"files": [716],
+"files": [
+[717, [55]]
+],
 "memberKind": "Property"
 }
 }
@@ -26411,175 +33864,211 @@ var contents = {
 "StorageFolder":{
 "members": {
 "CreateFileAsync`1":{
-"files": [671,
-674],
+"files": [
+[672, [228]],
+[675, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFileAsync`2":{
-"files": [663,
-667,
-453,
-223,
-452,
-189,
-190,
-191,
-192,
-193,
-668,
-672,
-149,
-652,
-83,
-683,
-548,
-551,
-552,
-675,
-609,
-607,
-535,
-649,
-679,
-150,
-680,
-681,
-224,
-166],
+"files": [
+[664, [82,109,136,163]],
+[668, [79]],
+[455, [140]],
+[225, [245]],
+[454, [77]],
+[191, [515,748]],
+[192, [518]],
+[193, [798]],
+[194, [435,655]],
+[195, [565]],
+[669, [103,127]],
+[673, [90]],
+[151, [376]],
+[653, [106,114]],
+[83, [88,121,146,147,180,204]],
+[684, [41]],
+[550, [75]],
+[553, [42]],
+[554, [43]],
+[676, [78]],
+[611, [94]],
+[609, [102]],
+[537, [112]],
+[386, [226]],
+[680, [79]],
+[152, [360]],
+[681, [79]],
+[682, [79]],
+[226, [87]],
+[168, [222]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFileQuery`0":{
-"files": [716],
+"files": [
+[717, [45]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFileQuery`1":{
-"files": [670],
+"files": [
+[671, [81]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFileQueryWithOptions`1":{
-"files": [670,
-702,
-692,
-700,
-701,
-691,
-409,
-412],
+"files": [
+[671, [95]],
+[703, [44]],
+[693, [80]],
+[701, [47,48]],
+[702, [91]],
+[692, [65]],
+[413, [112]],
+[416, [112]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFolderAsync`2":{
-"files": [155,
-669,
-670,
-194,
-195,
-233,
-677],
+"files": [
+[157, [122]],
+[670, [56,79]],
+[671, [53]],
+[196, [186,209]],
+[197, [218]],
+[235, [41]],
+[678, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFolderQuery`1":{
-"files": [697],
+"files": [
+[698, [59]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFolderQueryWithOptions`1":{
-"files": [707],
+"files": [
+[708, [62]]
+],
 "memberKind": "Method"
 }
 ,
 "DisplayName":{
-"files": [706,
-708,
-417],
+"files": [
+[707, [40]],
+[709, [51]],
+[421, [54]]
+],
 "memberKind": "Property"
 }
 ,
 "GetFileAsync`1":{
-"files": [663,
-667,
-154,
-671,
-3,
-672,
-703,
-156,
-318,
-674,
-675,
-427,
-157,
-679,
-161,
-162,
-680,
-681,
-164,
-166],
+"files": [
+[664, [92,119,146,173]],
+[668, [110]],
+[156, [39]],
+[672, [232]],
+[3, [96]],
+[673, [121]],
+[704, [51]],
+[158, [74]],
+[320, [66,88,107]],
+[675, [26,47]],
+[676, [107]],
+[385, [197]],
+[159, [116]],
+[680, [110]],
+[163, [218]],
+[164, [215]],
+[681, [110]],
+[682, [108]],
+[166, [49]],
+[168, [52,53]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFilesAsync`0":{
-"files": [697,
-706,
-707],
+"files": [
+[698, [73]],
+[707, [32]],
+[708, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFolderAsync`1":{
-"files": [155,
-164,
-165,
-166],
+"files": [
+[157, [121]],
+[166, [48]],
+[167, [95,147]],
+[168, [51]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFoldersAsync`0":{
-"files": [706,
-701],
+"files": [
+[707, [33]],
+[702, [44]]
+],
 "memberKind": "Method"
 }
 ,
 "GetThumbnailAsync`2":{
-"files": [696,
-697],
+"files": [
+[697, [53]],
+[698, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "IsCommonFolderQuerySupported`1":{
-"files": [697],
+"files": [
+[698, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "Name":{
-"files": [723,
-661,
-706,
-707,
-701],
+"files": [
+[724, [53]],
+[662, [50]],
+[707, [36]],
+[708, [68]],
+[702, [54,94]]
+],
 "memberKind": "Property"
 }
 ,
 "Path":{
-"files": [128,
-83,
-723,
-194,
-159,
-165],
+"files": [
+[130, [96,138]],
+[83, [74]],
+[724, [53]],
+[196, [194,216]],
+[161, [39]],
+[167, [96]]
+],
 "memberKind": "Property"
 }
 ,
 "TryGetItemAsync`1":{
-"files": [671,
-704,
-427,
-676],
+"files": [
+[672, [78,225]],
+[705, [41]],
+[385, [238]],
+[677, [79]]
+],
 "memberKind": "Method"
 }
 }
@@ -26588,8 +34077,10 @@ var contents = {
 "StorageItemTypes":{
 "members": {
 "File":{
-"files": [671,
-693],
+"files": [
+[672, [114]],
+[694, [82]]
+],
 "memberKind": "Field"
 }
 }
@@ -26598,39 +34089,51 @@ var contents = {
 "StorageLibrary":{
 "members": {
 "DefinitionChanged":{
-"files": [416,
-417],
+"files": [
+[420, [58]],
+[421, [73]]
+],
 "memberKind": "?"
 }
 ,
 "Folders":{
-"files": [416,
-417],
+"files": [
+[420, [55,73]],
+[421, [70,90,100]]
+],
 "memberKind": "Property"
 }
 ,
 "GetLibraryAsync`1":{
-"files": [708,
-416,
-417,
-409,
-412],
+"files": [
+[709, [47]],
+[420, [52]],
+[421, [67]],
+[413, [123]],
+[416, [123]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestAddFolderAsync`0":{
-"files": [708],
+"files": [
+[709, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestRemoveFolderAsync`1":{
-"files": [417],
+"files": [
+[421, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "SaveFolder":{
-"files": [409,
-412],
+"files": [
+[413, [124]],
+[416, [124]]
+],
 "memberKind": "Property"
 }
 }
@@ -26639,7 +34142,9 @@ var contents = {
 "StorageProvider":{
 "members": {
 "DisplayName":{
-"files": [716],
+"files": [
+[717, [55]]
+],
 "memberKind": "Property"
 }
 }
@@ -26648,12 +34153,16 @@ var contents = {
 "StorageStreamTransaction":{
 "members": {
 "CommitAsync`0":{
-"files": [685],
+"files": [
+[686, [58]]
+],
 "memberKind": "Method"
 }
 ,
 "Stream":{
-"files": [685],
+"files": [
+[686, [54,57]]
+],
 "memberKind": "Property"
 }
 }
@@ -26664,8 +34173,10 @@ var contents = {
 "Buffer":{
 "members": {
 ":ctor`1":{
-"files": [397,
-396],
+"files": [
+[401, [344]],
+[400, [347]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -26674,12 +34185,14 @@ var contents = {
 "ByteOrder":{
 "members": {
 "LittleEndian":{
-"files": [396,
-724,
-308,
-289,
-311,
-310],
+"files": [
+[400, [353]],
+[725, [68,98]],
+[310, [126]],
+[291, [219]],
+[313, [42,46]],
+[312, [1078,1082,1243]]
+],
 "memberKind": "Field"
 }
 }
@@ -26688,175 +34201,207 @@ var contents = {
 "DataReader":{
 "members": {
 ":ctor`1":{
-"files": [725,
-540,
-724,
-722,
-651,
-685,
-726,
-91,
-76,
-122,
-311,
-310],
+"files": [
+[726, [182]],
+[542, [376]],
+[725, [94]],
+[723, [66]],
+[652, [63,109]],
+[686, [88]],
+[727, [259]],
+[91, [41]],
+[76, [100]],
+[124, [180]],
+[313, [40]],
+[312, [1066]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ByteOrder":{
-"files": [396,
-724,
-289,
-311,
-310],
+"files": [
+[400, [353]],
+[725, [98]],
+[291, [219]],
+[313, [42]],
+[312, [1078,1243]]
+],
 "memberKind": "?"
 }
 ,
 "DetachBuffer`0":{
-"files": [118],
+"files": [
+[120, [254]]
+],
 "memberKind": "Method"
 }
 ,
 "DetachStream`0":{
-"files": [725,
-726],
+"files": [
+[726, [199]],
+[727, [273]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [311,
-310],
+"files": [
+[313, [55]],
+[312, [1294]]
+],
 "memberKind": "Method"
 }
 ,
 "FromBuffer`1":{
-"files": [294,
-336,
-257,
-93,
-727,
-397,
-400,
-396,
-688,
-225,
-306,
-728,
-380,
-729,
-289,
-730,
-310],
+"files": [
+[296, [191,235]],
+[338, [460,504]],
+[259, [240]],
+[93, [78]],
+[728, [137]],
+[401, [214,316]],
+[404, [291]],
+[400, [350]],
+[689, [92]],
+[227, [202]],
+[308, [203]],
+[729, [80]],
+[382, [106]],
+[730, [132,145]],
+[291, [217]],
+[731, [27]],
+[312, [113,261,447,628]]
+],
 "memberKind": "Method"
 }
 ,
 "InputStreamOptions":{
-"files": [725,
-726,
-91,
-76],
+"files": [
+[726, [306]],
+[727, [322]],
+[91, [42]],
+[76, [101]]
+],
 "memberKind": "?"
 }
 ,
 "LoadAsync`1":{
-"files": [725,
-540,
-724,
-722,
-651,
-685,
-726,
-91,
-76,
-122,
-311,
-310],
+"files": [
+[726, [307]],
+[542, [387]],
+[725, [101]],
+[723, [78]],
+[652, [64,110]],
+[686, [93]],
+[727, [323]],
+[91, [43]],
+[76, [102]],
+[124, [186,195]],
+[313, [79,84]],
+[312, [1177,1193]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadBuffer`1":{
-"files": [651,
-728,
-380],
+"files": [
+[652, [65,111]],
+[729, [112]],
+[382, [136,140]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadByte`0":{
-"files": [727,
-397,
-400,
-396,
-306,
-728,
-380,
-729],
+"files": [
+[728, [139,140]],
+[401, [217,318]],
+[404, [293]],
+[400, [357,358]],
+[308, [206]],
+[729, [82,89,95,98,101,104]],
+[382, [108,117,118,129]],
+[730, [136,137,154,161,172,179,182]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadBytes`1":{
-"files": [294,
-336,
-257,
-93,
-722,
-380,
-729],
+"files": [
+[296, [193]],
+[338, [462]],
+[259, [242]],
+[93, [80]],
+[723, [85,101]],
+[382, [125]],
+[730, [135]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadString`1":{
-"files": [294,
-336,
-725,
-119,
-620,
-724,
-688,
-685,
-225,
-726,
-91,
-122,
-629,
-289,
-311,
-730,
-310],
+"files": [
+[296, [236]],
+[338, [505]],
+[726, [313]],
+[121, [139]],
+[622, [261]],
+[725, [111]],
+[689, [94]],
+[686, [94]],
+[227, [202]],
+[727, [330]],
+[91, [44]],
+[124, [205]],
+[631, [151]],
+[291, [222]],
+[313, [88]],
+[731, [29]],
+[312, [115,263,449,630,1204]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadUInt16`0":{
-"files": [380],
+"files": [
+[382, [130]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadUInt32`0":{
-"files": [724,
-122,
-289,
-311,
-310],
+"files": [
+[725, [110]],
+[124, [194]],
+[291, [222]],
+[313, [83]],
+[312, [1189]]
+],
 "memberKind": "Method"
 }
 ,
 "UnconsumedBufferLength":{
-"files": [119,
-620,
-724,
-306,
-380,
-729,
-91,
-629],
+"files": [
+[121, [138]],
+[622, [260]],
+[725, [106]],
+[308, [204]],
+[382, [112]],
+[730, [149,159,169]],
+[91, [44]],
+[631, [151]]
+],
 "memberKind": "Property"
 }
 ,
 "UnicodeEncoding":{
-"files": [724,
-629,
-289,
-311,
-310],
+"files": [
+[725, [97]],
+[631, [149]],
+[291, [218]],
+[313, [41]],
+[312, [1077,1242]]
+],
 "memberKind": "?"
 }
 }
@@ -26865,14 +34410,18 @@ var contents = {
 "DataReaderLoadOperation":{
 "members": {
 "AsTask`1":{
-"files": [725,
-540,
-726],
+"files": [
+[726, [307]],
+[542, [387]],
+[727, [323]]
+],
 "memberKind": "Method"
 }
 ,
 "Completed":{
-"files": [76],
+"files": [
+[76, [103]]
+],
 "memberKind": "Property"
 }
 }
@@ -26881,216 +34430,248 @@ var contents = {
 "DataWriter":{
 "members": {
 ":ctor`0":{
-"files": [257,
-258,
-66,
-67,
-727,
-329,
-731,
-397,
-205,
-307,
-732,
-729,
-297,
-628,
-308,
-165],
+"files": [
+[259, [71]],
+[260, [61]],
+[66, [78]],
+[67, [70]],
+[728, [108]],
+[331, [153,174]],
+[732, [162,221]],
+[401, [153]],
+[207, [74,154]],
+[309, [278]],
+[733, [42,75]],
+[730, [77]],
+[299, [65]],
+[630, [214]],
+[310, [124,132]],
+[167, [100]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [718,
-725,
-82,
-400,
-540,
-120,
-620,
-724,
-651,
-83,
-688,
-685,
-205,
-726,
-630,
-91,
-124,
-629,
-311,
-305,
-310],
+"files": [
+[719, [54]],
+[726, [222]],
+[82, [145]],
+[404, [405]],
+[542, [338]],
+[122, [75]],
+[622, [215]],
+[725, [65]],
+[652, [99]],
+[83, [133]],
+[689, [46]],
+[686, [54]],
+[207, [93,134]],
+[727, [185,235]],
+[632, [70]],
+[91, [50]],
+[126, [75]],
+[631, [89]],
+[313, [44]],
+[307, [200,219,322]],
+[312, [440,509,1067,1072]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ByteOrder":{
-"files": [724,
-308,
-311,
-310],
+"files": [
+[725, [68]],
+[310, [126]],
+[313, [46]],
+[312, [1082]]
+],
 "memberKind": "?"
 }
 ,
 "DetachBuffer`0":{
-"files": [257,
-258,
-66,
-67,
-727,
-329,
-731,
-397,
-688,
-205,
-307,
-732,
-729,
-297,
-628,
-308,
-305,
-310,
-165],
+"files": [
+[259, [75]],
+[260, [66]],
+[66, [82]],
+[67, [75]],
+[728, [114]],
+[331, [159,180]],
+[732, [168,227]],
+[401, [159]],
+[689, [49]],
+[207, [78,157]],
+[309, [300]],
+[733, [49,83]],
+[730, [95]],
+[299, [71]],
+[630, [233]],
+[310, [129,134]],
+[307, [203,222,326]],
+[312, [443,512]],
+[167, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "DetachStream`0":{
-"files": [725,
-121,
-724,
-205,
-726,
-630,
-91,
-125],
+"files": [
+[726, [239]],
+[123, [65]],
+[725, [89]],
+[207, [99,139]],
+[727, [214,251]],
+[632, [74]],
+[91, [53]],
+[127, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
-"files": [121,
-630,
-91,
-125,
-311,
-310],
+"files": [
+[123, [66]],
+[632, [75]],
+[91, [54]],
+[127, [66]],
+[313, [56]],
+[312, [1289]]
+],
 "memberKind": "Method"
 }
 ,
 "FlushAsync`0":{
-"files": [724],
+"files": [
+[725, [83]]
+],
 "memberKind": "Method"
 }
 ,
 "MeasureString`1":{
-"files": [724,
-124,
-308,
-311,
-310],
+"files": [
+[725, [73]],
+[126, [86]],
+[310, [127]],
+[313, [64]],
+[312, [1134,1138]]
+],
 "memberKind": "Method"
 }
 ,
 "StoreAsync`0":{
-"files": [718,
-725,
-82,
-400,
-540,
-120,
-620,
-724,
-651,
-83,
-685,
-205,
-726,
-630,
-91,
-124,
-629,
-311,
-310],
+"files": [
+[719, [56]],
+[726, [341]],
+[82, [157]],
+[404, [409]],
+[542, [352]],
+[122, [90]],
+[622, [217]],
+[725, [79]],
+[652, [101]],
+[83, [137]],
+[686, [57]],
+[207, [96,136]],
+[727, [298]],
+[632, [73]],
+[91, [52]],
+[126, [92]],
+[631, [106]],
+[313, [66]],
+[312, [1136]]
+],
 "memberKind": "Method"
 }
 ,
 "UnicodeEncoding":{
-"files": [724,
-308,
-311,
-310],
+"files": [
+[725, [67]],
+[310, [125]],
+[313, [45]],
+[312, [1081]]
+],
 "memberKind": "?"
 }
 ,
 "WriteBuffer`3":{
-"files": [628],
+"files": [
+[630, [230]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteByte`1":{
-"files": [727,
-329,
-731,
-397,
-307,
-732,
-729,
-297],
+"files": [
+[728, [111,112]],
+[331, [156,157,177,178]],
+[732, [165,166,224,225]],
+[401, [156]],
+[309, [298]],
+[733, [44,46,77,79]],
+[730, [79,80,81,82,86,92]],
+[299, [67,68]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteBytes`1":{
-"files": [82,
-400,
-540,
-651,
-732,
-729,
-297,
-628,
-630,
-91,
-308,
-310],
+"files": [
+[82, [155]],
+[404, [406]],
+[542, [339]],
+[652, [100]],
+[733, [45,47,78,80,81]],
+[730, [87]],
+[299, [69]],
+[630, [229]],
+[632, [71]],
+[91, [51]],
+[310, [133]],
+[312, [442]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteString`1":{
-"files": [718,
-725,
-120,
-620,
-724,
-83,
-688,
-685,
-205,
-726,
-124,
-629,
-308,
-311,
-305,
-310,
-165],
+"files": [
+[719, [55]],
+[726, [331]],
+[122, [85]],
+[622, [216]],
+[725, [75]],
+[83, [136]],
+[689, [48]],
+[686, [56]],
+[207, [75,94,135,155]],
+[727, [190,194,236]],
+[126, [87]],
+[631, [103]],
+[310, [128]],
+[313, [65]],
+[307, [202,221,324]],
+[312, [511,1135]],
+[167, [102]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteUInt16`1":{
-"files": [257,
-258,
-66,
-67],
+"files": [
+[259, [72]],
+[260, [63]],
+[66, [79]],
+[67, [72]]
+],
 "memberKind": "Method"
 }
 ,
 "WriteUInt32`1":{
-"files": [724,
-124,
-308,
-311,
-310],
+"files": [
+[725, [74]],
+[126, [86]],
+[310, [127]],
+[313, [64]],
+[312, [1134]]
+],
 "memberKind": "Method"
 }
 }
@@ -27099,11 +34680,13 @@ var contents = {
 "DataWriterStoreOperation":{
 "members": {
 "AsTask`1":{
-"files": [725,
-82,
-540,
-205,
-726],
+"files": [
+[726, [341]],
+[82, [157]],
+[542, [352]],
+[207, [96,136]],
+[727, [298]]
+],
 "memberKind": "Method"
 }
 }
@@ -27112,34 +34695,40 @@ var contents = {
 "IBuffer":{
 "members": {
 "AsStream`0":{
-"files": [492],
+"files": [
+[494, [619]]
+],
 "memberKind": "Method"
 }
 ,
 "Length":{
-"files": [294,
-336,
-329,
-397,
-400,
-688,
-205,
-458,
-225,
-733,
-729,
-628,
-730,
-310],
+"files": [
+[296, [189,200,236]],
+[338, [458,469,505]],
+[331, [206]],
+[401, [171,177,184,212,247,313]],
+[404, [287,289,366]],
+[689, [66,94,95]],
+[207, [81,158]],
+[460, [109]],
+[227, [202]],
+[734, [62]],
+[730, [128,134]],
+[630, [205,206,212,225]],
+[731, [29]],
+[312, [111,115,259,263,449,626,630]]
+],
 "memberKind": "Property"
 }
 ,
 "ToArray`0":{
-"files": [627,
-733,
-732,
-297,
-289],
+"files": [
+[629, [97,131]],
+[734, [126]],
+[733, [49,83]],
+[299, [71]],
+[291, [203]]
+],
 "memberKind": "Method"
 }
 }
@@ -27148,13 +34737,15 @@ var contents = {
 "IInputStream":{
 "members": {
 "AsStreamForRead`0":{
-"files": [667,
-672,
-675,
-679,
-680,
-631,
-681],
+"files": [
+[668, [115]],
+[673, [126]],
+[676, [112]],
+[680, [115]],
+[681, [115]],
+[633, [93]],
+[682, [113]]
+],
 "memberKind": "Method"
 }
 }
@@ -27163,45 +34754,55 @@ var contents = {
 "InMemoryRandomAccessStream":{
 "members": {
 ":ctor`0":{
-"files": [189,
-191,
-192,
-129,
-718,
-724,
-651,
-688,
-205,
-140,
-198,
-305,
-310,
-449],
+"files": [
+[191, [484]],
+[193, [570]],
+[194, [404]],
+[131, [112]],
+[719, [53]],
+[725, [62]],
+[652, [59,97,104]],
+[689, [44]],
+[207, [92]],
+[142, [64]],
+[200, [356]],
+[307, [198,217,322]],
+[312, [438,509]],
+[451, [91]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetInputStreamAt`1":{
-"files": [651,
-205],
+"files": [
+[652, [58,63,81,103,109]],
+[207, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "GetOutputStreamAt`1":{
-"files": [651,
-449],
+"files": [
+[652, [98,105]],
+[451, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
-"files": [718,
-724],
+"files": [
+[719, [57]],
+[725, [93]]
+],
 "memberKind": "Method"
 }
 ,
 "Size":{
-"files": [724,
-651,
-205],
+"files": [
+[725, [101]],
+[652, [64,65,110,111]],
+[207, [102]]
+],
 "memberKind": "Property"
 }
 }
@@ -27210,10 +34811,12 @@ var contents = {
 "InputStreamOptions":{
 "members": {
 "Partial":{
-"files": [725,
-726,
-91,
-76],
+"files": [
+[726, [306]],
+[727, [322]],
+[91, [42]],
+[76, [101]]
+],
 "memberKind": "Field"
 }
 }
@@ -27222,8 +34825,10 @@ var contents = {
 "IOutputStream":{
 "members": {
 "WriteAsync`1":{
-"files": [118,
-631],
+"files": [
+[120, [254]],
+[633, [151]]
+],
 "memberKind": "Method"
 }
 }
@@ -27232,18 +34837,24 @@ var contents = {
 "IRandomAccessStream":{
 "members": {
 "GetOutputStreamAt`1":{
-"files": [83],
+"files": [
+[83, [131]]
+],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
-"files": [198],
+"files": [
+[200, [434,435]]
+],
 "memberKind": "Method"
 }
 ,
 "Size":{
-"files": [685,
-198],
+"files": [
+[686, [57,90]],
+[200, [436,511]]
+],
 "memberKind": "Property"
 }
 }
@@ -27252,12 +34863,14 @@ var contents = {
 "IRandomAccessStreamReference":{
 "members": {
 "OpenReadAsync`0":{
-"files": [129,
-149,
-605,
-734,
-150,
-735],
+"files": [
+[131, [76]],
+[151, [206,221,325]],
+[607, [57]],
+[735, [45]],
+[152, [190,205,309]],
+[736, [104]]
+],
 "memberKind": "Method"
 }
 }
@@ -27266,13 +34879,17 @@ var contents = {
 "RandomAccessStream":{
 "members": {
 "CopyAndCloseAsync`2":{
-"files": [449],
+"files": [
+[451, [102]]
+],
 "memberKind": "Method"
 }
 ,
 "CopyAsync`2":{
-"files": [668,
-198],
+"files": [
+[669, [121,141]],
+[200, [437]]
+],
 "memberKind": "Method"
 }
 }
@@ -27281,32 +34898,40 @@ var contents = {
 "RandomAccessStreamReference":{
 "members": {
 "CreateFromFile`1":{
-"files": [129,
-149,
-140,
-142,
-150],
+"files": [
+[131, [157]],
+[151, [377]],
+[142, [42]],
+[144, [50]],
+[152, [361]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromStream`1":{
-"files": [129,
-140],
+"files": [
+[131, [118]],
+[142, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateFromUri`1":{
-"files": [78,
-130,
-549,
-320,
-138,
-449],
+"files": [
+[78, [207]],
+[132, [62]],
+[551, [90]],
+[322, [37]],
+[140, [54,59]],
+[451, [90]]
+],
 "memberKind": "Method"
 }
 ,
 "OpenReadAsync`0":{
-"files": [449],
+"files": [
+[451, [95]]
+],
 "memberKind": "Method"
 }
 }
@@ -27315,13 +34940,15 @@ var contents = {
 "UnicodeEncoding":{
 "members": {
 "Utf8":{
-"files": [724,
-634,
-629,
-308,
-289,
-311,
-310],
+"files": [
+[725, [67,97]],
+[636, [137]],
+[631, [149]],
+[310, [125]],
+[291, [218]],
+[313, [41,45]],
+[312, [1077,1081,1242]]
+],
 "memberKind": "Field"
 }
 }
@@ -27332,33 +34959,41 @@ var contents = {
 "SystemProperties":{
 "members": {
 "Comment":{
-"files": [155,
-718,
-720,
-670],
+"files": [
+[157, [94,104]],
+[719, [84]],
+[721, [58]],
+[671, [60,69]]
+],
 "memberKind": "Property"
 }
 ,
 "ItemNameDisplay":{
-"files": [155,
-718,
-719,
-720,
-670],
+"files": [
+[157, [92,102]],
+[719, [82]],
+[720, [93,111]],
+[721, [56]],
+[671, [58,67,94]]
+],
 "memberKind": "Property"
 }
 ,
 "Keywords":{
-"files": [155,
-718,
-719,
-720,
-670],
+"files": [
+[157, [93,103]],
+[719, [83]],
+[720, [101]],
+[721, [57]],
+[671, [59,68]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [670],
+"files": [
+[671, [61,70]]
+],
 "memberKind": "Property"
 }
 }
@@ -27373,32 +35008,38 @@ var contents = {
 "DisplayRequest":{
 "members": {
 ":ctor`0":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [59]],
+[192, [54]],
+[193, [56]],
+[194, [54]],
+[195, [54]],
+[198, [56]]
+],
 "memberKind": "Constructor"
 }
 ,
 "RequestActive`0":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [347]],
+[192, [279]],
+[193, [387]],
+[194, [317]],
+[195, [362]],
+[198, [426]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestRelease`0":{
-"files": [189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[191, [421]],
+[192, [354]],
+[193, [458]],
+[194, [388]],
+[195, [433]],
+[198, [498]]
+],
 "memberKind": "Method"
 }
 }
@@ -27409,48 +35050,66 @@ var contents = {
 "KnownUserProperties":{
 "members": {
 "AccountName":{
-"files": [735],
+"files": [
+[736, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [735,
-736],
+"files": [
+[736, [44]],
+[737, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "DomainName":{
-"files": [735],
+"files": [
+[736, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
-"files": [735],
+"files": [
+[736, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "GuestHost":{
-"files": [735],
+"files": [
+[736, [85]]
+],
 "memberKind": "Property"
 }
 ,
 "LastName":{
-"files": [735],
+"files": [
+[736, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "PrincipalName":{
-"files": [735],
+"files": [
+[736, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "ProviderName":{
-"files": [735],
+"files": [
+[736, [83]]
+],
 "memberKind": "Property"
 }
 ,
 "SessionInitiationProtocolUri":{
-"files": [735],
+"files": [
+[736, [88]]
+],
 "memberKind": "Property"
 }
 }
@@ -27459,57 +35118,65 @@ var contents = {
 "Launcher":{
 "members": {
 "LaunchFileAsync`1":{
-"files": [154],
+"files": [
+[156, [73,211]]
+],
 "memberKind": "Method"
 }
 ,
 "LaunchFileAsync`2":{
-"files": [154],
+"files": [
+[156, [97,127,181]]
+],
 "memberKind": "Method"
 }
 ,
 "LaunchUriAsync`1":{
-"files": [506,
-507,
-508,
-465,
-509,
-737,
-738,
-29,
-32,
-33,
-510,
-511,
-512,
-513,
-739,
-496,
-61,
-740,
-514,
-468,
-150,
-574,
-174,
-175,
-472,
-741,
-515,
-516,
-517,
-518,
-519,
-521,
-524,
-525,
-165],
+"files": [
+[508, [190]],
+[509, [108]],
+[510, [139]],
+[467, [54]],
+[511, [126]],
+[738, [161]],
+[739, [147]],
+[29, [334]],
+[32, [294]],
+[33, [292]],
+[512, [108]],
+[513, [108]],
+[514, [117]],
+[515, [134]],
+[740, [143]],
+[498, [158]],
+[61, [198,203]],
+[741, [83]],
+[516, [105]],
+[470, [155]],
+[152, [412]],
+[576, [436]],
+[176, [340]],
+[177, [342]],
+[474, [149]],
+[742, [178]],
+[517, [82]],
+[518, [112]],
+[519, [108]],
+[520, [107]],
+[521, [82]],
+[523, [82]],
+[526, [108]],
+[527, [108]],
+[167, [162]]
+],
 "memberKind": "Method"
 }
 ,
 "LaunchUriAsync`2":{
-"files": [465,
-553],
+"files": [
+[467, [78,108,159]],
+[555, [54]]
+],
 "memberKind": "Method"
 }
 }
@@ -27518,38 +35185,50 @@ var contents = {
 "LauncherOptions":{
 "members": {
 ":ctor`0":{
-"files": [154,
-465,
-553],
+"files": [
+[156, [93,121,154]],
+[467, [74,102,128]],
+[555, [52]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DesiredRemainingView":{
-"files": [154,
-465],
+"files": [
+[156, [157,161,165,169,173,177]],
+[467, [134,138,142,146,150,154]]
+],
 "memberKind": "?"
 }
 ,
 "DisplayApplicationPicker":{
-"files": [154,
-465],
+"files": [
+[156, [122]],
+[467, [103]]
+],
 "memberKind": "Property"
 }
 ,
 "TargetApplicationPackageFamilyName":{
-"files": [553],
+"files": [
+[555, [53]]
+],
 "memberKind": "Property"
 }
 ,
 "TreatAsUntrusted":{
-"files": [154,
-465],
+"files": [
+[156, [94]],
+[467, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "UI":{
-"files": [154,
-465],
+"files": [
+[156, [123,124]],
+[467, [104,105]]
+],
 "memberKind": "Property"
 }
 }
@@ -27558,14 +35237,18 @@ var contents = {
 "LauncherUIOptions":{
 "members": {
 "InvocationPoint":{
-"files": [154,
-465],
+"files": [
+[156, [123]],
+[467, [104]]
+],
 "memberKind": "Property"
 }
 ,
 "PreferredPlacement":{
-"files": [154,
-465],
+"files": [
+[156, [124]],
+[467, [105]]
+],
 "memberKind": "?"
 }
 }
@@ -27574,27 +35257,37 @@ var contents = {
 "ProcessorArchitecture":{
 "members": {
 "Arm":{
-"files": [158],
+"files": [
+[160, [46]]
+],
 "memberKind": "Field"
 }
 ,
 "Neutral":{
-"files": [158],
+"files": [
+[160, [50]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [158],
+"files": [
+[160, [52]]
+],
 "memberKind": "Field"
 }
 ,
 "X64":{
-"files": [158],
+"files": [
+[160, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "X86":{
-"files": [158],
+"files": [
+[160, [44]]
+],
 "memberKind": "Field"
 }
 }
@@ -27605,7 +35298,9 @@ var contents = {
 "AnalyticsInfo":{
 "members": {
 "VersionInfo":{
-"files": [742],
+"files": [
+[743, [25]]
+],
 "memberKind": "Property"
 }
 }
@@ -27614,7 +35309,9 @@ var contents = {
 "AnalyticsVersionInfo":{
 "members": {
 "DeviceFamily":{
-"files": [742],
+"files": [
+[743, [25]]
+],
 "memberKind": "Property"
 }
 }
@@ -27627,7 +35324,9 @@ var contents = {
 "ThreadPool":{
 "members": {
 "RunAsync`1":{
-"files": [168],
+"files": [
+[170, [68]]
+],
 "memberKind": "Method"
 }
 }
@@ -27636,20 +35335,26 @@ var contents = {
 "ThreadPoolTimer":{
 "members": {
 "Cancel`0":{
-"files": [80,
-188],
+"files": [
+[80, [92]],
+[190, [207]]
+],
 "memberKind": "Method"
 }
 ,
 "CreatePeriodicTimer`2":{
-"files": [80,
-188],
+"files": [
+[80, [63]],
+[190, [183]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateTimer`2":{
-"files": [536,
-743],
+"files": [
+[538, [98]],
+[744, [144]]
+],
 "memberKind": "Method"
 }
 }
@@ -27658,9 +35363,11 @@ var contents = {
 "TimerElapsedHandler":{
 "members": {
 ":ctor`1":{
-"files": [80,
-188,
-536],
+"files": [
+[80, [63]],
+[190, [183]],
+[538, [98]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -27671,49 +35378,67 @@ var contents = {
 "User":{
 "members": {
 "AuthenticationStatus":{
-"files": [735],
+"files": [
+[736, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "CreateWatcher`0":{
-"files": [736],
+"files": [
+[737, [50]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAllAsync`0":{
-"files": [735],
+"files": [
+[736, [39]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFromId`1":{
-"files": [735],
+"files": [
+[736, [71]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPictureAsync`1":{
-"files": [735],
+"files": [
+[736, [101]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPropertiesAsync`1":{
-"files": [735],
+"files": [
+[736, [91]]
+],
 "memberKind": "Method"
 }
 ,
 "GetPropertyAsync`1":{
-"files": [735,
-736],
+"files": [
+[736, [44]],
+[737, [95]]
+],
 "memberKind": "Method"
 }
 ,
 "NonRoamableId":{
-"files": [735,
-736],
+"files": [
+[736, [52,74]],
+[737, [116,132,148]]
+],
 "memberKind": "Property"
 }
 ,
 "Type":{
-"files": [735],
+"files": [
+[736, [75]]
+],
 "memberKind": "Property"
 }
 }
@@ -27722,7 +35447,9 @@ var contents = {
 "UserAuthenticationStatus":{
 "members": {
 "ToString`0":{
-"files": [735],
+"files": [
+[736, [76]]
+],
 "memberKind": "Method"
 }
 }
@@ -27731,7 +35458,9 @@ var contents = {
 "UserChangedEventArgs":{
 "members": {
 "User":{
-"files": [736],
+"files": [
+[737, [108,126,142]]
+],
 "memberKind": "Property"
 }
 }
@@ -27740,7 +35469,9 @@ var contents = {
 "UserPictureSize":{
 "members": {
 "Size64x64":{
-"files": [735],
+"files": [
+[736, [101]]
+],
 "memberKind": "Field"
 }
 }
@@ -27751,34 +35482,46 @@ var contents = {
 "GlobalizationPreferences":{
 "members": {
 "Calendars":{
-"files": [567],
+"files": [
+[569, [32]]
+],
 "memberKind": "Property"
 }
 ,
 "Clocks":{
-"files": [567],
+"files": [
+[569, [33]]
+],
 "memberKind": "Property"
 }
 ,
 "Currencies":{
-"files": [564,
-575],
+"files": [
+[566, [46]],
+[577, [61]]
+],
 "memberKind": "Property"
 }
 ,
 "HomeGeographicRegion":{
-"files": [567],
+"files": [
+[569, [31]]
+],
 "memberKind": "Property"
 }
 ,
 "Languages":{
-"files": [567,
-572],
+"files": [
+[569, [30]],
+[574, [38]]
+],
 "memberKind": "Property"
 }
 ,
 "WeekStartsOn":{
-"files": [567],
+"files": [
+[569, [34]]
+],
 "memberKind": "Property"
 }
 }
@@ -27787,22 +35530,30 @@ var contents = {
 "LockScreen":{
 "members": {
 "GetImageStream`0":{
-"files": [714],
+"files": [
+[715, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestSetImageFeedAsync`1":{
-"files": [554],
+"files": [
+[556, [50]]
+],
 "memberKind": "Method"
 }
 ,
 "SetImageFileAsync`1":{
-"files": [714],
+"files": [
+[715, [60]]
+],
 "memberKind": "Method"
 }
 ,
 "TryRemoveImageFeed`0":{
-"files": [554],
+"files": [
+[556, [67]]
+],
 "memberKind": "Method"
 }
 }
@@ -27811,12 +35562,16 @@ var contents = {
 "SetImageFeedResult":{
 "members": {
 "ChangeDisabled":{
-"files": [554],
+"files": [
+[556, [55]]
+],
 "memberKind": "Field"
 }
 ,
 "Success":{
-"files": [554],
+"files": [
+[556, [51]]
+],
 "memberKind": "Field"
 }
 }
@@ -27827,7 +35582,9 @@ var contents = {
 "UserType":{
 "members": {
 "ToString`0":{
-"files": [735],
+"files": [
+[736, [75]]
+],
 "memberKind": "Method"
 }
 }
@@ -27836,37 +35593,51 @@ var contents = {
 "UserWatcher":{
 "members": {
 "Added":{
-"files": [736],
+"files": [
+[737, [51,67]]
+],
 "memberKind": "?"
 }
 ,
 "EnumerationCompleted":{
-"files": [736],
+"files": [
+[737, [54,70]]
+],
 "memberKind": "?"
 }
 ,
 "Removed":{
-"files": [736],
+"files": [
+[737, [53,69]]
+],
 "memberKind": "?"
 }
 ,
 "Start`0":{
-"files": [736],
+"files": [
+[737, [56]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [736],
+"files": [
+[737, [72]]
+],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
-"files": [736],
+"files": [
+[737, [55,71]]
+],
 "memberKind": "?"
 }
 ,
 "Updated":{
-"files": [736],
+"files": [
+[737, [52,68]]
+],
 "memberKind": "?"
 }
 }
@@ -27875,138 +35646,188 @@ var contents = {
 "VirtualKey":{
 "members": {
 "Application":{
-"files": [485],
+"files": [
+[487, [80]]
+],
 "memberKind": "Field"
 }
 ,
 "Control":{
-"files": [493,
-474],
+"files": [
+[495, [251]],
+[476, [241]]
+],
 "memberKind": "Field"
 }
 ,
 "Down":{
-"files": [473,
-744],
+"files": [
+[475, [113]],
+[745, [128]]
+],
 "memberKind": "Field"
 }
 ,
 "Enter":{
-"files": [744],
+"files": [
+[745, [183]]
+],
 "memberKind": "Field"
 }
 ,
 "Escape":{
-"files": [745],
+"files": [
+[746, [96]]
+],
 "memberKind": "Field"
 }
 ,
 "F10":{
-"files": [485],
+"files": [
+[487, [66]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadDown":{
-"files": [473],
+"files": [
+[475, [114]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadLeft":{
-"files": [473],
+"files": [
+[475, [94]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadRight":{
-"files": [473],
+"files": [
+[475, [100]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadUp":{
-"files": [473],
+"files": [
+[475, [107]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickDown":{
-"files": [473],
+"files": [
+[475, [115]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickLeft":{
-"files": [473],
+"files": [
+[475, [95]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickRight":{
-"files": [473],
+"files": [
+[475, [101]]
+],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickUp":{
-"files": [473],
+"files": [
+[475, [108]]
+],
 "memberKind": "Field"
 }
 ,
 "Left":{
-"files": [493,
-473,
-474],
+"files": [
+[495, [245,257]],
+[475, [93]],
+[476, [235,247]]
+],
 "memberKind": "Field"
 }
 ,
 "Menu":{
-"files": [493,
-474],
+"files": [
+[495, [250]],
+[476, [240]]
+],
 "memberKind": "Field"
 }
 ,
 "NavigationDown":{
-"files": [473],
+"files": [
+[475, [116]]
+],
 "memberKind": "Field"
 }
 ,
 "NavigationLeft":{
-"files": [473],
+"files": [
+[475, [96]]
+],
 "memberKind": "Field"
 }
 ,
 "NavigationRight":{
-"files": [473],
+"files": [
+[475, [102]]
+],
 "memberKind": "Field"
 }
 ,
 "NavigationUp":{
-"files": [473],
+"files": [
+[475, [109]]
+],
 "memberKind": "Field"
 }
 ,
 "Right":{
-"files": [493,
-473,
-474],
+"files": [
+[495, [245,264]],
+[475, [99]],
+[476, [235,254]]
+],
 "memberKind": "Field"
 }
 ,
 "Shift":{
-"files": [493,
-485,
-744,
-474],
+"files": [
+[495, [252]],
+[487, [60,97]],
+[745, [134]],
+[476, [242]]
+],
 "memberKind": "Field"
 }
 ,
 "Space":{
-"files": [744],
+"files": [
+[745, [182]]
+],
 "memberKind": "Field"
 }
 ,
 "Tab":{
-"files": [744],
+"files": [
+[745, [133]]
+],
 "memberKind": "Field"
 }
 ,
 "Up":{
-"files": [473,
-744],
+"files": [
+[475, [106]],
+[745, [123]]
+],
 "memberKind": "Field"
 }
 }
@@ -28021,26 +35842,32 @@ var contents = {
 "AccountsSettingsPane":{
 "members": {
 "AccountCommandsRequested":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [61,68]],
+[433, [59,66]],
+[434, [48,55]],
+[435, [49,56]]
+],
 "memberKind": "?"
 }
 ,
 "GetForCurrentView`0":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [61,68]],
+[433, [59,66]],
+[434, [48,55]],
+[435, [49,56]]
+],
 "memberKind": "Method"
 }
 ,
 "Show`0":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [77]],
+[433, [75]],
+[434, [65]],
+[435, [66]]
+],
 "memberKind": "Method"
 }
 }
@@ -28049,42 +35876,52 @@ var contents = {
 "AccountsSettingsPaneCommandsRequestedEventArgs":{
 "members": {
 "Commands":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [176,177]],
+[433, [120,121]],
+[434, [149,150]],
+[435, [150,151]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [159]],
+[433, [96]],
+[434, [89]],
+[435, [90]]
+],
 "memberKind": "Method"
 }
 ,
 "HeaderText":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [173]],
+[433, [117]],
+[434, [146]],
+[435, [147]]
+],
 "memberKind": "Property"
 }
 ,
 "WebAccountCommands":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [209]],
+[433, [173]],
+[434, [141]],
+[435, [142]]
+],
 "memberKind": "Property"
 }
 ,
 "WebAccountProviderCommands":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [198]],
+[433, [136]],
+[434, [122]],
+[435, [123]]
+],
 "memberKind": "Property"
 }
 }
@@ -28093,10 +35930,12 @@ var contents = {
 "AccountsSettingsPaneEventDeferral":{
 "members": {
 "Complete`0":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [168]],
+[433, [112]],
+[434, [107]],
+[435, [108]]
+],
 "memberKind": "Method"
 }
 }
@@ -28105,10 +35944,12 @@ var contents = {
 "SettingsCommand":{
 "members": {
 ":ctor`3":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [176,177]],
+[433, [120,121]],
+[434, [149,150]],
+[435, [150,151]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -28117,16 +35958,20 @@ var contents = {
 "SupportedWebAccountActions":{
 "members": {
 "Manage":{
-"files": [632,
-430],
+"files": [
+[634, [208]],
+[433, [172]]
+],
 "memberKind": "Field"
 }
 ,
 "Remove":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [208]],
+[433, [172]],
+[434, [140]],
+[435, [141]]
+],
 "memberKind": "Field"
 }
 }
@@ -28135,16 +35980,20 @@ var contents = {
 "WebAccountAction":{
 "members": {
 "Manage":{
-"files": [632,
-430],
+"files": [
+[634, [296]],
+[433, [290]]
+],
 "memberKind": "Field"
 }
 ,
 "Remove":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [292]],
+[433, [285]],
+[434, [160]],
+[435, [162]]
+],
 "memberKind": "Field"
 }
 }
@@ -28153,15 +36002,19 @@ var contents = {
 "WebAccountCommand":{
 "members": {
 ":ctor`3":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [208]],
+[433, [172]],
+[434, [140]],
+[435, [141]]
+],
 "memberKind": "Constructor"
 }
 ,
 "WebAccount":{
-"files": [632],
+"files": [
+[634, [294,299]]
+],
 "memberKind": "Property"
 }
 }
@@ -28170,10 +36023,12 @@ var contents = {
 "WebAccountInvokedArgs":{
 "members": {
 "Action":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [292,296]],
+[433, [285,290]],
+[434, [160]],
+[435, [162]]
+],
 "memberKind": "Property"
 }
 }
@@ -28182,18 +36037,22 @@ var contents = {
 "WebAccountProviderCommand":{
 "members": {
 ":ctor`2":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [197]],
+[433, [135]],
+[434, [121]],
+[435, [122]]
+],
 "memberKind": "Constructor"
 }
 ,
 "WebAccountProvider":{
-"files": [632,
-430,
-431,
-432],
+"files": [
+[634, [215,218,220,222,224,228]],
+[433, [200,203,205,207,209,213]],
+[434, [155]],
+[435, [157]]
+],
 "memberKind": "Property"
 }
 }
@@ -28204,74 +36063,88 @@ var contents = {
 "Color":{
 "members": {
 ":ctor`0":{
-"files": [138,
-746],
+"files": [
+[140, [82]],
+[747, [81,82,83,84,89,90,91,92,95,96,97,98]]
+],
 "memberKind": "Constructor"
 }
 ,
 "A":{
-"files": [138,
-747,
-748,
-749,
-750],
+"files": [
+[140, [86]],
+[748, [24]],
+[749, [24]],
+[750, [24]],
+[751, [24]]
+],
 "memberKind": "?"
 }
 ,
 "B":{
-"files": [138,
-747,
-748,
-749,
-750],
+"files": [
+[140, [85]],
+[748, [24]],
+[749, [24]],
+[750, [24]],
+[751, [24]]
+],
 "memberKind": "?"
 }
 ,
 "FromArgb`4":{
-"files": [588,
-293,
-589,
-590,
-591,
-435,
-637,
-751,
-752,
-102,
-115,
-116,
-117,
-743,
-753,
-747,
-748,
-749,
-750,
-526],
+"files": [
+[590, [130]],
+[295, [148,149,248,249,250,259,260,262,263]],
+[591, [85]],
+[592, [189,190,191]],
+[593, [136,153,181,209,246,247,248,249]],
+[438, [132]],
+[639, [136,388,448]],
+[752, [36]],
+[99, [419]],
+[105, [74]],
+[100, [62]],
+[118, [82]],
+[119, [60]],
+[744, [201]],
+[753, [169]],
+[748, [39]],
+[749, [39]],
+[750, [39]],
+[751, [39]],
+[528, [109]]
+],
 "memberKind": "Method"
 }
 ,
 "G":{
-"files": [138,
-747,
-748,
-749,
-750],
+"files": [
+[140, [84]],
+[748, [24]],
+[749, [24]],
+[750, [24]],
+[751, [24]]
+],
 "memberKind": "?"
 }
 ,
 "R":{
-"files": [138,
-747,
-748,
-749,
-750],
+"files": [
+[140, [83]],
+[748, [24]],
+[749, [24]],
+[750, [24]],
+[751, [24]]
+],
 "memberKind": "?"
 }
 ,
 "ToString`0":{
-"files": [116,
-754],
+"files": [
+[118, [116]],
+[754, [32,35]]
+],
 "memberKind": "Method"
 }
 }
@@ -28280,1301 +36153,1583 @@ var contents = {
 "Colors":{
 "members": {
 "AliceBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "AntiqueWhite":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Aqua":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Aquamarine":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Azure":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Beige":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Bisque":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Black":{
-"files": [317,
-320,
-161,
-162,
-747,
-748,
-749,
-750,
-754,
-528,
-532],
+"files": [
+[319, [70,77]],
+[322, [98]],
+[163, [54]],
+[164, [55]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[754, [42]],
+[530, [72]],
+[534, [125,161]]
+],
 "memberKind": "Property"
 }
 ,
 "BlanchedAlmond":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Blue":{
-"files": [588,
-293,
-589,
-590,
-591,
-435,
-189,
-335,
-320,
-253,
-484,
-161,
-162,
-747,
-748,
-749,
-750,
-755,
-756,
-528,
-757,
-758,
-532],
+"files": [
+[590, [124]],
+[295, [141,142]],
+[591, [79]],
+[592, [103,154,175,178,182]],
+[593, [130]],
+[438, [126]],
+[191, [976]],
+[337, [140]],
+[322, [82]],
+[255, [127]],
+[486, [70,105]],
+[163, [54]],
+[164, [55]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[755, [51]],
+[756, [57]],
+[530, [78]],
+[757, [54]],
+[758, [45]],
+[534, [149]]
+],
 "memberKind": "Property"
 }
 ,
 "BlueViolet":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Brown":{
-"files": [161,
-162,
-747,
-748,
-749,
-750],
+"files": [
+[163, [55]],
+[164, [56]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "BurlyWood":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "CadetBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Chartreuse":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Chocolate":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Coral":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "CornflowerBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Cornsilk":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Crimson":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Cyan":{
-"files": [161,
-162,
-747,
-748,
-749,
-750],
+"files": [
+[163, [56]],
+[164, [57]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkBlue":{
-"files": [336,
-747,
-748,
-749,
-750,
-755,
-758],
+"files": [
+[338, [421,435]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[755, [76]],
+[758, [70]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkCyan":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkGoldenrod":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkGray":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkGreen":{
-"files": [747,
-748,
-749,
-750,
-755,
-758],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[755, [73]],
+[758, [67]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkKhaki":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkMagenta":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkOliveGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkOrange":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkOrchid":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkRed":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkSalmon":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkSeaGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkSlateBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkSlateGray":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkTurquoise":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DarkViolet":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DeepPink":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DeepSkyBlue":{
-"files": [759,
-480,
-481,
-189,
-747,
-748,
-749,
-750],
+"files": [
+[759, [76,110]],
+[482, [71]],
+[483, [188]],
+[191, [976]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DimGray":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "DodgerBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Firebrick":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "FloralWhite":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "ForestGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Fuchsia":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Gainsboro":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "GhostWhite":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Gold":{
-"files": [747,
-748,
-749,
-750,
-755,
-758],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[755, [70]],
+[758, [64]]
+],
 "memberKind": "Property"
 }
 ,
 "Goldenrod":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Gray":{
-"files": [317,
-336,
-161,
-162,
-747,
-748,
-749,
-750,
-532],
+"files": [
+[319, [72,74]],
+[338, [385,386,407,408]],
+[163, [57]],
+[164, [58]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[534, [131]]
+],
 "memberKind": "Property"
 }
 ,
 "Green":{
-"files": [506,
-507,
-508,
-588,
-293,
-589,
-590,
-591,
-435,
-509,
-332,
-510,
-511,
-513,
-609,
-607,
-535,
-496,
-676,
-514,
-468,
-743,
-753,
-161,
-162,
-472,
-633,
-747,
-748,
-516,
-749,
-750,
-517,
-518,
-524,
-525,
-755,
-756,
-528,
-757,
-758,
-532],
+"files": [
+[508, [176]],
+[509, [94]],
+[510, [118]],
+[590, [100,191]],
+[295, [162,209,224]],
+[591, [152,159]],
+[592, [110,161,237,240]],
+[593, [110,399]],
+[438, [102,164]],
+[511, [102]],
+[334, [217]],
+[512, [94]],
+[513, [94]],
+[515, [120]],
+[611, [446]],
+[609, [398]],
+[537, [499]],
+[498, [132]],
+[677, [55]],
+[516, [91]],
+[470, [134]],
+[744, [188]],
+[753, [160]],
+[163, [55]],
+[164, [56]],
+[474, [128]],
+[635, [160]],
+[748, [12]],
+[749, [12]],
+[518, [93]],
+[750, [12]],
+[751, [12]],
+[519, [94]],
+[520, [93]],
+[526, [94]],
+[527, [94]],
+[755, [48]],
+[756, [54]],
+[530, [81]],
+[757, [51]],
+[758, [42]],
+[534, [143]]
+],
 "memberKind": "Property"
 }
 ,
 "GreenYellow":{
-"files": [747,
-748,
-749,
-750,
-532],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[534, [137]]
+],
 "memberKind": "Property"
 }
 ,
 "Honeydew":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "HotPink":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "IndianRed":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Indigo":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Ivory":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Khaki":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Lavender":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LavenderBlush":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LawnGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LemonChiffon":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightCoral":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightCyan":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightGoldenrodYellow":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightGray":{
-"files": [759,
-480,
-481,
-747,
-748,
-749,
-750],
+"files": [
+[759, [52,68,115,120]],
+[482, [108]],
+[483, [220]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightPink":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightSalmon":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightSeaGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightSkyBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightSlateGray":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightSteelBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LightYellow":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Lime":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "LimeGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Linen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Magenta":{
-"files": [161,
-162,
-747,
-748,
-749,
-750],
+"files": [
+[163, [56]],
+[164, [57]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Maroon":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumAquamarine":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumOrchid":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumPurple":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumSeaGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumSlateBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumSpringGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumTurquoise":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MediumVioletRed":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MidnightBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MintCream":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "MistyRose":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Moccasin":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "NavajoWhite":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Navy":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "OldLace":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Olive":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "OliveDrab":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Orange":{
-"files": [676,
-161,
-162,
-747,
-748,
-749,
-750],
+"files": [
+[677, [61]],
+[163, [57]],
+[164, [58]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "OrangeRed":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Orchid":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PaleGoldenrod":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PaleGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PaleTurquoise":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PaleVioletRed":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PapayaWhip":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PeachPuff":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Peru":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Pink":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Plum":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "PowderBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Purple":{
-"files": [161,
-162,
-747,
-748,
-749,
-750],
+"files": [
+[163, [55]],
+[164, [56]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Red":{
-"files": [506,
-507,
-508,
-588,
-293,
-589,
-590,
-591,
-435,
-509,
-332,
-510,
-511,
-320,
-513,
-609,
-607,
-535,
-496,
-676,
-760,
-514,
-468,
-743,
-753,
-502,
-503,
-161,
-162,
-472,
-633,
-747,
-748,
-761,
-516,
-762,
-749,
-750,
-763,
-517,
-518,
-524,
-525,
-756,
-528,
-757,
-532,
-164,
-166],
+"files": [
+[508, [179]],
+[509, [97]],
+[510, [121]],
+[590, [185]],
+[295, [107,156,203,218]],
+[591, [147]],
+[592, [231]],
+[593, [393]],
+[438, [158]],
+[511, [105]],
+[334, [213]],
+[512, [97]],
+[513, [97]],
+[322, [81]],
+[515, [123]],
+[611, [434]],
+[609, [386]],
+[537, [487]],
+[498, [135]],
+[677, [49]],
+[760, [32]],
+[516, [94]],
+[470, [137]],
+[744, [213]],
+[753, [178]],
+[504, [46]],
+[505, [44]],
+[163, [54]],
+[164, [55]],
+[474, [131]],
+[635, [132]],
+[748, [12]],
+[749, [12]],
+[761, [166]],
+[518, [96]],
+[762, [42]],
+[750, [12]],
+[751, [12]],
+[763, [166]],
+[519, [97]],
+[520, [96]],
+[526, [97]],
+[527, [97]],
+[756, [60]],
+[530, [75]],
+[757, [57]],
+[534, [155]],
+[166, [66]],
+[168, [122,135,197,210]]
+],
 "memberKind": "Property"
 }
 ,
 "RosyBrown":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "RoyalBlue":{
-"files": [759,
-480,
-481,
-747,
-748,
-749,
-750],
+"files": [
+[759, [44,60,84,93]],
+[482, [102]],
+[483, [213]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SaddleBrown":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Salmon":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SandyBrown":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SeaGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SeaShell":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Sienna":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Silver":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SkyBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SlateBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SlateGray":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Snow":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SpringGreen":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "SteelBlue":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Tan":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Teal":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Thistle":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Tomato":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Transparent":{
-"files": [583,
-187,
-188,
-764,
-447,
-161,
-162,
-449,
-747,
-748,
-749,
-750],
+"files": [
+[585, [47]],
+[189, [48]],
+[190, [51]],
+[764, [36]],
+[449, [49]],
+[163, [477]],
+[164, [495]],
+[451, [410,423]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Turquoise":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Violet":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Wheat":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "White":{
-"files": [317,
-293,
-591,
-161,
-162,
-747,
-748,
-749,
-750,
-755,
-758,
-164,
-166],
+"files": [
+[319, [71,76]],
+[295, [275]],
+[593, [147,175,203,234,235,236,237]],
+[163, [57]],
+[164, [58]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[755, [54,79]],
+[758, [48,73]],
+[166, [71]],
+[168, [87,88,162,163]]
+],
 "memberKind": "Property"
 }
 ,
 "WhiteSmoke":{
-"files": [747,
-748,
-749,
-750],
+"files": [
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 ,
 "Yellow":{
-"files": [583,
-187,
-188,
-332,
-161,
-162,
-747,
-748,
-749,
-750,
-755,
-756,
-757,
-758],
+"files": [
+[585, [37]],
+[189, [38]],
+[190, [41]],
+[334, [221]],
+[163, [56]],
+[164, [57]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]],
+[755, [45]],
+[756, [51]],
+[757, [48]],
+[758, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "YellowGreen":{
-"files": [293,
-747,
-748,
-749,
-750],
+"files": [
+[295, [112]],
+[748, [12]],
+[749, [12]],
+[750, [12]],
+[751, [12]]
+],
 "memberKind": "Property"
 }
 }
@@ -29585,20 +37740,26 @@ var contents = {
 "AcceleratorKeyEventArgs":{
 "members": {
 "EventType":{
-"files": [493,
-474],
+"files": [
+[495, [243,244]],
+[476, [233,234]]
+],
 "memberKind": "Property"
 }
 ,
 "Handled":{
-"files": [493,
-474],
+"files": [
+[495, [260,267]],
+[476, [250,257]]
+],
 "memberKind": "Property"
 }
 ,
 "VirtualKey":{
-"files": [493,
-474],
+"files": [
+[495, [239]],
+[476, [229]]
+],
 "memberKind": "Property"
 }
 }
@@ -29609,37 +37770,49 @@ var contents = {
 "AnimationDescription":{
 "members": {
 ":ctor`2":{
-"files": [487,
-739],
+"files": [
+[489, [41]],
+[740, [174]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Animations":{
-"files": [487,
-739],
+"files": [
+[489, [53]],
+[740, [188]]
+],
 "memberKind": "Property"
 }
 ,
 "DelayLimit":{
-"files": [487,
-739],
+"files": [
+[489, [46]],
+[740, [185]]
+],
 "memberKind": "Property"
 }
 ,
 "StaggerDelay":{
-"files": [487,
-739],
+"files": [
+[489, [42]],
+[740, [185]]
+],
 "memberKind": "Property"
 }
 ,
 "StaggerDelayFactor":{
-"files": [487,
-739],
+"files": [
+[489, [44]],
+[740, [185]]
+],
 "memberKind": "Property"
 }
 ,
 "ZOrder":{
-"files": [487],
+"files": [
+[489, [48]]
+],
 "memberKind": "Property"
 }
 }
@@ -29648,13 +37821,17 @@ var contents = {
 "AnimationEffect":{
 "members": {
 "AddToList":{
-"files": [487],
+"files": [
+[489, [129,133]]
+],
 "memberKind": "Field"
 }
 ,
 "EnterPage":{
-"files": [487,
-739],
+"files": [
+[489, [137]],
+[740, [174]]
+],
 "memberKind": "Field"
 }
 }
@@ -29663,18 +37840,24 @@ var contents = {
 "AnimationEffectTarget":{
 "members": {
 "Added":{
-"files": [487],
+"files": [
+[489, [129]]
+],
 "memberKind": "Field"
 }
 ,
 "Affected":{
-"files": [487],
+"files": [
+[489, [133]]
+],
 "memberKind": "Field"
 }
 ,
 "Primary":{
-"files": [487,
-739],
+"files": [
+[489, [137]],
+[740, [174]]
+],
 "memberKind": "Field"
 }
 }
@@ -29683,12 +37866,16 @@ var contents = {
 "OpacityAnimation":{
 "members": {
 "FinalOpacity":{
-"files": [487],
+"files": [
+[489, [94]]
+],
 "memberKind": "Property"
 }
 ,
 "InitialOpacity":{
-"files": [487],
+"files": [
+[489, [89,91]]
+],
 "memberKind": "Property"
 }
 }
@@ -29697,19 +37884,25 @@ var contents = {
 "PropertyAnimationType":{
 "members": {
 "Opacity":{
-"files": [487,
-739],
+"files": [
+[489, [85]],
+[740, [216]]
+],
 "memberKind": "Field"
 }
 ,
 "Scale":{
-"files": [487],
+"files": [
+[489, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "Translation":{
-"files": [487,
-739],
+"files": [
+[489, [82]],
+[740, [207]]
+],
 "memberKind": "Field"
 }
 }
@@ -29718,27 +37911,37 @@ var contents = {
 "ScaleAnimation":{
 "members": {
 "FinalScaleX":{
-"files": [487],
+"files": [
+[489, [74]]
+],
 "memberKind": "Property"
 }
 ,
 "FinalScaleY":{
-"files": [487],
+"files": [
+[489, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "InitialScaleX":{
-"files": [487],
+"files": [
+[489, [64,66]]
+],
 "memberKind": "Property"
 }
 ,
 "InitialScaleY":{
-"files": [487],
+"files": [
+[489, [69,71]]
+],
 "memberKind": "Property"
 }
 ,
 "NormalizedOrigin":{
-"files": [487],
+"files": [
+[489, [78]]
+],
 "memberKind": "Property"
 }
 }
@@ -29749,15 +37952,19 @@ var contents = {
 "AppViewBackButtonVisibility":{
 "members": {
 "Collapsed":{
-"files": [509,
-765,
-766],
+"files": [
+[511, [61]],
+[765, [51]],
+[766, [11]]
+],
 "memberKind": "Field"
 }
 ,
 "Visible":{
-"files": [765,
-766],
+"files": [
+[765, [46]],
+[766, [11]]
+],
 "memberKind": "Field"
 }
 }
@@ -29766,14 +37973,16 @@ var contents = {
 "BackRequestedEventArgs":{
 "members": {
 "Handled":{
-"files": [10,
-766,
-522,
-767,
-768,
-523,
-473,
-538],
+"files": [
+[10, [107,109]],
+[766, [34]],
+[524, [51]],
+[767, [37]],
+[768, [65]],
+[525, [151]],
+[475, [136,138]],
+[540, [88]]
+],
 "memberKind": "Property"
 }
 }
@@ -29782,14 +37991,18 @@ var contents = {
 "CoreAcceleratorKeyEventType":{
 "members": {
 "KeyDown":{
-"files": [493,
-474],
+"files": [
+[495, [244]],
+[476, [234]]
+],
 "memberKind": "Field"
 }
 ,
 "SystemKeyDown":{
-"files": [493,
-474],
+"files": [
+[495, [243]],
+[476, [233]]
+],
 "memberKind": "Field"
 }
 }
@@ -29798,167 +38011,173 @@ var contents = {
 "CoreDispatcher":{
 "members": {
 "AcceleratorKeyActivated":{
-"files": [493,
-474],
+"files": [
+[495, [99,113]],
+[476, [92,110]]
+],
 "memberKind": "?"
 }
 ,
 "HasThreadAccess":{
-"files": [496,
-409,
-412],
+"files": [
+[498, [123]],
+[413, [130]],
+[416, [130]]
+],
 "memberKind": "Property"
 }
 ,
 "RunAsync`2":{
-"files": [345,
-346,
-347,
-348,
-260,
-57,
-617,
-618,
-423,
-317,
-277,
-107,
-108,
-769,
-247,
-255,
-254,
-256,
-350,
-546,
-547,
-50,
-441,
-293,
-435,
-186,
-59,
-85,
-86,
-87,
-88,
-58,
-453,
-454,
-294,
-352,
-187,
-188,
-482,
-278,
-257,
-258,
-66,
-67,
-189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-129,
-354,
-203,
-262,
-263,
-118,
-119,
-620,
-149,
-74,
-29,
-156,
-548,
-549,
-550,
-327,
-68,
-325,
-69,
-357,
-360,
-296,
-335,
-334,
-416,
-417,
-363,
-341,
-340,
-406,
-30,
-609,
-607,
-535,
-283,
-306,
-625,
-109,
-739,
-770,
-496,
-42,
-63,
-6,
-7,
-65,
-196,
-367,
-266,
-152,
-102,
-115,
-116,
-117,
-500,
-771,
-110,
-111,
-112,
-772,
-284,
-285,
-286,
-343,
-361,
-373,
-743,
-150,
-595,
-608,
-374,
-75,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-122,
-414,
-415,
-629,
-631,
-773,
-308,
-289,
-309,
-404,
-774,
-775,
-409,
-412,
-776,
-777],
+"files": [
+[347, [115]],
+[348, [107]],
+[349, [152,172]],
+[350, [121]],
+[262, [81,157]],
+[57, [178]],
+[619, [103]],
+[620, [42]],
+[427, [60]],
+[319, [101,108,164,171]],
+[279, [111,133,190]],
+[110, [102,120,192,203]],
+[111, [122,167,178,229,395,402]],
+[769, [281]],
+[249, [164,423]],
+[257, [528,808,993]],
+[256, [150,264]],
+[258, [185,394]],
+[352, [115]],
+[548, [57]],
+[549, [73]],
+[50, [94]],
+[443, [62,71,80,111,120,159,176]],
+[295, [239]],
+[438, [187]],
+[188, [247,266,457]],
+[59, [304]],
+[85, [123]],
+[86, [124]],
+[87, [123]],
+[88, [123]],
+[58, [146]],
+[455, [376]],
+[456, [349]],
+[296, [167,258]],
+[354, [116]],
+[189, [380]],
+[190, [271,279,364]],
+[484, [89,105,113]],
+[280, [101,111,127,138,172,206]],
+[259, [251,271]],
+[260, [199]],
+[66, [311]],
+[67, [276]],
+[191, [145,180,198,249,258,264,415]],
+[192, [142,197,349]],
+[193, [161,196,215,225,297,452]],
+[275, [203,219]],
+[276, [174,190]],
+[277, [150,166]],
+[194, [138,173,191,225,234,382]],
+[195, [143,178,196,252,267,276,427]],
+[131, [180]],
+[356, [116]],
+[205, [139]],
+[264, [98,115,195]],
+[265, [87,104]],
+[120, [275]],
+[121, [173]],
+[622, [293]],
+[151, [190,440]],
+[74, [159]],
+[29, [72]],
+[158, [53]],
+[550, [54]],
+[551, [53]],
+[552, [49]],
+[329, [138,153]],
+[68, [224,259]],
+[327, [180,190]],
+[69, [233,268]],
+[359, [116]],
+[362, [116]],
+[298, [145,161]],
+[337, [170,185]],
+[336, [140,207,222]],
+[420, [60]],
+[421, [75]],
+[365, [116]],
+[343, [146]],
+[342, [146]],
+[410, [116,123]],
+[30, [313,673]],
+[611, [197,342,350,358,370,400,415,432,444,453]],
+[609, [179,314,322,330,341,352,367,384,396,405]],
+[537, [246,391,399,407,421,453,468,485,497,506]],
+[285, [140,158,176,192]],
+[308, [251]],
+[627, [175]],
+[112, [72]],
+[740, [96,115]],
+[770, [232]],
+[498, [125]],
+[42, [67]],
+[63, [106]],
+[6, [109]],
+[7, [68]],
+[65, [96]],
+[198, [486,493,606]],
+[369, [116]],
+[268, [110,170]],
+[154, [77]],
+[105, [59]],
+[100, [48]],
+[118, [54,68]],
+[119, [46]],
+[502, [167]],
+[771, [59]],
+[113, [54]],
+[114, [58,87,138]],
+[115, [82]],
+[772, [269]],
+[286, [67,76,84,97,174]],
+[287, [60]],
+[288, [59]],
+[345, [39]],
+[363, [116]],
+[375, [116]],
+[744, [147]],
+[152, [174,433]],
+[597, [146]],
+[610, [120,198]],
+[376, [142]],
+[75, [230]],
+[576, [231,242,264,287,300,322]],
+[174, [312,344,355,371]],
+[163, [325,347,358,372]],
+[175, [302]],
+[618, [160,193,202,216]],
+[176, [212]],
+[177, [184]],
+[164, [278]],
+[124, [225]],
+[418, [86]],
+[419, [111,140]],
+[631, [85,226]],
+[633, [84,283]],
+[773, [31]],
+[310, [187,202,225,277]],
+[291, [112,125,144]],
+[311, [120,132,151,162,185,196]],
+[408, [66,81]],
+[774, [71,82]],
+[775, [92,103]],
+[413, [132]],
+[416, [132]],
+[776, [85]],
+[777, [118]]
+],
 "memberKind": "Method"
 }
 }
@@ -29967,214 +38186,220 @@ var contents = {
 "CoreDispatcherPriority":{
 "members": {
 "High":{
-"files": [725,
-540,
-778,
-779,
-283,
-306,
-726,
-308],
+"files": [
+[726, [446,464]],
+[542, [508]],
+[778, [109,137]],
+[779, [118,148]],
+[285, [140,158,176,192]],
+[308, [251]],
+[727, [410,425]],
+[310, [187,202,225]]
+],
 "memberKind": "Field"
 }
 ,
 "Low":{
-"files": [769,
-540,
-316,
-282,
-290,
-291,
-770,
-772,
-736],
+"files": [
+[769, [281]],
+[542, [477]],
+[318, [112,123]],
+[284, [97,111,131,152,163]],
+[292, [81,92,111,129,137]],
+[293, [94,108,128,149,160]],
+[770, [232]],
+[772, [269]],
+[737, [111,129,145,159,168]]
+],
 "memberKind": "Field"
 }
 ,
 "Normal":{
-"files": [345,
-346,
-347,
-348,
-260,
-57,
-617,
-618,
-423,
-317,
-277,
-107,
-108,
-780,
-247,
-255,
-781,
-254,
-256,
-782,
-350,
-546,
-547,
-169,
-50,
-441,
-293,
-435,
-186,
-59,
-85,
-86,
-87,
-88,
-58,
-453,
-454,
-452,
-294,
-336,
-352,
-187,
-188,
-482,
-278,
-257,
-258,
-66,
-67,
-189,
-190,
-191,
-273,
-274,
-275,
-192,
-193,
-338,
-339,
-129,
-354,
-203,
-261,
-279,
-329,
-262,
-263,
-264,
-280,
-725,
-265,
-281,
-400,
-540,
-71,
-118,
-119,
-620,
-73,
-288,
-149,
-74,
-29,
-156,
-548,
-549,
-550,
-327,
-68,
-325,
-69,
-357,
-360,
-296,
-335,
-334,
-416,
-417,
-363,
-341,
-340,
-406,
-30,
-609,
-607,
-535,
-625,
-4,
-109,
-783,
-739,
-496,
-42,
-63,
-6,
-7,
-65,
-196,
-367,
-266,
-152,
-102,
-115,
-116,
-117,
-500,
-587,
-586,
-585,
-492,
-771,
-110,
-111,
-112,
-284,
-285,
-286,
-541,
-542,
-343,
-361,
-373,
-743,
-267,
-287,
-726,
-150,
-595,
-608,
-374,
-75,
-630,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-122,
-593,
-414,
-415,
-629,
-631,
-773,
-308,
-289,
-309,
-404,
-774,
-775,
-305,
-402,
-303,
-304,
-543,
-544,
-409,
-412,
-776,
-777],
+"files": [
+[347, [115]],
+[348, [107]],
+[349, [152,172]],
+[350, [121]],
+[262, [81,157]],
+[57, [178]],
+[619, [103]],
+[620, [42]],
+[427, [60]],
+[319, [101,108,164,171]],
+[279, [111,133,190]],
+[110, [102,120,192,203,228]],
+[111, [122,167,178,229,303,395,402]],
+[780, [51,81,116]],
+[249, [164,423]],
+[257, [528,808,993]],
+[781, [28]],
+[256, [150,264]],
+[258, [185,394]],
+[782, [29]],
+[352, [115]],
+[548, [57]],
+[549, [73]],
+[171, [65]],
+[50, [94]],
+[443, [62,71,80,111,120,159,176]],
+[295, [239]],
+[438, [187]],
+[188, [247,266,457]],
+[59, [304]],
+[85, [123]],
+[86, [124]],
+[87, [123]],
+[88, [123]],
+[58, [146]],
+[455, [376]],
+[456, [349]],
+[454, [85,93]],
+[296, [167,258]],
+[338, [123,194,414,428,540,578]],
+[354, [116]],
+[189, [380]],
+[190, [271,279,364]],
+[484, [89,105,113]],
+[280, [101,111,127,138,172,206]],
+[259, [251,271]],
+[260, [199]],
+[66, [311]],
+[67, [276]],
+[191, [145,180,198,249,258,264,415]],
+[192, [142,197,349]],
+[193, [161,196,215,225,297,452]],
+[275, [203,219]],
+[276, [174,190]],
+[277, [150,166]],
+[194, [138,173,191,225,234,382]],
+[195, [143,178,196,252,267,276,427]],
+[340, [194,208]],
+[341, [238,264]],
+[131, [180]],
+[356, [116]],
+[205, [139]],
+[263, [377,551,577]],
+[281, [355,372,389,463]],
+[331, [103,212]],
+[264, [98,115,195]],
+[265, [87,104]],
+[266, [381,557,582]],
+[282, [382,399,416,492]],
+[726, [482,494]],
+[267, [396,570,595]],
+[283, [398,415,432,490]],
+[404, [109,314,334,372]],
+[542, [241,528]],
+[71, [264,322]],
+[120, [276]],
+[121, [174]],
+[622, [294]],
+[73, [129]],
+[290, [89,103,123,144,155]],
+[151, [190,440]],
+[74, [159]],
+[29, [72]],
+[158, [53]],
+[550, [54]],
+[551, [53]],
+[552, [49]],
+[329, [138,153]],
+[68, [224,259]],
+[327, [180,190]],
+[69, [233,268]],
+[359, [116]],
+[362, [116]],
+[298, [145,161]],
+[337, [170,185]],
+[336, [140,207,222]],
+[420, [60]],
+[421, [75]],
+[365, [116]],
+[343, [146]],
+[342, [146]],
+[410, [116,123]],
+[30, [313,673]],
+[611, [197,342,350,358,370,400,415,432,444,453]],
+[609, [179,314,322,330,341,352,367,384,396,405]],
+[537, [246,391,399,407,421,453,468,485,497,506]],
+[627, [176]],
+[4, [56,80]],
+[112, [72]],
+[783, [139]],
+[740, [96,115]],
+[498, [125]],
+[42, [67]],
+[63, [106]],
+[6, [109]],
+[7, [68]],
+[65, [96]],
+[198, [486,493,606]],
+[369, [116]],
+[268, [110,170]],
+[154, [75]],
+[105, [60]],
+[100, [49]],
+[118, [55,69]],
+[119, [47]],
+[502, [167]],
+[589, [59]],
+[588, [109,131]],
+[587, [142,148,188,194,203,322]],
+[494, [198,290]],
+[771, [59]],
+[113, [54]],
+[114, [58,87,138]],
+[115, [82]],
+[286, [67,76,84,97,174]],
+[287, [60]],
+[288, [59]],
+[543, [92,111,131]],
+[544, [92,111,131]],
+[345, [39]],
+[363, [116]],
+[375, [116]],
+[744, [147]],
+[269, [401,577,602]],
+[289, [369,386,403,463]],
+[727, [441,453]],
+[152, [174,433]],
+[597, [146]],
+[610, [120,198]],
+[376, [142]],
+[75, [230]],
+[632, [49]],
+[576, [231,242,264,287,300,322]],
+[174, [312,344,355,371]],
+[163, [325,347,358,372]],
+[175, [302]],
+[618, [160,193,202,216]],
+[176, [212]],
+[177, [184]],
+[164, [278]],
+[124, [226]],
+[595, [187,219,275,300,553]],
+[418, [86]],
+[419, [111,140]],
+[631, [85,226]],
+[633, [84,283]],
+[773, [31]],
+[310, [277]],
+[291, [112,125,144]],
+[311, [120,132,151,162,185,196]],
+[408, [66,81]],
+[774, [71,82]],
+[775, [92,103]],
+[307, [81]],
+[406, [146]],
+[305, [76]],
+[306, [113,121]],
+[545, [92,111,131]],
+[546, [92,111,131]],
+[413, [132]],
+[416, [132]],
+[776, [85]],
+[777, [118]]
+],
 "memberKind": "Field"
 }
 }
@@ -30183,26 +38408,32 @@ var contents = {
 "CoreInputDeviceTypes":{
 "members": {
 "Mouse":{
-"files": [502,
-503,
-484,
-528],
+"files": [
+[504, [52,214,220]],
+[505, [80]],
+[486, [39]],
+[530, [36]]
+],
 "memberKind": "Field"
 }
 ,
 "Pen":{
-"files": [502,
-503,
-484,
-528],
+"files": [
+[504, [52,214,220]],
+[505, [80]],
+[486, [39]],
+[530, [36]]
+],
 "memberKind": "Field"
 }
 ,
 "Touch":{
-"files": [502,
-503,
-484,
-528],
+"files": [
+[504, [214]],
+[505, [80]],
+[486, [39]],
+[530, [36]]
+],
 "memberKind": "Field"
 }
 }
@@ -30211,9 +38442,11 @@ var contents = {
 "CoreVirtualKeyStates":{
 "members": {
 "Down":{
-"files": [493,
-744,
-474],
+"files": [
+[495, [249]],
+[745, [135]],
+[476, [239]]
+],
 "memberKind": "Field"
 }
 }
@@ -30222,77 +38455,87 @@ var contents = {
 "CoreWindow":{
 "members": {
 "Dispatcher":{
-"files": [769,
-247,
-255,
-254,
-256,
-441,
-493,
-203,
-770,
-42,
-63,
-6,
-7,
-65,
-102,
-115,
-116,
-117,
-772,
-75,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-474],
+"files": [
+[769, [82]],
+[249, [44]],
+[257, [72]],
+[256, [39]],
+[258, [42]],
+[443, [62,71,80,111,120,159,176]],
+[495, [99,113]],
+[205, [139]],
+[770, [77]],
+[42, [67]],
+[63, [106]],
+[6, [109]],
+[7, [68]],
+[65, [96]],
+[105, [59]],
+[100, [48]],
+[118, [54,68]],
+[119, [46]],
+[772, [77]],
+[75, [42]],
+[576, [74]],
+[174, [70]],
+[163, [78]],
+[175, [66]],
+[618, [62]],
+[176, [57]],
+[177, [57]],
+[164, [76]],
+[476, [92,110]]
+],
 "memberKind": "Property"
 }
 ,
 "GetForCurrentThread`0":{
-"files": [769,
-247,
-255,
-254,
-256,
-325,
-770,
-772,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-744],
+"files": [
+[769, [156]],
+[249, [44]],
+[257, [72]],
+[256, [39]],
+[258, [42]],
+[327, [79]],
+[770, [137]],
+[772, [151]],
+[576, [74]],
+[174, [70]],
+[163, [78]],
+[175, [66]],
+[618, [62]],
+[176, [57]],
+[177, [57]],
+[164, [76]],
+[745, [134]]
+],
 "memberKind": "Method"
 }
 ,
 "GetKeyState`1":{
-"files": [493,
-744,
-474],
+"files": [
+[495, [250,251,252]],
+[745, [134]],
+[476, [240,241,242]]
+],
 "memberKind": "Method"
 }
 ,
 "PointerPressed":{
-"files": [493,
-474],
+"files": [
+[495, [101,115]],
+[476, [94,112]]
+],
 "memberKind": "?"
 }
 ,
 "VisibilityChanged":{
-"files": [769,
-738,
-325,
-772],
+"files": [
+[769, [98,105]],
+[739, [90]],
+[327, [80]],
+[772, [93,100]]
+],
 "memberKind": "?"
 }
 }
@@ -30301,7 +38544,9 @@ var contents = {
 "CoreWindowActivationState":{
 "members": {
 "Deactivated":{
-"files": [127],
+"files": [
+[129, [96]]
+],
 "memberKind": "Field"
 }
 }
@@ -30310,28 +38555,30 @@ var contents = {
 "DispatchedHandler":{
 "members": {
 ":ctor`1":{
-"files": [617,
-618,
-423,
-261,
-279,
-329,
-264,
-280,
-725,
-265,
-281,
-400,
-540,
-71,
-406,
-541,
-542,
-267,
-287,
-726,
-543,
-544],
+"files": [
+[619, [103]],
+[620, [42]],
+[427, [60]],
+[263, [378,552,578]],
+[281, [356,373,390,464]],
+[331, [103,213]],
+[266, [382,558,583]],
+[282, [383,400,417,493]],
+[726, [447,465,483,495]],
+[267, [397,571,596]],
+[283, [399,416,433,491]],
+[404, [110,315,335,373]],
+[542, [242,478,509,529]],
+[71, [265,323]],
+[410, [116,123]],
+[543, [92,111,131]],
+[544, [92,111,131]],
+[269, [402,578,603]],
+[289, [370,387,404,464]],
+[727, [411,426,442,454]],
+[545, [92,111,131]],
+[546, [92,111,131]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -30340,15 +38587,19 @@ var contents = {
 "PointerEventArgs":{
 "members": {
 "CurrentPoint":{
-"files": [493,
-484,
-474],
+"files": [
+[495, [283]],
+[486, [75,82,87]],
+[476, [273]]
+],
 "memberKind": "Property"
 }
 ,
 "Handled":{
-"files": [493,
-474],
+"files": [
+[495, [295]],
+[476, [285]]
+],
 "memberKind": "Property"
 }
 }
@@ -30357,35 +38608,41 @@ var contents = {
 "SystemNavigationManager":{
 "members": {
 "AppViewBackButtonVisibility":{
-"files": [509,
-765,
-766],
+"files": [
+[511, [61]],
+[765, [46,51]],
+[766, [41,42]]
+],
 "memberKind": "Property"
 }
 ,
 "BackRequested":{
-"files": [10,
-766,
-522,
-767,
-768,
-523,
-473,
-538],
+"files": [
+[10, [86]],
+[766, [13,22]],
+[524, [41,46]],
+[767, [25,31]],
+[768, [37]],
+[525, [71,78]],
+[475, [70]],
+[540, [76,83]]
+],
 "memberKind": "?"
 }
 ,
 "GetForCurrentView`0":{
-"files": [10,
-509,
-765,
-766,
-522,
-767,
-768,
-523,
-473,
-538],
+"files": [
+[10, [86]],
+[511, [61]],
+[765, [46,51]],
+[766, [13,22,41,42]],
+[524, [41,46]],
+[767, [25,31]],
+[768, [37]],
+[525, [71,78]],
+[475, [70]],
+[540, [76,83]]
+],
 "memberKind": "Method"
 }
 }
@@ -30394,35 +38651,37 @@ var contents = {
 "VisibilityChangedEventArgs":{
 "members": {
 "Visible":{
-"files": [345,
-346,
-344,
-347,
-348,
-769,
-350,
-59,
-352,
-354,
-353,
-738,
-262,
-325,
-357,
-355,
-360,
-358,
-363,
-362,
-783,
-367,
-368,
-772,
-361,
-373,
-595,
-374,
-449],
+"files": [
+[347, [95]],
+[348, [87]],
+[346, [104]],
+[349, [193]],
+[350, [101]],
+[769, [111]],
+[352, [95]],
+[59, [121,123]],
+[354, [96]],
+[356, [96]],
+[355, [104]],
+[739, [67]],
+[264, [172]],
+[327, [159]],
+[359, [96]],
+[357, [104]],
+[362, [96]],
+[360, [104]],
+[365, [96]],
+[364, [104]],
+[783, [88]],
+[369, [96]],
+[370, [104]],
+[772, [106]],
+[363, [96]],
+[375, [96]],
+[597, [154]],
+[376, [85]],
+[451, [137,141]]
+],
 "memberKind": "Property"
 }
 }
@@ -30431,7 +38690,9 @@ var contents = {
 "WindowActivatedEventArgs":{
 "members": {
 "WindowActivationState":{
-"files": [127],
+"files": [
+[129, [96]]
+],
 "memberKind": "Property"
 }
 }
@@ -30444,52 +38705,72 @@ var contents = {
 "GestureRecognizer":{
 "members": {
 ":ctor`0":{
-"files": [481],
+"files": [
+[483, [34]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CompleteGesture`0":{
-"files": [481],
+"files": [
+[483, [179,226,234,242,251,263]]
+],
 "memberKind": "Method"
 }
 ,
 "GestureSettings":{
-"files": [481],
+"files": [
+[483, [107,227,228,235,236,243,252,256,265]]
+],
 "memberKind": "?"
 }
 ,
 "ManipulationCompleted":{
-"files": [481],
+"files": [
+[483, [118]]
+],
 "memberKind": "?"
 }
 ,
 "ManipulationInertiaStarting":{
-"files": [481],
+"files": [
+[483, [119]]
+],
 "memberKind": "?"
 }
 ,
 "ManipulationStarted":{
-"files": [481],
+"files": [
+[483, [116]]
+],
 "memberKind": "?"
 }
 ,
 "ManipulationUpdated":{
-"files": [481],
+"files": [
+[483, [117]]
+],
 "memberKind": "?"
 }
 ,
 "ProcessDownEvent`1":{
-"files": [481],
+"files": [
+[483, [153]]
+],
 "memberKind": "Method"
 }
 ,
 "ProcessMoveEvents`1":{
-"files": [481],
+"files": [
+[483, [161]]
+],
 "memberKind": "Method"
 }
 ,
 "ProcessUpEvent`1":{
-"files": [481],
+"files": [
+[483, [169]]
+],
 "memberKind": "Method"
 }
 }
@@ -30498,27 +38779,37 @@ var contents = {
 "GestureSettings":{
 "members": {
 "ManipulationRotate":{
-"files": [481],
+"files": [
+[483, [139]]
+],
 "memberKind": "Field"
 }
 ,
 "ManipulationRotateInertia":{
-"files": [481],
+"files": [
+[483, [141,252,256]]
+],
 "memberKind": "Field"
 }
 ,
 "ManipulationTranslateInertia":{
-"files": [481],
+"files": [
+[483, [140,252,256]]
+],
 "memberKind": "Field"
 }
 ,
 "ManipulationTranslateX":{
-"files": [481],
+"files": [
+[483, [137,227,235,236,243]]
+],
 "memberKind": "Field"
 }
 ,
 "ManipulationTranslateY":{
-"files": [481],
+"files": [
+[483, [138,227,228,235,243]]
+],
 "memberKind": "Field"
 }
 }
@@ -30527,15 +38818,19 @@ var contents = {
 "HoldingState":{
 "members": {
 "Completed":{
-"files": [759,
-485],
+"files": [
+[759, [113]],
+[487, [108]]
+],
 "memberKind": "Field"
 }
 ,
 "Started":{
-"files": [759,
-499,
-784],
+"files": [
+[759, [108]],
+[501, [59]],
+[784, [40]]
+],
 "memberKind": "Field"
 }
 }
@@ -30546,51 +38841,67 @@ var contents = {
 "InkDrawingAttributes":{
 "members": {
 ":ctor`0":{
-"files": [502,
-503],
+"files": [
+[504, [45]],
+[505, [43]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Color":{
-"files": [502,
-503,
-528],
+"files": [
+[504, [46,86]],
+[505, [44]],
+[530, [72,75,78,81]]
+],
 "memberKind": "Property"
 }
 ,
 "DrawAsHighlighter":{
-"files": [502,
-528],
+"files": [
+[504, [122,130,137]],
+[530, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "FitToCurve":{
-"files": [502,
-503],
+"files": [
+[504, [49]],
+[505, [48]]
+],
 "memberKind": "Property"
 }
 ,
 "IgnorePressure":{
-"files": [502,
-503],
+"files": [
+[504, [48]],
+[505, [47]]
+],
 "memberKind": "Property"
 }
 ,
 "PenTip":{
-"files": [502,
-528],
+"files": [
+[504, [121,129,136]],
+[530, [87]]
+],
 "memberKind": "?"
 }
 ,
 "PenTipTransform":{
-"files": [502],
+"files": [
+[504, [123,131,141]]
+],
 "memberKind": "Property"
 }
 ,
 "Size":{
-"files": [502,
-503,
-528],
+"files": [
+[504, [47,101,105,120,128,135]],
+[505, [46]],
+[530, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -30599,12 +38910,16 @@ var contents = {
 "InkInputProcessingMode":{
 "members": {
 "Erasing":{
-"files": [502],
+"files": [
+[504, [226]]
+],
 "memberKind": "Field"
 }
 ,
 "Inking":{
-"files": [502],
+"files": [
+[504, [232]]
+],
 "memberKind": "Field"
 }
 }
@@ -30613,7 +38928,9 @@ var contents = {
 "InkInputRightDragAction":{
 "members": {
 "LeaveUnprocessed":{
-"files": [484],
+"files": [
+[486, [43]]
+],
 "memberKind": "Field"
 }
 }
@@ -30622,22 +38939,30 @@ var contents = {
 "InkPresenter":{
 "members": {
 "CopyDefaultDrawingAttributes`0":{
-"files": [528],
+"files": [
+[530, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "InputDeviceTypes":{
-"files": [528],
+"files": [
+[530, [35]]
+],
 "memberKind": "?"
 }
 ,
 "StrokeContainer":{
-"files": [528],
+"files": [
+[530, [95]]
+],
 "memberKind": "Property"
 }
 ,
 "UpdateDefaultDrawingAttributes`1":{
-"files": [528],
+"files": [
+[530, [89]]
+],
 "memberKind": "Method"
 }
 }
@@ -30646,7 +38971,9 @@ var contents = {
 "InkRecognitionTarget":{
 "members": {
 "All":{
-"files": [503],
+"files": [
+[505, [125]]
+],
 "memberKind": "Field"
 }
 }
@@ -30655,7 +38982,9 @@ var contents = {
 "InkRecognizer":{
 "members": {
 "Name":{
-"files": [503],
+"files": [
+[505, [57,164]]
+],
 "memberKind": "Property"
 }
 }
@@ -30664,22 +38993,30 @@ var contents = {
 "InkRecognizerContainer":{
 "members": {
 ":ctor`0":{
-"files": [503],
+"files": [
+[505, [51]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetRecognizers`0":{
-"files": [503],
+"files": [
+[505, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "RecognizeAsync`2":{
-"files": [503],
+"files": [
+[505, [125]]
+],
 "memberKind": "Method"
 }
 ,
 "SetDefaultRecognizer`1":{
-"files": [503],
+"files": [
+[505, [166,201]]
+],
 "memberKind": "Method"
 }
 }
@@ -30688,7 +39025,9 @@ var contents = {
 "InkStrokeContainer":{
 "members": {
 "Clear`0":{
-"files": [528],
+"files": [
+[530, [95]]
+],
 "memberKind": "Method"
 }
 }
@@ -30697,7 +39036,9 @@ var contents = {
 "InkStrokesCollectedEventArgs":{
 "members": {
 "Strokes":{
-"files": [502],
+"files": [
+[504, [73]]
+],
 "memberKind": "Property"
 }
 }
@@ -30706,7 +39047,9 @@ var contents = {
 "InkStrokesErasedEventArgs":{
 "members": {
 "Strokes":{
-"files": [502],
+"files": [
+[504, [68]]
+],
 "memberKind": "Property"
 }
 }
@@ -30715,14 +39058,18 @@ var contents = {
 "PenTipShape":{
 "members": {
 "Circle":{
-"files": [502,
-528],
+"files": [
+[504, [121]],
+[530, [87]]
+],
 "memberKind": "Field"
 }
 ,
 "Rectangle":{
-"files": [502,
-528],
+"files": [
+[504, [129,136]],
+[530, [87]]
+],
 "memberKind": "Field"
 }
 }
@@ -30733,14 +39080,18 @@ var contents = {
 "ManipulationDelta":{
 "members": {
 "Rotation":{
-"files": [480,
-481],
+"files": [
+[482, [93]],
+[483, [203]]
+],
 "memberKind": "Field"
 }
 ,
 "Translation":{
-"files": [480,
-481],
+"files": [
+[482, [94,95]],
+[483, [204,205]]
+],
 "memberKind": "Field"
 }
 }
@@ -30749,12 +39100,16 @@ var contents = {
 "ManipulationUpdatedEventArgs":{
 "members": {
 "Delta":{
-"files": [481],
+"files": [
+[483, [203,204,205]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [481],
+"files": [
+[483, [197]]
+],
 "memberKind": "Property"
 }
 }
@@ -30763,35 +39118,47 @@ var contents = {
 "PointerPoint":{
 "members": {
 "IsInContact":{
-"files": [332],
+"files": [
+[334, [58,70,90,116]]
+],
 "memberKind": "Property"
 }
 ,
 "PointerDevice":{
-"files": [332],
+"files": [
+[334, [127,210]]
+],
 "memberKind": "Property"
 }
 ,
 "PointerId":{
-"files": [332],
+"files": [
+[334, [113,191,193,195,225,226,231,236,238,239,240]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [332,
-333],
+"files": [
+[334, [114,115,229,230]],
+[335, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [332,
-493,
-474],
+"files": [
+[334, [146,162,176]],
+[495, [283]],
+[476, [273]]
+],
 "memberKind": "Property"
 }
 ,
 "RawPosition":{
-"files": [484],
+"files": [
+[486, [75,82,87]]
+],
 "memberKind": "Property"
 }
 }
@@ -30800,62 +39167,82 @@ var contents = {
 "PointerPointProperties":{
 "members": {
 "ContactRect":{
-"files": [332],
+"files": [
+[334, [165,166,167,168]]
+],
 "memberKind": "Property"
 }
 ,
 "IsBarrelButtonPressed":{
-"files": [332],
+"files": [
+[334, [179]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEraser":{
-"files": [332],
+"files": [
+[334, [180]]
+],
 "memberKind": "Property"
 }
 ,
 "IsLeftButtonPressed":{
-"files": [332,
-493,
-474],
+"files": [
+[334, [149]],
+[495, [286]],
+[476, [276]]
+],
 "memberKind": "Property"
 }
 ,
 "IsMiddleButtonPressed":{
-"files": [332,
-493,
-474],
+"files": [
+[334, [151]],
+[495, [287]],
+[476, [277]]
+],
 "memberKind": "Property"
 }
 ,
 "IsRightButtonPressed":{
-"files": [332,
-493,
-474],
+"files": [
+[334, [150]],
+[495, [286]],
+[476, [276]]
+],
 "memberKind": "Property"
 }
 ,
 "IsXButton1Pressed":{
-"files": [332,
-493,
-474],
+"files": [
+[334, [152]],
+[495, [291]],
+[476, [281]]
+],
 "memberKind": "Property"
 }
 ,
 "IsXButton2Pressed":{
-"files": [332,
-493,
-474],
+"files": [
+[334, [153]],
+[495, [292]],
+[476, [282]]
+],
 "memberKind": "Property"
 }
 ,
 "MouseWheelDelta":{
-"files": [332],
+"files": [
+[334, [154]]
+],
 "memberKind": "Property"
 }
 ,
 "Pressure":{
-"files": [332],
+"files": [
+[334, [181]]
+],
 "memberKind": "Property"
 }
 }
@@ -30868,14 +39255,16 @@ var contents = {
 "BadgeNotification":{
 "members": {
 ":ctor`1":{
-"files": [226,
-230,
-94,
-251,
-252,
-253,
-241,
-245],
+"files": [
+[228, [99,180]],
+[232, [47]],
+[94, [85]],
+[253, [32]],
+[254, [40]],
+[255, [47,68]],
+[243, [99,180]],
+[247, [234]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -30884,14 +39273,18 @@ var contents = {
 "BadgeTemplateType":{
 "members": {
 "BadgeGlyph":{
-"files": [251,
-253],
+"files": [
+[253, [25]],
+[255, [61]]
+],
 "memberKind": "Field"
 }
 ,
 "BadgeNumber":{
-"files": [252,
-253],
+"files": [
+[254, [33]],
+[255, [40]]
+],
 "memberKind": "Field"
 }
 }
@@ -30900,26 +39293,32 @@ var contents = {
 "BadgeUpdateManager":{
 "members": {
 "CreateBadgeUpdaterForApplication`0":{
-"files": [230,
-785,
-251,
-252],
+"files": [
+[232, [31,38,48]],
+[785, [21]],
+[253, [35]],
+[254, [43]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateBadgeUpdaterForSecondaryTile`1":{
-"files": [479,
-94,
-253,
-64,
-245],
+"files": [
+[481, [53]],
+[94, [23]],
+[255, [26,50,71]],
+[64, [113]],
+[247, [187,237]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTemplateContent`1":{
-"files": [251,
-252,
-253],
+"files": [
+[253, [25]],
+[254, [33]],
+[255, [40,61]]
+],
 "memberKind": "Method"
 }
 }
@@ -30928,21 +39327,25 @@ var contents = {
 "BadgeUpdater":{
 "members": {
 "Clear`0":{
-"files": [230,
-785,
-253],
+"files": [
+[232, [31]],
+[785, [21]],
+[255, [26]]
+],
 "memberKind": "Method"
 }
 ,
 "Update`1":{
-"files": [230,
-479,
-94,
-251,
-252,
-253,
-64,
-245],
+"files": [
+[232, [38,48]],
+[481, [53]],
+[94, [23]],
+[253, [38]],
+[254, [46]],
+[255, [53,74]],
+[64, [113]],
+[247, [187,237]]
+],
 "memberKind": "Method"
 }
 }
@@ -30951,27 +39354,31 @@ var contents = {
 "TileNotification":{
 "members": {
 ":ctor`1":{
-"files": [223,
-228,
-230,
-231,
-232,
-233,
-234,
-235,
-236,
-237,
-238,
-239,
-243,
-245,
-249],
+"files": [
+[225, [168,180]],
+[230, [53]],
+[232, [76]],
+[233, [51,79,103]],
+[234, [46]],
+[235, [82]],
+[236, [56]],
+[237, [56]],
+[238, [85]],
+[239, [93]],
+[240, [56]],
+[241, [60]],
+[245, [53]],
+[247, [217]],
+[251, [116]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ExpirationTime":{
-"files": [223,
-237],
+"files": [
+[225, [169,181]],
+[239, [96]]
+],
 "memberKind": "Property"
 }
 }
@@ -30980,12 +39387,16 @@ var contents = {
 "TileTemplateType":{
 "members": {
 "TileSquare150x150Image":{
-"files": [249],
+"files": [
+[251, [107]]
+],
 "memberKind": "Field"
 }
 ,
 "TileSquare150x150Text03":{
-"files": [223],
+"files": [
+[225, [162,174]]
+],
 "memberKind": "Field"
 }
 }
@@ -30994,31 +39405,37 @@ var contents = {
 "TileUpdateManager":{
 "members": {
 "CreateTileUpdaterForApplication`0":{
-"files": [230,
-231,
-786,
-238],
+"files": [
+[232, [58,77,83]],
+[233, [79]],
+[786, [21]],
+[240, [57]]
+],
 "memberKind": "Method"
 }
 ,
 "CreateTileUpdaterForSecondaryTile`1":{
-"files": [479,
-231,
-232,
-233,
-234,
-235,
-236,
-237,
-239,
-245,
-249],
+"files": [
+[481, [87]],
+[233, [51,103]],
+[234, [46]],
+[235, [83]],
+[236, [57]],
+[237, [57]],
+[238, [86]],
+[239, [99]],
+[241, [61]],
+[247, [159,220]],
+[251, [119]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTemplateContent`1":{
-"files": [223,
-249],
+"files": [
+[225, [161,173]],
+[251, [107]]
+],
 "memberKind": "Method"
 }
 }
@@ -31027,25 +39444,29 @@ var contents = {
 "TileUpdater":{
 "members": {
 "Clear`0":{
-"files": [230,
-786],
+"files": [
+[232, [83]],
+[786, [21]]
+],
 "memberKind": "Method"
 }
 ,
 "Update`1":{
-"files": [230,
-479,
-231,
-232,
-233,
-234,
-235,
-236,
-237,
-238,
-239,
-245,
-249],
+"files": [
+[232, [58,77]],
+[481, [87]],
+[233, [51,79,103]],
+[234, [46]],
+[235, [83]],
+[236, [57]],
+[237, [57]],
+[238, [86]],
+[239, [99]],
+[240, [57]],
+[241, [61]],
+[247, [159,220]],
+[251, [122]]
+],
 "memberKind": "Method"
 }
 }
@@ -31054,7 +39475,9 @@ var contents = {
 "ToastHistoryChangedType":{
 "members": {
 "Removed":{
-"files": [65],
+"files": [
+[65, [112,129]]
+],
 "memberKind": "Field"
 }
 }
@@ -31063,32 +39486,40 @@ var contents = {
 "ToastNotification":{
 "members": {
 ":ctor`1":{
-"files": [247,
-223,
-72,
-89,
-229,
-220,
-248,
-240,
-244,
-84,
-91],
+"files": [
+[249, [358]],
+[225, [140,147]],
+[72, [109]],
+[89, [197]],
+[231, [462]],
+[222, [59]],
+[250, [48]],
+[242, [33]],
+[246, [462]],
+[84, [74]],
+[91, [87,88]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ExpirationTime":{
-"files": [248],
+"files": [
+[250, [50]]
+],
 "memberKind": "Property"
 }
 ,
 "Group":{
-"files": [220],
+"files": [
+[222, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [220],
+"files": [
+[222, [62]]
+],
 "memberKind": "Property"
 }
 }
@@ -31097,14 +39528,18 @@ var contents = {
 "ToastNotificationActionTriggerDetail":{
 "members": {
 "Argument":{
-"files": [97,
-98],
+"files": [
+[97, [18]],
+[98, [18]]
+],
 "memberKind": "Property"
 }
 ,
 "UserInput":{
-"files": [97,
-98],
+"files": [
+[97, [26]],
+[98, [26]]
+],
 "memberKind": "Property"
 }
 }
@@ -31113,62 +39548,72 @@ var contents = {
 "ToastNotificationHistory":{
 "members": {
 "Clear`0":{
-"files": [787,
-788,
-789,
-790,
-791,
-42,
-792,
-793,
-62,
-63,
-6,
-7,
-794,
-795,
-796,
-797,
-798,
-799,
-800,
-678,
-801,
-802,
-248,
-64,
-65,
-803,
-804,
-805,
-806,
-807,
-808,
-809,
-810,
-811],
+"files": [
+[787, [29]],
+[788, [29]],
+[789, [29]],
+[790, [29]],
+[791, [29]],
+[42, [29]],
+[792, [29]],
+[793, [29]],
+[62, [30]],
+[63, [33]],
+[6, [71]],
+[7, [30]],
+[794, [30]],
+[795, [30]],
+[796, [30]],
+[797, [30]],
+[798, [30]],
+[799, [30]],
+[800, [31]],
+[679, [34]],
+[801, [29]],
+[802, [29]],
+[250, [28]],
+[64, [37]],
+[65, [42]],
+[803, [27]],
+[804, [27]],
+[805, [27]],
+[806, [27]],
+[807, [35]],
+[808, [28]],
+[809, [35]],
+[810, [35]],
+[811, [28]]
+],
 "memberKind": "Method"
 }
 ,
 "GetHistory`0":{
-"files": [94,
-64,
-812],
+"files": [
+[94, [18]],
+[64, [108]],
+[812, [23]]
+],
 "memberKind": "Method"
 }
 ,
 "Remove`1":{
-"files": [808],
+"files": [
+[808, [38]]
+],
 "memberKind": "Method"
 }
 ,
 "Remove`2":{
-"files": [809],
+"files": [
+[809, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "RemoveGroup`1":{
-"files": [810],
+"files": [
+[810, [48]]
+],
 "memberKind": "Method"
 }
 }
@@ -31177,8 +39622,10 @@ var contents = {
 "ToastNotificationHistoryChangedTriggerDetail":{
 "members": {
 "ChangeType":{
-"files": [94,
-95],
+"files": [
+[94, [26]],
+[95, [15]]
+],
 "memberKind": "Property"
 }
 }
@@ -31187,65 +39634,71 @@ var contents = {
 "ToastNotificationManager":{
 "members": {
 "CreateToastNotifier`0":{
-"files": [247,
-72,
-89,
-220,
-248,
-240,
-84,
-91],
+"files": [
+[249, [359]],
+[72, [110]],
+[89, [170]],
+[222, [67]],
+[250, [53]],
+[242, [37]],
+[84, [75]],
+[91, [83]]
+],
 "memberKind": "Method"
 }
 ,
 "GetTemplateContent`1":{
-"files": [247,
-223,
-72,
-89,
-248,
-84,
-91],
+"files": [
+[249, [351]],
+[225, [137,144]],
+[72, [97]],
+[89, [176]],
+[250, [34]],
+[84, [66]],
+[91, [84]]
+],
 "memberKind": "Method"
 }
 ,
 "History":{
-"files": [94,
-787,
-788,
-789,
-790,
-791,
-42,
-792,
-793,
-62,
-63,
-6,
-7,
-794,
-795,
-796,
-797,
-798,
-799,
-800,
-678,
-801,
-802,
-248,
-64,
-65,
-803,
-804,
-805,
-806,
-807,
-812,
-808,
-809,
-810,
-811],
+"files": [
+[94, [18]],
+[787, [29]],
+[788, [29]],
+[789, [29]],
+[790, [29]],
+[791, [29]],
+[42, [29]],
+[792, [29]],
+[793, [29]],
+[62, [30]],
+[63, [33]],
+[6, [71]],
+[7, [30]],
+[794, [30]],
+[795, [30]],
+[796, [30]],
+[797, [30]],
+[798, [30]],
+[799, [30]],
+[800, [31]],
+[679, [34]],
+[801, [29]],
+[802, [29]],
+[250, [28]],
+[64, [37,108]],
+[65, [42]],
+[803, [27]],
+[804, [27]],
+[805, [27]],
+[806, [27]],
+[807, [35]],
+[812, [23]],
+[808, [28,38]],
+[809, [35,48]],
+[810, [35,48]],
+[811, [28]]
+],
 "memberKind": "Property"
 }
 }
@@ -31254,14 +39707,16 @@ var contents = {
 "ToastNotifier":{
 "members": {
 "Show`1":{
-"files": [247,
-72,
-89,
-220,
-248,
-240,
-84,
-91],
+"files": [
+[249, [359]],
+[72, [110]],
+[89, [198]],
+[222, [67]],
+[250, [53]],
+[242, [37]],
+[84, [75]],
+[91, [88]]
+],
 "memberKind": "Method"
 }
 }
@@ -31270,21 +39725,27 @@ var contents = {
 "ToastTemplateType":{
 "members": {
 "ToastImageAndText02":{
-"files": [72],
+"files": [
+[72, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "ToastText01":{
-"files": [223],
+"files": [
+[225, [137,144]]
+],
 "memberKind": "Field"
 }
 ,
 "ToastText02":{
-"files": [247,
-89,
-248,
-84,
-91],
+"files": [
+[249, [350]],
+[89, [176]],
+[250, [34]],
+[84, [66]],
+[91, [84]]
+],
 "memberKind": "Field"
 }
 }
@@ -31297,12 +39758,16 @@ var contents = {
 "IUICommand":{
 "members": {
 "Id":{
-"files": [622],
+"files": [
+[624, [178]]
+],
 "memberKind": "Property"
 }
 ,
 "Label":{
-"files": [813],
+"files": [
+[813, [65]]
+],
 "memberKind": "Property"
 }
 }
@@ -31311,175 +39776,187 @@ var contents = {
 "MessageDialog":{
 "members": {
 ":ctor`1":{
-"files": [550,
-813,
-814,
-13,
-378,
-427,
-236,
-815,
-42,
-62,
-63,
-64,
-65,
-752,
-594,
-176,
-177,
-816,
-817,
-818,
-819,
-820,
-821,
-562,
-532],
+"files": [
+[552, [55]],
+[813, [41]],
+[814, [41]],
+[13, [43]],
+[380, [61]],
+[385, [70]],
+[238, [47]],
+[815, [52]],
+[42, [98,101,104]],
+[62, [35]],
+[63, [38,136,139,142]],
+[64, [42]],
+[65, [47,121,145,156]],
+[99, [93]],
+[596, [61]],
+[178, [78]],
+[179, [77]],
+[816, [144]],
+[817, [20]],
+[818, [93]],
+[819, [28,34,40]],
+[820, [20]],
+[821, [93]],
+[564, [63]],
+[534, [88]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [822,
-823,
-14,
-231,
-252,
-253,
-232,
-237,
-824,
-825,
-787,
-788,
-789,
-790,
-791,
-42,
-792,
-793,
-63,
-6,
-7,
-794,
-795,
-796,
-797,
-798,
-799,
-800,
-678,
-801,
-802,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-622,
-308,
-28],
+"files": [
+[822, [40]],
+[823, [40]],
+[14, [141]],
+[233, [68,89]],
+[254, [28]],
+[255, [35]],
+[234, [39]],
+[239, [52,59,104]],
+[824, [53]],
+[825, [55]],
+[787, [61]],
+[788, [59]],
+[789, [61]],
+[790, [55]],
+[791, [54]],
+[42, [92]],
+[792, [54]],
+[793, [47]],
+[63, [112]],
+[6, [134]],
+[7, [99]],
+[794, [47]],
+[795, [53]],
+[796, [53]],
+[797, [53]],
+[798, [61]],
+[799, [61]],
+[800, [104]],
+[679, [73]],
+[801, [47]],
+[802, [47]],
+[576, [136,360]],
+[174, [153,270,398]],
+[163, [162,271,299]],
+[175, [148,289,361,429]],
+[618, [248,328,394]],
+[176, [128,263,320]],
+[177, [235,292,327]],
+[164, [159,265,328,384]],
+[624, [170]],
+[310, [175]],
+[28, [175]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CancelCommandIndex":{
-"files": [813,
-622,
-308],
+"files": [
+[813, [51]],
+[624, [175]],
+[310, [185]]
+],
 "memberKind": "Property"
 }
 ,
 "Commands":{
-"files": [813,
-822,
-823,
-13,
-378,
-427,
-622,
-308,
-28],
+"files": [
+[813, [44,45]],
+[822, [43,44]],
+[823, [43,48]],
+[13, [44]],
+[380, [62]],
+[385, [71]],
+[624, [172,173]],
+[310, [178,179]],
+[28, [178]]
+],
 "memberKind": "Property"
 }
 ,
 "DefaultCommandIndex":{
-"files": [813,
-822,
-823,
-622,
-308],
+"files": [
+[813, [48]],
+[822, [47]],
+[823, [54]],
+[624, [174]],
+[310, [182]]
+],
 "memberKind": "Property"
 }
 ,
 "ShowAsync`0":{
-"files": [550,
-813,
-822,
-823,
-814,
-13,
-378,
-427,
-14,
-231,
-252,
-253,
-232,
-236,
-815,
-237,
-824,
-825,
-787,
-788,
-789,
-790,
-791,
-42,
-792,
-793,
-62,
-63,
-6,
-7,
-794,
-795,
-796,
-797,
-798,
-799,
-800,
-678,
-801,
-802,
-64,
-65,
-752,
-594,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-176,
-177,
-622,
-816,
-308,
-817,
-818,
-819,
-820,
-821,
-28,
-562,
-532],
+"files": [
+[552, [56]],
+[813, [54]],
+[822, [50]],
+[823, [57]],
+[814, [44]],
+[13, [45]],
+[380, [63]],
+[385, [72]],
+[14, [141]],
+[233, [68,89]],
+[254, [28]],
+[255, [35]],
+[234, [39]],
+[238, [47]],
+[815, [52]],
+[239, [52,59,104]],
+[824, [53]],
+[825, [55]],
+[787, [61]],
+[788, [59]],
+[789, [61]],
+[790, [55]],
+[791, [54]],
+[42, [92,98,101,104]],
+[792, [54]],
+[793, [47]],
+[62, [35]],
+[63, [38,112,136,139,142]],
+[6, [134]],
+[7, [99]],
+[794, [47]],
+[795, [53]],
+[796, [53]],
+[797, [53]],
+[798, [61]],
+[799, [61]],
+[800, [104]],
+[679, [73]],
+[801, [47]],
+[802, [47]],
+[64, [42]],
+[65, [47,121,145,156]],
+[99, [94]],
+[596, [62]],
+[576, [137,361]],
+[174, [154,271,399]],
+[163, [163,272,300]],
+[175, [149,290,362,430]],
+[618, [249,329,395]],
+[176, [129,264,321]],
+[177, [236,293,328]],
+[164, [160,266,329,385]],
+[178, [79]],
+[179, [78]],
+[624, [177]],
+[816, [145]],
+[310, [190]],
+[817, [21]],
+[818, [94]],
+[819, [29,35,41]],
+[820, [21]],
+[821, [94]],
+[28, [185]],
+[564, [63]],
+[534, [89]]
+],
 "memberKind": "Method"
 }
 }
@@ -31488,39 +39965,47 @@ var contents = {
 "Placement":{
 "members": {
 "Above":{
-"files": [317,
-277,
-107,
-108,
-482,
-479,
-111,
-471],
+"files": [
+[319, [95]],
+[279, [93]],
+[110, [97]],
+[111, [113]],
+[484, [81]],
+[481, [49,81]],
+[114, [167]],
+[473, [82,125]]
+],
 "memberKind": "Field"
 }
 ,
 "Below":{
-"files": [154,
-465,
-100,
-470,
-743,
-826,
-245,
-753],
+"files": [
+[156, [124]],
+[467, [105]],
+[103, [108]],
+[472, [121]],
+[744, [123]],
+[826, [74]],
+[247, [116]],
+[753, [117]]
+],
 "memberKind": "Field"
 }
 ,
 "Default":{
-"files": [44,
-45,
-48,
-103],
+"files": [
+[44, [44]],
+[45, [60,65]],
+[48, [56,61]],
+[106, [76]]
+],
 "memberKind": "Field"
 }
 ,
 "Right":{
-"files": [103],
+"files": [
+[106, [60]]
+],
 "memberKind": "Field"
 }
 }
@@ -31529,30 +40014,38 @@ var contents = {
 "PopupMenu":{
 "members": {
 ":ctor`0":{
-"files": [186,
-478,
-134,
-415],
+"files": [
+[188, [399]],
+[480, [44]],
+[136, [88]],
+[419, [204]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Commands":{
-"files": [186,
-478,
-134,
-415],
+"files": [
+[188, [401,402,403,404,405]],
+[480, [45,49]],
+[136, [89,90,91,92]],
+[419, [206,207,208,209,210]]
+],
 "memberKind": "Property"
 }
 ,
 "ShowAsync`1":{
-"files": [186,
-415],
+"files": [
+[188, [414]],
+[419, [219]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowForSelectionAsync`1":{
-"files": [478,
-134],
+"files": [
+[480, [57]],
+[136, [99]]
+],
 "memberKind": "Method"
 }
 }
@@ -31561,27 +40054,33 @@ var contents = {
 "UICommand":{
 "members": {
 ":ctor`1":{
-"files": [13,
-378,
-427],
+"files": [
+[13, [44]],
+[380, [62]],
+[385, [71]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [186,
-478,
-813,
-823,
-415,
-28],
+"files": [
+[188, [401,402,403,404,405]],
+[480, [45,49]],
+[813, [44,45]],
+[823, [43,48]],
+[419, [206,207,208,209,210]],
+[28, [178]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
-"files": [134,
-822,
-622,
-308],
+"files": [
+[136, [89,91,92]],
+[822, [43,44]],
+[624, [172,173]],
+[310, [178,179]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -31590,7 +40089,9 @@ var contents = {
 "UICommandInvokedHandler":{
 "members": {
 ":ctor`1":{
-"files": [813],
+"files": [
+[813, [44,45]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -31599,7 +40100,9 @@ var contents = {
 "UICommandSeparator":{
 "members": {
 ":ctor`0":{
-"files": [134],
+"files": [
+[136, [90]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -31612,17 +40115,21 @@ var contents = {
 "ForegroundText":{
 "members": {
 "Dark":{
-"files": [470,
-743,
-245,
-471,
-753],
+"files": [
+[472, [111]],
+[744, [115,189,202]],
+[247, [110]],
+[473, [119]],
+[753, [113,161,170]]
+],
 "memberKind": "Field"
 }
 ,
 "Light":{
-"files": [743,
-753],
+"files": [
+[744, [214]],
+[753, [179]]
+],
 "memberKind": "Field"
 }
 }
@@ -31631,181 +40138,217 @@ var contents = {
 "SecondaryTile":{
 "members": {
 ":ctor`0":{
-"files": [760],
+"files": [
+[760, [30]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [824,
-826,
-471,
-827],
+"files": [
+[824, [27]],
+[826, [72]],
+[473, [79]],
+[827, [72]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`5":{
-"files": [479,
-231,
-253,
-751,
-828,
-764,
-447,
-677,
-829,
-237,
-825,
-64,
-470,
-743,
-245,
-471,
-753,
-249],
+"files": [
+[481, [40,70]],
+[233, [24]],
+[255, [123]],
+[752, [29]],
+[828, [28]],
+[764, [29]],
+[449, [42]],
+[678, [56]],
+[829, [26]],
+[239, [32]],
+[825, [32]],
+[64, [91]],
+[472, [83]],
+[744, [83]],
+[247, [95]],
+[473, [108]],
+[753, [82]],
+[251, [75]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Arguments":{
-"files": [824],
+"files": [
+[824, [28]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
-"files": [760,
-824,
-825],
+"files": [
+[760, [31]],
+[824, [30]],
+[825, [60]]
+],
 "memberKind": "Property"
 }
 ,
 "Exists`1":{
-"files": [479,
-231,
-232,
-826,
-830,
-245,
-471,
-827],
+"files": [
+[481, [39,68]],
+[233, [95]],
+[234, [45]],
+[826, [69]],
+[830, [67]],
+[247, [49,148,182]],
+[473, [66,76,153]],
+[827, [69]]
+],
 "memberKind": "Method"
 }
 ,
 "FindAllAsync`0":{
-"files": [231,
-253,
-760,
-237,
-831,
-825,
-832],
+"files": [
+[233, [40]],
+[255, [103]],
+[760, [25]],
+[239, [56]],
+[831, [25]],
+[825, [52]],
+[832, [72]]
+],
 "memberKind": "Method"
 }
 ,
 "LockScreenBadgeLogo":{
-"files": [479],
+"files": [
+[481, [47,78]]
+],
 "memberKind": "Property"
 }
 ,
 "LockScreenDisplayBadgeAndTileText":{
-"files": [479],
+"files": [
+[481, [79]]
+],
 "memberKind": "Property"
 }
 ,
 "RequestCreateAsync`0":{
-"files": [231,
-253,
-233,
-234,
-235,
-236,
-751,
-828,
-764,
-447,
-677,
-829,
-237,
-239,
-824,
-825,
-64,
-470,
-245,
-471,
-249],
+"files": [
+[233, [17,46,99]],
+[255, [128]],
+[235, [60]],
+[236, [34]],
+[237, [34]],
+[238, [58]],
+[752, [37]],
+[828, [35]],
+[764, [37]],
+[449, [50]],
+[678, [57]],
+[829, [27]],
+[239, [39]],
+[241, [74]],
+[824, [48]],
+[825, [39]],
+[64, [98]],
+[472, [138]],
+[247, [133]],
+[473, [143]],
+[251, [77]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestCreateForSelectionAsync`2":{
-"files": [479,
-470,
-743,
-245,
-471,
-753],
+"files": [
+[481, [49,81]],
+[472, [121]],
+[744, [123]],
+[247, [116]],
+[473, [125]],
+[753, [117]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestDeleteAsync`0":{
-"files": [831],
+"files": [
+[831, [28]]
+],
 "memberKind": "Method"
 }
 ,
 "RequestDeleteForSelectionAsync`2":{
-"files": [826,
-471],
+"files": [
+[826, [74]],
+[473, [82]]
+],
 "memberKind": "Method"
 }
 ,
 "RoamingEnabled":{
-"files": [470,
-743],
+"files": [
+[472, [115]],
+[744, [119]]
+],
 "memberKind": "Property"
 }
 ,
 "TileId":{
-"files": [231,
-233,
-234,
-235,
-236,
-237],
+"files": [
+[233, [51]],
+[235, [83]],
+[236, [57]],
+[237, [57]],
+[238, [86]],
+[239, [99]]
+],
 "memberKind": "Property"
 }
 ,
 "UpdateAsync`0":{
-"files": [825,
-827],
+"files": [
+[825, [67]],
+[827, [74]]
+],
 "memberKind": "Method"
 }
 ,
 "VisualElements":{
-"files": [479,
-231,
-253,
-236,
-751,
-828,
-764,
-447,
-760,
-237,
-239,
-824,
-825,
-64,
-470,
-743,
-245,
-471,
-827,
-753,
-249],
+"files": [
+[481, [77]],
+[233, [25,26,27,28,98]],
+[255, [124,125,126,127]],
+[238, [54,55,56]],
+[752, [30,31,32,33,34,35,36]],
+[828, [29,30,31,32,33,34]],
+[764, [30,31,32,33,34,35,36]],
+[449, [43,44,45,46,47,48,49]],
+[760, [32]],
+[239, [33,34,35,36,37,38]],
+[241, [71,72,73]],
+[824, [33,36,39,42,44,45,46]],
+[825, [33,34,35,36,37,38,61,62,63,64]],
+[64, [92,93,94,95,96,97]],
+[472, [91,92,97,101,105,106,111]],
+[744, [91,92,97,101,105,106,107,115]],
+[247, [102,105,106,110]],
+[473, [115,119]],
+[827, [73]],
+[753, [90,91,96,100,103,104,105,113]],
+[251, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "VisualElementsRequested":{
-"files": [743,
-753],
+"files": [
+[744, [111]],
+[753, [109]]
+],
 "memberKind": "?"
 }
 }
@@ -31814,151 +40357,175 @@ var contents = {
 "SecondaryTileVisualElements":{
 "members": {
 "BackgroundColor":{
-"files": [253,
-751,
-764,
-447,
-760],
+"files": [
+[255, [127]],
+[752, [36]],
+[764, [36]],
+[449, [49]],
+[760, [32]]
+],
 "memberKind": "Property"
 }
 ,
 "ForegroundText":{
-"files": [470,
-743,
-245,
-471,
-753],
+"files": [
+[472, [111]],
+[744, [115]],
+[247, [110]],
+[473, [119]],
+[753, [113]]
+],
 "memberKind": "?"
 }
 ,
 "ShowNameOnSquare150x150Logo":{
-"files": [253,
-236,
-751,
-828,
-764,
-447,
-237,
-239,
-824,
-825,
-64,
-470,
-743,
-245,
-471,
-753,
-249],
+"files": [
+[255, [124]],
+[238, [54]],
+[752, [33]],
+[828, [32]],
+[764, [33]],
+[449, [46]],
+[239, [36]],
+[241, [71]],
+[824, [44]],
+[825, [36]],
+[64, [95]],
+[472, [101]],
+[744, [105]],
+[247, [105]],
+[473, [115]],
+[753, [103]],
+[251, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "ShowNameOnSquare310x310Logo":{
-"files": [231,
-253,
-236,
-751,
-828,
-764,
-447,
-237,
-239,
-824,
-825,
-64,
-470,
-743,
-753],
+"files": [
+[233, [98]],
+[255, [125]],
+[238, [55]],
+[752, [34]],
+[828, [33]],
+[764, [34]],
+[449, [47]],
+[239, [37]],
+[241, [72]],
+[824, [45]],
+[825, [37]],
+[64, [96]],
+[472, [106]],
+[744, [107]],
+[753, [105]]
+],
 "memberKind": "Property"
 }
 ,
 "ShowNameOnWide310x150Logo":{
-"files": [253,
-236,
-751,
-828,
-764,
-447,
-237,
-239,
-824,
-825,
-64,
-470,
-743,
-245,
-753],
+"files": [
+[255, [126]],
+[238, [56]],
+[752, [35]],
+[828, [34]],
+[764, [35]],
+[449, [48]],
+[239, [38]],
+[241, [73]],
+[824, [46]],
+[825, [38]],
+[64, [97]],
+[472, [105]],
+[744, [106]],
+[247, [106]],
+[753, [104]]
+],
 "memberKind": "Property"
 }
 ,
 "Square150x150Logo":{
-"files": [824,
-825,
-827],
+"files": [
+[824, [33]],
+[825, [61]],
+[827, [73]]
+],
 "memberKind": "Property"
 }
 ,
 "Square30x30Logo":{
-"files": [470,
-743,
-753],
+"files": [
+[472, [97]],
+[744, [101]],
+[753, [100]]
+],
 "memberKind": "Property"
 }
 ,
 "Square310x310Logo":{
-"files": [231,
-751,
-828,
-764,
-447,
-237,
-824,
-825,
-64,
-470,
-743,
-753],
+"files": [
+[233, [27]],
+[752, [32]],
+[828, [31]],
+[764, [32]],
+[449, [45]],
+[239, [35]],
+[824, [42]],
+[825, [35,63]],
+[64, [94]],
+[472, [92]],
+[744, [92]],
+[753, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "Square44x44Logo":{
-"files": [231],
+"files": [
+[233, [28]]
+],
 "memberKind": "Property"
 }
 ,
 "Square70x70Logo":{
-"files": [743,
-753],
+"files": [
+[744, [97]],
+[753, [96]]
+],
 "memberKind": "Property"
 }
 ,
 "Square71x71Logo":{
-"files": [231,
-751,
-828,
-764,
-447,
-237,
-824,
-825,
-64],
+"files": [
+[233, [25]],
+[752, [30]],
+[828, [29]],
+[764, [30]],
+[449, [43]],
+[239, [33]],
+[824, [36]],
+[825, [33,62]],
+[64, [92]]
+],
 "memberKind": "Property"
 }
 ,
 "Wide310x150Logo":{
-"files": [479,
-231,
-751,
-828,
-764,
-447,
-237,
-824,
-825,
-64,
-470,
-743,
-245,
-753],
+"files": [
+[481, [77]],
+[233, [26]],
+[752, [31]],
+[828, [30]],
+[764, [31]],
+[449, [44]],
+[239, [34]],
+[824, [39]],
+[825, [34,64]],
+[64, [93]],
+[472, [91]],
+[744, [91]],
+[247, [102]],
+[753, [90]]
+],
 "memberKind": "Property"
 }
 }
@@ -31967,33 +40534,39 @@ var contents = {
 "TileSize":{
 "members": {
 "Default":{
-"files": [231,
-253,
-751,
-828,
-764,
-447,
-677,
-829,
-237,
-825,
-64,
-249],
+"files": [
+[233, [24]],
+[255, [123]],
+[752, [29]],
+[828, [28]],
+[764, [29]],
+[449, [42]],
+[678, [56]],
+[829, [26]],
+[239, [32]],
+[825, [32]],
+[64, [91]],
+[251, [75]]
+],
 "memberKind": "Field"
 }
 ,
 "Square150x150":{
-"files": [479,
-470,
-743,
-471,
-753],
+"files": [
+[481, [45]],
+[472, [87]],
+[744, [87]],
+[473, [112]],
+[753, [86]]
+],
 "memberKind": "Field"
 }
 ,
 "Wide310x150":{
-"files": [479,
-245],
+"files": [
+[481, [75]],
+[247, [99]]
+],
 "memberKind": "Field"
 }
 }
@@ -32002,18 +40575,24 @@ var contents = {
 "VisualElementsRequest":{
 "members": {
 "AlternateVisualElements":{
-"files": [743,
-753],
+"files": [
+[744, [183,184,185,186,188,189,190,196,197,198,199,201,202,203,208,209,210,211,213,214,215]],
+[753, [154,155,156,157,160,161,162,164,165,166,167,169,170,171,173,174,175,176,178,179,180]]
+],
 "memberKind": "Property"
 }
 ,
 "Deadline":{
-"files": [743],
+"files": [
+[744, [180,194,206]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [743],
+"files": [
+[744, [140]]
+],
 "memberKind": "Method"
 }
 }
@@ -32022,7 +40601,9 @@ var contents = {
 "VisualElementsRequestDeferral":{
 "members": {
 "Complete`0":{
-"files": [743],
+"files": [
+[744, [155]]
+],
 "memberKind": "Method"
 }
 }
@@ -32031,8 +40612,10 @@ var contents = {
 "VisualElementsRequestedEventArgs":{
 "members": {
 "Request":{
-"files": [743,
-753],
+"files": [
+[744, [140,180,183,184,185,186,188,189,190,194,196,197,198,199,201,202,203,206,208,209,210,211,213,214,215]],
+[753, [154,155,156,157,160,161,162,164,165,166,167,169,170,171,173,174,175,176,178,179,180]]
+],
 "memberKind": "Property"
 }
 }
@@ -32047,17 +40630,23 @@ var contents = {
 "CoreTextServicesManager":{
 "members": {
 "GetForCurrentView`0":{
-"files": [503],
+"files": [
+[505, [68]]
+],
 "memberKind": "Method"
 }
 ,
 "InputLanguage":{
-"files": [503],
+"files": [
+[505, [188]]
+],
 "memberKind": "Property"
 }
 ,
 "InputLanguageChanged":{
-"files": [503],
+"files": [
+[505, [69]]
+],
 "memberKind": "?"
 }
 }
@@ -32068,9 +40657,11 @@ var contents = {
 "FontWeights":{
 "members": {
 "Bold":{
-"files": [149,
-833,
-150],
+"files": [
+[151, [449]],
+[833, [47]],
+[152, [442]]
+],
 "memberKind": "Property"
 }
 }
@@ -32079,7 +40670,9 @@ var contents = {
 "FormatEffect":{
 "members": {
 "Toggle":{
-"files": [532],
+"files": [
+[534, [100,111]]
+],
 "memberKind": "Field"
 }
 }
@@ -32088,17 +40681,23 @@ var contents = {
 "ITextCharacterFormat":{
 "members": {
 "Bold":{
-"files": [532],
+"files": [
+[534, [100]]
+],
 "memberKind": "?"
 }
 ,
 "ForegroundColor":{
-"files": [532],
+"files": [
+[534, [125,131,137,143,149,155,161]]
+],
 "memberKind": "Property"
 }
 ,
 "Italic":{
-"files": [532],
+"files": [
+[534, [111]]
+],
 "memberKind": "?"
 }
 }
@@ -32107,7 +40706,9 @@ var contents = {
 "ITextDocument":{
 "members": {
 "SetText`2":{
-"files": [164],
+"files": [
+[166, [59]]
+],
 "memberKind": "Method"
 }
 }
@@ -32116,7 +40717,9 @@ var contents = {
 "ITextSelection":{
 "members": {
 "CharacterFormat":{
-"files": [532],
+"files": [
+[534, [99,101,110,112]]
+],
 "memberKind": "Property"
 }
 }
@@ -32125,16 +40728,20 @@ var contents = {
 "TextGetOptions":{
 "members": {
 "FormatRtf":{
-"files": [532],
+"files": [
+[534, [80]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [221,
-224,
-165,
-246,
-166],
+"files": [
+[223, [58]],
+[226, [55,81]],
+[167, [90]],
+[248, [69]],
+[168, [97,100,172,175]]
+],
 "memberKind": "Field"
 }
 }
@@ -32143,12 +40750,16 @@ var contents = {
 "TextSetOptions":{
 "members": {
 "FormatRtf":{
-"files": [532],
+"files": [
+[534, [55]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [164],
+"files": [
+[166, [59]]
+],
 "memberKind": "Field"
 }
 }
@@ -32161,138 +40772,174 @@ var contents = {
 "ApplicationView":{
 "members": {
 "Consolidated":{
-"files": [769,
-770,
-772],
+"files": [
+[769, [97,104]],
+[770, [92,98]],
+[772, [92,99]]
+],
 "memberKind": "?"
 }
 ,
 "ExitFullScreenMode`0":{
-"files": [108,
-506,
-745,
-114],
+"files": [
+[111, [285]],
+[508, [50]],
+[746, [50,101]],
+[117, [73]]
+],
 "memberKind": "Method"
 }
 ,
 "FullScreenSystemOverlayMode":{
-"files": [745],
+"files": [
+[746, [77]]
+],
 "memberKind": "?"
 }
 ,
 "GetApplicationViewIdForWindow`1":{
-"files": [769,
-770,
-772],
+"files": [
+[769, [84]],
+[770, [79]],
+[772, [79]]
+],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`0":{
-"files": [107,
-108,
-506,
-780,
-769,
-834,
-745,
-4,
-109,
-783,
-739,
-770,
-497,
-771,
-110,
-111,
-112,
-772,
-501,
-113,
-746,
-114,
-520],
+"files": [
+[110, [112]],
+[111, [221,285]],
+[508, [50]],
+[780, [99]],
+[769, [97,104]],
+[834, [27,33]],
+[746, [47,70,76,87,98]],
+[4, [66]],
+[112, [88,117]],
+[783, [122]],
+[740, [68,89,90,160]],
+[770, [92,98]],
+[499, [35,44]],
+[771, [72,84]],
+[113, [43]],
+[114, [39]],
+[115, [37]],
+[772, [92,99]],
+[503, [46,61]],
+[116, [81]],
+[747, [25]],
+[117, [70,96]],
+[522, [39,45,48]]
+],
 "memberKind": "Method"
 }
 ,
 "Id":{
-"files": [107,
-108,
-780,
-4,
-109,
-783,
-739,
-771,
-110,
-111,
-112],
+"files": [
+[110, [112]],
+[111, [221]],
+[780, [99]],
+[4, [66]],
+[112, [117]],
+[783, [122]],
+[740, [68,89,160]],
+[771, [72,84]],
+[113, [43]],
+[114, [39]],
+[115, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "IsFullScreenMode":{
-"files": [745,
-113,
-114],
+"files": [
+[746, [48,88,99]],
+[116, [81]],
+[117, [71,96]]
+],
 "memberKind": "Property"
 }
 ,
 "IsScreenCaptureEnabled":{
-"files": [834],
+"files": [
+[834, [27,33]]
+],
 "memberKind": "Property"
 }
 ,
 "PreferredLaunchViewSize":{
-"files": [527],
+"files": [
+[529, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "PreferredLaunchWindowingMode":{
-"files": [835,
-527],
+"files": [
+[835, [23,28]],
+[529, [24,37,41]]
+],
 "memberKind": "Property"
 }
 ,
 "SetPreferredMinSize`1":{
-"files": [501],
+"files": [
+[503, [65,70]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowStandardSystemOverlays`0":{
-"files": [745],
+"files": [
+[746, [71]]
+],
 "memberKind": "Method"
 }
 ,
 "Title":{
-"files": [109,
-739],
+"files": [
+[112, [88]],
+[740, [90]]
+],
 "memberKind": "Property"
 }
 ,
 "TitleBar":{
-"files": [746],
+"files": [
+[747, [25]]
+],
 "memberKind": "Property"
 }
 ,
 "TryEnterFullScreenMode`0":{
-"files": [745,
-114],
+"files": [
+[746, [56]],
+[117, [78]]
+],
 "memberKind": "Method"
 }
 ,
 "TryResizeView`1":{
-"files": [501],
+"files": [
+[503, [47]]
+],
 "memberKind": "Method"
 }
 ,
 "VisibleBounds":{
-"files": [497,
-520],
+"files": [
+[499, [49,50]],
+[522, [45,48]]
+],
 "memberKind": "Property"
 }
 ,
 "VisibleBoundsChanged":{
-"files": [497,
-520],
+"files": [
+[499, [35,44]],
+[522, [39]]
+],
 "memberKind": "?"
 }
 }
@@ -32301,22 +40948,30 @@ var contents = {
 "ApplicationViewSwitcher":{
 "members": {
 "PrepareForCustomAnimatedSwitchAsync`3":{
-"files": [783],
+"files": [
+[783, [123]]
+],
 "memberKind": "Method"
 }
 ,
 "SwitchAsync`1":{
-"files": [739],
+"files": [
+[740, [59]]
+],
 "memberKind": "Method"
 }
 ,
 "SwitchAsync`3":{
-"files": [739],
+"files": [
+[740, [67,160]]
+],
 "memberKind": "Method"
 }
 ,
 "TryShowAsStandaloneAsync`4":{
-"files": [109],
+"files": [
+[112, [114]]
+],
 "memberKind": "Method"
 }
 }
@@ -32325,13 +40980,17 @@ var contents = {
 "ApplicationViewSwitchingOptions":{
 "members": {
 "ConsolidateViews":{
-"files": [739],
+"files": [
+[740, [69]]
+],
 "memberKind": "Field"
 }
 ,
 "SkipAnimation":{
-"files": [783,
-739],
+"files": [
+[783, [126]],
+[740, [162]]
+],
 "memberKind": "Field"
 }
 }
@@ -32340,62 +40999,86 @@ var contents = {
 "ApplicationViewTitleBar":{
 "members": {
 "BackgroundColor":{
-"files": [746],
+"files": [
+[747, [63,81]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonBackgroundColor":{
-"files": [746],
+"files": [
+[747, [28,32,68,89]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonForegroundColor":{
-"files": [746],
+"files": [
+[747, [73,95]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonHoverBackgroundColor":{
-"files": [746],
+"files": [
+[747, [69,90]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonHoverForegroundColor":{
-"files": [746],
+"files": [
+[747, [74,96]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonInactiveBackgroundColor":{
-"files": [746],
+"files": [
+[747, [71,92]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonInactiveForegroundColor":{
-"files": [746],
+"files": [
+[747, [76,98]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonPressedBackgroundColor":{
-"files": [746],
+"files": [
+[747, [70,91]]
+],
 "memberKind": "Property"
 }
 ,
 "ButtonPressedForegroundColor":{
-"files": [746],
+"files": [
+[747, [75,97]]
+],
 "memberKind": "Property"
 }
 ,
 "ForegroundColor":{
-"files": [746],
+"files": [
+[747, [64,82]]
+],
 "memberKind": "Property"
 }
 ,
 "InactiveBackgroundColor":{
-"files": [746],
+"files": [
+[747, [65,83]]
+],
 "memberKind": "Property"
 }
 ,
 "InactiveForegroundColor":{
-"files": [746],
+"files": [
+[747, [66,84]]
+],
 "memberKind": "Property"
 }
 }
@@ -32404,18 +41087,24 @@ var contents = {
 "ApplicationViewWindowingMode":{
 "members": {
 "Auto":{
-"files": [835,
-527],
+"files": [
+[835, [28]],
+[529, [24,41]]
+],
 "memberKind": "Field"
 }
 ,
 "FullScreen":{
-"files": [835],
+"files": [
+[835, [23,28]]
+],
 "memberKind": "Field"
 }
 ,
 "PreferredLaunchViewSize":{
-"files": [527],
+"files": [
+[529, [37]]
+],
 "memberKind": "Field"
 }
 }
@@ -32424,12 +41113,16 @@ var contents = {
 "FullScreenSystemOverlayMode":{
 "members": {
 "Minimal":{
-"files": [745],
+"files": [
+[746, [77]]
+],
 "memberKind": "Field"
 }
 ,
 "Standard":{
-"files": [745],
+"files": [
+[746, [77]]
+],
 "memberKind": "Field"
 }
 }
@@ -32438,51 +41131,101 @@ var contents = {
 "ProjectionManager":{
 "members": {
 "GetDeviceSelector`0":{
-"files": [107,
-108,
-112],
+"files": [
+[110, [67]],
+[111, [92]],
+[115, [45]]
+],
 "memberKind": "Method"
 }
 ,
 "ProjectionDisplayAvailable":{
-"files": [107,
-108,
-111],
+"files": [
+[110, [154,160]],
+[111, [219,263]],
+[114, [50,60]]
+],
 "memberKind": "Property"
 }
 ,
 "ProjectionDisplayAvailableChanged":{
-"files": [111],
+"files": [
+[114, [44,52]]
+],
 "memberKind": "?"
 }
 ,
 "RequestStartProjectingAsync`4":{
-"files": [111],
+"files": [
+[114, [167]]
+],
 "memberKind": "Method"
 }
 ,
 "StartProjectingAsync`2":{
-"files": [110,
-111],
+"files": [
+[113, [85]],
+[114, [118]]
+],
 "memberKind": "Method"
 }
 ,
 "StartProjectingAsync`3":{
-"files": [107,
-108,
-112],
+"files": [
+[110, [149]],
+[111, [259]],
+[115, [114]]
+],
 "memberKind": "Method"
 }
 ,
 "StopProjectingAsync`2":{
-"files": [780,
-771],
+"files": [
+[780, [125]],
+[771, [83]]
+],
 "memberKind": "Method"
 }
 ,
 "SwapDisplaysForViewsAsync`2":{
-"files": [780,
-771],
+"files": [
+[780, [98]],
+[771, [71]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"StatusBar":{
+"members": {
+"GetForCurrentView`0":{
+"files": [
+[191, [615,639]],
+[193, [680,704]],
+[194, [530,554]],
+[195, [676,700]]
+],
+"memberKind": "Method"
+}
+,
+"HideAsync`0":{
+"files": [
+[191, [615]],
+[193, [680]],
+[194, [530]],
+[195, [676]]
+],
+"memberKind": "Method"
+}
+,
+"ShowAsync`0":{
+"files": [
+[191, [639]],
+[193, [704]],
+[194, [554]],
+[195, [700]]
+],
 "memberKind": "Method"
 }
 }
@@ -32491,14 +41234,18 @@ var contents = {
 "UISettings":{
 "members": {
 ":ctor`0":{
-"files": [538,
-490],
+"files": [
+[540, [56]],
+[492, [52]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AnimationsEnabled":{
-"files": [538,
-490],
+"files": [
+[540, [62]],
+[492, [86]]
+],
 "memberKind": "Property"
 }
 }
@@ -32507,12 +41254,16 @@ var contents = {
 "UIViewSettings":{
 "members": {
 "GetForCurrentView`0":{
-"files": [836],
+"files": [
+[836, [93]]
+],
 "memberKind": "Method"
 }
 ,
 "UserInteractionMode":{
-"files": [836],
+"files": [
+[836, [93]]
+],
 "memberKind": "Property"
 }
 }
@@ -32521,7 +41272,9 @@ var contents = {
 "UserInteractionMode":{
 "members": {
 "Mouse":{
-"files": [836],
+"files": [
+[836, [96]]
+],
 "memberKind": "Field"
 }
 }
@@ -32530,45 +41283,57 @@ var contents = {
 "ViewSizePreference":{
 "members": {
 "Default":{
-"files": [154,
-465,
-109],
+"files": [
+[156, [157]],
+[467, [134]],
+[112, [59]]
+],
 "memberKind": "Field"
 }
 ,
 "UseHalf":{
-"files": [154,
-465,
-106,
-109],
+"files": [
+[156, [165]],
+[467, [142]],
+[109, [37]],
+[112, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "UseLess":{
-"files": [154,
-465,
-109],
+"files": [
+[156, [161]],
+[467, [138]],
+[112, [61]]
+],
 "memberKind": "Field"
 }
 ,
 "UseMinimum":{
-"files": [154,
-465,
-109],
+"files": [
+[156, [173]],
+[467, [150]],
+[112, [62]]
+],
 "memberKind": "Field"
 }
 ,
 "UseMore":{
-"files": [154,
-465,
-109],
+"files": [
+[156, [169]],
+[467, [146]],
+[112, [63]]
+],
 "memberKind": "Field"
 }
 ,
 "UseNone":{
-"files": [154,
-465,
-109],
+"files": [
+[156, [177]],
+[467, [154]],
+[112, [43]]
+],
 "memberKind": "Field"
 }
 }
@@ -32581,75 +41346,87 @@ var contents = {
 "Application":{
 "members": {
 "Current":{
-"files": [1,
-186,
-189,
-190,
-191,
-192,
-193,
-707,
-692,
-716,
-42,
-7,
-196,
-581,
-102,
-115,
-116,
-117,
-333,
-27],
+"files": [
+[1, [53]],
+[188, [150,151]],
+[191, [86,87]],
+[192, [79,80]],
+[193, [99,100]],
+[194, [79,80]],
+[195, [84,85]],
+[708, [80,89]],
+[693, [108,117]],
+[717, [78]],
+[42, [32]],
+[7, [33]],
+[198, [72,73]],
+[583, [39]],
+[105, [75]],
+[100, [63]],
+[118, [83]],
+[119, [61]],
+[335, [37]],
+[27, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "OnActivated`1":{
-"files": [1,
-3,
-0],
+"files": [
+[1, [130]],
+[3, [152]],
+[0, [190]]
+],
 "memberKind": "Method"
 }
 ,
 "Resources":{
-"files": [3,
-707,
-692,
-716,
-102,
-115,
-116,
-117,
-333,
-27],
+"files": [
+[3, [101]],
+[708, [80,89]],
+[693, [108,117]],
+[717, [78]],
+[105, [75]],
+[100, [63]],
+[118, [83]],
+[119, [61]],
+[335, [37]],
+[27, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "Resuming":{
-"files": [186,
-189,
-190,
-191,
-192,
-193,
-196,
-581],
+"files": [
+[188, [151]],
+[191, [87]],
+[192, [80]],
+[193, [100]],
+[194, [80]],
+[195, [85]],
+[198, [73]],
+[583, [39]]
+],
 "memberKind": "?"
 }
 ,
 "Suspending":{
-"files": [186,
-189,
-190,
-191,
-192,
-193,
-196],
+"files": [
+[188, [150]],
+[191, [86]],
+[192, [79]],
+[193, [99]],
+[194, [79]],
+[195, [84]],
+[198, [72]]
+],
 "memberKind": "?"
 }
 ,
 "UnhandledException":{
-"files": [1],
+"files": [
+[1, [53]]
+],
 "memberKind": "?"
 }
 }
@@ -32660,13 +41437,17 @@ var contents = {
 "AutomationProperties":{
 "members": {
 "NameProperty":{
-"files": [473],
+"files": [
+[475, [298,302]]
+],
 "memberKind": "Property"
 }
 ,
 "SetName`2":{
-"files": [197,
-198],
+"files": [
+[199, [317]],
+[200, [145,232]]
+],
 "memberKind": "Method"
 }
 }
@@ -32679,13 +41460,17 @@ var contents = {
 "AppBar":{
 "members": {
 "IsOpen":{
-"files": [837,
-179],
+"files": [
+[837, [42,47]],
+[181, [123]]
+],
 "memberKind": "Property"
 }
 ,
 "IsSticky":{
-"files": [471],
+"files": [
+[473, [148]]
+],
 "memberKind": "Property"
 }
 }
@@ -32694,17 +41479,23 @@ var contents = {
 "AppBarButton":{
 "members": {
 ":ctor`0":{
-"files": [419],
+"files": [
+[423, [65,70,77,82]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Icon":{
-"files": [419],
+"files": [
+[423, [66,71,78,83]]
+],
 "memberKind": "?"
 }
 ,
 "Label":{
-"files": [419],
+"files": [
+[423, [67,72,79,84]]
+],
 "memberKind": "Property"
 }
 }
@@ -32713,21 +41504,27 @@ var contents = {
 "AppBarSeparator":{
 "members": {
 ":ctor`0":{
-"files": [418,
-420,
-421,
-422,
-419],
+"files": [
+[422, [80]],
+[424, [57]],
+[425, [57]],
+[426, [57]],
+[423, [75]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DesiredSize":{
-"files": [418],
+"files": [
+[422, [82,83,108,109,110]]
+],
 "memberKind": "Property"
 }
 ,
 "Measure`1":{
-"files": [418],
+"files": [
+[422, [81]]
+],
 "memberKind": "Method"
 }
 }
@@ -32736,40 +41533,52 @@ var contents = {
 "AppBarToggleButton":{
 "members": {
 ":ctor`0":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [59]],
+[425, [59]],
+[426, [59]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Click":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [42,62]],
+[425, [42,62]],
+[426, [42,62]]
+],
 "memberKind": "?"
 }
 ,
 "Icon":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [60]],
+[425, [60]],
+[426, [60]]
+],
 "memberKind": "?"
 }
 ,
 "IsChecked":{
-"files": [422],
+"files": [
+[426, [90,93,96,99]]
+],
 "memberKind": "Property"
 }
 ,
 "Label":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [61]],
+[425, [61]],
+[426, [61]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [422],
+"files": [
+[426, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -32778,16 +41587,20 @@ var contents = {
 "AutoSuggestBox":{
 "members": {
 "ItemsSource":{
-"files": [838,
-556],
+"files": [
+[838, [54]],
+[558, [69,71]]
+],
 "memberKind": "Property"
 }
 ,
 "Text":{
-"files": [838,
-777,
-556,
-476],
+"files": [
+[838, [52,102]],
+[777, [60]],
+[558, [43,44,66,94,116]],
+[478, [85,93]]
+],
 "memberKind": "Property"
 }
 }
@@ -32796,18 +41609,22 @@ var contents = {
 "AutoSuggestBoxQuerySubmittedEventArgs":{
 "members": {
 "ChosenSuggestion":{
-"files": [838,
-777,
-556,
-476],
+"files": [
+[838, [69,72]],
+[777, [73,75]],
+[558, [86,89]],
+[478, [101,103]]
+],
 "memberKind": "Property"
 }
 ,
 "QueryText":{
-"files": [838,
-777,
-556,
-476],
+"files": [
+[838, [77]],
+[777, [77,81]],
+[558, [91]],
+[478, [106,108]]
+],
 "memberKind": "Property"
 }
 }
@@ -32816,9 +41633,11 @@ var contents = {
 "AutoSuggestBoxSuggestionChosenEventArgs":{
 "members": {
 "SelectedItem":{
-"files": [838,
-777,
-556],
+"files": [
+[838, [100]],
+[777, [94]],
+[558, [50,111]]
+],
 "memberKind": "Property"
 }
 }
@@ -32827,10 +41646,12 @@ var contents = {
 "AutoSuggestBoxTextChangedEventArgs":{
 "members": {
 "Reason":{
-"files": [838,
-777,
-556,
-476],
+"files": [
+[838, [50]],
+[777, [55]],
+[558, [40,64]],
+[478, [77]]
+],
 "memberKind": "Property"
 }
 }
@@ -32839,10 +41660,12 @@ var contents = {
 "AutoSuggestionBoxTextChangeReason":{
 "members": {
 "UserInput":{
-"files": [838,
-777,
-556,
-476],
+"files": [
+[838, [50]],
+[777, [55]],
+[558, [40,64]],
+[478, [77]]
+],
 "memberKind": "Field"
 }
 }
@@ -32851,42 +41674,56 @@ var contents = {
 "Border":{
 "members": {
 ":ctor`0":{
-"files": [196,
-157],
+"files": [
+[198, [246]],
+[159, [229]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Background":{
-"files": [481],
+"files": [
+[483, [188,213,220]]
+],
 "memberKind": "?"
 }
 ,
 "DataContext":{
-"files": [147],
+"files": [
+[149, [172]]
+],
 "memberKind": "Property"
 }
 ,
 "HeightProperty":{
-"files": [196,
-157],
+"files": [
+[198, [255]],
+[159, [239]]
+],
 "memberKind": "Property"
 }
 ,
 "MarginProperty":{
-"files": [196,
-157],
+"files": [
+[198, [253]],
+[159, [237]]
+],
 "memberKind": "Property"
 }
 ,
 "SetBinding`2":{
-"files": [196,
-157],
+"files": [
+[198, [253,254,255]],
+[159, [237,238,239]]
+],
 "memberKind": "Method"
 }
 ,
 "WidthProperty":{
-"files": [196,
-157],
+"files": [
+[198, [254]],
+[159, [238]]
+],
 "memberKind": "Property"
 }
 }
@@ -32895,108 +41732,134 @@ var contents = {
 "Button":{
 "members": {
 ":ctor`0":{
-"files": [701,
-401,
-302,
-304,
-837],
+"files": [
+[702, [51]],
+[405, [59]],
+[304, [59]],
+[306, [70,75]],
+[837, [74]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Background":{
-"files": [502],
+"files": [
+[504, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "Click":{
-"files": [839,
-840,
-701,
-841,
-842,
-401,
-302,
-304,
-843,
-837],
+"files": [
+[839, [52]],
+[840, [41,45]],
+[702, [55]],
+[841, [33]],
+[842, [40]],
+[405, [62]],
+[304, [61]],
+[306, [72,77]],
+[843, [32]],
+[837, [77,100]]
+],
 "memberKind": "?"
 }
 ,
 "Content":{
-"files": [701,
-401,
-302,
-304,
-837],
+"files": [
+[702, [54]],
+[405, [61]],
+[304, [60]],
+[306, [71,76]],
+[837, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "DataContext":{
-"files": [701,
-321],
+"files": [
+[702, [52,83]],
+[323, [58]]
+],
 "memberKind": "Property"
 }
 ,
 "DesiredSize":{
-"files": [418],
+"files": [
+[422, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
-"files": [450,
-381,
-391,
-390,
-383,
-384,
-382,
-301,
-379,
-646,
-645,
-632,
-430,
-431,
-432],
+"files": [
+[452, [89,90,99,100]],
+[383, [57,74,144]],
+[395, [43,69]],
+[394, [44,89]],
+[387, [34,61]],
+[388, [33,57]],
+[384, [43,86]],
+[303, [43,105]],
+[381, [35,63]],
+[648, [39,89]],
+[647, [38,102,108]],
+[634, [73,79,84,90]],
+[433, [71,77,82,88]],
+[434, [61,67,72,78]],
+[435, [62,68,73,79]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [568,
-599,
-600,
-420,
-844,
-532],
+"files": [
+[570, [106]],
+[601, [51]],
+[602, [51]],
+[424, [85]],
+[844, [33]],
+[534, [121]]
+],
 "memberKind": "Property"
 }
 ,
 "Style":{
-"files": [701],
+"files": [
+[702, [53]]
+],
 "memberKind": "?"
 }
 ,
 "Tag":{
-"files": [784,
-401,
-837],
+"files": [
+[784, [42]],
+[405, [60,71]],
+[837, [72,76,98]]
+],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
-"files": [186,
-415],
+"files": [
+[188, [410]],
+[419, [215]]
+],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
-"files": [418],
+"files": [
+[422, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "Width":{
-"files": [186,
-415],
+"files": [
+[188, [411]],
+[419, [216]]
+],
 "memberKind": "Property"
 }
 }
@@ -33005,62 +41868,84 @@ var contents = {
 "Canvas":{
 "members": {
 ":ctor`0":{
-"files": [492],
+"files": [
+[494, [521,527]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
-"files": [500,
-492],
+"files": [
+[502, [113,146,189,303]],
+[494, [573,574]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [492],
+"files": [
+[494, [521,545]]
+],
 "memberKind": "Property"
 }
 ,
 "InvalidateMeasure`0":{
-"files": [500],
+"files": [
+[502, [147,304]]
+],
 "memberKind": "Method"
 }
 ,
 "LeftProperty":{
-"files": [492,
-41],
+"files": [
+[494, [533,544]],
+[41, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "SetLeft`2":{
-"files": [189,
-484],
+"files": [
+[191, [936,944,1023]],
+[486, [112]]
+],
 "memberKind": "Method"
 }
 ,
 "SetTop`2":{
-"files": [189,
-484],
+"files": [
+[191, [937,945,1024]],
+[486, [113]]
+],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
-"files": [492],
+"files": [
+[494, [533,534]]
+],
 "memberKind": "Method"
 }
 ,
 "TopProperty":{
-"files": [492,
-41],
+"files": [
+[494, [534,545]],
+[41, [78]]
+],
 "memberKind": "Property"
 }
 ,
 "UpdateLayout`0":{
-"files": [500],
+"files": [
+[502, [148,305]]
+],
 "memberKind": "Method"
 }
 ,
 "Width":{
-"files": [492],
+"files": [
+[494, [521,544]]
+],
 "memberKind": "Property"
 }
 }
@@ -33069,12 +41954,16 @@ var contents = {
 "CaptureElement":{
 "members": {
 "ActualHeight":{
-"files": [189],
+"files": [
+[191, [1040,1058,1061,1063,1074]]
+],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
-"files": [189],
+"files": [
+[191, [1040,1057,1061,1066,1071]]
+],
 "memberKind": "Property"
 }
 }
@@ -33083,50 +41972,66 @@ var contents = {
 "ComboBox":{
 "members": {
 "DataContext":{
-"files": [202],
+"files": [
+[204, [41]]
+],
 "memberKind": "Property"
 }
 ,
 "Header":{
-"files": [307],
+"files": [
+[309, [701]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
-"files": [307],
+"files": [
+[309, [702]]
+],
 "memberKind": "Property"
 }
 ,
 "Items":{
-"files": [307],
+"files": [
+[309, [692,697]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedIndex":{
-"files": [557,
-609,
-535,
-202,
-533],
+"files": [
+[559, [112,116]],
+[611, [135]],
+[537, [153]],
+[204, [45]],
+[535, [36,74,100,129,155]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedItem":{
-"files": [480,
-481,
-845,
-562],
+"files": [
+[482, [116]],
+[483, [54]],
+[845, [184]],
+[564, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
-"files": [557,
-178],
+"files": [
+[559, [110,119]],
+[180, [64]]
+],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
-"files": [307],
+"files": [
+[309, [703]]
+],
 "memberKind": "?"
 }
 }
@@ -33135,73 +42040,83 @@ var contents = {
 "ComboBoxItem":{
 "members": {
 ":ctor`0":{
-"files": [574,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[576, [102]],
+[174, [110]],
+[163, [120]],
+[175, [106]],
+[176, [92]],
+[177, [92]],
+[164, [116]],
+[178, [112]],
+[179, [111]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
-"files": [480,
-481,
-668,
-642,
-502,
-574,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177,
-216,
-217,
-404,
-775,
-846,
-847,
-526],
+"files": [
+[482, [117]],
+[483, [55]],
+[669, [211]],
+[644, [94,135,163]],
+[504, [97,116]],
+[576, [104]],
+[174, [112]],
+[163, [122]],
+[175, [108]],
+[176, [94]],
+[177, [94]],
+[164, [118]],
+[178, [115]],
+[179, [114]],
+[218, [62,110]],
+[219, [62,110]],
+[408, [112,116,120]],
+[775, [125]],
+[846, [16]],
+[847, [21]],
+[528, [94,99]]
+],
 "memberKind": "Property"
 }
 ,
 "IsSelected":{
-"files": [574,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[576, [109]],
+[174, [117]],
+[163, [127]],
+[175, [113]],
+[176, [99]],
+[177, [99]],
+[164, [123]],
+[178, [121]],
+[179, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [699,
-176,
-177],
+"files": [
+[700, [51]],
+[178, [113]],
+[179, [112]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [574,
-172,
-161,
-173,
-174,
-175,
-162,
-176,
-177],
+"files": [
+[576, [103,126]],
+[174, [111,134]],
+[163, [121,143]],
+[175, [107,129]],
+[176, [93,116]],
+[177, [93,315]],
+[164, [117,140]],
+[178, [114,135]],
+[179, [113,134]]
+],
 "memberKind": "Property"
 }
 }
@@ -33210,35 +42125,47 @@ var contents = {
 "CommandBar":{
 "members": {
 "IsOpen":{
-"files": [837,
-419],
+"files": [
+[837, [36]],
+[423, [36,49]]
+],
 "memberKind": "Property"
 }
 ,
 "IsSticky":{
-"files": [419],
+"files": [
+[423, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "MeasureOverride`1":{
-"files": [418],
+"files": [
+[422, [42]]
+],
 "memberKind": "Method"
 }
 ,
 "OnApplyTemplate`0":{
-"files": [418],
+"files": [
+[422, [31]]
+],
 "memberKind": "Method"
 }
 ,
 "PrimaryCommands":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [43,57,63]],
+[425, [43,57,63]],
+[426, [43,57,63]]
+],
 "memberKind": "Property"
 }
 ,
 "SecondaryCommands":{
-"files": [419],
+"files": [
+[423, [63,68,73,75,80,85,109,111]]
+],
 "memberKind": "Property"
 }
 }
@@ -33247,33 +42174,43 @@ var contents = {
 "ContainerContentChangingEventArgs":{
 "members": {
 "InRecycleQueue":{
-"files": [848,
-333,
-473],
+"files": [
+[848, [95]],
+[335, [41]],
+[475, [296]]
+],
 "memberKind": "Property"
 }
 ,
 "Item":{
-"files": [848,
-473],
+"files": [
+[848, [91]],
+[475, [296,298]]
+],
 "memberKind": "Property"
 }
 ,
 "ItemContainer":{
-"files": [848,
-333,
-473],
+"files": [
+[848, [99,106]],
+[335, [43,58]],
+[475, [298,302]]
+],
 "memberKind": "Property"
 }
 ,
 "Phase":{
-"files": [717,
-333],
+"files": [
+[718, [96]],
+[335, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "RegisterUpdateCallback`1":{
-"files": [717],
+"files": [
+[718, [96]]
+],
 "memberKind": "Method"
 }
 }
@@ -33282,12 +42219,16 @@ var contents = {
 "ContentControl":{
 "members": {
 "Content":{
-"files": [485],
+"files": [
+[487, [73,86]]
+],
 "memberKind": "Property"
 }
 ,
 "DefaultStyleKey":{
-"files": [849],
+"files": [
+[849, [10]]
+],
 "memberKind": "Property"
 }
 }
@@ -33296,37 +42237,47 @@ var contents = {
 "ContentDialog":{
 "members": {
 ":ctor`0":{
-"files": [776,
-777,
-850],
+"files": [
+[776, [66]],
+[777, [99]],
+[850, [37]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
-"files": [776,
-777,
-850],
+"files": [
+[776, [76]],
+[777, [109]],
+[850, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "PrimaryButtonText":{
-"files": [776,
-777,
-850],
+"files": [
+[776, [84]],
+[777, [117]],
+[850, [40]]
+],
 "memberKind": "Property"
 }
 ,
 "ShowAsync`0":{
-"files": [776,
-777,
-850],
+"files": [
+[776, [85]],
+[777, [118]],
+[850, [41]]
+],
 "memberKind": "Method"
 }
 ,
 "Title":{
-"files": [776,
-777,
-850],
+"files": [
+[776, [75,80]],
+[777, [108,113]],
+[850, [38]]
+],
 "memberKind": "Property"
 }
 }
@@ -33335,7 +42286,9 @@ var contents = {
 "ContentDialogButtonClickDeferral":{
 "members": {
 "Complete`0":{
-"files": [851],
+"files": [
+[851, [70]]
+],
 "memberKind": "Method"
 }
 }
@@ -33344,12 +42297,16 @@ var contents = {
 "ContentDialogButtonClickEventArgs":{
 "members": {
 "Cancel":{
-"files": [851],
+"files": [
+[851, [48,53]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [851],
+"files": [
+[851, [61]]
+],
 "memberKind": "Method"
 }
 }
@@ -33358,7 +42315,9 @@ var contents = {
 "ContextMenuEventArgs":{
 "members": {
 "Handled":{
-"files": [134],
+"files": [
+[136, [83]]
+],
 "memberKind": "Property"
 }
 }
@@ -33367,18 +42326,24 @@ var contents = {
 "Control":{
 "members": {
 "Focus`1":{
-"files": [473,
-744],
+"files": [
+[475, [126]],
+[745, [210]]
+],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
-"files": [418],
+"files": [
+[422, [146]]
+],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
-"files": [852],
+"files": [
+[852, [46]]
+],
 "memberKind": "Method"
 }
 }
@@ -33387,12 +42352,16 @@ var contents = {
 "DragItemsStartingEventArgs":{
 "members": {
 "Data":{
-"files": [146],
+"files": [
+[148, [84,86,142,144]]
+],
 "memberKind": "Property"
 }
 ,
 "Items":{
-"files": [146],
+"files": [
+[148, [78,140,142]]
+],
 "memberKind": "Property"
 }
 }
@@ -33401,17 +42370,23 @@ var contents = {
 "Flyout":{
 "members": {
 "Content":{
-"files": [152],
+"files": [
+[154, [76]]
+],
 "memberKind": "?"
 }
 ,
 "Dispatcher":{
-"files": [152],
+"files": [
+[154, [77]]
+],
 "memberKind": "Property"
 }
 ,
 "Hide`0":{
-"files": [853],
+"files": [
+[853, [43]]
+],
 "memberKind": "Method"
 }
 }
@@ -33420,373 +42395,419 @@ var contents = {
 "Frame":{
 "members": {
 ":ctor`0":{
-"files": [107,
-108,
-1,
-506,
-854,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-29,
-32,
-33,
-12,
-0,
-39,
-109,
-13,
-14,
-15,
-16,
-110,
-111,
-112,
-17,
-5,
-41,
-18,
-19,
-20,
-21,
-199,
-23,
-24,
-25,
-26,
-27],
+"files": [
+[110, [133]],
+[111, [242]],
+[1, [64,91,106,117,134]],
+[508, [70,154]],
+[854, [44]],
+[9, [60]],
+[2, [60,95]],
+[10, [61]],
+[34, [56]],
+[35, [56]],
+[36, [56]],
+[37, [56]],
+[38, [56]],
+[3, [65,234]],
+[11, [60]],
+[29, [109]],
+[32, [69]],
+[33, [67]],
+[12, [44]],
+[0, [64,170]],
+[39, [92]],
+[112, [83]],
+[13, [71]],
+[14, [64]],
+[15, [63]],
+[16, [63]],
+[113, [68]],
+[114, [101,152]],
+[115, [96]],
+[17, [51]],
+[5, [31]],
+[41, [58]],
+[18, [57,92]],
+[19, [56]],
+[20, [64]],
+[21, [46]],
+[201, [52]],
+[23, [61]],
+[24, [64]],
+[25, [64]],
+[26, [64]],
+[27, [51]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Background":{
-"files": [27],
+"files": [
+[27, [56]]
+],
 "memberKind": "?"
 }
 ,
 "BackStack":{
-"files": [737,
-523,
-473],
+"files": [
+[738, [90,109]],
+[525, [52]],
+[475, [201]]
+],
 "memberKind": "Property"
 }
 ,
 "BackStackDepth":{
-"files": [493,
-473,
-474],
+"files": [
+[495, [332,339]],
+[475, [197]],
+[476, [321,328]]
+],
 "memberKind": "Property"
 }
 ,
 "CacheSize":{
-"files": [855,
-848],
+"files": [
+[855, [215,216,217]],
+[848, [119,120,121]]
+],
 "memberKind": "Property"
 }
 ,
 "CanGoBack":{
-"files": [10,
-765,
-493,
-841,
-766,
-15,
-473,
-777,
-474],
+"files": [
+[10, [107]],
+[765, [43]],
+[495, [182,203]],
+[841, [47]],
+[766, [11,32]],
+[15, [21]],
+[475, [155]],
+[777, [48]],
+[476, [120,187,208]]
+],
 "memberKind": "Property"
 }
 ,
 "CanGoForward":{
-"files": [493,
-474],
+"files": [
+[495, [194,211]],
+[476, [199,216]]
+],
 "memberKind": "Property"
 }
 ,
 "ClearValue`1":{
-"files": [667,
-672,
-675,
-679,
-680,
-681],
+"files": [
+[668, [124]],
+[673, [135]],
+[676, [121]],
+[680, [124]],
+[681, [124]],
+[682, [122]]
+],
 "memberKind": "Method"
 }
 ,
 "Content":{
-"files": [1,
-506,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-29,
-32,
-33,
-12,
-0,
-39,
-4,
-783,
-13,
-14,
-15,
-585,
-16,
-5,
-41,
-18,
-19,
-20,
-21,
-199,
-23,
-24,
-25,
-26,
-27,
-28,
-420,
-421,
-422],
+"files": [
+[1, [80,94,110,138]],
+[508, [73,156]],
+[9, [75]],
+[2, [75,115,123,142,150]],
+[10, [76]],
+[34, [66]],
+[35, [66]],
+[36, [66]],
+[37, [66]],
+[38, [66]],
+[3, [74]],
+[11, [75]],
+[29, [241]],
+[32, [201]],
+[33, [199]],
+[12, [47]],
+[0, [86,126,180]],
+[39, [73]],
+[4, [82,92]],
+[783, [141]],
+[13, [92,93]],
+[14, [77]],
+[15, [76]],
+[587, [197]],
+[16, [78]],
+[5, [40]],
+[41, [100]],
+[18, [72]],
+[19, [69]],
+[20, [77]],
+[21, [59]],
+[201, [58]],
+[23, [74]],
+[24, [77]],
+[25, [77]],
+[26, [77]],
+[27, [67]],
+[28, [109]],
+[424, [37]],
+[425, [37]],
+[426, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentSourcePageType":{
-"files": [189,
-190,
-191,
-192,
-193,
-196,
-473],
+"files": [
+[191, [93,108,148]],
+[192, [86,101,145]],
+[193, [109,124,164]],
+[194, [86,101,141]],
+[195, [91,106,146]],
+[198, [119,139]],
+[475, [179]]
+],
 "memberKind": "Property"
 }
 ,
 "GetNavigationState`0":{
-"files": [667,
-672,
-675,
-679,
-680,
-681],
+"files": [
+[668, [254]],
+[673, [265]],
+[676, [241]],
+[680, [254]],
+[681, [254]],
+[682, [242]]
+],
 "memberKind": "Method"
 }
 ,
 "GetValue`1":{
-"files": [667,
-672,
-675,
-679,
-680,
-681],
+"files": [
+[668, [122,159,164,195,218,222]],
+[673, [133,170,175,206,229,233]],
+[676, [152,157,182,205,209]],
+[680, [122,159,164,195,218,222]],
+[681, [122,159,164,195,218,222]],
+[682, [153,158,183,206,210]]
+],
 "memberKind": "Method"
 }
 ,
 "GoBack`0":{
-"files": [10,
-493,
-856,
-649,
-841,
-766,
-15,
-473,
-777,
-538,
-474],
+"files": [
+[10, [110]],
+[495, [203]],
+[856, [67]],
+[386, [126,233]],
+[841, [50]],
+[766, [35]],
+[15, [24]],
+[475, [159]],
+[777, [49]],
+[540, [89,94]],
+[476, [122,208]]
+],
 "memberKind": "Method"
 }
 ,
 "GoBack`1":{
-"files": [522,
-767,
-523],
+"files": [
+[524, [58,67,71]],
+[767, [45]],
+[525, [86,96,100]]
+],
 "memberKind": "Method"
 }
 ,
 "GoForward`0":{
-"files": [493,
-474],
+"files": [
+[495, [211]],
+[476, [216]]
+],
 "memberKind": "Method"
 }
 ,
 "Language":{
-"files": [1,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-11,
-0,
-39,
-13,
-16,
-17,
-18,
-199,
-28],
+"files": [
+[1, [66]],
+[9, [62]],
+[2, [62,98]],
+[10, [63]],
+[34, [58]],
+[35, [58]],
+[36, [58]],
+[37, [58]],
+[38, [58]],
+[11, [62]],
+[0, [66]],
+[39, [95]],
+[13, [73]],
+[16, [65]],
+[17, [54]],
+[18, [59,95]],
+[201, [54]],
+[28, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "Navigate`1":{
-"files": [1,
-2,
-638,
-857,
-12,
-0,
-427,
-676,
-14,
-5,
-41,
-848,
-858,
-199,
-776,
-837,
-179,
-534],
+"files": [
+[1, [109,128,137]],
+[2, [117,144]],
+[640, [32]],
+[857, [94,108]],
+[12, [45]],
+[0, [69,171]],
+[385, [119]],
+[677, [74]],
+[14, [90]],
+[5, [32]],
+[41, [97]],
+[848, [113]],
+[858, [14,18,22,26,30,34]],
+[201, [60]],
+[776, [89,93]],
+[837, [59]],
+[181, [117]],
+[536, [154]]
+],
 "memberKind": "Method"
 }
 ,
 "Navigate`2":{
-"files": [107,
-108,
-1,
-506,
-854,
-9,
-2,
-10,
-859,
-34,
-35,
-36,
-37,
-38,
-3,
-856,
-11,
-29,
-32,
-33,
-637,
-857,
-512,
-0,
-39,
-109,
-13,
-14,
-15,
-16,
-110,
-111,
-112,
-17,
-18,
-19,
-20,
-21,
-473,
-23,
-24,
-25,
-26,
-27,
-539,
-28,
-837,
-179,
-534,
-185,
-860],
+"files": [
+[110, [134]],
+[111, [243]],
+[1, [87,93,124]],
+[508, [72,155]],
+[854, [49]],
+[9, [80]],
+[2, [80]],
+[10, [81]],
+[859, [48]],
+[34, [71]],
+[35, [71]],
+[36, [71]],
+[37, [71]],
+[38, [71]],
+[3, [80,86,247]],
+[856, [59]],
+[11, [80]],
+[29, [237]],
+[32, [197]],
+[33, [195]],
+[639, [297]],
+[857, [81]],
+[514, [136,137]],
+[0, [131]],
+[39, [79]],
+[112, [84]],
+[13, [90,98]],
+[14, [81]],
+[15, [81]],
+[16, [83]],
+[113, [69]],
+[114, [102,153]],
+[115, [97]],
+[17, [77]],
+[18, [77]],
+[19, [74]],
+[20, [82]],
+[21, [64]],
+[475, [181]],
+[23, [79]],
+[24, [82]],
+[25, [82]],
+[26, [86,90]],
+[27, [72]],
+[541, [72]],
+[28, [112]],
+[837, [63]],
+[181, [154]],
+[536, [127,141,149]],
+[187, [250,257]],
+[860, [129,135]]
+],
 "memberKind": "Method"
 }
 ,
 "Navigate`3":{
-"files": [522,
-855,
-861,
-862],
+"files": [
+[524, [99]],
+[855, [76,123]],
+[861, [76,94]],
+[862, [27]]
+],
 "memberKind": "Method"
 }
 ,
 "NavigationFailed":{
-"files": [1,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-0,
-39,
-13,
-14,
-15,
-16,
-17,
-18,
-19,
-20,
-21,
-199,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [68]],
+[9, [64]],
+[2, [64,99]],
+[10, [65]],
+[34, [60]],
+[35, [60]],
+[36, [60]],
+[37, [60]],
+[38, [60]],
+[3, [68,237]],
+[11, [64]],
+[0, [68]],
+[39, [96]],
+[13, [75]],
+[14, [66]],
+[15, [65]],
+[16, [67]],
+[17, [56]],
+[18, [61,96]],
+[19, [58]],
+[20, [66]],
+[21, [48]],
+[201, [56]],
+[23, [63]],
+[24, [66]],
+[25, [66]],
+[26, [66]],
+[27, [53]],
+[28, [93]]
+],
 "memberKind": "?"
 }
 ,
 "SetNavigationState`1":{
-"files": [667,
-672,
-675,
-679,
-680,
-681],
+"files": [
+[668, [247]],
+[673, [258]],
+[676, [234]],
+[680, [247]],
+[681, [247]],
+[682, [235]]
+],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
-"files": [667,
-672,
-675,
-679,
-680,
-681],
+"files": [
+[668, [171,177,237]],
+[673, [182,188,248]],
+[676, [164,224]],
+[680, [171,177,237]],
+[681, [171,177,237]],
+[682, [165,225]]
+],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
-"files": [29,
-32,
-33],
+"files": [
+[29, [110]],
+[32, [70]],
+[33, [68]]
+],
 "memberKind": "?"
 }
 }
@@ -33795,87 +42816,115 @@ var contents = {
 "Grid":{
 "members": {
 ":ctor`0":{
-"files": [492],
+"files": [
+[494, [537]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
-"files": [492],
+"files": [
+[494, [572]]
+],
 "memberKind": "Property"
 }
 ,
 "ColumnDefinitions":{
-"files": [586],
+"files": [
+[588, [161,162]]
+],
 "memberKind": "Property"
 }
 ,
 "ColumnProperty":{
-"files": [586],
+"files": [
+[588, [159]]
+],
 "memberKind": "Property"
 }
 ,
 "ColumnSpanProperty":{
-"files": [586,
-585],
+"files": [
+[588, [156]],
+[587, [253]]
+],
 "memberKind": "Property"
 }
 ,
 "GetColumnSpan`1":{
-"files": [533],
+"files": [
+[535, [179]]
+],
 "memberKind": "Method"
 }
 ,
 "Height":{
-"files": [500,
-492],
+"files": [
+[502, [299]],
+[494, [537,545]]
+],
 "memberKind": "Property"
 }
 ,
 "RowDefinitions":{
-"files": [585,
-333],
+"files": [
+[587, [246]],
+[335, [130]]
+],
 "memberKind": "Property"
 }
 ,
 "RowProperty":{
-"files": [586],
+"files": [
+[588, [158]]
+],
 "memberKind": "Property"
 }
 ,
 "RowSpanProperty":{
-"files": [333],
+"files": [
+[335, [130]]
+],
 "memberKind": "Property"
 }
 ,
 "SetColumn`2":{
-"files": [364,
-29,
-32,
-33,
-365,
-366],
+"files": [
+[366, [111,119]],
+[29, [186,189,192,197,200,203]],
+[32, [146,149,152,157,160,163]],
+[33, [144,147,150,155,158,161]],
+[367, [111,119]],
+[368, [111,119]]
+],
 "memberKind": "Method"
 }
 ,
 "SetRow`2":{
-"files": [364,
-29,
-32,
-33,
-365,
-366,
-113],
+"files": [
+[366, [110,118]],
+[29, [185,188,191,196,199,202]],
+[32, [145,148,151,156,159,162]],
+[33, [143,146,149,154,157,160]],
+[367, [110,118]],
+[368, [110,118]],
+[116, [86,92,111]]
+],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
-"files": [492],
+"files": [
+[494, [544,545]]
+],
 "memberKind": "Method"
 }
 ,
 "Width":{
-"files": [500,
-492],
+"files": [
+[502, [298]],
+[494, [537,544]]
+],
 "memberKind": "Property"
 }
 }
@@ -33884,7 +42933,9 @@ var contents = {
 "GridView":{
 "members": {
 "SelectedItems":{
-"files": [863],
+"files": [
+[863, [56]]
+],
 "memberKind": "Property"
 }
 }
@@ -33893,7 +42944,9 @@ var contents = {
 "Hub":{
 "members": {
 "OnApplyTemplate`0":{
-"files": [864],
+"files": [
+[864, [29]]
+],
 "memberKind": "Method"
 }
 }
@@ -33902,12 +42955,16 @@ var contents = {
 "HubSection":{
 "members": {
 "DataContext":{
-"files": [534],
+"files": [
+[536, [126]]
+],
 "memberKind": "Property"
 }
 ,
 "Header":{
-"files": [865],
+"files": [
+[865, [35,37]]
+],
 "memberKind": "Property"
 }
 }
@@ -33916,7 +42973,9 @@ var contents = {
 "HubSectionHeaderClickEventArgs":{
 "members": {
 "Section":{
-"files": [534],
+"files": [
+[536, [125]]
+],
 "memberKind": "Property"
 }
 }
@@ -33925,39 +42984,43 @@ var contents = {
 "HyperlinkButton":{
 "members": {
 "Content":{
-"files": [741],
+"files": [
+[742, [178]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [506,
-507,
-508,
-509,
-737,
-738,
-29,
-32,
-33,
-510,
-511,
-512,
-513,
-496,
-740,
-514,
-468,
-150,
-472,
-515,
-516,
-517,
-518,
-519,
-521,
-524,
-525,
-165],
+"files": [
+[508, [190]],
+[509, [108]],
+[510, [139]],
+[511, [126]],
+[738, [161]],
+[739, [147]],
+[29, [334]],
+[32, [294]],
+[33, [292]],
+[512, [108]],
+[513, [108]],
+[514, [117]],
+[515, [134]],
+[498, [158]],
+[741, [83]],
+[516, [105]],
+[470, [155]],
+[152, [412]],
+[474, [149]],
+[517, [82]],
+[518, [112]],
+[519, [108]],
+[520, [107]],
+[521, [82]],
+[523, [82]],
+[526, [108]],
+[527, [108]],
+[167, [162]]
+],
 "memberKind": "Property"
 }
 }
@@ -33966,7 +43029,9 @@ var contents = {
 "ICommandBarElement":{
 "members": {
 "IsCompact":{
-"files": [421],
+"files": [
+[425, [78]]
+],
 "memberKind": "Property"
 }
 }
@@ -33975,60 +43040,78 @@ var contents = {
 "Image":{
 "members": {
 ":ctor`0":{
-"files": [492,
-776,
-777],
+"files": [
+[494, [554]],
+[776, [70]],
+[777, [103]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Height":{
-"files": [492],
+"files": [
+[494, [568]]
+],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignment":{
-"files": [492,
-776,
-777],
+"files": [
+[494, [554]],
+[776, [72]],
+[777, [105]]
+],
 "memberKind": "?"
 }
 ,
 "SetValue`2":{
-"files": [586],
+"files": [
+[588, [158,159]]
+],
 "memberKind": "Method"
 }
 ,
 "Source":{
-"files": [693,
-492,
-776,
-777],
+"files": [
+[694, [75,91]],
+[494, [554]],
+[776, [71]],
+[777, [104]]
+],
 "memberKind": "?"
 }
 ,
 "Stretch":{
-"files": [492,
-776,
-777],
+"files": [
+[494, [566]],
+[776, [74]],
+[777, [107]]
+],
 "memberKind": "?"
 }
 ,
 "VerticalAlignment":{
-"files": [492,
-776,
-777],
+"files": [
+[494, [554]],
+[776, [73]],
+[777, [106]]
+],
 "memberKind": "?"
 }
 ,
 "Visibility":{
-"files": [196,
-586,
-585],
+"files": [
+[198, [268,348]],
+[588, [155]],
+[587, [249]]
+],
 "memberKind": "?"
 }
 ,
 "Width":{
-"files": [492],
+"files": [
+[494, [567]]
+],
 "memberKind": "Property"
 }
 }
@@ -34037,20 +43120,22 @@ var contents = {
 "ItemClickEventArgs":{
 "members": {
 "ClickedItem":{
-"files": [186,
-866,
-415,
-855,
-861,
-744,
-862,
-863,
-867,
-526,
-534,
-475,
-185,
-860],
+"files": [
+[188, [314]],
+[866, [48]],
+[419, [152]],
+[855, [119]],
+[861, [88]],
+[745, [218]],
+[862, [29]],
+[863, [62]],
+[867, [62]],
+[528, [89]],
+[536, [140,148]],
+[477, [115]],
+[187, [252]],
+[860, [128]]
+],
 "memberKind": "Property"
 }
 }
@@ -34059,25 +43144,31 @@ var contents = {
 "ItemCollection":{
 "members": {
 "Add`1":{
-"files": [283,
-292,
-307,
-640],
+"files": [
+[285, [112,123]],
+[294, [345,346,347,348,349,352,355]],
+[309, [697]],
+[642, [98]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [283,
-292,
-307],
+"files": [
+[285, [110,119]],
+[294, [344]],
+[309, [692]]
+],
 "memberKind": "Method"
 }
 ,
 "Count":{
-"files": [506,
-841,
-640,
-744],
+"files": [
+[508, [120]],
+[841, [75]],
+[642, [100]],
+[745, [93,141]]
+],
 "memberKind": "?"
 }
 }
@@ -34086,32 +43177,44 @@ var contents = {
 "ItemsControl":{
 "members": {
 ":ctor`0":{
-"files": [152],
+"files": [
+[154, [70]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Items":{
-"files": [841],
+"files": [
+[841, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "ItemsPanelRoot":{
-"files": [841],
+"files": [
+[841, [20,63]]
+],
 "memberKind": "Property"
 }
 ,
 "ItemsSource":{
-"files": [152],
+"files": [
+[154, [70]]
+],
 "memberKind": "?"
 }
 ,
 "ItemTemplate":{
-"files": [152],
+"files": [
+[154, [70]]
+],
 "memberKind": "?"
 }
 ,
 "Loaded":{
-"files": [841],
+"files": [
+[841, [15]]
+],
 "memberKind": "?"
 }
 }
@@ -34120,53 +43223,63 @@ var contents = {
 "ListBox":{
 "members": {
 "IsEnabled":{
-"files": [283,
-292],
+"files": [
+[285, [113,126]],
+[294, [358]]
+],
 "memberKind": "Property"
 }
 ,
 "Items":{
-"files": [506,
-283,
-292],
+"files": [
+[508, [120,122]],
+[285, [110,112,119,123]],
+[294, [344,345,346,347,348,349,352,355]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedIndex":{
-"files": [506,
-306,
-4,
-468,
-472],
+"files": [
+[508, [89,130]],
+[308, [100]],
+[4, [93]],
+[470, [107]],
+[474, [91]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedItem":{
-"files": [506,
-487,
-507,
-508,
-509,
-510,
-511,
-513,
-496,
-514,
-468,
-472,
-515,
-516,
-517,
-518,
-519,
-521,
-524,
-525],
+"files": [
+[508, [132]],
+[489, [126]],
+[509, [67]],
+[510, [92]],
+[511, [76]],
+[512, [67]],
+[513, [67]],
+[515, [93]],
+[498, [85]],
+[516, [64]],
+[470, [104]],
+[474, [88]],
+[517, [64]],
+[518, [66]],
+[519, [67]],
+[520, [66]],
+[521, [64]],
+[523, [64]],
+[526, [67]],
+[527, [67]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
-"files": [396],
+"files": [
+[400, [130]]
+],
 "memberKind": "Property"
 }
 }
@@ -34175,27 +43288,33 @@ var contents = {
 "ListBoxItem":{
 "members": {
 ":ctor`0":{
-"files": [29,
-32,
-33,
-627],
+"files": [
+[29, [215]],
+[32, [175]],
+[33, [173]],
+[629, [65]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
-"files": [29,
-32,
-33,
-627],
+"files": [
+[29, [217,300]],
+[32, [177,260]],
+[33, [175,258]],
+[629, [67,95]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [29,
-32,
-33,
-868,
-627],
+"files": [
+[29, [218]],
+[32, [178]],
+[33, [176]],
+[868, [44]],
+[629, [66]]
+],
 "memberKind": "Property"
 }
 }
@@ -34204,46 +43323,62 @@ var contents = {
 "ListView":{
 "members": {
 "ItemsSource":{
-"files": [857],
+"files": [
+[857, [104]]
+],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
-"files": [744],
+"files": [
+[745, [68]]
+],
 "memberKind": "Method"
 }
 ,
 "OnKeyDown`1":{
-"files": [744],
+"files": [
+[745, [190]]
+],
 "memberKind": "Method"
 }
 ,
 "SelectedItem":{
-"files": [740,
-112,
-776,
-777],
+"files": [
+[741, [54,59]],
+[115, [129,131]],
+[776, [59]],
+[777, [129]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedItems":{
-"files": [768,
-867],
+"files": [
+[768, [70]],
+[867, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
-"files": [857],
+"files": [
+[857, [77,79]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectionChanged":{
-"files": [857],
+"files": [
+[857, [45]]
+],
 "memberKind": "?"
 }
 ,
 "SelectionMode":{
-"files": [768],
+"files": [
+[768, [70]]
+],
 "memberKind": "Property"
 }
 }
@@ -34252,38 +43387,52 @@ var contents = {
 "ListViewItem":{
 "members": {
 "ActualHeight":{
-"files": [848,
-333],
+"files": [
+[848, [76]],
+[335, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "ContentTemplateRoot":{
-"files": [333],
+"files": [
+[335, [125]]
+],
 "memberKind": "Property"
 }
 ,
 "FindName`1":{
-"files": [333],
+"files": [
+[335, [115]]
+],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
-"files": [744],
+"files": [
+[745, [234]]
+],
 "memberKind": "Method"
 }
 ,
 "IsSelected":{
-"files": [744],
+"files": [
+[745, [98,102]]
+],
 "memberKind": "Property"
 }
 ,
 "IsTabStop":{
-"files": [473],
+"files": [
+[475, [214,216]]
+],
 "memberKind": "Property"
 }
 ,
 "Padding":{
-"files": [333],
+"files": [
+[335, [124]]
+],
 "memberKind": "Property"
 }
 }
@@ -34292,12 +43441,16 @@ var contents = {
 "ListViewPersistenceHelper":{
 "members": {
 "GetRelativeScrollPosition`2":{
-"files": [848],
+"files": [
+[848, [44]]
+],
 "memberKind": "Method"
 }
 ,
 "SetRelativeScrollPositionAsync`3":{
-"files": [848],
+"files": [
+[848, [36]]
+],
 "memberKind": "Method"
 }
 }
@@ -34306,32 +43459,40 @@ var contents = {
 "ListViewSelectionMode":{
 "members": {
 "Extended":{
-"files": [855,
-863,
-867],
+"files": [
+[855, [63,81]],
+[863, [100]],
+[867, [100]]
+],
 "memberKind": "Field"
 }
 ,
 "Multiple":{
-"files": [768,
-863,
-867],
+"files": [
+[768, [43,62,70,87]],
+[863, [97]],
+[867, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [768,
-863,
-867],
+"files": [
+[768, [54,122]],
+[863, [90]],
+[867, [90]]
+],
 "memberKind": "Field"
 }
 ,
 "Single":{
-"files": [308,
-289,
-744,
-863,
-867],
+"files": [
+[310, [54]],
+[291, [64,67]],
+[745, [38]],
+[863, [94]],
+[867, [94]]
+],
 "memberKind": "Field"
 }
 }
@@ -34342,32 +43503,44 @@ var contents = {
 "MapIcon":{
 "members": {
 ":ctor`0":{
-"files": [320],
+"files": [
+[322, [54]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Image":{
-"files": [320],
+"files": [
+[322, [58]]
+],
 "memberKind": "?"
 }
 ,
 "Location":{
-"files": [320],
+"files": [
+[322, [55]]
+],
 "memberKind": "?"
 }
 ,
 "NormalizedAnchorPoint":{
-"files": [320],
+"files": [
+[322, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [320],
+"files": [
+[322, [57]]
+],
 "memberKind": "Property"
 }
 ,
 "ZIndex":{
-"files": [320],
+"files": [
+[322, [59]]
+],
 "memberKind": "Property"
 }
 }
@@ -34376,7 +43549,9 @@ var contents = {
 "MapInputEventArgs":{
 "members": {
 "Location":{
-"files": [319],
+"files": [
+[321, [55]]
+],
 "memberKind": "Property"
 }
 }
@@ -34385,37 +43560,51 @@ var contents = {
 "MapPolygon":{
 "members": {
 ":ctor`0":{
-"files": [320],
+"files": [
+[322, [71]]
+],
 "memberKind": "Constructor"
 }
 ,
 "FillColor":{
-"files": [320],
+"files": [
+[322, [81]]
+],
 "memberKind": "Property"
 }
 ,
 "Path":{
-"files": [320],
+"files": [
+[322, [72]]
+],
 "memberKind": "?"
 }
 ,
 "StrokeColor":{
-"files": [320],
+"files": [
+[322, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "StrokeDashed":{
-"files": [320],
+"files": [
+[322, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
-"files": [320],
+"files": [
+[322, [83]]
+],
 "memberKind": "Property"
 }
 ,
 "ZIndex":{
-"files": [320],
+"files": [
+[322, [80]]
+],
 "memberKind": "Property"
 }
 }
@@ -34424,27 +43613,37 @@ var contents = {
 "MapPolyline":{
 "members": {
 ":ctor`0":{
-"files": [320],
+"files": [
+[322, [92]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Path":{
-"files": [320],
+"files": [
+[322, [93]]
+],
 "memberKind": "?"
 }
 ,
 "StrokeColor":{
-"files": [320],
+"files": [
+[322, [98]]
+],
 "memberKind": "Property"
 }
 ,
 "StrokeDashed":{
-"files": [320],
+"files": [
+[322, [100]]
+],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
-"files": [320],
+"files": [
+[322, [99]]
+],
 "memberKind": "Property"
 }
 }
@@ -34453,7 +43652,9 @@ var contents = {
 "MapScene":{
 "members": {
 "CreateFromLocationAndRadius`4":{
-"files": [322],
+"files": [
+[324, [65]]
+],
 "memberKind": "Method"
 }
 }
@@ -34462,32 +43663,44 @@ var contents = {
 "MapStyle":{
 "members": {
 "Aerial":{
-"files": [319],
+"files": [
+[321, [88]]
+],
 "memberKind": "Field"
 }
 ,
 "Aerial3DWithRoads":{
-"files": [322],
+"files": [
+[324, [57]]
+],
 "memberKind": "Field"
 }
 ,
 "AerialWithRoads":{
-"files": [319],
+"files": [
+[321, [91]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [319],
+"files": [
+[321, [82]]
+],
 "memberKind": "Field"
 }
 ,
 "Road":{
-"files": [319],
+"files": [
+[321, [85]]
+],
 "memberKind": "Field"
 }
 ,
 "Terrain":{
-"files": [319],
+"files": [
+[321, [94]]
+],
 "memberKind": "Field"
 }
 }
@@ -34496,7 +43709,9 @@ var contents = {
 "StreetsideExperience":{
 "members": {
 ":ctor`1":{
-"files": [323],
+"files": [
+[325, [64]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -34505,7 +43720,9 @@ var contents = {
 "StreetsidePanorama":{
 "members": {
 "FindNearbyAsync`1":{
-"files": [323],
+"files": [
+[325, [60]]
+],
 "memberKind": "Method"
 }
 }
@@ -34516,62 +43733,84 @@ var contents = {
 "MediaElement":{
 "members": {
 "CurrentState":{
-"files": [601],
+"files": [
+[603, [213,220]]
+],
 "memberKind": "Property"
 }
 ,
 "CurrentStateChanged":{
-"files": [601],
+"files": [
+[603, [207]]
+],
 "memberKind": "?"
 }
 ,
 "MediaOpened":{
-"files": [601],
+"files": [
+[603, [184]]
+],
 "memberKind": "?"
 }
 ,
 "Play`0":{
-"files": [602,
-601],
+"files": [
+[604, [97]],
+[603, [208,401]]
+],
 "memberKind": "Method"
 }
 ,
 "Position":{
-"files": [601],
+"files": [
+[603, [187,200]]
+],
 "memberKind": "Property"
 }
 ,
 "ProtectionManager":{
-"files": [423],
+"files": [
+[427, [120]]
+],
 "memberKind": "?"
 }
 ,
 "SetMediaStreamSource`1":{
-"files": [617,
-618,
-423,
-602,
-601],
+"files": [
+[619, [67]],
+[620, [71]],
+[427, [88]],
+[604, [96]],
+[603, [205,397]]
+],
 "memberKind": "Method"
 }
 ,
 "Source":{
-"files": [595],
+"files": [
+[597, [276,304,340,341,375]]
+],
 "memberKind": "Property"
 }
 ,
 "Stop`0":{
-"files": [595],
+"files": [
+[597, [274,334,363]]
+],
 "memberKind": "Method"
 }
 ,
 "TransportControls":{
-"files": [601],
+"files": [
+[603, [80]]
+],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
-"files": [595],
+"files": [
+[597, [283,284,343,344]]
+],
 "memberKind": "?"
 }
 }
@@ -34580,15 +43819,19 @@ var contents = {
 "MediaTransportControls":{
 "members": {
 "IsSeekEnabled":{
-"files": [601],
+"files": [
+[603, [80]]
+],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
-"files": [839,
-840,
-842,
-843],
+"files": [
+[839, [48]],
+[840, [37]],
+[842, [42]],
+[843, [33]]
+],
 "memberKind": "Method"
 }
 }
@@ -34597,7 +43840,9 @@ var contents = {
 "MenuFlyout":{
 "members": {
 "ShowAt`2":{
-"files": [485],
+"files": [
+[487, [158]]
+],
 "memberKind": "Method"
 }
 }
@@ -34606,12 +43851,16 @@ var contents = {
 "MenuFlyoutItem":{
 "members": {
 "CommandParameter":{
-"files": [869],
+"files": [
+[869, [56]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [870],
+"files": [
+[870, [35]]
+],
 "memberKind": "Property"
 }
 }
@@ -34620,19 +43869,23 @@ var contents = {
 "Orientation":{
 "members": {
 "Horizontal":{
-"files": [871,
-491,
-872,
-873],
+"files": [
+[871, [75,81,99,105]],
+[493, [131,152,333,419]],
+[872, [37]],
+[873, [38]]
+],
 "memberKind": "Field"
 }
 ,
 "Vertical":{
-"files": [465,
-489,
-491,
-872,
-873],
+"files": [
+[467, [188,193]],
+[491, [148]],
+[493, [153]],
+[872, [40]],
+[873, [41]]
+],
 "memberKind": "Field"
 }
 }
@@ -34641,205 +43894,241 @@ var contents = {
 "Page":{
 "members": {
 "ActualHeight":{
-"files": [493,
-474],
+"files": [
+[495, [95]],
+[476, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
-"files": [493,
-474],
+"files": [
+[495, [96]],
+[476, [83]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
-"files": [500],
+"files": [
+[502, [167]]
+],
 "memberKind": "Property"
 }
 ,
 "FindName`1":{
-"files": [29,
-32,
-33,
-500],
+"files": [
+[29, [244,245,266]],
+[32, [204,205,226]],
+[33, [202,203,224]],
+[502, [66]]
+],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
-"files": [473],
+"files": [
+[475, [232]]
+],
 "memberKind": "Method"
 }
 ,
 "Frame":{
-"files": [493,
-766,
-474],
+"files": [
+[495, [74]],
+[766, [11,32,35]],
+[476, [64]]
+],
 "memberKind": "Property"
 }
 ,
 "Height":{
-"files": [529],
+"files": [
+[531, [25]]
+],
 "memberKind": "?"
 }
 ,
 "Loaded":{
-"files": [493,
-473,
-474],
+"files": [
+[495, [89]],
+[475, [226,233]],
+[476, [79]]
+],
 "memberKind": "?"
 }
 ,
 "OnHolding`1":{
-"files": [485],
+"files": [
+[487, [129]]
+],
 "memberKind": "Method"
 }
 ,
 "OnKeyDown`1":{
-"files": [485],
+"files": [
+[487, [92]]
+],
 "memberKind": "Method"
 }
 ,
 "OnKeyUp`1":{
-"files": [485],
+"files": [
+[487, [102]]
+],
 "memberKind": "Method"
 }
 ,
 "OnNavigatedFrom`1":{
-"files": [171,
-186,
-294,
-336,
-337,
-338,
-339,
-456,
-341,
-340,
-406,
-604,
-603,
-495,
-292,
-306,
-307,
-766,
-266,
-173,
-174,
-175,
-162,
-522,
-767,
-523,
-538],
+"files": [
+[173, [56]],
+[188, [163]],
+[296, [115]],
+[338, [77]],
+[339, [60]],
+[340, [59]],
+[341, [71]],
+[458, [61]],
+[343, [180]],
+[342, [190]],
+[410, [56]],
+[606, [45]],
+[605, [44]],
+[497, [46]],
+[294, [56]],
+[308, [62]],
+[309, [79]],
+[766, [20]],
+[268, [52]],
+[175, [161]],
+[176, [141]],
+[177, [112]],
+[164, [170]],
+[524, [45]],
+[767, [30]],
+[525, [76]],
+[540, [81]]
+],
 "memberKind": "Method"
 }
 ,
 "OnNavigatedTo`1":{
-"files": [854,
-294,
-336,
-337,
-338,
-339,
-296,
-335,
-334,
-341,
-340,
-30,
-395,
-766,
-522,
-855,
-767,
-523,
-861,
-874,
-538,
-539,
-875,
-863,
-867,
-876,
-526],
+"files": [
+[854, [54]],
+[296, [104]],
+[338, [66]],
+[339, [50]],
+[340, [49]],
+[341, [61]],
+[298, [51]],
+[337, [48]],
+[336, [56]],
+[343, [170]],
+[342, [180]],
+[30, [610]],
+[399, [50]],
+[766, [15]],
+[524, [37]],
+[855, [43]],
+[767, [22]],
+[525, [47]],
+[861, [33]],
+[874, [39]],
+[540, [67]],
+[541, [63]],
+[875, [38]],
+[863, [39]],
+[867, [39]],
+[876, [38]],
+[528, [48]]
+],
 "memberKind": "Method"
 }
 ,
 "OnNavigatingFrom`1":{
-"files": [345,
-346,
-344,
-347,
-348,
-260,
-350,
-546,
-547,
-59,
-352,
-257,
-258,
-66,
-67,
-354,
-353,
-369,
-262,
-327,
-328,
-68,
-325,
-69,
-357,
-355,
-360,
-358,
-370,
-334,
-363,
-362,
-378,
-367,
-368,
-371,
-284,
-286,
-361,
-359,
-373,
-372,
-595,
-608,
-374,
-848,
-420,
-837,
-421,
-422,
-419,
-179],
+"files": [
+[347, [80]],
+[348, [72]],
+[346, [89]],
+[349, [98]],
+[350, [86]],
+[262, [71]],
+[352, [80]],
+[548, [90]],
+[549, [107]],
+[59, [106]],
+[354, [81]],
+[259, [151]],
+[260, [127]],
+[66, [167]],
+[67, [147]],
+[356, [81]],
+[355, [89]],
+[371, [56]],
+[264, [157]],
+[329, [63]],
+[330, [65]],
+[68, [105]],
+[327, [150]],
+[69, [110]],
+[359, [81]],
+[357, [89]],
+[362, [81]],
+[360, [89]],
+[372, [57]],
+[336, [93]],
+[365, [81]],
+[364, [89]],
+[380, [88]],
+[369, [81]],
+[370, [89]],
+[373, [57]],
+[286, [131]],
+[288, [97]],
+[363, [81]],
+[361, [63]],
+[375, [81]],
+[374, [63]],
+[597, [206]],
+[610, [70]],
+[376, [70]],
+[848, [45]],
+[424, [35]],
+[837, [91]],
+[425, [35]],
+[426, [35]],
+[423, [98]],
+[181, [111]]
+],
 "memberKind": "Method"
 }
 ,
 "OnPointerPressed`1":{
-"files": [485],
+"files": [
+[487, [136]]
+],
 "memberKind": "Method"
 }
 ,
 "OnRightTapped`1":{
-"files": [485],
+"files": [
+[487, [149]]
+],
 "memberKind": "Method"
 }
 ,
 "Unloaded":{
-"files": [493,
-474],
+"files": [
+[495, [108]],
+[476, [102]]
+],
 "memberKind": "?"
 }
 ,
 "Width":{
-"files": [529],
+"files": [
+[531, [24]]
+],
 "memberKind": "?"
 }
 }
@@ -34848,21 +44137,27 @@ var contents = {
 "Panel":{
 "members": {
 "Children":{
-"files": [29,
-32,
-33,
-739,
-333],
+"files": [
+[29, [271,272]],
+[32, [231,232]],
+[33, [229,230]],
+[740, [175,178]],
+[335, [132]]
+],
 "memberKind": "Property"
 }
 ,
 "ClearValue`1":{
-"files": [744],
+"files": [
+[745, [247,248]]
+],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
-"files": [744],
+"files": [
+[745, [253,254]]
+],
 "memberKind": "Method"
 }
 }
@@ -34871,7 +44166,9 @@ var contents = {
 "PasswordBox":{
 "members": {
 "Password":{
-"files": [877],
+"files": [
+[877, [33,37]]
+],
 "memberKind": "Property"
 }
 }
@@ -34880,7 +44177,9 @@ var contents = {
 "PivotItem":{
 "members": {
 "Content":{
-"files": [581],
+"files": [
+[583, [77,92,97,102,108]]
+],
 "memberKind": "Property"
 }
 }
@@ -34889,7 +44188,9 @@ var contents = {
 "PivotItemEventArgs":{
 "members": {
 "Item":{
-"files": [581],
+"files": [
+[583, [77,92,97,102,108]]
+],
 "memberKind": "Property"
 }
 }
@@ -34900,12 +44201,16 @@ var contents = {
 "ButtonBase":{
 "members": {
 "Content":{
-"files": [179],
+"files": [
+[181, [130]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [837],
+"files": [
+[837, [55,57,63]]
+],
 "memberKind": "Property"
 }
 }
@@ -34914,22 +44219,30 @@ var contents = {
 "FlyoutBase":{
 "members": {
 "GetAttachedFlyout`1":{
-"files": [869],
+"files": [
+[869, [44]]
+],
 "memberKind": "Method"
 }
 ,
 "Placement":{
-"files": [869],
+"files": [
+[869, [46]]
+],
 "memberKind": "?"
 }
 ,
 "ShowAt`1":{
-"files": [869],
+"files": [
+[869, [47]]
+],
 "memberKind": "Method"
 }
 ,
 "ShowAttachedFlyout`1":{
-"files": [853],
+"files": [
+[853, [34]]
+],
 "memberKind": "Method"
 }
 }
@@ -34938,7 +44251,9 @@ var contents = {
 "FlyoutPlacementMode":{
 "members": {
 "Bottom":{
-"files": [869],
+"files": [
+[869, [46]]
+],
 "memberKind": "Field"
 }
 }
@@ -34947,9 +44262,11 @@ var contents = {
 "RangeBaseValueChangedEventArgs":{
 "members": {
 "NewValue":{
-"files": [198,
-755,
-533],
+"files": [
+[200, [578]],
+[755, [32]],
+[535, [63]]
+],
 "memberKind": "Property"
 }
 }
@@ -34958,18 +44275,24 @@ var contents = {
 "SelectorItem":{
 "members": {
 "ClearValue`1":{
-"files": [848,
-473],
+"files": [
+[848, [106]],
+[475, [302]]
+],
 "memberKind": "Method"
 }
 ,
 "Height":{
-"files": [848],
+"files": [
+[848, [99]]
+],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
-"files": [473],
+"files": [
+[475, [298]]
+],
 "memberKind": "Method"
 }
 }
@@ -34978,10 +44301,12 @@ var contents = {
 "ToggleButton":{
 "members": {
 "IsChecked":{
-"files": [420,
-421,
-422,
-475],
+"files": [
+[424, [70,75]],
+[425, [74,78]],
+[426, [70,75]],
+[477, [108,111]]
+],
 "memberKind": "Property"
 }
 }
@@ -34992,16 +44317,20 @@ var contents = {
 "RadioButton":{
 "members": {
 "Content":{
-"files": [878],
+"files": [
+[878, [35]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [755,
-758,
-872,
-873,
-879],
+"files": [
+[755, [41,66]],
+[758, [35,60]],
+[872, [32]],
+[873, [33]],
+[879, [34,56]]
+],
 "memberKind": "Property"
 }
 }
@@ -35010,17 +44339,23 @@ var contents = {
 "RichEditBox":{
 "members": {
 "Document":{
-"files": [164],
+"files": [
+[166, [59]]
+],
 "memberKind": "Property"
 }
 ,
 "Foreground":{
-"files": [164],
+"files": [
+[166, [60]]
+],
 "memberKind": "?"
 }
 ,
 "IsReadOnly":{
-"files": [164],
+"files": [
+[166, [58,61]]
+],
 "memberKind": "Property"
 }
 }
@@ -35029,18 +44364,24 @@ var contents = {
 "RichTextBlock":{
 "members": {
 "Blocks":{
-"files": [585],
+"files": [
+[587, [267,283]]
+],
 "memberKind": "Property"
 }
 ,
 "OverflowContentTarget":{
-"files": [585],
+"files": [
+[587, [262,265]]
+],
 "memberKind": "?"
 }
 ,
 "Visibility":{
-"files": [586,
-585],
+"files": [
+[588, [165]],
+[587, [261,266]]
+],
 "memberKind": "?"
 }
 }
@@ -35049,24 +44390,32 @@ var contents = {
 "RichTextBlockOverflow":{
 "members": {
 "HasOverflowContent":{
-"files": [500],
+"files": [
+[502, [206,311]]
+],
 "memberKind": "Property"
 }
 ,
 "OverflowContentTarget":{
-"files": [880],
+"files": [
+[880, [19]]
+],
 "memberKind": "?"
 }
 ,
 "SetValue`2":{
-"files": [586,
-585],
+"files": [
+[588, [156]],
+[587, [253]]
+],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
-"files": [500,
-586],
+"files": [
+[502, [206,311]],
+[588, [166]]
+],
 "memberKind": "Property"
 }
 }
@@ -35075,7 +44424,9 @@ var contents = {
 "RowDefinitionCollection":{
 "members": {
 "Count":{
-"files": [333],
+"files": [
+[335, [130]]
+],
 "memberKind": "?"
 }
 }
@@ -35084,23 +44435,31 @@ var contents = {
 "ScrollBarVisibility":{
 "members": {
 "Auto":{
-"files": [533],
+"files": [
+[535, [103,158]]
+],
 "memberKind": "Field"
 }
 ,
 "Disabled":{
-"files": [533],
+"files": [
+[535, [112,115,167]]
+],
 "memberKind": "Field"
 }
 ,
 "Hidden":{
-"files": [533],
+"files": [
+[535, [109,164]]
+],
 "memberKind": "Field"
 }
 ,
 "Visible":{
-"files": [845,
-533],
+"files": [
+[845, [62]],
+[535, [106,161,170]]
+],
 "memberKind": "Field"
 }
 }
@@ -35109,18 +44468,24 @@ var contents = {
 "ScrollMode":{
 "members": {
 "Auto":{
-"files": [533],
+"files": [
+[535, [77,132]]
+],
 "memberKind": "Field"
 }
 ,
 "Disabled":{
-"files": [533],
+"files": [
+[535, [83,138]]
+],
 "memberKind": "Field"
 }
 ,
 "Enabled":{
-"files": [845,
-533],
+"files": [
+[845, [61]],
+[535, [80,86,135,141]]
+],
 "memberKind": "Field"
 }
 }
@@ -35129,34 +44494,46 @@ var contents = {
 "ScrollViewer":{
 "members": {
 "ChangeView`3":{
-"files": [778,
-779,
-574],
+"files": [
+[778, [99]],
+[779, [108]],
+[576, [423]]
+],
 "memberKind": "Method"
 }
 ,
 "ExtentHeight":{
-"files": [574],
+"files": [
+[576, [423]]
+],
 "memberKind": "Property"
 }
 ,
 "SizeChanged":{
-"files": [864],
+"files": [
+[864, [36]]
+],
 "memberKind": "?"
 }
 ,
 "VerticalOffset":{
-"files": [489],
+"files": [
+[491, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "ViewportHeight":{
-"files": [864],
+"files": [
+[864, [46]]
+],
 "memberKind": "Property"
 }
 ,
 "ViewportWidth":{
-"files": [864],
+"files": [
+[864, [45]]
+],
 "memberKind": "Property"
 }
 }
@@ -35165,9 +44542,11 @@ var contents = {
 "SearchBoxQuerySubmittedEventArgs":{
 "members": {
 "QueryText":{
-"files": [179,
-185,
-860],
+"files": [
+[181, [154]],
+[187, [257]],
+[860, [135]]
+],
 "memberKind": "Property"
 }
 }
@@ -35176,17 +44555,23 @@ var contents = {
 "SearchBoxSuggestionsRequestedEventArgs":{
 "members": {
 "LinguisticDetails":{
-"files": [185],
+"files": [
+[187, [197]]
+],
 "memberKind": "Property"
 }
 ,
 "QueryText":{
-"files": [185],
+"files": [
+[187, [189,200]]
+],
 "memberKind": "Property"
 }
 ,
 "Request":{
-"files": [185],
+"files": [
+[187, [179,183]]
+],
 "memberKind": "Property"
 }
 }
@@ -35195,21 +44580,25 @@ var contents = {
 "SelectionChangedEventArgs":{
 "members": {
 "AddedItems":{
-"files": [668,
-206,
-30,
-776,
-777,
-756,
-863,
-757,
-867,
-526],
+"files": [
+[669, [208,210,220,222]],
+[208, [58]],
+[30, [159,161]],
+[776, [56,58]],
+[777, [126,128]],
+[756, [46]],
+[863, [86]],
+[757, [44]],
+[867, [86]],
+[528, [94,99]]
+],
 "memberKind": "Property"
 }
 ,
 "RemovedItems":{
-"files": [668],
+"files": [
+[669, [208,220,223]]
+],
 "memberKind": "Property"
 }
 }
@@ -35218,10 +44607,12 @@ var contents = {
 "SelectionChangedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [868,
-609,
-607,
-535],
+"files": [
+[868, [58]],
+[611, [49]],
+[609, [46]],
+[537, [55]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -35230,27 +44621,37 @@ var contents = {
 "SplitView":{
 "members": {
 "CompactPaneLength":{
-"files": [744],
+"files": [
+[745, [253]]
+],
 "memberKind": "Property"
 }
 ,
 "DisplayMode":{
-"files": [744],
+"files": [
+[745, [228,229,250,251]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPaneOpen":{
-"files": [744],
+"files": [
+[745, [227,231,245]]
+],
 "memberKind": "Property"
 }
 ,
 "IsPaneOpenProperty":{
-"files": [744],
+"files": [
+[745, [55]]
+],
 "memberKind": "Property"
 }
 ,
 "RegisterPropertyChangedCallback`2":{
-"files": [744],
+"files": [
+[745, [55]]
+],
 "memberKind": "Method"
 }
 }
@@ -35259,25 +44660,33 @@ var contents = {
 "SplitViewDisplayMode":{
 "members": {
 "CompactInline":{
-"files": [744],
+"files": [
+[745, [250]]
+],
 "memberKind": "Field"
 }
 ,
 "CompactOverlay":{
-"files": [744,
-526],
+"files": [
+[745, [228,251]],
+[528, [59]]
+],
 "memberKind": "Field"
 }
 ,
 "Inline":{
-"files": [473,
-526],
+"files": [
+[475, [268]],
+[528, [65]]
+],
 "memberKind": "Field"
 }
 ,
 "Overlay":{
-"files": [473,
-744],
+"files": [
+[475, [269]],
+[745, [229]]
+],
 "memberKind": "Field"
 }
 }
@@ -35286,12 +44695,16 @@ var contents = {
 "SplitViewPanePlacement":{
 "members": {
 "Left":{
-"files": [526],
+"files": [
+[528, [83]]
+],
 "memberKind": "Field"
 }
 ,
 "Right":{
-"files": [526],
+"files": [
+[528, [79]]
+],
 "memberKind": "Field"
 }
 }
@@ -35300,20 +44713,26 @@ var contents = {
 "StackPanel":{
 "members": {
 ":ctor`0":{
-"files": [332],
+"files": [
+[334, [200]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
-"files": [332,
-475],
+"files": [
+[334, [203,224]],
+[477, [107]]
+],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
-"files": [500,
-586,
-585],
+"files": [
+[502, [141,278,314]],
+[588, [170]],
+[587, [244,296]]
+],
 "memberKind": "?"
 }
 }
@@ -35322,17 +44741,23 @@ var contents = {
 "StretchDirection":{
 "members": {
 "Both":{
-"files": [879],
+"files": [
+[879, [44]]
+],
 "memberKind": "Field"
 }
 ,
 "DownOnly":{
-"files": [879],
+"files": [
+[879, [41]]
+],
 "memberKind": "Field"
 }
 ,
 "UpOnly":{
-"files": [879],
+"files": [
+[879, [38]]
+],
 "memberKind": "Field"
 }
 }
@@ -35341,86 +44766,118 @@ var contents = {
 "Symbol":{
 "members": {
 "Add":{
-"files": [419],
+"files": [
+[423, [66]]
+],
 "memberKind": "Field"
 }
 ,
 "BackToWindow":{
-"files": [745,
-114],
+"files": [
+[746, [89]],
+[117, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "Contact":{
-"files": [473],
+"files": [
+[475, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "Delete":{
-"files": [419],
+"files": [
+[423, [71]]
+],
 "memberKind": "Field"
 }
 ,
 "Edit":{
-"files": [473],
+"files": [
+[475, [40]]
+],
 "memberKind": "Field"
 }
 ,
 "Favorite":{
-"files": [473],
+"files": [
+[475, [46]]
+],
 "memberKind": "Field"
 }
 ,
 "FontDecrease":{
-"files": [419],
+"files": [
+[423, [78]]
+],
 "memberKind": "Field"
 }
 ,
 "FontIncrease":{
-"files": [419],
+"files": [
+[423, [83]]
+],
 "memberKind": "Field"
 }
 ,
 "FontSize":{
-"files": [420,
-421,
-422],
+"files": [
+[424, [60]],
+[425, [60]],
+[426, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "FullScreen":{
-"files": [745,
-114],
+"files": [
+[746, [89]],
+[117, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "Globe":{
-"files": [526],
+"files": [
+[528, [31]]
+],
 "memberKind": "Field"
 }
 ,
 "Mail":{
-"files": [526],
+"files": [
+[528, [33]]
+],
 "memberKind": "Field"
 }
 ,
 "Message":{
-"files": [526],
+"files": [
+[528, [32]]
+],
 "memberKind": "Field"
 }
 ,
 "People":{
-"files": [526],
+"files": [
+[528, [30]]
+],
 "memberKind": "Field"
 }
 ,
 "Pin":{
-"files": [471],
+"files": [
+[473, [51]]
+],
 "memberKind": "Field"
 }
 ,
 "UnPin":{
-"files": [471],
+"files": [
+[473, [56]]
+],
 "memberKind": "Field"
 }
 }
@@ -35429,11 +44886,13 @@ var contents = {
 "SymbolIcon":{
 "members": {
 ":ctor`1":{
-"files": [471,
-420,
-421,
-422,
-419],
+"files": [
+[473, [51,56]],
+[424, [60]],
+[425, [60]],
+[426, [60]],
+[423, [66,71,78,83]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -35442,109 +44901,137 @@ var contents = {
 "TextBlock":{
 "members": {
 ":ctor`0":{
-"files": [617,
-618,
-423,
-332,
-707,
-692,
-716,
-196,
-640],
+"files": [
+[619, [44]],
+[620, [44]],
+[427, [62]],
+[334, [201,205]],
+[708, [78,87]],
+[693, [106,115]],
+[717, [76]],
+[198, [234]],
+[642, [95]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DataContext":{
-"files": [640],
+"files": [
+[642, [96,113,158]]
+],
 "memberKind": "Property"
 }
 ,
 "FontFamily":{
-"files": [881,
-568,
-569],
+"files": [
+[881, [25,33]],
+[570, [113]],
+[571, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "FontSize":{
-"files": [494],
+"files": [
+[496, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "FontStretch":{
-"files": [881,
-568,
-569],
+"files": [
+[881, [28,36]],
+[570, [116]],
+[571, [111]]
+],
 "memberKind": "Property"
 }
 ,
 "FontStyle":{
-"files": [881,
-568,
-569],
+"files": [
+[881, [27,35]],
+[570, [115]],
+[571, [110]]
+],
 "memberKind": "Property"
 }
 ,
 "FontWeight":{
-"files": [881,
-568,
-569],
+"files": [
+[881, [26,34]],
+[570, [114]],
+[571, [109]]
+],
 "memberKind": "Property"
 }
 ,
 "Foreground":{
-"files": [332],
+"files": [
+[334, [213,217,221]]
+],
 "memberKind": "?"
 }
 ,
 "Inlines":{
-"files": [833],
+"files": [
+[833, [42,47,54,56]]
+],
 "memberKind": "Property"
 }
 ,
 "Margin":{
-"files": [707,
-692],
+"files": [
+[708, [91,93]],
+[693, [119,121]]
+],
 "memberKind": "Property"
 }
 ,
 "Style":{
-"files": [707,
-692,
-716],
+"files": [
+[708, [80,89]],
+[693, [108,117]],
+[717, [78]]
+],
 "memberKind": "?"
 }
 ,
 "Text":{
-"files": [617,
-618,
-423,
-332,
-129,
-494,
-693,
-707,
-692,
-716,
-640,
-374,
-375,
-163],
+"files": [
+[619, [45,105]],
+[620, [45]],
+[427, [63]],
+[334, [194,196,202,206]],
+[131, [182]],
+[496, [48,49,52]],
+[694, [77,94,97]],
+[708, [79,88]],
+[693, [107,116]],
+[717, [77]],
+[642, [97,122,131]],
+[376, [112,115,118,121,124,127,130]],
+[377, [57,60,63,66,69,72,75]],
+[165, [34]]
+],
 "memberKind": "Property"
 }
 ,
 "TextWrapping":{
-"files": [617,
-618,
-423,
-707,
-692,
-716],
+"files": [
+[619, [46]],
+[620, [46]],
+[427, [64]],
+[708, [81,90]],
+[693, [109,118]],
+[717, [79]]
+],
 "memberKind": "?"
 }
 ,
 "Visibility":{
-"files": [668],
+"files": [
+[669, [291]]
+],
 "memberKind": "?"
 }
 }
@@ -35553,45 +45040,59 @@ var contents = {
 "TextBox":{
 "members": {
 "Dispatcher":{
-"files": [629,
-631],
+"files": [
+[631, [226]],
+[633, [283]]
+],
 "memberKind": "Property"
 }
 ,
 "GetRectFromCharacterIndex`2":{
-"files": [134],
+"files": [
+[136, [42,46,52,56]]
+],
 "memberKind": "Method"
 }
 ,
 "SelectedText":{
-"files": [134],
+"files": [
+[136, [105]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectionLength":{
-"files": [134],
+"files": [
+[136, [49,85]]
+],
 "memberKind": "Property"
 }
 ,
 "SelectionStart":{
-"files": [134],
+"files": [
+[136, [40,42,46,49]]
+],
 "memberKind": "Property"
 }
 ,
 "Text":{
-"files": [99,
-134,
-131,
-133,
-206,
-450,
-629,
-631],
+"files": [
+[102, [34,43,45,50,52]],
+[136, [40,50]],
+[133, [61]],
+[135, [55]],
+[208, [131,169]],
+[452, [34,42,93,105,114]],
+[631, [230,234]],
+[633, [287,291]]
+],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
-"files": [134],
+"files": [
+[136, [59]]
+],
 "memberKind": "Method"
 }
 }
@@ -35600,8 +45101,10 @@ var contents = {
 "TextControlPasteEventArgs":{
 "members": {
 "Handled":{
-"files": [131,
-133],
+"files": [
+[133, [46]],
+[135, [46]]
+],
 "memberKind": "Property"
 }
 }
@@ -35610,8 +45113,10 @@ var contents = {
 "ToggleSwitch":{
 "members": {
 "IsOn":{
-"files": [334,
-526],
+"files": [
+[336, [187]],
+[528, [77]]
+],
 "memberKind": "Property"
 }
 }
@@ -35620,17 +45125,23 @@ var contents = {
 "ToolTip":{
 "members": {
 ":ctor`0":{
-"files": [503],
+"files": [
+[505, [74]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
-"files": [503],
+"files": [
+[505, [75]]
+],
 "memberKind": "Property"
 }
 ,
 "IsOpen":{
-"files": [503],
+"files": [
+[505, [99,213]]
+],
 "memberKind": "Property"
 }
 }
@@ -35639,7 +45150,9 @@ var contents = {
 "ToolTipService":{
 "members": {
 "SetToolTip`2":{
-"files": [503],
+"files": [
+[505, [76]]
+],
 "memberKind": "Method"
 }
 }
@@ -35648,29 +45161,37 @@ var contents = {
 "UIElementCollection":{
 "members": {
 "Add`1":{
-"files": [332,
-500,
-492,
-333],
+"files": [
+[334, [203,224]],
+[502, [146,303]],
+[494, [572,573,574]],
+[335, [132]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [500],
+"files": [
+[502, [113,189]]
+],
 "memberKind": "Method"
 }
 ,
 "Count":{
-"files": [739,
-488,
-491],
+"files": [
+[740, [175]],
+[490, [29,55]],
+[493, [343]]
+],
 "memberKind": "?"
 }
 ,
 "Remove`1":{
-"files": [29,
-32,
-33],
+"files": [
+[29, [271,272]],
+[32, [231,232]],
+[33, [229,230]]
+],
 "memberKind": "Method"
 }
 }
@@ -35679,30 +45200,36 @@ var contents = {
 "UserControl":{
 "members": {
 "Height":{
-"files": [581],
+"files": [
+[583, [91,96,101,107]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
-"files": [253,
-233,
-234,
-235,
-751,
-828,
-764,
-447,
-677,
-829,
-237,
-239,
-825,
-64],
+"files": [
+[255, [90,98]],
+[235, [55,85]],
+[236, [27,59]],
+[237, [27,59]],
+[752, [25,39]],
+[828, [24,37]],
+[764, [25,39]],
+[449, [38,52]],
+[678, [52,59]],
+[829, [22,29]],
+[239, [28,41,46,109]],
+[241, [66,77]],
+[825, [26,44,49,71]],
+[64, [34,47]]
+],
 "memberKind": "Property"
 }
 ,
 "Loaded":{
-"files": [6],
+"files": [
+[6, [24]]
+],
 "memberKind": "?"
 }
 }
@@ -35711,12 +45238,16 @@ var contents = {
 "ZoomMode":{
 "members": {
 "Disabled":{
-"files": [533],
+"files": [
+[535, [43,49]]
+],
 "memberKind": "Field"
 }
 ,
 "Enabled":{
-"files": [533],
+"files": [
+[535, [39]]
+],
 "memberKind": "Field"
 }
 }
@@ -35729,8 +45260,10 @@ var contents = {
 "Binding":{
 "members": {
 ":ctor`0":{
-"files": [841,
-498],
+"files": [
+[841, [24]],
+[500, [60,71,82]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -35739,12 +45272,16 @@ var contents = {
 "LoadMoreItemsResult":{
 "members": {
 ":ctor`0":{
-"files": [882],
+"files": [
+[882, [156]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Count":{
-"files": [882],
+"files": [
+[882, [156]]
+],
 "memberKind": "?"
 }
 }
@@ -35753,11 +45290,13 @@ var contents = {
 "PropertyChangedEventArgs":{
 "members": {
 ":ctor`1":{
-"files": [259,
-498,
-818,
-883,
-821],
+"files": [
+[261, [259]],
+[500, [106]],
+[818, [117]],
+[883, [37]],
+[821, [117]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -35768,13 +45307,17 @@ var contents = {
 "DependencyObject":{
 "members": {
 "GetValue`1":{
-"files": [152,
-852],
+"files": [
+[154, [28,46]],
+[852, [19]]
+],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
-"files": [152],
+"files": [
+[154, [32,50]]
+],
 "memberKind": "Method"
 }
 }
@@ -35783,48 +45326,54 @@ var contents = {
 "DependencyProperty":{
 "members": {
 "Register`4":{
-"files": [849,
-884,
-841,
-488,
-740,
-497,
-449,
-885,
-761,
-886,
-887,
-762,
-888,
-763,
-418,
-852,
-889,
-523,
-505,
-890,
-538,
-490,
-531,
-491,
-891,
-476],
+"files": [
+[849, [13]],
+[884, [36]],
+[841, [66,138,146]],
+[490, [39]],
+[741, [41]],
+[499, [53]],
+[451, [26,39]],
+[885, [39,51]],
+[761, [129,141,153]],
+[886, [25]],
+[887, [25]],
+[762, [26]],
+[888, [39,51]],
+[763, [129,141,153]],
+[422, [25]],
+[852, [10,27]],
+[889, [18,25]],
+[525, [27]],
+[507, [47]],
+[890, [22,30]],
+[540, [32]],
+[492, [29]],
+[533, [25]],
+[493, [59,94,127]],
+[891, [24,31,38,50,57]],
+[478, [26,33]]
+],
 "memberKind": "Method"
 }
 ,
 "RegisterAttached`4":{
-"files": [667,
-672,
-675,
-152,
-679,
-680,
-681],
+"files": [
+[668, [136,138,140]],
+[673, [147,149,151]],
+[676, [133,135]],
+[154, [35,53]],
+[680, [136,138,140]],
+[681, [136,138,140]],
+[682, [134,136]]
+],
 "memberKind": "Method"
 }
 ,
 "UnsetValue":{
-"files": [505],
+"files": [
+[507, [47]]
+],
 "memberKind": "Property"
 }
 }
@@ -35833,21 +45382,27 @@ var contents = {
 "DependencyPropertyChangedEventArgs":{
 "members": {
 "NewValue":{
-"files": [885,
-888,
-490,
-491],
+"files": [
+[885, [59]],
+[888, [59]],
+[492, [102]],
+[493, [142,190]]
+],
 "memberKind": "Property"
 }
 ,
 "OldValue":{
-"files": [490,
-491],
+"files": [
+[492, [102]],
+[493, [157,205]]
+],
 "memberKind": "Property"
 }
 ,
 "Property":{
-"files": [491],
+"files": [
+[493, [205]]
+],
 "memberKind": "Property"
 }
 }
@@ -35856,117 +45411,129 @@ var contents = {
 "DispatcherTimer":{
 "members": {
 ":ctor`0":{
-"files": [344,
-59,
-364,
-353,
-355,
-365,
-358,
-362,
-601,
-800,
-65,
-366,
-368,
-593,
-449,
-147,
-489,
-538,
-539],
+"files": [
+[346, [47]],
+[59, [47]],
+[366, [50]],
+[355, [47]],
+[357, [47]],
+[367, [50]],
+[360, [47]],
+[364, [47]],
+[603, [38,106]],
+[800, [87]],
+[65, [135]],
+[368, [50]],
+[370, [47]],
+[595, [93]],
+[451, [250]],
+[149, [75]],
+[491, [27]],
+[540, [52]],
+[541, [36]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Interval":{
-"files": [344,
-364,
-353,
-355,
-365,
-358,
-362,
-601,
-366,
-368,
-593,
-449,
-147,
-489,
-538,
-539],
+"files": [
+[346, [49]],
+[366, [52]],
+[355, [49]],
+[357, [49]],
+[367, [52]],
+[360, [49]],
+[364, [49]],
+[603, [111,115,196]],
+[368, [52]],
+[370, [49]],
+[595, [94]],
+[451, [252,296]],
+[149, [79]],
+[491, [32]],
+[540, [53]],
+[541, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
-"files": [601],
+"files": [
+[603, [133,214]]
+],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
-"files": [344,
-59,
-364,
-353,
-355,
-365,
-358,
-362,
-601,
-800,
-65,
-366,
-368,
-593,
-449,
-147,
-489,
-538,
-539],
+"files": [
+[346, [107,146]],
+[59, [76,125,154]],
+[366, [70]],
+[355, [107,170]],
+[357, [107,146]],
+[367, [70]],
+[360, [107,164]],
+[364, [107,144]],
+[603, [125,202,229]],
+[800, [92]],
+[65, [140]],
+[368, [70]],
+[370, [107,181]],
+[595, [504]],
+[451, [253]],
+[149, [80]],
+[491, [67]],
+[540, [74]],
+[541, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [344,
-59,
-364,
-353,
-355,
-365,
-358,
-362,
-601,
-800,
-65,
-366,
-368,
-593,
-449,
-147,
-489],
+"files": [
+[346, [83,112,167]],
+[59, [129,183,321]],
+[366, [87]],
+[355, [83,112,191]],
+[357, [83,112,167]],
+[367, [87]],
+[360, [83,112,185]],
+[364, [83,112,165]],
+[603, [135,216,369,373]],
+[800, [97]],
+[65, [154,172]],
+[368, [87]],
+[370, [83,112,202]],
+[595, [508]],
+[451, [300]],
+[149, [93,148]],
+[491, [39]]
+],
 "memberKind": "Method"
 }
 ,
 "Tick":{
-"files": [344,
-59,
-364,
-353,
-355,
-365,
-358,
-362,
-601,
-800,
-65,
-366,
-368,
-593,
-449,
-147,
-489,
-538,
-539],
+"files": [
+[346, [48]],
+[59, [51]],
+[366, [51]],
+[355, [48]],
+[357, [48]],
+[367, [51]],
+[360, [48]],
+[364, [48]],
+[603, [118,197]],
+[800, [91]],
+[65, [139]],
+[368, [51]],
+[370, [48]],
+[595, [95]],
+[451, [251]],
+[149, [76]],
+[491, [33]],
+[540, [54]],
+[541, [38]]
+],
 "memberKind": "?"
 }
 }
@@ -35977,12 +45544,16 @@ var contents = {
 "BlockCollection":{
 "members": {
 "Add`1":{
-"files": [585],
+"files": [
+[587, [283]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [585],
+"files": [
+[587, [267]]
+],
 "memberKind": "Method"
 }
 }
@@ -35991,12 +45562,16 @@ var contents = {
 "Bold":{
 "members": {
 ":ctor`0":{
-"files": [400],
+"files": [
+[404, [500]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Inlines":{
-"files": [400],
+"files": [
+[404, [501]]
+],
 "memberKind": "Property"
 }
 }
@@ -36005,14 +45580,18 @@ var contents = {
 "InlineCollection":{
 "members": {
 "Add`1":{
-"files": [400,
-585,
-833],
+"files": [
+[404, [486,491,501,502,506,509,511]],
+[587, [281]],
+[833, [42,47,54,56]]
+],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
-"files": [400],
+"files": [
+[404, [476]]
+],
 "memberKind": "Method"
 }
 }
@@ -36021,7 +45600,9 @@ var contents = {
 "LineBreak":{
 "members": {
 ":ctor`0":{
-"files": [400],
+"files": [
+[404, [509]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36030,12 +45611,16 @@ var contents = {
 "Paragraph":{
 "members": {
 ":ctor`0":{
-"files": [585],
+"files": [
+[587, [280]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Inlines":{
-"files": [585],
+"files": [
+[587, [281]]
+],
 "memberKind": "Property"
 }
 }
@@ -36044,25 +45629,31 @@ var contents = {
 "Run":{
 "members": {
 ":ctor`0":{
-"files": [400,
-149,
-585,
-833,
-150],
+"files": [
+[404, [484,489,494]],
+[151, [448,455]],
+[587, [277]],
+[833, [42,47,54,56]],
+[152, [441,448]]
+],
 "memberKind": "Constructor"
 }
 ,
 "FontWeight":{
-"files": [149,
-150],
+"files": [
+[151, [449]],
+[152, [442]]
+],
 "memberKind": "?"
 }
 ,
 "Text":{
-"files": [400,
-149,
-585,
-150],
+"files": [
+[404, [485,490,495]],
+[151, [450,456]],
+[587, [278]],
+[152, [443,449]]
+],
 "memberKind": "Property"
 }
 }
@@ -36071,12 +45662,16 @@ var contents = {
 "Span":{
 "members": {
 ":ctor`0":{
-"files": [400],
+"files": [
+[404, [481]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Inlines":{
-"files": [400],
+"files": [
+[404, [486,491,502,506,509]]
+],
 "memberKind": "Property"
 }
 }
@@ -36087,28 +45682,36 @@ var contents = {
 "DragEventArgs":{
 "members": {
 "AcceptedOperation":{
-"files": [146,
-148,
-147],
+"files": [
+[148, [98,124,174,194]],
+[150, [76,120]],
+[149, [183,195]]
+],
 "memberKind": "?"
 }
 ,
 "DataView":{
-"files": [146,
-148,
-147],
+"files": [
+[148, [98,113,118,174,188,193]],
+[150, [75,117,123]],
+[149, [182,194]]
+],
 "memberKind": "Property"
 }
 ,
 "DragUIOverride":{
-"files": [146,
-148,
-147],
+"files": [
+[148, [176,177]],
+[150, [79,83,84,91,92,93]],
+[149, [184]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [146],
+"files": [
+[148, [117,192]]
+],
 "memberKind": "Method"
 }
 }
@@ -36117,8 +45720,10 @@ var contents = {
 "DragOperationDeferral":{
 "members": {
 "Complete`0":{
-"files": [146,
-148],
+"files": [
+[148, [125,195]],
+[150, [61]]
+],
 "memberKind": "Method"
 }
 }
@@ -36127,18 +45732,24 @@ var contents = {
 "DragStartingEventArgs":{
 "members": {
 "Data":{
-"files": [148,
-147],
+"files": [
+[150, [41]],
+[149, [160,161]]
+],
 "memberKind": "Property"
 }
 ,
 "DragUI":{
-"files": [148],
+"files": [
+[150, [45,60]]
+],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
-"files": [148],
+"files": [
+[150, [51]]
+],
 "memberKind": "Method"
 }
 }
@@ -36147,12 +45758,16 @@ var contents = {
 "DragUI":{
 "members": {
 "SetContentFromDataPackage`0":{
-"files": [148],
+"files": [
+[150, [45]]
+],
 "memberKind": "Method"
 }
 ,
 "SetContentFromSoftwareBitmap`1":{
-"files": [148],
+"files": [
+[150, [60]]
+],
 "memberKind": "Method"
 }
 }
@@ -36161,30 +45776,40 @@ var contents = {
 "DragUIOverride":{
 "members": {
 "Caption":{
-"files": [146,
-148],
+"files": [
+[148, [177]],
+[150, [79]]
+],
 "memberKind": "Property"
 }
 ,
 "IsCaptionVisible":{
-"files": [148,
-147],
+"files": [
+[150, [93]],
+[149, [184]]
+],
 "memberKind": "Property"
 }
 ,
 "IsContentVisible":{
-"files": [148],
+"files": [
+[150, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "IsGlyphVisible":{
-"files": [146,
-148],
+"files": [
+[148, [176]],
+[150, [83,92]]
+],
 "memberKind": "Property"
 }
 ,
 "SetContentFromBitmapImage`2":{
-"files": [148],
+"files": [
+[150, [91]]
+],
 "memberKind": "Method"
 }
 }
@@ -36193,8 +45818,10 @@ var contents = {
 "Duration":{
 "members": {
 "Text":{
-"files": [325,
-206],
+"files": [
+[327, [304,306]],
+[208, [99,103]]
+],
 "memberKind": "?"
 }
 }
@@ -36203,12 +45830,16 @@ var contents = {
 "ElementTheme":{
 "members": {
 "Dark":{
-"files": [179],
+"files": [
+[181, [106,112]]
+],
 "memberKind": "Field"
 }
 ,
 "Light":{
-"files": [179],
+"files": [
+[181, [101]]
+],
 "memberKind": "Field"
 }
 }
@@ -36217,8 +45848,10 @@ var contents = {
 "ExceptionRoutedEventArgs":{
 "members": {
 "ErrorMessage":{
-"files": [892,
-593],
+"files": [
+[892, [61]],
+[595, [446]]
+],
 "memberKind": "Property"
 }
 }
@@ -36227,27 +45860,31 @@ var contents = {
 "FlowDirection":{
 "members": {
 "LeftToRight":{
-"files": [189,
-190,
-191,
-192,
-193,
-196,
-113,
-863,
-867],
+"files": [
+[191, [351,949]],
+[192, [286]],
+[193, [391,956]],
+[194, [321]],
+[195, [366]],
+[198, [430]],
+[116, [126]],
+[863, [72,78]],
+[867, [72,78]]
+],
 "memberKind": "Field"
 }
 ,
 "RightToLeft":{
-"files": [189,
-190,
-191,
-192,
-193,
-196,
-863,
-867],
+"files": [
+[191, [351,949]],
+[192, [286]],
+[193, [391,956]],
+[194, [321]],
+[195, [366]],
+[198, [430]],
+[863, [74]],
+[867, [74]]
+],
 "memberKind": "Field"
 }
 }
@@ -36256,18 +45893,22 @@ var contents = {
 "FocusState":{
 "members": {
 "Keyboard":{
-"files": [272,
-288,
-290,
-532],
+"files": [
+[274, [85]],
+[290, [169,197]],
+[292, [165,191]],
+[534, [167]]
+],
 "memberKind": "Field"
 }
 ,
 "Programmatic":{
-"files": [574,
-473,
-744,
-185],
+"files": [
+[576, [404]],
+[475, [67,126,232]],
+[745, [210,234]],
+[187, [126]]
+],
 "memberKind": "Field"
 }
 }
@@ -36276,104 +45917,136 @@ var contents = {
 "FrameworkElement":{
 "members": {
 "ActualHeight":{
-"files": [477,
-154,
-465,
-99,
-478,
-479,
-469],
+"files": [
+[479, [38]],
+[156, [235]],
+[467, [178]],
+[102, [63]],
+[480, [37]],
+[481, [106]],
+[471, [69]]
+],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
-"files": [477,
-99,
-478,
-479,
-469],
+"files": [
+[479, [38]],
+[102, [63]],
+[480, [37]],
+[481, [106]],
+[471, [69]]
+],
 "memberKind": "Property"
 }
 ,
 "AddHandler`3":{
-"files": [893],
+"files": [
+[893, [27]]
+],
 "memberKind": "Method"
 }
 ,
 "DataContext":{
-"files": [485,
-490,
-185],
+"files": [
+[487, [112,143]],
+[492, [109]],
+[187, [137]]
+],
 "memberKind": "Property"
 }
 ,
 "FindName`1":{
-"files": [783,
-500,
-585],
+"files": [
+[783, [45]],
+[502, [140,277,290,308,313]],
+[587, [295]]
+],
 "memberKind": "Method"
 }
 ,
 "Height":{
-"files": [500],
+"files": [
+[502, [288,299]]
+],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignmentProperty":{
-"files": [744],
+"files": [
+[745, [248,254]]
+],
 "memberKind": "Property"
 }
 ,
 "Parent":{
-"files": [489],
+"files": [
+[491, [109,126]]
+],
 "memberKind": "Property"
 }
 ,
 "PointerPressedEvent":{
-"files": [893],
+"files": [
+[893, [27]]
+],
 "memberKind": "Property"
 }
 ,
 "SizeChanged":{
-"files": [530],
+"files": [
+[532, [49,52]]
+],
 "memberKind": "?"
 }
 ,
 "Tag":{
-"files": [863,
-867],
+"files": [
+[863, [46]],
+[867, [46]]
+],
 "memberKind": "Property"
 }
 ,
 "Tapped":{
-"files": [841],
+"files": [
+[841, [39]]
+],
 "memberKind": "?"
 }
 ,
 "TransformToVisual`1":{
-"files": [477,
-154,
-465,
-99,
-478,
-479,
-469],
+"files": [
+[479, [36]],
+[156, [232]],
+[467, [175]],
+[102, [61]],
+[480, [35]],
+[481, [104]],
+[471, [67]]
+],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
-"files": [841],
+"files": [
+[841, [127,128,133,134]]
+],
 "memberKind": "?"
 }
 ,
 "Width":{
-"files": [494,
-500],
+"files": [
+[496, [45]],
+[502, [287,298]]
+],
 "memberKind": "Property"
 }
 ,
 "WidthProperty":{
-"files": [744],
+"files": [
+[745, [247,253]]
+],
 "memberKind": "Property"
 }
 }
@@ -36382,13 +46055,17 @@ var contents = {
 "GridLength":{
 "members": {
 ":ctor`2":{
-"files": [586,
-891],
+"files": [
+[588, [161,162]],
+[891, [50]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Auto":{
-"files": [585],
+"files": [
+[587, [246]]
+],
 "memberKind": "?"
 }
 }
@@ -36397,8 +46074,10 @@ var contents = {
 "GridUnitType":{
 "members": {
 "Star":{
-"files": [586,
-891],
+"files": [
+[588, [161,162]],
+[891, [50]]
+],
 "memberKind": "?"
 }
 }
@@ -36407,21 +46086,27 @@ var contents = {
 "HorizontalAlignment":{
 "members": {
 "Center":{
-"files": [492],
+"files": [
+[494, [557]]
+],
 "memberKind": "Field"
 }
 ,
 "Left":{
-"files": [465,
-333,
-744,
-891],
+"files": [
+[467, [191,196]],
+[335, [121]],
+[745, [254]],
+[891, [57]]
+],
 "memberKind": "Field"
 }
 ,
 "Stretch":{
-"files": [776,
-777],
+"files": [
+[776, [72]],
+[777, [105]]
+],
 "memberKind": "Field"
 }
 }
@@ -36432,7 +46117,9 @@ var contents = {
 "DoubleTappedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [759],
+"files": [
+[759, [34]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36441,19 +46128,25 @@ var contents = {
 "FocusManager":{
 "members": {
 "FindNextFocusableElement`1":{
-"files": [473,
-744],
+"files": [
+[475, [123]],
+[745, [207]]
+],
 "memberKind": "Method"
 }
 ,
 "GetFocusedElement`0":{
-"files": [485,
-744],
+"files": [
+[487, [68,82]],
+[745, [119]]
+],
 "memberKind": "Method"
 }
 ,
 "TryMoveFocus`1":{
-"files": [744],
+"files": [
+[745, [203]]
+],
 "memberKind": "Method"
 }
 }
@@ -36462,39 +46155,53 @@ var contents = {
 "FocusNavigationDirection":{
 "members": {
 "Down":{
-"files": [473,
-744],
+"files": [
+[475, [117]],
+[745, [129,152,171]]
+],
 "memberKind": "Field"
 }
 ,
 "Left":{
-"files": [473],
+"files": [
+[475, [97]]
+],
 "memberKind": "Field"
 }
 ,
 "Next":{
-"files": [744],
+"files": [
+[745, [148,201]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [473],
+"files": [
+[475, [90,121]]
+],
 "memberKind": "Field"
 }
 ,
 "Previous":{
-"files": [744],
+"files": [
+[745, [159,201]]
+],
 "memberKind": "Field"
 }
 ,
 "Right":{
-"files": [473],
+"files": [
+[475, [103]]
+],
 "memberKind": "Field"
 }
 ,
 "Up":{
-"files": [473,
-744],
+"files": [
+[475, [110]],
+[745, [124,163,175]]
+],
 "memberKind": "Field"
 }
 }
@@ -36503,7 +46210,9 @@ var contents = {
 "HoldingEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [759],
+"files": [
+[759, [36]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36512,25 +46221,33 @@ var contents = {
 "HoldingRoutedEventArgs":{
 "members": {
 "GetPosition`1":{
-"files": [485],
+"files": [
+[487, [110]]
+],
 "memberKind": "Method"
 }
 ,
 "Handled":{
-"files": [485],
+"files": [
+[487, [114]]
+],
 "memberKind": "Property"
 }
 ,
 "HoldingState":{
-"files": [759,
-499,
-784,
-485],
+"files": [
+[759, [108,113]],
+[501, [59]],
+[784, [40]],
+[487, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "OriginalSource":{
-"files": [485],
+"files": [
+[487, [112]]
+],
 "memberKind": "Property"
 }
 }
@@ -36539,17 +46256,21 @@ var contents = {
 "KeyRoutedEventArgs":{
 "members": {
 "Handled":{
-"files": [485,
-473,
-744],
+"files": [
+[487, [76,89]],
+[475, [127]],
+[745, [125,130,179,186]]
+],
 "memberKind": "Property"
 }
 ,
 "Key":{
-"files": [745,
-485,
-473,
-744],
+"files": [
+[746, [96]],
+[487, [60,66,80,97]],
+[475, [91]],
+[745, [121]]
+],
 "memberKind": "Property"
 }
 }
@@ -36558,7 +46279,9 @@ var contents = {
 "ManipulationCompletedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [480],
+"files": [
+[482, [40]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36567,7 +46290,9 @@ var contents = {
 "ManipulationDeltaEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [480],
+"files": [
+[482, [39]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36576,17 +46301,23 @@ var contents = {
 "ManipulationDeltaRoutedEventArgs":{
 "members": {
 "Complete`0":{
-"files": [480],
+"files": [
+[482, [80]]
+],
 "memberKind": "Method"
 }
 ,
 "Delta":{
-"files": [480],
+"files": [
+[482, [93,94,95]]
+],
 "memberKind": "Property"
 }
 ,
 "Position":{
-"files": [480],
+"files": [
+[482, [87]]
+],
 "memberKind": "Property"
 }
 }
@@ -36595,7 +46326,9 @@ var contents = {
 "ManipulationInertiaStartingEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [480],
+"files": [
+[482, [41]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36604,27 +46337,37 @@ var contents = {
 "ManipulationModes":{
 "members": {
 "Rotate":{
-"files": [480],
+"files": [
+[482, [48]]
+],
 "memberKind": "Field"
 }
 ,
 "RotateInertia":{
-"files": [480],
+"files": [
+[482, [50,136]]
+],
 "memberKind": "Field"
 }
 ,
 "TranslateInertia":{
-"files": [480],
+"files": [
+[482, [49,136]]
+],
 "memberKind": "Field"
 }
 ,
 "TranslateX":{
-"files": [480],
+"files": [
+[482, [46,114,125]]
+],
 "memberKind": "Field"
 }
 ,
 "TranslateY":{
-"files": [480],
+"files": [
+[482, [47,114,121]]
+],
 "memberKind": "Field"
 }
 }
@@ -36633,7 +46376,9 @@ var contents = {
 "ManipulationStartedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [480],
+"files": [
+[482, [38]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36642,13 +46387,17 @@ var contents = {
 "Pointer":{
 "members": {
 "IsInContact":{
-"files": [147],
+"files": [
+[149, [119]]
+],
 "memberKind": "Property"
 }
 ,
 "PointerDeviceType":{
-"files": [333,
-893],
+"files": [
+[335, [80]],
+[893, [44]]
+],
 "memberKind": "Property"
 }
 }
@@ -36657,9 +46406,11 @@ var contents = {
 "PointerEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [759,
-332,
-893],
+"files": [
+[759, [25,26,29,30]],
+[334, [32,33,34,35,36,37]],
+[893, [27]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36668,23 +46419,29 @@ var contents = {
 "PointerRoutedEventArgs":{
 "members": {
 "GetCurrentPoint`1":{
-"files": [332,
-481,
-147,
-333],
+"files": [
+[334, [42,51,67,79,89]],
+[483, [153,169]],
+[149, [121]],
+[335, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "GetIntermediatePoints`1":{
-"files": [481],
+"files": [
+[483, [161]]
+],
 "memberKind": "Method"
 }
 ,
 "Pointer":{
-"files": [481,
-147,
-333,
-893],
+"files": [
+[483, [150,172,180]],
+[149, [119]],
+[335, [80]],
+[893, [44]]
+],
 "memberKind": "Property"
 }
 }
@@ -36693,7 +46450,9 @@ var contents = {
 "RightTappedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [759],
+"files": [
+[759, [37]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36702,17 +46461,23 @@ var contents = {
 "RightTappedRoutedEventArgs":{
 "members": {
 "GetPosition`1":{
-"files": [485],
+"files": [
+[487, [145]]
+],
 "memberKind": "Method"
 }
 ,
 "Handled":{
-"files": [485],
+"files": [
+[487, [146]]
+],
 "memberKind": "Property"
 }
 ,
 "OriginalSource":{
-"files": [485],
+"files": [
+[487, [143]]
+],
 "memberKind": "Property"
 }
 }
@@ -36721,7 +46486,9 @@ var contents = {
 "TappedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [759],
+"files": [
+[759, [33]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36730,12 +46497,16 @@ var contents = {
 "TappedRoutedEventArgs":{
 "members": {
 "Handled":{
-"files": [841],
+"files": [
+[841, [49]]
+],
 "memberKind": "Property"
 }
 ,
 "OriginalSource":{
-"files": [490],
+"files": [
+[492, [109]]
+],
 "memberKind": "Property"
 }
 }
@@ -36748,8 +46519,10 @@ var contents = {
 "NotifyCollectionChangedAction":{
 "members": {
 "Reset":{
-"files": [409,
-412],
+"files": [
+[413, [140,166]],
+[416, [140,166]]
+],
 "memberKind": "?"
 }
 }
@@ -36758,8 +46531,10 @@ var contents = {
 "NotifyCollectionChangedEventArgs":{
 "members": {
 ":ctor`1":{
-"files": [409,
-412],
+"files": [
+[413, [140,166]],
+[416, [140,166]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36774,12 +46549,16 @@ var contents = {
 "DoubleAnimationUsingKeyFrames":{
 "members": {
 ":ctor`0":{
-"files": [739],
+"files": [
+[740, [190]]
+],
 "memberKind": "Constructor"
 }
 ,
 "KeyFrames":{
-"files": [739],
+"files": [
+[740, [230,231,232]]
+],
 "memberKind": "Property"
 }
 }
@@ -36788,7 +46567,9 @@ var contents = {
 "DoubleKeyFrameCollection":{
 "members": {
 "Add`1":{
-"files": [739],
+"files": [
+[740, [230,231,232]]
+],
 "memberKind": "Method"
 }
 }
@@ -36797,12 +46578,14 @@ var contents = {
 "DrillInNavigationTransitionInfo":{
 "members": {
 ":ctor`0":{
-"files": [522,
-855,
-767,
-523,
-861,
-862],
+"files": [
+[524, [58]],
+[855, [123]],
+[767, [45]],
+[525, [86]],
+[861, [94]],
+[862, [30]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36811,14 +46594,18 @@ var contents = {
 "EntranceNavigationTransitionInfo":{
 "members": {
 ":ctor`0":{
-"files": [522,
-523],
+"files": [
+[524, [67,99]],
+[525, [96]]
+],
 "memberKind": "Constructor"
 }
 ,
 "SetIsTargetElement`2":{
-"files": [855,
-861],
+"files": [
+[855, [85,88]],
+[861, [79,82]]
+],
 "memberKind": "Method"
 }
 }
@@ -36827,8 +46614,10 @@ var contents = {
 "EntranceThemeTransition":{
 "members": {
 ":ctor`0":{
-"files": [855,
-861],
+"files": [
+[855, [134]],
+[861, [112]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36837,7 +46626,9 @@ var contents = {
 "FadeOutThemeAnimation":{
 "members": {
 ":ctor`0":{
-"files": [783],
+"files": [
+[783, [39]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36846,7 +46637,9 @@ var contents = {
 "KeySpline":{
 "members": {
 ":ctor`0":{
-"files": [739],
+"files": [
+[740, [203]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36855,22 +46648,30 @@ var contents = {
 "SplineDoubleKeyFrame":{
 "members": {
 ":ctor`0":{
-"files": [739],
+"files": [
+[740, [193,198,202]]
+],
 "memberKind": "Constructor"
 }
 ,
 "KeySpline":{
-"files": [739],
+"files": [
+[740, [203]]
+],
 "memberKind": "?"
 }
 ,
 "KeyTime":{
-"files": [739],
+"files": [
+[740, [194,199,204]]
+],
 "memberKind": "Property"
 }
 ,
 "Value":{
-"files": [739],
+"files": [
+[740, [209,210,211,218,219,220]]
+],
 "memberKind": "Property"
 }
 }
@@ -36879,51 +46680,69 @@ var contents = {
 "Storyboard":{
 "members": {
 ":ctor`0":{
-"files": [783,
-739],
+"files": [
+[783, [29]],
+[740, [171]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Begin`0":{
-"files": [783,
-739],
+"files": [
+[783, [67]],
+[740, [154,165]]
+],
 "memberKind": "Method"
 }
 ,
 "Children":{
-"files": [783,
-739],
+"files": [
+[783, [40]],
+[740, [233]]
+],
 "memberKind": "Property"
 }
 ,
 "Completed":{
-"files": [783],
+"files": [
+[783, [74,80]]
+],
 "memberKind": "?"
 }
 ,
 "Pause`0":{
-"files": [739],
+"files": [
+[740, [155]]
+],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
-"files": [739],
+"files": [
+[740, [156]]
+],
 "memberKind": "Method"
 }
 ,
 "SetTarget`2":{
-"files": [783,
-739],
+"files": [
+[783, [45]],
+[740, [172,195]]
+],
 "memberKind": "Method"
 }
 ,
 "SetTargetProperty`2":{
-"files": [739],
+"files": [
+[740, [213,222]]
+],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
-"files": [783],
+"files": [
+[783, [99]]
+],
 "memberKind": "Method"
 }
 }
@@ -36932,11 +46751,13 @@ var contents = {
 "SuppressNavigationTransitionInfo":{
 "members": {
 ":ctor`0":{
-"files": [522,
-855,
-523,
-861,
-22],
+"files": [
+[524, [71]],
+[855, [76]],
+[525, [100]],
+[861, [76]],
+[22, [82]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -36945,8 +46766,10 @@ var contents = {
 "TimelineCollection":{
 "members": {
 "Add`1":{
-"files": [783,
-739],
+"files": [
+[783, [40]],
+[740, [233]]
+],
 "memberKind": "Method"
 }
 }
@@ -36955,12 +46778,16 @@ var contents = {
 "TransitionCollection":{
 "members": {
 "Count":{
-"files": [744],
+"files": [
+[745, [71]]
+],
 "memberKind": "?"
 }
 ,
 "RemoveAt`1":{
-"files": [744],
+"files": [
+[745, [75]]
+],
 "memberKind": "Method"
 }
 }
@@ -36971,52 +46798,72 @@ var contents = {
 "AudioCategory":{
 "members": {
 "Alerts":{
-"files": [894],
+"files": [
+[894, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "Communications":{
-"files": [895],
+"files": [
+[895, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "GameChat":{
-"files": [896],
+"files": [
+[896, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "GameEffects":{
-"files": [897],
+"files": [
+[897, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "GameMedia":{
-"files": [898],
+"files": [
+[898, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "Media":{
-"files": [899],
+"files": [
+[899, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "Movie":{
-"files": [900],
+"files": [
+[900, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "Other":{
-"files": [901],
+"files": [
+[901, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "SoundEffects":{
-"files": [902],
+"files": [
+[902, [34]]
+],
 "memberKind": "Field"
 }
 ,
 "Speech":{
-"files": [903],
+"files": [
+[903, [34]]
+],
 "memberKind": "Field"
 }
 }
@@ -37025,38 +46872,50 @@ var contents = {
 "CompositeTransform":{
 "members": {
 ":ctor`0":{
-"files": [480,
-481],
+"files": [
+[482, [57]],
+[483, [125]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CenterX":{
-"files": [480,
-481],
+"files": [
+[482, [88]],
+[483, [198]]
+],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
-"files": [480,
-481],
+"files": [
+[482, [89]],
+[483, [199]]
+],
 "memberKind": "Property"
 }
 ,
 "Rotation":{
-"files": [480,
-481],
+"files": [
+[482, [93]],
+[483, [203]]
+],
 "memberKind": "Property"
 }
 ,
 "TranslateX":{
-"files": [480,
-481],
+"files": [
+[482, [94]],
+[483, [204]]
+],
 "memberKind": "Property"
 }
 ,
 "TranslateY":{
-"files": [480,
-481],
+"files": [
+[482, [95]],
+[483, [205]]
+],
 "memberKind": "Property"
 }
 }
@@ -37065,7 +46924,9 @@ var contents = {
 "CompositionTarget":{
 "members": {
 "SurfaceContentsLost":{
-"files": [449],
+"files": [
+[451, [64]]
+],
 "memberKind": "?"
 }
 }
@@ -37074,7 +46935,9 @@ var contents = {
 "DoubleCollection":{
 "members": {
 ":ctor`0":{
-"files": [484],
+"files": [
+[486, [72,107]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -37083,14 +46946,16 @@ var contents = {
 "FontFamily":{
 "members": {
 ":ctor`1":{
-"files": [568,
-569,
-904,
-905,
-906,
-907,
-756,
-757],
+"files": [
+[570, [112]],
+[571, [107]],
+[904, [32]],
+[905, [32]],
+[906, [32]],
+[907, [19]],
+[756, [27,28,29,30,31]],
+[757, [26,27,28,29,30]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -37099,22 +46964,24 @@ var contents = {
 "GeneralTransform":{
 "members": {
 "TransformPoint`1":{
-"files": [317,
-277,
-107,
-108,
-477,
-154,
-465,
-186,
-482,
-99,
-478,
-134,
-316,
-479,
-469,
-415],
+"files": [
+[319, [92]],
+[279, [90]],
+[110, [94]],
+[111, [110]],
+[479, [37]],
+[156, [234]],
+[467, [177]],
+[188, [411]],
+[484, [78]],
+[102, [62]],
+[480, [36]],
+[136, [60]],
+[318, [94]],
+[481, [105]],
+[471, [68]],
+[419, [216]]
+],
 "memberKind": "Method"
 }
 }
@@ -37123,20 +46990,26 @@ var contents = {
 "ImageBrush":{
 "members": {
 ":ctor`0":{
-"files": [583,
-187],
+"files": [
+[585, [89]],
+[189, [270]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ImageSource":{
-"files": [583,
-187],
+"files": [
+[585, [90,259]],
+[189, [271,437]]
+],
 "memberKind": "Property"
 }
 ,
 "Stretch":{
-"files": [583,
-187],
+"files": [
+[585, [91]],
+[189, [272]]
+],
 "memberKind": "?"
 }
 }
@@ -37147,70 +47020,80 @@ var contents = {
 "BitmapImage":{
 "members": {
 ":ctor`0":{
-"files": [186,
-129,
-259,
-149,
-693,
-605,
-714,
-734,
-140,
-142,
-150,
-197,
-198,
-735,
-415,
-409,
-412,
-908],
+"files": [
+[188, [130]],
+[131, [78]],
+[261, [247]],
+[151, [207,222,326]],
+[694, [72]],
+[607, [62]],
+[715, [66]],
+[735, [42]],
+[142, [103]],
+[144, [79]],
+[152, [191,206,310]],
+[199, [310]],
+[200, [138,225]],
+[736, [105]],
+[419, [86]],
+[413, [34]],
+[416, [34]],
+[908, [43]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [665,
-693,
-233,
-677,
-678,
-734,
-402,
-148,
-908,
-776,
-777,
-909,
-556],
+"files": [
+[666, [76,77,78]],
+[694, [62]],
+[235, [49]],
+[678, [46]],
+[679, [55]],
+[735, [52]],
+[406, [43]],
+[150, [88]],
+[908, [48,49,50,51,52,53,54,55,56,57,58,59]],
+[776, [71]],
+[777, [104]],
+[909, [25]],
+[558, [130]]
+],
 "memberKind": "Constructor"
 }
 ,
 "SetSource`1":{
-"files": [129,
-149,
-693,
-605,
-714,
-734,
-140,
-142,
-150,
-735],
+"files": [
+[131, [79]],
+[151, [208,223,327]],
+[694, [74]],
+[607, [63]],
+[715, [67]],
+[735, [47]],
+[142, [104]],
+[144, [80]],
+[152, [192,207,311]],
+[736, [106]]
+],
 "memberKind": "Method"
 }
 ,
 "SetSourceAsync`1":{
-"files": [259,
-197,
-198,
-409,
-412],
+"files": [
+[261, [248]],
+[199, [313]],
+[200, [142,228]],
+[413, [36]],
+[416, [36]]
+],
 "memberKind": "Method"
 }
 ,
 "UriSource":{
-"files": [186,
-415],
+"files": [
+[188, [131]],
+[419, [87]]
+],
 "memberKind": "Property"
 }
 }
@@ -37219,27 +47102,37 @@ var contents = {
 "RenderTargetBitmap":{
 "members": {
 ":ctor`0":{
-"files": [148],
+"files": [
+[150, [52]]
+],
 "memberKind": "Constructor"
 }
 ,
 "GetPixelsAsync`0":{
-"files": [148],
+"files": [
+[150, [54]]
+],
 "memberKind": "Method"
 }
 ,
 "PixelHeight":{
-"files": [148],
+"files": [
+[150, [58]]
+],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
-"files": [148],
+"files": [
+[150, [57]]
+],
 "memberKind": "Property"
 }
 ,
 "RenderAsync`1":{
-"files": [148],
+"files": [
+[150, [53]]
+],
 "memberKind": "Method"
 }
 }
@@ -37248,12 +47141,16 @@ var contents = {
 "SoftwareBitmapSource":{
 "members": {
 ":ctor`0":{
-"files": [190],
+"files": [
+[192, [392]]
+],
 "memberKind": "Constructor"
 }
 ,
 "SetBitmapAsync`1":{
-"files": [190],
+"files": [
+[192, [393]]
+],
 "memberKind": "Method"
 }
 }
@@ -37262,36 +47159,44 @@ var contents = {
 "WriteableBitmap":{
 "members": {
 ":ctor`2":{
-"files": [583,
-187,
-196,
-157,
-492],
+"files": [
+[585, [216]],
+[189, [246]],
+[198, [199]],
+[159, [107]],
+[494, [617]]
+],
 "memberKind": "Constructor"
 }
 ,
 "PixelBuffer":{
-"files": [583,
-187,
-196,
-157,
-492],
+"files": [
+[585, [217]],
+[189, [247]],
+[198, [200]],
+[159, [108]],
+[494, [619]]
+],
 "memberKind": "Property"
 }
 ,
 "PixelHeight":{
-"files": [583,
-187,
-196,
-492],
+"files": [
+[585, [97,262]],
+[189, [278,440]],
+[198, [300]],
+[494, [564,568]]
+],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
-"files": [583,
-187,
-196,
-492],
+"files": [
+[585, [96,261]],
+[189, [277,439]],
+[198, [299]],
+[494, [563,567]]
+],
 "memberKind": "Property"
 }
 }
@@ -37302,8 +47207,10 @@ var contents = {
 "Matrix":{
 "members": {
 "Identity":{
-"files": [480,
-481],
+"files": [
+[482, [56]],
+[483, [126]]
+],
 "memberKind": "?"
 }
 }
@@ -37312,19 +47219,25 @@ var contents = {
 "MatrixTransform":{
 "members": {
 ":ctor`0":{
-"files": [480,
-481],
+"files": [
+[482, [56]],
+[483, [126]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Matrix":{
-"files": [480,
-481],
+"files": [
+[482, [84]],
+[483, [194]]
+],
 "memberKind": "Property"
 }
 ,
 "TransformPoint`1":{
-"files": [480],
+"files": [
+[482, [87]]
+],
 "memberKind": "Method"
 }
 }
@@ -37335,29 +47248,39 @@ var contents = {
 "CompositeTransform3D":{
 "members": {
 "CenterX":{
-"files": [864,
-486],
+"files": [
+[864, [48]],
+[488, [68]]
+],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
-"files": [864,
-486],
+"files": [
+[864, [49]],
+[488, [71]]
+],
 "memberKind": "Property"
 }
 ,
 "ScaleX":{
-"files": [486],
+"files": [
+[488, [74]]
+],
 "memberKind": "Property"
 }
 ,
 "ScaleY":{
-"files": [486],
+"files": [
+[488, [74]]
+],
 "memberKind": "Property"
 }
 ,
 "TranslateZ":{
-"files": [486],
+"files": [
+[488, [75]]
+],
 "memberKind": "Property"
 }
 }
@@ -37368,44 +47291,56 @@ var contents = {
 "MediaElementState":{
 "members": {
 "Buffering":{
-"files": [593],
+"files": [
+[595, [481]]
+],
 "memberKind": "Field"
 }
 ,
 "Closed":{
-"files": [892,
-593],
+"files": [
+[892, [56]],
+[595, [469]]
+],
 "memberKind": "Field"
 }
 ,
 "Opening":{
-"files": [593],
+"files": [
+[595, [473]]
+],
 "memberKind": "Field"
 }
 ,
 "Paused":{
-"files": [441,
-601,
-609,
-607,
-535,
-593,
-415],
+"files": [
+[443, [161]],
+[603, [213]],
+[611, [402,406]],
+[609, [354,358]],
+[537, [455,459]],
+[595, [283,487,533]],
+[419, [158,184]]
+],
 "memberKind": "Field"
 }
 ,
 "Playing":{
-"files": [601,
-176,
-177,
-593,
-415],
+"files": [
+[603, [220]],
+[178, [51]],
+[179, [50]],
+[595, [205,283,491,502,528]],
+[419, [180,227]]
+],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
-"files": [593,
-415],
+"files": [
+[595, [495,532]],
+[419, [159,185]]
+],
 "memberKind": "Field"
 }
 }
@@ -37414,7 +47349,9 @@ var contents = {
 "PointCollection":{
 "members": {
 "Add`1":{
-"files": [484],
+"files": [
+[486, [75,82,87]]
+],
 "memberKind": "Method"
 }
 }
@@ -37423,38 +47360,46 @@ var contents = {
 "RotateTransform":{
 "members": {
 ":ctor`0":{
-"files": [189,
-191,
-192,
-193,
-196,
-157,
-198],
+"files": [
+[191, [900,924]],
+[193, [949]],
+[194, [805]],
+[195, [922]],
+[198, [219]],
+[159, [200]],
+[200, [47]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Angle":{
-"files": [189,
-191,
-192,
-193,
-196,
-157,
-198],
+"files": [
+[191, [900,924]],
+[193, [949]],
+[194, [805]],
+[195, [922]],
+[198, [219]],
+[159, [200]],
+[200, [604,607,610,614]]
+],
 "memberKind": "Property"
 }
 ,
 "CenterX":{
-"files": [196,
-157,
-198],
+"files": [
+[198, [219,323]],
+[159, [200,346]],
+[200, [664]]
+],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
-"files": [196,
-157,
-198],
+"files": [
+[198, [219,324]],
+[159, [200,347]],
+[200, [665]]
+],
 "memberKind": "Property"
 }
 }
@@ -37463,37 +47408,49 @@ var contents = {
 "ScaleTransform":{
 "members": {
 ":ctor`0":{
-"files": [196,
-157],
+"files": [
+[198, [207,295]],
+[159, [138]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CenterX":{
-"files": [196,
-157],
+"files": [
+[198, [207,295]],
+[159, [138]]
+],
 "memberKind": "?"
 }
 ,
 "CenterY":{
-"files": [196,
-157],
+"files": [
+[198, [207,295]],
+[159, [138]]
+],
 "memberKind": "?"
 }
 ,
 "ScaleX":{
-"files": [196,
-157],
+"files": [
+[198, [207,295]],
+[159, [138]]
+],
 "memberKind": "?"
 }
 ,
 "ScaleY":{
-"files": [196,
-157],
+"files": [
+[198, [207,295]],
+[159, [138]]
+],
 "memberKind": "?"
 }
 ,
 "TransformBounds`1":{
-"files": [498],
+"files": [
+[500, [55]]
+],
 "memberKind": "Method"
 }
 }
@@ -37502,67 +47459,71 @@ var contents = {
 "SolidColorBrush":{
 "members": {
 ":ctor`1":{
-"files": [506,
-507,
-508,
-588,
-293,
-589,
-590,
-591,
-435,
-509,
-336,
-583,
-187,
-188,
-759,
-332,
-480,
-481,
-189,
-149,
-510,
-637,
-511,
-513,
-609,
-607,
-535,
-496,
-676,
-102,
-115,
-116,
-117,
-514,
-468,
-150,
-484,
-161,
-162,
-472,
-633,
-516,
-762,
-517,
-518,
-524,
-525,
-847,
-755,
-756,
-757,
-758,
-526,
-164,
-166],
+"files": [
+[508, [176,179]],
+[509, [94,97]],
+[510, [118,121]],
+[590, [100,124,130,185,191]],
+[295, [107,112,141,142,148,149,156,162,203,209,218,224,248,249,250,259,260,262,263,275]],
+[591, [79,85,147,152,159]],
+[592, [103,110,154,161,175,178,182,189,190,191,231,237,240]],
+[593, [110,130,136,147,153,175,181,203,209,234,235,236,237,246,247,248,249,393,399]],
+[438, [102,126,132,158,164]],
+[511, [102,105]],
+[338, [385,386,407,408,421,435]],
+[585, [37,47]],
+[189, [38,48]],
+[190, [41,51]],
+[759, [44,52,60,68,76,84,93,110,115,120]],
+[334, [213,217,221]],
+[482, [71,102,108]],
+[483, [188,213,220]],
+[191, [976]],
+[151, [210]],
+[512, [94,97]],
+[639, [136,388,448]],
+[513, [94,97]],
+[515, [120,123]],
+[611, [434,446]],
+[609, [386,398]],
+[537, [487,499]],
+[498, [132,135]],
+[677, [49,55,61]],
+[105, [83]],
+[100, [88,103]],
+[118, [123]],
+[119, [76]],
+[516, [91,94]],
+[470, [134,137]],
+[152, [194]],
+[486, [70,105]],
+[163, [396,412,427]],
+[164, [414,430,445]],
+[474, [128,131]],
+[635, [132,160]],
+[518, [93,96]],
+[762, [42]],
+[519, [94,97]],
+[520, [93,96]],
+[526, [94,97]],
+[527, [94,97]],
+[847, [31]],
+[755, [45,48,51,54,70,73,76,79]],
+[756, [63]],
+[757, [48,51,54,57]],
+[758, [39,42,45,48,64,67,70,73]],
+[528, [109]],
+[166, [60]],
+[168, [87,88,122,135,162,163,197,210]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Color":{
-"files": [502,
-754],
+"files": [
+[504, [86]],
+[754, [35]]
+],
 "memberKind": "Property"
 }
 }
@@ -37571,28 +47532,36 @@ var contents = {
 "Stretch":{
 "members": {
 "Fill":{
-"files": [583,
-187,
-879],
+"files": [
+[585, [91]],
+[189, [272]],
+[879, [63]]
+],
 "memberKind": "Field"
 }
 ,
 "None":{
-"files": [492,
-879],
+"files": [
+[494, [566]],
+[879, [60]]
+],
 "memberKind": "Field"
 }
 ,
 "Uniform":{
-"files": [449,
-879],
+"files": [
+[451, [30]],
+[879, [66]]
+],
 "memberKind": "Field"
 }
 ,
 "UniformToFill":{
-"files": [776,
-777,
-879],
+"files": [
+[776, [74]],
+[777, [107]],
+[879, [69]]
+],
 "memberKind": "Field"
 }
 }
@@ -37601,9 +47570,11 @@ var contents = {
 "TransformCollection":{
 "members": {
 "Add`1":{
-"files": [480,
-481,
-739],
+"files": [
+[482, [59,60]],
+[483, [128,129]],
+[740, [180,181]]
+],
 "memberKind": "Method"
 }
 }
@@ -37612,22 +47583,28 @@ var contents = {
 "TransformGroup":{
 "members": {
 ":ctor`0":{
-"files": [480,
-481,
-739],
+"files": [
+[482, [55]],
+[483, [124]],
+[740, [179]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
-"files": [480,
-481,
-739],
+"files": [
+[482, [59,60]],
+[483, [128,129]],
+[740, [180,181]]
+],
 "memberKind": "Property"
 }
 ,
 "Value":{
-"files": [480,
-481],
+"files": [
+[482, [84]],
+[483, [194]]
+],
 "memberKind": "Property"
 }
 }
@@ -37636,18 +47613,24 @@ var contents = {
 "TranslateTransform":{
 "members": {
 ":ctor`0":{
-"files": [332,
-739],
+"files": [
+[334, [228]],
+[740, [180]]
+],
 "memberKind": "Constructor"
 }
 ,
 "X":{
-"files": [332],
+"files": [
+[334, [229]]
+],
 "memberKind": "Property"
 }
 ,
 "Y":{
-"files": [332],
+"files": [
+[334, [230]]
+],
 "memberKind": "Property"
 }
 }
@@ -37656,29 +47639,37 @@ var contents = {
 "VisualTreeHelper":{
 "members": {
 "FindElementsInHostCoordinates`2":{
-"files": [485],
+"files": [
+[487, [122]]
+],
 "memberKind": "Method"
 }
 ,
 "GetChild`2":{
-"files": [778,
-779,
-574,
-333,
-475],
+"files": [
+[778, [71]],
+[779, [79]],
+[576, [414,417]],
+[335, [46,61]],
+[477, [104]]
+],
 "memberKind": "Method"
 }
 ,
 "GetChildrenCount`1":{
-"files": [778,
-779,
-574],
+"files": [
+[778, [63]],
+[779, [71]],
+[576, [415]]
+],
 "memberKind": "Method"
 }
 ,
 "GetParent`1":{
-"files": [333,
-744],
+"files": [
+[335, [88]],
+[745, [45,48]]
+],
 "memberKind": "Method"
 }
 }
@@ -37691,12 +47682,16 @@ var contents = {
 "NavigatingCancelEventArgs":{
 "members": {
 "NavigationMode":{
-"files": [473],
+"files": [
+[475, [194]]
+],
 "memberKind": "Property"
 }
 ,
 "SourcePageType":{
-"files": [473],
+"files": [
+[475, [196]]
+],
 "memberKind": "Property"
 }
 }
@@ -37705,22 +47700,26 @@ var contents = {
 "NavigationCacheMode":{
 "members": {
 "Disabled":{
-"files": [189,
-191,
-192,
-193,
-522,
-523],
+"files": [
+[191, [83]],
+[193, [96]],
+[194, [76]],
+[195, [81]],
+[524, [63]],
+[525, [92]]
+],
 "memberKind": "Field"
 }
 ,
 "Required":{
-"files": [509,
-859,
-186,
-190,
-512,
-415],
+"files": [
+[511, [42]],
+[859, [35]],
+[188, [82]],
+[192, [76]],
+[514, [83]],
+[419, [46]]
+],
 "memberKind": "Field"
 }
 }
@@ -37729,73 +47728,81 @@ var contents = {
 "NavigationEventArgs":{
 "members": {
 "Content":{
-"files": [473],
+"files": [
+[475, [223,225]]
+],
 "memberKind": "Property"
 }
 ,
 "NavigationMode":{
-"files": [493,
-455,
-456,
-457,
-458,
-451,
-459,
-460,
-461,
-464,
-211,
-462,
-474],
+"files": [
+[495, [334]],
+[457, [74]],
+[458, [56]],
+[459, [61]],
+[460, [59]],
+[453, [57]],
+[461, [55]],
+[462, [58]],
+[463, [55]],
+[466, [59]],
+[213, [56]],
+[464, [56]],
+[476, [323]]
+],
 "memberKind": "Property"
 }
 ,
 "Parameter":{
-"files": [31,
-506,
-780,
-854,
-765,
-493,
-149,
-638,
-637,
-60,
-230,
-479,
-868,
-30,
-739,
-496,
-676,
-740,
-497,
-771,
-468,
-150,
-472,
-522,
-855,
-523,
-861,
-874,
-538,
-474],
+"files": [
+[31, [47,49]],
+[508, [58,60]],
+[780, [68]],
+[854, [56,58]],
+[765, [35]],
+[495, [349,359]],
+[151, [71]],
+[640, [27]],
+[639, [72,74]],
+[60, [95]],
+[232, [90]],
+[481, [112]],
+[868, [57]],
+[30, [615,617,733,735]],
+[740, [46]],
+[498, [63,65]],
+[677, [38,40]],
+[741, [24,26]],
+[499, [23]],
+[771, [41]],
+[470, [59,64,66]],
+[152, [66]],
+[474, [62,67,69]],
+[524, [39]],
+[855, [39]],
+[525, [50]],
+[861, [49,52]],
+[874, [30,32]],
+[540, [70]],
+[476, [338,348]]
+],
 "memberKind": "Property"
 }
 ,
 "Uri":{
-"files": [455,
-456,
-457,
-458,
-451,
-459,
-460,
-461,
-464,
-211,
-462],
+"files": [
+[457, [74]],
+[458, [56]],
+[459, [61]],
+[460, [59]],
+[453, [57]],
+[461, [55]],
+[462, [58]],
+[463, [55]],
+[466, [59]],
+[213, [56]],
+[464, [56]]
+],
 "memberKind": "Property"
 }
 }
@@ -37804,37 +47811,39 @@ var contents = {
 "NavigationFailedEventArgs":{
 "members": {
 "SourcePageType":{
-"files": [1,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-0,
-39,
-13,
-14,
-15,
-16,
-17,
-8,
-18,
-19,
-20,
-21,
-199,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[1, [149]],
+[9, [93]],
+[2, [167]],
+[10, [121]],
+[34, [84]],
+[35, [84]],
+[36, [84]],
+[37, [84]],
+[38, [84]],
+[3, [120]],
+[11, [93]],
+[0, [144]],
+[39, [114]],
+[13, [111]],
+[14, [120]],
+[15, [94]],
+[16, [96]],
+[17, [90]],
+[8, [74]],
+[18, [112]],
+[19, [87]],
+[20, [95]],
+[21, [77]],
+[201, [78]],
+[22, [96]],
+[23, [92]],
+[24, [95]],
+[25, [95]],
+[26, [104]],
+[27, [85]],
+[28, [130]]
+],
 "memberKind": "Property"
 }
 }
@@ -37843,28 +47852,34 @@ var contents = {
 "NavigationMode":{
 "members": {
 "Back":{
-"files": [473],
+"files": [
+[475, [194]]
+],
 "memberKind": "Field"
 }
 ,
 "Forward":{
-"files": [455,
-456,
-457,
-458,
-451,
-459,
-460,
-461,
-464,
-211,
-462],
+"files": [
+[457, [74]],
+[458, [56]],
+[459, [61]],
+[460, [59]],
+[453, [57]],
+[461, [55]],
+[462, [58]],
+[463, [55]],
+[466, [59]],
+[213, [56]],
+[464, [56]]
+],
 "memberKind": "Field"
 }
 ,
 "New":{
-"files": [493,
-474],
+"files": [
+[495, [334]],
+[476, [323]]
+],
 "memberKind": "Field"
 }
 }
@@ -37873,10 +47888,12 @@ var contents = {
 "PageStackEntry":{
 "members": {
 ":ctor`3":{
-"files": [737,
-740,
-497,
-523],
+"files": [
+[738, [89,108]],
+[741, [29]],
+[499, [26]],
+[525, [62]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -37889,8 +47906,10 @@ var contents = {
 "GetPreviewPageEventArgs":{
 "members": {
 "PageNumber":{
-"files": [500,
-492],
+"files": [
+[502, [232]],
+[494, [407]]
+],
 "memberKind": "Property"
 }
 }
@@ -37899,9 +47918,11 @@ var contents = {
 "PaginateEventArgs":{
 "members": {
 "PrintTaskOptions":{
-"files": [500,
-586,
-492],
+"files": [
+[502, [195]],
+[588, [180]],
+[494, [310,311]]
+],
 "memberKind": "Property"
 }
 }
@@ -37910,8 +47931,10 @@ var contents = {
 "PreviewPageCountType":{
 "members": {
 "Intermediate":{
-"files": [500,
-492],
+"files": [
+[502, [219]],
+[494, [374,385]]
+],
 "memberKind": "Field"
 }
 }
@@ -37920,51 +47943,69 @@ var contents = {
 "PrintDocument":{
 "members": {
 ":ctor`0":{
-"files": [500],
+"files": [
+[502, [85]]
+],
 "memberKind": "Constructor"
 }
 ,
 "AddPage`1":{
-"files": [500,
-492],
+"files": [
+[502, [248]],
+[494, [477]]
+],
 "memberKind": "Method"
 }
 ,
 "AddPages":{
-"files": [500],
+"files": [
+[502, [89,107]]
+],
 "memberKind": "?"
 }
 ,
 "AddPagesComplete`0":{
-"files": [500,
-492],
+"files": [
+[502, [254]],
+[494, [481]]
+],
 "memberKind": "Method"
 }
 ,
 "DocumentSource":{
-"files": [500],
+"files": [
+[502, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "GetPreviewPage":{
-"files": [500],
+"files": [
+[502, [88,106]]
+],
 "memberKind": "?"
 }
 ,
 "Paginate":{
-"files": [500],
+"files": [
+[502, [87,105]]
+],
 "memberKind": "?"
 }
 ,
 "SetPreviewPage`2":{
-"files": [500,
-492],
+"files": [
+[502, [232]],
+[494, [446]]
+],
 "memberKind": "Method"
 }
 ,
 "SetPreviewPageCount`2":{
-"files": [500,
-492],
+"files": [
+[502, [219]],
+[494, [374,385]]
+],
 "memberKind": "Method"
 }
 }
@@ -37975,8 +48016,10 @@ var contents = {
 "PropertyChangedCallback":{
 "members": {
 ":ctor`1":{
-"files": [449,
-490],
+"files": [
+[451, [43]],
+[492, [33]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -37985,40 +48028,44 @@ var contents = {
 "PropertyMetadata":{
 "members": {
 ":ctor`1":{
-"files": [849,
-884,
-841,
-740,
-497,
-449,
-885,
-761,
-886,
-887,
-762,
-888,
-763,
-418,
-852,
-889,
-523,
-505,
-538,
-531,
-891,
-476],
+"files": [
+[849, [13]],
+[884, [36]],
+[841, [138,146]],
+[741, [41]],
+[499, [53]],
+[451, [30]],
+[885, [39]],
+[761, [129,141,153]],
+[886, [25]],
+[887, [25]],
+[762, [26]],
+[888, [39]],
+[763, [129,141,153]],
+[422, [25]],
+[852, [10,27]],
+[889, [18,25]],
+[525, [27]],
+[507, [47]],
+[540, [32]],
+[533, [25]],
+[891, [24,31,38,50,57]],
+[478, [26,33]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [841,
-488,
-152,
-449,
-885,
-888,
-490,
-491],
+"files": [
+[841, [66]],
+[490, [39]],
+[154, [36,54]],
+[451, [43]],
+[885, [51]],
+[888, [51]],
+[492, [33]],
+[493, [63,98,131]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -38027,8 +48074,10 @@ var contents = {
 "PropertyPath":{
 "members": {
 ":ctor`1":{
-"files": [841,
-498],
+"files": [
+[841, [24]],
+[500, [62,73,84]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -38037,45 +48086,47 @@ var contents = {
 "RoutedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [128,
-129,
-130,
-126,
-683,
-721,
-704,
-723,
-689,
-688,
-685,
-690,
-660,
-705,
-709,
-710,
-711,
-661,
-682,
-687,
-673,
-156,
-548,
-549,
-712,
-715,
-702,
-699,
-694,
-695,
-696,
-697,
-512,
-60,
-479,
-609,
-607,
-535,
-41],
+"files": [
+[130, [35,36]],
+[131, [39,40,41]],
+[132, [36,37]],
+[128, [40,41,42,43]],
+[684, [30]],
+[722, [31]],
+[705, [30]],
+[724, [32]],
+[690, [31,32]],
+[689, [32,33]],
+[686, [32,33]],
+[691, [37]],
+[661, [34,35,36]],
+[706, [31]],
+[710, [32]],
+[711, [31]],
+[712, [33]],
+[662, [32]],
+[683, [33]],
+[688, [29,30]],
+[674, [29,30]],
+[158, [37,38]],
+[550, [38,39]],
+[551, [37,38]],
+[713, [33]],
+[716, [31]],
+[703, [31]],
+[700, [29]],
+[695, [29]],
+[696, [29]],
+[697, [29]],
+[698, [32]],
+[514, [80]],
+[60, [26,27,28]],
+[481, [33,34]],
+[611, [48,50,51,54,55,56,57,58,59]],
+[609, [45,47,48,51,52,53,54,55,56]],
+[537, [54,56,57,58,59,69,70,71,72,73,74]],
+[41, [38]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -38086,12 +48137,16 @@ var contents = {
 "Polyline":{
 "members": {
 ":ctor`0":{
-"files": [484],
+"files": [
+[486, [68]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Points":{
-"files": [484],
+"files": [
+[486, [75,82,87,89]]
+],
 "memberKind": "Property"
 }
 }
@@ -38100,88 +48155,112 @@ var contents = {
 "Rectangle":{
 "members": {
 ":ctor`0":{
-"files": [583,
-187,
-188,
-189,
-484,
-333],
+"files": [
+[585, [105]],
+[189, [286]],
+[190, [309]],
+[191, [994]],
+[486, [103]],
+[335, [118]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Fill":{
-"files": [583,
-187,
-188,
-333],
+"files": [
+[585, [109]],
+[189, [290]],
+[190, [312]],
+[335, [123]]
+],
 "memberKind": "?"
 }
 ,
 "Height":{
-"files": [583,
-187,
-188,
-189,
-333],
+"files": [
+[585, [108,275]],
+[189, [289,453]],
+[190, [311]],
+[191, [1018]],
+[335, [120]]
+],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignment":{
-"files": [333],
+"files": [
+[335, [121]]
+],
 "memberKind": "?"
 }
 ,
 "Margin":{
-"files": [583,
-187,
-188,
-333],
+"files": [
+[585, [112,277]],
+[189, [293,455]],
+[190, [315]],
+[335, [124]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [333],
+"files": [
+[335, [119]]
+],
 "memberKind": "Property"
 }
 ,
 "Opacity":{
-"files": [333],
+"files": [
+[335, [137,147]]
+],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
-"files": [333],
+"files": [
+[335, [130]]
+],
 "memberKind": "Method"
 }
 ,
 "Stroke":{
-"files": [583,
-187,
-188,
-189],
+"files": [
+[585, [110]],
+[189, [291]],
+[190, [313]],
+[191, [976]]
+],
 "memberKind": "?"
 }
 ,
 "StrokeThickness":{
-"files": [583,
-187,
-188,
-189],
+"files": [
+[585, [111]],
+[189, [292]],
+[190, [314]],
+[191, [973]]
+],
 "memberKind": "Property"
 }
 ,
 "Tag":{
-"files": [583,
-187],
+"files": [
+[585, [106,273]],
+[189, [287,451]]
+],
 "memberKind": "Property"
 }
 ,
 "Width":{
-"files": [583,
-187,
-188,
-189,
-333],
+"files": [
+[585, [107,274]],
+[189, [288,452]],
+[190, [310]],
+[191, [1017]],
+[335, [122]]
+],
 "memberKind": "Property"
 }
 }
@@ -38192,12 +48271,14 @@ var contents = {
 "SizeChangedEventArgs":{
 "members": {
 "NewSize":{
-"files": [530,
-490,
-531,
-532,
-533,
-534],
+"files": [
+[532, [58,59]],
+[492, [74]],
+[533, [46]],
+[534, [173,175,179]],
+[535, [181,185]],
+[536, [182,186]]
+],
 "memberKind": "Property"
 }
 }
@@ -38206,18 +48287,20 @@ var contents = {
 "SuspendingEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [261,
-279,
-264,
-280,
-265,
-281,
-540,
-12,
-267,
-287,
-197,
-198],
+"files": [
+[263, [393]],
+[281, [186]],
+[266, [397]],
+[282, [213]],
+[267, [412]],
+[283, [229]],
+[542, [97]],
+[12, [27]],
+[269, [417]],
+[289, [200]],
+[199, [58]],
+[200, [68]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -38226,17 +48309,21 @@ var contents = {
 "TextWrapping":{
 "members": {
 "Wrap":{
-"files": [465,
-707,
-692,
-716],
+"files": [
+[467, [190,195]],
+[708, [81,90]],
+[693, [109,118]],
+[717, [79]]
+],
 "memberKind": "Field"
 }
 ,
 "WrapWholeWords":{
-"files": [617,
-618,
-423],
+"files": [
+[619, [46]],
+[620, [46]],
+[427, [64]]
+],
 "memberKind": "Field"
 }
 }
@@ -38245,33 +48332,41 @@ var contents = {
 "Thickness":{
 "members": {
 ":ctor`0":{
-"files": [113],
+"files": [
+[116, [128,132]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [755],
+"files": [
+[755, [32]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
-"files": [583,
-187,
-188,
-364,
-365,
-498,
-366,
-333,
-505,
-179],
+"files": [
+[585, [112,277]],
+[189, [293,455]],
+[190, [315]],
+[366, [113,114,121,122]],
+[367, [113,114,121,122]],
+[500, [93]],
+[368, [113,114,121,122]],
+[335, [124]],
+[507, [30,36]],
+[181, [94]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Left":{
-"files": [707,
-692,
-333],
+"files": [
+[708, [92]],
+[693, [120]],
+[335, [124]]
+],
 "memberKind": "?"
 }
 }
@@ -38280,84 +48375,114 @@ var contents = {
 "UIElement":{
 "members": {
 "Arrange`1":{
-"files": [491],
+"files": [
+[493, [438]]
+],
 "memberKind": "Method"
 }
 ,
 "CapturePointer`1":{
-"files": [481],
+"files": [
+[483, [150]]
+],
 "memberKind": "Method"
 }
 ,
 "DesiredSize":{
-"files": [488,
-418,
-491],
+"files": [
+[490, [17,18]],
+[422, [60,74,99,163,164]],
+[493, [261,262,352,353,426]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
-"files": [343],
+"files": [
+[345, [39]]
+],
 "memberKind": "Property"
 }
 ,
 "Measure`1":{
-"files": [488,
-418,
-491],
+"files": [
+[490, [15]],
+[422, [162]],
+[493, [258]]
+],
 "memberKind": "Method"
 }
 ,
 "PointerCanceled":{
-"files": [481],
+"files": [
+[483, [113]]
+],
 "memberKind": "?"
 }
 ,
 "PointerCaptureLost":{
-"files": [333],
+"files": [
+[335, [51,66]]
+],
 "memberKind": "?"
 }
 ,
 "PointerExited":{
-"files": [333],
+"files": [
+[335, [52,67]]
+],
 "memberKind": "?"
 }
 ,
 "PointerMoved":{
-"files": [481],
+"files": [
+[483, [111]]
+],
 "memberKind": "?"
 }
 ,
 "PointerPressed":{
-"files": [481,
-333],
+"files": [
+[483, [110]],
+[335, [49,64]]
+],
 "memberKind": "?"
 }
 ,
 "PointerReleased":{
-"files": [481,
-333],
+"files": [
+[483, [112]],
+[335, [50,65]]
+],
 "memberKind": "?"
 }
 ,
 "ReleasePointerCapture`1":{
-"files": [481],
+"files": [
+[483, [172,180]]
+],
 "memberKind": "Method"
 }
 ,
 "RenderTransform":{
-"files": [481],
+"files": [
+[483, [131,262]]
+],
 "memberKind": "?"
 }
 ,
 "Transform3D":{
-"files": [486],
+"files": [
+[488, [58]]
+],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
-"files": [330,
-398],
+"files": [
+[332, [51]],
+[402, [62]]
+],
 "memberKind": "?"
 }
 }
@@ -38366,14 +48491,18 @@ var contents = {
 "UnhandledExceptionEventArgs":{
 "members": {
 "Exception":{
-"files": [1,
-13,
-14],
+"files": [
+[1, [110]],
+[13, [43]],
+[14, [141]]
+],
 "memberKind": "Property"
 }
 ,
 "Handled":{
-"files": [14],
+"files": [
+[14, [139]]
+],
 "memberKind": "Property"
 }
 }
@@ -38382,13 +48511,17 @@ var contents = {
 "VerticalAlignment":{
 "members": {
 "Center":{
-"files": [492],
+"files": [
+[494, [558]]
+],
 "memberKind": "Field"
 }
 ,
 "Stretch":{
-"files": [776,
-777],
+"files": [
+[776, [73]],
+[777, [106]]
+],
 "memberKind": "Field"
 }
 }
@@ -38397,213 +48530,217 @@ var contents = {
 "Visibility":{
 "members": {
 "Collapsed":{
-"files": [506,
-247,
-255,
-254,
-256,
-507,
-43,
-508,
-154,
-465,
-466,
-467,
-509,
-278,
-189,
-192,
-193,
-129,
-364,
-668,
-910,
-642,
-330,
-376,
-725,
-545,
-398,
-149,
-29,
-32,
-33,
-510,
-745,
-327,
-328,
-206,
-365,
-417,
-511,
-513,
-307,
-496,
-427,
-676,
-649,
-628,
-884,
-841,
-488,
-911,
-253,
-64,
-65,
-196,
-366,
-270,
-714,
-500,
-586,
-585,
-514,
-111,
-112,
-468,
-726,
-136,
-150,
-595,
-574,
-172,
-173,
-616,
-174,
-175,
-472,
-216,
-217,
-218,
-113,
-114,
-309,
-774,
-775,
-304,
-912,
-516,
-717,
-913,
-517,
-518,
-520,
-147,
-855,
-768,
-473,
-524,
-525,
-914,
-891,
-877,
-476],
+"files": [
+[508, [96,140,185,196]],
+[249, [34,35,245,262,343]],
+[257, [42,44,45,46,47,48,49,50,131,140,203,230,330,331,344,715,943,956,964,965,966,967]],
+[256, [32,219]],
+[258, [34,235]],
+[509, [74,103,114]],
+[43, [264,276,296]],
+[510, [133,145]],
+[156, [58,59,60]],
+[467, [39,40,41]],
+[468, [40,43]],
+[469, [38,41]],
+[511, [111,119,120]],
+[280, [183,190,197]],
+[191, [657,658,661,664,665]],
+[194, [571,572]],
+[195, [720,721,727,731]],
+[131, [89]],
+[366, [158,198,210,212]],
+[669, [228]],
+[910, [45]],
+[644, [40,41]],
+[332, [43,51]],
+[378, [50]],
+[726, [97]],
+[547, [49]],
+[402, [54,62]],
+[151, [348,412]],
+[29, [110,328]],
+[32, [70,288]],
+[33, [68,286]],
+[512, [74,103,115]],
+[746, [91]],
+[329, [95,107,156]],
+[330, [77,216]],
+[208, [310]],
+[367, [158,198,210,212]],
+[421, [102,103]],
+[513, [74,103,114]],
+[515, [100,129,140]],
+[309, [239,241,454,465,517,563,616,646]],
+[498, [98,153,164]],
+[385, [245]],
+[677, [86]],
+[386, [243,248]],
+[630, [77,78,91,109]],
+[884, [25]],
+[841, [128,133]],
+[490, [57]],
+[911, [34]],
+[255, [110,117]],
+[64, [117]],
+[65, [115,132,175]],
+[198, [95,96,267,269,348,351,608]],
+[368, [158,198,210,212]],
+[272, [48]],
+[715, [73,79,85]],
+[502, [278]],
+[588, [155,165,166,170]],
+[587, [244,249,261,266,296]],
+[516, [71,100,111]],
+[114, [70,75]],
+[115, [136]],
+[470, [149,161]],
+[727, [95]],
+[138, [29]],
+[152, [332,391]],
+[597, [104,249,264,284,344]],
+[576, [289,342,343,400]],
+[174, [250,291,357,409,410]],
+[175, [274,316,375]],
+[618, [258,296,362]],
+[176, [226,227,277,283]],
+[177, [198,199,249,255]],
+[474, [143,155]],
+[218, [117,140,149,158]],
+[219, [117,140,149,158]],
+[220, [89,98,107]],
+[116, [85,156]],
+[117, [29,52]],
+[311, [77,107]],
+[774, [45,58]],
+[775, [49,69]],
+[306, [131,163]],
+[912, [20]],
+[518, [73,102,107,118]],
+[718, [65,71,90]],
+[913, [20]],
+[519, [74,103,114]],
+[520, [73,102,113]],
+[522, [46,49]],
+[149, [81,135]],
+[855, [166,190]],
+[768, [72,74,80,82]],
+[475, [75]],
+[526, [74,103,114]],
+[527, [74,103,114]],
+[914, [24]],
+[891, [70]],
+[877, [42]],
+[478, [71]]
+],
 "memberKind": "Field"
 }
 ,
 "Visible":{
-"files": [506,
-247,
-255,
-254,
-256,
-507,
-43,
-508,
-509,
-278,
-189,
-192,
-193,
-129,
-364,
-668,
-103,
-100,
-910,
-642,
-330,
-398,
-149,
-29,
-32,
-33,
-510,
-745,
-327,
-328,
-206,
-365,
-568,
-569,
-417,
-511,
-513,
-307,
-739,
-496,
-427,
-676,
-649,
-628,
-884,
-841,
-488,
-911,
-253,
-65,
-196,
-366,
-270,
-714,
-500,
-586,
-585,
-514,
-111,
-112,
-468,
-140,
-141,
-136,
-142,
-150,
-595,
-574,
-172,
-161,
-173,
-616,
-174,
-175,
-162,
-472,
-216,
-217,
-218,
-113,
-114,
-309,
-774,
-775,
-304,
-838,
-912,
-516,
-717,
-913,
-418,
-517,
-518,
-147,
-855,
-768,
-524,
-525,
-914,
-891,
-556,
-877],
+"files": [
+[508, [101,145,185]],
+[249, [270,332]],
+[257, [43,135,200,227,332,338,342,569,600,726,832,942,957,963]],
+[256, [225]],
+[258, [240]],
+[509, [103]],
+[43, [263,275,286]],
+[510, [129]],
+[511, [111,114,115]],
+[280, [177]],
+[191, [657,658,661,664,665]],
+[194, [571,572]],
+[195, [720,721,726,732]],
+[131, [81]],
+[366, [171,199,200,211]],
+[669, [213,227]],
+[106, [34]],
+[103, [35]],
+[910, [42]],
+[644, [35,36]],
+[332, [37]],
+[402, [46]],
+[151, [211,225,304,320,329,343,407]],
+[29, [324]],
+[32, [284]],
+[33, [282]],
+[512, [103]],
+[746, [91]],
+[329, [102,184]],
+[330, [106,216]],
+[208, [271]],
+[367, [171,199,200,211]],
+[570, [91]],
+[571, [101]],
+[421, [102,103]],
+[513, [103]],
+[515, [129]],
+[309, [380,381,703]],
+[740, [134]],
+[498, [153]],
+[385, [241,252]],
+[677, [82,93]],
+[386, [253]],
+[630, [84,92,110]],
+[884, [23,31]],
+[841, [127,134,146]],
+[490, [57]],
+[911, [32,40]],
+[255, [111,116]],
+[65, [56,116,133,176]],
+[198, [95,96,268,270,347,350,609]],
+[368, [171,199,200,211]],
+[272, [56]],
+[715, [69]],
+[502, [141,206,311,314]],
+[588, [155,165,166,170]],
+[587, [244,249,261,266]],
+[516, [100]],
+[114, [69,76]],
+[115, [51]],
+[470, [145]],
+[142, [108]],
+[143, [78]],
+[138, [28]],
+[144, [84]],
+[152, [195,209,288,304,313,327,396]],
+[597, [105,250,265,283,343]],
+[576, [309,356]],
+[174, [81,243,265,346,347,358]],
+[163, [257,266]],
+[175, [77,266,284,334,339,356,402,407,424]],
+[618, [243,303,369]],
+[176, [68,200,237,242,259,294,299,316]],
+[177, [68,172,209,214,231,266,271,288]],
+[164, [87,238,246,260,306,323,362,379]],
+[474, [139]],
+[218, [113,167]],
+[219, [113,167]],
+[220, [116]],
+[116, [85,91,150]],
+[117, [29,52]],
+[311, [78,106]],
+[774, [46,57]],
+[775, [50,68]],
+[306, [158,167]],
+[838, [86,113]],
+[912, [20]],
+[518, [102]],
+[718, [71,88]],
+[913, [20]],
+[422, [49]],
+[519, [103]],
+[520, [102]],
+[149, [82,134]],
+[855, [149]],
+[768, [73,75,79,81]],
+[526, [103]],
+[527, [103]],
+[914, [24,29]],
+[891, [45]],
+[558, [128]],
+[877, [35]]
+],
 "memberKind": "Field"
 }
 }
@@ -38612,13 +48749,17 @@ var contents = {
 "VisualStateChangedEventArgs":{
 "members": {
 "NewState":{
-"files": [855,
-861],
+"files": [
+[855, [73]],
+[861, [66]]
+],
 "memberKind": "Property"
 }
 ,
 "OldState":{
-"files": [861],
+"files": [
+[861, [66]]
+],
 "memberKind": "Property"
 }
 }
@@ -38627,15 +48768,17 @@ var contents = {
 "VisualStateManager":{
 "members": {
 "GoToState`3":{
-"files": [512,
-148,
-855,
-489,
-538,
-490,
-534,
-475,
-185],
+"files": [
+[514, [101]],
+[150, [74,106,116]],
+[855, [56,62,80,104,111,198,205,209]],
+[491, [40,68]],
+[540, [49,62]],
+[492, [51,81,92]],
+[536, [184,188,192]],
+[477, [110]],
+[187, [121,166,172,244]]
+],
 "memberKind": "Method"
 }
 }
@@ -38644,387 +48787,411 @@ var contents = {
 "Window":{
 "members": {
 "Activate`0":{
-"files": [107,
-108,
-1,
-854,
-9,
-2,
-10,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-29,
-32,
-33,
-12,
-0,
-39,
-4,
-109,
-13,
-14,
-15,
-16,
-110,
-111,
-112,
-17,
-5,
-40,
-8,
-18,
-19,
-20,
-21,
-199,
-22,
-23,
-24,
-25,
-26,
-27,
-28],
+"files": [
+[110, [137]],
+[111, [245]],
+[1, [55,77,92,101,108,119,136]],
+[854, [46]],
+[9, [83]],
+[2, [83,129,156]],
+[10, [89]],
+[34, [74]],
+[35, [74]],
+[36, [74]],
+[37, [74]],
+[38, [74]],
+[3, [90,250]],
+[11, [83]],
+[29, [66]],
+[32, [55]],
+[33, [53]],
+[12, [49]],
+[0, [134,187]],
+[39, [65]],
+[4, [58,84,96]],
+[112, [87]],
+[13, [101]],
+[14, [94]],
+[15, [84]],
+[16, [86]],
+[113, [74]],
+[114, [107,155]],
+[115, [102]],
+[17, [80]],
+[5, [43]],
+[40, [45]],
+[8, [64]],
+[18, [80]],
+[19, [77]],
+[20, [85]],
+[21, [67]],
+[201, [68]],
+[22, [86]],
+[23, [82]],
+[24, [85]],
+[25, [85]],
+[26, [94]],
+[27, [75]],
+[28, [120]]
+],
 "memberKind": "Method"
 }
 ,
 "Activated":{
-"files": [127],
+"files": [
+[129, [44,49]]
+],
 "memberKind": "?"
 }
 ,
 "Bounds":{
-"files": [506,
-507,
-508,
-509,
-364,
-493,
-494,
-510,
-365,
-511,
-512,
-513,
-496,
-366,
-499,
-514,
-501,
-502,
-503,
-515,
-516,
-517,
-518,
-519,
-521,
-522,
-523,
-524,
-525,
-474,
-526,
-179],
+"files": [
+[508, [93,137]],
+[509, [45,71]],
+[510, [70,96]],
+[511, [49,80]],
+[366, [106]],
+[495, [95,96]],
+[496, [57]],
+[512, [45,71]],
+[367, [106]],
+[513, [45,71]],
+[514, [100]],
+[515, [71,97]],
+[498, [54,95,103]],
+[368, [106]],
+[501, [38]],
+[516, [42,68]],
+[503, [81]],
+[504, [60,61,62,63]],
+[505, [104,105,106,107]],
+[517, [45,68]],
+[518, [44,70]],
+[519, [45,71]],
+[520, [44,70]],
+[521, [45,68]],
+[523, [45,68]],
+[524, [76]],
+[525, [106]],
+[526, [45,71]],
+[527, [45,71]],
+[476, [82,83]],
+[528, [55]],
+[181, [146]]
+],
 "memberKind": "Property"
 }
 ,
 "Close`0":{
-"files": [780,
-739,
-771],
+"files": [
+[780, [90,131]],
+[740, [127]],
+[771, [63]]
+],
 "memberKind": "Method"
 }
 ,
 "Content":{
-"files": [317,
-277,
-107,
-108,
-1,
-506,
-854,
-9,
-2,
-10,
-859,
-765,
-482,
-34,
-35,
-36,
-37,
-38,
-3,
-11,
-29,
-32,
-33,
-12,
-0,
-39,
-4,
-109,
-783,
-13,
-676,
-14,
-841,
-15,
-16,
-110,
-111,
-112,
-17,
-5,
-8,
-41,
-18,
-19,
-20,
-21,
-858,
-199,
-22,
-23,
-24,
-25,
-26,
-27,
-28,
-420,
-837,
-421,
-422],
+"files": [
+[319, [91]],
+[279, [89]],
+[110, [93,135]],
+[111, [109,244]],
+[1, [57,76,91,106,107,117,118,134,135]],
+[508, [70,71,152,154]],
+[854, [41,45]],
+[9, [53,72]],
+[2, [53,72,88,102]],
+[10, [54,73,102]],
+[859, [45]],
+[765, [41]],
+[484, [77]],
+[34, [49,63]],
+[35, [49,63]],
+[36, [49,63]],
+[37, [49,63]],
+[38, [49,63]],
+[3, [58,71,227,240]],
+[11, [53,72]],
+[29, [74]],
+[32, [53]],
+[33, [51]],
+[12, [46]],
+[0, [56,123,168,172,176]],
+[39, [85,101]],
+[4, [82,92]],
+[112, [85]],
+[783, [141]],
+[13, [64,83]],
+[677, [74]],
+[14, [57,74]],
+[841, [44]],
+[15, [19,56,73]],
+[16, [56,75]],
+[113, [70]],
+[114, [103,154]],
+[115, [98]],
+[17, [43,73]],
+[5, [28,33]],
+[8, [61]],
+[41, [103]],
+[18, [50,69,85,99]],
+[19, [49,66]],
+[20, [57,74]],
+[21, [39,56]],
+[858, [14,18,22,26,30,34]],
+[201, [45,64]],
+[22, [55,76]],
+[23, [54,71]],
+[24, [57,74]],
+[25, [57,74]],
+[26, [57,74]],
+[27, [44,64]],
+[28, [71,116]],
+[424, [36]],
+[837, [54]],
+[425, [36]],
+[426, [36]]
+],
 "memberKind": "Property"
 }
 ,
 "CoreWindow":{
-"files": [441,
-493,
-738,
-203,
-75,
-474],
+"files": [
+[443, [32]],
+[495, [99,101,113,115,248]],
+[739, [90]],
+[205, [139]],
+[75, [42]],
+[476, [92,94,110,112,238]]
+],
 "memberKind": "Property"
 }
 ,
 "Current":{
-"files": [345,
-346,
-344,
-347,
-348,
-317,
-277,
-107,
-108,
-1,
-506,
-780,
-854,
-350,
-9,
-507,
-2,
-508,
-441,
-10,
-509,
-859,
-765,
-59,
-352,
-482,
-34,
-35,
-36,
-37,
-38,
-127,
-364,
-354,
-353,
-3,
-493,
-738,
-203,
-262,
-494,
-11,
-29,
-156,
-548,
-549,
-32,
-550,
-33,
-510,
-745,
-357,
-355,
-365,
-360,
-358,
-363,
-362,
-511,
-12,
-512,
-0,
-513,
-609,
-607,
-535,
-39,
-4,
-109,
-783,
-739,
-13,
-496,
-676,
-14,
-841,
-366,
-367,
-368,
-15,
-499,
-16,
-514,
-771,
-110,
-111,
-112,
-361,
-373,
-501,
-17,
-5,
-40,
-595,
-502,
-503,
-374,
-75,
-8,
-41,
-113,
-114,
-836,
-18,
-19,
-449,
-515,
-409,
-516,
-412,
-517,
-518,
-20,
-519,
-521,
-21,
-522,
-858,
-199,
-523,
-22,
-524,
-23,
-24,
-25,
-26,
-27,
-525,
-28,
-474,
-420,
-837,
-421,
-422,
-526,
-179],
+"files": [
+[347, [73,136,155]],
+[348, [68,123,141]],
+[346, [80,145,164]],
+[349, [87,133,215]],
+[350, [79,144,163]],
+[319, [91]],
+[279, [89]],
+[110, [93,119,135,137]],
+[111, [109,228,244,245]],
+[1, [55,57,76,77,91,92,101,106,107,108,117,118,119,134,135,136]],
+[508, [70,71,93,137,152,154]],
+[780, [90,131]],
+[854, [41,45,46]],
+[352, [73,134,153]],
+[9, [53,72,83]],
+[509, [45,71]],
+[2, [53,72,83,88,102,129,156]],
+[510, [70,96]],
+[443, [32]],
+[10, [54,73,89,102]],
+[511, [49,80]],
+[859, [45]],
+[765, [41]],
+[59, [93,141,178]],
+[354, [74,135,154]],
+[484, [77]],
+[34, [49,63,74]],
+[35, [49,63,74]],
+[36, [49,63,74]],
+[37, [49,63,74]],
+[38, [49,63,74]],
+[129, [44,49]],
+[366, [67,86,106]],
+[356, [74,161,180]],
+[355, [80,169,188]],
+[3, [58,71,90,227,240,250]],
+[495, [95,96,99,101,113,115,248]],
+[739, [90]],
+[205, [139]],
+[264, [146,213,232]],
+[496, [57]],
+[11, [53,72,83]],
+[29, [42,66,74]],
+[158, [32]],
+[550, [33]],
+[551, [32]],
+[32, [53,55]],
+[552, [31]],
+[33, [51,53]],
+[512, [45,71]],
+[746, [34,41]],
+[359, [74,137,156]],
+[357, [80,145,164]],
+[367, [67,86,106]],
+[362, [74,155,174]],
+[360, [80,163,182]],
+[365, [74,135,154]],
+[364, [80,143,162]],
+[513, [45,71]],
+[12, [46,49]],
+[514, [81,100]],
+[0, [56,123,134,168,172,176,187]],
+[515, [71,97]],
+[611, [33]],
+[609, [30]],
+[537, [34]],
+[39, [65,85,101]],
+[4, [58,65,82,84,92,96]],
+[112, [85,87]],
+[783, [73,79,141]],
+[740, [127]],
+[13, [64,83,101]],
+[498, [54,95,103]],
+[677, [74]],
+[14, [57,74,94]],
+[841, [44]],
+[368, [67,86,106]],
+[369, [74,173,192]],
+[370, [80,180,199]],
+[15, [19,56,73,84]],
+[501, [38]],
+[16, [56,75,86]],
+[516, [42,68]],
+[771, [63]],
+[113, [53,70,74]],
+[114, [53,103,107,137,154,155]],
+[115, [81,98,102]],
+[363, [74,137,156]],
+[375, [74,153,172]],
+[503, [35,41,81]],
+[17, [43,73,80]],
+[5, [28,33,43]],
+[40, [45]],
+[597, [188,203]],
+[504, [60,61,62,63]],
+[505, [104,105,106,107]],
+[376, [66,157,179]],
+[75, [42]],
+[8, [61,64]],
+[41, [41,103]],
+[116, [26,36,152,157]],
+[117, [39,45]],
+[836, [35,41]],
+[18, [50,69,80,85,99]],
+[19, [49,66,77]],
+[451, [62,418]],
+[517, [45,68]],
+[413, [97]],
+[518, [44,70]],
+[416, [97]],
+[519, [45,71]],
+[520, [44,70]],
+[20, [57,74,85]],
+[521, [45,68]],
+[523, [45,68]],
+[21, [39,56,67]],
+[524, [33,76,80,87]],
+[858, [14,18,22,26,30,34]],
+[201, [45,64,68]],
+[525, [106,123,128,136]],
+[22, [55,76,86]],
+[526, [45,71]],
+[23, [54,71,82]],
+[24, [57,74,85]],
+[25, [57,74,85]],
+[26, [57,74,94]],
+[27, [44,64,75]],
+[527, [45,71]],
+[28, [71,116,120]],
+[476, [82,83,92,94,110,112,238]],
+[424, [36]],
+[837, [54]],
+[425, [36]],
+[426, [36]],
+[528, [55]],
+[181, [146]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
-"files": [107,
-108,
-29,
-156,
-548,
-549,
-550,
-609,
-607,
-535,
-4,
-110,
-111,
-112,
-409,
-412],
+"files": [
+[110, [119]],
+[111, [228]],
+[29, [42]],
+[158, [32]],
+[550, [33]],
+[551, [32]],
+[552, [31]],
+[611, [33]],
+[609, [30]],
+[537, [34]],
+[4, [65]],
+[113, [53]],
+[114, [53,137]],
+[115, [81]],
+[413, [97]],
+[416, [97]]
+],
 "memberKind": "Property"
 }
 ,
 "SetTitleBar`1":{
-"files": [113],
+"files": [
+[116, [152,157]]
+],
 "memberKind": "Method"
 }
 ,
 "SizeChanged":{
-"files": [364,
-745,
-365,
-512,
-366,
-501,
-41,
-113,
-114,
-836,
-522,
-523],
+"files": [
+[366, [67,86]],
+[746, [34,41]],
+[367, [67,86]],
+[514, [81]],
+[368, [67,86]],
+[503, [35,41]],
+[41, [41]],
+[116, [26,36]],
+[117, [39,45]],
+[836, [35,41]],
+[524, [33,80,87]],
+[525, [123,128,136]]
+],
 "memberKind": "?"
 }
 ,
 "VisibilityChanged":{
-"files": [345,
-346,
-344,
-347,
-348,
-350,
-59,
-352,
-354,
-353,
-262,
-357,
-355,
-360,
-358,
-363,
-362,
-783,
-367,
-368,
-361,
-373,
-595,
-374,
-449],
+"files": [
+[347, [73,136,155]],
+[348, [68,123,141]],
+[346, [80,145,164]],
+[349, [87,133,215]],
+[350, [79,144,163]],
+[352, [73,134,153]],
+[59, [93,141,178]],
+[354, [74,135,154]],
+[356, [74,161,180]],
+[355, [80,169,188]],
+[264, [146,213,232]],
+[359, [74,137,156]],
+[357, [80,145,164]],
+[362, [74,155,174]],
+[360, [80,163,182]],
+[365, [74,135,154]],
+[364, [80,143,162]],
+[783, [73,79]],
+[369, [74,173,192]],
+[370, [80,180,199]],
+[363, [74,137,156]],
+[375, [74,153,172]],
+[597, [188,203]],
+[376, [66,157,179]],
+[451, [62]]
+],
 "memberKind": "?"
 }
 ,
 "Visible":{
-"files": [449],
+"files": [
+[451, [418]]
+],
 "memberKind": "Property"
 }
 }
@@ -39033,7 +49200,9 @@ var contents = {
 "WindowActivatedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [127],
+"files": [
+[129, [44,49]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -39042,8 +49211,10 @@ var contents = {
 "WindowSizeChangedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [512,
-41],
+"files": [
+[514, [81]],
+[41, [41]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -39052,27 +49223,29 @@ var contents = {
 "WindowVisibilityChangedEventHandler":{
 "members": {
 ":ctor`1":{
-"files": [345,
-346,
-344,
-348,
-350,
-59,
-352,
-354,
-353,
-262,
-357,
-355,
-360,
-358,
-363,
-362,
-367,
-368,
-361,
-373,
-374],
+"files": [
+[347, [73,136,155]],
+[348, [68,123,141]],
+[346, [80,145,164]],
+[350, [79,144,163]],
+[352, [73,134,153]],
+[59, [93,141,178]],
+[354, [74,135,154]],
+[356, [74,161,180]],
+[355, [80,169,188]],
+[264, [146,213,232]],
+[359, [74,137,156]],
+[357, [80,145,164]],
+[362, [74,155,174]],
+[360, [80,163,182]],
+[365, [74,135,154]],
+[364, [80,143,162]],
+[369, [74,173,192]],
+[370, [80,180,199]],
+[363, [74,137,156]],
+[375, [74,153,172]],
+[376, [66,157,179]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -39091,42 +49264,54 @@ var contents = {
 "HttpBaseProtocolFilter":{
 "members": {
 ":ctor`0":{
-"files": [450,
-455,
-915,
-916,
-456,
-457,
-462,
-917],
+"files": [
+[452, [78]],
+[457, [53,200]],
+[915, [64]],
+[916, [51]],
+[458, [46]],
+[459, [50]],
+[464, [75]],
+[917, [17,41]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CacheControl":{
-"files": [455,
-917],
+"files": [
+[457, [101,105,109,114,118]],
+[917, [18,42]]
+],
 "memberKind": "Property"
 }
 ,
 "CookieManager":{
-"files": [915,
-916,
-462],
+"files": [
+[915, [65]],
+[916, [52]],
+[464, [76]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [455],
+"files": [
+[457, [168,198]]
+],
 "memberKind": "Method"
 }
 ,
 "IgnorableServerCertificateErrors":{
-"files": [455],
+"files": [
+[457, [129,130]]
+],
 "memberKind": "Property"
 }
 ,
 "MaxVersion":{
-"files": [455],
+"files": [
+[457, [56,204]]
+],
 "memberKind": "Property"
 }
 }
@@ -39135,13 +49320,17 @@ var contents = {
 "HttpCacheControl":{
 "members": {
 "ReadBehavior":{
-"files": [455],
+"files": [
+[457, [101,105,109]]
+],
 "memberKind": "?"
 }
 ,
 "WriteBehavior":{
-"files": [455,
-917],
+"files": [
+[457, [114,118]],
+[917, [18,42]]
+],
 "memberKind": "?"
 }
 }
@@ -39150,17 +49339,23 @@ var contents = {
 "HttpCacheReadBehavior":{
 "members": {
 "Default":{
-"files": [455],
+"files": [
+[457, [101]]
+],
 "memberKind": "Field"
 }
 ,
 "MostRecent":{
-"files": [455],
+"files": [
+[457, [105]]
+],
 "memberKind": "Field"
 }
 ,
 "OnlyFromCache":{
-"files": [455],
+"files": [
+[457, [109]]
+],
 "memberKind": "Field"
 }
 }
@@ -39169,13 +49364,17 @@ var contents = {
 "HttpCacheWriteBehavior":{
 "members": {
 "Default":{
-"files": [455],
+"files": [
+[457, [114]]
+],
 "memberKind": "Field"
 }
 ,
 "NoCache":{
-"files": [455,
-917],
+"files": [
+[457, [118]],
+[917, [18,42]]
+],
 "memberKind": "Field"
 }
 }
@@ -39184,12 +49383,16 @@ var contents = {
 "IHttpFilter":{
 "members": {
 "Dispose`0":{
-"files": [463],
+"files": [
+[465, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "SendRequestAsync`1":{
-"files": [463],
+"files": [
+[465, [38]]
+],
 "memberKind": "Method"
 }
 }
@@ -39202,18 +49405,24 @@ var contents = {
 "HttpContentHeaderCollection":{
 "members": {
 ":ctor`0":{
-"files": [205],
+"files": [
+[207, [46]]
+],
 "memberKind": "Constructor"
 }
 ,
 "ContentLength":{
-"files": [464],
+"files": [
+[466, [108]]
+],
 "memberKind": "Property"
 }
 ,
 "ContentType":{
-"files": [205,
-634],
+"files": [
+[207, [47,48]],
+[636, [138]]
+],
 "memberKind": "Property"
 }
 }
@@ -39222,7 +49431,9 @@ var contents = {
 "HttpCredentialsHeaderValue":{
 "members": {
 ":ctor`2":{
-"files": [634],
+"files": [
+[636, [143]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -39231,17 +49442,23 @@ var contents = {
 "HttpMediaTypeHeaderValue":{
 "members": {
 ":ctor`1":{
-"files": [205],
+"files": [
+[207, [47]]
+],
 "memberKind": "Constructor"
 }
 ,
 "CharSet":{
-"files": [205],
+"files": [
+[207, [48]]
+],
 "memberKind": "Property"
 }
 ,
 "Parse`1":{
-"files": [634],
+"files": [
+[636, [138]]
+],
 "memberKind": "Method"
 }
 }
@@ -39250,7 +49467,9 @@ var contents = {
 "HttpProductInfoHeaderValue":{
 "members": {
 ":ctor`2":{
-"files": [450],
+"files": [
+[452, [84]]
+],
 "memberKind": "Constructor"
 }
 }
@@ -39259,7 +49478,9 @@ var contents = {
 "HttpProductInfoHeaderValueCollection":{
 "members": {
 "Add`1":{
-"files": [450],
+"files": [
+[452, [84]]
+],
 "memberKind": "Method"
 }
 }
@@ -39268,22 +49489,30 @@ var contents = {
 "HttpRequestHeaderCollection":{
 "members": {
 "Add`2":{
-"files": [463],
+"files": [
+[465, [37]]
+],
 "memberKind": "Method"
 }
 ,
 "Authorization":{
-"files": [634],
+"files": [
+[636, [143]]
+],
 "memberKind": "?"
 }
 ,
 "TryAppendWithoutValidation`2":{
-"files": [618],
+"files": [
+[620, [65]]
+],
 "memberKind": "Method"
 }
 ,
 "UserAgent":{
-"files": [450],
+"files": [
+[452, [84]]
+],
 "memberKind": "Property"
 }
 }
@@ -39292,7 +49521,9 @@ var contents = {
 "HttpResponseHeaderCollection":{
 "members": {
 "Add`2":{
-"files": [463],
+"files": [
+[465, [42]]
+],
 "memberKind": "Method"
 }
 }
@@ -39303,85 +49534,105 @@ var contents = {
 "HttpClient":{
 "members": {
 ":ctor`0":{
-"files": [618,
-464,
-211,
-210,
-634,
-635],
+"files": [
+[620, [64]],
+[466, [50]],
+[213, [48]],
+[212, [107]],
+[636, [39,141,202]],
+[637, [38]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
-"files": [450,
-455,
-456,
-457,
-917],
+"files": [
+[452, [80]],
+[457, [65,201]],
+[458, [48]],
+[459, [52]],
+[917, [19,43]]
+],
 "memberKind": "Constructor"
 }
 ,
 "DefaultRequestHeaders":{
-"files": [618,
-450,
-634],
+"files": [
+[620, [65]],
+[452, [84]],
+[636, [143]]
+],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
-"files": [450,
-455,
-456,
-457,
-458,
-451,
-459,
-460,
-461,
-464,
-211,
-462],
+"files": [
+[452, [73]],
+[457, [174,199]],
+[458, [133]],
+[459, [140]],
+[460, [145]],
+[453, [121]],
+[461, [114]],
+[462, [136]],
+[463, [116]],
+[466, [207]],
+[213, [116]],
+[464, [147]]
+],
 "memberKind": "Method"
 }
 ,
 "GetAsync`1":{
-"files": [455,
-457,
-451,
-462],
+"files": [
+[457, [132]],
+[459, [107]],
+[453, [82]],
+[464, [114]]
+],
 "memberKind": "Method"
 }
 ,
 "GetBufferAsync`1":{
-"files": [917],
+"files": [
+[917, [23]]
+],
 "memberKind": "Method"
 }
 ,
 "GetStringAsync`1":{
-"files": [210,
-634,
-635],
+"files": [
+[212, [108]],
+[636, [40,203]],
+[637, [39]]
+],
 "memberKind": "Method"
 }
 ,
 "PostAsync`2":{
-"files": [459,
-461,
-464,
-211,
-634],
+"files": [
+[461, [80]],
+[463, [83]],
+[466, [112]],
+[213, [83]],
+[636, [144]]
+],
 "memberKind": "Method"
 }
 ,
 "SendRequestAsync`1":{
-"files": [456,
-460,
-917],
+"files": [
+[458, [95]],
+[462, [91]],
+[917, [49]]
+],
 "memberKind": "Method"
 }
 ,
 "SendRequestAsync`2":{
-"files": [458],
+"files": [
+[460, [87]]
+],
 "memberKind": "Method"
 }
 }
@@ -39390,7 +49641,9 @@ var contents = {
 "HttpCompletionOption":{
 "members": {
 "ResponseHeadersRead":{
-"files": [458],
+"files": [
+[460, [89]]
+],
 "memberKind": "Field"
 }
 }
@@ -39399,47 +49652,63 @@ var contents = {
 "HttpCookie":{
 "members": {
 ":ctor`3":{
-"files": [915,
-916],
+"files": [
+[915, [49]],
+[916, [49]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Domain":{
-"files": [462],
+"files": [
+[464, [83]]
+],
 "memberKind": "Property"
 }
 ,
 "Expires":{
-"files": [915,
-462],
+"files": [
+[915, [54,58]],
+[464, [86]]
+],
 "memberKind": "Property"
 }
 ,
 "HttpOnly":{
-"files": [915,
-462],
+"files": [
+[915, [62]],
+[464, [88]]
+],
 "memberKind": "Property"
 }
 ,
 "Name":{
-"files": [462],
+"files": [
+[464, [82]]
+],
 "memberKind": "Property"
 }
 ,
 "Path":{
-"files": [462],
+"files": [
+[464, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "Secure":{
-"files": [915,
-462],
+"files": [
+[915, [61]],
+[464, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "Value":{
-"files": [915,
-462],
+"files": [
+[915, [50]],
+[464, [85]]
+],
 "memberKind": "Property"
 }
 }
@@ -39448,7 +49717,9 @@ var contents = {
 "HttpCookieCollection":{
 "members": {
 "Count":{
-"files": [462],
+"files": [
+[464, [78]]
+],
 "memberKind": "?"
 }
 }
@@ -39457,17 +49728,23 @@ var contents = {
 "HttpCookieManager":{
 "members": {
 "DeleteCookie`1":{
-"files": [916],
+"files": [
+[916, [52]]
+],
 "memberKind": "Method"
 }
 ,
 "GetCookies`1":{
-"files": [462],
+"files": [
+[464, [76]]
+],
 "memberKind": "Method"
 }
 ,
 "SetCookie`2":{
-"files": [915],
+"files": [
+[915, [65]]
+],
 "memberKind": "Method"
 }
 }
@@ -39476,18 +49753,24 @@ var contents = {
 "HttpMethod":{
 "members": {
 "Get":{
-"files": [456,
-458],
+"files": [
+[458, [82]],
+[460, [84]]
+],
 "memberKind": "Property"
 }
 ,
 "Head":{
-"files": [917],
+"files": [
+[917, [47]]
+],
 "memberKind": "Property"
 }
 ,
 "Post":{
-"files": [460],
+"files": [
+[462, [87]]
+],
 "memberKind": "Property"
 }
 }
@@ -39496,12 +49779,16 @@ var contents = {
 "HttpMultipartFormDataContent":{
 "members": {
 ":ctor`0":{
-"files": [461],
+"files": [
+[463, [80]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Add`2":{
-"files": [461],
+"files": [
+[463, [81]]
+],
 "memberKind": "Method"
 }
 }
@@ -39510,32 +49797,44 @@ var contents = {
 "HttpProgress":{
 "members": {
 "BytesReceived":{
-"files": [464],
+"files": [
+[466, [147,183]]
+],
 "memberKind": "Field"
 }
 ,
 "BytesSent":{
-"files": [464],
+"files": [
+[466, [146,174]]
+],
 "memberKind": "Field"
 }
 ,
 "Retries":{
-"files": [464],
+"files": [
+[466, [145]]
+],
 "memberKind": "Field"
 }
 ,
 "Stage":{
-"files": [464],
+"files": [
+[466, [144,172,176]]
+],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToReceive":{
-"files": [464],
+"files": [
+[466, [161,163]]
+],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToSend":{
-"files": [464],
+"files": [
+[466, [150,152]]
+],
 "memberKind": "Field"
 }
 }
@@ -39544,17 +49843,23 @@ var contents = {
 "HttpProgressStage":{
 "members": {
 "ReceivingContent":{
-"files": [464],
+"files": [
+[466, [176]]
+],
 "memberKind": "Field"
 }
 ,
 "SendingContent":{
-"files": [464],
+"files": [
+[466, [172]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [464],
+"files": [
+[466, [144]]
+],
 "memberKind": "Method"
 }
 }
@@ -39563,25 +49868,33 @@ var contents = {
 "HttpRequestMessage":{
 "members": {
 ":ctor`2":{
-"files": [456,
-458,
-460,
-917],
+"files": [
+[458, [82]],
+[460, [84]],
+[462, [87]],
+[917, [47]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
-"files": [460],
+"files": [
+[462, [88]]
+],
 "memberKind": "?"
 }
 ,
 "Headers":{
-"files": [463],
+"files": [
+[465, [37]]
+],
 "memberKind": "Property"
 }
 ,
 "Properties":{
-"files": [456],
+"files": [
+[458, [93]]
+],
 "memberKind": "Property"
 }
 }
@@ -39590,46 +49903,62 @@ var contents = {
 "HttpResponseMessage":{
 "members": {
 "Content":{
-"files": [450,
-458,
-451],
+"files": [
+[452, [35,54]],
+[460, [94]],
+[453, [87]]
+],
 "memberKind": "Property"
 }
 ,
 "EnsureSuccessStatusCode`0":{
-"files": [451],
+"files": [
+[453, [85]]
+],
 "memberKind": "Method"
 }
 ,
 "Headers":{
-"files": [450,
-463],
+"files": [
+[452, [53]],
+[465, [42]]
+],
 "memberKind": "Property"
 }
 ,
 "IsSuccessStatusCode":{
-"files": [918],
+"files": [
+[918, [386]]
+],
 "memberKind": "Property"
 }
 ,
 "ReasonPhrase":{
-"files": [450],
+"files": [
+[452, [51]]
+],
 "memberKind": "Property"
 }
 ,
 "Source":{
-"files": [455],
+"files": [
+[457, [138]]
+],
 "memberKind": "Property"
 }
 ,
 "StatusCode":{
-"files": [450,
-601],
+"files": [
+[452, [51]],
+[603, [246]]
+],
 "memberKind": "Property"
 }
 ,
 "Version":{
-"files": [455],
+"files": [
+[457, [138]]
+],
 "memberKind": "Property"
 }
 }
@@ -39638,7 +49967,9 @@ var contents = {
 "HttpStatusCode":{
 "members": {
 "NotFound":{
-"files": [601],
+"files": [
+[603, [246]]
+],
 "memberKind": "Field"
 }
 }
@@ -39647,13 +49978,17 @@ var contents = {
 "HttpStreamContent":{
 "members": {
 ":ctor`1":{
-"files": [460,
-464],
+"files": [
+[462, [85]],
+[466, [103]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Headers":{
-"files": [464],
+"files": [
+[466, [108]]
+],
 "memberKind": "Property"
 }
 }
@@ -39662,18 +49997,24 @@ var contents = {
 "HttpStringContent":{
 "members": {
 ":ctor`1":{
-"files": [459,
-461],
+"files": [
+[461, [81]],
+[463, [81]]
+],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
-"files": [634],
+"files": [
+[636, [137]]
+],
 "memberKind": "Constructor"
 }
 ,
 "Headers":{
-"files": [634],
+"files": [
+[636, [138]]
+],
 "memberKind": "Property"
 }
 }
@@ -39682,17 +50023,23 @@ var contents = {
 "HttpVersion":{
 "members": {
 "Http11":{
-"files": [455],
+"files": [
+[457, [187]]
+],
 "memberKind": "Field"
 }
 ,
 "Http20":{
-"files": [455],
+"files": [
+[457, [56,190]]
+],
 "memberKind": "Field"
 }
 ,
 "ToString`0":{
-"files": [455],
+"files": [
+[457, [138]]
+],
 "memberKind": "Method"
 }
 }
@@ -39701,18 +50048,24 @@ var contents = {
 "IHttpContent":{
 "members": {
 "Headers":{
-"files": [450],
+"files": [
+[452, [54]]
+],
 "memberKind": "Property"
 }
 ,
 "ReadAsInputStreamAsync`0":{
-"files": [458],
+"files": [
+[460, [94]]
+],
 "memberKind": "Method"
 }
 ,
 "ReadAsStringAsync`0":{
-"files": [450,
-451],
+"files": [
+[452, [35]],
+[453, [87]]
+],
 "memberKind": "Method"
 }
 }
@@ -39725,7 +50078,9 @@ var contents = {
 "ISyndicationText":{
 "members": {
 "Text":{
-"files": [741],
+"files": [
+[742, [108,150,171]]
+],
 "memberKind": "Property"
 }
 }
@@ -39734,22 +50089,30 @@ var contents = {
 "SyndicationClient":{
 "members": {
 ":ctor`0":{
-"files": [741],
+"files": [
+[742, [64]]
+],
 "memberKind": "Constructor"
 }
 ,
 "BypassCacheOnRetrieve":{
-"files": [741],
+"files": [
+[742, [65]]
+],
 "memberKind": "Property"
 }
 ,
 "RetrieveFeedAsync`1":{
-"files": [741],
+"files": [
+[742, [76]]
+],
 "memberKind": "Method"
 }
 ,
 "SetRequestHeader`2":{
-"files": [741],
+"files": [
+[742, [69]]
+],
 "memberKind": "Method"
 }
 }
@@ -39758,7 +50121,9 @@ var contents = {
 "SyndicationContent":{
 "members": {
 "Text":{
-"files": [741],
+"files": [
+[742, [167]]
+],
 "memberKind": "Property"
 }
 }
@@ -39767,7 +50132,9 @@ var contents = {
 "SyndicationError":{
 "members": {
 "GetStatus`1":{
-"files": [741],
+"files": [
+[742, [83]]
+],
 "memberKind": "Method"
 }
 }
@@ -39776,12 +50143,16 @@ var contents = {
 "SyndicationErrorStatus":{
 "members": {
 "InvalidXml":{
-"files": [741],
+"files": [
+[742, [84]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [741],
+"files": [
+[742, [90]]
+],
 "memberKind": "Field"
 }
 }
@@ -39790,12 +50161,16 @@ var contents = {
 "SyndicationFeed":{
 "members": {
 "Items":{
-"files": [741],
+"files": [
+[742, [111,117,131,140,147]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [741],
+"files": [
+[742, [107]]
+],
 "memberKind": "Property"
 }
 }
@@ -39804,27 +50179,37 @@ var contents = {
 "SyndicationItem":{
 "members": {
 "Content":{
-"files": [741],
+"files": [
+[742, [165,167]]
+],
 "memberKind": "Property"
 }
 ,
 "ElementExtensions":{
-"files": [741],
+"files": [
+[742, [161]]
+],
 "memberKind": "Property"
 }
 ,
 "Links":{
-"files": [741],
+"files": [
+[742, [154,156]]
+],
 "memberKind": "Property"
 }
 ,
 "Summary":{
-"files": [741],
+"files": [
+[742, [169,171]]
+],
 "memberKind": "Property"
 }
 ,
 "Title":{
-"files": [741],
+"files": [
+[742, [150]]
+],
 "memberKind": "Property"
 }
 }
@@ -39835,7 +50220,9 @@ var contents = {
 "WebError":{
 "members": {
 "GetStatus`1":{
-"files": [741],
+"files": [
+[742, [92]]
+],
 "memberKind": "Method"
 }
 }
@@ -39844,35 +50231,45 @@ var contents = {
 "WebErrorStatus":{
 "members": {
 "CannotConnect":{
-"files": [629,
-631],
+"files": [
+[631, [123]],
+[633, [113]]
+],
 "memberKind": "Field"
 }
 ,
 "NotFound":{
-"files": [629,
-631],
+"files": [
+[631, [124]],
+[633, [114]]
+],
 "memberKind": "Field"
 }
 ,
 "OperationCanceled":{
-"files": [631],
+"files": [
+[633, [170,215]]
+],
 "memberKind": "Field"
 }
 ,
 "RequestTimeout":{
-"files": [629,
-631],
+"files": [
+[631, [125]],
+[633, [115]]
+],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
-"files": [453,
-454,
-223,
-741,
-629,
-631],
+"files": [
+[455, [354]],
+[456, [327]],
+[225, [282]],
+[742, [94]],
+[631, [130,159,192]],
+[633, [120,174,219,249]]
+],
 "memberKind": "Field"
 }
 }
@@ -39883,4 +50280,3 @@ var contents = {
 }
 }
 }
-;
