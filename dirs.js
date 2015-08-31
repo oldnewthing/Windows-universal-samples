@@ -83,7 +83,7 @@ var dirTable = [
 "AppServices/cs/AppServicesProvider",
 "ContentIndexer/cs",
 "OCR/cs",
-"Package/CS",
+"Package/cs",
 "SpeechRecognitionAndSynthesis/cs",
 "WebAccountManagement/cs",
 "XmlDocument/cs",
