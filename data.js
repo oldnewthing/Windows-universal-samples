@@ -295,7 +295,7 @@ var contents = {
 "files": [
 [41, [50]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ImageLocation":{
@@ -366,7 +366,7 @@ var contents = {
 "files": [
 [43, [105,108,111,114,117]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Details":{
@@ -401,7 +401,7 @@ var contents = {
 "files": [
 [43, [173]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Reminder":{
@@ -415,7 +415,7 @@ var contents = {
 "files": [
 [43, [125,128]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "StartTime":{
@@ -614,14 +614,14 @@ var contents = {
 "files": [
 [43, [224,227,230,233,236]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Role":{
 "files": [
 [43, [210,213,216]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -823,7 +823,7 @@ var contents = {
 "files": [
 [47, [82,85,88,91,94]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -986,7 +986,7 @@ var contents = {
 [53, [28]],
 [54, [37]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SendMessageAsync`1":{
@@ -1003,7 +1003,7 @@ var contents = {
 [50, [55]],
 [52, [69]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -1616,7 +1616,7 @@ var contents = {
 [63, [99]],
 [75, [197]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Name":{
@@ -1637,7 +1637,7 @@ var contents = {
 [71, [168]],
 [65, [87]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "TaskId":{
@@ -1797,7 +1797,7 @@ var contents = {
 [54, [32]],
 [92, [26]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetDeferral`0":{
@@ -1882,7 +1882,7 @@ var contents = {
 [69, [71,150]],
 [75, [99]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Name":{
@@ -1902,7 +1902,7 @@ var contents = {
 [58, [115]],
 [74, [144]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "TaskId":{
@@ -2090,7 +2090,7 @@ var contents = {
 "files": [
 [99, [133]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "IsCallActive":{
@@ -2263,14 +2263,14 @@ var contents = {
 "files": [
 [99, [157]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "LineAdded":{
 "files": [
 [99, [155]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Start`0":{
@@ -2291,7 +2291,7 @@ var contents = {
 "files": [
 [99, [156]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -2465,21 +2465,21 @@ var contents = {
 "files": [
 [101, [132]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "EndRequested":{
 "files": [
 [101, [87,133]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "HoldRequested":{
 "files": [
 [101, [88,134]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "NotifyCallActive`0":{
@@ -2512,14 +2512,14 @@ var contents = {
 "files": [
 [101, [89,135]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ResumeRequested":{
 "files": [
 [101, [90,136]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "StartTime":{
@@ -2658,7 +2658,7 @@ var contents = {
 "files": [
 [103, [90]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Locality":{
@@ -3095,7 +3095,7 @@ var contents = {
 "files": [
 [109, [37]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -3223,14 +3223,14 @@ var contents = {
 "files": [
 [116, [23,35]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "LayoutMetricsChanged":{
 "files": [
 [116, [22,34]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SystemOverlayLeftInset":{
@@ -3266,7 +3266,7 @@ var contents = {
 "files": [
 [129, [43,48]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetContent`0":{
@@ -3338,7 +3338,7 @@ var contents = {
 [148, [86,144]],
 [149, [160]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ResourceMap":{
@@ -3513,7 +3513,7 @@ var contents = {
 "files": [
 [140, [54,59]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Thumbnail":{
@@ -3521,7 +3521,7 @@ var contents = {
 [142, [42]],
 [144, [51]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Title":{
@@ -3857,7 +3857,7 @@ var contents = {
 [139, [42]],
 [145, [30,36]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
@@ -3915,7 +3915,7 @@ var contents = {
 [151, [355]],
 [152, [339]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SupportedDataFormats":{
@@ -3923,7 +3923,7 @@ var contents = {
 [151, [355]],
 [152, [339]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SupportedFileTypes":{
@@ -3931,7 +3931,7 @@ var contents = {
 [151, [355]],
 [152, [339]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Thumbnail":{
@@ -3939,7 +3939,7 @@ var contents = {
 [151, [377]],
 [152, [361]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Title":{
@@ -3947,7 +3947,7 @@ var contents = {
 [151, [355]],
 [152, [339]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -4953,14 +4953,14 @@ var contents = {
 "files": [
 [56, [309,410]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Image":{
 "files": [
 [56, [310,411]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "TextLine1":{
@@ -5113,7 +5113,7 @@ var contents = {
 "files": [
 [56, [117]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -5743,7 +5743,7 @@ var contents = {
 [225, [138,145,164,165,166,167,176,177,178,179]],
 [224, [269,277,281,286,298,304,316,321,325,329,334,339]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "NodeValue":{
@@ -6261,7 +6261,7 @@ var contents = {
 [256, [142,175]],
 [258, [177,210]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "AuthenticationMechanisms":{
@@ -6281,7 +6281,7 @@ var contents = {
 [256, [141,176]],
 [258, [176,211]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Disconnect`0":{
@@ -6301,7 +6301,7 @@ var contents = {
 [256, [143,172]],
 [258, [178,207]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -6540,7 +6540,7 @@ var contents = {
 "files": [
 [260, [97,124,142,154]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Stop`0":{
@@ -6645,7 +6645,7 @@ var contents = {
 "files": [
 [259, [116,147,166,179]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SignalStrengthFilter":{
@@ -6673,7 +6673,7 @@ var contents = {
 "files": [
 [259, [120,148,167,180]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -6718,7 +6718,7 @@ var contents = {
 [66, [82]],
 [67, [75]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -6918,7 +6918,7 @@ var contents = {
 [268, [42]],
 [269, [479]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "CreateFromDeviceClassId`1":{
@@ -7464,7 +7464,7 @@ var contents = {
 [111, [80]],
 [318, [108]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DeviceSelected":{
@@ -7473,7 +7473,7 @@ var contents = {
 [111, [74]],
 [318, [119]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DisconnectButtonClicked":{
@@ -7481,7 +7481,7 @@ var contents = {
 [110, [73]],
 [111, [77]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Filter":{
@@ -7672,7 +7672,7 @@ var contents = {
 [289, [224]],
 [291, [86,99]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "EnumerationCompleted":{
@@ -7689,7 +7689,7 @@ var contents = {
 [289, [226]],
 [291, [89,102]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetBackgroundTrigger`1":{
@@ -7717,7 +7717,7 @@ var contents = {
 [289, [225]],
 [291, [87,100]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Start`0":{
@@ -7796,7 +7796,7 @@ var contents = {
 [293, [169]],
 [291, [90,103]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Updated":{
@@ -7808,7 +7808,7 @@ var contents = {
 [285, [52,63]],
 [291, [88,101]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -8231,7 +8231,7 @@ var contents = {
 "files": [
 [327, [105,144,162,168]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "LastKnownGeoposition":{
@@ -8260,7 +8260,7 @@ var contents = {
 "files": [
 [327, [106,145,163,169]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -8444,14 +8444,14 @@ var contents = {
 [208, [287]],
 [320, [91]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "DesiredAccuracyInMeters":{
 "files": [
 [330, [95]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "GetGeopositionAsync`0":{
@@ -8467,14 +8467,14 @@ var contents = {
 "files": [
 [329, [59,89,119]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
 [329, [86]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
@@ -8493,7 +8493,7 @@ var contents = {
 "files": [
 [329, [60,92,120]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -8690,7 +8690,7 @@ var contents = {
 "files": [
 [331, [247,266]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ProductId":{
@@ -8871,7 +8871,7 @@ var contents = {
 "files": [
 [336, [108,127,166]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DeviceId":{
@@ -9664,7 +9664,7 @@ var contents = {
 "files": [
 [340, [76]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -9682,7 +9682,7 @@ var contents = {
 "files": [
 [340, [125]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "BeepDelay":{
@@ -9762,7 +9762,7 @@ var contents = {
 [296, [140,277]],
 [338, [97,166,231,256]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DeviceId":{
@@ -9802,7 +9802,7 @@ var contents = {
 [296, [137,278]],
 [338, [96,165,232,257]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RetainDevice`0":{
@@ -9868,7 +9868,7 @@ var contents = {
 "files": [
 [341, [164,185]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RetainDeviceAsync`0":{
@@ -9886,14 +9886,14 @@ var contents = {
 "files": [
 [342, [99,201]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "BankCardDataReceived":{
 "files": [
 [343, [99,191]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DeviceId":{
@@ -9933,7 +9933,7 @@ var contents = {
 [343, [94,192]],
 [342, [94,202]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RetainDevice`0":{
@@ -9981,7 +9981,7 @@ var contents = {
 [301, [62,171]],
 [302, [77,103,130,167,243,250,266,280]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RetainDeviceAsync`0":{
@@ -10409,7 +10409,7 @@ var contents = {
 "files": [
 [345, [32]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -10501,14 +10501,14 @@ var contents = {
 [350, [80,104,109,145,164]],
 [79, [40,66]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReadingTransform":{
 "files": [
 [349, [113,131]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ReportInterval":{
@@ -10533,7 +10533,7 @@ var contents = {
 "files": [
 [348, [69,90,95,124,142]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -10615,7 +10615,7 @@ var contents = {
 "files": [
 [262, [68,113,139]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SubscribedActivities":{
@@ -10762,7 +10762,7 @@ var contents = {
 "files": [
 [352, [74,98,103,135,154]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -10825,7 +10825,7 @@ var contents = {
 "files": [
 [354, [75,99,104,136,155]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -10889,7 +10889,7 @@ var contents = {
 "files": [
 [356, [75,99,104,162,181]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -10980,7 +10980,7 @@ var contents = {
 "files": [
 [264, [150,175,180,214,236]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -11049,14 +11049,14 @@ var contents = {
 "files": [
 [359, [75,99,104,138,157]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReadingTransform":{
 "files": [
 [358, [50]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ReportInterval":{
@@ -11152,7 +11152,7 @@ var contents = {
 [362, [75,99,104,156,175]],
 [363, [75,99,104,138,157]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -11249,7 +11249,7 @@ var contents = {
 "files": [
 [365, [75,99,104,136,155]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -11386,7 +11386,7 @@ var contents = {
 [369, [75,99,104,174,193]],
 [375, [75,99,104,154,173]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -11488,7 +11488,7 @@ var contents = {
 "files": [
 [268, [80,94]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReportInterval":{
@@ -11624,7 +11624,7 @@ var contents = {
 "files": [
 [286, [128,143,161]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -11927,7 +11927,7 @@ var contents = {
 [195, [744,761]],
 [376, [67,88,93,158,180]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -12001,21 +12001,21 @@ var contents = {
 "files": [
 [269, [358]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Parity":{
 "files": [
 [269, [356]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "StopBits":{
 "files": [
 [269, [357]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -12295,7 +12295,7 @@ var contents = {
 "files": [
 [386, [156,199,208]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ShouldMatchLength":{
@@ -12487,14 +12487,14 @@ var contents = {
 "files": [
 [383, [200,203,206]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "LowercaseLetters":{
 "files": [
 [383, [185,188,191]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "MaxLength":{
@@ -12515,14 +12515,14 @@ var contents = {
 "files": [
 [383, [215,218,221]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "UppercaseLetters":{
 "files": [
 [383, [170,173,176]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -12611,7 +12611,7 @@ var contents = {
 [380, [73,83]],
 [383, [98]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "CardRemoved":{
@@ -12619,7 +12619,7 @@ var contents = {
 [380, [74,84]],
 [384, [66]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DeviceId":{
@@ -13074,21 +13074,21 @@ var contents = {
 "files": [
 [401, [163,278,348]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Direction":{
 "files": [
 [401, [163,278,348]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Recipient":{
 "files": [
 [401, [163,278,348]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -13381,28 +13381,28 @@ var contents = {
 "files": [
 [401, [161,276,346]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Request":{
 "files": [
 [401, [161,276,346]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "RequestType":{
 "files": [
 [401, [161,276,346]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
 [401, [161,276]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -13450,7 +13450,7 @@ var contents = {
 "files": [
 [305, [93,100]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ConnectAsync`2":{
@@ -13720,14 +13720,14 @@ var contents = {
 "files": [
 [312, [482,610,662]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SessionInfo":{
 "files": [
 [312, [512,517]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -13784,7 +13784,7 @@ var contents = {
 "files": [
 [312, [63,335]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "AutoAcceptSession":{
@@ -13798,7 +13798,7 @@ var contents = {
 "files": [
 [312, [65,336]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ConnectAsync`1":{
@@ -13826,7 +13826,7 @@ var contents = {
 "files": [
 [307, [222,228]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "PreferGroupOwnerMode":{
@@ -13847,7 +13847,7 @@ var contents = {
 "files": [
 [307, [203,209]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ServiceName":{
@@ -13868,14 +13868,14 @@ var contents = {
 "files": [
 [307, [189]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SessionRequested":{
 "files": [
 [312, [68,337]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Start`0":{
@@ -14049,7 +14049,7 @@ var contents = {
 "files": [
 [312, [702,930]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ServiceAddress":{
@@ -14077,7 +14077,7 @@ var contents = {
 "files": [
 [312, [701,929]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Status":{
@@ -14218,7 +14218,7 @@ var contents = {
 "files": [
 [310, [85,89,93]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -14275,7 +14275,7 @@ var contents = {
 "files": [
 [310, [96,152]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Stop`0":{
@@ -14329,7 +14329,7 @@ var contents = {
 "files": [
 [310, [78,158]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -14397,7 +14397,7 @@ var contents = {
 "files": [
 [310, [223]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "FromIdAsync`2":{
@@ -14922,7 +14922,7 @@ var contents = {
 "files": [
 [196, [163]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -15103,7 +15103,7 @@ var contents = {
 [441, [188]],
 [197, [376]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "LogMessage`1":{
@@ -15317,14 +15317,14 @@ var contents = {
 "files": [
 [441, [302]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Tags":{
 "files": [
 [441, [302]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -15369,14 +15369,14 @@ var contents = {
 "files": [
 [188, [471]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ErrorCode":{
 "files": [
 [188, [482]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -15478,7 +15478,7 @@ var contents = {
 [318, [95]],
 [335, [86]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "Y":{
@@ -15497,7 +15497,7 @@ var contents = {
 [136, [65]],
 [318, [95]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -15624,7 +15624,7 @@ var contents = {
 [457, [400]],
 [451, [82]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "Intersect`1":{
@@ -15723,7 +15723,7 @@ var contents = {
 [505, [55]],
 [181, [146]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "X":{
@@ -15734,7 +15734,7 @@ var contents = {
 [462, [112]],
 [483, [34]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "Y":{
@@ -15745,7 +15745,7 @@ var contents = {
 [462, [113]],
 [483, [35]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -15793,7 +15793,7 @@ var contents = {
 [469, [75]],
 [470, [243,252,262,325,353,426]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "Width":{
@@ -15815,7 +15815,7 @@ var contents = {
 [513, [181,185]],
 [514, [182,186]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -15977,7 +15977,7 @@ var contents = {
 "files": [
 [442, [57,81,111,162]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Equals`1":{
@@ -17251,14 +17251,14 @@ var contents = {
 "files": [
 [533, [76,80]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "NumberRounder":{
 "files": [
 [534, [74]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ParseDouble`1":{
@@ -17355,7 +17355,7 @@ var contents = {
 [545, [133,215]],
 [534, [72]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ParseDouble`1":{
@@ -17545,7 +17545,7 @@ var contents = {
 "files": [
 [534, [76]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ParseDouble`1":{
@@ -17600,7 +17600,7 @@ var contents = {
 "files": [
 [534, [78]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -17774,7 +17774,7 @@ var contents = {
 [551, [29]],
 [473, [27]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
@@ -17823,7 +17823,7 @@ var contents = {
 [549, [34,40]],
 [198, [83,106,125,141]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RawPixelsPerViewPixel":{
@@ -18463,7 +18463,7 @@ var contents = {
 "files": [
 [200, [377,525]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Rotation":{
@@ -18471,7 +18471,7 @@ var contents = {
 [471, [595,601,606]],
 [200, [404,522]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ScaledHeight":{
@@ -18722,7 +18722,7 @@ var contents = {
 [554, [129]],
 [471, [192]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Options":{
@@ -18751,7 +18751,7 @@ var contents = {
 "files": [
 [479, [92,111]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ShowPrintUIAsync`0":{
@@ -18815,7 +18815,7 @@ var contents = {
 [554, [133]],
 [471, [196]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Options":{
@@ -18866,14 +18866,14 @@ var contents = {
 "files": [
 [556, [51]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Orientation":{
 "files": [
 [471, [189]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -19069,7 +19069,7 @@ var contents = {
 "files": [
 [429, [105]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "LoopCount":{
@@ -19173,7 +19173,7 @@ var contents = {
 "files": [
 [558, [166]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Start`0":{
@@ -19302,7 +19302,7 @@ var contents = {
 "files": [
 [295, [233]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -19353,14 +19353,14 @@ var contents = {
 "files": [
 [295, [183]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "QuantumSizeSelectionMode":{
 "files": [
 [295, [182]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -19745,7 +19745,7 @@ var contents = {
 "files": [
 [193, [524]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "CaptureAsync`1":{
@@ -19766,7 +19766,7 @@ var contents = {
 "files": [
 [193, [525]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -19825,7 +19825,7 @@ var contents = {
 [189, [162]],
 [190, [170]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "CapturePhotoToStreamAsync`2":{
@@ -19870,7 +19870,7 @@ var contents = {
 [198, [378,522]],
 [278, [73,92]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "FindAllVideoProfiles`1":{
@@ -19966,7 +19966,7 @@ var contents = {
 [194, [265,506]],
 [195, [307,652]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SetEncodingPropertiesAsync`3":{
@@ -20112,7 +20112,7 @@ var contents = {
 "files": [
 [563, [43]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "RecordMediaDescription":{
@@ -20129,7 +20129,7 @@ var contents = {
 [190, [168]],
 [563, [42]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "VideoDeviceId":{
@@ -20384,7 +20384,7 @@ var contents = {
 [460, [95]],
 [280, [162]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RequestStartCastingAsync`1":{
@@ -20414,7 +20414,7 @@ var contents = {
 [460, [96]],
 [280, [163]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -20558,7 +20558,7 @@ var contents = {
 "files": [
 [319, [67]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "CastingDeviceSelected":{
@@ -20566,7 +20566,7 @@ var contents = {
 [319, [64]],
 [460, [42]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Filter":{
@@ -20664,7 +20664,7 @@ var contents = {
 "files": [
 [191, [444,463]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -20682,7 +20682,7 @@ var contents = {
 "files": [
 [191, [438]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SynchronousDetectionEnabled":{
@@ -20858,7 +20858,7 @@ var contents = {
 "files": [
 [571, [259]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Duration":{
@@ -20879,7 +20879,7 @@ var contents = {
 "files": [
 [571, [257]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReadyState":{
@@ -20904,7 +20904,7 @@ var contents = {
 "files": [
 [193, [477,492]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -20966,7 +20966,7 @@ var contents = {
 "files": [
 [568, [53,54,55]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -21002,7 +21002,7 @@ var contents = {
 "files": [
 [195, [455,532]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetRecommendedStreamConfiguration`2":{
@@ -21053,7 +21053,7 @@ var contents = {
 "files": [
 [193, [513]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -21105,7 +21105,7 @@ var contents = {
 "files": [
 [277, [109]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -21374,21 +21374,21 @@ var contents = {
 "files": [
 [279, [77]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DialDeviceSelected":{
 "files": [
 [279, [71]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DisconnectButtonClicked":{
 "files": [
 [279, [74]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Filter":{
@@ -21798,7 +21798,7 @@ var contents = {
 "files": [
 [30, [311,671]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PhotosCount":{
@@ -22075,7 +22075,7 @@ var contents = {
 "files": [
 [30, [786,791,796,801]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -22430,7 +22430,7 @@ var contents = {
 [564, [318]],
 [578, [153]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "CreateAvi`1":{
@@ -22781,14 +22781,14 @@ var contents = {
 "files": [
 [188, [438,447]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "MessageReceivedFromForeground":{
 "files": [
 [78, [116,172]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SendMessageToBackground`1":{
@@ -22877,7 +22877,7 @@ var contents = {
 [567, [35]],
 [568, [65]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "VideoTracks":{
@@ -22920,7 +22920,7 @@ var contents = {
 [78, [167,316,327,521]],
 [463, [103]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Items":{
@@ -23002,7 +23002,7 @@ var contents = {
 [188, [437,446]],
 [78, [113]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Pause`0":{
@@ -23039,7 +23039,7 @@ var contents = {
 "files": [
 [78, [518]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SystemMediaTransportControls":{
@@ -23236,7 +23236,7 @@ var contents = {
 "files": [
 [418, [103]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Properties":{
@@ -23250,7 +23250,7 @@ var contents = {
 "files": [
 [418, [104]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -23516,7 +23516,7 @@ var contents = {
 [163, [182,201,250]],
 [586, [89,122,141]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PauseAsync`0":{
@@ -23533,7 +23533,7 @@ var contents = {
 [163, [183,202,251]],
 [586, [90,123,142]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Resume`0":{
@@ -23917,7 +23917,7 @@ var contents = {
 "files": [
 [543, [156,183,207]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RecognizeAsync`0":{
@@ -23965,7 +23965,7 @@ var contents = {
 [177, [124,141,151]],
 [164, [182,199,221]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SupportedGrammarLanguages":{
@@ -24247,21 +24247,21 @@ var contents = {
 "files": [
 [587, [77]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DownloadCompleted":{
 "files": [
 [588, [77]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DownloadFailed":{
 "files": [
 [588, [78]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DownloadRequested":{
@@ -24269,7 +24269,7 @@ var contents = {
 [587, [74]],
 [588, [74]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "InboundBitsPerSecond":{
@@ -24297,7 +24297,7 @@ var contents = {
 "files": [
 [587, [78]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -24460,14 +24460,14 @@ var contents = {
 "files": [
 [562, [239]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "AutoRepeatModeChangeRequested":{
 "files": [
 [562, [121,172]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ButtonPressed":{
@@ -24476,7 +24476,7 @@ var contents = {
 [78, [97,173]],
 [562, [118,167]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "DisplayUpdater":{
@@ -24554,7 +24554,7 @@ var contents = {
 "files": [
 [562, [120,171]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PlaybackRate":{
@@ -24568,7 +24568,7 @@ var contents = {
 "files": [
 [562, [119,170]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PlaybackStatus":{
@@ -24577,7 +24577,7 @@ var contents = {
 [78, [195,201,383,395,409,413,417,478]],
 [562, [182,470,488,492,496]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "PropertyChanged":{
@@ -24591,7 +24591,7 @@ var contents = {
 [195, [751,765]],
 [562, [175]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SoundLevel":{
@@ -24702,14 +24702,14 @@ var contents = {
 "files": [
 [78, [207,209]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Type":{
 "files": [
 [78, [202]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Update`0":{
@@ -24844,7 +24844,7 @@ var contents = {
 [577, [108,112]],
 [515, [118,122]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -24977,14 +24977,14 @@ var contents = {
 "files": [
 [225, [182]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "FailureToastNotification":{
 "files": [
 [225, [148]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "GetCurrentDownloadsAsync`0":{
@@ -25012,21 +25012,21 @@ var contents = {
 "files": [
 [225, [170]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SuccessToastNotification":{
 "files": [
 [225, [141]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "TransferGroup":{
 "files": [
 [225, [134,158]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -25163,7 +25163,7 @@ var contents = {
 "files": [
 [225, [61]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -25345,7 +25345,7 @@ var contents = {
 "files": [
 [589, [156]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Progress":{
@@ -25933,7 +25933,7 @@ var contents = {
 [257, [590]],
 [306, [82]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -26186,28 +26186,28 @@ var contents = {
 "files": [
 [597, [100]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "AccountRemoved":{
 "files": [
 [597, [139]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "AccountUpdated":{
 "files": [
 [597, [121]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "EnumerationCompleted":{
 "files": [
 [597, [156]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Start`0":{
@@ -26235,7 +26235,7 @@ var contents = {
 "files": [
 [597, [164]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -26941,7 +26941,7 @@ var contents = {
 [592, [130]],
 [312, [1071,1284]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "OutputStream":{
@@ -27041,7 +27041,7 @@ var contents = {
 "files": [
 [601, [83]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ConnectAsync`1":{
@@ -27069,7 +27069,7 @@ var contents = {
 "files": [
 [601, [80]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "OutputStream":{
@@ -27087,7 +27087,7 @@ var contents = {
 "files": [
 [601, [79]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -27406,7 +27406,7 @@ var contents = {
 "files": [
 [594, [89]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "IgnorableServerCertificateErrors":{
@@ -27507,7 +27507,7 @@ var contents = {
 [310, [235]],
 [312, [978,1013]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Control":{
@@ -27590,7 +27590,7 @@ var contents = {
 "files": [
 [603, [82]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ConnectAsync`1":{
@@ -27688,7 +27688,7 @@ var contents = {
 [451, [87,106]],
 [452, [70]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "CameraPressed":{
@@ -27697,7 +27697,7 @@ var contents = {
 [193, [734,757]],
 [194, [591,614]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -28387,7 +28387,7 @@ var contents = {
 "files": [
 [614, [90,97,101,105,109,113,117,123]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Caption":{
@@ -28401,7 +28401,7 @@ var contents = {
 "files": [
 [614, [138,142,146]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "CustomAuthenticationProtocol":{
@@ -29233,21 +29233,21 @@ var contents = {
 "files": [
 [83, [48]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ProtectedAccessSuspending":{
 "files": [
 [83, [47]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ProtectedContentRevoked":{
 "files": [
 [629, [47]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RequestAccessAsync`2":{
@@ -29857,7 +29857,7 @@ var contents = {
 [638, [77,91]],
 [639, [94,108]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "LocalCacheFolder":{
@@ -30838,7 +30838,7 @@ var contents = {
 [225, [259,265,294]],
 [600, [83]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -31173,7 +31173,7 @@ var contents = {
 [566, [54]],
 [512, [43]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ViewMode":{
@@ -31200,7 +31200,7 @@ var contents = {
 [562, [337]],
 [566, [53]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -31272,7 +31272,7 @@ var contents = {
 [481, [161]],
 [512, [62]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -31318,14 +31318,14 @@ var contents = {
 [696, [40]],
 [697, [82]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ViewMode":{
 "files": [
 [696, [39]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -31500,7 +31500,7 @@ var contents = {
 [649, [65,70]],
 [520, [64,69]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RemoveFile`1":{
@@ -31543,7 +31543,7 @@ var contents = {
 [650, [50,55]],
 [651, [53,58]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -31565,7 +31565,7 @@ var contents = {
 [650, [42]],
 [651, [45]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -31652,14 +31652,14 @@ var contents = {
 "files": [
 [29, [53]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "UIRequested":{
 "files": [
 [29, [54]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "UIStatus":{
@@ -31701,7 +31701,7 @@ var contents = {
 [648, [58,75]],
 [29, [86,92]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "UpdateLocalFile`1":{
@@ -32021,7 +32021,7 @@ var contents = {
 "files": [
 [699, [85]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "StreamContentType":{
@@ -32096,7 +32096,7 @@ var contents = {
 [413, [111]],
 [416, [111]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SetPropertyPrefetch`2":{
@@ -32126,7 +32126,7 @@ var contents = {
 [413, [113]],
 [416, [113]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetFilesAsync`0":{
@@ -32794,7 +32794,7 @@ var contents = {
 [687, [58]],
 [688, [73]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Folders":{
@@ -32927,7 +32927,7 @@ var contents = {
 [313, [42]],
 [312, [1078,1243]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "DetachBuffer`0":{
@@ -32983,7 +32983,7 @@ var contents = {
 [91, [42]],
 [76, [101]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "LoadAsync`1":{
@@ -33103,7 +33103,7 @@ var contents = {
 [313, [41]],
 [312, [1077,1242]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -33186,7 +33186,7 @@ var contents = {
 [313, [46]],
 [312, [1082]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "DetachBuffer`0":{
@@ -33290,7 +33290,7 @@ var contents = {
 [313, [45]],
 [312, [1081]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "WriteBuffer`3":{
@@ -33899,7 +33899,7 @@ var contents = {
 [156, [157,161,165,169,173,177]],
 [442, [134,138,142,146,150,154]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "DisplayApplicationPicker":{
@@ -33950,7 +33950,7 @@ var contents = {
 [156, [124]],
 [442, [105]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -34297,21 +34297,21 @@ var contents = {
 "files": [
 [718, [51,67]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "EnumerationCompleted":{
 "files": [
 [718, [54,70]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Removed":{
 "files": [
 [718, [53,69]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Start`0":{
@@ -34332,14 +34332,14 @@ var contents = {
 "files": [
 [718, [55,71]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Updated":{
 "files": [
 [718, [52,68]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -34549,7 +34549,7 @@ var contents = {
 [425, [48,55]],
 [426, [49,56]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
@@ -34779,7 +34779,7 @@ var contents = {
 [731, [24]],
 [732, [24]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "B":{
@@ -34790,7 +34790,7 @@ var contents = {
 [731, [24]],
 [732, [24]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "FromArgb`4":{
@@ -34827,7 +34827,7 @@ var contents = {
 [731, [24]],
 [732, [24]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "R":{
@@ -34838,7 +34838,7 @@ var contents = {
 [731, [24]],
 [732, [24]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 ,
 "ToString`0":{
@@ -36716,7 +36716,7 @@ var contents = {
 [472, [99,113]],
 [451, [92,110]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "HasThreadAccess":{
@@ -37227,7 +37227,7 @@ var contents = {
 [472, [101,115]],
 [451, [94,112]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "VisibilityChanged":{
@@ -37237,7 +37237,7 @@ var contents = {
 [327, [80]],
 [753, [93,100]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -37328,7 +37328,7 @@ var contents = {
 [450, [70]],
 [518, [76,83]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
@@ -37423,35 +37423,35 @@ var contents = {
 "files": [
 [459, [107,227,228,235,236,243,252,256,265]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ManipulationCompleted":{
 "files": [
 [459, [118]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ManipulationInertiaStarting":{
 "files": [
 [459, [119]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ManipulationStarted":{
 "files": [
 [459, [116]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ManipulationUpdated":{
 "files": [
 [459, [117]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ProcessDownEvent`1":{
@@ -37587,7 +37587,7 @@ var contents = {
 [481, [121,129,136]],
 [508, [87]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "PenTipTransform":{
@@ -37650,7 +37650,7 @@ var contents = {
 "files": [
 [508, [35]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "StrokeContainer":{
@@ -39050,7 +39050,7 @@ var contents = {
 [725, [111]],
 [734, [109]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -39076,7 +39076,7 @@ var contents = {
 [448, [119]],
 [734, [113]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ShowNameOnSquare150x150Logo":{
@@ -39348,7 +39348,7 @@ var contents = {
 "files": [
 [482, [69]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -39385,7 +39385,7 @@ var contents = {
 "files": [
 [512, [100]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ForegroundColor":{
@@ -39399,7 +39399,7 @@ var contents = {
 "files": [
 [512, [111]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -39421,7 +39421,7 @@ var contents = {
 "files": [
 [512, [99,101,110,112]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -39478,7 +39478,7 @@ var contents = {
 [751, [92,98]],
 [753, [92,99]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ExitFullScreenMode`0":{
@@ -39495,7 +39495,7 @@ var contents = {
 "files": [
 [727, [77]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "GetApplicationViewIdForWindow`1":{
@@ -39641,7 +39641,7 @@ var contents = {
 [476, [35,44]],
 [499, [39]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -39853,7 +39853,7 @@ var contents = {
 "files": [
 [114, [44,52]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "RequestStartProjectingAsync`4":{
@@ -40108,7 +40108,7 @@ var contents = {
 [198, [73]],
 [550, [39]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Suspending":{
@@ -40121,14 +40121,14 @@ var contents = {
 [195, [84]],
 [198, [72]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "UnhandledException":{
 "files": [
 [1, [53]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -40190,7 +40190,7 @@ var contents = {
 "files": [
 [823, [66,71,78,83]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Label":{
@@ -40219,7 +40219,7 @@ var contents = {
 "files": [
 [507, [82,83,108,109,110]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Measure`1":{
@@ -40257,14 +40257,14 @@ var contents = {
 [825, [60]],
 [826, [60]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "IsChecked":{
 "files": [
 [826, [90,93,96,99]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Label":{
@@ -40280,7 +40280,7 @@ var contents = {
 "files": [
 [826, [85]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40292,7 +40292,7 @@ var contents = {
 [827, [54]],
 [524, [69,71]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Text":{
@@ -40386,14 +40386,14 @@ var contents = {
 "files": [
 [459, [188,213,220]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "DataContext":{
 "files": [
 [149, [172]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "HeightProperty":{
@@ -40401,7 +40401,7 @@ var contents = {
 [198, [255]],
 [159, [239]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "MarginProperty":{
@@ -40409,7 +40409,7 @@ var contents = {
 [198, [253]],
 [159, [237]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SetBinding`2":{
@@ -40425,7 +40425,7 @@ var contents = {
 [198, [254]],
 [159, [238]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40447,7 +40447,7 @@ var contents = {
 "files": [
 [481, [84]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Click":{
@@ -40474,7 +40474,7 @@ var contents = {
 [306, [71,76]],
 [822, [75]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "DataContext":{
@@ -40482,14 +40482,14 @@ var contents = {
 [679, [52,83]],
 [323, [58]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "DesiredSize":{
 "files": [
 [507, [51]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "IsEnabled":{
@@ -40510,7 +40510,7 @@ var contents = {
 [425, [61,67,72,78]],
 [426, [62,68,73,79]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Name":{
@@ -40522,7 +40522,7 @@ var contents = {
 [834, [33]],
 [512, [121]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Style":{
@@ -40538,7 +40538,7 @@ var contents = {
 [405, [60,71]],
 [822, [72,76,98]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "TransformToVisual`1":{
@@ -40553,7 +40553,7 @@ var contents = {
 "files": [
 [507, [49]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Width":{
@@ -40561,7 +40561,7 @@ var contents = {
 [188, [411]],
 [463, [216]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40580,14 +40580,14 @@ var contents = {
 [479, [113,146,189,303]],
 [471, [573,574]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Height":{
 "files": [
 [471, [521,545]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "InvalidateMeasure`0":{
@@ -40647,7 +40647,7 @@ var contents = {
 "files": [
 [471, [521,544]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40658,14 +40658,14 @@ var contents = {
 "files": [
 [191, [1040,1058,1061,1063,1074]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "ActualWidth":{
 "files": [
 [191, [1040,1057,1061,1066,1071]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40676,7 +40676,7 @@ var contents = {
 "files": [
 [204, [41]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Header":{
@@ -40690,14 +40690,14 @@ var contents = {
 "files": [
 [309, [702]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Items":{
 "files": [
 [309, [692,697]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedIndex":{
@@ -40708,7 +40708,7 @@ var contents = {
 [204, [45]],
 [513, [36,74,100,129,155]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedItem":{
@@ -40718,7 +40718,7 @@ var contents = {
 [835, [184]],
 [531, [49]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedValue":{
@@ -40726,7 +40726,7 @@ var contents = {
 [526, [110,119]],
 [180, [64]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Visibility":{
@@ -40779,7 +40779,7 @@ var contents = {
 [837, [21]],
 [505, [94,99]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "IsSelected":{
@@ -40794,7 +40794,7 @@ var contents = {
 [178, [121]],
 [179, [120]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Name":{
@@ -40803,7 +40803,7 @@ var contents = {
 [178, [113]],
 [179, [112]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Tag":{
@@ -40818,7 +40818,7 @@ var contents = {
 [178, [114,135]],
 [179, [113,134]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40830,14 +40830,14 @@ var contents = {
 [822, [36]],
 [823, [36,49]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "IsSticky":{
 "files": [
 [823, [37]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "MeasureOverride`1":{
@@ -40930,7 +40930,7 @@ var contents = {
 "files": [
 [839, [10]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -40952,7 +40952,7 @@ var contents = {
 [758, [109]],
 [840, [39]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "PrimaryButtonText":{
@@ -41074,14 +41074,14 @@ var contents = {
 "files": [
 [154, [76]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
 [154, [77]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Hide`0":{
@@ -41255,7 +41255,7 @@ var contents = {
 [825, [37]],
 [826, [37]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "CurrentSourcePageType":{
@@ -41350,7 +41350,7 @@ var contents = {
 [201, [54]],
 [28, [91]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Navigate`1":{
@@ -41476,7 +41476,7 @@ var contents = {
 [27, [53]],
 [28, [93]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SetNavigationState`1":{
@@ -41527,7 +41527,7 @@ var contents = {
 "files": [
 [471, [572]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "ColumnDefinitions":{
@@ -41564,7 +41564,7 @@ var contents = {
 [479, [299]],
 [471, [537,545]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "RowDefinitions":{
@@ -41626,7 +41626,7 @@ var contents = {
 [479, [298]],
 [471, [537,544]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -41637,7 +41637,7 @@ var contents = {
 "files": [
 [853, [56]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -41659,7 +41659,7 @@ var contents = {
 "files": [
 [514, [126]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Header":{
@@ -41688,7 +41688,7 @@ var contents = {
 "files": [
 [723, [178]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Tag":{
@@ -41722,7 +41722,7 @@ var contents = {
 [504, [108]],
 [167, [162]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -41753,7 +41753,7 @@ var contents = {
 "files": [
 [471, [568]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "HorizontalAlignment":{
@@ -41779,7 +41779,7 @@ var contents = {
 [757, [71]],
 [758, [104]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Stretch":{
@@ -41788,7 +41788,7 @@ var contents = {
 [757, [74]],
 [758, [107]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "VerticalAlignment":{
@@ -41813,7 +41813,7 @@ var contents = {
 "files": [
 [471, [567]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -41902,14 +41902,14 @@ var contents = {
 "files": [
 [154, [70]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ItemTemplate":{
 "files": [
 [154, [70]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Loaded":{
@@ -41928,7 +41928,7 @@ var contents = {
 [285, [113,126]],
 [294, [358]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Items":{
@@ -41937,7 +41937,7 @@ var contents = {
 [285, [110,112,119,123]],
 [294, [344,345,346,347,348,349,352,355]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedIndex":{
@@ -41948,7 +41948,7 @@ var contents = {
 [445, [107]],
 [449, [91]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedItem":{
@@ -41974,14 +41974,14 @@ var contents = {
 [503, [67]],
 [504, [67]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedValue":{
 "files": [
 [400, [130]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42005,7 +42005,7 @@ var contents = {
 [33, [175,258]],
 [599, [67,95]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Name":{
@@ -42016,7 +42016,7 @@ var contents = {
 [858, [44]],
 [599, [66]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42027,7 +42027,7 @@ var contents = {
 "files": [
 [847, [104]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "OnApplyTemplate`0":{
@@ -42051,7 +42051,7 @@ var contents = {
 [757, [59]],
 [758, [129]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedItems":{
@@ -42059,14 +42059,14 @@ var contents = {
 [749, [70]],
 [857, [56]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectedValue":{
 "files": [
 [847, [77,79]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SelectionChanged":{
@@ -42080,7 +42080,7 @@ var contents = {
 "files": [
 [749, [70]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42092,14 +42092,14 @@ var contents = {
 [838, [76]],
 [335, [120]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "ContentTemplateRoot":{
 "files": [
 [335, [125]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "FindName`1":{
@@ -42120,21 +42120,21 @@ var contents = {
 "files": [
 [726, [98,102]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "IsTabStop":{
 "files": [
 [450, [214,216]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Padding":{
 "files": [
 [335, [124]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42214,14 +42214,14 @@ var contents = {
 "files": [
 [322, [58]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Location":{
 "files": [
 [322, [55]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "NormalizedAnchorPoint":{
@@ -42242,7 +42242,7 @@ var contents = {
 "files": [
 [322, [59]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42278,7 +42278,7 @@ var contents = {
 "files": [
 [322, [72]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "StrokeColor":{
@@ -42306,7 +42306,7 @@ var contents = {
 "files": [
 [322, [80]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42324,7 +42324,7 @@ var contents = {
 "files": [
 [322, [93]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "StrokeColor":{
@@ -42444,14 +42444,14 @@ var contents = {
 "files": [
 [571, [207]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "MediaOpened":{
 "files": [
 [571, [184]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Play`0":{
@@ -42473,7 +42473,7 @@ var contents = {
 "files": [
 [418, [120]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SetMediaStreamSource`1":{
@@ -42562,7 +42562,7 @@ var contents = {
 "files": [
 [860, [35]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42599,7 +42599,7 @@ var contents = {
 [472, [95]],
 [451, [82]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "ActualWidth":{
@@ -42607,14 +42607,14 @@ var contents = {
 [472, [96]],
 [451, [83]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Dispatcher":{
 "files": [
 [479, [167]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "FindName`1":{
@@ -42881,7 +42881,7 @@ var contents = {
 "files": [
 [550, [77,92,97,102,108]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42905,14 +42905,14 @@ var contents = {
 "files": [
 [181, [130]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Tag":{
 "files": [
 [822, [55,57,63]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -42930,7 +42930,7 @@ var contents = {
 "files": [
 [859, [46]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ShowAt`1":{
@@ -42987,7 +42987,7 @@ var contents = {
 "files": [
 [838, [99]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SetValue`2":{
@@ -43021,7 +43021,7 @@ var contents = {
 "files": [
 [869, [35]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Tag":{
@@ -43032,7 +43032,7 @@ var contents = {
 [863, [33]],
 [870, [34,56]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -43075,7 +43075,7 @@ var contents = {
 "files": [
 [554, [262,265]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Visibility":{
@@ -43101,7 +43101,7 @@ var contents = {
 "files": [
 [871, [19]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "SetValue`2":{
@@ -43117,7 +43117,7 @@ var contents = {
 [479, [206,311]],
 [555, [166]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -43425,7 +43425,7 @@ var contents = {
 [334, [203,224]],
 [452, [107]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Visibility":{
@@ -43620,7 +43620,7 @@ var contents = {
 "files": [
 [612, [96,113,158]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "FontFamily":{
@@ -43670,7 +43670,7 @@ var contents = {
 "files": [
 [334, [213,217,221]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Inlines":{
@@ -43685,7 +43685,7 @@ var contents = {
 [685, [91,93]],
 [670, [119,121]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Style":{
@@ -43726,7 +43726,7 @@ var contents = {
 [670, [109,118]],
 [696, [79]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Visibility":{
@@ -43745,7 +43745,7 @@ var contents = {
 [601, [226]],
 [603, [283]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "GetRectFromCharacterIndex`2":{
@@ -43836,7 +43836,7 @@ var contents = {
 "files": [
 [482, [75]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "IsOpen":{
@@ -43904,7 +43904,7 @@ var contents = {
 "files": [
 [550, [91,96,101,107]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "IsEnabled":{
@@ -43924,7 +43924,7 @@ var contents = {
 [810, [26,44,49,71]],
 [64, [34,47]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Loaded":{
@@ -43983,7 +43983,7 @@ var contents = {
 "files": [
 [873, [156]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -44235,7 +44235,7 @@ var contents = {
 [518, [54]],
 [519, [38]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -44273,7 +44273,7 @@ var contents = {
 "files": [
 [404, [501]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -44388,7 +44388,7 @@ var contents = {
 [150, [76,120]],
 [149, [183,195]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "DataView":{
@@ -44691,14 +44691,14 @@ var contents = {
 "files": [
 [884, [27]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SizeChanged":{
 "files": [
 [510, [49,52]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Tag":{
@@ -44779,7 +44779,7 @@ var contents = {
 [555, [161,162]],
 [882, [50]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -44949,7 +44949,7 @@ var contents = {
 "files": [
 [464, [112]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -45179,7 +45179,7 @@ var contents = {
 "files": [
 [464, [143]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -45208,7 +45208,7 @@ var contents = {
 "files": [
 [469, [109]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -45224,7 +45224,7 @@ var contents = {
 [413, [140,166]],
 [416, [140,166]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -45359,21 +45359,21 @@ var contents = {
 "files": [
 [721, [203]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "KeyTime":{
 "files": [
 [721, [194,199,204]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Value":{
 "files": [
 [721, [209,210,211,218,219,220]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -45628,7 +45628,7 @@ var contents = {
 "files": [
 [457, [64]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 }
 }
@@ -45888,7 +45888,7 @@ var contents = {
 [198, [300]],
 [471, [564,568]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "PixelWidth":{
@@ -45898,7 +45898,7 @@ var contents = {
 [198, [299]],
 [471, [563,567]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -46121,7 +46121,7 @@ var contents = {
 [198, [207,295]],
 [159, [138]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "CenterY":{
@@ -46129,7 +46129,7 @@ var contents = {
 [198, [207,295]],
 [159, [138]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ScaleX":{
@@ -46137,7 +46137,7 @@ var contents = {
 [198, [207,295]],
 [159, [138]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "ScaleY":{
@@ -46145,7 +46145,7 @@ var contents = {
 [198, [207,295]],
 [159, [138]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "TransformBounds`1":{
@@ -46662,7 +46662,7 @@ var contents = {
 "files": [
 [479, [89,107]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "AddPagesComplete`0":{
@@ -46684,14 +46684,14 @@ var contents = {
 "files": [
 [479, [88,106]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Paginate":{
 "files": [
 [479, [87,105]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "SetPreviewPage`2":{
@@ -46885,7 +46885,7 @@ var contents = {
 [191, [1018]],
 [335, [120]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "HorizontalAlignment":{
@@ -46902,21 +46902,21 @@ var contents = {
 [190, [315]],
 [335, [124]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Name":{
 "files": [
 [335, [119]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Opacity":{
 "files": [
 [335, [137,147]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "SetValue`2":{
@@ -46943,7 +46943,7 @@ var contents = {
 [190, [314]],
 [191, [973]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Tag":{
@@ -46951,7 +46951,7 @@ var contents = {
 [552, [106,273]],
 [189, [287,451]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Width":{
@@ -46962,7 +46962,7 @@ var contents = {
 [191, [1017]],
 [335, [122]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 }
 }
@@ -47068,7 +47068,7 @@ var contents = {
 [670, [120]],
 [335, [124]]
 ],
-"memberKind": "?"
+"memberKind": "Field"
 }
 }
 }
@@ -47102,7 +47102,7 @@ var contents = {
 "files": [
 [345, [39]]
 ],
-"memberKind": "Property"
+"memberKind": "?"
 }
 ,
 "Measure`1":{
@@ -47118,28 +47118,28 @@ var contents = {
 "files": [
 [459, [113]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PointerCaptureLost":{
 "files": [
 [335, [51,66]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PointerExited":{
 "files": [
 [335, [52,67]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PointerMoved":{
 "files": [
 [459, [111]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PointerPressed":{
@@ -47147,7 +47147,7 @@ var contents = {
 [459, [110]],
 [335, [49,64]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "PointerReleased":{
@@ -47155,7 +47155,7 @@ var contents = {
 [459, [112]],
 [335, [50,65]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "ReleasePointerCapture`1":{
@@ -47169,7 +47169,7 @@ var contents = {
 "files": [
 [459, [131,262]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Transform3D":{
@@ -47184,7 +47184,7 @@ var contents = {
 [332, [51]],
 [402, [62]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -47542,7 +47542,7 @@ var contents = {
 "files": [
 [129, [44,49]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Bounds":{
@@ -47855,7 +47855,7 @@ var contents = {
 [501, [33,80,87]],
 [502, [123,128,136]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "VisibilityChanged":{
@@ -47886,7 +47886,7 @@ var contents = {
 [376, [66,157,179]],
 [457, [62]]
 ],
-"memberKind": "?"
+"memberKind": "Event"
 }
 ,
 "Visible":{
@@ -48024,7 +48024,7 @@ var contents = {
 "files": [
 [620, [101,105,109]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "WriteBehavior":{
@@ -48032,7 +48032,7 @@ var contents = {
 [620, [114,118]],
 [916, [18,42]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 }
 }
@@ -48200,7 +48200,7 @@ var contents = {
 "files": [
 [606, [143]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "TryAppendWithoutValidation`2":{
@@ -48582,7 +48582,7 @@ var contents = {
 "files": [
 [904, [88]]
 ],
-"memberKind": "?"
+"memberKind": "Property"
 }
 ,
 "Headers":{
@@ -48981,3 +48981,4 @@ var contents = {
 }
 }
 }
+;

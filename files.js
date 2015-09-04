@@ -919,3 +919,4 @@ var fileTable = [
 [98, "PlugInFilter.cs"],
 [206, "LiveSourceBufferManager.cs"]
 ]
+;
