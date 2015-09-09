@@ -34,7 +34,7 @@ ApiNode.prototype.toggleNode = function toggleNode() {
 };
 
 ApiNode.prototype.toggleNodeHandler = function toggleNodeHandler(e) {
-    if (e.srcElement != this.element) return;
+    if ((e.srcElement || e.target) != this.element) return;
     this.toggleNode();
     e.cancelBubble = true;
 };
