@@ -1256,8 +1256,9 @@ var contents = {
 "files": [
 [68, [253]],
 [69, [230]],
-[70, [69,146]],
-[71, [79,158]],
+[70, [128]],
+[71, [69,146]],
+[72, [79,158]],
 [62, [52,79]]
 ],
 "memberKind": "Field"
@@ -1267,8 +1268,9 @@ var contents = {
 "files": [
 [68, [253]],
 [69, [230]],
-[70, [68,145]],
-[71, [78,157]],
+[70, [128]],
+[71, [68,145]],
+[72, [78,157]],
 [62, [33,55,82]]
 ],
 "memberKind": "Field"
@@ -1280,8 +1282,8 @@ var contents = {
 "members": {
 "GetAccessStatus`0":{
 "files": [
-[70, [64]],
-[71, [75]],
+[71, [64]],
+[72, [75]],
 [62, [71]]
 ],
 "memberKind": "Method"
@@ -1299,12 +1301,13 @@ var contents = {
 "files": [
 [59, [80]],
 [61, [147]],
-[72, [81]],
+[73, [81]],
 [68, [231]],
 [69, [211]],
-[73, [155]],
-[70, [119]],
-[71, [124]],
+[70, [115]],
+[74, [155]],
+[71, [119]],
+[72, [124]],
 [62, [36]],
 [63, [91]],
 [64, [76]],
@@ -1323,38 +1326,40 @@ var contents = {
 "files": [
 [59, [150]],
 [61, [214]],
-[72, [84]],
-[74, [117]],
+[73, [84]],
+[75, [117]],
 [68, [238]],
 [69, [218]],
-[73, [159]],
-[75, [118]],
-[76, [108]],
-[70, [124]],
-[71, [129]],
+[70, [117]],
+[76, [105]],
+[74, [159]],
+[77, [118]],
+[78, [108]],
+[71, [124]],
+[72, [129]],
 [63, [54]],
 [64, [83]],
 [65, [86]],
 [66, [63]],
 [67, [74]],
-[77, [179]],
-[78, [56]]
+[79, [179]],
+[80, [56]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddCondition`1":{
 "files": [
-[72, [92]],
-[76, [116]]
+[73, [92]],
+[78, [116]]
 ],
 "memberKind": "Method"
 }
 ,
 "CancelOnConditionLoss":{
 "files": [
-[72, [98]],
-[76, [120]]
+[73, [98]],
+[78, [120]]
 ],
 "memberKind": "Property"
 }
@@ -1363,21 +1368,23 @@ var contents = {
 "files": [
 [59, [150]],
 [61, [214]],
-[72, [86]],
+[73, [86]],
 [68, [241]],
 [69, [221]],
-[73, [161]],
-[75, [119]],
-[76, [110]],
-[70, [126]],
-[71, [131]],
+[70, [120]],
+[76, [106]],
+[74, [161]],
+[77, [119]],
+[78, [110]],
+[71, [126]],
+[72, [131]],
 [63, [55]],
 [64, [83]],
 [65, [86]],
 [66, [63]],
 [67, [74]],
-[77, [191]],
-[78, [57]]
+[79, [191]],
+[80, [57]]
 ],
 "memberKind": "Property"
 }
@@ -1386,22 +1393,24 @@ var contents = {
 "files": [
 [59, [165]],
 [61, [221]],
-[72, [101]],
-[74, [121]],
+[73, [101]],
+[75, [121]],
 [68, [247]],
 [69, [224]],
-[73, [164]],
-[75, [123]],
-[76, [123]],
-[70, [136]],
-[71, [147]],
+[70, [124]],
+[76, [109]],
+[74, [164]],
+[77, [123]],
+[78, [123]],
+[71, [136]],
+[72, [147]],
 [63, [58]],
 [64, [93]],
 [65, [96]],
 [66, [73]],
 [67, [84]],
-[77, [194]],
-[78, [61]]
+[79, [194]],
+[80, [61]]
 ],
 "memberKind": "Method"
 }
@@ -1410,22 +1419,24 @@ var contents = {
 "files": [
 [59, [163]],
 [61, [220]],
-[72, [88]],
-[74, [119]],
+[73, [88]],
+[75, [119]],
 [68, [240]],
 [69, [220]],
-[73, [163]],
-[75, [121]],
-[76, [112]],
-[70, [133]],
-[71, [138]],
+[70, [119]],
+[76, [108]],
+[74, [163]],
+[77, [121]],
+[78, [112]],
+[71, [133]],
+[72, [138]],
 [63, [57]],
 [64, [90]],
 [65, [93]],
 [66, [70]],
 [67, [81]],
-[77, [185]],
-[78, [60]]
+[79, [185]],
+[80, [60]]
 ],
 "memberKind": "Method"
 }
@@ -1434,22 +1445,24 @@ var contents = {
 "files": [
 [59, [150]],
 [61, [214]],
-[72, [87]],
-[74, [118]],
+[73, [87]],
+[75, [118]],
 [68, [239]],
 [69, [219]],
-[73, [162]],
-[75, [120]],
-[76, [111]],
-[70, [127]],
-[71, [132]],
+[70, [118]],
+[76, [107]],
+[74, [162]],
+[77, [120]],
+[78, [111]],
+[71, [127]],
+[72, [132]],
 [63, [56]],
 [64, [83]],
 [65, [86]],
 [66, [63]],
 [67, [74]],
-[77, [188]],
-[78, [58]]
+[79, [188]],
+[80, [58]]
 ],
 "memberKind": "Property"
 }
@@ -1460,14 +1473,15 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[79, [32]],
-[80, [131]],
-[81, [46]],
-[82, [55]],
-[83, [38]],
-[84, [51]],
-[85, [45]],
-[86, [38]]
+[81, [32]],
+[82, [131]],
+[83, [46]],
+[84, [55]],
+[85, [38]],
+[86, [49]],
+[87, [51]],
+[88, [45]],
+[89, [38]]
 ],
 "memberKind": "Constructor"
 }
@@ -1478,7 +1492,15 @@ var contents = {
 "members": {
 "Abort":{
 "files": [
-[82, [29]]
+[84, [29]],
+[86, [34]]
+],
+"memberKind": "Field"
+}
+,
+"ConditionLoss":{
+"files": [
+[86, [149]]
 ],
 "memberKind": "Field"
 }
@@ -1491,10 +1513,11 @@ var contents = {
 "files": [
 [59, [136]],
 [61, [309]],
-[73, [262]],
-[70, [230]],
-[71, [239]],
-[77, [238]]
+[70, [213]],
+[74, [262]],
+[71, [230]],
+[72, [239]],
+[79, [238]]
 ],
 "memberKind": "Method"
 }
@@ -1507,15 +1530,16 @@ var contents = {
 "files": [
 [59, [166]],
 [61, [224]],
-[87, [93]],
-[88, [94]],
-[89, [93]],
 [90, [93]],
+[91, [94]],
+[92, [93]],
+[93, [93]],
 [60, [116]],
-[73, [167]],
-[75, [124]],
-[76, [145]],
-[77, [99,197]]
+[70, [272]],
+[74, [167]],
+[77, [124]],
+[78, [145]],
+[79, [99,197]]
 ],
 "memberKind": "Constructor"
 }
@@ -1527,16 +1551,20 @@ var contents = {
 "Complete`0":{
 "files": [
 [55, [36]],
-[80, [140,182]],
-[81, [71]],
-[82, [106]],
+[82, [140,182]],
+[83, [71]],
+[84, [106]],
+[86, [69,79,94,106,115,150,156]],
+[94, [34]],
+[95, [65]],
+[96, [34]],
 [58, [467,484]],
-[84, [88]],
-[91, [51]],
-[92, [63]],
-[93, [72,77]],
+[87, [88]],
+[97, [51]],
+[98, [63]],
+[99, [72,77]],
 [56, [92,101]],
-[94, [33]],
+[100, [33]],
 [57, [224]]
 ],
 "memberKind": "Method"
@@ -1548,12 +1576,12 @@ var contents = {
 "members": {
 "Progress":{
 "files": [
-[87, [103]],
-[88, [104]],
-[89, [103]],
 [90, [103]],
+[91, [104]],
+[92, [103]],
+[93, [103]],
 [60, [126]],
-[73, [325]],
+[74, [325]],
 [63, [99]],
 [67, [94]]
 ],
@@ -1566,13 +1594,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[87, [92]],
-[88, [93]],
-[89, [92]],
 [90, [92]],
+[91, [93]],
+[92, [92]],
+[93, [92]],
 [60, [115]],
-[73, [168]],
-[76, [144]]
+[70, [271]],
+[74, [168]],
+[78, [144]]
 ],
 "memberKind": "Constructor"
 }
@@ -1585,26 +1614,28 @@ var contents = {
 "files": [
 [59, [52,111]],
 [61, [268]],
-[72, [124]],
-[87, [46]],
-[88, [47]],
-[89, [46]],
+[73, [124]],
 [90, [46]],
+[91, [47]],
+[92, [46]],
+[93, [46]],
 [60, [49]],
 [68, [124,198]],
 [69, [104,178]],
-[73, [123]],
-[75, [43,110]],
-[76, [55,130]],
-[70, [48]],
-[71, [57]],
+[70, [81,98]],
+[76, [42,60,97]],
+[74, [123]],
+[77, [43,110]],
+[78, [55,130]],
+[71, [48]],
+[72, [57]],
 [63, [39]],
 [64, [100]],
 [65, [153]],
 [66, [80]],
 [67, [181]],
-[77, [93,212]],
-[78, [44]]
+[79, [93,212]],
+[80, [44]]
 ],
 "memberKind": "Property"
 }
@@ -1612,31 +1643,31 @@ var contents = {
 "Completed":{
 "files": [
 [59, [166]],
-[80, [130]],
+[82, [130]],
 [61, [224]],
-[73, [167]],
+[74, [167]],
 [65, [99]],
-[77, [197]]
+[79, [197]]
 ],
 "memberKind": "Event"
 }
 ,
 "Name":{
 "files": [
-[79, [28,67]],
-[80, [89]],
-[82, [41,77,95,101]],
-[83, [33,61,67,80]],
-[95, [97,135]],
-[85, [32,34,37,77,212]],
-[86, [34,51,103]]
+[81, [28,67]],
+[82, [89]],
+[84, [41,77,95,101]],
+[85, [33,61,67,80]],
+[101, [97,135]],
+[88, [32,34,37,77,212]],
+[89, [34,51,103]]
 ],
 "memberKind": "Property"
 }
 ,
 "Progress":{
 "files": [
-[73, [168]],
+[74, [168]],
 [67, [87]]
 ],
 "memberKind": "Event"
@@ -1644,9 +1675,9 @@ var contents = {
 ,
 "TaskId":{
 "files": [
-[80, [139,152]],
-[86, [49,101]],
-[93, [59]]
+[82, [139,152]],
+[89, [49,101]],
+[99, [59]]
 ],
 "memberKind": "Property"
 }
@@ -1654,7 +1685,7 @@ var contents = {
 "Unregister`1":{
 "files": [
 [61, [188,272,327]],
-[73, [98,138,311]]
+[74, [98,138,311]]
 ],
 "memberKind": "Method"
 }
@@ -1665,7 +1696,7 @@ var contents = {
 "members": {
 "CurrentBackgroundWorkCost":{
 "files": [
-[82, [48]]
+[84, [48]]
 ],
 "memberKind": "Property"
 }
@@ -1715,12 +1746,45 @@ var contents = {
 }
 }
 ,
+"ChatMessageNotificationTrigger":{
+"members": {
+":ctor`0":{
+"files": [
+[76, [83]]
+],
+"memberKind": "Constructor"
+}
+}
+}
+,
+"ChatMessageReceivedNotificationTrigger":{
+"members": {
+":ctor`0":{
+"files": [
+[76, [87]]
+],
+"memberKind": "Constructor"
+}
+}
+}
+,
+"CommunicationBlockingAppSetAsActiveTrigger":{
+"members": {
+":ctor`0":{
+"files": [
+[76, [77]]
+],
+"memberKind": "Constructor"
+}
+}
+}
+,
 "DeviceTriggerResult":{
 "members": {
 "Allowed":{
 "files": [
 [61, [233]],
-[73, [208]]
+[74, [208]]
 ],
 "memberKind": "Field"
 }
@@ -1728,14 +1792,14 @@ var contents = {
 "DeniedBySystem":{
 "files": [
 [61, [242]],
-[73, [222]]
+[74, [222]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeniedByUser":{
 "files": [
-[73, [217]]
+[74, [217]]
 ],
 "memberKind": "Field"
 }
@@ -1743,7 +1807,7 @@ var contents = {
 "LowBattery":{
 "files": [
 [61, [238]],
-[73, [212]]
+[74, [212]]
 ],
 "memberKind": "Field"
 }
@@ -1755,7 +1819,7 @@ var contents = {
 ":ctor`0":{
 "files": [
 [61, [44]],
-[73, [69]]
+[74, [69]]
 ],
 "memberKind": "Constructor"
 }
@@ -1763,7 +1827,7 @@ var contents = {
 "RequestAsync`1":{
 "files": [
 [61, [229]],
-[73, [189]]
+[74, [189]]
 ],
 "memberKind": "Method"
 }
@@ -1774,19 +1838,20 @@ var contents = {
 "members": {
 "Canceled":{
 "files": [
-[79, [32]],
+[81, [32]],
 [55, [19]],
-[80, [131]],
-[81, [46]],
-[82, [55]],
-[83, [38]],
+[82, [131]],
+[83, [46]],
+[84, [55]],
+[85, [38]],
+[86, [49]],
 [58, [93]],
-[84, [51]],
-[85, [45]],
-[92, [30]],
-[86, [38]],
+[87, [51]],
+[88, [45]],
+[98, [30]],
+[89, [38]],
 [56, [32]],
-[94, [26]]
+[100, [26]]
 ],
 "memberKind": "Event"
 }
@@ -1794,61 +1859,69 @@ var contents = {
 "GetDeferral`0":{
 "files": [
 [55, [17]],
-[80, [124]],
-[81, [43]],
-[82, [60]],
+[82, [124]],
+[83, [43]],
+[84, [60]],
+[86, [45]],
+[94, [24]],
+[95, [25]],
+[96, [24]],
 [58, [88]],
-[84, [43]],
-[91, [37]],
-[92, [25]],
-[93, [32]],
+[87, [43]],
+[97, [37]],
+[98, [25]],
+[99, [32]],
 [56, [29]],
-[94, [22]]
+[100, [22]]
 ],
 "memberKind": "Method"
 }
 ,
 "Progress":{
 "files": [
-[82, [88]],
-[83, [57]],
-[84, [47,109,121,140,143,162]],
-[85, [70]],
-[96, [26]],
-[97, [15]]
+[84, [88]],
+[85, [57]],
+[86, [50,120]],
+[87, [47,109,121,140,143,162]],
+[88, [70]],
+[102, [26]],
+[103, [15]]
 ],
 "memberKind": "Property"
 }
 ,
 "Task":{
 "files": [
-[79, [28,67]],
-[80, [89,130,152]],
-[82, [41,77,95,101]],
-[83, [33,61,67,80]],
-[95, [97,135]],
-[85, [32,34,37,77,212]],
-[86, [34,49,51,101,103]],
-[93, [59]]
+[81, [28,67]],
+[82, [89,130,152]],
+[84, [41,77,95,101]],
+[85, [33,61,67,80]],
+[101, [97,135]],
+[88, [32,34,37,77,212]],
+[89, [34,49,51,101,103]],
+[99, [59]]
 ],
 "memberKind": "Property"
 }
 ,
 "TriggerDetails":{
 "files": [
-[79, [35]],
+[81, [35]],
 [55, [24]],
-[74, [34]],
-[95, [39,115]],
+[75, [34]],
+[101, [39,115]],
+[86, [59]],
+[104, [24]],
+[105, [23]],
 [58, [95]],
-[84, [41]],
-[98, [25]],
-[96, [13]],
-[99, [11]],
-[97, [10]],
-[100, [11]],
-[86, [58]],
-[93, [35]],
+[87, [41]],
+[106, [25]],
+[102, [13]],
+[107, [11]],
+[103, [10]],
+[108, [11]],
+[89, [58]],
+[99, [35]],
 [56, [28]]
 ],
 "memberKind": "Property"
@@ -1860,46 +1933,49 @@ var contents = {
 "members": {
 "Completed":{
 "files": [
-[87, [93]],
-[88, [94]],
-[89, [93]],
 [90, [93]],
+[91, [94]],
+[92, [93]],
+[93, [93]],
 [60, [116]],
 [68, [129,136,165,182,203,210,250]],
 [69, [109,116,145,162,183,190,227]],
-[75, [124]],
-[76, [145]],
-[70, [60,103,139]],
-[71, [71,150]],
-[77, [99]]
+[70, [272]],
+[77, [124]],
+[78, [145]],
+[71, [60,103,139]],
+[72, [71,150]],
+[79, [99]]
 ],
 "memberKind": "Event"
 }
 ,
 "Name":{
 "files": [
-[76, [58,133]],
-[77, [96]]
+[76, [99]],
+[78, [58,133]],
+[79, [96]]
 ],
 "memberKind": "Property"
 }
 ,
 "Progress":{
 "files": [
-[87, [92]],
-[88, [93]],
-[89, [92]],
 [90, [92]],
+[91, [93]],
+[92, [92]],
+[93, [92]],
 [60, [115]],
-[76, [144]]
+[70, [271]],
+[78, [144]]
 ],
 "memberKind": "Event"
 }
 ,
 "TaskId":{
 "files": [
-[77, [242]],
-[78, [95]]
+[79, [242]],
+[80, [95]]
 ],
 "memberKind": "Property"
 }
@@ -1908,10 +1984,12 @@ var contents = {
 "files": [
 [68, [288]],
 [69, [253]],
-[75, [147]],
-[76, [135]],
-[70, [203]],
-[71, [215]]
+[70, [237]],
+[76, [62]],
+[77, [147]],
+[78, [135]],
+[71, [203]],
+[72, [215]]
 ],
 "memberKind": "Method"
 }
@@ -1922,7 +2000,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[71, [135]]
+[72, [135]]
 ],
 "memberKind": "Constructor"
 }
@@ -1933,9 +2011,38 @@ var contents = {
 "members": {
 "Geofence":{
 "files": [
-[71, [135]]
+[72, [135]]
 ],
 "memberKind": "Field"
+}
+}
+}
+,
+"PhoneTrigger":{
+"members": {
+":ctor`2":{
+"files": [
+[76, [80]]
+],
+"memberKind": "Constructor"
+}
+}
+}
+,
+"RfcommConnectionTrigger":{
+"members": {
+":ctor`0":{
+"files": [
+[70, [72]]
+],
+"memberKind": "Constructor"
+}
+,
+"InboundConnection":{
+"files": [
+[70, [73,76]]
+],
+"memberKind": "Property"
 }
 }
 }
@@ -1955,7 +2062,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[77, [182]]
+[79, [182]]
 ],
 "memberKind": "Constructor"
 }
@@ -1966,7 +2073,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[78, [59]]
+[80, [59]]
 ],
 "memberKind": "Constructor"
 }
@@ -1977,7 +2084,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[88, [70]]
+[91, [70]]
 ],
 "memberKind": "Constructor"
 }
@@ -1988,7 +2095,7 @@ var contents = {
 "members": {
 "InternetAvailable":{
 "files": [
-[88, [70]]
+[91, [70]]
 ],
 "memberKind": "Field"
 }
@@ -1999,10 +2106,11 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[87, [68]],
-[88, [69]],
-[89, [68]],
-[76, [99]]
+[90, [68]],
+[91, [69]],
+[92, [68]],
+[76, [73]],
+[78, [99]]
 ],
 "memberKind": "Constructor"
 }
@@ -2013,22 +2121,29 @@ var contents = {
 "members": {
 "ServicingComplete":{
 "files": [
-[89, [68]]
+[92, [68]]
+],
+"memberKind": "Field"
+}
+,
+"SessionConnected":{
+"files": [
+[76, [73]]
 ],
 "memberKind": "Field"
 }
 ,
 "TimeZoneChange":{
 "files": [
-[87, [68]],
-[88, [69]]
+[90, [68]],
+[91, [69]]
 ],
 "memberKind": "Field"
 }
 ,
 "UserAway":{
 "files": [
-[76, [99]]
+[78, [99]]
 ],
 "memberKind": "Field"
 }
@@ -2039,8 +2154,8 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[90, [68]],
-[70, [130]]
+[93, [68]],
+[71, [130]]
 ],
 "memberKind": "Constructor"
 }
@@ -2075,32 +2190,71 @@ var contents = {
 ,
 "Calls":{
 "children": {
+"Background":{
+"children": {
+"PhoneCallBlockedTriggerDetails":{
+"members": {
+"PhoneNumber":{
+"files": [
+[104, [26]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"PhoneTriggerType":{
+"members": {
+"CallBlocked":{
+"files": [
+[76, [80]]
+],
+"memberKind": "Field"
+}
+}
+}
+}
+}
+,
+"PhoneCallBlocking":{
+"members": {
+"SetCallBlockingListAsync`1":{
+"files": [
+[109, [66]],
+[94, [32]],
+[96, [32]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
 "PhoneCallManager":{
 "members": {
 "CallStateChanged":{
 "files": [
-[101, [133]]
+[110, [133]]
 ],
 "memberKind": "Event"
 }
 ,
 "IsCallActive":{
 "files": [
-[101, [135]]
+[110, [135]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsCallIncoming":{
 "files": [
-[101, [135]]
+[110, [135]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestStoreAsync`0":{
 "files": [
-[101, [149,187]]
+[110, [149,187]]
 ],
 "memberKind": "Method"
 }
@@ -2111,14 +2265,14 @@ var contents = {
 "members": {
 "GetDefaultLineAsync`0":{
 "files": [
-[101, [188]]
+[110, [188]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestLineWatcher`0":{
 "files": [
-[101, [152]]
+[110, [152]]
 ],
 "memberKind": "Method"
 }
@@ -2129,81 +2283,81 @@ var contents = {
 "members": {
 "CellularDetails":{
 "files": [
-[101, [198]],
-[102, [78]]
+[110, [198]],
+[111, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dial`2":{
 "files": [
-[101, [89]]
+[110, [89]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisplayColor":{
 "files": [
-[101, [207]]
+[110, [207]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[101, [204]]
+[110, [204]]
 ],
 "memberKind": "Property"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[101, [155,189]]
+[110, [155,189]]
 ],
 "memberKind": "Method"
 }
 ,
 "Id":{
 "files": [
-[101, [174]]
+[110, [174]]
 ],
 "memberKind": "Property"
 }
 ,
 "LineConfiguration":{
 "files": [
-[101, [256]],
-[103, [132]]
+[110, [256]],
+[112, [132]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkName":{
 "files": [
-[101, [278,282,286]]
+[110, [278,282,286]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkState":{
 "files": [
-[101, [252,253]]
+[110, [252,253]]
 ],
 "memberKind": "Property"
 }
 ,
 "Transport":{
 "files": [
-[101, [172]]
+[110, [172]]
 ],
 "memberKind": "Property"
 }
 ,
 "Voicemail":{
 "files": [
-[101, [210,213]],
-[104, [57]],
-[105, [86]]
+[110, [210,213]],
+[113, [57]],
+[114, [86]]
 ],
 "memberKind": "Property"
 }
@@ -2214,15 +2368,15 @@ var contents = {
 "members": {
 "SimSlotIndex":{
 "files": [
-[101, [201]],
-[102, [78]]
+[110, [201]],
+[111, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "SimState":{
 "files": [
-[101, [219]]
+[110, [219]]
 ],
 "memberKind": "Property"
 }
@@ -2233,8 +2387,8 @@ var contents = {
 "members": {
 "ExtendedProperties":{
 "files": [
-[101, [256]],
-[103, [132]]
+[110, [256]],
+[112, [132]]
 ],
 "memberKind": "Property"
 }
@@ -2245,7 +2399,7 @@ var contents = {
 "members": {
 "Cellular":{
 "files": [
-[101, [172]]
+[110, [172]]
 ],
 "memberKind": "Field"
 }
@@ -2256,35 +2410,35 @@ var contents = {
 "members": {
 "EnumerationCompleted":{
 "files": [
-[101, [157]]
+[110, [157]]
 ],
 "memberKind": "Event"
 }
 ,
 "LineAdded":{
 "files": [
-[101, [155]]
+[110, [155]]
 ],
 "memberKind": "Event"
 }
 ,
 "Start`0":{
 "files": [
-[101, [158]]
+[110, [158]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[101, [166]]
+[110, [166]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
 "files": [
-[101, [156]]
+[110, [156]]
 ],
 "memberKind": "Event"
 }
@@ -2295,49 +2449,49 @@ var contents = {
 "members": {
 "Denied":{
 "files": [
-[101, [270]]
+[110, [270]]
 ],
 "memberKind": "Field"
 }
 ,
 "Deregistered":{
 "files": [
-[101, [267]]
+[110, [267]]
 ],
 "memberKind": "Field"
 }
 ,
 "Home":{
 "files": [
-[101, [276]]
+[110, [276]]
 ],
 "memberKind": "Field"
 }
 ,
 "NoSignal":{
 "files": [
-[101, [255]]
+[110, [255]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoamingDomestic":{
 "files": [
-[101, [284]]
+[110, [284]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoamingInternational":{
 "files": [
-[101, [280]]
+[110, [280]]
 ],
 "memberKind": "Field"
 }
 ,
 "Searching":{
 "files": [
-[101, [273]]
+[110, [273]]
 ],
 "memberKind": "Field"
 }
@@ -2348,56 +2502,56 @@ var contents = {
 "members": {
 "Disabled":{
 "files": [
-[101, [243]]
+[110, [243]]
 ],
 "memberKind": "Field"
 }
 ,
 "Invalid":{
 "files": [
-[101, [240]]
+[110, [240]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotInserted":{
 "files": [
-[101, [237]]
+[110, [237]]
 ],
 "memberKind": "Field"
 }
 ,
 "PinLocked":{
 "files": [
-[101, [231]]
+[110, [231]]
 ],
 "memberKind": "Field"
 }
 ,
 "PinNotRequired":{
 "files": [
-[101, [225]]
+[110, [225]]
 ],
 "memberKind": "Field"
 }
 ,
 "PinUnlocked":{
 "files": [
-[101, [228]]
+[110, [228]]
 ],
 "memberKind": "Field"
 }
 ,
 "PukLocked":{
 "files": [
-[101, [234]]
+[110, [234]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[101, [222]]
+[110, [222]]
 ],
 "memberKind": "Field"
 }
@@ -2408,22 +2562,22 @@ var contents = {
 "members": {
 "DialVoicemailAsync`0":{
 "files": [
-[104, [57]],
-[105, [86]]
+[113, [57]],
+[114, [86]]
 ],
 "memberKind": "Method"
 }
 ,
 "MessageCount":{
 "files": [
-[101, [213]]
+[110, [213]]
 ],
 "memberKind": "Property"
 }
 ,
 "Number":{
 "files": [
-[101, [210]]
+[110, [210]]
 ],
 "memberKind": "Property"
 }
@@ -2434,28 +2588,28 @@ var contents = {
 "members": {
 "GetDefault`0":{
 "files": [
-[106, [60,83,118]]
+[115, [60,83,118]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestNewIncomingCall`10":{
 "files": [
-[106, [119]]
+[115, [119]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestNewOutgoingCall`4":{
 "files": [
-[106, [84]]
+[115, [84]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReserveCallResourcesAsync`1":{
 "files": [
-[106, [65]]
+[115, [65]]
 ],
 "memberKind": "Method"
 }
@@ -2466,21 +2620,21 @@ var contents = {
 "members": {
 "AnswerRequested":{
 "files": [
-[106, [132]]
+[115, [132]]
 ],
 "memberKind": "Event"
 }
 ,
 "EndRequested":{
 "files": [
-[106, [87,133]]
+[115, [87,133]]
 ],
 "memberKind": "Event"
 }
 ,
 "HoldRequested":{
 "files": [
-[106, [88,134]]
+[115, [88,134]]
 ],
 "memberKind": "Event"
 }
@@ -2489,7 +2643,7 @@ var contents = {
 "files": [
 [56, [107,127]],
 [57, [152]],
-[106, [92,156,184]]
+[115, [92,156,184]]
 ],
 "memberKind": "Method"
 }
@@ -2498,7 +2652,7 @@ var contents = {
 "files": [
 [56, [112,122]],
 [57, [212]],
-[106, [164,178]]
+[115, [164,178]]
 ],
 "memberKind": "Method"
 }
@@ -2506,21 +2660,21 @@ var contents = {
 "NotifyCallHeld`0":{
 "files": [
 [56, [117]],
-[106, [171]]
+[115, [171]]
 ],
 "memberKind": "Method"
 }
 ,
 "RejectRequested":{
 "files": [
-[106, [89,135]]
+[115, [89,135]]
 ],
 "memberKind": "Event"
 }
 ,
 "ResumeRequested":{
 "files": [
-[106, [90,136]]
+[115, [90,136]]
 ],
 "memberKind": "Event"
 }
@@ -2538,7 +2692,7 @@ var contents = {
 "members": {
 "Audio":{
 "files": [
-[106, [84,128]]
+[115, [84,128]]
 ],
 "memberKind": "Field"
 }
@@ -2550,16 +2704,168 @@ var contents = {
 "ResourcesNotAvailable":{
 "files": [
 [57, [242]],
-[106, [26,61]]
+[115, [26,61]]
 ],
 "memberKind": "Field"
 }
 ,
 "Success":{
 "files": [
-[106, [32,40]]
+[115, [32,40]]
 ],
 "memberKind": "Field"
+}
+}
+}
+}
+}
+,
+"Chat":{
+"children": {
+"ChatMessage":{
+"members": {
+"Body":{
+"files": [
+[95, [50]]
+],
+"memberKind": "Property"
+}
+,
+"From":{
+"files": [
+[105, [27]]
+],
+"memberKind": "Property"
+}
+,
+"Id":{
+"files": [
+[95, [54]]
+],
+"memberKind": "Property"
+}
+,
+"TransportId":{
+"files": [
+[95, [46]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"ChatMessageBlocking":{
+"members": {
+"MarkMessageAsBlockedAsync`2":{
+"files": [
+[95, [54]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"ChatMessageManager":{
+"members": {
+"GetTransportsAsync`0":{
+"files": [
+[95, [30]]
+],
+"memberKind": "Method"
+}
+,
+"RequestStoreAsync`0":{
+"files": [
+[95, [36]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"ChatMessageNotificationTriggerDetails":{
+"members": {
+"ChatMessage":{
+"files": [
+[105, [25]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"ChatMessageReader":{
+"members": {
+"ReadBatchAsync`0":{
+"files": [
+[95, [42]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"ChatMessageStore":{
+"members": {
+"GetMessageReader`0":{
+"files": [
+[95, [41]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"ChatMessageTransport":{
+"members": {
+"TransportId":{
+"files": [
+[95, [33]]
+],
+"memberKind": "Property"
+}
+,
+"TransportKind":{
+"files": [
+[95, [33]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"ChatMessageTransportKind":{
+"members": {
+"Untriaged":{
+"files": [
+[95, [46]]
+],
+"memberKind": "Field"
+}
+}
+}
+}
+}
+,
+"CommunicationBlocking":{
+"children": {
+"CommunicationBlockingAppManager":{
+"members": {
+"IsCurrentAppActiveBlockingApp":{
+"files": [
+[76, [114]],
+[109, [54]],
+[94, [28]],
+[96, [28]]
+],
+"memberKind": "Property"
+}
+,
+"ShowCommunicationBlockingSettingsUI`0":{
+"files": [
+[76, [128]]
+],
+"memberKind": "Method"
 }
 }
 }
@@ -2572,69 +2878,69 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[107, [40]],
-[108, [42]]
+[116, [40]],
+[117, [42]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Addresses":{
 "files": [
-[108, [91]]
+[117, [91]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[109, [33]],
-[110, [172]]
+[118, [33]],
+[119, [172]]
 ],
 "memberKind": "Property"
 }
 ,
 "Emails":{
 "files": [
-[107, [46]],
-[108, [48,67]],
-[109, [36]]
+[116, [46]],
+[117, [48,67]],
+[118, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
 "files": [
-[108, [43]]
+[117, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[110, [172]]
+[119, [172]]
 ],
 "memberKind": "Property"
 }
 ,
 "LastName":{
 "files": [
-[108, [44]]
+[117, [44]]
 ],
 "memberKind": "Property"
 }
 ,
 "Phones":{
 "files": [
-[107, [53]],
-[108, [72,77,82]],
-[109, [42]]
+[116, [53]],
+[117, [72,77,82]],
+[118, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
 "files": [
-[110, [173]]
+[119, [173]]
 ],
 "memberKind": "Property"
 }
@@ -2645,49 +2951,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[108, [84]]
+[117, [84]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Country":{
 "files": [
-[108, [88]]
+[117, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "Kind":{
 "files": [
-[108, [90]]
+[117, [90]]
 ],
 "memberKind": "Property"
 }
 ,
 "Locality":{
 "files": [
-[108, [86]]
+[117, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "PostalCode":{
 "files": [
-[108, [89]]
+[117, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "Region":{
 "files": [
-[108, [87]]
+[117, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "StreetAddress":{
 "files": [
-[108, [85]]
+[117, [85]]
 ],
 "memberKind": "Property"
 }
@@ -2698,7 +3004,7 @@ var contents = {
 "members": {
 "Home":{
 "files": [
-[108, [90]]
+[117, [90]]
 ],
 "memberKind": "Field"
 }
@@ -2709,7 +3015,7 @@ var contents = {
 "members": {
 "Contacts":{
 "files": [
-[110, [159,167,170]]
+[119, [159,167,170]]
 ],
 "memberKind": "Property"
 }
@@ -2720,7 +3026,7 @@ var contents = {
 "members": {
 "SetData`1":{
 "files": [
-[108, [122]]
+[117, [122]]
 ],
 "memberKind": "Method"
 }
@@ -2731,7 +3037,7 @@ var contents = {
 "members": {
 "Enterprise":{
 "files": [
-[108, [111]]
+[117, [111]]
 ],
 "memberKind": "Field"
 }
@@ -2742,22 +3048,22 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[111, [73]],
-[108, [111]]
+[120, [73]],
+[117, [111]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "HeaderKind":{
 "files": [
-[108, [111]]
+[117, [111]]
 ],
 "memberKind": "Property"
 }
 ,
 "InitialTabKind":{
 "files": [
-[111, [73]]
+[120, [73]]
 ],
 "memberKind": "Property"
 }
@@ -2768,7 +3074,7 @@ var contents = {
 "members": {
 "Phone":{
 "files": [
-[111, [73]]
+[120, [73]]
 ],
 "memberKind": "Field"
 }
@@ -2779,25 +3085,25 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[107, [45]],
-[108, [46,64]]
+[116, [45]],
+[117, [46,64]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Address":{
 "files": [
-[107, [45]],
-[108, [47,65]],
-[109, [38]]
+[116, [45]],
+[117, [47,65]],
+[118, [38]]
 ],
 "memberKind": "Property"
 }
 ,
 "Kind":{
 "files": [
-[108, [66]],
-[109, [38]]
+[117, [66]],
+[118, [38]]
 ],
 "memberKind": "Property"
 }
@@ -2808,7 +3114,7 @@ var contents = {
 "members": {
 "Work":{
 "files": [
-[108, [66]]
+[117, [66]]
 ],
 "memberKind": "Field"
 }
@@ -2819,16 +3125,16 @@ var contents = {
 "members": {
 "Email":{
 "files": [
-[112, [58]],
-[113, [62]]
+[121, [58]],
+[122, [62]]
 ],
 "memberKind": "Field"
 }
 ,
 "PhoneNumber":{
 "files": [
-[112, [71]],
-[113, [74]]
+[121, [71]],
+[122, [74]]
 ],
 "memberKind": "Field"
 }
@@ -2886,43 +3192,43 @@ var contents = {
 "members": {
 "IsShowContactCardSupported`0":{
 "files": [
-[111, [32]]
+[120, [32]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsShowDelayLoadedContactCardSupported`0":{
 "files": [
-[108, [33]]
+[117, [33]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestStoreAsync`1":{
 "files": [
-[110, [96]]
+[119, [96]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowContactCard`4":{
 "files": [
-[111, [47,60,76]]
+[120, [47,60,76]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowDelayLoadedContactCard`4":{
 "files": [
-[108, [113]]
+[117, [113]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowFullContactCard`2":{
 "files": [
-[114, [40]],
-[110, [302]]
+[123, [40]],
+[119, [302]]
 ],
 "memberKind": "Method"
 }
@@ -2933,25 +3239,25 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[107, [52]],
-[108, [69,74,79]]
+[116, [52]],
+[117, [69,74,79]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Kind":{
 "files": [
-[108, [71,76,81]],
-[109, [44]]
+[117, [71,76,81]],
+[118, [44]]
 ],
 "memberKind": "Property"
 }
 ,
 "Number":{
 "files": [
-[107, [52]],
-[108, [70,75,80]],
-[109, [44]]
+[116, [52]],
+[117, [70,75,80]],
+[118, [44]]
 ],
 "memberKind": "Property"
 }
@@ -2962,21 +3268,21 @@ var contents = {
 "members": {
 "Home":{
 "files": [
-[108, [71]]
+[117, [71]]
 ],
 "memberKind": "Field"
 }
 ,
 "Mobile":{
 "files": [
-[108, [81]]
+[117, [81]]
 ],
 "memberKind": "Field"
 }
 ,
 "Work":{
 "files": [
-[108, [76]]
+[117, [76]]
 ],
 "memberKind": "Field"
 }
@@ -2987,30 +3293,30 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[112, [57,70]],
-[113, [60,72]]
+[121, [57,70]],
+[122, [60,72]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DesiredFieldsWithContactFieldType":{
 "files": [
-[112, [58,71]],
-[113, [62,74]]
+[121, [58,71]],
+[122, [62,74]]
 ],
 "memberKind": "Property"
 }
 ,
 "PickContactAsync`0":{
 "files": [
-[112, [60,73]]
+[121, [60,73]]
 ],
 "memberKind": "Method"
 }
 ,
 "PickContactsAsync`0":{
 "files": [
-[113, [63,75]]
+[122, [63,75]]
 ],
 "memberKind": "Method"
 }
@@ -3021,7 +3327,7 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[110, [134]]
+[119, [134]]
 ],
 "memberKind": "Constructor"
 }
@@ -3032,7 +3338,7 @@ var contents = {
 "members": {
 "All":{
 "files": [
-[110, [134]]
+[119, [134]]
 ],
 "memberKind": "Field"
 }
@@ -3043,7 +3349,7 @@ var contents = {
 "members": {
 "ReadBatchAsync`0":{
 "files": [
-[110, [158,176]]
+[119, [158,176]]
 ],
 "memberKind": "Method"
 }
@@ -3054,14 +3360,14 @@ var contents = {
 "members": {
 "GetContactAsync`1":{
 "files": [
-[110, [301]]
+[119, [301]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetContactReader`0":{
 "files": [
-[110, [114,135,140]]
+[119, [114,135,140]]
 ],
 "memberKind": "Method"
 }
@@ -3072,7 +3378,7 @@ var contents = {
 "members": {
 "AllContactsReadOnly":{
 "files": [
-[110, [96]]
+[119, [96]]
 ],
 "memberKind": "Field"
 }
@@ -3083,15 +3389,15 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[114, [36]],
-[110, [302]]
+[123, [36]],
+[119, [302]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DesiredRemainingView":{
 "files": [
-[114, [37]]
+[123, [37]]
 ],
 "memberKind": "Property"
 }
@@ -3106,20 +3412,20 @@ var contents = {
 "members": {
 "CreateNewView`1":{
 "files": [
-[115, [120]],
-[116, [229]],
-[117, [72]],
-[118, [54]],
-[119, [87,138]],
-[120, [82]]
+[124, [120]],
+[125, [229]],
+[126, [72]],
+[127, [54]],
+[128, [87,138]],
+[129, [82]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCurrentView`0":{
 "files": [
-[121, [13]],
-[122, [28,51]]
+[130, [13]],
+[131, [28,51]]
 ],
 "memberKind": "Method"
 }
@@ -3131,26 +3437,33 @@ var contents = {
 [6, [109]],
 [7, [68]],
 [67, [96]],
-[110, [59]],
-[102, [48]],
-[103, [54,68]],
-[105, [46]]
+[119, [59]],
+[111, [48]],
+[112, [54,68]],
+[114, [46]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[123, [78,86,127,131,165,187,205,212]],
-[124, [48,85,106,119]],
-[125, [55,63,73,76]],
-[126, [56,59,69,72,80,83,91,92,93]],
-[127, [75,89,90,104,117,143,157]],
-[128, [51,61,74,110,145]],
-[129, [55,63,73,76]],
-[130, [56,59,69,72,80,83,91,92,93]]
+[132, [78,86,127,131,165,187,205,212]],
+[133, [48,85,106,119]],
+[134, [55,63,73,76]],
+[135, [56,59,69,72,80,83,91,92,93]],
+[136, [75,89,90,104,117,143,157]],
+[137, [51,61,74,110,145]],
+[138, [55,63,73,76]],
+[139, [56,59,69,72,80,83,91,92,93]]
 ],
 "memberKind": "Property"
+}
+,
+"Run`1":{
+"files": [
+[140, [387]]
+],
+"memberKind": "Method"
 }
 }
 }
@@ -3164,30 +3477,30 @@ var contents = {
 [6, [109]],
 [7, [68]],
 [67, [96]],
-[110, [59]],
-[102, [48]],
-[103, [54,68]],
-[105, [46]]
+[119, [59]],
+[111, [48]],
+[112, [54,68]],
+[114, [46]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[115, [120]],
-[116, [229]],
-[117, [72]],
-[118, [54]],
-[119, [87,138]],
-[120, [82]]
+[124, [120]],
+[125, [229]],
+[126, [72]],
+[127, [54]],
+[128, [87,138]],
+[129, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "TitleBar":{
 "files": [
-[121, [13]],
-[122, [28,51]]
+[130, [13]],
+[131, [28,51]]
 ],
 "memberKind": "Property"
 }
@@ -3198,49 +3511,49 @@ var contents = {
 "members": {
 "ExtendViewIntoTitleBar":{
 "files": [
-[122, [28,51]]
+[131, [28,51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[121, [141]]
+[130, [141]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsVisible":{
 "files": [
-[121, [85]]
+[130, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsVisibleChanged":{
 "files": [
-[121, [23,35]]
+[130, [23,35]]
 ],
 "memberKind": "Event"
 }
 ,
 "LayoutMetricsChanged":{
 "files": [
-[121, [22,34]]
+[130, [22,34]]
 ],
 "memberKind": "Event"
 }
 ,
 "SystemOverlayLeftInset":{
 "files": [
-[121, [128,132]]
+[130, [128,132]]
 ],
 "memberKind": "Property"
 }
 ,
 "SystemOverlayRightInset":{
 "files": [
-[121, [128,132]]
+[130, [128,132]]
 ],
 "memberKind": "Property"
 }
@@ -3255,38 +3568,38 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[131, [59]]
+[141, [59]]
 ],
 "memberKind": "Method"
 }
 ,
 "ContentChanged":{
 "files": [
-[132, [43,48]]
+[142, [43,48]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetContent`0":{
 "files": [
-[133, [80]],
-[134, [61]],
-[135, [85]],
-[132, [55]],
-[136, [49]],
-[137, [47]],
-[138, [49]]
+[143, [80]],
+[144, [61]],
+[145, [85]],
+[142, [55]],
+[146, [49]],
+[147, [47]],
+[148, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetContent`1":{
 "files": [
-[133, [61]],
-[134, [163]],
-[135, [68]],
-[139, [108]],
-[140, [42]]
+[143, [61]],
+[144, [163]],
+[145, [68]],
+[149, [108]],
+[150, [42]]
 ],
 "memberKind": "Method"
 }
@@ -3297,118 +3610,118 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[133, [54]],
-[134, [146]],
-[135, [53]],
-[139, [106]],
-[140, [39]]
+[143, [54]],
+[144, [146]],
+[145, [53]],
+[149, [106]],
+[150, [39]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetView`0":{
 "files": [
-[141, [45]]
+[151, [45]]
 ],
 "memberKind": "Method"
 }
 ,
 "Properties":{
 "files": [
-[140, [41,43]],
-[142, [49,50,51]],
-[143, [46,47,48,54,55,59,60]],
-[144, [52,53,54]],
-[145, [39,40,41,42]],
-[146, [37,38,39]],
-[141, [47,48,49,50]],
-[147, [39,40,41,51]],
-[148, [48]],
-[149, [32,33,34]],
-[150, [35,36,37]]
+[150, [41,43]],
+[152, [49,50,51]],
+[153, [46,47,48,54,55,59,60]],
+[154, [52,53,54]],
+[155, [39,40,41,42]],
+[156, [37,38,39]],
+[151, [47,48,49,50]],
+[157, [39,40,41,51]],
+[158, [48]],
+[159, [32,33,34]],
+[160, [35,36,37]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestedOperation":{
 "files": [
-[133, [58]],
-[151, [86,144]],
-[152, [160]]
+[143, [58]],
+[161, [86,144]],
+[162, [160]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResourceMap":{
 "files": [
-[135, [63]]
+[145, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetApplicationLink`1":{
 "files": [
-[143, [49]]
+[153, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetBitmap`1":{
 "files": [
-[134, [157]],
-[147, [52]]
+[144, [157]],
+[157, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetData`2":{
 "files": [
-[144, [55]]
+[154, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetDataProvider`2":{
 "files": [
-[134, [152]],
-[145, [43]]
+[144, [152]],
+[155, [43]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetHtmlFormat`1":{
 "files": [
-[135, [54]]
+[145, [54]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetStorageItems`1":{
 "files": [
-[133, [55]],
-[146, [40]],
-[147, [48]]
+[143, [55]],
+[156, [40]],
+[157, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetText`1":{
 "files": [
-[135, [58]],
-[139, [107]],
-[140, [40]],
-[142, [52]],
-[149, [35]],
-[151, [84,142]],
-[153, [41]],
-[152, [161]]
+[145, [58]],
+[149, [107]],
+[150, [40]],
+[152, [52]],
+[159, [35]],
+[161, [84,142]],
+[163, [41]],
+[162, [161]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetWebLink`1":{
 "files": [
-[150, [38]]
+[160, [38]]
 ],
 "memberKind": "Method"
 }
@@ -3419,35 +3732,35 @@ var contents = {
 "members": {
 "Copy":{
 "files": [
-[133, [58,101]],
-[151, [86,98,124]],
-[153, [76,120]],
-[152, [149,160,183,195]]
+[143, [58,101]],
+[161, [86,98,124]],
+[163, [76,120]],
+[162, [149,160,183,195]]
 ],
 "memberKind": "Field"
 }
 ,
 "Link":{
 "files": [
-[133, [104]]
+[143, [104]]
 ],
 "memberKind": "Field"
 }
 ,
 "Move":{
 "files": [
-[133, [107]],
-[151, [144,174,194]]
+[143, [107]],
+[161, [144,174,194]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[133, [110]],
-[151, [98,174]],
-[153, [76,120]],
-[152, [183,195]]
+[143, [110]],
+[161, [98,174]],
+[163, [76,120]],
+[162, [183,195]]
 ],
 "memberKind": "Field"
 }
@@ -3458,82 +3771,82 @@ var contents = {
 "members": {
 "ContentSourceApplicationLink":{
 "files": [
-[143, [48]],
-[144, [54]],
-[145, [41]],
-[146, [39]],
-[141, [49]],
-[147, [41]],
-[149, [34]],
-[150, [37]]
+[153, [48]],
+[154, [54]],
+[155, [41]],
+[156, [39]],
+[151, [49]],
+[157, [41]],
+[159, [34]],
+[160, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentSourceWebLink":{
 "files": [
-[141, [50]]
+[151, [50]]
 ],
 "memberKind": "Property"
 }
 ,
 "Description":{
 "files": [
-[142, [50]],
-[143, [47]],
-[144, [53]],
-[145, [40]],
-[146, [38]],
-[141, [48]],
-[147, [40]],
-[149, [33]],
-[150, [36]]
+[152, [50]],
+[153, [47]],
+[154, [53]],
+[155, [40]],
+[156, [38]],
+[151, [48]],
+[157, [40]],
+[159, [33]],
+[160, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "EnterpriseId":{
 "files": [
-[140, [41,43]],
-[142, [51]]
+[150, [41,43]],
+[152, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "LogoBackgroundColor":{
 "files": [
-[143, [55,60]]
+[153, [55,60]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square30x30Logo":{
 "files": [
-[143, [54,59]]
+[153, [54,59]]
 ],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
 "files": [
-[145, [42]],
-[147, [51]]
+[155, [42]],
+[157, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[142, [49]],
-[143, [46]],
-[144, [52]],
-[145, [39]],
-[146, [37]],
-[141, [47]],
-[147, [39]],
-[148, [48]],
-[149, [32]],
-[150, [35]]
+[152, [49]],
+[153, [46]],
+[154, [52]],
+[155, [39]],
+[156, [37]],
+[151, [47]],
+[157, [39]],
+[158, [48]],
+[159, [32]],
+[160, [35]]
 ],
 "memberKind": "Property"
 }
@@ -3544,73 +3857,73 @@ var contents = {
 "members": {
 "ContentSourceApplicationLink":{
 "files": [
-[154, [91]],
-[155, [75]]
+[164, [91]],
+[165, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentSourceWebLink":{
 "files": [
-[154, [90]],
-[155, [74]]
+[164, [90]],
+[165, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "Description":{
 "files": [
-[154, [88]],
-[155, [72]]
+[164, [88]],
+[165, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "EnterpriseId":{
 "files": [
-[154, [78]],
-[137, [51]],
-[138, [56,57]]
+[164, [78]],
+[147, [51]],
+[148, [56,57]]
 ],
 "memberKind": "Property"
 }
 ,
 "LogoBackgroundColor":{
 "files": [
-[154, [92]],
-[155, [76]]
+[164, [92]],
+[165, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "PackageFamilyName":{
 "files": [
-[154, [89]],
-[155, [73]]
+[164, [89]],
+[165, [73]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square30x30Logo":{
 "files": [
-[154, [93]],
-[155, [77]]
+[164, [93]],
+[165, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
 "files": [
-[154, [94]],
-[155, [78]]
+[164, [94]],
+[165, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[154, [87]],
-[155, [71]]
+[164, [87]],
+[165, [71]]
 ],
 "memberKind": "Property"
 }
@@ -3621,121 +3934,121 @@ var contents = {
 "members": {
 "AvailableFormats":{
 "files": [
-[132, [58,61]],
-[141, [45]]
+[142, [58,61]],
+[151, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "Contains`1":{
 "files": [
-[133, [82]],
-[134, [62]],
-[135, [86,105]],
-[136, [50]],
-[154, [100,111,122,133,144,155,175]],
-[137, [48]],
-[138, [50]],
-[155, [84,95,106,117,128,139,159]],
-[151, [98,113,174,188]],
-[153, [75,117]],
-[152, [182,194]]
+[143, [82]],
+[144, [62]],
+[145, [86,105]],
+[146, [50]],
+[164, [100,111,122,133,144,155,175]],
+[147, [48]],
+[148, [50]],
+[165, [84,95,106,117,128,139,159]],
+[161, [98,113,174,188]],
+[163, [75,117]],
+[162, [182,194]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetApplicationLinkAsync`0":{
 "files": [
-[154, [115]],
-[155, [99]]
+[164, [115]],
+[165, [99]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetBitmapAsync`0":{
 "files": [
-[134, [67]],
-[154, [179]],
-[155, [163]]
+[144, [67]],
+[164, [179]],
+[165, [163]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetHtmlFormatAsync`0":{
 "files": [
-[135, [112]],
-[154, [159]],
-[155, [143]]
+[145, [112]],
+[164, [159]],
+[165, [143]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetResourceMapAsync`0":{
 "files": [
-[135, [161]],
-[154, [168]],
-[155, [152]]
+[145, [161]],
+[164, [168]],
+[165, [152]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetStorageItemsAsync`0":{
 "files": [
-[133, [87]],
-[154, [137]],
-[155, [121]]
+[143, [87]],
+[164, [137]],
+[165, [121]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTextAsync`0":{
 "files": [
-[135, [90]],
-[136, [59]],
-[154, [126,148]],
-[138, [55]],
-[155, [110,132]],
-[151, [118,193]],
-[153, [123]]
+[145, [90]],
+[146, [59]],
+[164, [126,148]],
+[148, [55]],
+[165, [110,132]],
+[161, [118,193]],
+[163, [123]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetWebLinkAsync`0":{
 "files": [
-[154, [104]],
-[155, [88]]
+[164, [104]],
+[165, [88]]
 ],
 "memberKind": "Method"
 }
 ,
 "Properties":{
 "files": [
-[154, [78,87,88,89,90,91,92,93,94]],
-[137, [51]],
-[138, [56,57]],
-[155, [71,72,73,74,75,76,77,78]]
+[164, [78,87,88,89,90,91,92,93,94]],
+[147, [51]],
+[148, [56,57]],
+[165, [71,72,73,74,75,76,77,78]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
 "files": [
-[138, [52]]
+[148, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestedOperation":{
 "files": [
-[133, [97]]
+[143, [97]]
 ],
 "memberKind": "Property"
 }
 ,
 "UnlockAndAssumeEnterpriseIdentity`0":{
 "files": [
-[136, [54]]
+[146, [54]]
 ],
 "memberKind": "Method"
 }
@@ -3746,8 +4059,8 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[134, [123]],
-[145, [81]]
+[144, [123]],
+[155, [81]]
 ],
 "memberKind": "Method"
 }
@@ -3758,16 +4071,16 @@ var contents = {
 "members": {
 "GetDeferral`0":{
 "files": [
-[134, [101]],
-[145, [63]]
+[144, [101]],
+[155, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetData`1":{
 "files": [
-[134, [118]],
-[145, [77]]
+[144, [118]],
+[155, [77]]
 ],
 "memberKind": "Method"
 }
@@ -3778,39 +4091,39 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[142, [49,50,51,52]],
-[143, [45]],
-[144, [51]],
-[145, [38]],
-[146, [36]],
-[141, [51]],
-[147, [38]],
-[148, [48]],
-[149, [31]],
-[150, [34]]
+[152, [49,50,51,52]],
+[153, [45]],
+[154, [51]],
+[155, [38]],
+[156, [36]],
+[151, [51]],
+[157, [38]],
+[158, [48]],
+[159, [31]],
+[160, [34]]
 ],
 "memberKind": "Property"
 }
 ,
 "FailWithDisplayText`1":{
 "files": [
-[156, [32]],
-[143, [67]],
-[144, [60,65]],
-[145, [48]],
-[146, [45]],
-[141, [57]],
-[147, [57]],
-[148, [50]],
-[149, [40]],
-[150, [43]]
+[166, [32]],
+[153, [67]],
+[154, [60,65]],
+[155, [48]],
+[156, [45]],
+[151, [57]],
+[157, [57]],
+[158, [50]],
+[159, [40]],
+[160, [43]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[141, [36]]
+[151, [36]]
 ],
 "memberKind": "Method"
 }
@@ -3821,7 +4134,7 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[141, [52,63]]
+[151, [52,63]]
 ],
 "memberKind": "Method"
 }
@@ -3832,8 +4145,8 @@ var contents = {
 "members": {
 "Request":{
 "files": [
-[142, [48]],
-[148, [44,48,50]]
+[152, [48]],
+[158, [44,48,50]]
 ],
 "memberKind": "Property"
 }
@@ -3844,24 +4157,24 @@ var contents = {
 "members": {
 "DataRequested":{
 "files": [
-[142, [42]],
-[148, [30,36]]
+[152, [42]],
+[158, [30,36]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[142, [41]],
-[148, [29]]
+[152, [41]],
+[158, [29]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowShareUI`0":{
 "files": [
-[142, [58]],
-[148, [58]]
+[152, [58]],
+[158, [58]]
 ],
 "memberKind": "Method"
 }
@@ -3872,16 +4185,16 @@ var contents = {
 "members": {
 "CreateHtmlFormat`1":{
 "files": [
-[135, [52]]
+[145, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetStaticFragment`1":{
 "files": [
-[135, [121]],
-[154, [300]],
-[155, [284]]
+[145, [121]],
+[164, [300]],
+[165, [284]]
 ],
 "memberKind": "Method"
 }
@@ -3894,48 +4207,48 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[154, [355]],
-[155, [339]]
+[164, [355]],
+[165, [339]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Id":{
 "files": [
-[154, [355]],
-[155, [339]]
+[164, [355]],
+[165, [339]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportedDataFormats":{
 "files": [
-[154, [355]],
-[155, [339]]
+[164, [355]],
+[165, [339]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportedFileTypes":{
 "files": [
-[154, [355]],
-[155, [339]]
+[164, [355]],
+[165, [339]]
 ],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
 "files": [
-[154, [377]],
-[155, [361]]
+[164, [377]],
+[165, [361]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[154, [355]],
-[155, [339]]
+[164, [355]],
+[165, [339]]
 ],
 "memberKind": "Property"
 }
@@ -3946,62 +4259,62 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[154, [78,87,88,89,90,91,92,93,94,100,104,111,115,122,126,133,137,144,148,155,159,168,175,179]],
-[155, [71,72,73,74,75,76,77,78,84,88,95,99,106,110,117,121,128,132,139,143,152,159,163]]
+[164, [78,87,88,89,90,91,92,93,94,100,104,111,115,122,126,133,137,144,148,155,159,168,175,179]],
+[165, [71,72,73,74,75,76,77,78,84,88,95,99,106,110,117,121,128,132,139,143,152,159,163]]
 ],
 "memberKind": "Property"
 }
 ,
 "DismissUI`0":{
 "files": [
-[154, [396]],
-[155, [380]]
+[164, [396]],
+[165, [380]]
 ],
 "memberKind": "Method"
 }
 ,
 "QuickLinkId":{
 "files": [
-[154, [95,214]],
-[155, [79,198]]
+[164, [95,214]],
+[165, [79,198]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReportCompleted`1":{
 "files": [
-[154, [378,384,390]],
-[155, [362,368,374]]
+[164, [378,384,390]],
+[165, [362,368,374]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReportDataRetrieved`0":{
 "files": [
-[154, [423]],
-[155, [401]]
+[164, [423]],
+[165, [401]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReportError`1":{
 "files": [
-[154, [435]],
-[155, [407]]
+[164, [435]],
+[165, [407]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReportStarted`0":{
 "files": [
-[154, [417]]
+[164, [417]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReportSubmittedBackgroundTask`0":{
 "files": [
-[154, [429]]
+[164, [429]]
 ],
 "memberKind": "Method"
 }
@@ -4014,58 +4327,58 @@ var contents = {
 "members": {
 "ApplicationLink":{
 "files": [
-[154, [111,366]],
-[155, [95,350]]
+[164, [111,366]],
+[165, [95,350]]
 ],
 "memberKind": "Property"
 }
 ,
 "Bitmap":{
 "files": [
-[134, [62,152]],
-[154, [175,367]],
-[145, [43]],
-[155, [159,351]]
+[144, [62,152]],
+[164, [175,367]],
+[155, [43]],
+[165, [159,351]]
 ],
 "memberKind": "Property"
 }
 ,
 "Html":{
 "files": [
-[135, [105]],
-[154, [155,369]],
-[155, [139,353]]
+[145, [105]],
+[164, [155,369]],
+[165, [139,353]]
 ],
 "memberKind": "Property"
 }
 ,
 "StorageItems":{
 "files": [
-[133, [82]],
-[154, [133,368]],
-[155, [117,352]]
+[143, [82]],
+[164, [133,368]],
+[165, [117,352]]
 ],
 "memberKind": "Property"
 }
 ,
 "Text":{
 "files": [
-[135, [86]],
-[136, [50]],
-[154, [122,364]],
-[138, [50]],
-[155, [106,348]],
-[151, [98,113,174,188]],
-[153, [75,117]],
-[152, [182,194]]
+[145, [86]],
+[146, [50]],
+[164, [122,364]],
+[148, [50]],
+[165, [106,348]],
+[161, [98,113,174,188]],
+[163, [75,117]],
+[162, [182,194]]
 ],
 "memberKind": "Property"
 }
 ,
 "WebLink":{
 "files": [
-[154, [100,365]],
-[155, [84,349]]
+[164, [100,365]],
+[165, [84,349]]
 ],
 "memberKind": "Property"
 }
@@ -4078,7 +4391,7 @@ var contents = {
 "members": {
 "DesignModeEnabled":{
 "files": [
-[157, [62]]
+[167, [62]]
 ],
 "memberKind": "Property"
 }
@@ -4140,70 +4453,70 @@ var contents = {
 "members": {
 "Current":{
 "files": [
-[158, [37]],
-[159, [39]],
-[160, [119]],
+[168, [37]],
+[169, [39]],
+[170, [119]],
 [3, [96]],
-[154, [376]],
-[161, [74]],
+[164, [376]],
+[171, [74]],
 [63, [77,78,79,80]],
-[162, [116]],
-[163, [61]],
-[164, [37]],
-[165, [37]],
-[155, [360]],
-[166, [218]],
-[167, [215]],
+[172, [116]],
+[173, [61]],
+[174, [37]],
+[175, [37]],
+[165, [360]],
+[176, [218]],
+[177, [215]],
 [54, [73]],
-[168, [25]],
-[169, [48]],
-[170, [95,147]],
-[171, [51]]
+[178, [25]],
+[179, [48]],
+[180, [95,147]],
+[181, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dependencies":{
 "files": [
-[165, [37]]
+[175, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[158, [37]],
+[168, [37]],
 [63, [77,78,79,80]],
-[163, [62]],
-[165, [43]],
+[173, [62]],
+[175, [43]],
 [54, [73]],
-[168, [25]]
+[178, [25]]
 ],
 "memberKind": "Property"
 }
 ,
 "InstalledLocation":{
 "files": [
-[159, [39]],
-[160, [119]],
+[169, [39]],
+[170, [119]],
 [3, [96]],
-[154, [376]],
-[161, [74]],
-[162, [116]],
-[164, [37]],
-[155, [360]],
-[166, [218]],
-[167, [215]],
-[169, [48]],
-[170, [95,147]],
-[171, [51]]
+[164, [376]],
+[171, [74]],
+[172, [116]],
+[174, [37]],
+[165, [360]],
+[176, [218]],
+[177, [215]],
+[179, [48]],
+[180, [95,147]],
+[181, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsFramework":{
 "files": [
-[163, [81]]
+[173, [81]]
 ],
 "memberKind": "Property"
 }
@@ -4214,15 +4527,15 @@ var contents = {
 "members": {
 "Architecture":{
 "files": [
-[163, [75]]
+[173, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "FamilyName":{
 "files": [
-[158, [37]],
-[163, [80]],
+[168, [37]],
+[173, [80]],
 [54, [73]]
 ],
 "memberKind": "Property"
@@ -4230,37 +4543,37 @@ var contents = {
 ,
 "FullName":{
 "files": [
-[163, [79]],
-[165, [43]]
+[173, [79]],
+[175, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[163, [73]]
+[173, [73]]
 ],
 "memberKind": "Property"
 }
 ,
 "Publisher":{
 "files": [
-[163, [77]],
-[168, [25]]
+[173, [77]],
+[178, [25]]
 ],
 "memberKind": "Property"
 }
 ,
 "PublisherId":{
 "files": [
-[163, [78]]
+[173, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResourceId":{
 "files": [
-[163, [76]]
+[173, [76]]
 ],
 "memberKind": "Property"
 }
@@ -4268,7 +4581,7 @@ var contents = {
 "Version":{
 "files": [
 [63, [77,78,79,80]],
-[163, [74]]
+[173, [74]]
 ],
 "memberKind": "Property"
 }
@@ -4280,7 +4593,7 @@ var contents = {
 "Build":{
 "files": [
 [63, [77]],
-[163, [37]]
+[173, [37]]
 ],
 "memberKind": "Field"
 }
@@ -4288,7 +4601,7 @@ var contents = {
 "Major":{
 "files": [
 [63, [78]],
-[163, [37]]
+[173, [37]]
 ],
 "memberKind": "Field"
 }
@@ -4296,7 +4609,7 @@ var contents = {
 "Minor":{
 "files": [
 [63, [79]],
-[163, [37]]
+[173, [37]]
 ],
 "memberKind": "Field"
 }
@@ -4304,7 +4617,7 @@ var contents = {
 "Revision":{
 "files": [
 [63, [80]],
-[163, [37]]
+[173, [37]]
 ],
 "memberKind": "Field"
 }
@@ -4319,7 +4632,7 @@ var contents = {
 "members": {
 "ResolveAll`0":{
 "files": [
-[172, [97]]
+[182, [97]]
 ],
 "memberKind": "Method"
 }
@@ -4330,19 +4643,19 @@ var contents = {
 "members": {
 "ValueAsString":{
 "files": [
-[173, [95,99]],
-[174, [61,67]],
-[175, [67]],
-[176, [93]],
+[183, [95,99]],
+[184, [61,67]],
+[185, [67]],
+[186, [93]],
 [58, [161,177,179,199,210,215,229,241,252,360,380,391,395,446]],
-[177, [190,196,202,203,209,210,216,217,223,224,229,230,231,233]],
-[166, [220,256,293,308,360,403,418,433,467]],
-[178, [208,214,220,221,227,228,234,235,241,242,247,248,249,252]],
-[179, [190]],
-[180, [159]],
-[167, [224,247,293,343,421,436,451,485]],
-[181, [140]],
-[182, [139]]
+[187, [190,196,202,203,209,210,216,217,223,224,229,230,231,233]],
+[176, [220,256,293,308,360,403,418,433,467]],
+[188, [208,214,220,221,227,228,234,235,241,242,247,248,249,252]],
+[189, [190]],
+[190, [159]],
+[177, [224,247,293,343,421,436,451,485]],
+[191, [140]],
+[192, [139]]
 ],
 "memberKind": "Property"
 }
@@ -4353,33 +4666,33 @@ var contents = {
 "members": {
 "Clone`0":{
 "files": [
-[172, [59]]
+[182, [59]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[172, [59]],
-[173, [55]],
-[174, [36]],
-[175, [65]],
-[176, [55,84]],
-[177, [88]],
-[166, [95]],
-[178, [83]],
-[179, [73]],
-[180, [73]],
-[167, [93]],
-[181, [34]],
-[182, [34]]
+[182, [59]],
+[183, [55]],
+[184, [36]],
+[185, [65]],
+[186, [55,84]],
+[187, [88]],
+[176, [95]],
+[188, [83]],
+[189, [73]],
+[190, [73]],
+[177, [93]],
+[191, [34]],
+[192, [34]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetForViewIndependentUse`0":{
 "files": [
-[173, [76]],
+[183, [76]],
 [58, [101]]
 ],
 "memberKind": "Method"
@@ -4387,37 +4700,37 @@ var contents = {
 ,
 "Languages":{
 "files": [
-[176, [91]],
-[177, [89,147]],
-[166, [96,156]],
-[178, [84,142]],
-[179, [74,122]],
-[180, [74,321]],
-[167, [94,153]],
-[181, [35,139]],
-[182, [35,138]]
+[186, [91]],
+[187, [89,147]],
+[176, [96,156]],
+[188, [84,142]],
+[189, [74,122]],
+[190, [74,321]],
+[177, [94,153]],
+[191, [35,139]],
+[192, [35,138]]
 ],
 "memberKind": "Property"
 }
 ,
 "QualifierValues":{
 "files": [
-[172, [68,72,76,80]],
-[174, [63]]
+[182, [68,72,76,80]],
+[184, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "Reset`0":{
 "files": [
-[176, [55]]
+[186, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetGlobalQualifierValue`3":{
 "files": [
-[183, [64]]
+[193, [64]]
 ],
 "memberKind": "Method"
 }
@@ -4428,40 +4741,40 @@ var contents = {
 "members": {
 "Current":{
 "files": [
-[172, [90]],
-[173, [71]],
-[174, [61,67]],
-[175, [66]],
-[176, [92]],
+[182, [90]],
+[183, [71]],
+[184, [61,67]],
+[185, [66]],
+[186, [92]],
 [58, [98]],
-[177, [91]],
-[166, [98]],
-[178, [86]],
-[179, [76]],
-[180, [76]],
-[167, [96]],
-[181, [37]],
-[182, [37]]
+[187, [91]],
+[176, [98]],
+[188, [86]],
+[189, [76]],
+[190, [76]],
+[177, [96]],
+[191, [37]],
+[192, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "MainResourceMap":{
 "files": [
-[172, [90]],
-[173, [71]],
-[174, [61,67]],
-[175, [66]],
-[176, [92]],
+[182, [90]],
+[183, [71]],
+[184, [61,67]],
+[185, [66]],
+[186, [92]],
 [58, [98]],
-[177, [91]],
-[166, [98]],
-[178, [86]],
-[179, [76]],
-[180, [76]],
-[167, [96]],
-[181, [37]],
-[182, [37]]
+[187, [91]],
+[176, [98]],
+[188, [86]],
+[189, [76]],
+[190, [76]],
+[177, [96]],
+[191, [37]],
+[192, [37]]
 ],
 "memberKind": "Property"
 }
@@ -4472,38 +4785,38 @@ var contents = {
 "members": {
 "GetSubtree`1":{
 "files": [
-[172, [90]],
-[173, [71]],
-[175, [66]],
-[176, [92]],
+[182, [90]],
+[183, [71]],
+[185, [66]],
+[186, [92]],
 [58, [98]],
-[177, [91]],
-[166, [98]],
-[178, [86]],
-[179, [76]],
-[180, [76]],
-[167, [96]],
-[181, [37]],
-[182, [37]]
+[187, [91]],
+[176, [98]],
+[188, [86]],
+[189, [76]],
+[190, [76]],
+[177, [96]],
+[191, [37]],
+[192, [37]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetValue`1":{
 "files": [
-[173, [95,99]],
-[174, [61,67]],
-[175, [67]],
-[176, [93]],
+[183, [95,99]],
+[184, [61,67]],
+[185, [67]],
+[186, [93]],
 [58, [161,177,179,199,210,215,229,241,252,360,380,391,395,446]],
-[177, [190,196,202,203,209,210,216,217,223,224,229,230,231,233]],
-[166, [220,256,293,308,360,403,418,433,467]],
-[178, [208,214,220,221,227,228,234,235,241,242,247,248,249,252]],
-[179, [190]],
-[180, [159]],
-[167, [224,247,293,343,421,436,451,485]],
-[181, [140]],
-[182, [139]]
+[187, [190,196,202,203,209,210,216,217,223,224,229,230,231,233]],
+[176, [220,256,293,308,360,403,418,433,467]],
+[188, [208,214,220,221,227,228,234,235,241,242,247,248,249,252]],
+[189, [190]],
+[190, [159]],
+[177, [224,247,293,343,421,436,451,485]],
+[191, [140]],
+[192, [139]]
 ],
 "memberKind": "Method"
 }
@@ -4517,31 +4830,31 @@ var contents = {
 ":ctor`0":{
 "files": [
 [28, [150]],
-[184, [79,135]]
+[194, [79,135]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[185, [27]],
-[186, [54]],
-[187, [55]],
-[188, [55]],
-[189, [55]]
+[195, [27]],
+[196, [54]],
+[197, [55]],
+[198, [55]],
+[199, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetString`1":{
 "files": [
-[185, [29]],
-[186, [55]],
-[187, [56]],
-[188, [56]],
-[189, [56]],
+[195, [29]],
+[196, [55]],
+[197, [56]],
+[198, [56]],
+[199, [56]],
 [28, [162,164,166]],
-[184, [81,137,138]]
+[194, [81,137,138]]
 ],
 "memberKind": "Method"
 }
@@ -4556,7 +4869,7 @@ var contents = {
 "members": {
 "QueryTextAlternatives":{
 "files": [
-[190, [197]]
+[200, [197]]
 ],
 "memberKind": "Property"
 }
@@ -4567,7 +4880,7 @@ var contents = {
 "members": {
 "AppendQuerySuggestion`1":{
 "files": [
-[190, [193,202]]
+[200, [193,202]]
 ],
 "memberKind": "Method"
 }
@@ -4578,14 +4891,14 @@ var contents = {
 "members": {
 "GetDeferral`0":{
 "files": [
-[190, [179]]
+[200, [179]]
 ],
 "memberKind": "Method"
 }
 ,
 "SearchSuggestionCollection":{
 "files": [
-[190, [183]]
+[200, [183]]
 ],
 "memberKind": "Property"
 }
@@ -4596,7 +4909,7 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[190, [209]]
+[200, [209]]
 ],
 "memberKind": "Method"
 }
@@ -4611,33 +4924,33 @@ var contents = {
 "files": [
 [1, [163]],
 [9, [107]],
-[191, [233]],
-[192, [139]],
-[193, [147]],
-[194, [101]],
-[195, [94]],
-[196, [117]],
-[197, [94]],
-[198, [99]],
+[201, [233]],
+[202, [139]],
+[203, [147]],
+[204, [101]],
+[205, [94]],
+[206, [117]],
+[207, [94]],
+[208, [99]],
 [3, [133]],
 [11, [107]],
 [12, [34]],
-[199, [455]],
-[200, [402]],
+[209, [455]],
+[210, [402]],
 [0, [158]],
 [13, [125]],
 [14, [134]],
-[201, [127]],
+[211, [127]],
 [15, [108]],
 [16, [110]],
 [17, [115]],
-[202, [121]],
-[203, [109]],
+[212, [121]],
+[213, [109]],
 [8, [88]],
 [19, [101]],
 [20, [109]],
 [21, [91]],
-[204, [92]],
+[214, [92]],
 [22, [110]],
 [23, [106]],
 [24, [109]],
@@ -4657,33 +4970,33 @@ var contents = {
 "files": [
 [1, [161]],
 [9, [105]],
-[191, [217]],
-[192, [132]],
-[193, [140]],
-[194, [95]],
-[195, [88]],
-[196, [111]],
-[197, [88]],
-[198, [93]],
+[201, [217]],
+[202, [132]],
+[203, [140]],
+[204, [95]],
+[205, [88]],
+[206, [111]],
+[207, [88]],
+[208, [93]],
 [3, [132]],
 [11, [105]],
 [12, [32]],
-[199, [448]],
-[200, [397]],
+[209, [448]],
+[210, [397]],
 [0, [156]],
 [13, [123]],
 [14, [132]],
-[201, [121]],
+[211, [121]],
 [15, [106]],
 [16, [108]],
 [17, [102]],
-[202, [98]],
-[203, [90]],
+[212, [98]],
+[213, [90]],
 [8, [86]],
 [19, [99]],
 [20, [107]],
 [21, [89]],
-[204, [90]],
+[214, [90]],
 [22, [108]],
 [23, [104]],
 [24, [107]],
@@ -4703,33 +5016,33 @@ var contents = {
 "files": [
 [1, [161]],
 [9, [105]],
-[191, [217]],
-[192, [132]],
-[193, [140]],
-[194, [95]],
-[195, [88]],
-[196, [111]],
-[197, [88]],
-[198, [93]],
+[201, [217]],
+[202, [132]],
+[203, [140]],
+[204, [95]],
+[205, [88]],
+[206, [111]],
+[207, [88]],
+[208, [93]],
 [3, [132]],
 [11, [105]],
 [12, [32]],
-[199, [448]],
-[200, [397]],
+[209, [448]],
+[210, [397]],
 [0, [156]],
 [13, [123]],
 [14, [132]],
-[201, [121]],
+[211, [121]],
 [15, [106]],
 [16, [108]],
 [17, [102]],
-[202, [98]],
-[203, [90]],
+[212, [98]],
+[213, [90]],
 [8, [86]],
 [19, [99]],
 [20, [107]],
 [21, [89]],
-[204, [90]],
+[214, [90]],
 [22, [108]],
 [23, [104]],
 [24, [107]],
@@ -4770,7 +5083,7 @@ var contents = {
 ,
 "Id":{
 "files": [
-[205, [49]],
+[215, [49]],
 [48, [55]]
 ],
 "memberKind": "Property"
@@ -4778,7 +5091,7 @@ var contents = {
 ,
 "UserDisplayName":{
 "files": [
-[206, [78]]
+[216, [78]]
 ],
 "memberKind": "Property"
 }
@@ -4789,21 +5102,21 @@ var contents = {
 "members": {
 "Appointment":{
 "files": [
-[206, [48]]
+[216, [48]]
 ],
 "memberKind": "Field"
 }
 ,
 "Contact":{
 "files": [
-[206, [48]]
+[216, [48]]
 ],
 "memberKind": "Field"
 }
 ,
 "Email":{
 "files": [
-[206, [48]]
+[216, [48]]
 ],
 "memberKind": "Field"
 }
@@ -4814,8 +5127,8 @@ var contents = {
 "members": {
 "RequestStoreAsync`1":{
 "files": [
-[207, [36]],
-[206, [67]]
+[217, [36]],
+[216, [67]]
 ],
 "memberKind": "Method"
 }
@@ -4829,14 +5142,14 @@ var contents = {
 ,
 "ShowAccountSettingsAsync`1":{
 "files": [
-[205, [49]]
+[215, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowAddAccountAsync`1":{
 "files": [
-[206, [48]]
+[216, [48]]
 ],
 "memberKind": "Method"
 }
@@ -4847,14 +5160,14 @@ var contents = {
 "members": {
 "FindAccountsAsync`0":{
 "files": [
-[207, [40]]
+[217, [40]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetAccountAsync`1":{
 "files": [
-[206, [77]]
+[216, [77]]
 ],
 "memberKind": "Method"
 }
@@ -4865,8 +5178,8 @@ var contents = {
 "members": {
 "AllAccountsReadOnly":{
 "files": [
-[207, [36]],
-[206, [67]]
+[217, [36]],
+[216, [67]]
 ],
 "memberKind": "Field"
 }
@@ -4963,7 +5276,7 @@ var contents = {
 "members": {
 "SetPhraseListAsync`2":{
 "files": [
-[208, [212]]
+[218, [212]]
 ],
 "memberKind": "Method"
 }
@@ -4981,7 +5294,7 @@ var contents = {
 ,
 "InstalledCommandDefinitions":{
 "files": [
-[208, [204]]
+[218, [204]]
 ],
 "memberKind": "Property"
 }
@@ -5110,7 +5423,7 @@ var contents = {
 "members": {
 "ConvertToText`1":{
 "files": [
-[135, [57]]
+[145, [57]]
 ],
 "memberKind": "Method"
 }
@@ -5125,55 +5438,55 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[91, [231]],
-[209, [392]],
-[210, [77]]
+[97, [231]],
+[219, [392]],
+[220, [77]]
 ],
 "memberKind": "?"
 }
 ,
 "ContainsKey":{
 "files": [
-[154, [264]],
-[155, [248]],
-[211, [181,189]]
+[164, [264]],
+[165, [248]],
+[221, [181,189]]
 ],
 "memberKind": "?"
 }
 ,
 "Count":{
 "files": [
-[91, [216]],
-[209, [376]],
-[71, [298]]
+[97, [216]],
+[219, [376]],
+[72, [298]]
 ],
 "memberKind": "?"
 }
 ,
 "GetObject`0":{
 "files": [
-[210, [67]]
+[220, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetString`0":{
 "files": [
-[210, [56]]
+[220, [56]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stringify`0":{
 "files": [
-[212, [75,94,114,135,155]]
+[222, [75,94,114,135,155]]
 ],
 "memberKind": "Method"
 }
 ,
 "ValueType":{
 "files": [
-[210, [50,65]]
+[220, [50,65]]
 ],
 "memberKind": "Property"
 }
@@ -5184,44 +5497,44 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[91, [227]],
-[209, [388]],
-[210, [63,74]]
+[97, [227]],
+[219, [388]],
+[220, [63,74]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Add":{
 "files": [
-[91, [231]],
-[209, [392]],
-[210, [77]]
+[97, [231]],
+[219, [392]],
+[220, [77]]
 ],
 "memberKind": "?"
 }
 ,
 "Count":{
 "files": [
-[91, [216]],
-[209, [376]],
-[71, [298]]
+[97, [216]],
+[219, [376]],
+[72, [298]]
 ],
 "memberKind": "?"
 }
 ,
 "GetStringAt`1":{
 "files": [
-[91, [218]],
-[209, [378]],
-[71, [300]]
+[97, [218]],
+[219, [378]],
+[72, [300]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stringify`0":{
 "files": [
-[91, [234]],
-[209, [395]]
+[97, [234]],
+[219, [395]]
 ],
 "memberKind": "Method"
 }
@@ -5232,7 +5545,7 @@ var contents = {
 "members": {
 "GetJsonStatus`1":{
 "files": [
-[213, [107]]
+[223, [107]]
 ],
 "memberKind": "Method"
 }
@@ -5243,7 +5556,7 @@ var contents = {
 "members": {
 "Unknown":{
 "files": [
-[213, [108]]
+[223, [108]]
 ],
 "memberKind": "Field"
 }
@@ -5254,85 +5567,85 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[214, [52,56]],
-[210, [80]]
+[224, [52,56]],
+[220, [80]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ContainsKey":{
 "files": [
-[154, [264]],
-[155, [248]],
-[211, [181,189]]
+[164, [264]],
+[165, [248]],
+[221, [181,189]]
 ],
 "memberKind": "?"
 }
 ,
 "GetNamedArray`1":{
 "files": [
-[210, [63]]
+[220, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNamedBoolean`1":{
 "files": [
-[210, [61]]
+[220, [61]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNamedNumber`1":{
 "files": [
-[210, [60]]
+[220, [60]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNamedObject`1":{
 "files": [
-[214, [41]]
+[224, [41]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNamedString`1":{
 "files": [
-[214, [44,45,47]],
-[210, [47,59]],
-[215, [110]]
+[224, [44,45,47]],
+[220, [47,59]],
+[225, [110]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNamedValue`1":{
 "files": [
-[210, [49]]
+[220, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "Parse`1":{
 "files": [
-[154, [263]],
-[210, [46]],
-[155, [247]],
-[211, [157]]
+[164, [263]],
+[220, [46]],
+[165, [247]],
+[221, [157]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetNamedValue`2":{
 "files": [
-[214, [53,54,57,58]]
+[224, [53,54,57,58]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stringify`0":{
 "files": [
-[210, [98]]
+[220, [98]]
 ],
 "memberKind": "Method"
 }
@@ -5343,66 +5656,66 @@ var contents = {
 "members": {
 "CreateBooleanValue`1":{
 "files": [
-[210, [96]]
+[220, [96]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateNullValue`0":{
 "files": [
-[210, [86]]
+[220, [86]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateNumberValue`1":{
 "files": [
-[210, [95]]
+[220, [95]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateStringValue`1":{
 "files": [
-[91, [231]],
-[209, [392]],
-[214, [53,54,58]],
-[210, [81,90,93]]
+[97, [231]],
+[219, [392]],
+[224, [53,54,58]],
+[220, [81,90,93]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetArray`0":{
 "files": [
-[91, [210]],
-[209, [370]],
-[71, [292]]
+[97, [210]],
+[219, [370]],
+[72, [292]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetObject`0":{
 "files": [
-[215, [109]],
-[211, [164,174,185]]
+[225, [109]],
+[221, [164,174,185]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetString`0":{
 "files": [
-[211, [193]]
+[221, [193]]
 ],
 "memberKind": "Method"
 }
 ,
 "Parse`1":{
 "files": [
-[91, [210]],
-[209, [370]],
-[71, [292]],
-[216, [81]],
-[215, [109]]
+[97, [210]],
+[219, [370]],
+[72, [292]],
+[226, [81]],
+[225, [109]]
 ],
 "memberKind": "Method"
 }
@@ -5413,14 +5726,14 @@ var contents = {
 "members": {
 "Null":{
 "files": [
-[210, [50]]
+[220, [50]]
 ],
 "memberKind": "Field"
 }
 ,
 "Object":{
 "files": [
-[210, [65]]
+[220, [65]]
 ],
 "memberKind": "Field"
 }
@@ -5435,7 +5748,7 @@ var contents = {
 "members": {
 "Text":{
 "files": [
-[217, [233]]
+[227, [233]]
 ],
 "memberKind": "Property"
 }
@@ -5446,22 +5759,22 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[218, [162]],
-[217, [229]]
+[228, [162]],
+[227, [229]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetTokenAt`2":{
 "files": [
-[217, [232]]
+[227, [232]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTokens`1":{
 "files": [
-[218, [163]]
+[228, [163]]
 ],
 "memberKind": "Method"
 }
@@ -5472,22 +5785,22 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[219, [52]],
-[220, [54]]
+[229, [52]],
+[230, [54]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Find`1":{
 "files": [
-[219, [53]]
+[229, [53]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindInProperty`2":{
 "files": [
-[220, [55,57]]
+[230, [55,57]]
 ],
 "memberKind": "Method"
 }
@@ -5498,28 +5811,28 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[221, [133]]
+[231, [133]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetCandidatesAsync`1":{
 "files": [
-[221, [71,86]]
+[231, [71,86]]
 ],
 "memberKind": "Method"
 }
 ,
 "LanguageAvailableButNotInstalled":{
 "files": [
-[221, [154]]
+[231, [154]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
 "files": [
-[221, [145]]
+[231, [145]]
 ],
 "memberKind": "Property"
 }
@@ -5530,28 +5843,28 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[222, [133]]
+[232, [133]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetCandidatesAsync`1":{
 "files": [
-[222, [72,87]]
+[232, [72,87]]
 ],
 "memberKind": "Method"
 }
 ,
 "LanguageAvailableButNotInstalled":{
 "files": [
-[222, [154]]
+[232, [154]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
 "files": [
-[222, [145]]
+[232, [145]]
 ],
 "memberKind": "Property"
 }
@@ -5562,28 +5875,28 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[223, [82]]
+[233, [82]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ConvertBackAsync`1":{
 "files": [
-[223, [63]]
+[233, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "LanguageAvailableButNotInstalled":{
 "files": [
-[223, [103]]
+[233, [103]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
 "files": [
-[223, [94]]
+[233, [94]]
 ],
 "memberKind": "Property"
 }
@@ -5594,35 +5907,35 @@ var contents = {
 "members": {
 "GetCodepointFromSurrogatePair`2":{
 "files": [
-[224, [66]]
+[234, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsHighSurrogate`1":{
 "files": [
-[224, [60]]
+[234, [60]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsIdContinue`1":{
 "files": [
-[224, [79]]
+[234, [79]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsIdStart`1":{
 "files": [
-[224, [72]]
+[234, [72]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsSupplementary`1":{
 "files": [
-[224, [76]]
+[234, [76]]
 ],
 "memberKind": "Method"
 }
@@ -5633,7 +5946,7 @@ var contents = {
 "members": {
 "Text":{
 "files": [
-[217, [129]]
+[227, [129]]
 ],
 "memberKind": "Property"
 }
@@ -5644,22 +5957,22 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[218, [88]],
-[217, [125]]
+[228, [88]],
+[227, [125]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetTokenAt`2":{
 "files": [
-[217, [128]]
+[227, [128]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTokens`1":{
 "files": [
-[218, [89]]
+[228, [89]]
 ],
 "memberKind": "Method"
 }
@@ -5676,40 +5989,40 @@ var contents = {
 "members": {
 "AppendChild`1":{
 "files": [
-[74, [100,104]],
-[91, [180,184,189]],
-[225, [33,37]],
-[86, [70,72]],
-[226, [64]]
+[75, [100,104]],
+[97, [180,184,189]],
+[235, [33,37]],
+[89, [70,72]],
+[236, [64]]
 ],
 "memberKind": "Method"
 }
 ,
 "Attributes":{
 "files": [
-[227, [267,269,275,277,279,281,284,286,296,298,302,304,314,316,319,321,323,325,327,329,332,334,337,339]]
+[237, [267,269,275,277,279,281,284,286,296,298,302,304,314,316,319,321,323,325,327,329,332,334,337,339]]
 ],
 "memberKind": "Property"
 }
 ,
 "ChildNodes":{
 "files": [
-[227, [504]]
+[237, [504]]
 ],
 "memberKind": "Property"
 }
 ,
 "InnerText":{
 "files": [
-[228, [138,145,164,165,166,167,176,177,178,179]],
-[227, [269,277,281,286,298,304,316,321,325,329,334,339]]
+[238, [138,145,164,165,166,167,176,177,178,179]],
+[237, [269,277,281,286,298,304,316,321,325,329,334,339]]
 ],
 "memberKind": "?"
 }
 ,
 "NodeValue":{
 "files": [
-[229, [65]]
+[239, [65]]
 ],
 "memberKind": "Property"
 }
@@ -5720,8 +6033,8 @@ var contents = {
 "members": {
 "InnerText":{
 "files": [
-[228, [138,145,164,165,166,167,176,177,178,179]],
-[227, [269,277,281,286,298,304,316,321,325,329,334,339]]
+[238, [138,145,164,165,166,167,176,177,178,179]],
+[237, [269,277,281,286,298,304,316,321,325,329,334,339]]
 ],
 "memberKind": "?"
 }
@@ -5732,7 +6045,7 @@ var contents = {
 "members": {
 "InnerText":{
 "files": [
-[181, [163]]
+[191, [163]]
 ],
 "memberKind": "Property"
 }
@@ -5743,179 +6056,181 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[230, [197]],
-[231, [86,97,167,178]],
-[232, [133]],
-[233, [51]],
-[234, [460]],
-[235, [45,74]],
-[96, [83]],
-[225, [25,49]],
-[236, [48,62]],
-[237, [28]],
-[238, [80]],
-[239, [54]],
-[240, [54]],
-[241, [82]],
-[242, [89]],
-[243, [46]],
-[244, [50]],
-[245, [22]],
-[246, [86,97,167,178]],
-[247, [133]],
-[248, [51]],
-[249, [460]],
-[250, [215,232]],
-[181, [159]],
-[226, [57]],
-[229, [57,83]],
-[170, [106]],
-[251, [71]],
-[171, [117,130,192,205]]
+[240, [197]],
+[241, [86,97,167,178]],
+[242, [133]],
+[243, [51]],
+[244, [460]],
+[245, [45,74]],
+[102, [83]],
+[235, [25,49]],
+[246, [48,62]],
+[247, [28]],
+[248, [80]],
+[249, [54]],
+[250, [54]],
+[251, [82]],
+[252, [89]],
+[253, [46]],
+[254, [50]],
+[255, [22]],
+[256, [86,97,167,178]],
+[257, [133]],
+[258, [51]],
+[259, [460]],
+[260, [215,232]],
+[191, [159]],
+[236, [57]],
+[239, [57,83]],
+[180, [106]],
+[261, [71]],
+[181, [117,130,192,205]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CreateCDataSection`1":{
 "files": [
-[226, [62]]
+[236, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateElement`1":{
 "files": [
-[91, [194]],
-[225, [30,35]]
+[97, [194]],
+[235, [30,35]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateTextNode`1":{
 "files": [
-[252, [355]],
-[74, [100,104]],
-[91, [180,184,189]],
-[253, [40,41]],
-[86, [70,72]],
-[93, [86]]
+[262, [355]],
+[75, [100,104]],
+[263, [14]],
+[97, [180,184,189]],
+[264, [40,41]],
+[89, [70,72]],
+[99, [86]]
 ],
 "memberKind": "Method"
 }
 ,
 "DocumentElement":{
 "files": [
-[227, [39,215]],
-[181, [162]]
+[237, [39,215]],
+[191, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetElementsByTagName`1":{
 "files": [
-[252, [354]],
-[228, [138,145,163,175]],
-[74, [99]],
-[91, [179]],
-[253, [36]],
-[254, [110]],
-[86, [68]],
-[93, [85]],
-[226, [63]]
+[262, [354]],
+[238, [138,145,163,175]],
+[75, [99]],
+[263, [13]],
+[97, [179]],
+[264, [36]],
+[265, [110]],
+[89, [68]],
+[99, [85]],
+[236, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetXml`0":{
 "files": [
-[255, [15]],
-[181, [165]],
-[226, [66,79]],
-[229, [68,100]],
-[170, [51,110]],
-[251, [52]],
-[171, [57,63]]
+[266, [15]],
+[191, [165]],
+[236, [66,79]],
+[239, [68,100]],
+[180, [51,110]],
+[261, [52]],
+[181, [57,63]]
 ],
 "memberKind": "Method"
 }
 ,
 "LoadFromFileAsync`1":{
 "files": [
-[169, [53]],
-[170, [150]],
-[171, [56,60]]
+[179, [53]],
+[180, [150]],
+[181, [56,60]]
 ],
 "memberKind": "Method"
 }
 ,
 "LoadXml`1":{
 "files": [
-[231, [87,98,168,179]],
-[232, [134]],
-[233, [52]],
-[234, [461]],
-[235, [46,75]],
-[96, [84]],
-[225, [26,50]],
-[236, [49,63]],
-[237, [29]],
-[238, [81]],
-[239, [55]],
-[240, [55]],
-[241, [83]],
-[242, [90]],
-[243, [47]],
-[244, [51]],
-[245, [23]],
-[246, [87,98,168,179]],
-[247, [134]],
-[248, [52]],
-[249, [461]],
-[250, [216,233]],
-[181, [160]],
-[226, [59]],
-[229, [58,84]],
-[251, [72]],
-[171, [118,131,193,206]]
+[241, [87,98,168,179]],
+[242, [134]],
+[243, [52]],
+[244, [461]],
+[245, [46,75]],
+[102, [84]],
+[235, [26,50]],
+[246, [49,63]],
+[247, [29]],
+[248, [81]],
+[249, [55]],
+[250, [55]],
+[251, [83]],
+[252, [90]],
+[253, [47]],
+[254, [51]],
+[255, [23]],
+[256, [87,98,168,179]],
+[257, [134]],
+[258, [52]],
+[259, [461]],
+[260, [216,233]],
+[191, [160]],
+[236, [59]],
+[239, [58,84]],
+[261, [72]],
+[181, [118,131,193,206]]
 ],
 "memberKind": "Method"
 }
 ,
 "LoadXmlFromBuffer`1":{
 "files": [
-[230, [203]],
-[170, [108]]
+[240, [203]],
+[180, [108]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveToFileAsync`1":{
 "files": [
-[229, [88]],
-[171, [223]]
+[239, [88]],
+[181, [223]]
 ],
 "memberKind": "Method"
 }
 ,
 "SelectNodes`1":{
 "files": [
-[227, [561,575]],
-[243, [52]],
-[244, [56]],
-[229, [62]],
-[251, [93]]
+[237, [561,575]],
+[253, [52]],
+[254, [56]],
+[239, [62]],
+[261, [93]]
 ],
 "memberKind": "Method"
 }
 ,
 "SelectSingleNode`1":{
 "files": [
-[91, [193]],
-[225, [28]],
-[256, [28]],
-[257, [36]],
-[258, [43,64]],
-[253, [44]]
+[97, [193]],
+[235, [28]],
+[267, [28]],
+[268, [36]],
+[269, [43,64]],
+[264, [44]]
 ],
 "memberKind": "Method"
 }
@@ -5926,48 +6241,48 @@ var contents = {
 "members": {
 "ChildNodes":{
 "files": [
-[227, [39]]
+[237, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetAttribute`1":{
 "files": [
-[227, [216,220,224,226,229,231,234,237,240,243,246,248,251,253]]
+[237, [216,220,224,226,229,231,234,237,240,243,246,248,251,253]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetAttributeNode`1":{
 "files": [
-[181, [162]]
+[191, [162]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetElementsByTagName`1":{
 "files": [
-[227, [260]]
+[237, [260]]
 ],
 "memberKind": "Method"
 }
 ,
 "InnerText":{
 "files": [
-[225, [31,36]],
-[243, [53,54]],
-[244, [57,58]]
+[235, [31,36]],
+[253, [53,54]],
+[254, [57,58]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetAttribute`2":{
 "files": [
-[91, [195]],
-[256, [29]],
-[257, [37]],
-[258, [44,65]],
-[253, [45]]
+[97, [195]],
+[267, [29]],
+[268, [37]],
+[269, [44,65]],
+[264, [45]]
 ],
 "memberKind": "Method"
 }
@@ -5978,24 +6293,24 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[169, [50]],
-[170, [71,130]]
+[179, [50]],
+[180, [71,130]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ProhibitDtd":{
 "files": [
-[169, [51]],
-[170, [74,79,84,93,133,138,143]]
+[179, [51]],
+[180, [74,79,84,93,133,138,143]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResolveExternals":{
 "files": [
-[169, [52]],
-[170, [75,80,85,93,134,139,144]]
+[179, [52]],
+[180, [75,80,85,93,134,139,144]]
 ],
 "memberKind": "Property"
 }
@@ -6006,7 +6321,7 @@ var contents = {
 "members": {
 "GetNamedItem`1":{
 "files": [
-[227, [267,269,275,277,279,281,284,286,296,298,302,304,314,316,319,321,323,325,327,329,332,334,337,339]]
+[237, [267,269,275,277,279,281,284,286,296,298,302,304,314,316,319,321,323,325,327,329,332,334,337,339]]
 ],
 "memberKind": "Method"
 }
@@ -6017,26 +6332,26 @@ var contents = {
 "members": {
 "First`0":{
 "files": [
-[93, [86]]
+[99, [86]]
 ],
 "memberKind": "Method"
 }
 ,
 "Item`1":{
 "files": [
-[228, [138,145,164,165,166,167,176,177,178,179]],
-[74, [100,104]],
-[91, [180,184,189]],
-[86, [70,72]],
-[226, [63]],
-[229, [65]]
+[238, [138,145,164,165,166,167,176,177,178,179]],
+[75, [100,104]],
+[97, [180,184,189]],
+[89, [70,72]],
+[236, [63]],
+[239, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "Length":{
 "files": [
-[229, [63]]
+[239, [63]]
 ],
 "memberKind": "Property"
 }
@@ -6051,21 +6366,21 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[171, [143,218]]
+[181, [143,218]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "TransformToDocument`1":{
 "files": [
-[171, [219]]
+[181, [219]]
 ],
 "memberKind": "Method"
 }
 ,
 "TransformToString`1":{
 "files": [
-[171, [144]]
+[181, [144]]
 ],
 "memberKind": "Method"
 }
@@ -6086,14 +6401,14 @@ var contents = {
 "members": {
 "DefaultManufacturer":{
 "files": [
-[259, [179]]
+[270, [179]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportUrl":{
 "files": [
-[259, [180]]
+[270, [180]]
 ],
 "memberKind": "Property"
 }
@@ -6104,28 +6419,28 @@ var contents = {
 "members": {
 "AppName":{
 "files": [
-[252, [300]]
+[262, [300]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceName":{
 "files": [
-[252, [300]]
+[262, [300]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDataBySessionPortAsync`3":{
 "files": [
-[252, [299]]
+[262, [299]]
 ],
 "memberKind": "Method"
 }
 ,
 "Manufacturer":{
 "files": [
-[252, [300]]
+[262, [300]]
 ],
 "memberKind": "Property"
 }
@@ -6136,10 +6451,10 @@ var contents = {
 "members": {
 "Succeeded":{
 "files": [
-[252, [251,260]],
-[260, [704,713]],
-[259, [235]],
-[261, [249]]
+[262, [251,260]],
+[271, [704,713]],
+[270, [235]],
+[272, [249]]
 ],
 "memberKind": "Property"
 }
@@ -6150,10 +6465,10 @@ var contents = {
 "members": {
 "EcdhePsk":{
 "files": [
-[252, [179,277]],
-[260, [684,723]],
-[259, [174,247]],
-[261, [209,261]]
+[262, [179,277]],
+[271, [684,723]],
+[270, [174,247]],
+[272, [209,261]]
 ],
 "memberKind": "Field"
 }
@@ -6164,67 +6479,67 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[252, [176]],
-[260, [681]],
-[259, [171]],
-[261, [206]]
+[262, [176]],
+[271, [681]],
+[270, [171]],
+[272, [206]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AboutData":{
 "files": [
-[259, [179,180]]
+[270, [179,180]]
 ],
 "memberKind": "Property"
 }
 ,
 "AuthenticationComplete":{
 "files": [
-[252, [156,180]],
-[260, [520,685]],
-[259, [142,175]],
-[261, [177,210]]
+[262, [156,180]],
+[271, [520,685]],
+[270, [142,175]],
+[272, [177,210]]
 ],
 "memberKind": "Event"
 }
 ,
 "AuthenticationMechanisms":{
 "files": [
-[252, [178,179]],
-[260, [683,684]],
-[259, [173,174]],
-[261, [208,209]]
+[262, [178,179]],
+[271, [683,684]],
+[270, [173,174]],
+[272, [208,209]]
 ],
 "memberKind": "Property"
 }
 ,
 "CredentialsRequested":{
 "files": [
-[252, [155,181]],
-[260, [519,686]],
-[259, [141,176]],
-[261, [176,211]]
+[262, [155,181]],
+[271, [519,686]],
+[270, [141,176]],
+[272, [176,211]]
 ],
 "memberKind": "Event"
 }
 ,
 "Disconnect`0":{
 "files": [
-[252, [158]],
-[260, [522]],
-[259, [144]],
-[261, [179]]
+[262, [158]],
+[271, [522]],
+[270, [144]],
+[272, [179]]
 ],
 "memberKind": "Method"
 }
 ,
 "StateChanged":{
 "files": [
-[252, [157,177]],
-[260, [521,682]],
-[259, [143,172]],
-[261, [178,207]]
+[262, [157,177]],
+[271, [521,682]],
+[270, [143,172]],
+[272, [178,207]]
 ],
 "memberKind": "Event"
 }
@@ -6235,18 +6550,18 @@ var contents = {
 "members": {
 "Connected":{
 "files": [
-[259, [222]],
-[261, [237]]
+[270, [222]],
+[272, [237]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disconnected":{
 "files": [
-[252, [242]],
-[260, [695]],
-[259, [216]],
-[261, [232]]
+[262, [242]],
+[271, [695]],
+[270, [216]],
+[272, [232]]
 ],
 "memberKind": "Field"
 }
@@ -6257,20 +6572,20 @@ var contents = {
 "members": {
 "State":{
 "files": [
-[252, [242]],
-[260, [695]],
-[259, [214]],
-[261, [230]]
+[262, [242]],
+[271, [695]],
+[270, [214]],
+[272, [230]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[252, [244]],
-[260, [697]],
-[259, [217]],
-[261, [233]]
+[262, [244]],
+[271, [697]],
+[270, [217]],
+[272, [233]]
 ],
 "memberKind": "Property"
 }
@@ -6281,20 +6596,20 @@ var contents = {
 "members": {
 "AuthenticationMechanism":{
 "files": [
-[252, [277]],
-[260, [723]],
-[259, [247]],
-[261, [261]]
+[262, [277]],
+[271, [723]],
+[270, [247]],
+[272, [261]]
 ],
 "memberKind": "Property"
 }
 ,
 "PasswordCredential":{
 "files": [
-[252, [281]],
-[260, [734]],
-[259, [249]],
-[261, [263]]
+[262, [281]],
+[271, [734]],
+[270, [249]],
+[272, [263]]
 ],
 "memberKind": "Property"
 }
@@ -6305,18 +6620,18 @@ var contents = {
 "members": {
 "Credentials":{
 "files": [
-[252, [277,281]],
-[260, [723,734]],
-[259, [247,249]],
-[261, [261,263]]
+[262, [277,281]],
+[271, [723,734]],
+[270, [247,249]],
+[272, [261,263]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[252, [267]],
-[260, [720]]
+[262, [267]],
+[271, [720]]
 ],
 "memberKind": "Method"
 }
@@ -6327,14 +6642,14 @@ var contents = {
 "members": {
 "SessionPort":{
 "files": [
-[252, [299]]
+[262, [299]]
 ],
 "memberKind": "Property"
 }
 ,
 "UniqueName":{
 "files": [
-[252, [299]]
+[262, [299]]
 ],
 "memberKind": "Property"
 }
@@ -6345,8 +6660,8 @@ var contents = {
 "members": {
 "Reason":{
 "files": [
-[252, [342]],
-[260, [779]]
+[262, [342]],
+[271, [779]]
 ],
 "memberKind": "Property"
 }
@@ -6357,8 +6672,8 @@ var contents = {
 "members": {
 "Ok":{
 "files": [
-[252, [224,305,372,386]],
-[260, [753,804,878]]
+[262, [224,305,372,386]],
+[271, [753,804,878]]
 ],
 "memberKind": "Property"
 }
@@ -6373,7 +6688,7 @@ var contents = {
 "members": {
 "DeviceId":{
 "files": [
-[84, [102]]
+[87, [102]]
 ],
 "memberKind": "Property"
 }
@@ -6390,15 +6705,15 @@ var contents = {
 "members": {
 "LocalName":{
 "files": [
-[262, [229]]
+[273, [229]]
 ],
 "memberKind": "Property"
 }
 ,
 "ManufacturerData":{
 "files": [
-[262, [78,234]],
-[263, [69]],
+[273, [78,234]],
+[274, [69]],
 [68, [85]],
 [69, [78]]
 ],
@@ -6411,7 +6726,7 @@ var contents = {
 "members": {
 "Advertisement":{
 "files": [
-[262, [78]],
+[273, [78]],
 [68, [85]]
 ],
 "memberKind": "Property"
@@ -6423,42 +6738,42 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[263, [46]]
+[274, [46]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Advertisement":{
 "files": [
-[263, [69]]
+[274, [69]]
 ],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
 "files": [
-[263, [165]]
+[274, [165]]
 ],
 "memberKind": "Method"
 }
 ,
 "Status":{
 "files": [
-[263, [78]]
+[274, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "StatusChanged":{
 "files": [
-[263, [97,124,142,154]]
+[274, [97,124,142,154]]
 ],
 "memberKind": "Event"
 }
 ,
 "Stop`0":{
 "files": [
-[263, [122,140,178]]
+[274, [122,140,178]]
 ],
 "memberKind": "Method"
 }
@@ -6469,14 +6784,14 @@ var contents = {
 "members": {
 "Error":{
 "files": [
-[263, [195]]
+[274, [195]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[263, [194]]
+[274, [194]]
 ],
 "memberKind": "Property"
 }
@@ -6487,28 +6802,28 @@ var contents = {
 "members": {
 "Advertisement":{
 "files": [
-[262, [229,234]]
+[273, [229,234]]
 ],
 "memberKind": "Property"
 }
 ,
 "AdvertisementType":{
 "files": [
-[262, [223]]
+[273, [223]]
 ],
 "memberKind": "Property"
 }
 ,
 "RawSignalStrengthInDBm":{
 "files": [
-[262, [226]]
+[273, [226]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
 "files": [
-[262, [220]]
+[273, [220]]
 ],
 "memberKind": "Property"
 }
@@ -6519,49 +6834,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[262, [45]]
+[273, [45]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AdvertisementFilter":{
 "files": [
-[262, [78]]
+[273, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "Received":{
 "files": [
-[262, [116,147,166,179]]
+[273, [116,147,166,179]]
 ],
 "memberKind": "Event"
 }
 ,
 "SignalStrengthFilter":{
 "files": [
-[262, [87,91,95]]
+[273, [87,91,95]]
 ],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
 "files": [
-[262, [191]]
+[273, [191]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[262, [145,164,204]]
+[273, [145,164,204]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
 "files": [
-[262, [120,148,167,180]]
+[273, [120,148,167,180]]
 ],
 "memberKind": "Event"
 }
@@ -6572,7 +6887,7 @@ var contents = {
 "members": {
 "Error":{
 "files": [
-[262, [273]]
+[273, [273]]
 ],
 "memberKind": "Property"
 }
@@ -6583,8 +6898,8 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[262, [64]],
-[263, [54]],
+[273, [64]],
+[274, [54]],
 [68, [71]],
 [69, [63]]
 ],
@@ -6593,8 +6908,8 @@ var contents = {
 ,
 "CompanyId":{
 "files": [
-[262, [67]],
-[263, [57,73]],
+[273, [67]],
+[274, [57,73]],
 [68, [74]],
 [69, [66,82]]
 ],
@@ -6603,8 +6918,8 @@ var contents = {
 ,
 "Data":{
 "files": [
-[262, [75]],
-[263, [66]],
+[273, [75]],
+[274, [66]],
 [68, [82]],
 [69, [75]]
 ],
@@ -6621,14 +6936,14 @@ var contents = {
 "members": {
 "Error":{
 "files": [
-[95, [120]]
+[101, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[95, [124]]
+[101, [124]]
 ],
 "memberKind": "Property"
 }
@@ -6639,21 +6954,50 @@ var contents = {
 "members": {
 "Advertisements":{
 "files": [
-[95, [49]]
+[101, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "Error":{
 "files": [
-[95, [44]]
+[101, [44]]
 ],
 "memberKind": "Property"
 }
 ,
 "SignalStrengthFilter":{
 "files": [
-[95, [53]]
+[101, [53]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"RfcommConnectionTriggerDetails":{
+"members": {
+"Socket":{
+"files": [
+[86, [62]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"RfcommInboundConnectionInformation":{
+"members": {
+"LocalServiceId":{
+"files": [
+[70, [73]]
+],
+"memberKind": "Property"
+}
+,
+"SdpRecord":{
+"files": [
+[70, [76]]
 ],
 "memberKind": "Property"
 }
@@ -6666,7 +7010,7 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[263, [79]]
+[274, [79]]
 ],
 "memberKind": "Field"
 }
@@ -6677,27 +7021,27 @@ var contents = {
 "members": {
 "InRangeThresholdInDBm":{
 "files": [
-[262, [87]],
+[273, [87]],
 [68, [93]],
-[95, [61]]
+[101, [61]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutOfRangeThresholdInDBm":{
 "files": [
-[262, [91]],
+[273, [91]],
 [68, [97]],
-[95, [62]]
+[101, [62]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutOfRangeTimeout":{
 "files": [
-[262, [95]],
+[273, [95]],
 [68, [101]],
-[95, [63]]
+[101, [63]]
 ],
 "memberKind": "Property"
 }
@@ -6705,7 +7049,7 @@ var contents = {
 "SamplingInterval":{
 "files": [
 [68, [106]],
-[95, [64]]
+[101, [64]]
 ],
 "memberKind": "Property"
 }
@@ -6718,7 +7062,7 @@ var contents = {
 "members": {
 "GetDeviceSelectorFromUuid`1":{
 "files": [
-[264, [69]]
+[275, [69]]
 ],
 "memberKind": "Method"
 }
@@ -6729,7 +7073,7 @@ var contents = {
 "members": {
 "HeartRate":{
 "files": [
-[264, [69]]
+[275, [69]]
 ],
 "memberKind": "Property"
 }
@@ -6742,9 +7086,45 @@ var contents = {
 "children": {
 "RfcommDeviceService":{
 "members": {
+"ConnectionHostName":{
+"files": [
+[276, [142]]
+],
+"memberKind": "Property"
+}
+,
+"ConnectionServiceName":{
+"files": [
+[276, [142]]
+],
+"memberKind": "Property"
+}
+,
+"Dispose`0":{
+"files": [
+[276, [264]]
+],
+"memberKind": "Method"
+}
+,
+"FromIdAsync`1":{
+"files": [
+[276, [96]]
+],
+"memberKind": "Method"
+}
+,
 "GetDeviceSelector`1":{
 "files": [
-[264, [68]]
+[276, [64]],
+[275, [68]]
+],
+"memberKind": "Method"
+}
+,
+"GetSdpRawAttributesAsync`0":{
+"files": [
+[276, [107]]
 ],
 "memberKind": "Method"
 }
@@ -6753,9 +7133,58 @@ var contents = {
 ,
 "RfcommServiceId":{
 "members": {
+"AsString`0":{
+"files": [
+[277, [58]]
+],
+"memberKind": "Method"
+}
+,
 "FromUuid`1":{
 "files": [
-[264, [68]]
+[276, [64]],
+[277, [52]],
+[70, [73]],
+[275, [68]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"RfcommServiceProvider":{
+"members": {
+"CreateAsync`1":{
+"files": [
+[277, [51]]
+],
+"memberKind": "Method"
+}
+,
+"SdpRawAttributes":{
+"files": [
+[277, [87]]
+],
+"memberKind": "Property"
+}
+,
+"ServiceId":{
+"files": [
+[277, [58]]
+],
+"memberKind": "Property"
+}
+,
+"StartAdvertising`1":{
+"files": [
+[277, [63]]
+],
+"memberKind": "Method"
+}
+,
+"StopAdvertising`0":{
+"files": [
+[277, [140]]
 ],
 "memberKind": "Method"
 }
@@ -6772,14 +7201,14 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[265, [154]],
-[266, [569,570,574]],
-[267, [112]],
-[268, [101]],
-[269, [574,575,579]],
-[270, [587,588,592]],
-[271, [167]],
-[272, [594,595,599]]
+[278, [154]],
+[279, [569,570,574]],
+[280, [112]],
+[281, [101]],
+[282, [574,575,579]],
+[283, [587,588,592]],
+[284, [167]],
+[285, [594,595,599]]
 ],
 "memberKind": "Property"
 }
@@ -6790,55 +7219,55 @@ var contents = {
 "members": {
 "AccessChanged":{
 "files": [
-[265, [42]],
-[266, [448,453]],
-[267, [60]],
-[268, [58]],
-[269, [459]],
-[270, [467,472]],
-[271, [42]],
-[272, [479]]
+[278, [42]],
+[279, [448,453]],
+[280, [60]],
+[281, [58]],
+[282, [459]],
+[283, [467,472]],
+[284, [42]],
+[285, [479]]
 ],
 "memberKind": "Event"
 }
 ,
 "CreateFromDeviceClassId`1":{
 "files": [
-[273, [48]],
-[274, [53]],
-[265, [41]],
+[286, [48]],
+[287, [53]],
+[278, [41]],
 [59, [72]],
-[267, [59]],
-[268, [57]],
-[271, [41]],
-[275, [73]],
-[276, [47]]
+[280, [59]],
+[281, [57]],
+[284, [41]],
+[288, [73]],
+[289, [47]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFromId`1":{
 "files": [
-[266, [265,445]],
-[269, [277]],
-[270, [292,464]],
-[272, [277]]
+[279, [265,445]],
+[282, [277]],
+[283, [292,464]],
+[285, [277]]
 ],
 "memberKind": "Method"
 }
 ,
 "CurrentStatus":{
 "files": [
-[273, [49]],
-[274, [54]],
-[265, [98]],
+[286, [49]],
+[287, [54]],
+[278, [98]],
 [59, [73]],
-[266, [265]],
-[269, [277]],
-[270, [292]],
-[275, [74]],
-[276, [48]],
-[272, [277]]
+[279, [265]],
+[282, [277]],
+[283, [292]],
+[288, [74]],
+[289, [48]],
+[285, [277]]
 ],
 "memberKind": "Property"
 }
@@ -6849,39 +7278,39 @@ var contents = {
 "members": {
 "Allowed":{
 "files": [
-[273, [49]],
-[274, [54]],
-[265, [98,155]],
+[286, [49]],
+[287, [54]],
+[278, [98,155]],
 [59, [73]],
-[266, [574]],
-[267, [113]],
-[268, [102]],
-[269, [579]],
-[270, [592]],
-[271, [168]],
-[275, [74]],
-[276, [48]],
-[272, [599]]
+[279, [574]],
+[280, [113]],
+[281, [102]],
+[282, [579]],
+[283, [592]],
+[284, [168]],
+[288, [74]],
+[289, [48]],
+[285, [599]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeniedBySystem":{
 "files": [
-[266, [271,569]],
-[269, [283,574]],
-[270, [298,587]],
-[272, [283,594]]
+[279, [271,569]],
+[282, [283,574]],
+[283, [298,587]],
+[285, [283,594]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeniedByUser":{
 "files": [
-[266, [267,570]],
-[269, [279,575]],
-[270, [294,588]],
-[272, [279,595]]
+[279, [267,570]],
+[282, [279,575]],
+[283, [294,588]],
+[285, [279,595]]
 ],
 "memberKind": "Field"
 }
@@ -6892,60 +7321,60 @@ var contents = {
 "members": {
 "All":{
 "files": [
-[264, [57]]
+[275, [57]]
 ],
 "memberKind": "Field"
 }
 ,
 "AudioCapture":{
 "files": [
-[264, [58]]
+[275, [58]]
 ],
 "memberKind": "Field"
 }
 ,
 "AudioRender":{
 "files": [
-[264, [59]],
-[277, [48]]
+[275, [59]],
+[290, [48]]
 ],
 "memberKind": "Field"
 }
 ,
 "ImageScanner":{
 "files": [
-[264, [60]]
+[275, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "Location":{
 "files": [
-[264, [61]]
+[275, [61]]
 ],
 "memberKind": "Field"
 }
 ,
 "PortableStorageDevice":{
 "files": [
-[264, [62]]
+[275, [62]]
 ],
 "memberKind": "Field"
 }
 ,
 "VideoCapture":{
 "files": [
-[194, [727]],
-[195, [481]],
-[196, [777]],
-[278, [178]],
-[279, [150]],
-[280, [126]],
-[197, [634]],
-[198, [776]],
-[264, [63]],
-[201, [537]],
-[281, [234]]
+[204, [703]],
+[205, [463]],
+[206, [761]],
+[291, [178]],
+[292, [150]],
+[293, [126]],
+[207, [611]],
+[208, [760]],
+[275, [63]],
+[211, [537]],
+[294, [234]]
 ],
 "memberKind": "Field"
 }
@@ -6956,8 +7385,8 @@ var contents = {
 "members": {
 "Device":{
 "files": [
-[115, [207,213]],
-[116, [183,196,207]]
+[124, [207,213]],
+[125, [183,196,207]]
 ],
 "memberKind": "Property"
 }
@@ -6968,186 +7397,189 @@ var contents = {
 "members": {
 "CreateFromIdAsync`3":{
 "files": [
-[282, [220]],
-[277, [73]]
+[295, [220]],
+[290, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateWatcher`3":{
 "files": [
-[283, [36]],
-[266, [248]],
-[284, [178]],
-[267, [54]],
-[268, [52]],
-[269, [260]],
-[285, [205]],
-[270, [275]],
-[286, [205,221]],
-[287, [81,86]],
-[75, [80,85]],
-[288, [79]],
-[289, [146]],
-[290, [83]],
-[291, [45]],
-[292, [37]],
-[293, [37]],
-[294, [38]],
-[272, [260]],
-[295, [192]],
-[296, [84]]
+[296, [36]],
+[279, [248]],
+[297, [178]],
+[280, [54]],
+[281, [52]],
+[282, [260]],
+[298, [205]],
+[283, [275]],
+[299, [205,221]],
+[300, [81,86]],
+[77, [80,85]],
+[301, [79]],
+[302, [146]],
+[303, [83]],
+[304, [45]],
+[305, [37]],
+[306, [37]],
+[307, [38]],
+[285, [260]],
+[308, [192]],
+[309, [84]]
 ],
 "memberKind": "Method"
 }
 ,
 "EnclosureLocation":{
 "files": [
-[297, [349]]
+[310, [349]]
 ],
 "memberKind": "Property"
 }
 ,
 "FindAllAsync`3":{
 "files": [
-[298, [171]],
-[299, [54]],
-[194, [727]],
-[195, [481]],
-[196, [777]],
-[278, [178]],
-[279, [150]],
-[280, [126]],
-[197, [634]],
-[198, [776]],
-[300, [60,65]],
-[277, [48]],
-[301, [74]],
-[291, [104]],
-[297, [139,184]],
-[302, [109,114]],
-[201, [537]],
-[303, [296]],
-[304, [220]],
-[305, [196]],
-[120, [56]],
-[281, [234]],
-[306, [64]],
-[307, [340]],
-[308, [54]],
-[309, [56]],
-[310, [65]]
+[311, [171]],
+[312, [54]],
+[276, [63]],
+[204, [703]],
+[205, [463]],
+[206, [761]],
+[291, [178]],
+[292, [150]],
+[293, [126]],
+[207, [611]],
+[208, [760]],
+[313, [60,65]],
+[290, [48]],
+[314, [43]],
+[315, [41]],
+[316, [74]],
+[304, [104]],
+[310, [139,184]],
+[317, [109,114]],
+[211, [537]],
+[318, [296]],
+[319, [220]],
+[320, [196]],
+[129, [56]],
+[294, [234]],
+[321, [64]],
+[322, [340]],
+[323, [54]],
+[324, [56]],
+[325, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetGlyphThumbnailAsync`0":{
 "files": [
-[264, [246]]
+[275, [246]]
 ],
 "memberKind": "Method"
 }
 ,
 "Id":{
 "files": [
-[116, [119,327,343]],
-[283, [104]],
-[266, [216,231,265,269,275,280,374,445,533,548]],
-[284, [265,304,375,398,404,413,439,443]],
-[267, [72]],
-[268, [70]],
-[269, [222,237,277,281,287,292,378,539,554]],
-[285, [292,331,402,425,434,438,446,466,476,480]],
-[270, [237,252,292,296,302,307,393,464,552,567]],
-[286, [308,347,418,441,446,453,473,479]],
-[73, [189]],
-[98, [34]],
-[264, [175]],
-[301, [86,87]],
-[297, [345]],
-[311, [133]],
-[312, [180]],
-[303, [300]],
-[304, [224]],
-[305, [200,205]],
-[292, [51]],
-[293, [51]],
-[294, [52]],
-[272, [222,237,277,281,287,292,398,559,574]],
-[295, [279,318,389,412,417,426,446,452]],
-[313, [100]],
-[306, [73]],
-[314, [212]],
-[296, [131,151,267]],
-[315, [32,139]],
-[316, [481]]
+[125, [119,327,343]],
+[296, [104]],
+[279, [216,231,265,269,275,280,374,445,533,548]],
+[297, [265,304,375,398,404,413,439,443]],
+[280, [72]],
+[281, [70]],
+[282, [222,237,277,281,287,292,378,539,554]],
+[298, [292,331,402,425,434,438,446,466,476,480]],
+[283, [237,252,292,296,302,307,393,464,552,567]],
+[299, [308,347,418,441,446,453,473,479]],
+[74, [189]],
+[106, [34]],
+[275, [175]],
+[316, [86,87]],
+[310, [345]],
+[326, [133]],
+[327, [180]],
+[318, [300]],
+[319, [224]],
+[320, [200,205]],
+[305, [51]],
+[306, [51]],
+[307, [52]],
+[285, [222,237,277,281,287,292,398,559,574]],
+[308, [279,318,389,412,417,426,446,452]],
+[328, [100]],
+[321, [73]],
+[329, [212]],
+[309, [131,151,267]],
+[330, [32,139]],
+[331, [481]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsDefault":{
 "files": [
-[297, [347]]
+[310, [347]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[297, [348]]
+[310, [348]]
 ],
 "memberKind": "Property"
 }
 ,
 "Kind":{
 "files": [
-[264, [167]]
+[275, [167]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[282, [137,172]],
-[115, [171,178]],
-[116, [257,279,322,342,348,353,362,387,440,445,458,468,540]],
-[317, [378]],
-[264, [183]],
-[297, [154,199,346]],
-[120, [113,116]],
-[314, [175,206,244]],
-[296, [257]],
-[318, [126]]
+[295, [137,172]],
+[124, [171,178]],
+[125, [257,279,322,342,348,353,362,387,440,445,458,468,540]],
+[332, [378]],
+[275, [183]],
+[310, [154,199,346]],
+[129, [113,116]],
+[329, [175,206,244]],
+[309, [257]],
+[333, [126]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pairing":{
 "files": [
-[264, [197,205]],
-[290, [206,218,219]]
+[275, [197,205]],
+[303, [206,218,219]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[116, [447]],
-[319, [32]],
-[320, [38]],
-[321, [38]],
-[264, [213]],
-[297, [353]],
-[322, [38]],
-[316, [382,392,402,412,433]]
+[125, [447]],
+[334, [32]],
+[335, [38]],
+[336, [38]],
+[275, [213]],
+[310, [353]],
+[337, [38]],
+[331, [382,392,402,412,433]]
 ],
 "memberKind": "Property"
 }
 ,
 "Update`1":{
 "files": [
-[264, [232]],
-[296, [153]]
+[275, [232]],
+[309, [153]]
 ],
 "memberKind": "Method"
 }
@@ -7158,50 +7590,50 @@ var contents = {
 "members": {
 "AssociationEndpoint":{
 "files": [
-[264, [111]],
-[290, [86]]
+[275, [111]],
+[303, [86]]
 ],
 "memberKind": "Field"
 }
 ,
 "AssociationEndpointContainer":{
 "files": [
-[264, [110]]
+[275, [110]]
 ],
 "memberKind": "Field"
 }
 ,
 "AssociationEndpointService":{
 "files": [
-[264, [112,113]]
+[275, [112,113]]
 ],
 "memberKind": "Field"
 }
 ,
 "Device":{
 "files": [
-[264, [107]]
+[275, [107]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceContainer":{
 "files": [
-[264, [106]]
+[275, [106]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceInterface":{
 "files": [
-[264, [108,113]]
+[275, [108,113]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceInterfaceClass":{
 "files": [
-[264, [109]]
+[275, [109]]
 ],
 "memberKind": "Field"
 }
@@ -7212,23 +7644,23 @@ var contents = {
 "members": {
 "CanPair":{
 "files": [
-[264, [197]],
-[290, [218]]
+[275, [197]],
+[303, [218]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPaired":{
 "files": [
-[264, [205]],
-[290, [219]]
+[275, [205]],
+[303, [219]]
 ],
 "memberKind": "Property"
 }
 ,
 "PairAsync`0":{
 "files": [
-[290, [206]]
+[303, [206]]
 ],
 "memberKind": "Method"
 }
@@ -7239,17 +7671,17 @@ var contents = {
 "members": {
 "Id":{
 "files": [
-[283, [116]],
-[266, [533]],
-[284, [358,360]],
-[269, [539]],
-[285, [385,387]],
-[270, [552]],
-[286, [401,403]],
-[98, [38,42]],
-[272, [559]],
-[295, [372,374]],
-[296, [131,151]]
+[296, [116]],
+[279, [533]],
+[297, [358,360]],
+[282, [539]],
+[298, [385,387]],
+[283, [552]],
+[299, [401,403]],
+[106, [38,42]],
+[285, [559]],
+[308, [372,374]],
+[309, [131,151]]
 ],
 "memberKind": "Property"
 }
@@ -7260,7 +7692,7 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[290, [209,210]]
+[303, [209,210]]
 ],
 "memberKind": "Property"
 }
@@ -7271,7 +7703,7 @@ var contents = {
 "members": {
 "Paired":{
 "files": [
-[290, [210]]
+[303, [210]]
 ],
 "memberKind": "Field"
 }
@@ -7282,76 +7714,76 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[115, [64]],
-[116, [71]],
-[323, [74]]
+[124, [64]],
+[125, [71]],
+[338, [74]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DevicePickerDismissed":{
 "files": [
-[115, [76]],
-[116, [80]],
-[323, [108]]
+[124, [76]],
+[125, [80]],
+[338, [108]]
 ],
 "memberKind": "Event"
 }
 ,
 "DeviceSelected":{
 "files": [
-[115, [70]],
-[116, [74]],
-[323, [119]]
+[124, [70]],
+[125, [74]],
+[338, [119]]
 ],
 "memberKind": "Event"
 }
 ,
 "DisconnectButtonClicked":{
 "files": [
-[115, [73]],
-[116, [77]]
+[124, [73]],
+[125, [77]]
 ],
 "memberKind": "Event"
 }
 ,
 "Filter":{
 "files": [
-[115, [67]],
-[116, [84,89,92]],
-[323, [82,87]]
+[124, [67]],
+[125, [84,89,92]],
+[338, [82,87]]
 ],
 "memberKind": "Property"
 }
 ,
 "Hide`0":{
 "files": [
-[115, [167]],
-[116, [155,202]]
+[124, [167]],
+[125, [155,202]]
 ],
 "memberKind": "Method"
 }
 ,
 "PickSingleDeviceAsync`1":{
 "files": [
-[323, [99]]
+[338, [99]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetDisplayStatus`3":{
 "files": [
-[115, [107,166,173,180,207,213]],
-[116, [125,152,160,183,196,207]]
+[124, [107,166,173,180,207,213]],
+[125, [125,152,160,183,196,207]]
 ],
 "memberKind": "Method"
 }
 ,
 "Show`1":{
 "files": [
-[115, [97]],
-[116, [113]],
-[323, [131]]
+[124, [97]],
+[125, [113]],
+[338, [131]]
 ],
 "memberKind": "Method"
 }
@@ -7362,42 +7794,42 @@ var contents = {
 "members": {
 "AccentColor":{
 "files": [
-[324, [72]]
+[339, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "BackgroundColor":{
 "files": [
-[324, [70]]
+[339, [70]]
 ],
 "memberKind": "Property"
 }
 ,
 "ForegroundColor":{
 "files": [
-[324, [71]]
+[339, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedAccentColor":{
 "files": [
-[324, [74]]
+[339, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedBackgroundColor":{
 "files": [
-[324, [77]]
+[339, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedForegroundColor":{
 "files": [
-[324, [76]]
+[339, [76]]
 ],
 "memberKind": "Property"
 }
@@ -7408,32 +7840,32 @@ var contents = {
 "members": {
 "None":{
 "files": [
-[115, [213]],
-[116, [196]]
+[124, [213]],
+[125, [196]]
 ],
 "memberKind": "Field"
 }
 ,
 "ShowDisconnectButton":{
 "files": [
-[115, [166]],
-[116, [152,207]]
+[124, [166]],
+[125, [152,207]]
 ],
 "memberKind": "Field"
 }
 ,
 "ShowProgress":{
 "files": [
-[115, [107,207]],
-[116, [125,183]]
+[124, [107,207]],
+[125, [125,183]]
 ],
 "memberKind": "Field"
 }
 ,
 "ShowRetryButton":{
 "files": [
-[115, [173,180]],
-[116, [160]]
+[124, [173,180]],
+[125, [160]]
 ],
 "memberKind": "Field"
 }
@@ -7444,16 +7876,16 @@ var contents = {
 "members": {
 "SupportedDeviceClasses":{
 "files": [
-[323, [82]]
+[338, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportedDeviceSelectors":{
 "files": [
-[115, [67]],
-[116, [84,89,92]],
-[323, [87]]
+[124, [67]],
+[125, [84,89,92]],
+[338, [87]]
 ],
 "memberKind": "Property"
 }
@@ -7464,8 +7896,8 @@ var contents = {
 "members": {
 "SelectedDevice":{
 "files": [
-[115, [107,110,166,173,180]],
-[116, [119,125,128]]
+[124, [107,110,166,173,180]],
+[125, [119,125,128]]
 ],
 "memberKind": "Property"
 }
@@ -7476,162 +7908,162 @@ var contents = {
 "members": {
 "Added":{
 "files": [
-[283, [39]],
-[266, [422,429]],
-[284, [210]],
-[267, [55]],
-[268, [53]],
-[269, [426,433]],
-[285, [237]],
-[270, [441,448]],
-[286, [253]],
-[287, [106,189]],
-[288, [98,184]],
-[289, [155,178]],
-[290, [103,186]],
-[291, [50,61]],
-[292, [38]],
-[293, [38]],
-[294, [39]],
-[272, [446,453]],
-[295, [224]],
-[296, [86,99]]
+[296, [39]],
+[279, [422,429]],
+[297, [210]],
+[280, [55]],
+[281, [53]],
+[282, [426,433]],
+[298, [237]],
+[283, [441,448]],
+[299, [253]],
+[300, [106,189]],
+[301, [98,184]],
+[302, [155,178]],
+[303, [103,186]],
+[304, [50,61]],
+[305, [38]],
+[306, [38]],
+[307, [39]],
+[285, [446,453]],
+[308, [224]],
+[309, [86,99]]
 ],
 "memberKind": "Event"
 }
 ,
 "EnumerationCompleted":{
 "files": [
-[283, [42]],
-[284, [212]],
-[285, [239]],
-[286, [255]],
-[287, [159,192]],
-[288, [151,187]],
-[289, [158,181]],
-[290, [156,189]],
-[291, [53,64]],
-[295, [226]],
-[296, [89,102]]
+[296, [42]],
+[297, [212]],
+[298, [239]],
+[299, [255]],
+[300, [159,192]],
+[301, [151,187]],
+[302, [158,181]],
+[303, [156,189]],
+[304, [53,64]],
+[308, [226]],
+[309, [89,102]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetBackgroundTrigger`1":{
 "files": [
-[75, [92]]
+[77, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "Removed":{
 "files": [
-[283, [40]],
-[266, [424,432]],
-[284, [211]],
-[269, [428,436]],
-[285, [238]],
-[270, [443,451]],
-[286, [254]],
-[287, [148,191]],
-[288, [140,186]],
-[289, [157,180]],
-[290, [145,188]],
-[291, [51,62]],
-[272, [448,456]],
-[295, [225]],
-[296, [87,100]]
+[296, [40]],
+[279, [424,432]],
+[297, [211]],
+[282, [428,436]],
+[298, [238]],
+[283, [443,451]],
+[299, [254]],
+[300, [148,191]],
+[301, [140,186]],
+[302, [157,180]],
+[303, [145,188]],
+[304, [51,62]],
+[285, [448,456]],
+[308, [225]],
+[309, [87,100]]
 ],
 "memberKind": "Event"
 }
 ,
 "Start`0":{
 "files": [
-[283, [83]],
-[266, [465]],
-[284, [231]],
-[267, [56]],
-[268, [54]],
-[269, [471]],
-[285, [258]],
-[270, [484]],
-[286, [274]],
-[287, [175]],
-[288, [167]],
-[289, [161]],
-[290, [172]],
-[291, [74]],
-[292, [39]],
-[293, [39]],
-[294, [40]],
-[272, [491]],
-[295, [245]],
-[296, [92]]
+[296, [83]],
+[279, [465]],
+[297, [231]],
+[280, [56]],
+[281, [54]],
+[282, [471]],
+[298, [258]],
+[283, [484]],
+[299, [274]],
+[300, [175]],
+[301, [167]],
+[302, [161]],
+[303, [172]],
+[304, [74]],
+[305, [39]],
+[306, [39]],
+[307, [40]],
+[285, [491]],
+[308, [245]],
+[309, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "Status":{
 "files": [
-[283, [77,152]],
-[266, [462,463,471,472]],
-[284, [228,229,244,245]],
-[269, [468,469,477,478]],
-[285, [255,256,271,272]],
-[270, [481,482,490,491]],
-[286, [271,272,287,288]],
-[287, [194,195]],
-[288, [189,190]],
-[289, [183,184,202,203,204]],
-[290, [191,192]],
-[291, [72,83]],
-[272, [488,489,497,498]],
-[295, [242,243,258,259]]
+[296, [77,152]],
+[279, [462,463,471,472]],
+[297, [228,229,244,245]],
+[282, [468,469,477,478]],
+[298, [255,256,271,272]],
+[283, [481,482,490,491]],
+[299, [271,272,287,288]],
+[300, [194,195]],
+[301, [189,190]],
+[302, [183,184,202,203,204]],
+[303, [191,192]],
+[304, [72,83]],
+[285, [488,489,497,498]],
+[308, [242,243,258,259]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stop`0":{
 "files": [
-[283, [95,132,155]],
-[266, [474]],
-[284, [247]],
-[269, [480]],
-[285, [274]],
-[270, [493]],
-[286, [290]],
-[287, [197]],
-[288, [192]],
-[289, [186]],
-[290, [194]],
-[291, [85]],
-[272, [500]],
-[295, [261]],
-[296, [105]]
+[296, [95,132,155]],
+[279, [474]],
+[297, [247]],
+[282, [480]],
+[298, [274]],
+[283, [493]],
+[299, [290]],
+[300, [197]],
+[301, [192]],
+[302, [186]],
+[303, [194]],
+[304, [85]],
+[285, [500]],
+[308, [261]],
+[309, [105]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
 "files": [
-[283, [41]],
-[287, [172]],
-[288, [164]],
-[289, [159]],
-[290, [169]],
-[296, [90,103]]
+[296, [41]],
+[300, [172]],
+[301, [164]],
+[302, [159]],
+[303, [169]],
+[309, [90,103]]
 ],
 "memberKind": "Event"
 }
 ,
 "Updated":{
 "files": [
-[287, [126,190]],
-[288, [118,185]],
-[289, [156,179]],
-[290, [123,187]],
-[291, [52,63]],
-[296, [88,101]]
+[300, [126,190]],
+[301, [118,185]],
+[302, [156,179]],
+[303, [123,187]],
+[304, [52,63]],
+[309, [88,101]]
 ],
 "memberKind": "Event"
 }
@@ -7642,21 +8074,21 @@ var contents = {
 "members": {
 "DeviceInformation":{
 "files": [
-[98, [34]]
+[106, [34]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceInformationUpdate":{
 "files": [
-[98, [38,42]]
+[106, [38,42]]
 ],
 "memberKind": "Property"
 }
 ,
 "Kind":{
 "files": [
-[98, [31]]
+[106, [31]]
 ],
 "memberKind": "Property"
 }
@@ -7667,24 +8099,24 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[98, [33]],
-[75, [68]]
+[106, [33]],
+[77, [68]]
 ],
 "memberKind": "Field"
 }
 ,
 "Remove":{
 "files": [
-[98, [41]],
-[75, [68]]
+[106, [41]],
+[77, [68]]
 ],
 "memberKind": "Field"
 }
 ,
 "Update":{
 "files": [
-[98, [37]],
-[75, [68]]
+[106, [37]],
+[77, [68]]
 ],
 "memberKind": "Field"
 }
@@ -7695,62 +8127,62 @@ var contents = {
 "members": {
 "Aborted":{
 "files": [
-[287, [168]],
-[288, [160]],
-[290, [165]]
+[300, [168]],
+[301, [160]],
+[303, [165]]
 ],
 "memberKind": "Field"
 }
 ,
 "EnumerationCompleted":{
 "files": [
-[266, [463,472]],
-[284, [229,245]],
-[269, [469,478]],
-[285, [256,272]],
-[270, [482,491]],
-[286, [272,288]],
-[287, [195]],
-[288, [190]],
-[289, [184,203]],
-[290, [192]],
-[272, [489,498]],
-[295, [243,259]]
+[279, [463,472]],
+[297, [229,245]],
+[282, [469,478]],
+[298, [256,272]],
+[283, [482,491]],
+[299, [272,288]],
+[300, [195]],
+[301, [190]],
+[302, [184,203]],
+[303, [192]],
+[285, [489,498]],
+[308, [243,259]]
 ],
 "memberKind": "Field"
 }
 ,
 "Started":{
 "files": [
-[283, [77]],
-[266, [462,471]],
-[284, [228,244]],
-[269, [468,477]],
-[285, [255,271]],
-[270, [481,490]],
-[286, [271,287]],
-[287, [194]],
-[288, [189]],
-[289, [183,202]],
-[290, [191]],
-[291, [72]],
-[272, [488,497]],
-[295, [242,258]]
+[296, [77]],
+[279, [462,471]],
+[297, [228,244]],
+[282, [468,477]],
+[298, [255,271]],
+[283, [481,490]],
+[299, [271,287]],
+[300, [194]],
+[301, [189]],
+[302, [183,202]],
+[303, [191]],
+[304, [72]],
+[285, [488,497]],
+[308, [242,258]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
 "files": [
-[283, [152]],
-[291, [83]]
+[296, [152]],
+[304, [83]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopping":{
 "files": [
-[289, [204]]
+[302, [204]]
 ],
 "memberKind": "Field"
 }
@@ -7761,7 +8193,7 @@ var contents = {
 "members": {
 "DeviceWatcherEvents":{
 "files": [
-[98, [27,29,54]]
+[106, [27,29,54]]
 ],
 "memberKind": "Property"
 }
@@ -7772,40 +8204,40 @@ var contents = {
 "members": {
 "Back":{
 "files": [
-[195, [216]],
-[196, [316]],
-[278, [69,140]],
-[279, [75]],
-[280, [69]],
-[197, [253]],
-[198, [295]],
-[301, [79]],
-[201, [365]]
+[205, [216]],
+[206, [316]],
+[291, [69,140]],
+[292, [75]],
+[293, [69]],
+[207, [253]],
+[208, [295]],
+[316, [79]],
+[211, [365]]
 ],
 "memberKind": "Field"
 }
 ,
 "Front":{
 "files": [
-[194, [283,330]],
-[195, [262]],
-[196, [365]],
-[279, [73]],
-[197, [300]],
-[198, [345]],
-[201, [412]]
+[204, [283,326]],
+[205, [258]],
+[206, [361]],
+[292, [73]],
+[207, [296]],
+[208, [341]],
+[211, [412]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[194, [319]],
-[195, [251]],
-[196, [354]],
-[197, [289]],
-[198, [334]],
-[201, [401]]
+[204, [315]],
+[205, [247]],
+[206, [350]],
+[207, [285]],
+[208, [330]],
+[211, [401]]
 ],
 "memberKind": "Field"
 }
@@ -7820,61 +8252,61 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[325, [109]],
-[326, [43]],
-[327, [43,73,74,75,76,94,95]],
-[328, [40]],
-[329, [59,84]],
-[330, [54,78]],
-[331, [20,30,40,50]]
+[340, [104]],
+[341, [43]],
+[342, [43,73,74,75,76,94,95]],
+[343, [40]],
+[344, [59,84]],
+[345, [54,78]],
+[346, [20,30,40,50]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Altitude":{
 "files": [
-[332, [275]],
-[325, [112]]
+[347, [275]],
+[340, [107]]
 ],
 "memberKind": "Field"
 }
 ,
 "Latitude":{
 "files": [
-[91, [103]],
-[92, [70]],
-[333, [63]],
-[334, [225]],
-[335, [193]],
-[332, [273]],
-[209, [291]],
-[325, [70,110]],
-[326, [43,56]],
-[327, [43,69,73,74,75,76,90,94,95]],
-[328, [40]],
-[329, [60,84]],
-[330, [55,78]],
-[331, [20,22,30,32,40,42,50,52]]
+[97, [103]],
+[98, [70]],
+[348, [63]],
+[349, [225]],
+[350, [193]],
+[347, [273]],
+[219, [291]],
+[340, [63,105]],
+[341, [43,56]],
+[342, [43,69,73,74,75,76,90,94,95]],
+[343, [40]],
+[344, [60,84]],
+[345, [55,78]],
+[346, [20,22,30,32,40,42,50,52]]
 ],
 "memberKind": "Field"
 }
 ,
 "Longitude":{
 "files": [
-[91, [104]],
-[92, [71]],
-[333, [72]],
-[334, [226]],
-[335, [194]],
-[332, [274]],
-[209, [292]],
-[325, [70,111]],
-[326, [43,56]],
-[327, [43,70,73,74,75,76,91,94,95]],
-[328, [40]],
-[329, [61,84]],
-[330, [56,78]],
-[331, [20,23,30,33,40,43,50,53]]
+[97, [104]],
+[98, [71]],
+[348, [72]],
+[349, [226]],
+[350, [194]],
+[347, [274]],
+[219, [292]],
+[340, [63,106]],
+[341, [43,56]],
+[342, [43,70,73,74,75,76,91,94,95]],
+[343, [40]],
+[344, [61,84]],
+[345, [56,78]],
+[346, [20,23,30,33,40,43,50,53]]
 ],
 "memberKind": "Field"
 }
@@ -7885,21 +8317,21 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[332, [279]]
+[347, [279]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Center":{
 "files": [
-[333, [63,72]]
+[348, [63,72]]
 ],
 "memberKind": "Property"
 }
 ,
 "Radius":{
 "files": [
-[333, [81]]
+[348, [81]]
 ],
 "memberKind": "Property"
 }
@@ -7910,41 +8342,41 @@ var contents = {
 "members": {
 "Accuracy":{
 "files": [
-[92, [72]],
-[334, [227]],
-[335, [195]]
+[98, [72]],
+[349, [227]],
+[350, [195]]
 ],
 "memberKind": "Property"
 }
 ,
 "Point":{
 "files": [
-[91, [103,104]],
-[92, [70,71]],
-[334, [225,226]],
-[335, [193,194]],
-[209, [291,292]]
+[97, [103,104]],
+[98, [70,71]],
+[349, [225,226]],
+[350, [193,194]],
+[219, [291,292]]
 ],
 "memberKind": "Property"
 }
 ,
 "PositionSource":{
 "files": [
-[335, [196,198]]
+[350, [196,198]]
 ],
 "memberKind": "Property"
 }
 ,
 "SatelliteData":{
 "files": [
-[335, [201,202,203]]
+[350, [201,202,203]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
 "files": [
-[91, [86]]
+[97, [86]]
 ],
 "memberKind": "Property"
 }
@@ -7955,21 +8387,21 @@ var contents = {
 "members": {
 "HorizontalDilutionOfPrecision":{
 "files": [
-[335, [202]]
+[350, [202]]
 ],
 "memberKind": "Property"
 }
 ,
 "PositionDilutionOfPrecision":{
 "files": [
-[335, [201]]
+[350, [201]]
 ],
 "memberKind": "Property"
 }
 ,
 "VerticalDilutionOfPrecision":{
 "files": [
-[335, [203]]
+[350, [203]]
 ],
 "memberKind": "Property"
 }
@@ -7982,57 +8414,57 @@ var contents = {
 "members": {
 ":ctor`7":{
 "files": [
-[332, [337]]
+[347, [337]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Duration":{
 "files": [
-[333, [121]]
+[348, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "DwellTime":{
 "files": [
-[333, [105]]
+[348, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "Geoshape":{
 "files": [
-[333, [62,71,80]]
+[348, [62,71,80]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[333, [28]],
-[332, [196,234]]
+[348, [28]],
+[347, [196,234]]
 ],
 "memberKind": "Property"
 }
 ,
 "MonitoredStates":{
 "files": [
-[333, [97]]
+[348, [97]]
 ],
 "memberKind": "Property"
 }
 ,
 "SingleUse":{
 "files": [
-[333, [89]]
+[348, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "StartTime":{
 "files": [
-[333, [113]]
+[348, [113]]
 ],
 "memberKind": "Property"
 }
@@ -8043,51 +8475,51 @@ var contents = {
 "members": {
 "Current":{
 "files": [
-[91, [42,73,120]],
-[332, [99,105,106,144,145,162,163,168,169]]
+[97, [42,73,120]],
+[347, [99,105,106,144,145,162,163,168,169]]
 ],
 "memberKind": "Property"
 }
 ,
 "Geofences":{
 "files": [
-[332, [99]]
+[347, [99]]
 ],
 "memberKind": "Property"
 }
 ,
 "GeofenceStateChanged":{
 "files": [
-[332, [105,144,162,168]]
+[347, [105,144,162,168]]
 ],
 "memberKind": "Event"
 }
 ,
 "LastKnownGeoposition":{
 "files": [
-[91, [42,75]]
+[97, [42,75]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadReports`0":{
 "files": [
-[91, [120]],
-[332, [188]]
+[97, [120]],
+[347, [188]]
 ],
 "memberKind": "Method"
 }
 ,
 "Status":{
 "files": [
-[332, [175]]
+[347, [175]]
 ],
 "memberKind": "Property"
 }
 ,
 "StatusChanged":{
 "files": [
-[332, [106,145,163,169]]
+[347, [106,145,163,169]]
 ],
 "memberKind": "Event"
 }
@@ -8098,14 +8530,14 @@ var contents = {
 "members": {
 "Expired":{
 "files": [
-[91, [130]]
+[97, [130]]
 ],
 "memberKind": "Field"
 }
 ,
 "Used":{
 "files": [
-[91, [134]]
+[97, [134]]
 ],
 "memberKind": "Field"
 }
@@ -8116,24 +8548,24 @@ var contents = {
 "members": {
 "Entered":{
 "files": [
-[91, [139]],
-[332, [212]]
+[97, [139]],
+[347, [212]]
 ],
 "memberKind": "Field"
 }
 ,
 "Exited":{
 "files": [
-[91, [143]],
-[332, [212]]
+[97, [143]],
+[347, [212]]
 ],
 "memberKind": "Field"
 }
 ,
 "Removed":{
 "files": [
-[91, [127]],
-[332, [199]]
+[97, [127]],
+[347, [199]]
 ],
 "memberKind": "Field"
 }
@@ -8144,21 +8576,21 @@ var contents = {
 "members": {
 "Geofence":{
 "files": [
-[332, [195]]
+[347, [195]]
 ],
 "memberKind": "Property"
 }
 ,
 "NewState":{
 "files": [
-[332, [194]]
+[347, [194]]
 ],
 "memberKind": "Property"
 }
 ,
 "RemovalReason":{
 "files": [
-[332, [201]]
+[347, [201]]
 ],
 "memberKind": "Property"
 }
@@ -8169,21 +8601,21 @@ var contents = {
 "members": {
 "Entered":{
 "files": [
-[332, [285]]
+[347, [285]]
 ],
 "memberKind": "Field"
 }
 ,
 "Exited":{
 "files": [
-[332, [285]]
+[347, [285]]
 ],
 "memberKind": "Field"
 }
 ,
 "Removed":{
 "files": [
-[332, [285]]
+[347, [285]]
 ],
 "memberKind": "Field"
 }
@@ -8196,34 +8628,34 @@ var contents = {
 "members": {
 "Allowed":{
 "files": [
-[334, [78]],
-[335, [86]],
-[70, [180]],
-[332, [98]],
-[71, [192]],
-[325, [51]]
+[349, [78]],
+[350, [86]],
+[71, [180]],
+[347, [98]],
+[72, [192]],
+[340, [49]]
 ],
 "memberKind": "Field"
 }
 ,
 "Denied":{
 "files": [
-[334, [100]],
-[335, [104]],
-[70, [183]],
-[332, [109]],
-[71, [195]]
+[349, [100]],
+[350, [104]],
+[71, [183]],
+[347, [109]],
+[72, [195]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unspecified":{
 "files": [
-[334, [105]],
-[335, [110]],
-[70, [187]],
-[332, [113]],
-[71, [199]]
+[349, [105]],
+[350, [110]],
+[71, [187]],
+[347, [113]],
+[72, [199]]
 ],
 "memberKind": "Field"
 }
@@ -8234,68 +8666,68 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[92, [40]],
-[334, [86]],
-[335, [95]],
-[209, [284]],
-[325, [90]]
+[98, [40]],
+[349, [86]],
+[350, [95]],
+[219, [284]],
+[340, [84]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DesiredAccuracy":{
 "files": [
-[209, [287]],
-[325, [91]]
+[219, [287]],
+[340, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredAccuracyInMeters":{
 "files": [
-[335, [95]]
+[350, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetGeopositionAsync`0":{
 "files": [
-[92, [43]],
-[335, [98]],
-[209, [289]]
+[98, [43]],
+[350, [98]],
+[219, [289]]
 ],
 "memberKind": "Method"
 }
 ,
 "PositionChanged":{
 "files": [
-[334, [59,89,119]]
+[349, [59,89,119]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[334, [86]]
+[349, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
 "files": [
-[334, [74]],
-[335, [82]],
-[70, [176]],
-[332, [95]],
-[71, [188]],
-[325, [50]]
+[349, [74]],
+[350, [82]],
+[71, [176]],
+[347, [95]],
+[72, [188]],
+[340, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "StatusChanged":{
 "files": [
-[334, [60,92,120]]
+[349, [60,92,120]]
 ],
 "memberKind": "Event"
 }
@@ -8306,7 +8738,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[327, [72,93]]
+[342, [72,93]]
 ],
 "memberKind": "Constructor"
 }
@@ -8317,28 +8749,28 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[325, [113]],
-[326, [43]],
-[327, [43]],
-[328, [40]],
-[329, [63,84]],
-[330, [58,78]],
-[331, [20,30,40,50]]
+[340, [108]],
+[341, [43]],
+[342, [43]],
+[343, [40]],
+[344, [63,84]],
+[345, [58,78]],
+[346, [20,30,40,50]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Position":{
 "files": [
-[91, [103,104]],
-[92, [70,71]],
-[334, [225,226]],
-[335, [193,194]],
-[209, [291,292]],
-[325, [70]],
-[326, [55]],
-[327, [69,70,90,91]],
-[328, [52]]
+[97, [103,104]],
+[98, [70,71]],
+[349, [225,226]],
+[350, [193,194]],
+[219, [291,292]],
+[340, [63]],
+[341, [55]],
+[342, [69,70,90,91]],
+[343, [52]]
 ],
 "memberKind": "Property"
 }
@@ -8349,11 +8781,11 @@ var contents = {
 "members": {
 "Coordinate":{
 "files": [
-[91, [86,103,104]],
-[92, [70,71,72]],
-[334, [225,226,227]],
-[335, [193,194,195,196,198,201,202,203]],
-[209, [291,292]]
+[97, [86,103,104]],
+[98, [70,71,72]],
+[349, [225,226,227]],
+[350, [193,194,195,196,198,201,202,203]],
+[219, [291,292]]
 ],
 "memberKind": "Property"
 }
@@ -8364,8 +8796,8 @@ var contents = {
 "members": {
 "High":{
 "files": [
-[209, [287]],
-[325, [91]]
+[219, [287]],
+[340, [85]]
 ],
 "memberKind": "Field"
 }
@@ -8376,7 +8808,7 @@ var contents = {
 "members": {
 "Position":{
 "files": [
-[334, [141]]
+[349, [141]]
 ],
 "memberKind": "Property"
 }
@@ -8387,7 +8819,7 @@ var contents = {
 "members": {
 "Satellite":{
 "files": [
-[335, [198]]
+[350, [198]]
 ],
 "memberKind": "Field"
 }
@@ -8398,42 +8830,42 @@ var contents = {
 "members": {
 "Disabled":{
 "files": [
-[334, [178]]
+[349, [178]]
 ],
 "memberKind": "Field"
 }
 ,
 "Initializing":{
 "files": [
-[334, [166]]
+[349, [166]]
 ],
 "memberKind": "Field"
 }
 ,
 "NoData":{
 "files": [
-[334, [172]]
+[349, [172]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotAvailable":{
 "files": [
-[334, [197]]
+[349, [197]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotInitialized":{
 "files": [
-[334, [190]]
+[349, [190]]
 ],
 "memberKind": "Field"
 }
 ,
 "Ready":{
 "files": [
-[334, [160]]
+[349, [160]]
 ],
 "memberKind": "Field"
 }
@@ -8444,9 +8876,115 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[334, [158]]
+[349, [158]]
 ],
 "memberKind": "Property"
+}
+}
+}
+}
+}
+,
+"Gpio":{
+"children": {
+"GpioController":{
+"members": {
+"GetDefault`0":{
+"files": [
+[351, [38]],
+[352, [50]]
+],
+"memberKind": "Method"
+}
+,
+"OpenPin`1":{
+"files": [
+[351, [43]],
+[352, [55,62]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"GpioPin":{
+"members": {
+"Dispose`0":{
+"files": [
+[351, [54]],
+[352, [87,93]]
+],
+"memberKind": "Method"
+}
+,
+"Read`0":{
+"files": [
+[351, [90]],
+[352, [118]]
+],
+"memberKind": "Method"
+}
+,
+"SetDriveMode`1":{
+"files": [
+[351, [46]],
+[352, [59,65]]
+],
+"memberKind": "Method"
+}
+,
+"ValueChanged":{
+"files": [
+[352, [66,92]]
+],
+"memberKind": "Event"
+}
+,
+"Write`1":{
+"files": [
+[351, [78,84]],
+[352, [58,126]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"GpioPinDriveMode":{
+"members": {
+"Input":{
+"files": [
+[352, [65]]
+],
+"memberKind": "Field"
+}
+,
+"Output":{
+"files": [
+[351, [46]],
+[352, [59]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"GpioPinValue":{
+"members": {
+"High":{
+"files": [
+[351, [78]],
+[352, [34,125]]
+],
+"memberKind": "Field"
+}
+,
+"Low":{
+"files": [
+[351, [84]],
+[352, [125]]
+],
+"memberKind": "Field"
 }
 }
 }
@@ -8459,87 +8997,87 @@ var contents = {
 "members": {
 "CreateFeatureReport`0":{
 "files": [
-[336, [106]]
+[353, [106]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateOutputReport`0":{
 "files": [
-[337, [151,172]],
-[338, [158,216]]
+[354, [151,172]],
+[355, [158,216]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[266, [368]]
+[279, [368]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`2":{
 "files": [
-[266, [216]]
+[279, [216]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`2":{
 "files": [
-[284, [175]],
-[264, [67]]
+[297, [175]],
+[275, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFeatureReportAsync`0":{
 "files": [
-[336, [133]]
+[353, [133]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetInputReportAsync`0":{
 "files": [
-[338, [133,187]]
+[355, [133,187]]
 ],
 "memberKind": "Method"
 }
 ,
 "InputReportReceived":{
 "files": [
-[337, [247,266]]
+[354, [247,266]]
 ],
 "memberKind": "Event"
 }
 ,
 "ProductId":{
 "files": [
-[339, [68]]
+[356, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "SendFeatureReportAsync`1":{
 "files": [
-[336, [116]]
+[353, [116]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendOutputReportAsync`1":{
 "files": [
-[337, [161,182]],
-[338, [170,229]]
+[354, [161,182]],
+[355, [170,229]]
 ],
 "memberKind": "Method"
 }
 ,
 "VendorId":{
 "files": [
-[339, [67]]
+[356, [67]]
 ],
 "memberKind": "Property"
 }
@@ -8550,14 +9088,14 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[336, [114]]
+[353, [114]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[336, [111]]
+[353, [111]]
 ],
 "memberKind": "Property"
 }
@@ -8568,7 +9106,7 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[337, [204]]
+[354, [204]]
 ],
 "memberKind": "Property"
 }
@@ -8579,7 +9117,7 @@ var contents = {
 "members": {
 "Report":{
 "files": [
-[337, [203]]
+[354, [203]]
 ],
 "memberKind": "Property"
 }
@@ -8590,18 +9128,65 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[337, [159,180]],
-[338, [168,227]]
+[354, [159,180]],
+[355, [168,227]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[337, [156,177]],
-[338, [165,224]]
+[354, [156,177]],
+[355, [165,224]]
 ],
 "memberKind": "Property"
+}
+}
+}
+}
+}
+,
+"I2c":{
+"children": {
+"I2cConnectionSettings":{
+"members": {
+":ctor`1":{
+"files": [
+[314, [46]]
+],
+"memberKind": "Constructor"
+}
+}
+}
+,
+"I2cDevice":{
+"members": {
+"Dispose`0":{
+"files": [
+[314, [78]]
+],
+"memberKind": "Method"
+}
+,
+"FromIdAsync`2":{
+"files": [
+[314, [58]]
+],
+"memberKind": "Method"
+}
+,
+"GetDeviceSelector`0":{
+"files": [
+[314, [42]]
+],
+"memberKind": "Method"
+}
+,
+"WriteRead`2":{
+"files": [
+[314, [116,121]]
+],
+"memberKind": "Method"
 }
 }
 }
@@ -8614,14 +9199,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[340, [24]]
+[357, [24]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "KeyboardPresent":{
 "files": [
-[340, [25]]
+[357, [25]]
 ],
 "memberKind": "Property"
 }
@@ -8632,42 +9217,42 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[340, [34]]
+[357, [34]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "HorizontalWheelPresent":{
 "files": [
-[340, [39]]
+[357, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "MousePresent":{
 "files": [
-[340, [36]]
+[357, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberOfButtons":{
 "files": [
-[340, [37]]
+[357, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "SwapButtons":{
 "files": [
-[340, [40]]
+[357, [40]]
 ],
 "memberKind": "Property"
 }
 ,
 "VerticalWheelPresent":{
 "files": [
-[340, [38]]
+[357, [38]]
 ],
 "memberKind": "Property"
 }
@@ -8678,7 +9263,7 @@ var contents = {
 "members": {
 "PointerDeviceType":{
 "files": [
-[341, [127,210]]
+[358, [127,210]]
 ],
 "memberKind": "Property"
 }
@@ -8689,22 +9274,22 @@ var contents = {
 "members": {
 "Mouse":{
 "files": [
-[341, [129,212]]
+[358, [129,212]]
 ],
 "memberKind": "Field"
 }
 ,
 "Pen":{
 "files": [
-[341, [132,220]]
+[358, [132,220]]
 ],
 "memberKind": "Field"
 }
 ,
 "Touch":{
 "files": [
-[341, [135,216]],
-[342, [80]]
+[358, [135,216]],
+[359, [80]]
 ],
 "memberKind": "Field"
 }
@@ -8715,21 +9300,21 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[340, [46]]
+[357, [46]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Contacts":{
 "files": [
-[340, [49]]
+[357, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "TouchPresent":{
 "files": [
-[340, [48]]
+[357, [48]]
 ],
 "memberKind": "Property"
 }
@@ -8744,53 +9329,53 @@ var contents = {
 "members": {
 "AvailabilityChanged":{
 "files": [
-[343, [108,127,166]]
+[360, [101,120,159]]
 ],
 "memberKind": "Event"
 }
 ,
 "DeviceId":{
 "files": [
-[301, [88]],
-[343, [76]]
+[316, [88]],
+[360, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[301, [93]],
-[343, [110]]
+[316, [93]],
+[360, [103]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[301, [87]]
+[316, [87]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
 "files": [
-[301, [118]],
-[344, [65,118]],
-[343, [67]]
+[316, [118]],
+[361, [63,109]],
+[360, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[301, [68]]
+[316, [68]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
 "files": [
-[343, [109,189,194]]
+[360, [102,182,187]]
 ],
 "memberKind": "Property"
 }
@@ -8801,7 +9386,7 @@ var contents = {
 "members": {
 "IsAvailable":{
 "files": [
-[343, [144,147,150]]
+[360, [137,140,143]]
 ],
 "memberKind": "Property"
 }
@@ -8816,14 +9401,14 @@ var contents = {
 "members": {
 "Timestamp":{
 "files": [
-[311, [165]]
+[326, [165]]
 ],
 "memberKind": "Property"
 }
 ,
 "Type":{
 "files": [
-[311, [165,168,254]]
+[326, [165,168,254]]
 ],
 "memberKind": "Property"
 }
@@ -8834,14 +9419,14 @@ var contents = {
 "members": {
 "Dispose":{
 "files": [
-[312, [87]]
+[327, [87]]
 ],
 "memberKind": "?"
 }
 ,
 "SendMessage`1":{
 "files": [
-[312, [338]]
+[327, [338]]
 ],
 "memberKind": "Method"
 }
@@ -8852,7 +9437,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [327]]
+[327, [327]]
 ],
 "memberKind": "Constructor"
 }
@@ -8863,21 +9448,21 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[312, [272]]
+[327, [272]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
 "files": [
-[311, [192]]
+[326, [192]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pressure":{
 "files": [
-[311, [192]]
+[326, [192]]
 ],
 "memberKind": "Property"
 }
@@ -8888,7 +9473,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [321]]
+[327, [321]]
 ],
 "memberKind": "Constructor"
 }
@@ -8899,28 +9484,28 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[312, [266]]
+[327, [266]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
 "files": [
-[311, [184]]
+[326, [184]]
 ],
 "memberKind": "Property"
 }
 ,
 "Controller":{
 "files": [
-[311, [184]]
+[326, [184]]
 ],
 "memberKind": "Property"
 }
 ,
 "ControlValue":{
 "files": [
-[311, [184]]
+[326, [184]]
 ],
 "memberKind": "Property"
 }
@@ -8931,22 +9516,22 @@ var contents = {
 "members": {
 "Dispose`0":{
 "files": [
-[311, [70]]
+[326, [70]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[311, [133]]
+[326, [133]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[297, [78,138]],
-[311, [86]]
+[310, [78,138]],
+[326, [86]]
 ],
 "memberKind": "Method"
 }
@@ -8957,7 +9542,7 @@ var contents = {
 "members": {
 "Message":{
 "files": [
-[311, [161]]
+[326, [161]]
 ],
 "memberKind": "Property"
 }
@@ -8968,152 +9553,152 @@ var contents = {
 "members": {
 "ActiveSensing":{
 "files": [
-[311, [238,254]],
-[312, [120,326,390]]
+[326, [238,254]],
+[327, [120,326,390]]
 ],
 "memberKind": "Field"
 }
 ,
 "ChannelPressure":{
 "files": [
-[311, [190]],
-[312, [121,271,426,541,583]]
+[326, [190]],
+[327, [121,271,426,541,583]]
 ],
 "memberKind": "Field"
 }
 ,
 "Continue":{
 "files": [
-[311, [232]],
-[312, [122,320,391]]
+[326, [232]],
+[327, [122,320,391]]
 ],
 "memberKind": "Field"
 }
 ,
 "ControlChange":{
 "files": [
-[311, [182]],
-[312, [123,265,424,531,634,669]]
+[326, [182]],
+[327, [123,265,424,531,634,669]]
 ],
 "memberKind": "Field"
 }
 ,
 "MidiTimeCode":{
 "files": [
-[311, [211]],
-[312, [124,302,432,551,585]]
+[326, [211]],
+[327, [124,302,432,551,585]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[311, [244]],
-[312, [57,220,332]]
+[326, [244]],
+[327, [57,220,332]]
 ],
 "memberKind": "Field"
 }
 ,
 "NoteOff":{
 "files": [
-[311, [170]],
-[312, [125,256,421,524,623,666]]
+[326, [170]],
+[327, [125,256,421,524,623,666]]
 ],
 "memberKind": "Field"
 }
 ,
 "NoteOn":{
 "files": [
-[311, [174]],
-[312, [126,259,422,525,624,667]]
+[326, [174]],
+[327, [126,259,422,525,624,667]]
 ],
 "memberKind": "Field"
 }
 ,
 "PitchBendChange":{
 "files": [
-[311, [194]],
-[312, [127,274,427,546,584]]
+[326, [194]],
+[327, [127,274,427,546,584]]
 ],
 "memberKind": "Field"
 }
 ,
 "PolyphonicKeyPressure":{
 "files": [
-[311, [178]],
-[312, [128,262,423,526,629,668]]
+[326, [178]],
+[327, [128,262,423,526,629,668]]
 ],
 "memberKind": "Field"
 }
 ,
 "ProgramChange":{
 "files": [
-[311, [186]],
-[312, [129,268,425,536,582]]
+[326, [186]],
+[327, [129,268,425,536,582]]
 ],
 "memberKind": "Field"
 }
 ,
 "SongPositionPointer":{
 "files": [
-[311, [215]],
-[312, [130,305,437,485]]
+[326, [215]],
+[327, [130,305,437,485]]
 ],
 "memberKind": "Field"
 }
 ,
 "SongSelect":{
 "files": [
-[311, [219]],
-[312, [131,308,442,486]]
+[326, [219]],
+[327, [131,308,442,486]]
 ],
 "memberKind": "Field"
 }
 ,
 "Start":{
 "files": [
-[311, [229]],
-[312, [132,317,392]]
+[326, [229]],
+[327, [132,317,392]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stop":{
 "files": [
-[311, [235]],
-[312, [133,323,393]]
+[326, [235]],
+[327, [133,323,393]]
 ],
 "memberKind": "Field"
 }
 ,
 "SystemExclusive":{
 "files": [
-[311, [198]],
-[312, [134,277,379,447]]
+[326, [198]],
+[327, [134,277,379,447]]
 ],
 "memberKind": "Field"
 }
 ,
 "SystemReset":{
 "files": [
-[311, [241]],
-[312, [135,329,394]]
+[326, [241]],
+[327, [135,329,394]]
 ],
 "memberKind": "Field"
 }
 ,
 "TimingClock":{
 "files": [
-[311, [226,254]],
-[312, [136,314,395]]
+[326, [226,254]],
+[327, [136,314,395]]
 ],
 "memberKind": "Field"
 }
 ,
 "TuneRequest":{
 "files": [
-[311, [223]],
-[312, [137,311,396]]
+[326, [223]],
+[327, [137,311,396]]
 ],
 "memberKind": "Field"
 }
@@ -9124,28 +9709,28 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[312, [257]]
+[327, [257]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
 "files": [
-[311, [172]]
+[326, [172]]
 ],
 "memberKind": "Property"
 }
 ,
 "Note":{
 "files": [
-[311, [172]]
+[326, [172]]
 ],
 "memberKind": "Property"
 }
 ,
 "Velocity":{
 "files": [
-[311, [172]]
+[326, [172]]
 ],
 "memberKind": "Property"
 }
@@ -9156,28 +9741,28 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[312, [260]]
+[327, [260]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
 "files": [
-[311, [176]]
+[326, [176]]
 ],
 "memberKind": "Property"
 }
 ,
 "Note":{
 "files": [
-[311, [176]]
+[326, [176]]
 ],
 "memberKind": "Property"
 }
 ,
 "Velocity":{
 "files": [
-[311, [176]]
+[326, [176]]
 ],
 "memberKind": "Property"
 }
@@ -9188,15 +9773,15 @@ var contents = {
 "members": {
 "FromIdAsync`1":{
 "files": [
-[312, [180]]
+[327, [180]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[297, [79,183]],
-[312, [103]]
+[310, [79,183]],
+[327, [103]]
 ],
 "memberKind": "Method"
 }
@@ -9207,21 +9792,21 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[312, [275]]
+[327, [275]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Bend":{
 "files": [
-[311, [196]]
+[326, [196]]
 ],
 "memberKind": "Property"
 }
 ,
 "Channel":{
 "files": [
-[311, [196]]
+[326, [196]]
 ],
 "memberKind": "Property"
 }
@@ -9232,28 +9817,28 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[312, [263]]
+[327, [263]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
 "files": [
-[311, [180]]
+[326, [180]]
 ],
 "memberKind": "Property"
 }
 ,
 "Note":{
 "files": [
-[311, [180]]
+[326, [180]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pressure":{
 "files": [
-[311, [180]]
+[326, [180]]
 ],
 "memberKind": "Property"
 }
@@ -9264,21 +9849,21 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[312, [269]]
+[327, [269]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Channel":{
 "files": [
-[311, [188]]
+[326, [188]]
 ],
 "memberKind": "Property"
 }
 ,
 "Program":{
 "files": [
-[311, [188]]
+[326, [188]]
 ],
 "memberKind": "Property"
 }
@@ -9289,14 +9874,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[312, [306]]
+[327, [306]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Beats":{
 "files": [
-[311, [217]]
+[326, [217]]
 ],
 "memberKind": "Property"
 }
@@ -9307,14 +9892,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[312, [309]]
+[327, [309]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Song":{
 "files": [
-[311, [221]]
+[326, [221]]
 ],
 "memberKind": "Property"
 }
@@ -9325,7 +9910,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [318]]
+[327, [318]]
 ],
 "memberKind": "Constructor"
 }
@@ -9336,7 +9921,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [324]]
+[327, [324]]
 ],
 "memberKind": "Constructor"
 }
@@ -9347,14 +9932,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[312, [300]]
+[327, [300]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "RawData":{
 "files": [
-[311, [203]]
+[326, [203]]
 ],
 "memberKind": "Property"
 }
@@ -9365,7 +9950,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [330]]
+[327, [330]]
 ],
 "memberKind": "Constructor"
 }
@@ -9376,21 +9961,21 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[312, [303]]
+[327, [303]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "FrameType":{
 "files": [
-[311, [213]]
+[326, [213]]
 ],
 "memberKind": "Property"
 }
 ,
 "Values":{
 "files": [
-[311, [213]]
+[326, [213]]
 ],
 "memberKind": "Property"
 }
@@ -9401,7 +9986,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [315]]
+[327, [315]]
 ],
 "memberKind": "Constructor"
 }
@@ -9412,7 +9997,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[312, [312]]
+[327, [312]]
 ],
 "memberKind": "Constructor"
 }
@@ -9427,29 +10012,29 @@ var contents = {
 "members": {
 "ClaimScannerAsync`0":{
 "files": [
-[299, [84]],
-[345, [312,321]]
+[312, [84]],
+[362, [312,321]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[299, [57]]
+[312, [57]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
 "files": [
-[345, [277]]
+[362, [277]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[299, [54]]
+[312, [54]]
 ],
 "memberKind": "Method"
 }
@@ -9460,8 +10045,8 @@ var contents = {
 "members": {
 "Report":{
 "files": [
-[299, [261,263,265]],
-[345, [529,531,534,536,543,567,569,572,574,582]]
+[312, [261,263,265]],
+[362, [529,531,534,536,543,567,569,572,574,582]]
 ],
 "memberKind": "Property"
 }
@@ -9472,24 +10057,24 @@ var contents = {
 "members": {
 "ScanData":{
 "files": [
-[299, [263]],
-[345, [529,531,567,569]]
+[312, [263]],
+[362, [529,531,567,569]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScanDataLabel":{
 "files": [
-[299, [261]],
-[345, [534,536,572,574]]
+[312, [261]],
+[362, [534,536,572,574]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScanDataType":{
 "files": [
-[299, [261,265]],
-[345, [536,543,574,582]]
+[312, [261,265]],
+[362, [536,543,574,582]]
 ],
 "memberKind": "Property"
 }
@@ -9500,8 +10085,8 @@ var contents = {
 "members": {
 "GetName`1":{
 "files": [
-[299, [220,265]],
-[345, [489,543,582]]
+[312, [220,265]],
+[362, [489,543,582]]
 ],
 "memberKind": "Method"
 }
@@ -9512,32 +10097,32 @@ var contents = {
 "members": {
 "ClaimDrawerAsync`0":{
 "files": [
-[346, [140]],
-[347, [164]],
-[348, [120,134]]
+[363, [140]],
+[364, [164]],
+[365, [120,134]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
 "files": [
-[346, [121]],
-[347, [145]],
-[348, [84]]
+[363, [121]],
+[364, [145]],
+[365, [84]]
 ],
 "memberKind": "Method"
 }
 ,
 "Status":{
 "files": [
-[347, [81]]
+[364, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "StatusUpdated":{
 "files": [
-[347, [76]]
+[364, [76]]
 ],
 "memberKind": "Event"
 }
@@ -9548,42 +10133,42 @@ var contents = {
 "members": {
 "AlarmTimeout":{
 "files": [
-[347, [121]]
+[364, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "AlarmTimeoutExpired":{
 "files": [
-[347, [125]]
+[364, [125]]
 ],
 "memberKind": "Event"
 }
 ,
 "BeepDelay":{
 "files": [
-[347, [122]]
+[364, [122]]
 ],
 "memberKind": "Property"
 }
 ,
 "BeepDuration":{
 "files": [
-[347, [123]]
+[364, [123]]
 ],
 "memberKind": "Property"
 }
 ,
 "BeepFrequency":{
 "files": [
-[347, [124]]
+[364, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "StartAsync`0":{
 "files": [
-[347, [129]]
+[364, [129]]
 ],
 "memberKind": "Method"
 }
@@ -9594,7 +10179,7 @@ var contents = {
 "members": {
 "StatusKind":{
 "files": [
-[347, [81,196,197]]
+[364, [81,196,197]]
 ],
 "memberKind": "Property"
 }
@@ -9605,7 +10190,7 @@ var contents = {
 "members": {
 "Offline":{
 "files": [
-[347, [227]]
+[364, [227]]
 ],
 "memberKind": "Field"
 }
@@ -9616,7 +10201,7 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[347, [196,197]]
+[364, [196,197]]
 ],
 "memberKind": "Property"
 }
@@ -9627,56 +10212,56 @@ var contents = {
 "members": {
 "DataReceived":{
 "files": [
-[299, [140,277]],
-[345, [97,166,231,256]]
+[312, [140,277]],
+[362, [97,166,231,256]]
 ],
 "memberKind": "Event"
 }
 ,
 "DeviceId":{
 "files": [
-[299, [155]],
-[345, [344,348]]
+[312, [155]],
+[362, [344,348]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[299, [280]],
-[345, [142,213,235,260,363,371]]
+[312, [280]],
+[362, [142,213,235,260,363,371]]
 ],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
 "files": [
-[299, [149]],
-[345, [343,347]]
+[312, [149]],
+[362, [343,347]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsDecodeDataEnabled":{
 "files": [
-[299, [144]],
-[345, [98,169]]
+[312, [144]],
+[362, [98,169]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReleaseDeviceRequested":{
 "files": [
-[299, [137,278]],
-[345, [96,165,232,257]]
+[312, [137,278]],
+[362, [96,165,232,257]]
 ],
 "memberKind": "Event"
 }
 ,
 "RetainDevice`0":{
 "files": [
-[299, [170]],
-[345, [132,203]]
+[312, [170]],
+[362, [132,203]]
 ],
 "memberKind": "Method"
 }
@@ -9687,61 +10272,61 @@ var contents = {
 "members": {
 "CloseAlarm":{
 "files": [
-[347, [113]]
+[364, [113]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceId":{
 "files": [
-[346, [80]],
-[347, [82]]
+[363, [80]],
+[364, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[346, [184]],
-[347, [223]],
-[348, [204,222,249,275,293,299]]
+[363, [184]],
+[364, [223]],
+[365, [204,222,249,275,293,299]]
 ],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
 "files": [
-[346, [160]],
-[347, [184]]
+[363, [160]],
+[364, [184]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
 "files": [
-[346, [157,169]],
-[347, [181]]
+[363, [157,169]],
+[364, [181]]
 ],
 "memberKind": "Property"
 }
 ,
 "OpenDrawerAsync`0":{
 "files": [
-[346, [172]]
+[363, [172]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReleaseDeviceRequested":{
 "files": [
-[348, [164,185]]
+[365, [164,185]]
 ],
 "memberKind": "Event"
 }
 ,
 "RetainDeviceAsync`0":{
 "files": [
-[348, [244,270]]
+[365, [244,270]]
 ],
 "memberKind": "Method"
 }
@@ -9752,62 +10337,62 @@ var contents = {
 "members": {
 "AamvaCardDataReceived":{
 "files": [
-[349, [99,201]]
+[366, [99,201]]
 ],
 "memberKind": "Event"
 }
 ,
 "BankCardDataReceived":{
 "files": [
-[350, [99,191]]
+[367, [99,191]]
 ],
 "memberKind": "Event"
 }
 ,
 "DeviceId":{
 "files": [
-[350, [106]],
-[349, [106]]
+[367, [106]],
+[366, [106]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[350, [195]],
-[349, [205]]
+[367, [195]],
+[366, [205]]
 ],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
 "files": [
-[350, [104]],
-[349, [104]]
+[367, [104]],
+[366, [104]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsDecodeDataEnabled":{
 "files": [
-[350, [102]],
-[349, [102]]
+[367, [102]],
+[366, [102]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReleaseDeviceRequested":{
 "files": [
-[350, [94,192]],
-[349, [94,202]]
+[367, [94,192]],
+[366, [94,202]]
 ],
 "memberKind": "Event"
 }
 ,
 "RetainDevice`0":{
 "files": [
-[350, [135]],
-[349, [135]]
+[367, [135]],
+[366, [135]]
 ],
 "memberKind": "Method"
 }
@@ -9818,45 +10403,45 @@ var contents = {
 "members": {
 "Dispose`0":{
 "files": [
-[303, [48]],
-[304, [63]],
-[305, [78,104,244,251,267,281]]
+[318, [48]],
+[319, [63]],
+[320, [78,104,244,251,267,281]]
 ],
 "memberKind": "Method"
 }
 ,
 "EnableAsync`0":{
 "files": [
-[303, [159]],
-[304, [176]],
-[305, [132,169]]
+[318, [159]],
+[319, [176]],
+[320, [132,169]]
 ],
 "memberKind": "Method"
 }
 ,
 "Receipt":{
 "files": [
-[303, [176,205,224,261,277]],
-[304, [98,108,112,116,120,124,203]],
-[305, [303,309]]
+[318, [176,205,224,261,277]],
+[319, [98,108,112,116,120,124,203]],
+[320, [303,309]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReleaseDeviceRequested":{
 "files": [
-[303, [47,136]],
-[304, [62,171]],
-[305, [77,103,130,167,243,250,266,280]]
+[318, [47,136]],
+[319, [62,171]],
+[320, [77,103,130,167,243,250,266,280]]
 ],
 "memberKind": "Event"
 }
 ,
 "RetainDeviceAsync`0":{
 "files": [
-[303, [92]],
-[304, [252]],
-[305, [262,276]]
+[318, [92]],
+[319, [252]],
+[320, [262,276]]
 ],
 "memberKind": "Method"
 }
@@ -9867,44 +10452,44 @@ var contents = {
 "members": {
 "CreateJob`0":{
 "files": [
-[303, [176,224,261,277]],
-[304, [98]],
-[305, [309]]
+[318, [176,224,261,277]],
+[319, [98]],
+[320, [309]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsCartridgeEmpty":{
 "files": [
-[304, [108]]
+[319, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsCartridgeRemoved":{
 "files": [
-[304, [112]]
+[319, [112]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsCoverOpen":{
 "files": [
-[304, [116]]
+[319, [116]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsHeadCleaning":{
 "files": [
-[304, [120]]
+[319, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPaperEmpty":{
 "files": [
-[304, [124]]
+[319, [124]]
 ],
 "memberKind": "Property"
 }
@@ -9915,16 +10500,16 @@ var contents = {
 "members": {
 "ClaimReaderAsync`0":{
 "files": [
-[350, [70]],
-[349, [70]]
+[367, [70]],
+[366, [70]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefaultAsync`0":{
 "files": [
-[350, [50]],
-[349, [50]]
+[367, [50]],
+[366, [50]]
 ],
 "memberKind": "Method"
 }
@@ -9935,126 +10520,126 @@ var contents = {
 "members": {
 "Address":{
 "files": [
-[349, [150]]
+[366, [150]]
 ],
 "memberKind": "Property"
 }
 ,
 "BirthDate":{
 "files": [
-[349, [151]]
+[366, [151]]
 ],
 "memberKind": "Property"
 }
 ,
 "City":{
 "files": [
-[349, [152]]
+[366, [152]]
 ],
 "memberKind": "Property"
 }
 ,
 "Class":{
 "files": [
-[349, [153]]
+[366, [153]]
 ],
 "memberKind": "Property"
 }
 ,
 "Endorsements":{
 "files": [
-[349, [154]]
+[366, [154]]
 ],
 "memberKind": "Property"
 }
 ,
 "ExpirationDate":{
 "files": [
-[349, [155]]
+[366, [155]]
 ],
 "memberKind": "Property"
 }
 ,
 "EyeColor":{
 "files": [
-[349, [156]]
+[366, [156]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
 "files": [
-[349, [157]]
+[366, [157]]
 ],
 "memberKind": "Property"
 }
 ,
 "Gender":{
 "files": [
-[349, [158]]
+[366, [158]]
 ],
 "memberKind": "Property"
 }
 ,
 "HairColor":{
 "files": [
-[349, [159]]
+[366, [159]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[349, [160]]
+[366, [160]]
 ],
 "memberKind": "Property"
 }
 ,
 "LicenseNumber":{
 "files": [
-[349, [161]]
+[366, [161]]
 ],
 "memberKind": "Property"
 }
 ,
 "PostalCode":{
 "files": [
-[349, [162]]
+[366, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "Restrictions":{
 "files": [
-[349, [163]]
+[366, [163]]
 ],
 "memberKind": "Property"
 }
 ,
 "State":{
 "files": [
-[349, [164]]
+[366, [164]]
 ],
 "memberKind": "Property"
 }
 ,
 "Suffix":{
 "files": [
-[349, [165]]
+[366, [165]]
 ],
 "memberKind": "Property"
 }
 ,
 "Surname":{
 "files": [
-[349, [166]]
+[366, [166]]
 ],
 "memberKind": "Property"
 }
 ,
 "Weight":{
 "files": [
-[349, [167]]
+[366, [167]]
 ],
 "memberKind": "Property"
 }
@@ -10065,56 +10650,56 @@ var contents = {
 "members": {
 "AccountNumber":{
 "files": [
-[350, [150]]
+[367, [150]]
 ],
 "memberKind": "Property"
 }
 ,
 "ExpirationDate":{
 "files": [
-[350, [151]]
+[367, [151]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
 "files": [
-[350, [152]]
+[367, [152]]
 ],
 "memberKind": "Property"
 }
 ,
 "MiddleInitial":{
 "files": [
-[350, [153]]
+[367, [153]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceCode":{
 "files": [
-[350, [154]]
+[367, [154]]
 ],
 "memberKind": "Property"
 }
 ,
 "Suffix":{
 "files": [
-[350, [155]]
+[367, [155]]
 ],
 "memberKind": "Property"
 }
 ,
 "Surname":{
 "files": [
-[350, [156]]
+[367, [156]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[350, [157]]
+[367, [157]]
 ],
 "memberKind": "Property"
 }
@@ -10125,45 +10710,45 @@ var contents = {
 "members": {
 "Capabilities":{
 "files": [
-[303, [303]],
-[304, [227]],
-[305, [201,206]]
+[318, [303]],
+[319, [227]],
+[320, [201,206]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClaimPrinterAsync`0":{
 "files": [
-[303, [133]],
-[304, [150]],
-[305, [127,164]]
+[318, [133]],
+[319, [150]],
+[320, [127,164]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeviceId":{
 "files": [
-[303, [305]],
-[304, [229]],
-[305, [203,208]]
+[318, [305]],
+[319, [229]],
+[320, [203,208]]
 ],
 "memberKind": "Property"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[303, [300]],
-[304, [224]],
-[305, [200,205]]
+[318, [300]],
+[319, [224]],
+[320, [200,205]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[303, [296]],
-[304, [220]],
-[305, [196]]
+[318, [296]],
+[319, [220]],
+[320, [196]]
 ],
 "memberKind": "Method"
 }
@@ -10174,9 +10759,9 @@ var contents = {
 "members": {
 "Receipt":{
 "files": [
-[303, [303]],
-[304, [227]],
-[305, [201,206]]
+[318, [303]],
+[319, [227]],
+[320, [201,206]]
 ],
 "memberKind": "Property"
 }
@@ -10187,9 +10772,9 @@ var contents = {
 "members": {
 "IsPrinterPresent":{
 "files": [
-[303, [303]],
-[304, [227]],
-[305, [201,206]]
+[318, [303]],
+[319, [227]],
+[320, [201,206]]
 ],
 "memberKind": "Property"
 }
@@ -10200,25 +10785,25 @@ var contents = {
 "members": {
 "CutPaper`1":{
 "files": [
-[303, [270,283]]
+[318, [270,283]]
 ],
 "memberKind": "Method"
 }
 ,
 "ExecuteAsync`0":{
 "files": [
-[303, [179,247,248,249,250]],
-[304, [101]],
-[305, [311]]
+[318, [179,247,248,249,250]],
+[319, [101]],
+[320, [311]]
 ],
 "memberKind": "Method"
 }
 ,
 "PrintLine`1":{
 "files": [
-[303, [177,225,226,227,229,230,234,237,238,262,263,264,265,266,267,268,269,278,279,280,281,282]],
-[304, [99]],
-[305, [310]]
+[318, [177,225,226,227,229,230,234,237,238,262,263,264,265,266,267,268,269,278,279,280,281,282]],
+[319, [99]],
+[320, [310]]
 ],
 "memberKind": "Method"
 }
@@ -10233,42 +10818,42 @@ var contents = {
 "members": {
 "GetRadiosAsync`0":{
 "files": [
-[351, [49]]
+[368, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "Name":{
 "files": [
-[352, [49]]
+[369, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
 "files": [
-[351, [34]]
+[368, [34]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetStateAsync`1":{
 "files": [
-[352, [92]]
+[369, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "State":{
 "files": [
-[352, [57]]
+[369, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "StateChanged":{
 "files": [
-[352, [32]]
+[369, [32]]
 ],
 "memberKind": "Event"
 }
@@ -10279,7 +10864,7 @@ var contents = {
 "members": {
 "Allowed":{
 "files": [
-[351, [35]]
+[368, [35]]
 ],
 "memberKind": "Field"
 }
@@ -10290,14 +10875,14 @@ var contents = {
 "members": {
 "Off":{
 "files": [
-[352, [90]]
+[369, [90]]
 ],
 "memberKind": "Field"
 }
 ,
 "On":{
 "files": [
-[352, [57,90]]
+[369, [57,90]]
 ],
 "memberKind": "Field"
 }
@@ -10319,19 +10904,19 @@ var contents = {
 ,
 "GetCurrentReading`0":{
 "files": [
-[353, [124]]
+[370, [124]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[354, [36]],
-[355, [37]],
-[353, [38]],
-[356, [43,45]],
-[357, [38]],
-[81, [29]],
+[371, [36]],
+[372, [37]],
+[370, [38]],
+[373, [43,45]],
+[374, [38]],
+[83, [29]],
 [61, [38]]
 ],
 "memberKind": "Method"
@@ -10339,60 +10924,60 @@ var contents = {
 ,
 "MaxBatchSize":{
 "files": [
-[357, [47]]
+[374, [47]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[354, [41]],
-[353, [43]],
-[356, [125,126]],
-[357, [43]],
-[81, [36]]
+[371, [41]],
+[370, [43]],
+[373, [125,126]],
+[374, [43]],
+[83, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[354, [74,98,103,137,156]],
-[356, [88,89,134,135,196,197,202,203,216,217]],
-[357, [80,104,109,145,164]],
-[81, [40,66]]
+[371, [74,98,103,137,156]],
+[373, [88,89,134,135,196,197,202,203,216,217]],
+[374, [80,104,109,145,164]],
+[83, [40,66]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReadingTransform":{
 "files": [
-[356, [113,131]]
+[373, [113,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReportInterval":{
 "files": [
-[354, [77,134,159]],
-[353, [86,143,170]],
-[356, [92,93,125,126,220,221]],
-[357, [83,140,167]],
-[81, [37,67]]
+[371, [77,134,159]],
+[370, [86,143,170]],
+[373, [92,93,125,126,220,221]],
+[374, [83,140,167]],
+[83, [37,67]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReportLatency":{
 "files": [
-[357, [143]]
+[374, [143]]
 ],
 "memberKind": "Property"
 }
 ,
 "Shaken":{
 "files": [
-[355, [69,90,95,124,142]]
+[372, [69,90,95,124,142]]
 ],
 "memberKind": "Event"
 }
@@ -10403,30 +10988,30 @@ var contents = {
 "members": {
 "AccelerationX":{
 "files": [
-[354, [118]],
-[353, [127]],
-[356, [155,175]],
-[357, [124]]
+[371, [118]],
+[370, [127]],
+[373, [155,175]],
+[374, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "AccelerationY":{
 "files": [
-[354, [119]],
-[353, [128]],
-[356, [156,176]],
-[357, [125]]
+[371, [119]],
+[370, [128]],
+[373, [156,176]],
+[374, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "AccelerationZ":{
 "files": [
-[354, [120]],
-[353, [129]],
-[356, [157,177]],
-[357, [126]]
+[371, [120]],
+[370, [129]],
+[373, [157,177]],
+[374, [126]]
 ],
 "memberKind": "Property"
 }
@@ -10437,9 +11022,9 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[354, [117]],
-[356, [154,174]],
-[357, [123]]
+[371, [117]],
+[373, [154,174]],
+[374, [123]]
 ],
 "memberKind": "Property"
 }
@@ -10450,9 +11035,9 @@ var contents = {
 "members": {
 "GetDefaultAsync`0":{
 "files": [
-[273, [52]],
-[274, [58]],
-[265, [102]],
+[286, [52]],
+[287, [58]],
+[278, [102]],
 [59, [77]]
 ],
 "memberKind": "Method"
@@ -10460,28 +11045,28 @@ var contents = {
 ,
 "GetDeviceSelector`0":{
 "files": [
-[264, [74]]
+[275, [74]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetSystemHistoryAsync`1":{
 "files": [
-[274, [67]]
+[287, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadingChanged":{
 "files": [
-[265, [68,113,139]]
+[278, [68,113,139]]
 ],
 "memberKind": "Event"
 }
 ,
 "SubscribedActivities":{
 "files": [
-[265, [107,108,109,110,111]]
+[278, [107,108,109,110,111]]
 ],
 "memberKind": "Property"
 }
@@ -10492,21 +11077,21 @@ var contents = {
 "members": {
 "Activity":{
 "files": [
-[265, [84]]
+[278, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "Confidence":{
 "files": [
-[265, [85]]
+[278, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
 "files": [
-[265, [86]]
+[278, [86]]
 ],
 "memberKind": "Property"
 }
@@ -10517,7 +11102,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[265, [83]]
+[278, [83]]
 ],
 "memberKind": "Property"
 }
@@ -10528,7 +11113,7 @@ var contents = {
 "members": {
 "ReadReports`0":{
 "files": [
-[79, [36]]
+[81, [36]]
 ],
 "memberKind": "Method"
 }
@@ -10539,7 +11124,7 @@ var contents = {
 "members": {
 "Biking":{
 "files": [
-[265, [110]],
+[278, [110]],
 [59, [161]]
 ],
 "memberKind": "Field"
@@ -10547,21 +11132,21 @@ var contents = {
 ,
 "Fidgeting":{
 "files": [
-[265, [111]]
+[278, [111]]
 ],
 "memberKind": "Field"
 }
 ,
 "InVehicle":{
 "files": [
-[265, [109]]
+[278, [109]]
 ],
 "memberKind": "Field"
 }
 ,
 "Running":{
 "files": [
-[265, [108]],
+[278, [108]],
 [59, [160]]
 ],
 "memberKind": "Field"
@@ -10569,7 +11154,7 @@ var contents = {
 ,
 "Walking":{
 "files": [
-[265, [107]],
+[278, [107]],
 [59, [159]]
 ],
 "memberKind": "Field"
@@ -10581,36 +11166,36 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[358, [51]]
+[375, [51]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[359, [36]],
-[358, [35]]
+[376, [36]],
+[375, [35]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[359, [41]]
+[376, [41]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[359, [74,98,103,135,154]]
+[376, [74,98,103,135,154]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[359, [77,132,157]]
+[376, [77,132,157]]
 ],
 "memberKind": "Property"
 }
@@ -10621,8 +11206,8 @@ var contents = {
 "members": {
 "AltitudeChangeInMeters":{
 "files": [
-[359, [118]],
-[358, [54]]
+[376, [118]],
+[375, [54]]
 ],
 "memberKind": "Property"
 }
@@ -10633,7 +11218,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[359, [117]]
+[376, [117]]
 ],
 "memberKind": "Property"
 }
@@ -10644,36 +11229,36 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[360, [52]]
+[377, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[361, [37]],
-[360, [36]]
+[378, [37]],
+[377, [36]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[361, [42]]
+[378, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[361, [75,99,104,136,155]]
+[378, [75,99,104,136,155]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[361, [78,133,158]]
+[378, [78,133,158]]
 ],
 "memberKind": "Property"
 }
@@ -10684,8 +11269,8 @@ var contents = {
 "members": {
 "StationPressureInHectopascals":{
 "files": [
-[361, [119]],
-[360, [55]]
+[378, [119]],
+[377, [55]]
 ],
 "memberKind": "Property"
 }
@@ -10696,7 +11281,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[361, [118]]
+[378, [118]]
 ],
 "memberKind": "Property"
 }
@@ -10707,38 +11292,38 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[362, [124]]
+[379, [124]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[363, [37]],
-[362, [38]]
+[380, [37]],
+[379, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[363, [42]],
-[362, [43]]
+[380, [42]],
+[379, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[363, [75,99,104,162,181]]
+[380, [75,99,104,162,181]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[363, [78,159,184]],
-[362, [86,167,194]]
+[380, [78,159,184]],
+[379, [86,167,194]]
 ],
 "memberKind": "Property"
 }
@@ -10749,24 +11334,24 @@ var contents = {
 "members": {
 "HeadingAccuracy":{
 "files": [
-[363, [128]],
-[362, [136]]
+[380, [128]],
+[379, [136]]
 ],
 "memberKind": "Property"
 }
 ,
 "HeadingMagneticNorth":{
 "files": [
-[363, [119]],
-[362, [127]]
+[380, [119]],
+[379, [127]]
 ],
 "memberKind": "Property"
 }
 ,
 "HeadingTrueNorth":{
 "files": [
-[363, [120,122]],
-[362, [128,130]]
+[380, [120,122]],
+[379, [128,130]]
 ],
 "memberKind": "Property"
 }
@@ -10777,7 +11362,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[363, [118]]
+[380, [118]]
 ],
 "memberKind": "Property"
 }
@@ -10790,45 +11375,45 @@ var contents = {
 "members": {
 "FromIdAsync`1":{
 "files": [
-[267, [72]],
-[268, [70]]
+[280, [72]],
+[281, [70]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCurrentReading`0":{
 "files": [
-[267, [75]],
-[268, [73,121]]
+[280, [75]],
+[281, [73,121]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
 "files": [
-[267, [53]],
-[268, [51]]
+[280, [53]],
+[281, [51]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[267, [86]]
+[280, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[267, [150,175,180,214,236]]
+[280, [150,175,180,214,236]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[267, [153,211,239]]
+[280, [153,211,239]]
 ],
 "memberKind": "Property"
 }
@@ -10839,8 +11424,8 @@ var contents = {
 "members": {
 "Properties":{
 "files": [
-[267, [76,194]],
-[268, [74,123]]
+[280, [76,194]],
+[281, [74,123]]
 ],
 "memberKind": "Property"
 }
@@ -10851,7 +11436,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[267, [192]]
+[280, [192]]
 ],
 "memberKind": "Property"
 }
@@ -10864,49 +11449,49 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[364, [124]],
-[365, [91,92]]
+[381, [124]],
+[382, [91,92]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[366, [37]],
-[364, [38]],
-[365, [32,34]]
+[383, [37]],
+[381, [38]],
+[382, [32,34]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[366, [42]],
-[364, [43]],
-[365, [88,89]]
+[383, [42]],
+[381, [43]],
+[382, [88,89]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[366, [75,99,104,138,157]]
+[383, [75,99,104,138,157]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReadingTransform":{
 "files": [
-[365, [50]]
+[382, [50]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReportInterval":{
 "files": [
-[366, [78,135,160]],
-[364, [86,143,170]],
-[365, [88,89,108,109]]
+[383, [78,135,160]],
+[381, [86,143,170]],
+[382, [88,89,108,109]]
 ],
 "memberKind": "Property"
 }
@@ -10917,27 +11502,27 @@ var contents = {
 "members": {
 "AngularVelocityX":{
 "files": [
-[366, [119]],
-[364, [127]],
-[365, [96,103]]
+[383, [119]],
+[381, [127]],
+[382, [96,103]]
 ],
 "memberKind": "Property"
 }
 ,
 "AngularVelocityY":{
 "files": [
-[366, [120]],
-[364, [128]],
-[365, [97,104]]
+[383, [120]],
+[381, [128]],
+[382, [97,104]]
 ],
 "memberKind": "Property"
 }
 ,
 "AngularVelocityZ":{
 "files": [
-[366, [121]],
-[364, [129]],
-[365, [98,105]]
+[383, [121]],
+[381, [129]],
+[382, [98,105]]
 ],
 "memberKind": "Property"
 }
@@ -10948,7 +11533,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[366, [118]]
+[383, [118]]
 ],
 "memberKind": "Property"
 }
@@ -10959,50 +11544,50 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[367, [124]],
-[368, [73]]
+[384, [124]],
+[385, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[369, [37]],
-[367, [38]]
+[386, [37]],
+[384, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefaultForRelativeReadings`0":{
 "files": [
-[370, [37]],
-[368, [32]]
+[387, [37]],
+[385, [32]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[369, [42]],
-[367, [43]],
-[370, [42]]
+[386, [42]],
+[384, [43]],
+[387, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[369, [75,99,104,156,175]],
-[370, [75,99,104,138,157]]
+[386, [75,99,104,156,175]],
+[387, [75,99,104,138,157]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[369, [78,153,178]],
-[367, [86,161,188]],
-[370, [78,135,160]]
+[386, [78,153,178]],
+[384, [86,161,188]],
+[387, [78,135,160]]
 ],
 "memberKind": "Property"
 }
@@ -11013,38 +11598,38 @@ var contents = {
 "members": {
 "PitchDegrees":{
 "files": [
-[369, [119]],
-[367, [127]],
-[370, [119]],
-[368, [76]]
+[386, [119]],
+[384, [127]],
+[387, [119]],
+[385, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "RollDegrees":{
 "files": [
-[369, [120]],
-[367, [128]],
-[370, [120]],
-[368, [77]]
+[386, [120]],
+[384, [128]],
+[387, [120]],
+[385, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "YawAccuracy":{
 "files": [
-[369, [122]],
-[367, [130]]
+[386, [122]],
+[384, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "YawDegrees":{
 "files": [
-[369, [121]],
-[367, [129]],
-[370, [121]],
-[368, [78]]
+[386, [121]],
+[384, [129]],
+[387, [121]],
+[385, [78]]
 ],
 "memberKind": "Property"
 }
@@ -11055,8 +11640,8 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[369, [118]],
-[370, [118]]
+[386, [118]],
+[387, [118]]
 ],
 "memberKind": "Property"
 }
@@ -11067,38 +11652,38 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[371, [124]]
+[388, [124]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[372, [37]],
-[371, [38]]
+[389, [37]],
+[388, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[372, [42]],
-[371, [43]]
+[389, [42]],
+[388, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[372, [75,99,104,136,155]]
+[389, [75,99,104,136,155]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[372, [78,133,158]],
-[371, [86,141,168]]
+[389, [78,133,158]],
+[388, [86,141,168]]
 ],
 "memberKind": "Property"
 }
@@ -11109,8 +11694,8 @@ var contents = {
 "members": {
 "IlluminanceInLux":{
 "files": [
-[372, [119]],
-[371, [127]]
+[389, [119]],
+[388, [127]]
 ],
 "memberKind": "Property"
 }
@@ -11121,7 +11706,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[372, [118]]
+[389, [118]]
 ],
 "memberKind": "Property"
 }
@@ -11132,57 +11717,57 @@ var contents = {
 "members": {
 "Approximate":{
 "files": [
-[373, [137]],
-[363, [136]],
-[362, [144]],
-[374, [137]],
-[369, [130]],
-[367, [138]],
-[375, [137]],
-[376, [148]],
-[377, [155]]
+[390, [137]],
+[380, [136]],
+[379, [144]],
+[391, [137]],
+[386, [130]],
+[384, [138]],
+[392, [137]],
+[393, [148]],
+[394, [155]]
 ],
 "memberKind": "Field"
 }
 ,
 "High":{
 "files": [
-[363, [139]],
-[362, [147]],
-[369, [133]],
-[367, [141]],
-[376, [151]],
-[377, [158]]
+[380, [139]],
+[379, [147]],
+[386, [133]],
+[384, [141]],
+[393, [151]],
+[394, [158]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[363, [130]],
-[362, [138]],
-[369, [124]],
-[367, [132]],
-[376, [142]],
-[377, [149]]
+[380, [130]],
+[379, [138]],
+[386, [124]],
+[384, [132]],
+[393, [142]],
+[394, [149]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unreliable":{
 "files": [
-[373, [142]],
-[363, [133]],
-[362, [141]],
-[378, [89]],
-[374, [142]],
-[369, [127]],
-[367, [135]],
-[379, [90]],
-[375, [142]],
-[376, [145]],
-[377, [152]],
-[380, [90]]
+[390, [142]],
+[380, [133]],
+[379, [141]],
+[395, [89]],
+[391, [142]],
+[386, [127]],
+[384, [135]],
+[396, [90]],
+[392, [142]],
+[393, [145]],
+[394, [152]],
+[397, [90]]
 ],
 "memberKind": "Field"
 }
@@ -11193,50 +11778,50 @@ var contents = {
 "members": {
 "GetCurrentReading`0":{
 "files": [
-[377, [124]],
-[381, [73]]
+[394, [124]],
+[398, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[376, [37]],
-[377, [38]]
+[393, [37]],
+[394, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefaultForRelativeReadings`0":{
 "files": [
-[382, [37]],
-[381, [32]]
+[399, [37]],
+[398, [32]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[376, [42]],
-[377, [43]],
-[382, [42]]
+[393, [42]],
+[394, [43]],
+[399, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[376, [75,99,104,174,193]],
-[382, [75,99,104,154,173]]
+[393, [75,99,104,174,193]],
+[399, [75,99,104,154,173]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[376, [78,171,196]],
-[377, [86,178,205]],
-[382, [78,151,176]]
+[393, [78,171,196]],
+[394, [86,178,205]],
+[399, [78,151,176]]
 ],
 "memberKind": "Property"
 }
@@ -11247,28 +11832,28 @@ var contents = {
 "members": {
 "Quaternion":{
 "files": [
-[376, [121]],
-[377, [128]],
-[382, [121]],
-[381, [77]]
+[393, [121]],
+[394, [128]],
+[399, [121]],
+[398, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "RotationMatrix":{
 "files": [
-[376, [128]],
-[377, [135]],
-[382, [128]],
-[381, [84]]
+[393, [128]],
+[394, [135]],
+[399, [128]],
+[398, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "YawAccuracy":{
 "files": [
-[376, [140]],
-[377, [147]]
+[393, [140]],
+[394, [147]]
 ],
 "memberKind": "Property"
 }
@@ -11279,8 +11864,8 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[376, [118]],
-[382, [118]]
+[393, [118]],
+[399, [118]]
 ],
 "memberKind": "Property"
 }
@@ -11291,45 +11876,45 @@ var contents = {
 "members": {
 "GetDefaultAsync`0":{
 "files": [
-[271, [69]],
-[275, [78]],
-[276, [52]]
+[284, [69]],
+[288, [78]],
+[289, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[264, [75]]
+[275, [75]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetSystemHistoryAsync`1":{
 "files": [
-[275, [97,141]],
-[276, [68]]
+[288, [97,141]],
+[289, [68]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinimumReportInterval":{
 "files": [
-[271, [79]]
+[284, [79]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[271, [80,94]]
+[284, [80,94]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReportInterval":{
 "files": [
-[271, [79]]
+[284, [79]]
 ],
 "memberKind": "Property"
 }
@@ -11340,33 +11925,33 @@ var contents = {
 "members": {
 "CumulativeSteps":{
 "files": [
-[271, [119,123,124,129,133,134,139,143,144]],
-[275, [243]],
-[276, [85]]
+[284, [119,123,124,129,133,134,139,143,144]],
+[288, [243]],
+[289, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "CumulativeStepsDuration":{
 "files": [
-[271, [126,136,146]]
+[284, [126,136,146]]
 ],
 "memberKind": "Property"
 }
 ,
 "StepKind":{
 "files": [
-[271, [116]],
-[275, [242]]
+[284, [116]],
+[288, [242]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
 "files": [
-[271, [156]],
-[275, [244]],
-[276, [88]]
+[284, [156]],
+[288, [244]],
+[289, [88]]
 ],
 "memberKind": "Property"
 }
@@ -11377,7 +11962,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[271, [112]]
+[284, [112]]
 ],
 "memberKind": "Property"
 }
@@ -11388,26 +11973,26 @@ var contents = {
 "members": {
 "Running":{
 "files": [
-[271, [138]],
-[275, [213]],
-[276, [79]]
+[284, [138]],
+[288, [213]],
+[289, [79]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[271, [118]],
-[275, [207]],
-[276, [74,90]]
+[284, [118]],
+[288, [207]],
+[289, [74,90]]
 ],
 "memberKind": "Field"
 }
 ,
 "Walking":{
 "files": [
-[271, [128]],
-[275, [210]]
+[284, [128]],
+[288, [210]]
 ],
 "memberKind": "Field"
 }
@@ -11418,47 +12003,47 @@ var contents = {
 "members": {
 "CreateDisplayOnOffController`0":{
 "files": [
-[294, [113]]
+[307, [113]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromId`1":{
 "files": [
-[292, [51]],
-[293, [51]],
-[294, [52]]
+[305, [51]],
+[306, [51]],
+[307, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCurrentReading`0":{
 "files": [
-[293, [77]]
+[306, [77]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[264, [76]],
-[292, [37]],
-[293, [37]],
-[294, [38]]
+[275, [76]],
+[305, [37]],
+[306, [37]],
+[307, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "MaxDistanceInMillimeters":{
 "files": [
-[292, [54,64,65]]
+[305, [54,64,65]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadingChanged":{
 "files": [
-[292, [128,143,161]]
+[305, [128,143,161]]
 ],
 "memberKind": "Event"
 }
@@ -11469,7 +12054,7 @@ var contents = {
 "members": {
 "Dispose`0":{
 "files": [
-[294, [92,137]]
+[307, [92,137]]
 ],
 "memberKind": "Method"
 }
@@ -11480,24 +12065,24 @@ var contents = {
 "members": {
 "DistanceInMillimeters":{
 "files": [
-[292, [183,185]],
-[293, [84,86]]
+[305, [183,185]],
+[306, [84,86]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsDetected":{
 "files": [
-[292, [179]],
-[293, [80]]
+[305, [179]],
+[306, [80]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
 "files": [
-[292, [180]],
-[293, [81]]
+[305, [180]],
+[306, [81]]
 ],
 "memberKind": "Property"
 }
@@ -11508,7 +12093,7 @@ var contents = {
 "members": {
 "Reading":{
 "files": [
-[292, [176]]
+[305, [176]]
 ],
 "memberKind": "Property"
 }
@@ -11519,40 +12104,40 @@ var contents = {
 "members": {
 "W":{
 "files": [
-[376, [125]],
-[377, [132]],
-[382, [125]],
-[381, [81]]
+[393, [125]],
+[394, [132]],
+[399, [125]],
+[398, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "X":{
 "files": [
-[376, [122]],
-[377, [129]],
-[382, [122]],
-[381, [78]]
+[393, [122]],
+[394, [129]],
+[399, [122]],
+[398, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "Y":{
 "files": [
-[376, [123]],
-[377, [130]],
-[382, [123]],
-[381, [79]]
+[393, [123]],
+[394, [130]],
+[399, [123]],
+[398, [79]]
 ],
 "memberKind": "Property"
 }
 ,
 "Z":{
 "files": [
-[376, [124]],
-[377, [131]],
-[382, [124]],
-[381, [80]]
+[393, [124]],
+[394, [131]],
+[399, [124]],
+[398, [80]]
 ],
 "memberKind": "Property"
 }
@@ -11563,90 +12148,90 @@ var contents = {
 "members": {
 "M11":{
 "files": [
-[376, [129]],
-[377, [136]],
-[382, [129]],
-[381, [85]]
+[393, [129]],
+[394, [136]],
+[399, [129]],
+[398, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "M12":{
 "files": [
-[376, [130]],
-[377, [137]],
-[382, [130]],
-[381, [86]]
+[393, [130]],
+[394, [137]],
+[399, [130]],
+[398, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "M13":{
 "files": [
-[376, [131]],
-[377, [138]],
-[382, [131]],
-[381, [87]]
+[393, [131]],
+[394, [138]],
+[399, [131]],
+[398, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "M21":{
 "files": [
-[376, [132]],
-[377, [139]],
-[382, [132]],
-[381, [88]]
+[393, [132]],
+[394, [139]],
+[399, [132]],
+[398, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "M22":{
 "files": [
-[376, [133]],
-[377, [140]],
-[382, [133]],
-[381, [89]]
+[393, [133]],
+[394, [140]],
+[399, [133]],
+[398, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "M23":{
 "files": [
-[376, [134]],
-[377, [141]],
-[382, [134]],
-[381, [90]]
+[393, [134]],
+[394, [141]],
+[399, [134]],
+[398, [90]]
 ],
 "memberKind": "Property"
 }
 ,
 "M31":{
 "files": [
-[376, [135]],
-[377, [142]],
-[382, [135]],
-[381, [91]]
+[393, [135]],
+[394, [142]],
+[399, [135]],
+[398, [91]]
 ],
 "memberKind": "Property"
 }
 ,
 "M32":{
 "files": [
-[376, [136]],
-[377, [143]],
-[382, [136]],
-[381, [92]]
+[393, [136]],
+[394, [143]],
+[399, [136]],
+[398, [92]]
 ],
 "memberKind": "Property"
 }
 ,
 "M33":{
 "files": [
-[376, [137]],
-[377, [144]],
-[382, [137]],
-[381, [93]]
+[393, [137]],
+[394, [144]],
+[399, [137]],
+[398, [93]]
 ],
 "memberKind": "Property"
 }
@@ -11657,72 +12242,72 @@ var contents = {
 "members": {
 "Facedown":{
 "files": [
-[194, [171]],
-[196, [187]],
-[197, [164]],
-[198, [169]],
-[383, [126]],
-[384, [71]]
+[204, [171]],
+[206, [187]],
+[207, [164]],
+[208, [169]],
+[400, [126]],
+[401, [71]]
 ],
 "memberKind": "Field"
 }
 ,
 "Faceup":{
 "files": [
-[194, [171]],
-[196, [187]],
-[197, [164]],
-[198, [169]],
-[383, [123]],
-[384, [68]]
+[204, [171]],
+[206, [187]],
+[207, [164]],
+[208, [169]],
+[400, [123]],
+[401, [68]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotRotated":{
 "files": [
-[194, [51,776,787,795,832,874]],
-[196, [48,827,838,846,883,925]],
-[197, [46,683,694,702,739,781]],
-[198, [46,800,811,819,856,898]],
-[383, [111]],
-[384, [56]]
+[204, [51,752,763,771,808,850]],
+[206, [48,811,822,830,867,909]],
+[207, [46,660,671,679,716,758]],
+[208, [46,784,795,803,840,882]],
+[400, [111]],
+[401, [56]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rotated180DegreesCounterclockwise":{
 "files": [
-[194, [789,793,828,870]],
-[196, [840,844,879,921]],
-[197, [696,700,735,777]],
-[198, [813,817,852,894]],
-[383, [117]],
-[384, [62]]
+[204, [765,769,804,846]],
+[206, [824,828,863,905]],
+[207, [673,677,712,754]],
+[208, [797,801,836,878]],
+[400, [117]],
+[401, [62]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rotated270DegreesCounterclockwise":{
 "files": [
-[194, [792,796,808,809,830,872]],
-[196, [843,847,859,860,881,923]],
-[197, [699,703,715,716,737,779]],
-[198, [816,820,832,833,854,896]],
-[383, [120]],
-[384, [65]]
+[204, [768,772,784,785,806,848]],
+[206, [827,831,843,844,865,907]],
+[207, [676,680,692,693,714,756]],
+[208, [800,804,816,817,838,880]],
+[400, [120]],
+[401, [65]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rotated90DegreesCounterclockwise":{
 "files": [
-[194, [786,790,807,810,826,868]],
-[196, [837,841,858,861,877,919]],
-[197, [693,697,714,717,733,775]],
-[198, [810,814,831,834,850,892]],
-[383, [114]],
-[384, [59]]
+[204, [762,766,783,786,802,844]],
+[206, [821,825,842,845,861,903]],
+[207, [670,674,691,694,710,752]],
+[208, [794,798,815,818,834,876]],
+[400, [114]],
+[401, [59]]
 ],
 "memberKind": "Field"
 }
@@ -11733,35 +12318,35 @@ var contents = {
 "members": {
 "GetCurrentOrientation`0":{
 "files": [
-[194, [622]],
-[196, [687]],
-[197, [537]],
-[198, [683]],
-[383, [164]],
-[384, [89]]
+[204, [598]],
+[206, [671]],
+[207, [514]],
+[208, [667]],
+[400, [164]],
+[401, [89]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[194, [50]],
-[196, [47]],
-[197, [45]],
-[198, [45]],
-[383, [36]],
-[384, [36]]
+[204, [50]],
+[206, [47]],
+[207, [45]],
+[208, [45]],
+[400, [36]],
+[401, [36]]
 ],
 "memberKind": "Method"
 }
 ,
 "OrientationChanged":{
 "files": [
-[194, [690,712]],
-[196, [740,762]],
-[197, [597,619]],
-[198, [744,761]],
-[383, [67,88,93,158,180]]
+[204, [666,688]],
+[206, [724,746]],
+[207, [574,596]],
+[208, [728,745]],
+[400, [67,88,93,158,180]]
 ],
 "memberKind": "Event"
 }
@@ -11772,11 +12357,11 @@ var contents = {
 "members": {
 "Orientation":{
 "files": [
-[194, [171,178]],
-[196, [187,194]],
-[197, [164,171]],
-[198, [169,176]],
-[383, [144]]
+[204, [171,178]],
+[206, [187,194]],
+[207, [164,171]],
+[208, [169,176]],
+[400, [144]]
 ],
 "memberKind": "Property"
 }
@@ -11791,159 +12376,159 @@ var contents = {
 "members": {
 "BaudRate":{
 "files": [
-[385, [76,84]],
-[272, [355]]
+[402, [76,84]],
+[285, [355]]
 ],
 "memberKind": "Property"
 }
 ,
 "BreakSignalState":{
 "files": [
-[385, [175,189]]
+[402, [175,189]]
 ],
 "memberKind": "Property"
 }
 ,
 "CarrierDetectState":{
 "files": [
-[385, [235]]
+[402, [235]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataBits":{
 "files": [
-[385, [259,269]],
-[272, [359]]
+[402, [259,269]],
+[285, [359]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataSetReadyState":{
 "files": [
-[385, [247]]
+[402, [247]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[269, [372]],
-[272, [392]]
+[282, [372]],
+[285, [392]]
 ],
 "memberKind": "Method"
 }
 ,
 "ErrorReceived":{
 "files": [
-[386, [105,111]]
+[403, [105,111]]
 ],
 "memberKind": "Event"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[269, [222]],
-[272, [222]]
+[282, [222]],
+[285, [222]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[285, [188]]
+[298, [188]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelectorFromUsbVidPid`2":{
 "files": [
-[295, [186]]
+[308, [186]]
 ],
 "memberKind": "Method"
 }
 ,
 "Handshake":{
 "files": [
-[385, [148,156,160,164,168]],
-[272, [358]]
+[402, [148,156,160,164,168]],
+[285, [358]]
 ],
 "memberKind": "Property"
 }
 ,
 "InputStream":{
 "files": [
-[387, [182]],
-[313, [259]]
+[404, [182]],
+[328, [259]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsDataTerminalReadyEnabled":{
 "files": [
-[385, [195,209]]
+[402, [195,209]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsRequestToSendEnabled":{
 "files": [
-[385, [215,229]]
+[402, [215,229]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutputStream":{
 "files": [
-[387, [222]],
-[313, [185,235]]
+[404, [222]],
+[328, [185,235]]
 ],
 "memberKind": "Property"
 }
 ,
 "Parity":{
 "files": [
-[385, [91,99,103,107,111,115]],
-[272, [356]]
+[402, [91,99,103,107,111,115]],
+[285, [356]]
 ],
 "memberKind": "Property"
 }
 ,
 "PinChanged":{
 "files": [
-[386, [88,94]]
+[403, [88,94]]
 ],
 "memberKind": "Event"
 }
 ,
 "PortName":{
 "files": [
-[285, [429,432,471,474]],
-[385, [55,57]],
-[387, [102,104]],
-[386, [54,56]]
+[298, [429,432,471,474]],
+[402, [55,57]],
+[404, [102,104]],
+[403, [54,56]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadTimeout":{
 "files": [
-[387, [154,160]]
+[404, [154,160]]
 ],
 "memberKind": "Property"
 }
 ,
 "StopBits":{
 "files": [
-[385, [122,133,137,141]],
-[272, [357]]
+[402, [122,133,137,141]],
+[285, [357]]
 ],
 "memberKind": "Property"
 }
 ,
 "WriteTimeout":{
 "files": [
-[387, [144,167]]
+[404, [144,167]]
 ],
 "memberKind": "Property"
 }
@@ -11954,23 +12539,23 @@ var contents = {
 "members": {
 "None":{
 "files": [
-[385, [156]],
-[272, [358]]
+[402, [156]],
+[285, [358]]
 ],
 "memberKind": "Field"
 }
 ,
 "RequestToSend":{
 "files": [
-[388, [38]],
-[385, [160]]
+[405, [38]],
+[402, [160]]
 ],
 "memberKind": "Field"
 }
 ,
 "RequestToSendXOnXOff":{
 "files": [
-[385, [164,168]]
+[402, [164,168]]
 ],
 "memberKind": "Field"
 }
@@ -11981,37 +12566,37 @@ var contents = {
 "members": {
 "Even":{
 "files": [
-[388, [32]],
-[385, [103]]
+[405, [32]],
+[402, [103]]
 ],
 "memberKind": "Field"
 }
 ,
 "Mark":{
 "files": [
-[385, [111]]
+[402, [111]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[385, [99]],
-[272, [356]]
+[402, [99]],
+[285, [356]]
 ],
 "memberKind": "Field"
 }
 ,
 "Odd":{
 "files": [
-[385, [107]]
+[402, [107]]
 ],
 "memberKind": "Field"
 }
 ,
 "Space":{
 "files": [
-[385, [115]]
+[402, [115]]
 ],
 "memberKind": "Field"
 }
@@ -12022,23 +12607,23 @@ var contents = {
 "members": {
 "One":{
 "files": [
-[385, [133]],
-[272, [357]]
+[402, [133]],
+[285, [357]]
 ],
 "memberKind": "Field"
 }
 ,
 "OnePointFive":{
 "files": [
-[388, [34]],
-[385, [137]]
+[405, [34]],
+[402, [137]]
 ],
 "memberKind": "Field"
 }
 ,
 "Two":{
 "files": [
-[385, [141]]
+[402, [141]]
 ],
 "memberKind": "Field"
 }
@@ -12053,7 +12638,7 @@ var contents = {
 "members": {
 "SmartCard":{
 "files": [
-[389, [98]]
+[406, [98]]
 ],
 "memberKind": "Property"
 }
@@ -12064,31 +12649,31 @@ var contents = {
 "members": {
 "ConnectAsync`0":{
 "files": [
-[389, [113]],
-[390, [43]]
+[406, [113]],
+[407, [43]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetAnswerToResetAsync`0":{
 "files": [
-[391, [79]]
+[408, [79]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetStatusAsync`0":{
 "files": [
-[391, [82]]
+[408, [82]]
 ],
 "memberKind": "Method"
 }
 ,
 "Reader":{
 "files": [
-[392, [97,102]],
-[393, [65]],
-[306, [86]]
+[409, [97,102]],
+[410, [65]],
+[321, [86]]
 ],
 "memberKind": "Property"
 }
@@ -12124,14 +12709,14 @@ var contents = {
 ,
 "SmartCardEmulationCategory":{
 "files": [
-[394, [193]]
+[411, [193]]
 ],
 "memberKind": "Property"
 }
 ,
 "SmartCardEmulationType":{
 "files": [
-[394, [194]]
+[411, [194]]
 ],
 "memberKind": "Property"
 }
@@ -12142,21 +12727,21 @@ var contents = {
 "members": {
 "Disabled":{
 "files": [
-[394, [154]]
+[411, [154]]
 ],
 "memberKind": "Field"
 }
 ,
 "Enabled":{
 "files": [
-[394, [136]]
+[411, [136]]
 ],
 "memberKind": "Field"
 }
 ,
 "ForegroundOverride":{
 "files": [
-[394, [172]]
+[411, [172]]
 ],
 "memberKind": "Field"
 }
@@ -12167,7 +12752,7 @@ var contents = {
 "members": {
 "ActivationPolicy":{
 "files": [
-[394, [232]],
+[411, [232]],
 [63, [154]]
 ],
 "memberKind": "Property"
@@ -12175,15 +12760,15 @@ var contents = {
 ,
 "AppletIdGroup":{
 "files": [
-[394, [193,194]]
+[411, [193,194]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[394, [197]],
-[395, [226]]
+[411, [197]],
+[412, [249]]
 ],
 "memberKind": "Property"
 }
@@ -12197,7 +12782,7 @@ var contents = {
 ,
 "SetAutomaticResponseApdusAsync`1":{
 "files": [
-[395, [157,229]]
+[412, [157,252]]
 ],
 "memberKind": "Method"
 }
@@ -12208,21 +12793,21 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[395, [155,173,184,193,205]]
+[412, [155,173,191,203,212,223]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AppletId":{
 "files": [
-[395, [156,199,208]]
+[412, [156,206,231]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShouldMatchLength":{
 "files": [
-[395, [200,209]]
+[412, [207,232]]
 ],
 "memberKind": "Property"
 }
@@ -12233,22 +12818,22 @@ var contents = {
 "members": {
 "Challenge":{
 "files": [
-[396, [47]],
-[397, [45]]
+[413, [47]],
+[414, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "ChangeAdministrativeKeyAsync`2":{
 "files": [
-[396, [49]]
+[413, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "VerifyResponseAsync`1":{
 "files": [
-[397, [46]]
+[414, [46]]
 ],
 "memberKind": "Method"
 }
@@ -12259,8 +12844,8 @@ var contents = {
 "members": {
 "TransmitAsync`1":{
 "files": [
-[302, [38]],
-[390, [52]]
+[317, [38]],
+[407, [52]]
 ],
 "memberKind": "Method"
 }
@@ -12271,15 +12856,15 @@ var contents = {
 "members": {
 "Other":{
 "files": [
-[395, [151]]
+[412, [151]]
 ],
 "memberKind": "Field"
 }
 ,
 "Payment":{
 "files": [
-[394, [193]],
-[395, [142,166]]
+[411, [193]],
+[412, [142,166]]
 ],
 "memberKind": "Field"
 }
@@ -12290,15 +12875,15 @@ var contents = {
 "members": {
 "Host":{
 "files": [
-[394, [194]],
-[395, [152,167]]
+[411, [194]],
+[412, [152,167]]
 ],
 "memberKind": "Field"
 }
 ,
 "Uicc":{
 "files": [
-[395, [143]]
+[412, [143]]
 ],
 "memberKind": "Field"
 }
@@ -12309,7 +12894,7 @@ var contents = {
 "members": {
 "GetAppletIdGroupRegistrationsAsync`0":{
 "files": [
-[394, [64,139,157,175,200]],
+[411, [64,139,157,175,200]],
 [63, [135]]
 ],
 "memberKind": "Method"
@@ -12317,7 +12902,7 @@ var contents = {
 ,
 "GetDefaultAsync`0":{
 "files": [
-[394, [110]],
+[411, [110]],
 [63, [180]]
 ],
 "memberKind": "Method"
@@ -12332,7 +12917,7 @@ var contents = {
 ,
 "UnregisterAppletIdGroupAsync`1":{
 "files": [
-[394, [191]]
+[411, [191]]
 ],
 "memberKind": "Method"
 }
@@ -12343,7 +12928,7 @@ var contents = {
 "members": {
 "Never":{
 "files": [
-[394, [110]]
+[411, [110]]
 ],
 "memberKind": "Field"
 }
@@ -12354,21 +12939,21 @@ var contents = {
 "members": {
 "Allow":{
 "files": [
-[392, [173,188,203,218]]
+[409, [173,188,203,218]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disallow":{
 "files": [
-[392, [170,185,200,215]]
+[409, [170,185,200,215]]
 ],
 "memberKind": "Field"
 }
 ,
 "RequireAtLeastOne":{
 "files": [
-[392, [176,191,206,221]]
+[409, [176,191,206,221]]
 ],
 "memberKind": "Field"
 }
@@ -12379,49 +12964,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[392, [163]]
+[409, [163]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Digits":{
 "files": [
-[392, [200,203,206]]
+[409, [200,203,206]]
 ],
 "memberKind": "Property"
 }
 ,
 "LowercaseLetters":{
 "files": [
-[392, [185,188,191]]
+[409, [185,188,191]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxLength":{
 "files": [
-[392, [165]]
+[409, [165]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinLength":{
 "files": [
-[392, [164]]
+[409, [164]]
 ],
 "memberKind": "Property"
 }
 ,
 "SpecialCharacters":{
 "files": [
-[392, [215,218,221]]
+[409, [215,218,221]]
 ],
 "memberKind": "Property"
 }
 ,
 "UppercaseLetters":{
 "files": [
-[392, [170,173,176]]
+[409, [170,173,176]]
 ],
 "memberKind": "Property"
 }
@@ -12432,7 +13017,7 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[398, [69]]
+[415, [69]]
 ],
 "memberKind": "Method"
 }
@@ -12443,62 +13028,62 @@ var contents = {
 "members": {
 "FromSmartCardAsync`1":{
 "files": [
-[399, [48]],
-[398, [49]],
-[396, [41]],
-[397, [39]],
-[306, [82]]
+[416, [48]],
+[415, [49]],
+[413, [41]],
+[414, [39]],
+[321, [82]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetChallengeContextAsync`0":{
 "files": [
-[392, [112]],
-[396, [45]],
-[397, [43]]
+[409, [112]],
+[413, [45]],
+[414, [43]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNameAsync`0":{
 "files": [
-[306, [87]]
+[321, [87]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestPinChangeAsync`0":{
 "files": [
-[399, [52]]
+[416, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestPinResetAsync`1":{
 "files": [
-[398, [57]]
+[415, [57]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestVirtualSmartCardCreationAsync`3":{
 "files": [
-[392, [66]]
+[409, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestVirtualSmartCardDeletionAsync`1":{
 "files": [
-[393, [68]]
+[410, [68]]
 ],
 "memberKind": "Method"
 }
 ,
 "SmartCard":{
 "files": [
-[392, [97,102]]
+[409, [97,102]]
 ],
 "memberKind": "Property"
 }
@@ -12509,56 +13094,56 @@ var contents = {
 "members": {
 "CardAdded":{
 "files": [
-[389, [73,83]],
-[392, [98]]
+[406, [73,83]],
+[409, [98]]
 ],
 "memberKind": "Event"
 }
 ,
 "CardRemoved":{
 "files": [
-[389, [74,84]],
-[393, [66]]
+[406, [74,84]],
+[410, [66]]
 ],
 "memberKind": "Event"
 }
 ,
 "DeviceId":{
 "files": [
-[392, [102]]
+[409, [102]]
 ],
 "memberKind": "Property"
 }
 ,
 "FindAllCardsAsync`0":{
 "files": [
-[400, [46]],
-[306, [78]]
+[417, [46]],
+[321, [78]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[389, [72]],
-[400, [45]],
-[306, [73]]
+[406, [72]],
+[417, [45]],
+[321, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[306, [63]]
+[321, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "Name":{
 "files": [
-[392, [157]],
-[393, [99]],
-[306, [86]]
+[409, [157]],
+[410, [99]],
+[321, [86]]
 ],
 "memberKind": "Property"
 }
@@ -12569,15 +13154,15 @@ var contents = {
 "members": {
 "Any":{
 "files": [
-[389, [50]]
+[406, [50]]
 ],
 "memberKind": "Field"
 }
 ,
 "Nfc":{
 "files": [
-[389, [46]],
-[302, [98]]
+[406, [46]],
+[317, [98]]
 ],
 "memberKind": "Field"
 }
@@ -12588,21 +13173,21 @@ var contents = {
 "members": {
 "EmulatorAppletIdGroupRegistrationChanged":{
 "files": [
-[394, [91]]
+[411, [91]]
 ],
 "memberKind": "Field"
 }
 ,
 "EmulatorHostApplicationActivated":{
 "files": [
-[394, [88]]
+[411, [88]]
 ],
 "memberKind": "Field"
 }
 ,
 "EmulatorTransaction":{
 "files": [
-[394, [94]]
+[411, [94]]
 ],
 "memberKind": "Field"
 }
@@ -12617,15 +13202,15 @@ var contents = {
 "members": {
 "Cdma":{
 "files": [
-[401, [181]],
-[402, [109]]
+[418, [181]],
+[419, [109]]
 ],
 "memberKind": "Field"
 }
 ,
 "Gsm":{
 "files": [
-[401, [173]]
+[418, [173]]
 ],
 "memberKind": "Field"
 }
@@ -12636,14 +13221,14 @@ var contents = {
 "members": {
 "GetDefault`0":{
 "files": [
-[402, [64]]
+[419, [64]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendMessageAndGetResultAsync`1":{
 "files": [
-[402, [86]]
+[419, [86]]
 ],
 "memberKind": "Method"
 }
@@ -12654,28 +13239,28 @@ var contents = {
 "members": {
 "Accept":{
 "files": [
-[77, [155,170]]
+[79, [155,170]]
 ],
 "memberKind": "Field"
 }
 ,
 "AcceptImmediately":{
 "files": [
-[77, [158]]
+[79, [158]]
 ],
 "memberKind": "Field"
 }
 ,
 "Drop":{
 "files": [
-[77, [162]]
+[79, [162]]
 ],
 "memberKind": "Field"
 }
 ,
 "Peek":{
 "files": [
-[77, [166]]
+[79, [166]]
 ],
 "memberKind": "Field"
 }
@@ -12686,7 +13271,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[77, [152]]
+[79, [152]]
 ],
 "memberKind": "Constructor"
 }
@@ -12697,14 +13282,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[77, [174]]
+[79, [174]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Rules":{
 "files": [
-[77, [175]]
+[79, [175]]
 ],
 "memberKind": "Property"
 }
@@ -12715,21 +13300,21 @@ var contents = {
 "members": {
 "Accept`0":{
 "files": [
-[86, [83]]
+[89, [83]]
 ],
 "memberKind": "Method"
 }
 ,
 "MessageType":{
 "files": [
-[86, [62,79]]
+[89, [62,79]]
 ],
 "memberKind": "Property"
 }
 ,
 "TextMessage":{
 "files": [
-[86, [64]]
+[89, [64]]
 ],
 "memberKind": "Property"
 }
@@ -12740,36 +13325,36 @@ var contents = {
 "members": {
 "App":{
 "files": [
-[77, [136]]
+[79, [136]]
 ],
 "memberKind": "Field"
 }
 ,
 "Broadcast":{
 "files": [
-[77, [144]]
+[79, [144]]
 ],
 "memberKind": "Field"
 }
 ,
 "Text":{
 "files": [
-[86, [62]],
-[77, [129,132]]
+[89, [62]],
+[79, [129,132]]
 ],
 "memberKind": "Field"
 }
 ,
 "Voicemail":{
 "files": [
-[77, [148]]
+[79, [148]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wap":{
 "files": [
-[77, [140]]
+[79, [140]]
 ],
 "memberKind": "Field"
 }
@@ -12780,7 +13365,7 @@ var contents = {
 "members": {
 "MessagingNetworkError":{
 "files": [
-[402, [105]]
+[419, [105]]
 ],
 "memberKind": "Field"
 }
@@ -12791,49 +13376,49 @@ var contents = {
 "members": {
 "CellularClass":{
 "files": [
-[402, [91,109]]
+[419, [91,109]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsErrorTransient":{
 "files": [
-[402, [104]]
+[419, [104]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSuccessful":{
 "files": [
-[402, [88]]
+[419, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "MessageReferenceNumbers":{
 "files": [
-[402, [92]]
+[419, [92]]
 ],
 "memberKind": "Property"
 }
 ,
 "ModemErrorCode":{
 "files": [
-[402, [103,105]]
+[419, [103,105]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkCauseCode":{
 "files": [
-[402, [107]]
+[419, [107]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransportFailureCause":{
 "files": [
-[402, [111]]
+[419, [111]]
 ],
 "memberKind": "Property"
 }
@@ -12844,31 +13429,110 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[402, [80]]
+[419, [80]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Body":{
 "files": [
-[86, [72]],
-[402, [82]]
+[89, [72]],
+[419, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "From":{
 "files": [
-[86, [70]]
+[89, [70]]
 ],
 "memberKind": "Property"
 }
 ,
 "To":{
 "files": [
-[402, [81]]
+[419, [81]]
 ],
 "memberKind": "Property"
+}
+}
+}
+}
+}
+,
+"Spi":{
+"children": {
+"SpiConnectionSettings":{
+"members": {
+":ctor`1":{
+"files": [
+[315, [44]]
+],
+"memberKind": "Constructor"
+}
+,
+"ClockFrequency":{
+"files": [
+[315, [47]]
+],
+"memberKind": "Property"
+}
+,
+"Mode":{
+"files": [
+[315, [51]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"SpiDevice":{
+"members": {
+"Dispose`0":{
+"files": [
+[315, [109]]
+],
+"memberKind": "Method"
+}
+,
+"FromIdAsync`2":{
+"files": [
+[315, [63]]
+],
+"memberKind": "Method"
+}
+,
+"GetDeviceSelector`0":{
+"files": [
+[315, [40]]
+],
+"memberKind": "Method"
+}
+,
+"TransferFullDuplex`2":{
+"files": [
+[315, [148]]
+],
+"memberKind": "Method"
+}
+,
+"Write`1":{
+"files": [
+[315, [88,89]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"SpiMode":{
+"members": {
+"Mode3":{
+"files": [
+[315, [51]]
+],
+"memberKind": "Field"
 }
 }
 }
@@ -12881,14 +13545,14 @@ var contents = {
 "members": {
 "EndpointNumber":{
 "files": [
-[317, [277]]
+[332, [277]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
 "files": [
-[317, [278]]
+[332, [278]]
 ],
 "memberKind": "Property"
 }
@@ -12899,7 +13563,7 @@ var contents = {
 "members": {
 "EndpointDescriptor":{
 "files": [
-[317, [274]]
+[332, [274]]
 ],
 "memberKind": "Property"
 }
@@ -12910,14 +13574,14 @@ var contents = {
 "members": {
 "EndpointNumber":{
 "files": [
-[317, [287]]
+[332, [287]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
 "files": [
-[317, [288]]
+[332, [288]]
 ],
 "memberKind": "Property"
 }
@@ -12928,7 +13592,7 @@ var contents = {
 "members": {
 "EndpointDescriptor":{
 "files": [
-[317, [284]]
+[332, [284]]
 ],
 "memberKind": "Property"
 }
@@ -12939,21 +13603,21 @@ var contents = {
 "members": {
 "ConfigurationDescriptor":{
 "files": [
-[317, [207]]
+[332, [207]]
 ],
 "memberKind": "Property"
 }
 ,
 "Descriptors":{
 "files": [
-[317, [339]]
+[332, [339]]
 ],
 "memberKind": "Property"
 }
 ,
 "UsbInterfaces":{
 "files": [
-[317, [210,229]]
+[332, [210,229]]
 ],
 "memberKind": "Property"
 }
@@ -12964,28 +13628,28 @@ var contents = {
 "members": {
 "ConfigurationValue":{
 "files": [
-[317, [211]]
+[332, [211]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPowerMilliamps":{
 "files": [
-[317, [214]]
+[332, [214]]
 ],
 "memberKind": "Property"
 }
 ,
 "RemoteWakeup":{
 "files": [
-[317, [213]]
+[332, [213]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelfPowered":{
 "files": [
-[317, [212]]
+[332, [212]]
 ],
 "memberKind": "Property"
 }
@@ -12996,7 +13660,7 @@ var contents = {
 "members": {
 "Device":{
 "files": [
-[403, [166,281,351]]
+[420, [166,281,351]]
 ],
 "memberKind": "Field"
 }
@@ -13007,28 +13671,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[403, [163,278,348]]
+[420, [163,278,348]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ControlTransferType":{
 "files": [
-[403, [163,278,348]]
+[420, [163,278,348]]
 ],
 "memberKind": "Property"
 }
 ,
 "Direction":{
 "files": [
-[403, [163,278,348]]
+[420, [163,278,348]]
 ],
 "memberKind": "Property"
 }
 ,
 "Recipient":{
 "files": [
-[403, [163,278,348]]
+[420, [163,278,348]]
 ],
 "memberKind": "Property"
 }
@@ -13039,7 +13703,7 @@ var contents = {
 "members": {
 "Vendor":{
 "files": [
-[403, [167,282,352]]
+[420, [167,282,352]]
 ],
 "memberKind": "Field"
 }
@@ -13050,14 +13714,14 @@ var contents = {
 "members": {
 "Length":{
 "files": [
-[317, [347]]
+[332, [347]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadDescriptorBuffer`1":{
 "files": [
-[317, [348]]
+[332, [348]]
 ],
 "memberKind": "Method"
 }
@@ -13068,63 +13732,63 @@ var contents = {
 "members": {
 "Configuration":{
 "files": [
-[317, [206,229,338]]
+[332, [206,229,338]]
 ],
 "memberKind": "Property"
 }
 ,
 "DefaultInterface":{
 "files": [
-[84, [137]],
-[404, [193,229,256,395]],
-[405, [336,374]],
-[317, [263]],
-[406, [63,124,141]]
+[87, [137]],
+[421, [193,229,256,395]],
+[422, [336,374]],
+[332, [263]],
+[423, [63,124,141]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceDescriptor":{
 "files": [
-[317, [186]],
-[407, [77,78,82,83]]
+[332, [186]],
+[424, [77,78,82,83]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[84, [82]],
-[270, [387]]
+[87, [82]],
+[283, [387]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[84, [102]],
-[270, [237]]
+[87, [102]],
+[283, [237]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`3":{
 "files": [
-[286, [202,218]]
+[299, [202,218]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendControlInTransferAsync`2":{
 "files": [
-[403, [357]]
+[420, [357]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendControlOutTransferAsync`2":{
 "files": [
-[403, [174,289]]
+[420, [174,289]]
 ],
 "memberKind": "Method"
 }
@@ -13135,44 +13799,44 @@ var contents = {
 "members": {
 "BcdDeviceRevision":{
 "files": [
-[317, [193]]
+[332, [193]]
 ],
 "memberKind": "Property"
 }
 ,
 "BcdUsb":{
 "files": [
-[317, [189]]
+[332, [189]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize0":{
 "files": [
-[317, [190]]
+[332, [190]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberOfConfigurations":{
 "files": [
-[317, [194]]
+[332, [194]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProductId":{
 "files": [
-[317, [192]],
-[407, [78,83]]
+[332, [192]],
+[424, [78,83]]
 ],
 "memberKind": "Property"
 }
 ,
 "VendorId":{
 "files": [
-[317, [191]],
-[407, [77,82]]
+[332, [191]],
+[424, [77,82]]
 ],
 "memberKind": "Property"
 }
@@ -13183,48 +13847,48 @@ var contents = {
 "members": {
 "BulkInPipes":{
 "files": [
-[405, [374]],
-[317, [243,264]]
+[422, [374]],
+[332, [243,264]]
 ],
 "memberKind": "Property"
 }
 ,
 "BulkOutPipes":{
 "files": [
-[84, [137]],
-[405, [336]],
-[317, [244,265]]
+[87, [137]],
+[422, [336]],
+[332, [244,265]]
 ],
 "memberKind": "Property"
 }
 ,
 "InterfaceNumber":{
 "files": [
-[317, [238]]
+[332, [238]]
 ],
 "memberKind": "Property"
 }
 ,
 "InterfaceSettings":{
 "files": [
-[317, [236,242]],
-[406, [64,124,141]]
+[332, [236,242]],
+[423, [64,124,141]]
 ],
 "memberKind": "Property"
 }
 ,
 "InterruptInPipes":{
 "files": [
-[404, [229,256]],
-[317, [245,266]]
+[421, [229,256]],
+[332, [245,266]]
 ],
 "memberKind": "Property"
 }
 ,
 "InterruptOutPipes":{
 "files": [
-[404, [193,395]],
-[317, [246,267]]
+[421, [193,395]],
+[332, [246,267]]
 ],
 "memberKind": "Property"
 }
@@ -13235,28 +13899,28 @@ var contents = {
 "members": {
 "AlternateSettingNumber":{
 "files": [
-[406, [147]]
+[423, [147]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClassCode":{
 "files": [
-[317, [239]]
+[332, [239]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProtocolCode":{
 "files": [
-[317, [241]]
+[332, [241]]
 ],
 "memberKind": "Property"
 }
 ,
 "SubclassCode":{
 "files": [
-[317, [240]]
+[332, [240]]
 ],
 "memberKind": "Property"
 }
@@ -13267,14 +13931,14 @@ var contents = {
 "members": {
 "InterfaceDescriptor":{
 "files": [
-[406, [147]]
+[423, [147]]
 ],
 "memberKind": "Property"
 }
 ,
 "Selected":{
 "files": [
-[406, [145]]
+[423, [145]]
 ],
 "memberKind": "Property"
 }
@@ -13285,21 +13949,21 @@ var contents = {
 "members": {
 "EndpointNumber":{
 "files": [
-[317, [297]]
+[332, [297]]
 ],
 "memberKind": "Property"
 }
 ,
 "Interval":{
 "files": [
-[317, [299]]
+[332, [299]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
 "files": [
-[317, [298]]
+[332, [298]]
 ],
 "memberKind": "Property"
 }
@@ -13310,7 +13974,7 @@ var contents = {
 "members": {
 "InterruptData":{
 "files": [
-[404, [285,364]]
+[421, [285,364]]
 ],
 "memberKind": "Property"
 }
@@ -13321,7 +13985,7 @@ var contents = {
 "members": {
 "EndpointDescriptor":{
 "files": [
-[317, [294]]
+[332, [294]]
 ],
 "memberKind": "Property"
 }
@@ -13332,21 +13996,21 @@ var contents = {
 "members": {
 "EndpointNumber":{
 "files": [
-[317, [308]]
+[332, [308]]
 ],
 "memberKind": "Property"
 }
 ,
 "Interval":{
 "files": [
-[317, [310]]
+[332, [310]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPacketSize":{
 "files": [
-[317, [309]]
+[332, [309]]
 ],
 "memberKind": "Property"
 }
@@ -13357,7 +14021,7 @@ var contents = {
 "members": {
 "EndpointDescriptor":{
 "files": [
-[317, [305]]
+[332, [305]]
 ],
 "memberKind": "Property"
 }
@@ -13368,35 +14032,35 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[403, [161,276,346]]
+[420, [161,276,346]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Length":{
 "files": [
-[403, [161,276,346]]
+[420, [161,276,346]]
 ],
 "memberKind": "Property"
 }
 ,
 "Request":{
 "files": [
-[403, [161,276,346]]
+[420, [161,276,346]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestType":{
 "files": [
-[403, [161,276,346]]
+[420, [161,276,346]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[403, [161,276]]
+[420, [161,276]]
 ],
 "memberKind": "Property"
 }
@@ -13407,14 +14071,14 @@ var contents = {
 "members": {
 "In":{
 "files": [
-[403, [350]]
+[420, [350]]
 ],
 "memberKind": "Field"
 }
 ,
 "Out":{
 "files": [
-[403, [165,280]]
+[420, [165,280]]
 ],
 "memberKind": "Field"
 }
@@ -13429,11 +14093,11 @@ var contents = {
 "members": {
 "Allowed":{
 "files": [
-[260, [556]],
-[408, [47]],
-[308, [46]],
-[309, [48]],
-[310, [57]]
+[271, [556]],
+[425, [47]],
+[323, [46]],
+[324, [48]],
+[325, [57]]
 ],
 "memberKind": "Field"
 }
@@ -13444,87 +14108,87 @@ var contents = {
 "members": {
 "AvailableNetworksChanged":{
 "files": [
-[309, [93,100]]
+[324, [93,100]]
 ],
 "memberKind": "Event"
 }
 ,
 "ConnectAsync`2":{
 "files": [
-[260, [646,658]],
-[310, [188,204]]
+[271, [646,658]],
+[325, [188,204]]
 ],
 "memberKind": "Method"
 }
 ,
 "Disconnect`0":{
 "files": [
-[310, [93]]
+[325, [93]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindAllAdaptersAsync`0":{
 "files": [
-[260, [562]],
-[408, [55]]
+[271, [562]],
+[425, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[308, [57]],
-[309, [59]],
-[310, [68]]
+[323, [57]],
+[324, [59]],
+[325, [68]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[308, [54]],
-[309, [56]],
-[310, [65]]
+[323, [54]],
+[324, [56]],
+[325, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "NetworkAdapter":{
 "files": [
-[260, [614]],
-[409, [54]],
-[310, [109]]
+[271, [614]],
+[426, [54]],
+[325, [109]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkReport":{
 "files": [
-[260, [594,596]],
-[308, [74]],
-[309, [71]],
-[310, [132]]
+[271, [594,596]],
+[323, [74]],
+[324, [71]],
+[325, [132]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestAccessAsync`0":{
 "files": [
-[260, [555]],
-[408, [46]],
-[308, [45]],
-[309, [47]],
-[310, [56]]
+[271, [555]],
+[425, [46]],
+[323, [45]],
+[324, [47]],
+[325, [56]]
 ],
 "memberKind": "Method"
 }
 ,
 "ScanAsync`0":{
 "files": [
-[260, [592]],
-[308, [73]],
-[310, [130]]
+[271, [592]],
+[323, [73]],
+[325, [130]]
 ],
 "memberKind": "Method"
 }
@@ -13535,45 +14199,45 @@ var contents = {
 "members": {
 "Bssid":{
 "files": [
-[409, [87]]
+[426, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "ChannelCenterFrequencyInKilohertz":{
 "files": [
-[409, [96]]
+[426, [96]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkRssiInDecibelMilliwatts":{
 "files": [
-[409, [104]]
+[426, [104]]
 ],
 "memberKind": "Property"
 }
 ,
 "SecuritySettings":{
 "files": [
-[260, [129,644]],
-[409, [36,112]],
-[310, [161,186]]
+[271, [129,644]],
+[426, [36,112]],
+[325, [161,186]]
 ],
 "memberKind": "Property"
 }
 ,
 "SignalBars":{
 "files": [
-[409, [41]]
+[426, [41]]
 ],
 "memberKind": "Property"
 }
 ,
 "Ssid":{
 "files": [
-[260, [642,667,672,859]],
-[409, [64,79]]
+[271, [642,667,672,859]],
+[426, [64,79]]
 ],
 "memberKind": "Property"
 }
@@ -13584,8 +14248,8 @@ var contents = {
 "members": {
 "ConnectionStatus":{
 "files": [
-[260, [665,672]],
-[310, [207,213]]
+[271, [665,672]],
+[325, [207,213]]
 ],
 "memberKind": "Property"
 }
@@ -13596,8 +14260,8 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[260, [665]],
-[310, [207]]
+[271, [665]],
+[325, [207]]
 ],
 "memberKind": "Field"
 }
@@ -13608,21 +14272,21 @@ var contents = {
 "members": {
 "AvailableNetworks":{
 "files": [
-[260, [594,596]],
-[408, [85]],
-[308, [83]],
-[309, [82]],
-[310, [141]]
+[271, [594,596]],
+[425, [85]],
+[323, [83]],
+[324, [82]],
+[325, [141]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timestamp":{
 "files": [
-[408, [81]],
-[308, [79]],
-[309, [78]],
-[310, [137]]
+[425, [81]],
+[323, [79]],
+[324, [78]],
+[325, [137]]
 ],
 "memberKind": "Property"
 }
@@ -13633,15 +14297,15 @@ var contents = {
 "members": {
 "Automatic":{
 "files": [
-[310, [182]]
+[325, [182]]
 ],
 "memberKind": "Field"
 }
 ,
 "Manual":{
 "files": [
-[260, [646,658]],
-[310, [179]]
+[271, [646,658]],
+[325, [179]]
 ],
 "memberKind": "Field"
 }
@@ -13658,49 +14322,49 @@ var contents = {
 "members": {
 "ConnectAsync`0":{
 "files": [
-[316, [599,603]]
+[331, [599,603]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[316, [481]]
+[331, [481]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetProvisioningInfoAsync`1":{
 "files": [
-[316, [543]]
+[331, [543]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetSelector`1":{
 "files": [
-[307, [318,326]]
+[322, [318,326]]
 ],
 "memberKind": "Method"
 }
 ,
 "PreferGroupOwnerMode":{
 "files": [
-[316, [505]]
+[331, [505]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionDeferred":{
 "files": [
-[316, [482,610,662]]
+[331, [482,610,662]]
 ],
 "memberKind": "Event"
 }
 ,
 "SessionInfo":{
 "files": [
-[316, [512,517]]
+[331, [512,517]]
 ],
 "memberKind": "Property"
 }
@@ -13711,21 +14375,21 @@ var contents = {
 "members": {
 "Aborted":{
 "files": [
-[307, [448]]
+[322, [448]]
 ],
 "memberKind": "Field"
 }
 ,
 "Started":{
 "files": [
-[316, [324]]
+[331, [324]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
 "files": [
-[307, [449]]
+[322, [449]]
 ],
 "memberKind": "Field"
 }
@@ -13736,121 +14400,121 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[307, [178]]
+[322, [178]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AdvertisementStatus":{
 "files": [
-[307, [448,449]],
-[316, [93,284,324]]
+[322, [448,449]],
+[331, [93,284,324]]
 ],
 "memberKind": "Property"
 }
 ,
 "AdvertisementStatusChanged":{
 "files": [
-[316, [63,335]]
+[331, [63,335]]
 ],
 "memberKind": "Event"
 }
 ,
 "AutoAcceptSession":{
 "files": [
-[307, [182]]
+[322, [182]]
 ],
 "memberKind": "Property"
 }
 ,
 "AutoAcceptSessionConnected":{
 "files": [
-[316, [65,336]]
+[331, [65,336]]
 ],
 "memberKind": "Event"
 }
 ,
 "ConnectAsync`1":{
 "files": [
-[316, [201,206]]
+[331, [201,206]]
 ],
 "memberKind": "Method"
 }
 ,
 "CustomServiceStatusCode":{
 "files": [
-[307, [190]]
+[322, [190]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeferredSessionInfo":{
 "files": [
-[307, [222,228]]
+[322, [222,228]]
 ],
 "memberKind": "Property"
 }
 ,
 "PreferGroupOwnerMode":{
 "files": [
-[307, [186]]
+[322, [186]]
 ],
 "memberKind": "Property"
 }
 ,
 "PreferredConfigurationMethods":{
 "files": [
-[307, [237,240]]
+[322, [237,240]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceInfo":{
 "files": [
-[307, [203,209]]
+[322, [203,209]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceName":{
 "files": [
-[316, [88]]
+[331, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceNamePrefixes":{
 "files": [
-[307, [247,250]]
+[322, [247,250]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceStatus":{
 "files": [
-[307, [189]]
+[322, [189]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionRequested":{
 "files": [
-[316, [68,337]]
+[331, [68,337]]
 ],
 "memberKind": "Event"
 }
 ,
 "Start`0":{
 "files": [
-[307, [265]]
+[322, [265]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[307, [292]],
-[316, [326]]
+[322, [292]],
+[331, [326]]
 ],
 "memberKind": "Method"
 }
@@ -13861,14 +14525,14 @@ var contents = {
 "members": {
 "Session":{
 "files": [
-[316, [269]]
+[331, [269]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionInfo":{
 "files": [
-[316, [259,261,263]]
+[331, [259,261,263]]
 ],
 "memberKind": "Property"
 }
@@ -13879,27 +14543,27 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[410, [88]],
-[411, [111,114,145]]
+[427, [88]],
+[428, [111,114,145]]
 ],
 "memberKind": "Field"
 }
 ,
 "PinDisplay":{
 "files": [
-[410, [80]],
-[315, [38]],
-[411, [122]],
-[316, [129,174,547]]
+[427, [80]],
+[330, [38]],
+[428, [122]],
+[331, [129,174,547]]
 ],
 "memberKind": "Field"
 }
 ,
 "PinEntry":{
 "files": [
-[410, [84]],
-[411, [118]],
-[316, [181,552]]
+[427, [84]],
+[428, [118]],
+[331, [181,552]]
 ],
 "memberKind": "Field"
 }
@@ -13910,14 +14574,14 @@ var contents = {
 "members": {
 "Tcp":{
 "files": [
-[316, [823,831]]
+[331, [823,831]]
 ],
 "memberKind": "Field"
 }
 ,
 "Udp":{
 "files": [
-[316, [823,843]]
+[331, [823,843]]
 ],
 "memberKind": "Field"
 }
@@ -13928,18 +14592,18 @@ var contents = {
 "members": {
 "IsGroupFormationNeeded":{
 "files": [
-[315, [35]],
-[411, [144]],
-[316, [128,173,180,545]]
+[330, [35]],
+[428, [144]],
+[331, [128,173,180,545]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedConfigurationMethod":{
 "files": [
-[315, [36,38]],
-[411, [145]],
-[316, [129,174,181,547,552]]
+[330, [36,38]],
+[428, [145]],
+[331, [129,174,181,547,552]]
 ],
 "memberKind": "Property"
 }
@@ -13950,14 +14614,14 @@ var contents = {
 "members": {
 "EndpointPairs":{
 "files": [
-[316, [814]]
+[331, [814]]
 ],
 "memberKind": "Property"
 }
 ,
 "Protocol":{
 "files": [
-[316, [815,831,843]]
+[331, [815,831,843]]
 ],
 "memberKind": "Property"
 }
@@ -13968,82 +14632,82 @@ var contents = {
 "members": {
 "AddDatagramSocketAsync`1":{
 "files": [
-[316, [799]]
+[331, [799]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddStreamSocketListenerAsync`1":{
 "files": [
-[316, [776]]
+[331, [776]]
 ],
 "memberKind": "Method"
 }
 ,
 "AdvertisementId":{
 "files": [
-[307, [517]],
-[316, [712]]
+[322, [517]],
+[331, [712]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[316, [744,926]]
+[331, [744,926]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetConnectionEndpointPairs`0":{
 "files": [
-[316, [760,786]]
+[331, [760,786]]
 ],
 "memberKind": "Method"
 }
 ,
 "RemotePortAdded":{
 "files": [
-[316, [702,930]]
+[331, [702,930]]
 ],
 "memberKind": "Event"
 }
 ,
 "ServiceAddress":{
 "files": [
-[307, [518]],
-[316, [721]]
+[322, [518]],
+[331, [721]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionAddress":{
 "files": [
-[307, [516]],
-[316, [726]]
+[322, [516]],
+[331, [726]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionId":{
 "files": [
-[307, [515]],
-[316, [716]]
+[322, [515]],
+[331, [716]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionStatusChanged":{
 "files": [
-[316, [701,929]]
+[331, [701,929]]
 ],
 "memberKind": "Event"
 }
 ,
 "Status":{
 "files": [
-[412, [60]],
-[316, [887,889]]
+[429, [60]],
+[331, [887,889]]
 ],
 "memberKind": "Property"
 }
@@ -14054,7 +14718,7 @@ var contents = {
 "members": {
 "DeferredSessionInfo":{
 "files": [
-[316, [626,628,630]]
+[331, [626,628,630]]
 ],
 "memberKind": "Property"
 }
@@ -14065,31 +14729,31 @@ var contents = {
 "members": {
 "DeviceInformation":{
 "files": [
-[315, [32,139]],
-[316, [201,206]]
+[330, [32,139]],
+[331, [201,206]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[316, [247]]
+[331, [247]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProvisioningInfo":{
 "files": [
-[315, [35,36,38]],
-[316, [128,129,173,174,180,181]]
+[330, [35,36,38]],
+[331, [128,129,173,174,180,181]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionInfo":{
 "files": [
-[315, [43]],
-[316, [111,113,115]]
+[330, [43]],
+[331, [111,113,115]]
 ],
 "memberKind": "Property"
 }
@@ -14100,7 +14764,7 @@ var contents = {
 "members": {
 "GetSessionRequest`0":{
 "files": [
-[316, [111,113,115,122,126,128,129]]
+[331, [111,113,115,122,126,128,129]]
 ],
 "memberKind": "Method"
 }
@@ -14111,7 +14775,7 @@ var contents = {
 "members": {
 "Closed":{
 "files": [
-[316, [889]]
+[331, [889]]
 ],
 "memberKind": "Field"
 }
@@ -14122,21 +14786,21 @@ var contents = {
 "members": {
 "Available":{
 "files": [
-[410, [91]]
+[427, [91]]
 ],
 "memberKind": "Field"
 }
 ,
 "Busy":{
 "files": [
-[410, [94]]
+[427, [94]]
 ],
 "memberKind": "Field"
 }
 ,
 "Custom":{
 "files": [
-[410, [98]]
+[427, [98]]
 ],
 "memberKind": "Field"
 }
@@ -14149,21 +14813,21 @@ var contents = {
 "members": {
 "InformationElements":{
 "files": [
-[314, [139]]
+[329, [139]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsAutonomousGroupOwnerEnabled":{
 "files": [
-[314, [81]]
+[329, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "ListenStateDiscoverability":{
 "files": [
-[314, [85,89,93]]
+[329, [85,89,93]]
 ],
 "memberKind": "Property"
 }
@@ -14174,21 +14838,21 @@ var contents = {
 "members": {
 "Intensive":{
 "files": [
-[314, [89]]
+[329, [89]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[314, [93]]
+[329, [93]]
 ],
 "memberKind": "Field"
 }
 ,
 "Normal":{
 "files": [
-[314, [85]]
+[329, [85]]
 ],
 "memberKind": "Field"
 }
@@ -14199,35 +14863,35 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[314, [68,112]]
+[329, [68,112]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Advertisement":{
 "files": [
-[314, [81,85,89,93,139]]
+[329, [81,85,89,93,139]]
 ],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
 "files": [
-[314, [98]]
+[329, [98]]
 ],
 "memberKind": "Method"
 }
 ,
 "StatusChanged":{
 "files": [
-[314, [96,152]]
+[329, [96,152]]
 ],
 "memberKind": "Event"
 }
 ,
 "Stop`0":{
 "files": [
-[314, [151]]
+[329, [151]]
 ],
 "memberKind": "Method"
 }
@@ -14238,14 +14902,14 @@ var contents = {
 "members": {
 "Error":{
 "files": [
-[314, [256]]
+[329, [256]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[314, [256]]
+[329, [256]]
 ],
 "memberKind": "Property"
 }
@@ -14256,14 +14920,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[314, [75]]
+[329, [75]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ConnectionRequested":{
 "files": [
-[314, [78,158]]
+[329, [78,158]]
 ],
 "memberKind": "Event"
 }
@@ -14274,16 +14938,16 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[314, [208]],
-[296, [261]]
+[329, [208]],
+[309, [261]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GroupOwnerIntent":{
 "files": [
-[314, [209]],
-[296, [262]]
+[329, [209]],
+[309, [262]]
 ],
 "memberKind": "Property"
 }
@@ -14294,14 +14958,14 @@ var contents = {
 "members": {
 "DeviceInformation":{
 "files": [
-[314, [175,206,212,244]]
+[329, [175,206,212,244]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[314, [245]]
+[329, [245]]
 ],
 "memberKind": "Method"
 }
@@ -14312,7 +14976,7 @@ var contents = {
 "members": {
 "GetConnectionRequest`0":{
 "files": [
-[314, [171]]
+[329, [171]]
 ],
 "memberKind": "Method"
 }
@@ -14323,46 +14987,46 @@ var contents = {
 "members": {
 "ConnectionStatus":{
 "files": [
-[314, [310]],
-[296, [310]]
+[329, [310]],
+[309, [310]]
 ],
 "memberKind": "Property"
 }
 ,
 "ConnectionStatusChanged":{
 "files": [
-[314, [223]]
+[329, [223]]
 ],
 "memberKind": "Event"
 }
 ,
 "Dispose`0":{
 "files": [
-[314, [356]],
-[296, [356]]
+[329, [356]],
+[309, [356]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromIdAsync`2":{
 "files": [
-[314, [212]],
-[296, [267]]
+[329, [212]],
+[309, [267]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetConnectionEndpointPairs`0":{
 "files": [
-[314, [231]]
+[329, [231]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
 "files": [
-[264, [70]],
-[296, [81]]
+[275, [70]],
+[309, [81]]
 ],
 "memberKind": "Method"
 }
@@ -14373,14 +15037,14 @@ var contents = {
 "members": {
 "AssociationEndpoint":{
 "files": [
-[296, [82]]
+[309, [82]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceInterface":{
 "files": [
-[296, [82]]
+[309, [82]]
 ],
 "memberKind": "Field"
 }
@@ -14391,38 +15055,38 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[314, [121]]
+[329, [121]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CreateFromDeviceInformation`1":{
 "files": [
-[296, [190]]
+[309, [190]]
 ],
 "memberKind": "Method"
 }
 ,
 "Oui":{
 "files": [
-[314, [134]],
-[296, [203]]
+[329, [134]],
+[309, [203]]
 ],
 "memberKind": "Property"
 }
 ,
 "OuiType":{
 "files": [
-[314, [137]],
-[296, [230]]
+[329, [137]],
+[309, [230]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[314, [129]],
-[296, [217]]
+[329, [129]],
+[309, [217]]
 ],
 "memberKind": "Property"
 }
@@ -14439,7 +15103,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[191, [471]]
+[201, [471]]
 ],
 "memberKind": "Constructor"
 }
@@ -14450,16 +15114,16 @@ var contents = {
 "members": {
 "Completed":{
 "files": [
-[191, [476]],
-[413, [128]],
-[152, [149]]
+[201, [476]],
+[430, [128]],
+[162, [149]]
 ],
 "memberKind": "Field"
 }
 ,
 "Error":{
 "files": [
-[191, [480]]
+[201, [480]]
 ],
 "memberKind": "Field"
 }
@@ -14472,31 +15136,31 @@ var contents = {
 "members": {
 "ItemChanged":{
 "files": [
-[414, [80]]
+[431, [80]]
 ],
 "memberKind": "Field"
 }
 ,
 "ItemInserted":{
 "files": [
-[414, [41]]
+[431, [41]]
 ],
 "memberKind": "Field"
 }
 ,
 "ItemRemoved":{
 "files": [
-[414, [53,65,90]]
+[431, [53,65,90]]
 ],
 "memberKind": "Field"
 }
 ,
 "Reset":{
 "files": [
-[415, [36]],
-[416, [144,162]],
-[417, [36]],
-[418, [144,162]]
+[432, [36]],
+[433, [144,162]],
+[434, [36]],
+[435, [144,162]]
 ],
 "memberKind": "Field"
 }
@@ -14507,9 +15171,9 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[419, [108]],
-[420, [170]],
-[202, [376]]
+[436, [108]],
+[437, [170]],
+[212, [376]]
 ],
 "memberKind": "Constructor"
 }
@@ -14523,11 +15187,11 @@ var contents = {
 [52, [155]],
 [53, [101]],
 [55, [53]],
-[421, [45,53]],
-[422, [30,56,77,89,106,123]],
+[438, [45,53]],
+[439, [30,56,77,89,106,123]],
 [56, [43]],
 [57, [158,183]],
-[106, [106,148]]
+[115, [106,148]]
 ],
 "memberKind": "Constructor"
 }
@@ -14540,23 +15204,23 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[373, [43]],
-[374, [43]],
-[375, [43]]
+[390, [43]],
+[391, [43]],
+[392, [43]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`6":{
 "files": [
-[423, [62]]
+[440, [62]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`7":{
 "files": [
-[424, [105]]
+[441, [105]]
 ],
 "memberKind": "Constructor"
 }
@@ -14567,9 +15231,9 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[252, [293]],
-[260, [746]],
-[85, [171]]
+[262, [293]],
+[271, [746]],
+[88, [171]]
 ],
 "memberKind": "Method"
 }
@@ -14582,35 +15246,35 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[199, [162]]
+[209, [162]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddLoggingChannel`1":{
 "files": [
-[199, [169]]
+[209, [169]]
 ],
 "memberKind": "Method"
 }
 ,
 "CloseAndSaveToFileAsync`0":{
 "files": [
-[199, [203]]
+[209, [203]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[199, [54,288,512]]
+[209, [54,288,512]]
 ],
 "memberKind": "Method"
 }
 ,
 "LogFileGenerated":{
 "files": [
-[199, [163]]
+[209, [163]]
 ],
 "memberKind": "Event"
 }
@@ -14621,16 +15285,16 @@ var contents = {
 "members": {
 "Enabled":{
 "files": [
-[199, [251]],
-[200, [259]]
+[209, [251]],
+[210, [259]]
 ],
 "memberKind": "Property"
 }
 ,
 "Level":{
 "files": [
-[199, [252]],
-[200, [260]]
+[209, [252]],
+[210, [260]]
 ],
 "memberKind": "Property"
 }
@@ -14641,7 +15305,7 @@ var contents = {
 "members": {
 "LogEvent`1":{
 "files": [
-[425, [385]]
+[442, [385]]
 ],
 "memberKind": "Method"
 }
@@ -14652,7 +15316,7 @@ var contents = {
 "members": {
 "File":{
 "files": [
-[199, [189]]
+[209, [189]]
 ],
 "memberKind": "Property"
 }
@@ -14663,35 +15327,35 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[425, [335]]
+[442, [335]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[200, [151]]
+[210, [151]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "LogEvent`1":{
 "files": [
-[425, [343]]
+[442, [343]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartActivity`1":{
 "files": [
-[425, [352]]
+[442, [352]]
 ],
 "memberKind": "Method"
 }
 ,
 "StopActivity`1":{
 "files": [
-[425, [357]]
+[442, [357]]
 ],
 "memberKind": "Method"
 }
@@ -14702,107 +15366,107 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[199, [424]],
-[425, [69]],
-[200, [373]]
+[209, [424]],
+[442, [69]],
+[210, [373]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[425, [138,154]]
+[442, [138,154]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[425, [164]]
+[442, [164]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Dispose`0":{
 "files": [
-[199, [506]],
-[200, [453]]
+[209, [506]],
+[210, [453]]
 ],
 "memberKind": "Method"
 }
 ,
 "Enabled":{
 "files": [
-[425, [209,224]]
+[442, [209,224]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[425, [205]]
+[442, [205]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled`0":{
 "files": [
-[425, [216,231,237]]
+[442, [216,231,237]]
 ],
 "memberKind": "Method"
 }
 ,
 "Level":{
 "files": [
-[425, [224]]
+[442, [224]]
 ],
 "memberKind": "Property"
 }
 ,
 "LogEvent`1":{
 "files": [
-[425, [245,262,298]]
+[442, [245,262,298]]
 ],
 "memberKind": "Method"
 }
 ,
 "LoggingEnabled":{
 "files": [
-[199, [427]],
-[425, [188]],
-[200, [376]]
+[209, [427]],
+[442, [188]],
+[210, [376]]
 ],
 "memberKind": "Event"
 }
 ,
 "LogMessage`1":{
 "files": [
-[199, [111,119,126]],
-[425, [191,192,202,205,211,218,226,233,239]],
-[200, [110,118,125,156,166]]
+[209, [111,119,126]],
+[442, [191,192,202,205,211,218,226,233,239]],
+[210, [110,118,125,156,166]]
 ],
 "memberKind": "Method"
 }
 ,
 "LogValuePair`2":{
 "files": [
-[199, [127]],
-[425, [195,196]],
-[200, [126]]
+[209, [127]],
+[442, [195,196]],
+[210, [126]]
 ],
 "memberKind": "Method"
 }
 ,
 "Name":{
 "files": [
-[425, [202]]
+[442, [202]]
 ],
 "memberKind": "Property"
 }
 ,
 "StartActivity`1":{
 "files": [
-[425, [369]]
+[442, [369]]
 ],
 "memberKind": "Method"
 }
@@ -14813,7 +15477,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[425, [156]]
+[442, [156]]
 ],
 "memberKind": "Constructor"
 }
@@ -14824,14 +15488,14 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[425, [279]]
+[442, [279]]
 ],
 "memberKind": "Field"
 }
 ,
 "String":{
 "files": [
-[425, [273]]
+[442, [273]]
 ],
 "memberKind": "Field"
 }
@@ -14842,63 +15506,63 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[425, [243]]
+[442, [243]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddDateTime`2":{
 "files": [
-[425, [261]]
+[442, [261]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddDouble`2":{
 "files": [
-[425, [244]]
+[442, [244]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddInt16`2":{
 "files": [
-[425, [285,286,288,290]]
+[442, [285,286,288,290]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddString`2":{
 "files": [
-[425, [279]]
+[442, [279]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddUInt8Array`2":{
 "files": [
-[425, [270]]
+[442, [270]]
 ],
 "memberKind": "Method"
 }
 ,
 "BeginStruct`1":{
 "files": [
-[425, [284,287]]
+[442, [284,287]]
 ],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
 "files": [
-[425, [260,264]]
+[442, [260,264]]
 ],
 "memberKind": "Method"
 }
 ,
 "EndStruct`0":{
 "files": [
-[425, [289,291]]
+[442, [289,291]]
 ],
 "memberKind": "Method"
 }
@@ -14909,43 +15573,43 @@ var contents = {
 "members": {
 "Critical":{
 "files": [
-[199, [115,126,127]],
-[200, [114,125,126,151,156]]
+[209, [115,126,127]],
+[210, [114,125,126,151,156]]
 ],
 "memberKind": "Field"
 }
 ,
 "Error":{
 "files": [
-[425, [192,196]],
-[200, [166]]
+[442, [192,196]],
+[210, [166]]
 ],
 "memberKind": "Field"
 }
 ,
 "Information":{
 "files": [
-[199, [123]],
-[425, [237,239,301]],
-[200, [122]]
+[209, [123]],
+[442, [237,239,301]],
+[210, [122]]
 ],
 "memberKind": "Field"
 }
 ,
 "Verbose":{
 "files": [
-[199, [243]],
-[425, [248]],
-[200, [251]]
+[209, [243]],
+[442, [248]],
+[210, [251]]
 ],
 "memberKind": "Field"
 }
 ,
 "Warning":{
 "files": [
-[199, [169]],
-[425, [224,226,231,233]],
-[200, [212]]
+[209, [169]],
+[442, [224,226,231,233]],
+[210, [212]]
 ],
 "memberKind": "Field"
 }
@@ -14956,28 +15620,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[425, [302]]
+[442, [302]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[425, [249]]
+[442, [249]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Keywords":{
 "files": [
-[425, [302]]
+[442, [302]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tags":{
 "files": [
-[425, [302]]
+[442, [302]]
 ],
 "memberKind": "Property"
 }
@@ -14988,28 +15652,28 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[200, [206]]
+[210, [206]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddLoggingChannel`1":{
 "files": [
-[200, [212]]
+[210, [212]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[200, [53,459]]
+[210, [53,459]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveToFileAsync`2":{
 "files": [
-[200, [221]]
+[210, [221]]
 ],
 "memberKind": "Method"
 }
@@ -15022,21 +15686,21 @@ var contents = {
 "members": {
 "AsTask":{
 "files": [
-[426, [247]]
+[443, [247]]
 ],
 "memberKind": "?"
 }
 ,
 "Completed":{
 "files": [
-[191, [471]]
+[201, [471]]
 ],
 "memberKind": "Property"
 }
 ,
 "ErrorCode":{
 "files": [
-[191, [482]]
+[201, [482]]
 ],
 "memberKind": "Property"
 }
@@ -15047,19 +15711,19 @@ var contents = {
 "members": {
 "AsTask":{
 "files": [
-[387, [307,341]],
-[84, [157]],
-[405, [352,387]],
-[212, [96,136]],
-[313, [298,323]],
-[426, [247]]
+[404, [307,341]],
+[87, [157]],
+[422, [352,387]],
+[222, [96,136]],
+[328, [298,323]],
+[443, [247]]
 ],
 "memberKind": "?"
 }
 ,
 "ErrorCode":{
 "files": [
-[191, [482]]
+[201, [482]]
 ],
 "memberKind": "Property"
 }
@@ -15070,11 +15734,11 @@ var contents = {
 "members": {
 "AsTask":{
 "files": [
-[387, [307,341]],
-[84, [157]],
-[405, [352,387]],
-[212, [96,136]],
-[313, [298,323]]
+[404, [307,341]],
+[87, [157]],
+[422, [352,387]],
+[222, [96,136]],
+[328, [298,323]]
 ],
 "memberKind": "?"
 }
@@ -15085,15 +15749,15 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[427, [84]],
-[428, [37,42]]
+[444, [84]],
+[445, [37,42]]
 ],
 "memberKind": "?"
 }
 ,
 "TryCreate":{
 "files": [
-[429, [52]]
+[446, [52]]
 ],
 "memberKind": "?"
 }
@@ -15106,34 +15770,34 @@ var contents = {
 "members": {
 "IsApiContractPresent`2":{
 "files": [
-[422, [23,49]]
+[439, [23,49]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsTypePresent`1":{
 "files": [
-[159, [55,143]],
-[430, [36,130,185]],
+[169, [55,143]],
+[447, [36,130,185]],
 [32, [38]],
 [41, [36]],
-[194, [613,637,682,705]],
-[196, [678,702,732,755]],
-[197, [528,552,589,612]],
-[198, [674,698]],
+[204, [589,613,658,681]],
+[206, [662,686,716,739]],
+[207, [505,529,566,589]],
+[208, [658,682]],
 [63, [173]],
-[302, [101]],
+[317, [101]],
 [17, [105]],
-[431, [40,49,176]],
-[432, [76]],
-[433, [89,103,118,132]],
-[250, [113,128]],
-[434, [72,122,138,147]],
-[435, [50]],
-[436, [73]],
-[437, [85,104]],
-[438, [68]],
-[439, [68]]
+[448, [40,49,176]],
+[449, [76]],
+[450, [89,103,118,132]],
+[260, [113,128]],
+[451, [72,122,138,147]],
+[452, [50]],
+[453, [82]],
+[454, [85,104]],
+[455, [68]],
+[456, [68]]
 ],
 "memberKind": "Method"
 }
@@ -15146,77 +15810,79 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[440, [37]],
-[159, [234]],
-[430, [177]],
-[107, [62]],
-[441, [36]],
-[139, [60]],
-[323, [94]],
-[442, [105]],
-[432, [68]],
-[443, [420]]
+[457, [37]],
+[169, [234]],
+[447, [177]],
+[116, [62]],
+[458, [36]],
+[149, [60]],
+[338, [94]],
+[459, [105]],
+[449, [68]],
+[460, [420]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[324, [92]],
-[282, [90]],
-[115, [94]],
-[116, [110]],
-[191, [411]],
-[444, [87]],
-[445, [197]],
-[446, [78]],
-[323, [95]],
-[447, [16]],
-[327, [56]],
-[448, [178]],
-[449, [216]],
-[450, [75,88]],
-[153, [90]],
-[451, [63]]
+[339, [92]],
+[295, [90]],
+[124, [94]],
+[125, [110]],
+[201, [411]],
+[461, [87]],
+[462, [197]],
+[463, [78]],
+[338, [95]],
+[464, [16]],
+[342, [56]],
+[465, [178]],
+[466, [216]],
+[467, [75,88]],
+[163, [90]],
+[468, [63]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "X":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[452, [78]],
-[341, [114,229]],
-[444, [87,88,94]],
-[445, [197,198,204]],
-[446, [81]],
-[139, [69,74]],
-[323, [95]],
-[342, [86]],
-[451, [68]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[469, [78]],
+[358, [114,229]],
+[461, [87,88,94]],
+[462, [197,198,204]],
+[463, [81]],
+[140, [90,91,100,167]],
+[149, [69,74]],
+[338, [95]],
+[359, [86]],
+[468, [68]]
 ],
 "memberKind": "Field"
 }
 ,
 "Y":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[452, [78]],
-[159, [235]],
-[430, [178]],
-[341, [115,230]],
-[444, [87,89,95]],
-[445, [197,199,205]],
-[446, [81]],
-[139, [65]],
-[323, [95]],
-[451, [71]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[469, [78]],
+[169, [235]],
+[447, [178]],
+[358, [115,230]],
+[461, [87,89,95]],
+[462, [197,199,205]],
+[463, [81]],
+[140, [92,93,101,168]],
+[149, [65]],
+[338, [95]],
+[468, [71]]
 ],
 "memberKind": "Field"
 }
@@ -15227,25 +15893,25 @@ var contents = {
 "members": {
 "UInt16":{
 "files": [
-[194, [754]],
-[196, [805]],
-[197, [661]],
-[203, [396]],
-[443, [518]]
+[204, [730]],
+[206, [789]],
+[207, [638]],
+[213, [396]],
+[460, [518]]
 ],
 "memberKind": "Field"
 }
 ,
 "UInt8":{
 "files": [
-[443, [527]]
+[460, [527]]
 ],
 "memberKind": "Field"
 }
 ,
 "UInt8Array":{
 "files": [
-[443, [461,468]]
+[460, [461,468]]
 ],
 "memberKind": "Field"
 }
@@ -15256,9 +15922,9 @@ var contents = {
 "members": {
 "CreateInt32`1":{
 "files": [
-[194, [521]],
-[197, [441]],
-[198, [571]]
+[204, [503]],
+[207, [424]],
+[208, [553]]
 ],
 "memberKind": "Method"
 }
@@ -15269,164 +15935,164 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[194, [1037]],
-[436, [277]]
+[204, [1013]],
+[453, [286]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[440, [38]],
-[107, [63]],
-[441, [37]],
-[323, [95]],
-[442, [106]],
-[432, [69]],
-[443, [420]]
+[457, [38]],
+[116, [63]],
+[458, [37]],
+[338, [95]],
+[459, [106]],
+[449, [69]],
+[460, [420]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[446, [81]],
-[139, [78]],
-[453, [31]],
-[119, [166]],
-[443, [546]],
-[436, [272]],
-[454, [93,131,132]],
-[455, [69]],
-[456, [436,437]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[463, [81]],
+[149, [78]],
+[470, [31]],
+[128, [166]],
+[460, [546]],
+[453, [281]],
+[471, [93,131,132]],
+[472, [69]],
+[473, [436,437]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Bottom":{
 "files": [
-[457, [325]]
+[474, [325]]
 ],
 "memberKind": "?"
 }
 ,
 "Height":{
 "files": [
-[341, [168]],
-[194, [932,936,937,942,1018,1022,1058,1075]],
-[458, [95]],
-[459, [57]],
-[460, [92,93]],
-[461, [103]],
-[462, [50]],
-[162, [219]],
-[463, [95]],
-[464, [39]],
-[465, [295]],
-[466, [83]],
-[467, [61,63]],
-[468, [105,107]],
-[448, [98,109]],
+[358, [168]],
+[204, [908,912,913,918,994,998,1034,1051]],
+[475, [95]],
+[476, [57]],
+[477, [92,93]],
+[478, [103]],
+[479, [50]],
+[172, [219]],
+[480, [95]],
+[481, [39]],
+[482, [295]],
+[483, [83]],
+[484, [61,63]],
+[485, [105,107]],
+[465, [98,109]],
 [43, [79]],
-[469, [37]],
-[443, [400]],
-[437, [82]]
+[486, [37]],
+[460, [400]],
+[454, [82]]
 ],
 "memberKind": "Field"
 }
 ,
 "Left":{
 "files": [
-[457, [320]]
+[474, [320]]
 ],
 "memberKind": "?"
 }
 ,
 "Right":{
 "files": [
-[457, [321]]
+[474, [321]]
 ],
 "memberKind": "?"
 }
 ,
 "Top":{
 "files": [
-[457, [324]]
+[474, [324]]
 ],
 "memberKind": "?"
 }
 ,
 "Width":{
 "files": [
-[470, [93,137]],
-[471, [45,71]],
-[472, [70,96]],
-[473, [49,80]],
-[341, [167]],
-[194, [933,936,937,941,1017,1021,1057,1067]],
-[373, [106]],
-[458, [96]],
-[459, [57]],
-[474, [45,71]],
-[374, [106]],
-[475, [45,71]],
-[476, [100]],
-[460, [93]],
-[477, [71,97]],
-[461, [54,95]],
-[462, [49]],
-[162, [219]],
-[463, [94]],
-[375, [106]],
-[465, [294]],
-[478, [42,68]],
-[466, [82]],
-[467, [60,62]],
-[468, [104,106]],
-[448, [98,108]],
-[43, [80]],
-[469, [36]],
-[443, [399]],
-[479, [45,68]],
-[480, [44,70]],
-[481, [45,71]],
-[482, [44,70]],
-[483, [45,68]],
-[484, [45,48]],
-[485, [45,68]],
-[486, [76]],
-[487, [106]],
+[487, [93,137]],
 [488, [45,71]],
-[489, [45,71]],
-[437, [83]],
-[490, [55]],
-[184, [146]]
+[489, [70,96]],
+[490, [49,80]],
+[358, [167]],
+[204, [909,912,913,917,993,997,1033,1043]],
+[390, [106]],
+[475, [96]],
+[476, [57]],
+[491, [45,71]],
+[391, [106]],
+[492, [45,71]],
+[493, [100]],
+[477, [93]],
+[494, [71,97]],
+[478, [54,95]],
+[479, [49]],
+[172, [219]],
+[480, [94]],
+[392, [106]],
+[482, [294]],
+[495, [42,68]],
+[483, [82]],
+[484, [60,62]],
+[485, [104,106]],
+[465, [98,108]],
+[43, [80]],
+[486, [36]],
+[460, [399]],
+[496, [45,68]],
+[497, [44,70]],
+[498, [45,71]],
+[499, [44,70]],
+[500, [45,68]],
+[501, [45,48]],
+[502, [45,68]],
+[503, [76]],
+[504, [106]],
+[505, [45,71]],
+[506, [45,71]],
+[454, [83]],
+[507, [55]],
+[194, [146]]
 ],
 "memberKind": "Field"
 }
 ,
 "X":{
 "files": [
-[341, [165]],
-[194, [936,944,1066]],
-[460, [94]],
-[448, [112]],
-[469, [34]]
+[358, [165]],
+[204, [912,920,1042]],
+[477, [94]],
+[465, [112]],
+[486, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Y":{
 "files": [
-[341, [166]],
-[194, [937,945,1074]],
-[460, [95]],
-[448, [113]],
-[469, [35]]
+[358, [166]],
+[204, [913,921,1050]],
+[477, [95]],
+[465, [113]],
+[486, [35]]
 ],
 "memberKind": "Field"
 }
@@ -15437,66 +16103,66 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[466, [47,65,70]],
-[491, [36]]
+[483, [47,65,70]],
+[508, [36]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[440, [38]],
-[193, [270]],
-[107, [63]],
-[441, [37]],
-[442, [106]],
-[453, [11]],
-[432, [69]],
-[467, [47,101,105,120,128,135]],
-[468, [46]],
-[492, [81,162]],
-[454, [115,117]],
-[456, [250,301]],
-[493, [85]]
+[457, [38]],
+[203, [270]],
+[116, [63]],
+[458, [37]],
+[459, [106]],
+[470, [11]],
+[449, [69]],
+[484, [47,101,105,120,128,135]],
+[485, [46]],
+[509, [81,162]],
+[471, [115,117]],
+[473, [250,301]],
+[510, [85]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Height":{
 "files": [
-[193, [303]],
-[453, [17,18,31]],
-[494, [25,28]],
-[465, [288,295]],
-[457, [67,73,80,323,325,328,335,339,343,347,352,355,356,369,524,530,534,540,550,564]],
-[466, [47,65]],
-[491, [36]],
-[454, [93,115,117,132]],
-[495, [58]],
-[455, [75]],
-[456, [243,252,262,325,353,426]]
+[203, [303]],
+[470, [17,18,31]],
+[511, [25,28]],
+[482, [288,295]],
+[474, [67,73,80,323,325,328,335,339,343,347,352,355,356,369,524,530,534,540,550,564]],
+[483, [47,65]],
+[508, [36]],
+[471, [93,115,117,132]],
+[512, [58]],
+[472, [75]],
+[473, [243,252,262,325,353,426]]
 ],
 "memberKind": "Field"
 }
 ,
 "Width":{
 "files": [
-[193, [302]],
-[453, [11,31]],
-[494, [24,27]],
-[465, [287,294]],
-[457, [66,72,79,319,321,327,334,338,342,346,352,354,355,368,523,529,533,539,550,563]],
-[466, [47,65]],
-[491, [36]],
-[492, [51,60,64,74,82,83,99,108,109,110,115,163,164]],
-[454, [93,115,132]],
-[495, [59]],
-[455, [75]],
-[496, [46]],
-[456, [243,251,261,325,352,426]],
-[497, [173,175,179]],
-[498, [181,185]],
-[499, [182,186]]
+[203, [302]],
+[470, [11,31]],
+[511, [24,27]],
+[482, [287,294]],
+[474, [66,72,79,319,321,327,334,338,342,346,352,354,355,368,523,529,533,539,550,563]],
+[483, [47,65]],
+[508, [36]],
+[509, [51,60,64,74,82,83,99,108,109,110,115,163,164]],
+[471, [93,115,132]],
+[512, [59]],
+[472, [75]],
+[513, [46]],
+[473, [243,251,261,325,352,426]],
+[514, [173,175,179]],
+[515, [181,185]],
+[516, [182,186]]
 ],
 "memberKind": "Field"
 }
@@ -15507,16 +16173,16 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[191, [322]]
+[201, [322]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[413, [87,88]],
-[500, [43,44]],
-[501, [80,85,90]]
+[430, [87,88]],
+[517, [43,44]],
+[518, [80,85,90]]
 ],
 "memberKind": "Constructor"
 }
@@ -15524,22 +16190,22 @@ var contents = {
 ":ctor`3":{
 "files": [
 [61, [49]],
-[373, [39]],
-[374, [39]],
-[500, [45,46]],
-[375, [39]]
+[390, [39]],
+[391, [39]],
+[517, [45,46]],
+[392, [39]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`5":{
 "files": [
-[353, [49]],
-[362, [49]],
-[364, [49]],
-[367, [49]],
-[371, [49]],
-[377, [49]]
+[370, [49]],
+[379, [49]],
+[381, [49]],
+[384, [49]],
+[388, [49]],
+[394, [49]]
 ],
 "memberKind": "Constructor"
 }
@@ -15550,62 +16216,62 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[472, [139]],
-[430, [51,71,95,125]],
-[191, [106,107,112,113,121,122,174]],
-[502, [81]],
-[503, [103,209]],
-[476, [117]],
-[442, [44,47,74,77,78]],
-[327, [37]],
-[504, [51]],
-[505, [50]],
-[457, [549]],
-[431, [155]],
-[148, [74]],
-[179, [340]],
-[180, [342]],
-[435, [149]],
-[449, [66,67,72,73,78,79]],
-[506, [34]],
-[507, [130]]
+[489, [139]],
+[447, [51,71,95,125]],
+[201, [106,107,112,113,121,122,174]],
+[519, [81]],
+[520, [103,209]],
+[493, [117]],
+[459, [44,47,74,77,78]],
+[342, [37]],
+[521, [51]],
+[522, [50]],
+[474, [549]],
+[448, [155]],
+[158, [74]],
+[189, [340]],
+[190, [342]],
+[452, [149]],
+[466, [66,67,72,73,78,79]],
+[523, [34]],
+[524, [130]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[429, [64]],
-[153, [88]],
-[152, [50]]
+[446, [64]],
+[163, [88]],
+[162, [50]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AbsoluteUri":{
 "files": [
-[430, [57,81,111,162]]
+[447, [57,81,111,162]]
 ],
 "memberKind": "Property"
 }
 ,
 "Equals`1":{
 "files": [
-[443, [108]]
+[460, [108]]
 ],
 "memberKind": "Method"
 }
 ,
 "ToString`0":{
 "files": [
-[80, [159,296,361,375,434]]
+[82, [159,296,361,375,434]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryCreate":{
 "files": [
-[429, [52]]
+[446, [52]]
 ],
 "memberKind": "?"
 }
@@ -15640,8 +16306,8 @@ var contents = {
 "files": [
 [1, [66]],
 [9, [62]],
-[508, [51,53]],
-[175, [79,83,86]],
+[525, [51,53]],
+[185, [79,83,86]],
 [2, [62,98]],
 [10, [63]],
 [35, [58]],
@@ -15649,11 +16315,11 @@ var contents = {
 [37, [58]],
 [38, [58]],
 [39, [58]],
-[509, [42]],
-[510, [88]],
-[511, [43]],
-[512, [42]],
-[513, [42]],
+[526, [42]],
+[527, [88]],
+[528, [43]],
+[529, [42]],
+[530, [42]],
 [11, [62]],
 [0, [66]],
 [40, [95]],
@@ -15661,7 +16327,7 @@ var contents = {
 [16, [65]],
 [17, [54]],
 [18, [59,95]],
-[204, [54]],
+[214, [54]],
 [22, [65]],
 [28, [91]]
 ],
@@ -15670,14 +16336,14 @@ var contents = {
 ,
 "ManifestLanguages":{
 "files": [
-[508, [72]]
+[525, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "PrimaryLanguageOverride":{
 "files": [
-[508, [97,119]]
+[525, [97,119]]
 ],
 "memberKind": "Property"
 }
@@ -15688,408 +16354,408 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[274, [61]],
-[514, [42]],
-[515, [43]],
-[516, [48]],
-[517, [54]],
-[91, [77]],
-[332, [65]],
-[242, [64]],
-[275, [102]]
+[287, [61]],
+[531, [42]],
+[532, [43]],
+[533, [48]],
+[534, [54]],
+[97, [77]],
+[347, [65]],
+[252, [64]],
+[288, [102]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[516, [49,50,51]]
+[533, [49,50,51]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[514, [43,44]],
-[515, [44,45]],
-[424, [40]]
+[531, [43,44]],
+[532, [44,45]],
+[441, [40]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
 "files": [
-[424, [101]]
+[441, [101]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddDays`1":{
 "files": [
-[274, [63]],
-[424, [110,111,123]]
+[287, [63]],
+[441, [110,111,123]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddHours`1":{
 "files": [
-[424, [124]],
-[275, [112,121]]
+[441, [124]],
+[288, [112,121]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddMinutes`1":{
 "files": [
-[275, [111,120]]
+[288, [111,120]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddMonths`1":{
 "files": [
-[517, [90]]
+[534, [90]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddNanoseconds`1":{
 "files": [
-[275, [109,118]]
+[288, [109,118]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddSeconds`1":{
 "files": [
-[242, [66]],
-[275, [110,113,119,122]]
+[252, [66]],
+[288, [110,113,119,122]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddYears`1":{
 "files": [
-[424, [43,49]],
-[517, [75]]
+[441, [43,49]],
+[534, [75]]
 ],
 "memberKind": "Method"
 }
 ,
 "ChangeClock`1":{
 "files": [
-[275, [103]]
+[288, [103]]
 ],
 "memberKind": "Method"
 }
 ,
 "ChangeTimeZone`1":{
 "files": [
-[517, [64,70,79,85,94]]
+[534, [64,70,79,85,94]]
 ],
 "memberKind": "Method"
 }
 ,
 "Clone`0":{
 "files": [
-[424, [109,122]]
+[441, [109,122]]
 ],
 "memberKind": "Method"
 }
 ,
 "Day":{
 "files": [
-[424, [55,114,130]],
-[517, [75]]
+[441, [55,114,130]],
+[534, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "DayAsPaddedString`1":{
 "files": [
-[514, [30]],
-[516, [34]],
-[517, [34]]
+[531, [30]],
+[533, [34]],
+[534, [34]]
 ],
 "memberKind": "Method"
 }
 ,
 "DayOfWeekAsSoloString`0":{
 "files": [
-[514, [31]],
-[516, [35]],
-[517, [32]]
+[531, [31]],
+[533, [35]],
+[534, [32]]
 ],
 "memberKind": "Method"
 }
 ,
 "Era":{
 "files": [
-[424, [43,84]]
+[441, [43,84]]
 ],
 "memberKind": "Property"
 }
 ,
 "EraAsString`0":{
 "files": [
-[515, [32]],
-[424, [46]]
+[532, [32]],
+[441, [46]]
 ],
 "memberKind": "Method"
 }
 ,
 "FirstDayInThisMonth":{
 "files": [
-[424, [55]]
+[441, [55]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstEra":{
 "files": [
-[424, [43]]
+[441, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstHourInThisPeriod":{
 "files": [
-[424, [59,124]]
+[441, [59,124]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstMonthInThisYear":{
 "files": [
-[424, [54]]
+[441, [54]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstPeriodInThisDay":{
 "files": [
-[424, [58]]
+[441, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstYearInThisEra":{
 "files": [
-[424, [49]]
+[441, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetCalendarSystem`0":{
 "files": [
-[514, [28]],
-[515, [28]],
-[516, [29,30]]
+[531, [28]],
+[532, [28]],
+[533, [29,30]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDateTime`0":{
 "files": [
-[274, [64]],
-[424, [117]],
-[91, [89]],
-[332, [322]],
-[209, [207,219]],
-[242, [70]],
-[275, [115,124]]
+[287, [64]],
+[441, [117]],
+[97, [89]],
+[347, [322]],
+[219, [207,219]],
+[252, [70]],
+[288, [115,124]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTimeZone`0":{
 "files": [
-[517, [31,55]]
+[534, [31,55]]
 ],
 "memberKind": "Method"
 }
 ,
 "Hour":{
 "files": [
-[424, [59,124]],
-[275, [112,121]]
+[441, [59,124]],
+[288, [112,121]]
 ],
 "memberKind": "Property"
 }
 ,
 "HourAsPaddedString`1":{
 "files": [
-[424, [127]],
-[517, [36]]
+[441, [127]],
+[534, [36]]
 ],
 "memberKind": "Method"
 }
 ,
 "LastEra":{
 "files": [
-[424, [84]]
+[441, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "LastYearInThisEra":{
 "files": [
-[424, [76]]
+[441, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "Minute":{
 "files": [
-[424, [60]],
-[275, [111,120]]
+[441, [60]],
+[288, [111,120]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinuteAsPaddedString`1":{
 "files": [
-[517, [37]]
+[534, [37]]
 ],
 "memberKind": "Method"
 }
 ,
 "Month":{
 "files": [
-[424, [54]],
-[517, [75]]
+[441, [54]],
+[534, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "MonthAsSoloString`0":{
 "files": [
-[514, [29]],
-[516, [33]],
-[517, [33]]
+[531, [29]],
+[533, [33]],
+[534, [33]]
 ],
 "memberKind": "Method"
 }
 ,
 "Nanosecond":{
 "files": [
-[424, [62]],
-[275, [109,118]]
+[441, [62]],
+[288, [109,118]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberOfDaysInThisMonth":{
 "files": [
-[515, [30]]
+[532, [30]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberOfHoursInThisPeriod":{
 "files": [
-[515, [31]],
-[424, [118]]
+[532, [31]],
+[441, [118]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberOfMonthsInThisYear":{
 "files": [
-[515, [29]]
+[532, [29]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberOfYearsInThisEra":{
 "files": [
-[424, [46]]
+[441, [46]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumeralSystem":{
 "files": [
-[516, [31]]
+[533, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "Period":{
 "files": [
-[424, [58,130]]
+[441, [58,130]]
 ],
 "memberKind": "Property"
 }
 ,
 "PeriodAsString`0":{
 "files": [
-[517, [39]]
+[534, [39]]
 ],
 "memberKind": "Method"
 }
 ,
 "ResolvedLanguage":{
 "files": [
-[516, [32]]
+[533, [32]]
 ],
 "memberKind": "Property"
 }
 ,
 "Second":{
 "files": [
-[424, [61]],
-[275, [110,119]]
+[441, [61]],
+[288, [110,119]]
 ],
 "memberKind": "Property"
 }
 ,
 "SecondAsPaddedString`1":{
 "files": [
-[517, [38]]
+[534, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetDateTime`1":{
 "files": [
-[424, [106]],
-[275, [108,117]]
+[441, [106]],
+[288, [108,117]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetToNow`0":{
 "files": [
-[274, [62]],
-[91, [88]],
-[332, [321]],
-[209, [206,218]],
-[242, [65]]
+[287, [62]],
+[97, [88]],
+[347, [321]],
+[219, [206,218]],
+[252, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "TimeZoneAsString`0":{
 "files": [
-[517, [40]]
+[534, [40]]
 ],
 "memberKind": "Method"
 }
 ,
 "Year":{
 "files": [
-[424, [49,64,68,76]]
+[441, [49,64,68,76]]
 ],
 "memberKind": "Property"
 }
 ,
 "YearAsString`0":{
 "files": [
-[514, [32]],
-[516, [36]],
-[517, [35]]
+[531, [32]],
+[533, [36]],
+[534, [35]]
 ],
 "memberKind": "Method"
 }
@@ -16100,30 +16766,30 @@ var contents = {
 "members": {
 "Gregorian":{
 "files": [
-[424, [101]],
-[512, [50,62,67,79]],
-[513, [72]],
-[91, [79]],
-[332, [63,64]],
-[518, [43]]
+[441, [101]],
+[529, [50,62,67,79]],
+[530, [72]],
+[97, [79]],
+[347, [63,64]],
+[535, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "Hebrew":{
 "files": [
-[514, [44]],
-[515, [45]]
+[531, [44]],
+[532, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "Japanese":{
 "files": [
-[514, [43]],
-[515, [44]],
-[424, [40]],
-[512, [49,66]]
+[531, [43]],
+[532, [44]],
+[441, [40]],
+[529, [49,66]]
 ],
 "memberKind": "Property"
 }
@@ -16134,22 +16800,22 @@ var contents = {
 "members": {
 "TwelveHour":{
 "files": [
-[514, [43]],
-[515, [44]],
-[512, [49,63,66,80]]
+[531, [43]],
+[532, [44]],
+[529, [49,63,66,80]]
 ],
 "memberKind": "Property"
 }
 ,
 "TwentyFourHour":{
 "files": [
-[514, [44]],
-[515, [45]],
-[424, [40,101]],
-[512, [50,67]],
-[513, [73]],
-[91, [79]],
-[332, [63,64]]
+[531, [44]],
+[532, [45]],
+[441, [40,101]],
+[529, [50,67]],
+[530, [73]],
+[97, [79]],
+[347, [63,64]]
 ],
 "memberKind": "Property"
 }
@@ -16162,7 +16828,7 @@ var contents = {
 "members": {
 "Label":{
 "files": [
-[519, [57,58,64]]
+[536, [57,58,64]]
 ],
 "memberKind": "Property"
 }
@@ -16173,14 +16839,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[519, [81]]
+[536, [81]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Lookup`1":{
 "files": [
-[519, [88]]
+[536, [88]]
 ],
 "memberKind": "Method"
 }
@@ -16193,15 +16859,15 @@ var contents = {
 "members": {
 "EUR":{
 "files": [
-[520, [56,57,58]],
-[521, [73]]
+[537, [56,57,58]],
+[538, [73]]
 ],
 "memberKind": "Property"
 }
 ,
 "USD":{
 "files": [
-[520, [55]]
+[537, [55]]
 ],
 "memberKind": "Property"
 }
@@ -16214,123 +16880,123 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[424, [98]],
-[509, [49,50,53,54]],
-[510, [45,46,47,48,49,50,51,58,59,60,67,68,69,76,77,78,79,80]],
-[513, [49]],
-[423, [45]],
-[242, [69]],
-[253, [30]],
-[271, [155]],
-[275, [82,195]],
-[276, [102]],
-[522, [28]]
+[441, [98]],
+[526, [49,50,53,54]],
+[527, [45,46,47,48,49,50,51,58,59,60,67,68,69,76,77,78,79,80]],
+[530, [49]],
+[440, [45]],
+[252, [69]],
+[264, [30]],
+[284, [155]],
+[288, [82,195]],
+[289, [102]],
+[539, [28]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`11":{
 "files": [
-[512, [53,70]],
-[513, [63]]
+[529, [53,70]],
+[530, [63]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[513, [51]]
+[530, [51]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[511, [76,80,84]]
+[528, [76,80,84]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
 "files": [
-[511, [50,55,60,65]]
+[528, [50,55,60,65]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`5":{
 "files": [
-[512, [49,50,66,67]],
-[91, [79]],
-[332, [63,64]]
+[529, [49,50,66,67]],
+[97, [79]],
+[347, [63,64]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`8":{
 "files": [
-[513, [53]]
+[530, [53]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Calendar":{
 "files": [
-[513, [87]]
+[530, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "Format`1":{
 "files": [
-[424, [118]],
-[509, [64]],
-[510, [96,106,116,126]],
-[511, [99,109]],
-[512, [90]],
-[513, [83]],
-[423, [52,55,63,66,74,77]],
-[91, [125]],
-[209, [110,208,219]],
-[242, [71]],
-[253, [32]],
-[271, [156]],
-[275, [126,128,196]],
-[276, [103]],
-[522, [29]]
+[441, [118]],
+[526, [64]],
+[527, [96,106,116,126]],
+[528, [99,109]],
+[529, [90]],
+[530, [83]],
+[440, [52,55,63,66,74,77]],
+[97, [125]],
+[219, [110,208,219]],
+[252, [71]],
+[264, [32]],
+[284, [156]],
+[288, [126,128,196]],
+[289, [103]],
+[539, [29]]
 ],
 "memberKind": "Method"
 }
 ,
 "Languages":{
 "files": [
-[513, [84]]
+[530, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumeralSystem":{
 "files": [
-[513, [88]]
+[530, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResolvedLanguage":{
 "files": [
-[512, [90]],
-[513, [86]]
+[529, [90]],
+[530, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "Template":{
 "files": [
-[509, [64]],
-[510, [96,106,116,126]],
-[511, [99,109]],
-[512, [90]],
-[513, [85]]
+[526, [64]],
+[527, [96,106,116,126]],
+[528, [99,109]],
+[529, [90]],
+[530, [85]]
 ],
 "memberKind": "Property"
 }
@@ -16341,17 +17007,17 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[511, [53,58,68]],
-[512, [55]],
-[513, [55,65]]
+[528, [53,58,68]],
+[529, [55]],
+[530, [55,65]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[511, [63]],
-[512, [72]]
+[528, [63]],
+[529, [72]]
 ],
 "memberKind": "Field"
 }
@@ -16362,22 +17028,22 @@ var contents = {
 "members": {
 "Abbreviated":{
 "files": [
-[511, [54]]
+[528, [54]]
 ],
 "memberKind": "Field"
 }
 ,
 "Default":{
 "files": [
-[513, [56,66]]
+[530, [56,66]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[511, [59,64,69]],
-[512, [56,73]]
+[528, [59,64,69]],
+[529, [56,73]]
 ],
 "memberKind": "Field"
 }
@@ -16388,16 +17054,16 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[511, [77,81,85]],
-[512, [74]],
-[513, [57,67]]
+[528, [77,81,85]],
+[529, [74]],
+[530, [57,67]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[512, [57]]
+[529, [57]]
 ],
 "memberKind": "Field"
 }
@@ -16408,17 +17074,17 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[511, [78,82]],
-[512, [75]],
-[513, [58,68]]
+[528, [78,82]],
+[529, [75]],
+[530, [58,68]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[511, [86]],
-[512, [58]]
+[528, [86]],
+[529, [58]]
 ],
 "memberKind": "Field"
 }
@@ -16429,29 +17095,29 @@ var contents = {
 "members": {
 "Abbreviated":{
 "files": [
-[511, [52,57]],
-[512, [54]]
+[528, [52,57]],
+[529, [54]]
 ],
 "memberKind": "Field"
 }
 ,
 "Default":{
 "files": [
-[513, [54,64]]
+[530, [54,64]]
 ],
 "memberKind": "Field"
 }
 ,
 "Full":{
 "files": [
-[511, [62,67]]
+[528, [62,67]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[512, [71]]
+[529, [71]]
 ],
 "memberKind": "Field"
 }
@@ -16462,16 +17128,16 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[511, [79]],
-[513, [59,69]]
+[528, [79]],
+[530, [59,69]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[511, [83,87]],
-[512, [59,76]]
+[528, [83,87]],
+[529, [59,76]]
 ],
 "memberKind": "Field"
 }
@@ -16482,30 +17148,30 @@ var contents = {
 "members": {
 "Abbreviated":{
 "files": [
-[511, [56]],
-[512, [53]]
+[528, [56]],
+[529, [53]]
 ],
 "memberKind": "Field"
 }
 ,
 "Default":{
 "files": [
-[513, [53,63]]
+[530, [53,63]]
 ],
 "memberKind": "Field"
 }
 ,
 "Full":{
 "files": [
-[511, [51,61]]
+[528, [51,61]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[511, [66]],
-[512, [70]]
+[528, [66]],
+[529, [70]]
 ],
 "memberKind": "Field"
 }
@@ -16520,32 +17186,32 @@ var contents = {
 "members": {
 "FontFamily":{
 "files": [
-[523, [112]],
-[524, [107]]
+[540, [112]],
+[541, [107]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontStretch":{
 "files": [
-[523, [116]],
-[524, [111]]
+[540, [116]],
+[541, [111]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontStyle":{
 "files": [
-[523, [115]],
-[524, [110]]
+[540, [115]],
+[541, [110]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontWeight":{
 "files": [
-[523, [114]],
-[524, [109]]
+[540, [114]],
+[541, [109]]
 ],
 "memberKind": "Property"
 }
@@ -16556,50 +17222,50 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[523, [74]],
-[524, [69]]
+[540, [74]],
+[541, [69]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DocumentAlternate1Font":{
 "files": [
-[524, [92,94]]
+[541, [92,94]]
 ],
 "memberKind": "Property"
 }
 ,
 "DocumentAlternate2Font":{
 "files": [
-[524, [88,90]]
+[541, [88,90]]
 ],
 "memberKind": "Property"
 }
 ,
 "DocumentHeadingFont":{
 "files": [
-[524, [81]]
+[541, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "ModernDocumentFont":{
 "files": [
-[524, [98]]
+[541, [98]]
 ],
 "memberKind": "Property"
 }
 ,
 "UIHeadingFont":{
 "files": [
-[523, [88]]
+[540, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "UITextFont":{
 "files": [
-[523, [89]]
+[540, [89]]
 ],
 "memberKind": "Property"
 }
@@ -16612,56 +17278,56 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[525, [38]]
+[542, [38]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[525, [41]]
+[542, [41]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CodeThreeDigit":{
 "files": [
-[525, [31]]
+[542, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "CodeThreeLetter":{
 "files": [
-[525, [31]]
+[542, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "CodeTwoLetter":{
 "files": [
-[525, [31]]
+[542, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrenciesInUse":{
 "files": [
-[525, [30]]
+[542, [30]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[525, [28]]
+[542, [28]]
 ],
 "memberKind": "Property"
 }
 ,
 "NativeName":{
 "files": [
-[525, [29]]
+[542, [29]]
 ],
 "memberKind": "Property"
 }
@@ -16672,21 +17338,21 @@ var contents = {
 "members": {
 "DisplayText":{
 "files": [
-[526, [49]]
+[543, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPhraseStart":{
 "files": [
-[526, [42]]
+[543, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "YomiText":{
 "files": [
-[526, [49]]
+[543, [49]]
 ],
 "memberKind": "Property"
 }
@@ -16697,7 +17363,7 @@ var contents = {
 "members": {
 "GetWords`1":{
 "files": [
-[526, [38]]
+[543, [38]]
 ],
 "memberKind": "Method"
 }
@@ -16708,72 +17374,72 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[508, [53,74]],
-[527, [39,42]],
-[201, [43]]
+[525, [53,74]],
+[544, [39,42]],
+[211, [43]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CurrentInputMethodLanguageTag":{
 "files": [
-[528, [31]]
+[545, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[527, [28]],
-[201, [87,194,262]],
-[162, [250,325]],
-[529, [104]],
-[177, [112]],
-[166, [122]],
-[178, [108]],
-[179, [94]],
-[180, [94]],
-[167, [118]]
+[544, [28]],
+[211, [87,194,262]],
+[172, [250,325]],
+[546, [104]],
+[187, [112]],
+[176, [122]],
+[188, [108]],
+[189, [94]],
+[190, [94]],
+[177, [118]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsWellFormed`1":{
 "files": [
-[218, [74,148]],
-[217, [76,180]],
-[518, [57]]
+[228, [74,148]],
+[227, [76,180]],
+[535, [57]]
 ],
 "memberKind": "Method"
 }
 ,
 "LanguageTag":{
 "files": [
-[508, [91]],
-[527, [29]],
-[468, [193]],
-[529, [107]],
-[177, [87,115,147]],
-[166, [94,125,156,216]],
-[178, [82,111,142]],
-[179, [74,97,122]],
-[180, [74,97,321]],
-[167, [92,121,153,213]]
+[525, [91]],
+[544, [29]],
+[485, [193]],
+[546, [107]],
+[187, [87,115,147]],
+[176, [94,125,156,216]],
+[188, [82,111,142]],
+[189, [74,97,122]],
+[190, [74,97,321]],
+[177, [92,121,153,213]]
 ],
 "memberKind": "Property"
 }
 ,
 "NativeName":{
 "files": [
-[508, [91]],
-[527, [30]]
+[525, [91]],
+[544, [30]]
 ],
 "memberKind": "Property"
 }
 ,
 "Script":{
 "files": [
-[527, [31]]
+[544, [31]]
 ],
 "memberKind": "Property"
 }
@@ -16786,78 +17452,78 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[520, [53,55,58]],
-[530, [62]],
-[531, [180]]
+[537, [53,55,58]],
+[547, [62]],
+[548, [180]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[520, [56,57]],
-[530, [63,64]],
-[521, [73]]
+[537, [56,57]],
+[547, [63,64]],
+[538, [73]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ApplyRoundingForCurrency`1":{
 "files": [
-[531, [181]]
+[548, [181]]
 ],
 "memberKind": "Method"
 }
 ,
 "Currency":{
 "files": [
-[531, [186]]
+[548, [186]]
 ],
 "memberKind": "Property"
 }
 ,
 "Format`1":{
 "files": [
-[520, [62,63,64,65,69,73,77,81]],
-[530, [106,109,112]],
-[531, [193]],
-[521, [84]]
+[537, [62,63,64,65,69,73,77,81]],
+[547, [106,109,112]],
+[548, [193]],
+[538, [84]]
 ],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
 "files": [
-[520, [68]],
-[521, [74]]
+[537, [68]],
+[538, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsGrouped":{
 "files": [
-[520, [72]]
+[537, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "Mode":{
 "files": [
-[520, [76,80]]
+[537, [76,80]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
 "files": [
-[521, [74]]
+[538, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "ParseDouble`1":{
 "files": [
-[530, [107,110,113]]
+[547, [107,110,113]]
 ],
 "memberKind": "Method"
 }
@@ -16868,14 +17534,14 @@ var contents = {
 "members": {
 "UseCurrencyCode":{
 "files": [
-[520, [76]]
+[537, [76]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseSymbol":{
 "files": [
-[520, [80]]
+[537, [80]]
 ],
 "memberKind": "Field"
 }
@@ -16886,96 +17552,96 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[332, [66]],
-[532, [45,54,75,81]],
-[530, [53]],
-[531, [129,214,299]]
+[347, [66]],
+[549, [45,54,75,81]],
+[547, [53]],
+[548, [129,214,299]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[532, [59,64]],
-[530, [55,57]],
-[521, [71]]
+[549, [59,64]],
+[547, [55,57]],
+[538, [71]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Format`1":{
 "files": [
-[532, [51,56,61,66,72,78,83]],
-[530, [89,92,95]],
-[531, [157,236]],
-[521, [83]]
+[549, [51,56,61,66,72,78,83]],
+[547, [89,92,95]],
+[548, [157,236]],
+[538, [83]]
 ],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
 "files": [
-[532, [77,82]],
-[531, [132,149,302]],
-[521, [72]]
+[549, [77,82]],
+[548, [132,149,302]],
+[538, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "IntegerDigits":{
 "files": [
-[531, [131,148,301]]
+[548, [131,148,301]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsDecimalPointAlwaysDisplayed":{
 "files": [
-[532, [76]]
+[549, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsGrouped":{
 "files": [
-[532, [55,60,65]],
-[530, [54,56,58]]
+[549, [55,60,65]],
+[547, [54,56,58]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
 "files": [
-[531, [133,215]],
-[521, [72]]
+[548, [133,215]],
+[538, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "ParseDouble`1":{
 "files": [
-[530, [90,93,96]]
+[547, [90,93,96]]
 ],
 "memberKind": "Method"
 }
 ,
 "ParseInt`1":{
 "files": [
-[209, [435,439,443,447]]
+[219, [435,439,443,447]]
 ],
 "memberKind": "Method"
 }
 ,
 "ResolvedLanguage":{
 "files": [
-[521, [81]]
+[538, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "SignificantDigits":{
 "files": [
-[531, [130,147,300]]
+[548, [130,147,300]]
 ],
 "memberKind": "Property"
 }
@@ -16986,23 +17652,23 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[531, [124,209]],
-[521, [54]]
+[548, [124,209]],
+[538, [54]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Increment":{
 "files": [
-[531, [143,150,225,229]],
-[521, [55]]
+[548, [143,150,225,229]],
+[538, [55]]
 ],
 "memberKind": "Property"
 }
 ,
 "RoundingAlgorithm":{
 "files": [
-[531, [125,151,210,230]]
+[548, [125,151,210,230]]
 ],
 "memberKind": "Property"
 }
@@ -17013,7 +17679,7 @@ var contents = {
 "members": {
 "Format`1":{
 "files": [
-[531, [103]]
+[548, [103]]
 ],
 "memberKind": "Method"
 }
@@ -17024,14 +17690,14 @@ var contents = {
 "members": {
 "FractionDigits":{
 "files": [
-[531, [97]]
+[548, [97]]
 ],
 "memberKind": "Property"
 }
 ,
 "IntegerDigits":{
 "files": [
-[531, [96]]
+[548, [96]]
 ],
 "memberKind": "Property"
 }
@@ -17042,7 +17708,7 @@ var contents = {
 "members": {
 "SignificantDigits":{
 "files": [
-[531, [95]]
+[548, [95]]
 ],
 "memberKind": "Property"
 }
@@ -17053,30 +17719,30 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[533, [51]]
+[550, [51]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[533, [65]],
-[521, [79]]
+[550, [65]],
+[538, [79]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "NumeralSystem":{
 "files": [
-[533, [54,58,61,68]]
+[550, [54,58,61,68]]
 ],
 "memberKind": "Property"
 }
 ,
 "TranslateNumerals`1":{
 "files": [
-[533, [55,62,69]],
-[521, [87]]
+[550, [55,62,69]],
+[538, [87]]
 ],
 "memberKind": "Method"
 }
@@ -17087,78 +17753,78 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[534, [50]],
-[530, [48]],
-[531, [310]]
+[551, [50]],
+[547, [48]],
+[548, [310]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[534, [51,52]],
-[530, [49,50]],
-[521, [75]]
+[551, [51,52]],
+[547, [49,50]],
+[538, [75]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Format`1":{
 "files": [
-[534, [60,63,70,74,77,82,87]],
-[530, [72,75,78]],
-[521, [85]]
+[551, [60,63,70,74,77,82,87]],
+[547, [72,75,78]],
+[538, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
 "files": [
-[534, [80]],
-[531, [313]],
-[521, [76]]
+[551, [80]],
+[548, [313]],
+[538, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "IntegerDigits":{
 "files": [
-[531, [312]]
+[548, [312]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsDecimalPointAlwaysDisplayed":{
 "files": [
-[534, [85]]
+[551, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsGrouped":{
 "files": [
-[534, [69,73,81,86]]
+[551, [69,73,81,86]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
 "files": [
-[521, [76]]
+[538, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "ParseDouble`1":{
 "files": [
-[530, [73,76,79]]
+[547, [73,76,79]]
 ],
 "memberKind": "Method"
 }
 ,
 "SignificantDigits":{
 "files": [
-[531, [311]]
+[548, [311]]
 ],
 "memberKind": "Property"
 }
@@ -17169,37 +17835,37 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[534, [55]]
+[551, [55]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[534, [56]],
-[521, [77]]
+[551, [56]],
+[538, [77]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Format`1":{
 "files": [
-[534, [61,64]],
-[521, [86]]
+[551, [61,64]],
+[538, [86]]
 ],
 "memberKind": "Method"
 }
 ,
 "FractionDigits":{
 "files": [
-[521, [78]]
+[538, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "NumberRounder":{
 "files": [
-[521, [78]]
+[538, [78]]
 ],
 "memberKind": "Property"
 }
@@ -17210,77 +17876,77 @@ var contents = {
 "members": {
 "None":{
 "files": [
-[531, [43]]
+[548, [43]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundAwayFromZero":{
 "files": [
-[531, [46]]
+[548, [46]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundDown":{
 "files": [
-[531, [49,322]]
+[548, [49,322]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundHalfAwayFromZero":{
 "files": [
-[531, [52]]
+[548, [52]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundHalfDown":{
 "files": [
-[531, [55,328,340]]
+[548, [55,328,340]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundHalfToEven":{
 "files": [
-[531, [58,334]]
+[548, [58,334]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundHalfToOdd":{
 "files": [
-[531, [61,331]]
+[548, [61,331]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundHalfTowardsZero":{
 "files": [
-[531, [64]]
+[548, [64]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundHalfUp":{
 "files": [
-[531, [67,325,337]]
+[548, [67,325,337]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundTowardsZero":{
 "files": [
-[531, [70]]
+[548, [70]]
 ],
 "memberKind": "Field"
 }
 ,
 "RoundUp":{
 "files": [
-[531, [73,319]]
+[548, [73,319]]
 ],
 "memberKind": "Field"
 }
@@ -17291,28 +17957,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[531, [253]]
+[548, [253]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "RoundDouble`1":{
 "files": [
-[531, [275]]
+[548, [275]]
 ],
 "memberKind": "Method"
 }
 ,
 "RoundingAlgorithm":{
 "files": [
-[531, [254,269]]
+[548, [254,269]]
 ],
 "memberKind": "Property"
 }
 ,
 "SignificantDigits":{
 "files": [
-[531, [264,268]]
+[548, [264,268]]
 ],
 "memberKind": "Property"
 }
@@ -17331,7 +17997,7 @@ var contents = {
 "members": {
 "B8G8R8A8UIntNormalized":{
 "files": [
-[443, [349,401]]
+[460, [349,401]]
 ],
 "memberKind": "Field"
 }
@@ -17346,50 +18012,50 @@ var contents = {
 "members": {
 "AutoRotationPreferences":{
 "files": [
-[194, [610,643]],
-[196, [675,708]],
-[197, [525,558]],
-[198, [671,704]],
-[535, [52,74]],
-[536, [66,70]]
+[204, [586,619]],
+[206, [659,692]],
+[207, [502,535]],
+[208, [655,688]],
+[552, [52,74]],
+[553, [66,70]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentOrientation":{
 "files": [
-[356, [113,131]],
-[194, [191,368,619]],
-[195, [104,114,168]],
-[196, [208,684]],
-[197, [184,534]],
-[198, [189,680]],
-[535, [51]],
-[201, [175,555]]
+[373, [113,131]],
+[204, [191,356,595]],
+[205, [104,114,168]],
+[206, [208,668]],
+[207, [184,511]],
+[208, [189,664]],
+[552, [51]],
+[211, [175,555]]
 ],
 "memberKind": "Property"
 }
 ,
 "DpiChanged":{
 "files": [
-[537, [29]],
-[459, [27]]
+[554, [29]],
+[476, [27]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[356, [51]],
-[194, [49]],
-[195, [46]],
-[196, [46]],
-[197, [44]],
-[198, [44]],
-[535, [33]],
-[537, [28,34]],
-[459, [26,59]],
-[201, [49]],
+[373, [51]],
+[204, [49]],
+[205, [46]],
+[206, [46]],
+[207, [44]],
+[208, [44]],
+[552, [33]],
+[554, [28,34]],
+[476, [26,59]],
+[211, [49]],
 [43, [43]]
 ],
 "memberKind": "Method"
@@ -17397,40 +18063,40 @@ var contents = {
 ,
 "LogicalDpi":{
 "files": [
-[537, [38]]
+[554, [38]]
 ],
 "memberKind": "Property"
 }
 ,
 "NativeOrientation":{
 "files": [
-[194, [782,891]],
-[196, [833,940]],
-[197, [689,796]],
-[198, [806,913]],
-[535, [50]]
+[204, [758,867]],
+[206, [817,924]],
+[207, [666,773]],
+[208, [790,897]],
+[552, [50]]
 ],
 "memberKind": "Property"
 }
 ,
 "OrientationChanged":{
 "files": [
-[356, [72,96]],
-[194, [696,715]],
-[195, [92,105,115,126]],
-[196, [746,765]],
-[197, [603,622]],
-[198, [750,764]],
-[535, [34,40]],
-[201, [83,106,125,141]]
+[373, [72,96]],
+[204, [672,691]],
+[205, [92,105,115,126]],
+[206, [730,749]],
+[207, [580,599]],
+[208, [734,748]],
+[552, [34,40]],
+[211, [83,106,125,141]]
 ],
 "memberKind": "Event"
 }
 ,
 "RawPixelsPerViewPixel":{
 "files": [
-[537, [35]],
-[459, [60]]
+[554, [35]],
+[476, [60]]
 ],
 "memberKind": "Property"
 }
@@ -17448,68 +18114,68 @@ var contents = {
 "members": {
 "Landscape":{
 "files": [
-[194, [610,853]],
-[195, [505]],
-[196, [675,904]],
-[197, [525,760]],
-[198, [671,877]],
-[535, [60]],
-[201, [589]],
-[536, [71]]
+[204, [586,829]],
+[205, [487]],
+[206, [659,888]],
+[207, [502,737]],
+[208, [655,861]],
+[552, [60]],
+[211, [589]],
+[553, [71]]
 ],
 "memberKind": "Field"
 }
 ,
 "LandscapeFlipped":{
 "files": [
-[194, [849]],
-[195, [501]],
-[196, [900]],
-[197, [756]],
-[198, [873]],
-[535, [68]],
-[201, [570]],
-[536, [72]]
+[204, [825]],
+[205, [483]],
+[206, [884]],
+[207, [733]],
+[208, [857]],
+[552, [68]],
+[211, [570]],
+[553, [72]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[194, [643]],
-[196, [708]],
-[197, [558]],
-[198, [704]],
-[535, [57]]
+[204, [619]],
+[206, [692]],
+[207, [535]],
+[208, [688]],
+[552, [57]]
 ],
 "memberKind": "Field"
 }
 ,
 "Portrait":{
 "files": [
-[194, [52,782,847,891,930,1007,1050]],
-[195, [47,499]],
-[196, [49,833,898,940]],
-[197, [47,689,754,796]],
-[198, [47,806,871,913]],
-[535, [64]],
-[365, [50]],
-[201, [175,557]],
-[536, [66,71]]
+[204, [52,758,823,867,906,983,1026]],
+[205, [47,481]],
+[206, [49,817,882,924]],
+[207, [47,666,731,773]],
+[208, [47,790,855,897]],
+[552, [64]],
+[382, [50]],
+[211, [175,557]],
+[553, [66,71]]
 ],
 "memberKind": "Field"
 }
 ,
 "PortraitFlipped":{
 "files": [
-[194, [851,930,1007,1050]],
-[195, [503]],
-[196, [902]],
-[197, [758]],
-[198, [875]],
-[535, [72]],
-[201, [175,576]],
-[536, [72]]
+[204, [827,906,983,1026]],
+[205, [485]],
+[206, [886]],
+[207, [735]],
+[208, [859]],
+[552, [72]],
+[211, [175,576]],
+[553, [72]]
 ],
 "memberKind": "Field"
 }
@@ -17524,23 +18190,23 @@ var contents = {
 "members": {
 "Ignore":{
 "files": [
-[538, [206]]
+[555, [206]]
 ],
 "memberKind": "Field"
 }
 ,
 "Premultiplied":{
 "files": [
-[162, [105]],
-[443, [307]],
-[153, [59]]
+[172, [105]],
+[460, [307]],
+[163, [59]]
 ],
 "memberKind": "Field"
 }
 ,
 "Straight":{
 "files": [
-[457, [612]]
+[474, [612]]
 ],
 "memberKind": "Field"
 }
@@ -17551,40 +18217,40 @@ var contents = {
 "members": {
 "Height":{
 "files": [
-[538, [108,275]],
-[192, [289,453]],
-[193, [311]],
-[194, [1018]]
+[555, [108,275]],
+[202, [289,453]],
+[203, [311]],
+[204, [994]]
 ],
 "memberKind": "Field"
 }
 ,
 "Width":{
 "files": [
-[538, [107,274]],
-[192, [288,452]],
-[193, [310]],
-[194, [1017]]
+[555, [107,274]],
+[202, [288,452]],
+[203, [310]],
+[204, [993]]
 ],
 "memberKind": "Field"
 }
 ,
 "X":{
 "files": [
-[538, [112,277]],
-[192, [293,455]],
-[193, [315]],
-[194, [1021]]
+[555, [112,277]],
+[202, [293,455]],
+[203, [315]],
+[204, [997]]
 ],
 "memberKind": "Field"
 }
 ,
 "Y":{
 "files": [
-[538, [112,277]],
-[192, [293,455]],
-[193, [315]],
-[194, [1022]]
+[555, [112,277]],
+[202, [293,455]],
+[203, [315]],
+[204, [998]]
 ],
 "memberKind": "Field"
 }
@@ -17595,14 +18261,14 @@ var contents = {
 "members": {
 "CreateReference`0":{
 "files": [
-[195, [542]]
+[205, [524]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPlaneDescription`1":{
 "files": [
-[195, [552]]
+[205, [534]]
 ],
 "memberKind": "Method"
 }
@@ -17613,7 +18279,7 @@ var contents = {
 "members": {
 "ReadWrite":{
 "files": [
-[195, [541]]
+[205, [523]]
 ],
 "memberKind": "Field"
 }
@@ -17624,7 +18290,7 @@ var contents = {
 "members": {
 "FileExtensions":{
 "files": [
-[539, [37]]
+[556, [37]]
 ],
 "memberKind": "Property"
 }
@@ -17635,136 +18301,136 @@ var contents = {
 "members": {
 "BitmapAlphaMode":{
 "files": [
-[203, [530]]
+[213, [530]]
 ],
 "memberKind": "Property"
 }
 ,
 "BitmapContainerProperties":{
 "files": [
-[443, [445]]
+[460, [445]]
 ],
 "memberKind": "Property"
 }
 ,
 "BitmapPixelFormat":{
 "files": [
-[538, [206]],
-[203, [529]]
+[555, [206]],
+[213, [529]]
 ],
 "memberKind": "Property"
 }
 ,
 "BitmapProperties":{
 "files": [
-[203, [274]]
+[213, [274]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateAsync`1":{
 "files": [
-[538, [203]],
-[194, [746]],
-[196, [796]],
-[197, [653]],
-[134, [109]],
-[162, [103]],
-[457, [592]],
-[145, [71]],
-[203, [258,358,515]],
-[443, [220]]
+[555, [203]],
+[204, [722]],
+[206, [780]],
+[207, [630]],
+[144, [109]],
+[172, [103]],
+[474, [592]],
+[155, [71]],
+[213, [258,358,515]],
+[460, [220]]
 ],
 "memberKind": "Method"
 }
 ,
 "DpiX":{
 "files": [
-[203, [551]]
+[213, [551]]
 ],
 "memberKind": "Property"
 }
 ,
 "DpiY":{
 "files": [
-[203, [552]]
+[213, [552]]
 ],
 "memberKind": "Property"
 }
 ,
 "FrameCount":{
 "files": [
-[443, [272,283]]
+[460, [272,283]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDecoderInformationEnumerator`0":{
 "files": [
-[539, [31]]
+[556, [31]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFrameAsync`1":{
 "files": [
-[443, [304]]
+[460, [304]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPixelDataAsync`0":{
 "files": [
-[457, [610]],
-[203, [532]]
+[474, [610]],
+[213, [532]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetSoftwareBitmapAsync`0":{
 "files": [
-[538, [206]]
+[555, [206]]
 ],
 "memberKind": "Method"
 }
 ,
 "GifDecoderId":{
 "files": [
-[443, [220]]
+[460, [220]]
 ],
 "memberKind": "Property"
 }
 ,
 "OrientedPixelHeight":{
 "files": [
-[145, [74]],
-[203, [262]]
+[155, [74]],
+[213, [262]]
 ],
 "memberKind": "Property"
 }
 ,
 "OrientedPixelWidth":{
 "files": [
-[145, [73]],
-[203, [263]]
+[155, [73]],
+[213, [263]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelHeight":{
 "files": [
-[538, [158,160,163]],
-[457, [597]],
-[203, [363,520]]
+[555, [158,160,163]],
+[474, [597]],
+[213, [363,520]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
 "files": [
-[538, [162]],
-[457, [596]],
-[203, [362,521]]
+[555, [162]],
+[474, [596]],
+[213, [362,521]]
 ],
 "memberKind": "Property"
 }
@@ -17775,79 +18441,79 @@ var contents = {
 "members": {
 "BitmapProperties":{
 "files": [
-[203, [400]]
+[213, [400]]
 ],
 "memberKind": "Property"
 }
 ,
 "BitmapTransform":{
 "files": [
-[145, [73,74]],
-[203, [373,374,377,404]]
+[155, [73,74]],
+[213, [373,374,377,404]]
 ],
 "memberKind": "Property"
 }
 ,
 "BmpEncoderId":{
 "files": [
-[203, [498]]
+[213, [498]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateAsync`2":{
 "files": [
-[195, [521]],
-[203, [545]]
+[205, [503]],
+[213, [545]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateForTranscodingAsync`2":{
 "files": [
-[194, [752]],
-[196, [802]],
-[197, [659]],
-[134, [113]],
-[145, [72]],
-[203, [366]]
+[204, [728]],
+[206, [786]],
+[207, [636]],
+[144, [113]],
+[155, [72]],
+[213, [366]]
 ],
 "memberKind": "Method"
 }
 ,
 "FlushAsync`0":{
 "files": [
-[145, [75]],
-[203, [412,430,556]]
+[155, [75]],
+[213, [412,430,556]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsThumbnailGenerated":{
 "files": [
-[203, [408,421,428]]
+[213, [408,421,428]]
 ],
 "memberKind": "Property"
 }
 ,
 "JpegEncoderId":{
 "files": [
-[195, [521]],
-[203, [502]]
+[205, [503]],
+[213, [502]]
 ],
 "memberKind": "Property"
 }
 ,
 "PngEncoderId":{
 "files": [
-[203, [495]]
+[213, [495]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetPixelData`7":{
 "files": [
-[203, [546]]
+[213, [546]]
 ],
 "memberKind": "Method"
 }
@@ -17858,7 +18524,7 @@ var contents = {
 "members": {
 "BitmapProperties":{
 "files": [
-[443, [501]]
+[460, [501]]
 ],
 "memberKind": "Property"
 }
@@ -17869,7 +18535,7 @@ var contents = {
 "members": {
 "Fant":{
 "files": [
-[203, [377,525]]
+[213, [377,525]]
 ],
 "memberKind": "Field"
 }
@@ -17880,28 +18546,28 @@ var contents = {
 "members": {
 "Bgra8":{
 "files": [
-[192, [244]],
-[195, [371,536]],
-[201, [182]],
-[162, [105]],
-[457, [611]],
-[443, [306]],
-[153, [56]]
+[202, [244]],
+[205, [353,518]],
+[211, [182]],
+[172, [105]],
+[474, [611]],
+[460, [306]],
+[163, [56]]
 ],
 "memberKind": "Field"
 }
 ,
 "Gray8":{
 "files": [
-[538, [210]]
+[555, [210]]
 ],
 "memberKind": "Field"
 }
 ,
 "Nv12":{
 "files": [
-[192, [227]],
-[193, [254]]
+[202, [227]],
+[203, [254]]
 ],
 "memberKind": "Field"
 }
@@ -17912,28 +18578,28 @@ var contents = {
 "members": {
 "Height":{
 "files": [
-[195, [555]]
+[205, [537]]
 ],
 "memberKind": "Field"
 }
 ,
 "StartIndex":{
 "files": [
-[195, [560]]
+[205, [542]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stride":{
 "files": [
-[195, [560]]
+[205, [542]]
 ],
 "memberKind": "Field"
 }
 ,
 "Width":{
 "files": [
-[195, [557]]
+[205, [539]]
 ],
 "memberKind": "Field"
 }
@@ -17944,7 +18610,7 @@ var contents = {
 "members": {
 "SetPropertiesAsync`1":{
 "files": [
-[203, [400]]
+[213, [400]]
 ],
 "memberKind": "Method"
 }
@@ -17955,8 +18621,8 @@ var contents = {
 "members": {
 "GetPropertiesAsync`1":{
 "files": [
-[203, [274]],
-[443, [447,458,503,516]]
+[213, [274]],
+[460, [447,458,503,516]]
 ],
 "memberKind": "Method"
 }
@@ -17967,10 +18633,10 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[194, [754]],
-[196, [805]],
-[197, [661]],
-[203, [385]]
+[204, [730]],
+[206, [789]],
+[207, [638]],
+[213, [385]]
 ],
 "memberKind": "Constructor"
 }
@@ -17981,31 +18647,31 @@ var contents = {
 "members": {
 "Clockwise180Degrees":{
 "files": [
-[539, [93,116]]
+[556, [93,116]]
 ],
 "memberKind": "Field"
 }
 ,
 "Clockwise270Degrees":{
 "files": [
-[457, [601]],
-[539, [95,118]]
+[474, [601]],
+[556, [95,118]]
 ],
 "memberKind": "Field"
 }
 ,
 "Clockwise90Degrees":{
 "files": [
-[457, [606]],
-[539, [91,114]]
+[474, [606]],
+[556, [91,114]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[457, [595]],
-[539, [89,98,112]]
+[474, [595]],
+[556, [89,98,112]]
 ],
 "memberKind": "Field"
 }
@@ -18016,43 +18682,43 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[538, [156]],
-[457, [594]],
-[203, [516]],
-[443, [308]]
+[555, [156]],
+[474, [594]],
+[213, [516]],
+[460, [308]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "InterpolationMode":{
 "files": [
-[203, [377,525]]
+[213, [377,525]]
 ],
 "memberKind": "Property"
 }
 ,
 "Rotation":{
 "files": [
-[457, [595,601,606]],
-[203, [404,522]]
+[474, [595,601,606]],
+[213, [404,522]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScaledHeight":{
 "files": [
-[538, [163]],
-[145, [74]],
-[203, [374,520]]
+[555, [163]],
+[155, [74]],
+[213, [374,520]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScaledWidth":{
 "files": [
-[538, [162]],
-[145, [73]],
-[203, [373,521]]
+[555, [162]],
+[155, [73]],
+[213, [373,521]]
 ],
 "memberKind": "Property"
 }
@@ -18063,10 +18729,10 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[194, [754]],
-[196, [805]],
-[197, [661]],
-[203, [394]]
+[204, [730]],
+[206, [789]],
+[207, [638]],
+[213, [394]]
 ],
 "memberKind": "Constructor"
 }
@@ -18077,16 +18743,16 @@ var contents = {
 "members": {
 "ColorManageToSRgb":{
 "files": [
-[203, [537]]
+[213, [537]]
 ],
 "memberKind": "Field"
 }
 ,
 "DoNotColorManage":{
 "files": [
-[538, [206]],
-[457, [615]],
-[443, [310]]
+[555, [206]],
+[474, [615]],
+[460, [310]]
 ],
 "memberKind": "Field"
 }
@@ -18097,16 +18763,16 @@ var contents = {
 "members": {
 "IgnoreExifOrientation":{
 "files": [
-[538, [206]],
-[457, [614]],
-[443, [309]]
+[555, [206]],
+[474, [614]],
+[460, [309]]
 ],
 "memberKind": "Field"
 }
 ,
 "RespectExifOrientation":{
 "files": [
-[203, [536]]
+[213, [536]]
 ],
 "memberKind": "Field"
 }
@@ -18117,8 +18783,8 @@ var contents = {
 "members": {
 "DetachPixelData`0":{
 "files": [
-[457, [618]],
-[203, [540]]
+[474, [618]],
+[213, [540]]
 ],
 "memberKind": "Method"
 }
@@ -18129,65 +18795,65 @@ var contents = {
 "members": {
 "BitmapPixelFormat":{
 "files": [
-[192, [233]],
-[193, [260]],
-[195, [380,432,536]]
+[202, [233]],
+[203, [260]],
+[205, [362,414,518]]
 ],
 "memberKind": "Property"
 }
 ,
 "Convert`2":{
 "files": [
-[538, [213]],
-[192, [244]]
+[555, [213]],
+[202, [244]]
 ],
 "memberKind": "Method"
 }
 ,
 "CopyToBuffer`1":{
 "files": [
-[538, [217]],
-[192, [247]],
-[201, [200]],
-[162, [108]]
+[555, [217]],
+[202, [247]],
+[211, [200]],
+[172, [108]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateCopyFromBuffer`4":{
 "files": [
-[153, [55]]
+[163, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "LockBuffer`1":{
 "files": [
-[195, [541]]
+[205, [523]]
 ],
 "memberKind": "Method"
 }
 ,
 "PixelHeight":{
 "files": [
-[538, [216]],
-[192, [246]],
-[193, [270]],
-[195, [380,432]],
-[201, [199,212]],
-[162, [107,143,163,166,307]]
+[555, [216]],
+[202, [246]],
+[203, [270]],
+[205, [362,414]],
+[211, [199,212]],
+[172, [107,143,163,166,307]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
 "files": [
-[538, [216]],
-[192, [246]],
-[193, [270]],
-[195, [380,432]],
-[201, [199,211]],
-[162, [107,142,163,166,307]]
+[555, [216]],
+[202, [246]],
+[203, [270]],
+[205, [362,414]],
+[211, [199,211]],
+[172, [107,142,163,166,307]]
 ],
 "memberKind": "Property"
 }
@@ -18204,15 +18870,15 @@ var contents = {
 "members": {
 "ErrorText":{
 "files": [
-[540, [219,223,231]]
+[557, [219,223,231]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[540, [178,217,226]],
-[457, [244,270]]
+[557, [178,217,226]],
+[474, [244,270]]
 ],
 "memberKind": "Property"
 }
@@ -18223,9 +18889,9 @@ var contents = {
 "members": {
 "AddItem`2":{
 "files": [
-[541, [94,95,96]],
-[540, [118,119,120]],
-[457, [173,174,175,176,182,183]]
+[558, [94,95,96]],
+[557, [118,119,120]],
+[474, [173,174,175,176,182,183]]
 ],
 "memberKind": "Method"
 }
@@ -18236,9 +18902,9 @@ var contents = {
 "members": {
 "OptionId":{
 "files": [
-[541, [123]],
-[540, [167,172]],
-[457, [234,239]]
+[558, [123]],
+[557, [167,172]],
+[474, [234,239]]
 ],
 "memberKind": "Property"
 }
@@ -18249,52 +18915,52 @@ var contents = {
 "members": {
 "CreateItemListOption`2":{
 "files": [
-[541, [93]],
-[540, [117]],
-[457, [172,181]]
+[558, [93]],
+[557, [117]],
+[474, [172,181]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateTextOption`2":{
 "files": [
-[540, [126]]
+[557, [126]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisplayedOptions":{
 "files": [
-[541, [82]],
-[540, [106,186,310,313]],
-[457, [167,168,169,179,186]]
+[558, [82]],
+[557, [106,186,310,313]],
+[474, [167,168,169,179,186]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetFromPrintTaskOptions`1":{
 "files": [
-[541, [81,180]],
-[540, [105]],
-[457, [163,310]]
+[558, [81,180]],
+[557, [105]],
+[474, [163,310]]
 ],
 "memberKind": "Method"
 }
 ,
 "OptionChanged":{
 "files": [
-[541, [101]],
-[540, [129]],
-[457, [192]]
+[558, [101]],
+[557, [129]],
+[474, [192]]
 ],
 "memberKind": "Event"
 }
 ,
 "Options":{
 "files": [
-[541, [181]],
-[540, [177,215]],
-[457, [243,269,314,371]]
+[558, [181]],
+[557, [177,215]],
+[474, [243,269,314,371]]
 ],
 "memberKind": "Property"
 }
@@ -18307,21 +18973,21 @@ var contents = {
 "members": {
 "GetForCurrentView`0":{
 "files": [
-[465, [91,110]]
+[482, [91,110]]
 ],
 "memberKind": "Method"
 }
 ,
 "PrintTaskRequested":{
 "files": [
-[465, [92,111]]
+[482, [92,111]]
 ],
 "memberKind": "Event"
 }
 ,
 "ShowPrintUIAsync`0":{
 "files": [
-[465, [121]]
+[482, [121]]
 ],
 "memberKind": "Method"
 }
@@ -18332,7 +18998,7 @@ var contents = {
 "members": {
 "NorthAmericaLegal":{
 "files": [
-[542, [51]]
+[559, [51]]
 ],
 "memberKind": "Field"
 }
@@ -18343,7 +19009,7 @@ var contents = {
 "members": {
 "Landscape":{
 "files": [
-[457, [189]]
+[474, [189]]
 ],
 "memberKind": "Field"
 }
@@ -18354,16 +19020,16 @@ var contents = {
 "members": {
 "ImageableRect":{
 "files": [
-[465, [294,295]],
-[457, [320,321,324,325]]
+[482, [294,295]],
+[474, [320,321,324,325]]
 ],
 "memberKind": "Field"
 }
 ,
 "PageSize":{
 "files": [
-[465, [287,288,294,295]],
-[457, [317,321,325,327,328]]
+[482, [287,288,294,295]],
+[474, [317,321,325,327,328]]
 ],
 "memberKind": "Field"
 }
@@ -18374,21 +19040,21 @@ var contents = {
 "members": {
 "Completed":{
 "files": [
-[465, [162]],
-[542, [54]],
-[541, [104]],
-[540, [133]],
-[457, [196]]
+[482, [162]],
+[559, [54]],
+[558, [104]],
+[557, [133]],
+[474, [196]]
 ],
 "memberKind": "Event"
 }
 ,
 "Options":{
 "files": [
-[542, [39,51]],
-[541, [81]],
-[540, [105]],
-[457, [163,189]]
+[559, [39,51]],
+[558, [81]],
+[557, [105]],
+[474, [163,189]]
 ],
 "memberKind": "Property"
 }
@@ -18399,11 +19065,11 @@ var contents = {
 "members": {
 "Failed":{
 "files": [
-[465, [165]],
-[542, [57]],
-[541, [107]],
-[540, [140]],
-[457, [210]]
+[482, [165]],
+[559, [57]],
+[558, [107]],
+[557, [140]],
+[474, [210]]
 ],
 "memberKind": "Field"
 }
@@ -18414,29 +19080,29 @@ var contents = {
 "members": {
 "DisplayedOptions":{
 "files": [
-[542, [39]]
+[559, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetPageDescription`1":{
 "files": [
-[465, [198]],
-[457, [311]]
+[482, [198]],
+[474, [311]]
 ],
 "memberKind": "Method"
 }
 ,
 "MediaSize":{
 "files": [
-[542, [51]]
+[559, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Orientation":{
 "files": [
-[457, [189]]
+[474, [189]]
 ],
 "memberKind": "Property"
 }
@@ -18447,11 +19113,11 @@ var contents = {
 "members": {
 "CreatePrintTask`2":{
 "files": [
-[465, [159]],
-[542, [37]],
-[541, [79]],
-[540, [103]],
-[457, [161]]
+[482, [159]],
+[559, [37]],
+[558, [79]],
+[557, [103]],
+[474, [161]]
 ],
 "memberKind": "Method"
 }
@@ -18462,11 +19128,11 @@ var contents = {
 "members": {
 "Request":{
 "files": [
-[465, [159]],
-[542, [37]],
-[541, [79]],
-[540, [103]],
-[457, [161]]
+[482, [159]],
+[559, [37]],
+[558, [79]],
+[557, [103]],
+[474, [161]]
 ],
 "memberKind": "Property"
 }
@@ -18477,49 +19143,49 @@ var contents = {
 "members": {
 "Collation":{
 "files": [
-[542, [47]]
+[559, [47]]
 ],
 "memberKind": "Property"
 }
 ,
 "ColorMode":{
 "files": [
-[541, [90]],
-[540, [114]]
+[558, [90]],
+[557, [114]]
 ],
 "memberKind": "Property"
 }
 ,
 "Copies":{
 "files": [
-[542, [44]],
-[541, [88]],
-[540, [112]],
-[457, [169]]
+[559, [44]],
+[558, [88]],
+[557, [112]],
+[474, [169]]
 ],
 "memberKind": "Property"
 }
 ,
 "Duplex":{
 "files": [
-[542, [48]]
+[559, [48]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediaSize":{
 "files": [
-[542, [46]],
-[457, [168]]
+[559, [46]],
+[474, [168]]
 ],
 "memberKind": "Property"
 }
 ,
 "Orientation":{
 "files": [
-[542, [45]],
-[541, [89]],
-[540, [113]]
+[559, [45]],
+[558, [89]],
+[557, [113]]
 ],
 "memberKind": "Property"
 }
@@ -18538,7 +19204,7 @@ var contents = {
 "members": {
 "AddOutgoingConnection`1":{
 "files": [
-[298, [115,116]]
+[311, [115,116]]
 ],
 "memberKind": "Method"
 }
@@ -18549,12 +19215,12 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[543, [181]],
-[298, [199,214]],
-[544, [143]],
-[545, [227]],
-[546, [389]],
-[420, [154]]
+[560, [181]],
+[311, [199,214]],
+[561, [143]],
+[562, [227]],
+[563, [389]],
+[437, [154]]
 ],
 "memberKind": "Field"
 }
@@ -18565,98 +19231,98 @@ var contents = {
 "members": {
 "AddOutgoingConnection`1":{
 "files": [
-[543, [99]],
-[545, [98,149]],
-[546, [107]],
-[420, [101]]
+[560, [99]],
+[562, [98,149]],
+[563, [107]],
+[437, [101]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisableEffectsByDefinition`1":{
 "files": [
-[546, [154,182,210,250,314,331,343,368]]
+[563, [154,182,210,250,314,331,343,368]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[543, [67]],
-[545, [66,119]],
-[546, [69]],
-[420, [72]]
+[560, [67]],
+[562, [66,119]],
+[563, [69]],
+[437, [72]]
 ],
 "memberKind": "Method"
 }
 ,
 "Duration":{
 "files": [
-[543, [150]]
+[560, [150]]
 ],
 "memberKind": "Property"
 }
 ,
 "EffectDefinitions":{
 "files": [
-[546, [313,330,342,367]],
-[420, [175]]
+[563, [313,330,342,367]],
+[437, [175]]
 ],
 "memberKind": "Property"
 }
 ,
 "EnableEffectsByDefinition`1":{
 "files": [
-[546, [148,176,204,238]]
+[563, [148,176,204,238]]
 ],
 "memberKind": "Method"
 }
 ,
 "FileCompleted":{
 "files": [
-[420, [105]]
+[437, [105]]
 ],
 "memberKind": "Event"
 }
 ,
 "LoopCount":{
 "files": [
-[543, [155,159]]
+[560, [155,159]]
 ],
 "memberKind": "Property"
 }
 ,
 "PlaybackSpeedFactor":{
 "files": [
-[543, [138]]
+[560, [138]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[543, [150]]
+[560, [150]]
 ],
 "memberKind": "Property"
 }
 ,
 "Reset`0":{
 "files": [
-[420, [185]]
+[437, [185]]
 ],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
 "files": [
-[543, [153]]
+[560, [153]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartTime":{
 "files": [
-[543, [104,153]]
+[560, [104,153]]
 ],
 "memberKind": "Property"
 }
@@ -18667,11 +19333,11 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[543, [91]],
-[298, [103]],
-[545, [89,140]],
-[546, [92]],
-[420, [93]]
+[560, [91]],
+[311, [103]],
+[562, [89,140]],
+[563, [92]],
+[437, [93]]
 ],
 "memberKind": "Field"
 }
@@ -18682,7 +19348,7 @@ var contents = {
 "members": {
 "FinalizeAsync`0":{
 "files": [
-[298, [151]]
+[311, [151]]
 ],
 "memberKind": "Method"
 }
@@ -18693,35 +19359,35 @@ var contents = {
 "members": {
 "AddFrame`1":{
 "files": [
-[544, [182]]
+[561, [182]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddOutgoingConnection`1":{
 "files": [
-[544, [158]]
+[561, [158]]
 ],
 "memberKind": "Method"
 }
 ,
 "QuantumStarted":{
 "files": [
-[544, [166]]
+[561, [166]]
 ],
 "memberKind": "Event"
 }
 ,
 "Start`0":{
 "files": [
-[544, [77]]
+[561, [77]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[544, [83,162]]
+[561, [83,162]]
 ],
 "memberKind": "Method"
 }
@@ -18732,111 +19398,111 @@ var contents = {
 "members": {
 "CreateAsync`1":{
 "files": [
-[543, [167]],
-[298, [185]],
-[544, [130]],
-[545, [213]],
-[546, [375]],
-[420, [140]]
+[560, [167]],
+[311, [185]],
+[561, [130]],
+[562, [213]],
+[563, [375]],
+[437, [140]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateDeviceInputNodeAsync`1":{
 "files": [
-[298, [212]]
+[311, [212]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateDeviceOutputNodeAsync`0":{
 "files": [
-[543, [179]],
-[298, [198]],
-[544, [142]],
-[545, [225]],
-[546, [387]],
-[420, [152]]
+[560, [179]],
+[311, [198]],
+[561, [142]],
+[562, [225]],
+[563, [387]],
+[437, [152]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFileInputNodeAsync`1":{
 "files": [
-[543, [90]],
-[545, [88,139]],
-[546, [91]],
-[420, [92]]
+[560, [90]],
+[562, [88,139]],
+[563, [91]],
+[437, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFileOutputNodeAsync`1":{
 "files": [
-[298, [101]]
+[311, [101]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFrameInputNode`0":{
 "files": [
-[544, [157]]
+[561, [157]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateSubmixNode`0":{
 "files": [
-[545, [239]]
+[562, [239]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[543, [57]],
-[298, [63,241,268]],
-[544, [69]],
-[545, [56]],
-[546, [59]],
-[420, [57]]
+[560, [57]],
+[311, [63,241,268]],
+[561, [69]],
+[562, [56]],
+[563, [59]],
+[437, [57]]
 ],
 "memberKind": "Method"
 }
 ,
 "EncodingProperties":{
 "files": [
-[544, [111,155]]
+[561, [111,155]]
 ],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
 "files": [
-[543, [122]],
-[298, [139]],
-[544, [169]],
-[545, [173]],
-[546, [128]],
-[420, [124]]
+[560, [122]],
+[311, [139]],
+[561, [169]],
+[562, [173]],
+[563, [128]],
+[437, [124]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[543, [128]],
-[298, [147]],
-[545, [187]],
-[546, [134]],
-[420, [130,182]]
+[560, [128]],
+[311, [147]],
+[562, [187]],
+[563, [134]],
+[437, [130,182]]
 ],
 "memberKind": "Method"
 }
 ,
 "UnrecoverableErrorOccurred":{
 "files": [
-[298, [233]]
+[311, [233]]
 ],
 "memberKind": "Event"
 }
@@ -18847,12 +19513,12 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[543, [169]],
-[298, [187]],
-[544, [132]],
-[545, [215]],
-[546, [377]],
-[420, [142]]
+[560, [169]],
+[311, [187]],
+[561, [132]],
+[562, [215]],
+[563, [377]],
+[437, [142]]
 ],
 "memberKind": "Field"
 }
@@ -18863,26 +19529,26 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[543, [166]],
-[298, [181]],
-[544, [129]],
-[545, [212]],
-[546, [374]],
-[420, [139]]
+[560, [166]],
+[311, [181]],
+[561, [129]],
+[562, [212]],
+[563, [374]],
+[437, [139]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "PrimaryRenderDevice":{
 "files": [
-[298, [183]]
+[311, [183]]
 ],
 "memberKind": "Property"
 }
 ,
 "QuantumSizeSelectionMode":{
 "files": [
-[298, [182]]
+[311, [182]]
 ],
 "memberKind": "Property"
 }
@@ -18893,35 +19559,35 @@ var contents = {
 "members": {
 "AddOutgoingConnection`1":{
 "files": [
-[545, [241]]
+[562, [241]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisableEffectsByDefinition`1":{
 "files": [
-[545, [205,250]]
+[562, [205,250]]
 ],
 "memberKind": "Method"
 }
 ,
 "EffectDefinitions":{
 "files": [
-[545, [247]]
+[562, [247]]
 ],
 "memberKind": "Property"
 }
 ,
 "EnableEffectsByDefinition`1":{
 "files": [
-[545, [201]]
+[562, [201]]
 ],
 "memberKind": "Method"
 }
 ,
 "OutgoingGain":{
 "files": [
-[545, [254]]
+[562, [254]]
 ],
 "memberKind": "Property"
 }
@@ -18932,14 +19598,14 @@ var contents = {
 "members": {
 "DeviceInputNode":{
 "files": [
-[298, [222]]
+[311, [222]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[298, [214,217]]
+[311, [214,217]]
 ],
 "memberKind": "Property"
 }
@@ -18950,24 +19616,24 @@ var contents = {
 "members": {
 "DeviceOutputNode":{
 "files": [
-[543, [189]],
-[298, [207]],
-[544, [150]],
-[545, [235]],
-[546, [397]],
-[420, [162]]
+[560, [189]],
+[311, [207]],
+[561, [150]],
+[562, [235]],
+[563, [397]],
+[437, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[543, [181,184]],
-[298, [199,202]],
-[544, [143,146]],
-[545, [227,230]],
-[546, [389,392]],
-[420, [154,157]]
+[560, [181,184]],
+[311, [199,202]],
+[561, [143,146]],
+[562, [227,230]],
+[563, [389,392]],
+[437, [154,157]]
 ],
 "memberKind": "Property"
 }
@@ -18978,20 +19644,20 @@ var contents = {
 "members": {
 "FileInputNode":{
 "files": [
-[543, [98]],
-[545, [96,147]],
-[546, [106]],
-[420, [100]]
+[560, [98]],
+[562, [96,147]],
+[563, [106]],
+[437, [100]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[543, [91,94]],
-[545, [89,92,140,143]],
-[546, [92,95]],
-[420, [93,96]]
+[560, [91,94]],
+[562, [89,92,140,143]],
+[563, [92,95]],
+[437, [93,96]]
 ],
 "memberKind": "Property"
 }
@@ -19002,14 +19668,14 @@ var contents = {
 "members": {
 "FileOutputNode":{
 "files": [
-[298, [111]]
+[311, [111]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[298, [103,106]]
+[311, [103,106]]
 ],
 "memberKind": "Property"
 }
@@ -19020,24 +19686,24 @@ var contents = {
 "members": {
 "Graph":{
 "files": [
-[543, [176]],
-[298, [194]],
-[544, [139]],
-[545, [222]],
-[546, [384]],
-[420, [149]]
+[560, [176]],
+[311, [194]],
+[561, [139]],
+[562, [222]],
+[563, [384]],
+[437, [149]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[543, [169,172]],
-[298, [187,190]],
-[544, [132,135]],
-[545, [215,218]],
-[546, [377,380]],
-[420, [142,145]]
+[560, [169,172]],
+[311, [187,190]],
+[561, [132,135]],
+[562, [215,218]],
+[563, [377,380]],
+[437, [142,145]]
 ],
 "memberKind": "Property"
 }
@@ -19048,32 +19714,32 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[545, [243]],
-[546, [305]]
+[562, [243]],
+[563, [305]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Delay":{
 "files": [
-[545, [246]],
-[546, [164,311]]
+[562, [246]],
+[563, [164,311]]
 ],
 "memberKind": "Property"
 }
 ,
 "Feedback":{
 "files": [
-[545, [245]],
-[546, [310]]
+[562, [245]],
+[563, [310]]
 ],
 "memberKind": "Property"
 }
 ,
 "WetDryMix":{
 "files": [
-[545, [244]],
-[546, [309]]
+[562, [244]],
+[563, [309]]
 ],
 "memberKind": "Property"
 }
@@ -19084,14 +19750,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[546, [350]]
+[563, [350]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Bands":{
 "files": [
-[546, [271,280,289,298,351,352,353,355,356,357,359,360,361,363,364,365]]
+[563, [271,280,289,298,351,352,353,355,356,357,359,360,361,363,364,365]]
 ],
 "memberKind": "Property"
 }
@@ -19102,7 +19768,7 @@ var contents = {
 "members": {
 "RequiredSamples":{
 "files": [
-[544, [177]]
+[561, [177]]
 ],
 "memberKind": "Property"
 }
@@ -19113,21 +19779,21 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[546, [337]]
+[563, [337]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Loudness":{
 "files": [
-[546, [219,339]]
+[563, [219,339]]
 ],
 "memberKind": "Property"
 }
 ,
 "Release":{
 "files": [
-[546, [340]]
+[563, [340]]
 ],
 "memberKind": "Property"
 }
@@ -19138,7 +19804,7 @@ var contents = {
 "members": {
 "LowestLatency":{
 "files": [
-[298, [182]]
+[311, [182]]
 ],
 "memberKind": "Field"
 }
@@ -19149,42 +19815,42 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[546, [320]]
+[563, [320]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DecayTime":{
 "files": [
-[546, [192,328]]
+[563, [192,328]]
 ],
 "memberKind": "Property"
 }
 ,
 "RearDelay":{
 "files": [
-[546, [327]]
+[563, [327]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReflectionsDelay":{
 "files": [
-[546, [325]]
+[563, [325]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReverbDelay":{
 "files": [
-[546, [326]]
+[563, [326]]
 ],
 "memberKind": "Property"
 }
 ,
 "WetDryMix":{
 "files": [
-[546, [324]]
+[563, [324]]
 ],
 "memberKind": "Property"
 }
@@ -19197,15 +19863,15 @@ var contents = {
 "members": {
 "CreateReference`0":{
 "files": [
-[544, [97]],
-[547, [78,79]]
+[561, [97]],
+[564, [78,79]]
 ],
 "memberKind": "Method"
 }
 ,
 "Length":{
 "files": [
-[547, [96]]
+[564, [96]]
 ],
 "memberKind": "Property"
 }
@@ -19216,15 +19882,15 @@ var contents = {
 "members": {
 "Read":{
 "files": [
-[547, [76]]
+[564, [76]]
 ],
 "memberKind": "Field"
 }
 ,
 "Write":{
 "files": [
-[544, [96]],
-[547, [77]]
+[561, [96]],
+[564, [77]]
 ],
 "memberKind": "Field"
 }
@@ -19235,15 +19901,15 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[544, [94]]
+[561, [94]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "LockBuffer`1":{
 "files": [
-[544, [96]],
-[547, [76,77]]
+[561, [96]],
+[564, [76,77]]
 ],
 "memberKind": "Method"
 }
@@ -19254,7 +19920,7 @@ var contents = {
 "members": {
 "RequestedAutoRepeatMode":{
 "files": [
-[548, [222,239]]
+[565, [222,239]]
 ],
 "memberKind": "Property"
 }
@@ -19267,28 +19933,28 @@ var contents = {
 "members": {
 "AllPhotosCaptured":{
 "files": [
-[196, [524]]
+[206, [506]]
 ],
 "memberKind": "Event"
 }
 ,
 "CaptureAsync`0":{
 "files": [
-[196, [610]]
+[206, [593]]
 ],
 "memberKind": "Method"
 }
 ,
 "FinishAsync`0":{
 "files": [
-[196, [537]]
+[206, [519]]
 ],
 "memberKind": "Method"
 }
 ,
 "OptionalReferencePhotoCaptured":{
 "files": [
-[196, [525]]
+[206, [507]]
 ],
 "memberKind": "Event"
 }
@@ -19299,7 +19965,7 @@ var contents = {
 "members": {
 "VideoRecording":{
 "files": [
-[280, [79]]
+[293, [79]]
 ],
 "memberKind": "Field"
 }
@@ -19310,263 +19976,284 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[192, [154]],
-[193, [162]],
-[194, [292]],
-[195, [225]],
-[196, [325]],
-[278, [64,132]],
-[279, [68,69]],
-[280, [64]],
-[197, [262]],
-[198, [304]],
-[201, [375]],
-[281, [91]],
-[549, [44]]
+[202, [154]],
+[203, [162]],
+[204, [292]],
+[205, [225]],
+[206, [325]],
+[291, [64,132]],
+[292, [68,69]],
+[293, [64]],
+[566, [59]],
+[207, [262]],
+[208, [304]],
+[211, [375]],
+[294, [91]],
+[567, [44]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddVideoEffectAsync`2":{
 "files": [
-[194, [441]],
-[196, [472]],
-[198, [450]]
+[204, [422]],
+[206, [454]],
+[208, [432]]
 ],
 "memberKind": "Method"
 }
 ,
 "CameraStreamState":{
 "files": [
-[192, [195]],
-[193, [212]]
+[202, [195]],
+[203, [212]]
 ],
 "memberKind": "Property"
 }
 ,
 "CameraStreamStateChanged":{
 "files": [
-[192, [162]],
-[193, [170]]
+[202, [162]],
+[203, [170]]
 ],
 "memberKind": "Event"
 }
 ,
+"CapturePhotoToStorageFileAsync`2":{
+"files": [
+[568, [140]]
+],
+"memberKind": "Method"
+}
+,
 "CapturePhotoToStreamAsync`2":{
 "files": [
-[194, [489]],
-[196, [582]],
-[197, [409]]
+[204, [470]],
+[206, [564]],
+[207, [391]]
 ],
 "memberKind": "Method"
 }
 ,
 "ClearEffectsAsync`1":{
 "files": [
-[194, [466]],
-[196, [495]],
-[198, [535]]
+[204, [447]],
+[206, [477]],
+[208, [517]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[192, [200]],
-[193, [217]],
-[194, [593]],
-[195, [462]],
-[196, [658]],
-[197, [508]],
-[198, [654]],
-[201, [523]]
+[202, [200]],
+[203, [217]],
+[204, [569]],
+[205, [444]],
+[206, [642]],
+[566, [95]],
+[207, [485]],
+[208, [638]],
+[211, [523]]
 ],
 "memberKind": "Method"
 }
 ,
 "Failed":{
 "files": [
-[194, [296,592]],
-[195, [228,461]],
-[196, [328,657]],
-[197, [266,507]],
-[198, [308,653]],
-[201, [378,522]],
-[281, [73,92]]
+[204, [296,568]],
+[205, [228,443]],
+[206, [328,641]],
+[566, [60]],
+[207, [266,484]],
+[208, [308,637]],
+[211, [378,522]],
+[294, [73,92]]
 ],
 "memberKind": "Event"
 }
 ,
 "FindAllVideoProfiles`1":{
 "files": [
-[278, [79,150,158]]
+[291, [79,150,158]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindConcurrentProfiles`1":{
 "files": [
-[279, [99,100]]
+[292, [99,100]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindKnownVideoProfiles`2":{
 "files": [
-[280, [79]]
+[293, [79]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPreviewFrameAsync`0":{
 "files": [
-[192, [230]],
-[193, [257]],
-[195, [374,414]],
-[201, [185]]
+[202, [230]],
+[203, [257]],
+[205, [356,396]],
+[211, [185]]
 ],
 "memberKind": "Method"
 }
 ,
 "InitializeAsync`0":{
 "files": [
-[192, [161]],
-[193, [169]],
-[194, [303]],
-[195, [235]],
-[196, [335]],
-[278, [117,162]],
-[279, [126,134]],
-[280, [105]],
-[197, [273]],
-[198, [315]],
-[201, [385]],
-[281, [94]],
-[549, [46]]
+[202, [161]],
+[203, [169]],
+[204, [303]],
+[205, [235]],
+[206, [335]],
+[291, [117,162]],
+[292, [126,134]],
+[293, [105]],
+[566, [64]],
+[207, [273]],
+[208, [315]],
+[211, [385]],
+[294, [94]],
+[567, [46]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsVideoProfileSupported`1":{
 "files": [
-[278, [185]],
-[279, [156]],
-[280, [132]]
+[291, [185]],
+[292, [156]],
+[293, [132]]
 ],
 "memberKind": "Method"
 }
 ,
 "MediaCaptureSettings":{
 "files": [
-[194, [479,668]],
-[197, [399,575]]
+[204, [460,644]],
+[568, [58,59]],
+[569, [56,57,81]],
+[207, [381,552]]
 ],
 "memberKind": "Property"
 }
 ,
 "PrepareAdvancedPhotoCaptureAsync`1":{
 "files": [
-[196, [519]]
+[206, [501]]
 ],
 "memberKind": "Method"
 }
 ,
 "RecordLimitationExceeded":{
 "files": [
-[194, [295,591]],
-[197, [265,506]],
-[198, [307,652]]
+[204, [295,567]],
+[207, [265,483]],
+[208, [307,636]]
 ],
 "memberKind": "Event"
 }
 ,
 "SetEncodingPropertiesAsync`3":{
 "files": [
-[194, [394]],
-[195, [329]],
-[196, [431]],
-[197, [361]],
-[198, [406]],
-[201, [469]]
+[204, [382]],
+[205, [318]],
+[206, [420]],
+[207, [350]],
+[208, [395]],
+[211, [469]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetPreviewRotation`1":{
 "files": [
-[201, [464]]
+[211, [464]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartPreviewAsync`0":{
 "files": [
-[192, [171]],
-[193, [179]],
-[194, [356]],
-[195, [291]],
-[196, [396]],
-[197, [326]],
-[198, [371]],
-[201, [435]],
-[426, [262]]
+[202, [171]],
+[203, [179]],
+[204, [350]],
+[205, [285]],
+[206, [390]],
+[566, [66]],
+[207, [320]],
+[208, [365]],
+[211, [435]],
+[443, [262]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartRecordToCustomSinkAsync`2":{
 "files": [
-[281, [200]]
+[294, [200]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartRecordToStorageFileAsync`2":{
 "files": [
-[194, [525]],
-[197, [445]],
-[198, [575]]
+[204, [507]],
+[569, [147]],
+[207, [428]],
+[208, [557]]
 ],
 "memberKind": "Method"
 }
 ,
 "StopPreviewAsync`0":{
 "files": [
-[192, [197]],
-[193, [214]],
-[194, [407]],
-[195, [341]],
-[196, [444]],
-[197, [374]],
-[198, [419]],
-[201, [481]],
-[426, [247,359]]
+[202, [197]],
+[203, [214]],
+[204, [393]],
+[205, [328]],
+[206, [431]],
+[566, [87]],
+[207, [361]],
+[208, [406]],
+[211, [481]],
+[443, [247,359]]
 ],
 "memberKind": "Method"
 }
 ,
 "StopRecordAsync`0":{
 "files": [
-[194, [547]],
-[197, [467]],
-[198, [597]],
-[281, [116,220]]
+[204, [528]],
+[566, [81]],
+[569, [167]],
+[207, [449]],
+[208, [580]],
+[294, [116,220]]
 ],
 "memberKind": "Method"
 }
 ,
 "VideoDeviceController":{
 "files": [
-[192, [165]],
-[193, [173]],
-[194, [358,392]],
-[195, [327,368]],
-[196, [351,429,516]],
-[280, [109]],
-[197, [359]],
-[198, [404,493,499,502,542]],
-[201, [170,467]],
-[281, [157,170]]
+[202, [165]],
+[203, [173]],
+[204, [351,380]],
+[205, [316,350]],
+[206, [347,418,498]],
+[293, [109]],
+[570, [82,92]],
+[568, [103,118,162]],
+[569, [107,127,180,206,209]],
+[207, [348]],
+[208, [393,475,481,484,524]],
+[211, [170,467]],
+[294, [157,170]]
 ],
 "memberKind": "Property"
 }
@@ -19577,24 +20264,25 @@ var contents = {
 "members": {
 "Code":{
 "files": [
-[194, [254]],
-[195, [193]],
-[196, [293]],
-[197, [230]],
-[198, [272]]
+[204, [254]],
+[205, [193]],
+[206, [293]],
+[207, [230]],
+[208, [272]]
 ],
 "memberKind": "Property"
 }
 ,
 "Message":{
 "files": [
-[194, [254]],
-[195, [193]],
-[196, [293]],
-[197, [230]],
-[198, [272]],
-[201, [611]],
-[426, [148]]
+[204, [254]],
+[205, [193]],
+[206, [293]],
+[566, [104]],
+[207, [230]],
+[208, [272]],
+[211, [611]],
+[443, [148]]
 ],
 "memberKind": "Property"
 }
@@ -19605,64 +20293,64 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[192, [159]],
-[193, [167]],
-[194, [298]],
-[195, [230]],
-[196, [330]],
-[278, [65,133]],
-[279, [87,88]],
-[280, [65]],
-[197, [268]],
-[198, [310]],
-[201, [380]],
-[549, [41]]
+[202, [159]],
+[203, [167]],
+[204, [298]],
+[205, [230]],
+[206, [330]],
+[291, [65,133]],
+[292, [87,88]],
+[293, [65]],
+[207, [268]],
+[208, [310]],
+[211, [380]],
+[567, [41]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "MediaCategory":{
 "files": [
-[549, [43]]
+[567, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "RecordMediaDescription":{
 "files": [
-[278, [104,107,108]],
-[280, [91]]
+[291, [104,107,108]],
+[293, [91]]
 ],
 "memberKind": "Property"
 }
 ,
 "StreamingCaptureMode":{
 "files": [
-[192, [160]],
-[193, [168]],
-[549, [42]]
+[202, [160]],
+[203, [168]],
+[567, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "VideoDeviceId":{
 "files": [
-[194, [298]],
-[195, [230]],
-[196, [330]],
-[279, [90,91]],
-[197, [268]],
-[198, [310]],
-[201, [380]]
+[204, [298]],
+[205, [230]],
+[206, [330]],
+[292, [90,91]],
+[207, [268]],
+[208, [310]],
+[211, [380]]
 ],
 "memberKind": "Property"
 }
 ,
 "VideoProfile":{
 "files": [
-[278, [103,107,113,150,155,158]],
-[279, [106,107,119,120]],
-[280, [90]]
+[291, [103,107,113,150,155,158]],
+[292, [106,107,119,120]],
+[293, [90]]
 ],
 "memberKind": "Property"
 }
@@ -19671,10 +20359,25 @@ var contents = {
 ,
 "MediaCaptureSettings":{
 "members": {
+"AudioDeviceId":{
+"files": [
+[569, [81]]
+],
+"memberKind": "Property"
+}
+,
 "ConcurrentRecordAndPhotoSupported":{
 "files": [
-[194, [479,668]],
-[197, [399,575]]
+[204, [460,644]],
+[207, [381,552]]
+],
+"memberKind": "Property"
+}
+,
+"VideoDeviceCharacteristic":{
+"files": [
+[568, [58,59]],
+[569, [56,57]]
 ],
 "memberKind": "Property"
 }
@@ -19685,14 +20388,14 @@ var contents = {
 "members": {
 "Id":{
 "files": [
-[278, [107]]
+[291, [107]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportedRecordMediaDescription":{
 "files": [
-[280, [84]]
+[293, [84]]
 ],
 "memberKind": "Property"
 }
@@ -19703,28 +20406,28 @@ var contents = {
 "members": {
 "FrameRate":{
 "files": [
-[278, [108]]
+[291, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[278, [108]]
+[291, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsHdrVideoSupported":{
 "files": [
-[280, [87]]
+[293, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[278, [107]]
+[291, [107]]
 ],
 "memberKind": "Property"
 }
@@ -19735,14 +20438,14 @@ var contents = {
 "members": {
 "Other":{
 "files": [
-[298, [212]]
+[311, [212]]
 ],
 "memberKind": "Field"
 }
 ,
 "Speech":{
 "files": [
-[549, [43]]
+[567, [43]]
 ],
 "memberKind": "Field"
 }
@@ -19753,36 +20456,42 @@ var contents = {
 "members": {
 "Audio":{
 "files": [
-[281, [148]]
+[294, [148]]
 ],
 "memberKind": "Field"
 }
 ,
 "Photo":{
 "files": [
-[281, [148]]
+[568, [87,118]],
+[294, [148]]
 ],
 "memberKind": "Field"
 }
 ,
 "VideoPreview":{
 "files": [
-[192, [166]],
-[193, [174]],
-[194, [358,392,394,441,466]],
-[195, [327,329,368]],
-[196, [429,431,472,495]],
-[197, [359,361]],
-[198, [404,406]],
-[201, [170,467,469]],
-[426, [114]]
+[202, [166]],
+[203, [174]],
+[204, [351,380,382,422,447]],
+[205, [316,318,350]],
+[206, [418,420,454,477]],
+[570, [82]],
+[568, [86,103]],
+[569, [107,180,209]],
+[207, [348,350]],
+[208, [393,395]],
+[211, [170,467,469]],
+[443, [114]]
 ],
 "memberKind": "Field"
 }
 ,
 "VideoRecord":{
 "files": [
-[198, [450,499,502,535,542]]
+[570, [92]],
+[569, [127,206]],
+[208, [432,481,484,517,524]]
 ],
 "memberKind": "Field"
 }
@@ -19793,14 +20502,14 @@ var contents = {
 "members": {
 "Context":{
 "files": [
-[196, [257]]
+[206, [257]]
 ],
 "memberKind": "Property"
 }
 ,
 "Frame":{
 "files": [
-[196, [264]]
+[206, [264]]
 ],
 "memberKind": "Property"
 }
@@ -19811,15 +20520,41 @@ var contents = {
 "members": {
 "Audio":{
 "files": [
-[549, [42]]
+[567, [42]]
 ],
 "memberKind": "Field"
 }
 ,
 "Video":{
 "files": [
-[192, [160]],
-[193, [168]]
+[202, [160]],
+[203, [168]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"VideoDeviceCharacteristic":{
+"members": {
+"AllStreamsIdentical":{
+"files": [
+[568, [58]],
+[569, [56]]
+],
+"memberKind": "Field"
+}
+,
+"PreviewPhotoStreamsIdentical":{
+"files": [
+[568, [59]]
+],
+"memberKind": "Field"
+}
+,
+"PreviewRecordStreamsIdentical":{
+"files": [
+[569, [57]]
 ],
 "memberKind": "Field"
 }
@@ -19830,28 +20565,28 @@ var contents = {
 "members": {
 "Clockwise180Degrees":{
 "files": [
-[201, [573]]
+[211, [573]]
 ],
 "memberKind": "Field"
 }
 ,
 "Clockwise270Degrees":{
 "files": [
-[201, [561,585]]
+[211, [561,585]]
 ],
 "memberKind": "Field"
 }
 ,
 "Clockwise90Degrees":{
 "files": [
-[201, [566,580]]
+[211, [566,580]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[201, [592]]
+[211, [592]]
 ],
 "memberKind": "Field"
 }
@@ -19862,14 +20597,14 @@ var contents = {
 "members": {
 "InputProperties":{
 "files": [
-[198, [496,502]]
+[208, [478,484]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutputProperties":{
 "files": [
-[198, [507,515]]
+[208, [489,497]]
 ],
 "memberKind": "Property"
 }
@@ -19884,48 +20619,48 @@ var contents = {
 "members": {
 "DisconnectAsync`0":{
 "files": [
-[116, [414]],
-[283, [219]]
+[125, [414]],
+[296, [219]]
 ],
 "memberKind": "Method"
 }
 ,
 "ErrorOccurred":{
 "files": [
-[324, [127]],
-[116, [357]],
-[446, [95]],
-[283, [162]]
+[339, [127]],
+[125, [357]],
+[463, [95]],
+[296, [162]]
 ],
 "memberKind": "Event"
 }
 ,
 "RequestStartCastingAsync`1":{
 "files": [
-[324, [140]],
-[116, [374]],
-[446, [99]],
-[283, [166]]
+[339, [140]],
+[125, [374]],
+[463, [99]],
+[296, [166]]
 ],
 "memberKind": "Method"
 }
 ,
 "State":{
 "files": [
-[324, [166]],
-[116, [336,397]],
-[446, [107]],
-[283, [175,181,188]]
+[339, [166]],
+[125, [336,397]],
+[463, [107]],
+[296, [175,181,188]]
 ],
 "memberKind": "Property"
 }
 ,
 "StateChanged":{
 "files": [
-[324, [128]],
-[116, [358]],
-[446, [96]],
-[283, [163]]
+[339, [128]],
+[125, [358]],
+[463, [96]],
+[296, [163]]
 ],
 "memberKind": "Event"
 }
@@ -19936,10 +20671,10 @@ var contents = {
 "members": {
 "Message":{
 "files": [
-[324, [173]],
-[116, [404]],
-[446, [115]],
-[283, [209]]
+[339, [173]],
+[125, [404]],
+[463, [115]],
+[296, [209]]
 ],
 "memberKind": "Property"
 }
@@ -19950,8 +20685,8 @@ var contents = {
 "members": {
 "Succeeded":{
 "files": [
-[324, [142]],
-[116, [376,416]]
+[339, [142]],
+[125, [376,416]]
 ],
 "memberKind": "Field"
 }
@@ -19962,36 +20697,36 @@ var contents = {
 "members": {
 "Connected":{
 "files": [
-[283, [175]]
+[296, [175]]
 ],
 "memberKind": "Field"
 }
 ,
 "Connecting":{
 "files": [
-[283, [188]]
+[296, [188]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disconnected":{
 "files": [
-[116, [336]],
-[283, [181]]
+[125, [336]],
+[296, [181]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disconnecting":{
 "files": [
-[116, [336]]
+[125, [336]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rendering":{
 "files": [
-[283, [175]]
+[296, [175]]
 ],
 "memberKind": "Field"
 }
@@ -20002,40 +20737,40 @@ var contents = {
 "members": {
 "CreateCastingConnection`0":{
 "files": [
-[324, [124]],
-[116, [354]],
-[446, [92]],
-[283, [159]]
+[339, [124]],
+[125, [354]],
+[463, [92]],
+[296, [159]]
 ],
 "memberKind": "Method"
 }
 ,
 "FriendlyName":{
 "files": [
-[324, [112,123,139,145]]
+[339, [112,123,139,145]]
 ],
 "memberKind": "Property"
 }
 ,
 "FromIdAsync`1":{
 "files": [
-[116, [343]],
-[283, [104]]
+[125, [343]],
+[296, [104]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
 "files": [
-[283, [36]],
-[264, [71]]
+[296, [36]],
+[275, [71]]
 ],
 "memberKind": "Method"
 }
 ,
 "Id":{
 "files": [
-[283, [116]]
+[296, [116]]
 ],
 "memberKind": "Property"
 }
@@ -20046,47 +20781,47 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[324, [58]],
-[550, [26]],
-[446, [36]]
+[339, [58]],
+[571, [26]],
+[463, [36]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Appearance":{
 "files": [
-[324, [70,71,72,74,76,77]]
+[339, [70,71,72,74,76,77]]
 ],
 "memberKind": "Property"
 }
 ,
 "CastingDevicePickerDismissed":{
 "files": [
-[324, [67]]
+[339, [67]]
 ],
 "memberKind": "Event"
 }
 ,
 "CastingDeviceSelected":{
 "files": [
-[324, [64]],
-[446, [42]]
+[339, [64]],
+[463, [42]]
 ],
 "memberKind": "Event"
 }
 ,
 "Filter":{
 "files": [
-[324, [61]],
-[446, [39]]
+[339, [61]],
+[463, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "Show`1":{
 "files": [
-[324, [95]],
-[446, [81]]
+[339, [95]],
+[463, [81]]
 ],
 "memberKind": "Method"
 }
@@ -20097,14 +20832,14 @@ var contents = {
 "members": {
 "SupportedCastingSources":{
 "files": [
-[324, [61]]
+[339, [61]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportsVideo":{
 "files": [
-[446, [39]]
+[463, [39]]
 ],
 "memberKind": "Property"
 }
@@ -20115,8 +20850,8 @@ var contents = {
 "members": {
 "SelectedCastingDevice":{
 "files": [
-[324, [112,123,124,139,145]],
-[446, [92]]
+[339, [112,123,124,139,145]],
+[463, [92]]
 ],
 "memberKind": "Property"
 }
@@ -20127,8 +20862,8 @@ var contents = {
 "members": {
 "Video":{
 "files": [
-[283, [36]],
-[264, [71]]
+[296, [36]],
+[275, [71]]
 ],
 "memberKind": "Field"
 }
@@ -20143,7 +20878,7 @@ var contents = {
 "members": {
 "ResultFrame":{
 "files": [
-[194, [264]]
+[204, [264]]
 ],
 "memberKind": "Property"
 }
@@ -20154,21 +20889,21 @@ var contents = {
 "members": {
 "DesiredDetectionInterval":{
 "files": [
-[194, [447]]
+[204, [428]]
 ],
 "memberKind": "Property"
 }
 ,
 "Enabled":{
 "files": [
-[194, [223,450,460,657,658,661]]
+[204, [223,431,441,633,634,637]]
 ],
 "memberKind": "Property"
 }
 ,
 "FaceDetected":{
 "files": [
-[194, [444,463]]
+[204, [425,444]]
 ],
 "memberKind": "Event"
 }
@@ -20179,21 +20914,21 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[194, [432]]
+[204, [413]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DetectionMode":{
 "files": [
-[194, [438]]
+[204, [419]]
 ],
 "memberKind": "Property"
 }
 ,
 "SynchronousDetectionEnabled":{
 "files": [
-[194, [435]]
+[204, [416]]
 ],
 "memberKind": "Property"
 }
@@ -20204,7 +20939,7 @@ var contents = {
 "members": {
 "DetectedFaces":{
 "files": [
-[194, [264]]
+[204, [264]]
 ],
 "memberKind": "Property"
 }
@@ -20215,7 +20950,7 @@ var contents = {
 "members": {
 "HighPerformance":{
 "files": [
-[194, [438]]
+[204, [419]]
 ],
 "memberKind": "Field"
 }
@@ -20226,7 +20961,7 @@ var contents = {
 "members": {
 "Enabled":{
 "files": [
-[196, [480,490]]
+[206, [462,472]]
 ],
 "memberKind": "Property"
 }
@@ -20237,7 +20972,7 @@ var contents = {
 "members": {
 "Certainty":{
 "files": [
-[196, [230]]
+[206, [230]]
 ],
 "memberKind": "Property"
 }
@@ -20248,34 +20983,34 @@ var contents = {
 "members": {
 "CreateFromStorageFile`1":{
 "files": [
-[551, [63]]
+[572, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFromUri`1":{
 "files": [
-[80, [507]],
-[552, [31]],
-[553, [39]],
-[554, [41]],
-[555, [41]],
-[449, [94]]
+[82, [507]],
+[573, [31]],
+[574, [39]],
+[575, [41]],
+[576, [41]],
+[466, [94]]
 ],
 "memberKind": "Method"
 }
 ,
 "CustomProperties":{
 "files": [
-[80, [78,203,205,369,508,509,510]],
-[449, [95]]
+[82, [78,203,205,369,508,509,510]],
+[466, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "ExternalTimedTextSources":{
 "files": [
-[553, [57,58,59]]
+[574, [57,58,59]]
 ],
 "memberKind": "Property"
 }
@@ -20286,7 +21021,7 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[556, [329,388]]
+[577, [329,388]]
 ],
 "memberKind": "Field"
 }
@@ -20297,7 +21032,7 @@ var contents = {
 "members": {
 "Open":{
 "files": [
-[556, [324]]
+[577, [324]]
 ],
 "memberKind": "Field"
 }
@@ -20308,46 +21043,46 @@ var contents = {
 "members": {
 "Abort`0":{
 "files": [
-[557, [168]],
-[503, [212,241]]
+[578, [168]],
+[520, [212,241]]
 ],
 "memberKind": "Method"
 }
 ,
 "AppendBuffer`1":{
 "files": [
-[557, [156,424]],
-[503, [125,226]]
+[578, [156,424]],
+[520, [125,226]]
 ],
 "memberKind": "Method"
 }
 ,
 "Buffered":{
 "files": [
-[557, [98,139,144]],
-[503, [145,178]]
+[578, [98,139,144]],
+[520, [145,178]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsUpdating":{
 "files": [
-[503, [51]]
+[520, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Remove`2":{
 "files": [
-[557, [146]],
-[503, [152]]
+[578, [146]],
+[520, [152]]
 ],
 "memberKind": "Method"
 }
 ,
 "TimestampOffset":{
 "files": [
-[557, [151]]
+[578, [151]]
 ],
 "memberKind": "Property"
 }
@@ -20358,50 +21093,50 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[558, [77]],
-[556, [391]]
+[579, [77]],
+[577, [391]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddSourceBuffer`1":{
 "files": [
-[503, [75]]
+[520, [75]]
 ],
 "memberKind": "Method"
 }
 ,
 "Closed":{
 "files": [
-[556, [259]]
+[577, [259]]
 ],
 "memberKind": "Event"
 }
 ,
 "Duration":{
 "files": [
-[556, [288]]
+[577, [288]]
 ],
 "memberKind": "Property"
 }
 ,
 "EndOfStream`1":{
 "files": [
-[556, [329,388]]
+[577, [329,388]]
 ],
 "memberKind": "Method"
 }
 ,
 "Opened":{
 "files": [
-[556, [257]]
+[577, [257]]
 ],
 "memberKind": "Event"
 }
 ,
 "ReadyState":{
 "files": [
-[556, [324]]
+[577, [324]]
 ],
 "memberKind": "Property"
 }
@@ -20412,14 +21147,14 @@ var contents = {
 "members": {
 "HighDynamicRangeAnalyzer":{
 "files": [
-[196, [480,490]]
+[206, [462,472]]
 ],
 "memberKind": "Property"
 }
 ,
 "SceneAnalyzed":{
 "files": [
-[196, [477,492]]
+[206, [459,474]]
 ],
 "memberKind": "Event"
 }
@@ -20430,7 +21165,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[196, [469]]
+[206, [451]]
 ],
 "memberKind": "Constructor"
 }
@@ -20441,7 +21176,7 @@ var contents = {
 "members": {
 "HighDynamicRange":{
 "files": [
-[196, [230]]
+[206, [230]]
 ],
 "memberKind": "Property"
 }
@@ -20452,7 +21187,7 @@ var contents = {
 "members": {
 "ResultFrame":{
 "files": [
-[196, [230]]
+[206, [230]]
 ],
 "memberKind": "Property"
 }
@@ -20463,7 +21198,7 @@ var contents = {
 "members": {
 "ErrorCode":{
 "files": [
-[553, [88]]
+[574, [88]]
 ],
 "memberKind": "Property"
 }
@@ -20474,14 +21209,14 @@ var contents = {
 "members": {
 "CreateFromUri`1":{
 "files": [
-[553, [42,46,50]]
+[574, [42,46,50]]
 ],
 "memberKind": "Method"
 }
 ,
 "Resolved":{
 "files": [
-[553, [53,54,55]]
+[574, [53,54,55]]
 ],
 "memberKind": "Event"
 }
@@ -20492,14 +21227,14 @@ var contents = {
 "members": {
 "Error":{
 "files": [
-[553, [84,88]]
+[574, [84,88]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tracks":{
 "files": [
-[553, [96,98,100]]
+[574, [96,98,100]]
 ],
 "memberKind": "Property"
 }
@@ -20510,21 +21245,21 @@ var contents = {
 "members": {
 "Enabled":{
 "files": [
-[198, [214,220,224,254,458,530,600,717,724]]
+[208, [214,220,224,254,440,512,583,701,708]]
 ],
 "memberKind": "Property"
 }
 ,
 "EnabledChanged":{
 "files": [
-[198, [455,532]]
+[208, [437,514]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetRecommendedStreamConfiguration`2":{
 "files": [
-[198, [493]]
+[208, [475]]
 ],
 "memberKind": "Method"
 }
@@ -20535,7 +21270,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[198, [447]]
+[208, [429]]
 ],
 "memberKind": "Constructor"
 }
@@ -20546,7 +21281,7 @@ var contents = {
 "members": {
 "Reason":{
 "files": [
-[198, [254]]
+[208, [254]]
 ],
 "memberKind": "Property"
 }
@@ -20561,14 +21296,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[196, [513]]
+[206, [495]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Mode":{
 "files": [
-[196, [513]]
+[206, [495]]
 ],
 "memberKind": "Property"
 }
@@ -20579,14 +21314,14 @@ var contents = {
 "members": {
 "Configure`1":{
 "files": [
-[196, [516]]
+[206, [498]]
 ],
 "memberKind": "Method"
 }
 ,
 "SupportedModes":{
 "files": [
-[196, [351]]
+[206, [347]]
 ],
 "memberKind": "Property"
 }
@@ -20597,7 +21332,7 @@ var contents = {
 "members": {
 "Hdr":{
 "files": [
-[196, [351,513]]
+[206, [347,495]]
 ],
 "memberKind": "Field"
 }
@@ -20608,8 +21343,8 @@ var contents = {
 "members": {
 "Streaming":{
 "files": [
-[192, [195]],
-[193, [212]]
+[202, [195]],
+[203, [212]]
 ],
 "memberKind": "Field"
 }
@@ -20620,7 +21355,7 @@ var contents = {
 "members": {
 "Mode":{
 "files": [
-[280, [109]]
+[293, [109]]
 ],
 "memberKind": "Property"
 }
@@ -20631,7 +21366,7 @@ var contents = {
 "members": {
 "Auto":{
 "files": [
-[280, [109]]
+[293, [109]]
 ],
 "memberKind": "Field"
 }
@@ -20642,7 +21377,7 @@ var contents = {
 "members": {
 "GetAudioRenderSelector`0":{
 "files": [
-[298, [171]]
+[311, [171]]
 ],
 "memberKind": "Method"
 }
@@ -20653,43 +21388,50 @@ var contents = {
 "members": {
 "AdvancedPhotoControl":{
 "files": [
-[196, [351,516]]
+[206, [347,498]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetAvailableMediaStreamProperties`1":{
 "files": [
-[281, [157]]
+[570, [92]],
+[568, [162]],
+[569, [180,206]],
+[294, [157]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetMediaStreamProperties`1":{
 "files": [
-[192, [166]],
-[193, [174]],
-[194, [358,392]],
-[195, [327,368]],
-[196, [429]],
-[197, [359]],
-[198, [404,499]],
-[201, [170,467]]
+[202, [166]],
+[203, [174]],
+[204, [351,380]],
+[205, [316,350]],
+[206, [418]],
+[569, [209]],
+[207, [348]],
+[208, [393,481]],
+[211, [170,467]]
 ],
 "memberKind": "Method"
 }
 ,
 "HdrVideoControl":{
 "files": [
-[280, [109]]
+[293, [109]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetMediaStreamPropertiesAsync`2":{
 "files": [
-[198, [502,542]],
-[281, [170]]
+[570, [82]],
+[568, [103,118]],
+[569, [107,127]],
+[208, [484,524]],
+[294, [170]]
 ],
 "memberKind": "Method"
 }
@@ -20704,31 +21446,31 @@ var contents = {
 "members": {
 "AppName":{
 "files": [
-[282, [211,218,234]],
-[116, [472,484]]
+[295, [211,218,234]],
+[125, [472,484]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetAppStateAsync`0":{
 "files": [
-[116, [501]]
+[125, [501]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestLaunchAsync`1":{
 "files": [
-[282, [213]],
-[116, [474]]
+[295, [213]],
+[125, [474]]
 ],
 "memberKind": "Method"
 }
 ,
 "StopAsync`0":{
 "files": [
-[282, [149]],
-[116, [520]]
+[295, [149]],
+[125, [520]]
 ],
 "memberKind": "Method"
 }
@@ -20739,8 +21481,8 @@ var contents = {
 "members": {
 "Launched":{
 "files": [
-[282, [216]],
-[116, [477]]
+[295, [216]],
+[125, [477]]
 ],
 "memberKind": "Field"
 }
@@ -20751,14 +21493,14 @@ var contents = {
 "members": {
 "NetworkFailure":{
 "files": [
-[116, [505]]
+[125, [505]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
 "files": [
-[116, [511]]
+[125, [511]]
 ],
 "memberKind": "Field"
 }
@@ -20769,7 +21511,7 @@ var contents = {
 "members": {
 "State":{
 "files": [
-[116, [503]]
+[125, [503]]
 ],
 "memberKind": "Property"
 }
@@ -20780,24 +21522,24 @@ var contents = {
 "members": {
 "NetworkFailure":{
 "files": [
-[282, [162]],
-[116, [530]]
+[295, [162]],
+[125, [530]]
 ],
 "memberKind": "Field"
 }
 ,
 "StopFailed":{
 "files": [
-[282, [162]],
-[116, [530]]
+[295, [162]],
+[125, [530]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
 "files": [
-[282, [151]],
-[116, [522]]
+[295, [151]],
+[125, [522]]
 ],
 "memberKind": "Field"
 }
@@ -20808,30 +21550,30 @@ var contents = {
 "members": {
 "FromIdAsync`1":{
 "files": [
-[282, [140]],
-[116, [452]]
+[295, [140]],
+[125, [452]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`1":{
 "files": [
-[264, [73]]
+[275, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDialApp`1":{
 "files": [
-[282, [144,201]],
-[116, [463]]
+[295, [144,201]],
+[125, [463]]
 ],
 "memberKind": "Method"
 }
 ,
 "Id":{
 "files": [
-[282, [140,220]]
+[295, [140,220]]
 ],
 "memberKind": "Property"
 }
@@ -20842,28 +21584,28 @@ var contents = {
 "members": {
 "Connected":{
 "files": [
-[282, [98,229]]
+[295, [98,229]]
 ],
 "memberKind": "Field"
 }
 ,
 "Connecting":{
 "files": [
-[282, [142,196]]
+[295, [142,196]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disconnected":{
 "files": [
-[282, [155]]
+[295, [155]]
 ],
 "memberKind": "Field"
 }
 ,
 "Error":{
 "files": [
-[282, [166,207,235]]
+[295, [166,207,235]]
 ],
 "memberKind": "Field"
 }
@@ -20874,56 +21616,56 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[282, [64]]
+[295, [64]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DialDevicePickerDismissed":{
 "files": [
-[282, [77]]
+[295, [77]]
 ],
 "memberKind": "Event"
 }
 ,
 "DialDeviceSelected":{
 "files": [
-[282, [71]]
+[295, [71]]
 ],
 "memberKind": "Event"
 }
 ,
 "DisconnectButtonClicked":{
 "files": [
-[282, [74]]
+[295, [74]]
 ],
 "memberKind": "Event"
 }
 ,
 "Filter":{
 "files": [
-[282, [68]]
+[295, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "Hide`0":{
 "files": [
-[282, [158,230]]
+[295, [158,230]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetDisplayStatus`2":{
 "files": [
-[282, [98,142,155,166,196,207,229,235]]
+[295, [98,142,155,166,196,207,229,235]]
 ],
 "memberKind": "Method"
 }
 ,
 "Show`1":{
 "files": [
-[282, [93]]
+[295, [93]]
 ],
 "memberKind": "Method"
 }
@@ -20934,7 +21676,7 @@ var contents = {
 "members": {
 "SupportedAppNames":{
 "files": [
-[282, [68]]
+[295, [68]]
 ],
 "memberKind": "Property"
 }
@@ -20945,7 +21687,7 @@ var contents = {
 "members": {
 "SelectedDialDevice":{
 "files": [
-[282, [196,201,207,219,220,235]]
+[295, [196,201,207,219,220,235]]
 ],
 "memberKind": "Property"
 }
@@ -20956,7 +21698,7 @@ var contents = {
 "members": {
 "Device":{
 "files": [
-[282, [140,155,166]]
+[295, [140,155,166]]
 ],
 "memberKind": "Property"
 }
@@ -20971,7 +21713,7 @@ var contents = {
 "members": {
 "CreateFromFileAsync`1":{
 "files": [
-[559, [85]]
+[580, [85]]
 ],
 "memberKind": "Method"
 }
@@ -20982,10 +21724,10 @@ var contents = {
 "members": {
 "CreateFromFileAsync`1":{
 "files": [
-[413, [86]],
-[560, [85,86]],
-[559, [68]],
-[460, [83,87]]
+[430, [86]],
+[581, [85,86]],
+[580, [68]],
+[477, [83,87]]
 ],
 "memberKind": "Method"
 }
@@ -20996,51 +21738,51 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[413, [91]],
-[560, [88]],
-[559, [69]],
-[460, [84]]
+[430, [91]],
+[581, [88]],
+[580, [69]],
+[477, [84]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "BackgroundAudioTracks":{
 "files": [
-[559, [86]]
+[580, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "Clips":{
 "files": [
-[413, [92]],
-[560, [89,90]],
-[559, [70]],
-[460, [85]]
+[430, [92]],
+[581, [89,90]],
+[580, [70]],
+[477, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "GeneratePreviewMediaStreamSource`2":{
 "files": [
-[413, [94]],
-[560, [94]],
-[559, [90]],
-[460, [107]]
+[430, [94]],
+[581, [94]],
+[580, [90]],
+[477, [107]]
 ],
 "memberKind": "Method"
 }
 ,
 "OverlayLayers":{
 "files": [
-[460, [103]]
+[477, [103]]
 ],
 "memberKind": "Property"
 }
 ,
 "RenderToFileAsync`1":{
 "files": [
-[413, [113]]
+[430, [113]]
 ],
 "memberKind": "Method"
 }
@@ -21051,21 +21793,21 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[460, [97]]
+[477, [97]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Opacity":{
 "files": [
-[460, [99]]
+[477, [99]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[460, [98]]
+[477, [98]]
 ],
 "memberKind": "Property"
 }
@@ -21076,14 +21818,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[460, [101]]
+[477, [101]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Overlays":{
 "files": [
-[460, [102]]
+[477, [102]]
 ],
 "memberKind": "Property"
 }
@@ -21094,7 +21836,7 @@ var contents = {
 "members": {
 "Precise":{
 "files": [
-[413, [113]]
+[430, [113]]
 ],
 "memberKind": "Field"
 }
@@ -21109,7 +21851,7 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[420, [174]]
+[437, [174]]
 ],
 "memberKind": "Constructor"
 }
@@ -21120,14 +21862,14 @@ var contents = {
 "members": {
 "InputFrame":{
 "files": [
-[547, [73]]
+[564, [73]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutputFrame":{
 "files": [
-[547, [74]]
+[564, [74]]
 ],
 "memberKind": "Property"
 }
@@ -21142,9 +21884,9 @@ var contents = {
 "members": {
 "FaceBox":{
 "files": [
-[538, [106,107,108,112]],
-[192, [287,288,289,293]],
-[193, [310,311,315]]
+[555, [106,107,108,112]],
+[202, [287,288,289,293]],
+[203, [310,311,315]]
 ],
 "memberKind": "Property"
 }
@@ -21155,25 +21897,25 @@ var contents = {
 "members": {
 "CreateAsync`0":{
 "files": [
-[538, [225]],
-[192, [119]]
+[555, [225]],
+[202, [119]]
 ],
 "memberKind": "Method"
 }
 ,
 "DetectFacesAsync`1":{
 "files": [
-[538, [226]],
-[192, [235]]
+[555, [226]],
+[202, [235]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsBitmapPixelFormatSupported`1":{
 "files": [
-[538, [211]],
-[192, [233]],
-[193, [260]]
+[555, [211]],
+[202, [233]],
+[203, [260]]
 ],
 "memberKind": "Method"
 }
@@ -21184,14 +21926,14 @@ var contents = {
 "members": {
 "CreateAsync`0":{
 "files": [
-[193, [127]]
+[203, [127]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProcessNextFrameAsync`1":{
 "files": [
-[193, [262]]
+[203, [262]]
 ],
 "memberKind": "Method"
 }
@@ -21467,7 +22209,7 @@ var contents = {
 "members": {
 "Thumbnail":{
 "files": [
-[561, [57]]
+[582, [57]]
 ],
 "memberKind": "Property"
 }
@@ -21716,14 +22458,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[562, [34]]
+[583, [34]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "RegisterSchemeHandler`2":{
 "files": [
-[562, [35]]
+[583, [35]]
 ],
 "memberKind": "Method"
 }
@@ -21734,21 +22476,21 @@ var contents = {
 "members": {
 "List":{
 "files": [
-[548, [228]]
+[565, [228]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[548, [224]]
+[565, [224]]
 ],
 "memberKind": "Field"
 }
 ,
 "Track":{
 "files": [
-[548, [232]]
+[565, [232]]
 ],
 "memberKind": "Field"
 }
@@ -21759,43 +22501,43 @@ var contents = {
 "members": {
 "Changing":{
 "files": [
-[80, [383,395,478]]
+[82, [383,395,478]]
 ],
 "memberKind": "Field"
 }
 ,
 "Closed":{
 "files": [
-[563, [48]],
-[80, [417]],
-[548, [182,470]]
+[584, [48]],
+[82, [417]],
+[565, [182,470]]
 ],
 "memberKind": "Field"
 }
 ,
 "Paused":{
 "files": [
-[563, [74]],
-[80, [413]],
-[548, [488]]
+[584, [74]],
+[82, [413]],
+[565, [488]]
 ],
 "memberKind": "Field"
 }
 ,
 "Playing":{
 "files": [
-[563, [65]],
-[80, [201,409]],
-[548, [492]]
+[584, [65]],
+[82, [201,409]],
+[565, [492]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
 "files": [
-[563, [83]],
-[80, [195]],
-[548, [496]]
+[584, [83]],
+[82, [195]],
+[565, [496]]
 ],
 "memberKind": "Field"
 }
@@ -21806,29 +22548,29 @@ var contents = {
 "members": {
 "Image":{
 "files": [
-[548, [631]]
+[565, [631]]
 ],
 "memberKind": "Field"
 }
 ,
 "Music":{
 "files": [
-[80, [202]],
-[548, [623]]
+[82, [202]],
+[565, [623]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[548, [618,649]]
+[565, [618,649]]
 ],
 "memberKind": "Field"
 }
 ,
 "Video":{
 "files": [
-[548, [627]]
+[565, [627]]
 ],
 "memberKind": "Field"
 }
@@ -21841,45 +22583,45 @@ var contents = {
 "members": {
 "Bitrate":{
 "files": [
-[564, [66,159]]
+[585, [66,159]]
 ],
 "memberKind": "Property"
 }
 ,
 "BitsPerSample":{
 "files": [
-[564, [64,157]]
+[585, [64,157]]
 ],
 "memberKind": "Property"
 }
 ,
 "ChannelCount":{
 "files": [
-[544, [156]],
-[564, [65,158]]
+[561, [156]],
+[585, [65,158]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreatePcm`3":{
 "files": [
-[547, [45,47]]
+[564, [45,47]]
 ],
 "memberKind": "Method"
 }
 ,
 "SampleRate":{
 "files": [
-[544, [111]],
-[547, [67]],
-[564, [67,160]]
+[561, [111]],
+[564, [67]],
+[585, [67,160]]
 ],
 "memberKind": "Property"
 }
 ,
 "Subtype":{
 "files": [
-[547, [46,48]]
+[564, [46,48]]
 ],
 "memberKind": "Property"
 }
@@ -21890,7 +22632,7 @@ var contents = {
 "members": {
 "High":{
 "files": [
-[298, [125,127,129]]
+[311, [125,127,129]]
 ],
 "memberKind": "Field"
 }
@@ -21901,11 +22643,26 @@ var contents = {
 "members": {
 "CreateJpeg`0":{
 "files": [
-[194, [489]],
-[196, [519,582]],
-[197, [409]]
+[204, [470]],
+[206, [501,564]],
+[568, [140]],
+[207, [391]]
 ],
 "memberKind": "Method"
+}
+,
+"Height":{
+"files": [
+[586, [66]]
+],
+"memberKind": "Property"
+}
+,
+"Width":{
+"files": [
+[586, [49]]
+],
+"memberKind": "Property"
 }
 }
 }
@@ -21914,12 +22671,19 @@ var contents = {
 "members": {
 "Properties":{
 "files": [
-[194, [393]],
-[195, [328]],
-[196, [430]],
-[197, [360]],
-[198, [405]],
-[201, [468]]
+[204, [381]],
+[205, [317]],
+[206, [419]],
+[207, [349]],
+[208, [394]],
+[211, [468]]
+],
+"memberKind": "Property"
+}
+,
+"Subtype":{
+"files": [
+[586, [110,114]]
 ],
 "memberKind": "Property"
 }
@@ -21930,82 +22694,83 @@ var contents = {
 "members": {
 "Audio":{
 "files": [
-[564, [64,65,66,67,157,158,159,160]],
-[281, [199]],
-[426, [317]]
+[585, [64,65,66,67,157,158,159,160]],
+[294, [199]],
+[443, [317]]
 ],
 "memberKind": "Property"
 }
 ,
 "Container":{
 "files": [
-[426, [318]],
-[565, [153]]
+[443, [318]],
+[587, [153]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateAvi`1":{
 "files": [
-[566, [163]],
-[500, [181]]
+[588, [163]],
+[517, [181]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateMp3`1":{
 "files": [
-[298, [127]]
+[311, [127]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateMp4`1":{
 "files": [
-[194, [517]],
-[197, [437]],
-[198, [328]],
-[566, [169]],
-[564, [59,143]],
-[500, [187]],
-[426, [316]],
-[565, [149]]
+[204, [499]],
+[569, [145]],
+[207, [420]],
+[208, [324]],
+[588, [169]],
+[585, [59,143]],
+[517, [187]],
+[443, [316]],
+[587, [149]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateWav`1":{
 "files": [
-[298, [129]]
+[311, [129]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateWma`1":{
 "files": [
-[298, [125]]
+[311, [125]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateWmv`1":{
 "files": [
-[566, [166]],
-[564, [147]],
-[500, [184]]
+[588, [166]],
+[585, [147]],
+[517, [184]]
 ],
 "memberKind": "Method"
 }
 ,
 "Video":{
 "files": [
-[194, [521]],
-[197, [441]],
-[198, [493,510,515,548,571]],
-[564, [60,61,62,63,152,153,154,155,156]],
-[281, [199]],
-[426, [321,322]],
-[565, [151,152]]
+[204, [503]],
+[207, [424]],
+[208, [475,492,497,530,553]],
+[585, [60,61,62,63,152,153,154,155,156]],
+[294, [199]],
+[443, [321,322]],
+[587, [151,152]]
 ],
 "memberKind": "Property"
 }
@@ -22016,7 +22781,7 @@ var contents = {
 "members": {
 "Float":{
 "files": [
-[547, [46,48]]
+[564, [46,48]]
 ],
 "memberKind": "Property"
 }
@@ -22027,16 +22792,18 @@ var contents = {
 "members": {
 "Denominator":{
 "files": [
-[564, [156]],
-[565, [152]]
+[586, [83]],
+[585, [156]],
+[587, [152]]
 ],
 "memberKind": "Property"
 }
 ,
 "Numerator":{
 "files": [
-[564, [63,155]],
-[565, [151]]
+[586, [83]],
+[585, [63,155]],
+[587, [151]]
 ],
 "memberKind": "Property"
 }
@@ -22047,58 +22814,61 @@ var contents = {
 "members": {
 "Bitrate":{
 "files": [
-[564, [62,154]]
+[585, [62,154]]
 ],
 "memberKind": "Property"
 }
 ,
 "FrameRate":{
 "files": [
-[564, [63,155,156]],
-[565, [151,152]]
+[586, [83]],
+[585, [63,155,156]],
+[587, [151,152]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[192, [228]],
-[193, [255]],
-[194, [1001,1004,1010,1041,1047,1052]],
-[195, [371]],
-[564, [61,153]],
-[201, [172,177]],
-[426, [322]]
+[202, [228]],
+[203, [255]],
+[204, [977,980,986,1017,1023,1028]],
+[205, [353]],
+[586, [70]],
+[585, [61,153]],
+[211, [172,177]],
+[443, [322]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[194, [521]],
-[197, [441]],
-[198, [571]]
+[204, [503]],
+[207, [424]],
+[208, [553]]
 ],
 "memberKind": "Property"
 }
 ,
 "Subtype":{
 "files": [
-[426, [119]]
+[443, [119]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[192, [228]],
-[193, [255]],
-[194, [1001,1003,1009,1041,1046,1053]],
-[195, [371]],
-[564, [60,152]],
-[201, [171,178]],
-[281, [163,164]],
-[426, [118,321]]
+[202, [228]],
+[203, [255]],
+[204, [977,979,985,1017,1022,1029]],
+[205, [353]],
+[586, [53]],
+[585, [60,152]],
+[211, [171,178]],
+[294, [163,164]],
+[443, [118,321]]
 ],
 "memberKind": "Property"
 }
@@ -22109,68 +22879,69 @@ var contents = {
 "members": {
 "Auto":{
 "files": [
-[194, [517]],
-[197, [437]],
-[198, [328]]
+[204, [499]],
+[569, [145]],
+[207, [420]],
+[208, [324]]
 ],
 "memberKind": "Field"
 }
 ,
 "HD1080p":{
 "files": [
-[566, [138]],
-[500, [156]]
+[588, [138]],
+[517, [156]]
 ],
 "memberKind": "Field"
 }
 ,
 "HD720p":{
 "files": [
-[566, [141]],
-[500, [159]]
+[588, [141]],
+[517, [159]]
 ],
 "memberKind": "Field"
 }
 ,
 "Ntsc":{
 "files": [
-[566, [147]],
-[500, [165]]
+[588, [147]],
+[517, [165]]
 ],
 "memberKind": "Field"
 }
 ,
 "Pal":{
 "files": [
-[566, [150]],
-[500, [168]]
+[588, [150]],
+[517, [168]]
 ],
 "memberKind": "Field"
 }
 ,
 "Qvga":{
 "files": [
-[566, [156]],
-[500, [174]],
-[565, [149]]
+[588, [156]],
+[517, [174]],
+[587, [149]]
 ],
 "memberKind": "Field"
 }
 ,
 "Vga":{
 "files": [
-[566, [153]],
-[500, [171]],
-[426, [316]]
+[588, [153]],
+[517, [171]],
+[443, [316]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wvga":{
 "files": [
-[566, [134,144]],
-[564, [59,143,147]],
-[500, [152,162]]
+[588, [134,144]],
+[585, [59,143,147]],
+[517, [152,162]]
 ],
 "memberKind": "Field"
 }
@@ -22183,7 +22954,7 @@ var contents = {
 "members": {
 "Title":{
 "files": [
-[80, [196,203]]
+[82, [196,203]]
 ],
 "memberKind": "Property"
 }
@@ -22196,52 +22967,52 @@ var contents = {
 "members": {
 "AvailableRecognizerLanguages":{
 "files": [
-[162, [67,69,326]]
+[172, [67,69,326]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsLanguageSupported`1":{
 "files": [
-[201, [85]]
+[211, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "MaxImageDimension":{
 "files": [
-[162, [163,167]]
+[172, [163,167]]
 ],
 "memberKind": "Property"
 }
 ,
 "RecognizeAsync`1":{
 "files": [
-[201, [203]],
-[162, [191]]
+[211, [203]],
+[172, [191]]
 ],
 "memberKind": "Method"
 }
 ,
 "RecognizerLanguage":{
 "files": [
-[201, [262]],
-[162, [250]]
+[211, [262]],
+[172, [250]]
 ],
 "memberKind": "Property"
 }
 ,
 "TryCreateFromLanguage`1":{
 "files": [
-[201, [190]],
-[162, [185]]
+[211, [190]],
+[172, [185]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryCreateFromUserProfileLanguages`0":{
 "files": [
-[162, [179]]
+[172, [179]]
 ],
 "memberKind": "Method"
 }
@@ -22252,7 +23023,7 @@ var contents = {
 "members": {
 "BoundingRect":{
 "files": [
-[463, [49,55]]
+[480, [49,55]]
 ],
 "memberKind": "Property"
 }
@@ -22267,43 +23038,43 @@ var contents = {
 "members": {
 "Current":{
 "files": [
-[191, [196,200,318,333,335,362,364,366,368,370,401,402,403,404,405,437,446]],
-[80, [96,113,160,254,305,321,324,337,343,387,399,482,515,518]]
+[201, [196,200,318,333,335,362,364,366,368,370,401,402,403,404,405,437,446]],
+[82, [96,113,160,254,305,321,324,337,343,387,399,482,515,518]]
 ],
 "memberKind": "Property"
 }
 ,
 "MessageReceivedFromBackground":{
 "files": [
-[191, [438,447]]
+[201, [438,447]]
 ],
 "memberKind": "Event"
 }
 ,
 "MessageReceivedFromForeground":{
 "files": [
-[80, [116,172]]
+[82, [116,172]]
 ],
 "memberKind": "Event"
 }
 ,
 "SendMessageToBackground`1":{
 "files": [
-[421, [56]]
+[438, [56]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendMessageToForeground`1":{
 "files": [
-[421, [48]]
+[438, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "Shutdown`0":{
 "files": [
-[80, [176]]
+[82, [176]]
 ],
 "memberKind": "Method"
 }
@@ -22314,7 +23085,7 @@ var contents = {
 "members": {
 "NewItem":{
 "files": [
-[80, [313,360]]
+[82, [313,360]]
 ],
 "memberKind": "Property"
 }
@@ -22325,7 +23096,7 @@ var contents = {
 "members": {
 "SelectedIndex":{
 "files": [
-[555, [56]]
+[576, [56]]
 ],
 "memberKind": "Property"
 }
@@ -22336,49 +23107,49 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[80, [511]],
-[552, [32]],
-[553, [62]],
-[554, [40]],
-[555, [40]],
-[449, [97]]
+[82, [511]],
+[573, [32]],
+[574, [62]],
+[575, [40]],
+[576, [40]],
+[466, [97]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AudioTracks":{
 "files": [
-[555, [56,58,59,60]]
+[576, [56,58,59,60]]
 ],
 "memberKind": "Property"
 }
 ,
 "Source":{
 "files": [
-[80, [78,203,205,369]]
+[82, [78,203,205,369]]
 ],
 "memberKind": "Property"
 }
 ,
 "TimedMetadataTracks":{
 "files": [
-[552, [38,41]],
-[553, [67]]
+[573, [38,41]],
+[574, [67]]
 ],
 "memberKind": "Property"
 }
 ,
 "TimedMetadataTracksChanged":{
 "files": [
-[552, [35]],
-[553, [65]]
+[573, [35]],
+[574, [65]]
 ],
 "memberKind": "Event"
 }
 ,
 "VideoTracks":{
 "files": [
-[554, [56,58,59]]
+[575, [56,58,59]]
 ],
 "memberKind": "Property"
 }
@@ -22389,64 +23160,64 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[80, [57,501]],
-[449, [39]]
+[82, [57,501]],
+[466, [39]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AutoRepeatEnabled":{
 "files": [
-[80, [502]],
-[449, [106]]
+[82, [502]],
+[466, [106]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentItem":{
 "files": [
-[80, [70]],
-[449, [113]]
+[82, [70]],
+[466, [113]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentItemChanged":{
 "files": [
-[80, [167,316,327,521]],
-[449, [103]]
+[82, [167,316,327,521]],
+[466, [103]]
 ],
 "memberKind": "Event"
 }
 ,
 "Items":{
 "files": [
-[80, [295,313,476,511]],
-[449, [99,114,156]]
+[82, [295,313,476,511]],
+[466, [99,114,156]]
 ],
 "memberKind": "Property"
 }
 ,
 "MoveNext`0":{
 "files": [
-[80, [396]],
-[449, [198]]
+[82, [396]],
+[466, [198]]
 ],
 "memberKind": "Method"
 }
 ,
 "MovePrevious`0":{
 "files": [
-[80, [384]],
-[449, [170]]
+[82, [384]],
+[466, [170]]
 ],
 "memberKind": "Method"
 }
 ,
 "MoveTo`1":{
 "files": [
-[80, [302,331,479]],
-[449, [156]]
+[82, [302,331,479]],
+[466, [156]]
 ],
 "memberKind": "Method"
 }
@@ -22457,8 +23228,8 @@ var contents = {
 "members": {
 "SetPresentationMode`2":{
 "files": [
-[552, [41]],
-[553, [67]]
+[573, [41]],
+[574, [67]]
 ],
 "memberKind": "Method"
 }
@@ -22469,7 +23240,7 @@ var contents = {
 "members": {
 "SelectedIndex":{
 "files": [
-[554, [56]]
+[575, [56]]
 ],
 "memberKind": "Property"
 }
@@ -22480,67 +23251,67 @@ var contents = {
 "members": {
 "AutoPlay":{
 "files": [
-[80, [515]]
+[82, [515]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentState":{
 "files": [
-[191, [196,200,246,318,333,362,366,370]],
-[80, [407,411,415]]
+[201, [196,200,246,318,333,362,366,370]],
+[82, [407,411,415]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentStateChanged":{
 "files": [
-[191, [437,446]],
-[80, [113]]
+[201, [437,446]],
+[82, [113]]
 ],
 "memberKind": "Event"
 }
 ,
 "Pause`0":{
 "files": [
-[191, [364]],
-[80, [254]]
+[201, [364]],
+[82, [254]]
 ],
 "memberKind": "Method"
 }
 ,
 "Play`0":{
 "files": [
-[191, [335,368]],
-[80, [305,324,337,343,387,399,482]]
+[201, [335,368]],
+[82, [305,324,337,343,387,399,482]]
 ],
 "memberKind": "Method"
 }
 ,
 "PlaybackRate":{
 "files": [
-[191, [401,402,403,404,405]]
+[201, [401,402,403,404,405]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[80, [160,321]]
+[82, [160,321]]
 ],
 "memberKind": "Property"
 }
 ,
 "Source":{
 "files": [
-[80, [518]]
+[82, [518]]
 ],
 "memberKind": "Property"
 }
 ,
 "SystemMediaTransportControls":{
 "files": [
-[80, [96]]
+[82, [96]]
 ],
 "memberKind": "Property"
 }
@@ -22551,8 +23322,8 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[191, [263,299]],
-[80, [429,439,447,456,465,474,487]]
+[201, [263,299]],
+[82, [429,439,447,456,465,474,487]]
 ],
 "memberKind": "Property"
 }
@@ -22563,24 +23334,24 @@ var contents = {
 "members": {
 "Closed":{
 "files": [
-[191, [318,370]],
-[80, [415]]
+[201, [318,370]],
+[82, [415]]
 ],
 "memberKind": "Field"
 }
 ,
 "Paused":{
 "files": [
-[191, [333,366]],
-[80, [411]]
+[201, [333,366]],
+[82, [411]]
 ],
 "memberKind": "Field"
 }
 ,
 "Playing":{
 "files": [
-[191, [362,422]],
-[80, [407]]
+[201, [362,422]],
+[82, [407]]
 ],
 "memberKind": "Field"
 }
@@ -22591,8 +23362,8 @@ var contents = {
 "members": {
 "PlatformPresented":{
 "files": [
-[552, [41]],
-[553, [67]]
+[573, [41]],
+[574, [67]]
 ],
 "memberKind": "Field"
 }
@@ -22605,7 +23376,7 @@ var contents = {
 "members": {
 "RequestedPlaybackPosition":{
 "files": [
-[548, [279,280,286]]
+[565, [279,280,286]]
 ],
 "memberKind": "Property"
 }
@@ -22616,7 +23387,7 @@ var contents = {
 "members": {
 "RequestedPlaybackRate":{
 "files": [
-[548, [304,306]]
+[565, [304,306]]
 ],
 "memberKind": "Property"
 }
@@ -22629,39 +23400,39 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[567, [44]]
+[589, [44]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Files":{
 "files": [
-[567, [48]],
-[568, [44,46]],
-[569, [67]],
-[570, [43,45]],
-[571, [43]]
+[589, [48]],
+[590, [44,46]],
+[591, [67]],
+[592, [43,45]],
+[593, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "LoadAsync`1":{
 "files": [
-[572, [79]]
+[594, [79]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveAsAsync`3":{
 "files": [
-[567, [58]]
+[589, [58]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveAsync`0":{
 "files": [
-[572, [92]]
+[594, [92]]
 ],
 "memberKind": "Method"
 }
@@ -22672,7 +23443,7 @@ var contents = {
 "members": {
 "WindowsMedia":{
 "files": [
-[567, [54]]
+[589, [54]]
 ],
 "memberKind": "Field"
 }
@@ -22687,14 +23458,14 @@ var contents = {
 "members": {
 "Completion":{
 "files": [
-[419, [155]]
+[436, [155]]
 ],
 "memberKind": "Property"
 }
 ,
 "Information":{
 "files": [
-[419, [146,149,151,152]]
+[436, [146,149,151,152]]
 ],
 "memberKind": "Property"
 }
@@ -22705,7 +23476,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[419, [103]]
+[436, [103]]
 ],
 "memberKind": "Constructor"
 }
@@ -22716,28 +23487,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[419, [101]]
+[436, [101]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ComponentLoadFailed":{
 "files": [
-[419, [103]]
+[436, [103]]
 ],
 "memberKind": "Event"
 }
 ,
 "Properties":{
 "files": [
-[419, [111,115,118]]
+[436, [111,115,118]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceRequested":{
 "files": [
-[419, [104]]
+[436, [104]]
 ],
 "memberKind": "Event"
 }
@@ -22748,7 +23519,7 @@ var contents = {
 "members": {
 "Complete`1":{
 "files": [
-[419, [155,230,281]]
+[436, [155,230,281]]
 ],
 "memberKind": "Method"
 }
@@ -22761,21 +23532,21 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[419, [237]]
+[436, [237]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "BeginServiceRequest`0":{
 "files": [
-[419, [256]]
+[436, [256]]
 ],
 "memberKind": "Method"
 }
 ,
 "NextServiceRequest`0":{
 "files": [
-[419, [273]]
+[436, [273]]
 ],
 "memberKind": "Method"
 }
@@ -22786,35 +23557,35 @@ var contents = {
 "members": {
 "BeginServiceRequest`0":{
 "files": [
-[419, [215]]
+[436, [215]]
 ],
 "memberKind": "Method"
 }
 ,
 "ChallengeCustomData":{
 "files": [
-[419, [178]]
+[436, [178]]
 ],
 "memberKind": "Property"
 }
 ,
 "GenerateManualEnablingChallenge`0":{
 "files": [
-[419, [181]]
+[436, [181]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProcessManualEnablingResponse`1":{
 "files": [
-[419, [202]]
+[436, [202]]
 ],
 "memberKind": "Method"
 }
 ,
 "Uri":{
 "files": [
-[419, [214]]
+[436, [214]]
 ],
 "memberKind": "Property"
 }
@@ -22825,14 +23596,14 @@ var contents = {
 "members": {
 "GetMessageBody`0":{
 "files": [
-[419, [183]]
+[436, [183]]
 ],
 "memberKind": "Method"
 }
 ,
 "MessageHeaders":{
 "files": [
-[419, [186]]
+[436, [186]]
 ],
 "memberKind": "Property"
 }
@@ -22845,7 +23616,7 @@ var contents = {
 "members": {
 "Items":{
 "files": [
-[419, [149,151,152]]
+[436, [149,151,152]]
 ],
 "memberKind": "Property"
 }
@@ -22856,14 +23627,14 @@ var contents = {
 "members": {
 "Completion":{
 "files": [
-[419, [132,137]]
+[436, [132,137]]
 ],
 "memberKind": "Property"
 }
 ,
 "Request":{
 "files": [
-[419, [129,131,134,136]]
+[436, [129,131,134,136]]
 ],
 "memberKind": "Property"
 }
@@ -22874,7 +23645,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[419, [104]]
+[436, [104]]
 ],
 "memberKind": "Constructor"
 }
@@ -22889,12 +23660,12 @@ var contents = {
 "members": {
 "Media":{
 "files": [
-[543, [166]],
-[298, [181]],
-[544, [129]],
-[545, [212]],
-[546, [374]],
-[420, [139]]
+[560, [166]],
+[311, [181]],
+[561, [129]],
+[562, [212]],
+[563, [374]],
+[437, [139]]
 ],
 "memberKind": "Field"
 }
@@ -22907,29 +23678,29 @@ var contents = {
 "members": {
 "Full":{
 "files": [
-[563, [147]],
-[548, [194]]
+[584, [147]],
+[565, [194]]
 ],
 "memberKind": "Field"
 }
 ,
 "Low":{
 "files": [
-[563, [144]],
-[548, [201]]
+[584, [144]],
+[565, [201]]
 ],
 "memberKind": "Field"
 }
 ,
 "Muted":{
 "files": [
-[563, [141,193]],
-[194, [152]],
-[195, [149]],
-[196, [168]],
-[197, [145]],
-[198, [150]],
-[548, [204]]
+[584, [141,193]],
+[204, [152]],
+[205, [149]],
+[206, [168]],
+[207, [145]],
+[208, [150]],
+[565, [204]]
 ],
 "memberKind": "Field"
 }
@@ -22942,9 +23713,9 @@ var contents = {
 "members": {
 "Tag":{
 "files": [
-[177, [336]],
-[178, [331,399]],
-[573, [185]]
+[187, [336]],
+[188, [331,399]],
+[595, [185]]
 ],
 "memberKind": "Property"
 }
@@ -22955,10 +23726,10 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[529, [223,229,244]],
-[177, [310,314]],
-[166, [327]],
-[573, [158,162]]
+[546, [223,229,244]],
+[187, [310,314]],
+[176, [327]],
+[595, [158,162]]
 ],
 "memberKind": "Property"
 }
@@ -22969,10 +23740,10 @@ var contents = {
 "members": {
 "Result":{
 "files": [
-[529, [282,283,285,303]],
-[177, [334,336,341,342,348,359]],
-[166, [344,345,349,353,354]],
-[573, [183,185,190,191,195,204]]
+[546, [282,283,285,303]],
+[187, [334,336,341,342,348,359]],
+[176, [344,345,349,353,354]],
+[595, [183,185,190,191,195,204]]
 ],
 "memberKind": "Property"
 }
@@ -22983,61 +23754,61 @@ var contents = {
 "members": {
 "CancelAsync`0":{
 "files": [
-[529, [197]],
-[177, [288,416]],
-[166, [179,312]],
-[573, [137,266,316,382]]
+[546, [197]],
+[187, [288,416]],
+[176, [179,312]],
+[595, [137,266,316,382]]
 ],
 "memberKind": "Method"
 }
 ,
 "Completed":{
 "files": [
-[529, [154,181,205]],
-[177, [170,255,293]],
-[166, [182,201,250]],
-[573, [89,122,141]]
+[546, [154,181,205]],
+[187, [170,255,293]],
+[176, [182,201,250]],
+[595, [89,122,141]]
 ],
 "memberKind": "Event"
 }
 ,
 "PauseAsync`0":{
 "files": [
-[573, [288,354]]
+[595, [288,354]]
 ],
 "memberKind": "Method"
 }
 ,
 "ResultGenerated":{
 "files": [
-[529, [155,182,206]],
-[177, [171,256,294]],
-[166, [183,202,251]],
-[573, [90,123,142]]
+[546, [155,182,206]],
+[187, [171,256,294]],
+[176, [183,202,251]],
+[595, [90,123,142]]
 ],
 "memberKind": "Event"
 }
 ,
 "Resume`0":{
 "files": [
-[573, [320,386]]
+[595, [320,386]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartAsync`0":{
 "files": [
-[529, [349]],
-[177, [391]],
-[166, [292]],
-[573, [238]]
+[546, [349]],
+[187, [391]],
+[176, [292]],
+[595, [238]]
 ],
 "memberKind": "Method"
 }
 ,
 "StopAsync`0":{
 "files": [
-[529, [382]]
+[546, [382]]
 ],
 "memberKind": "Method"
 }
@@ -23048,14 +23819,14 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[529, [172,174]],
-[177, [237]],
-[166, [234]],
-[178, [259]],
-[573, [111,308,374]],
-[179, [193]],
-[180, [165]],
-[167, [231]]
+[546, [172,174]],
+[187, [237]],
+[176, [234]],
+[188, [259]],
+[595, [111,308,374]],
+[189, [193]],
+[190, [165]],
+[177, [231]]
 ],
 "memberKind": "Property"
 }
@@ -23066,38 +23837,38 @@ var contents = {
 "members": {
 "High":{
 "files": [
-[529, [283]],
-[177, [342]],
-[166, [345,385]],
-[573, [191]],
-[167, [403]]
+[546, [283]],
+[187, [342]],
+[176, [345,385]],
+[595, [191]],
+[177, [403]]
 ],
 "memberKind": "Field"
 }
 ,
 "Low":{
 "files": [
-[166, [354,465]],
-[167, [483]]
+[176, [354,465]],
+[177, [483]]
 ],
 "memberKind": "Field"
 }
 ,
 "Medium":{
 "files": [
-[529, [282]],
-[177, [341]],
-[166, [344,386]],
-[573, [190]],
-[167, [404]]
+[546, [282]],
+[187, [341]],
+[176, [344,386]],
+[595, [190]],
+[177, [404]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rejected":{
 "files": [
-[166, [353,464]],
-[167, [482]]
+[176, [353,464]],
+[177, [482]]
 ],
 "memberKind": "Field"
 }
@@ -23108,8 +23879,8 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[166, [229]],
-[167, [226]]
+[176, [229]],
+[177, [226]]
 ],
 "memberKind": "Constructor"
 }
@@ -23120,7 +23891,7 @@ var contents = {
 "members": {
 "Text":{
 "files": [
-[529, [260]]
+[546, [260]]
 ],
 "memberKind": "Property"
 }
@@ -23131,7 +23902,7 @@ var contents = {
 "members": {
 "Hypothesis":{
 "files": [
-[529, [260]]
+[546, [260]]
 ],
 "memberKind": "Property"
 }
@@ -23142,9 +23913,9 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[177, [187,193,199,206,213,220]],
-[178, [205,211,217,224,231,238]],
-[573, [104,105]]
+[187, [187,193,199,206,213,220]],
+[188, [205,211,217,224,231,238]],
+[595, [104,105]]
 ],
 "memberKind": "Constructor"
 }
@@ -23155,21 +23926,21 @@ var contents = {
 "members": {
 "Confidence":{
 "files": [
-[529, [282,283]],
-[177, [341,342,348,359]],
-[166, [344,345,353,354,385,386,464,465]],
-[178, [335,403]],
-[573, [190,191,195,204]],
-[167, [403,404,482,483]]
+[546, [282,283]],
+[187, [341,342,348,359]],
+[176, [344,345,353,354,385,386,464,465]],
+[188, [335,403]],
+[595, [190,191,195,204]],
+[177, [403,404,482,483]]
 ],
 "memberKind": "Property"
 }
 ,
 "Constraint":{
 "files": [
-[177, [334,336]],
-[178, [328,331,396,399]],
-[573, [183,185]]
+[187, [334,336]],
+[188, [328,331,396,399]],
+[595, [183,185]]
 ],
 "memberKind": "Property"
 }
@@ -23184,18 +23955,18 @@ var contents = {
 "SemanticInterpretation":{
 "files": [
 [3, [262]],
-[166, [393,395,400,409,411,416,424,426,431,441]],
-[167, [411,413,418,427,429,434,442,444,449,459]]
+[176, [393,395,400,409,411,416,424,426,431,441]],
+[177, [411,413,418,427,429,434,442,444,449,459]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[178, [325,340,393,408]],
-[179, [235,243,292,300]],
-[180, [207,215,264,272]],
-[167, [300,307,356,363]]
+[188, [325,340,393,408]],
+[189, [235,243,292,300]],
+[190, [207,215,264,272]],
+[177, [300,307,356,363]]
 ],
 "memberKind": "Property"
 }
@@ -23203,12 +23974,12 @@ var contents = {
 "Text":{
 "files": [
 [3, [170]],
-[529, [285,303]],
-[177, [348,359]],
-[178, [335,403]],
-[573, [195,204]],
-[179, [238,295]],
-[180, [210,267]]
+[546, [285,303]],
+[187, [348,359]],
+[188, [335,403]],
+[595, [195,204]],
+[189, [238,295]],
+[190, [210,267]]
 ],
 "memberKind": "Property"
 }
@@ -23219,21 +23990,21 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[529, [172,223]],
-[177, [237,310]],
-[166, [234]],
-[178, [259,325,393]],
-[573, [111,158,308,374]],
-[179, [193,235,292]],
-[180, [165,207,264]],
-[167, [231,300,356]]
+[546, [172,223]],
+[187, [237,310]],
+[176, [234]],
+[188, [259,325,393]],
+[595, [111,158,308,374]],
+[189, [193,235,292]],
+[190, [165,207,264]],
+[177, [231,300,356]]
 ],
 "memberKind": "Field"
 }
 ,
 "TimeoutExceeded":{
 "files": [
-[529, [229]]
+[546, [229]]
 ],
 "memberKind": "Field"
 }
@@ -23244,15 +24015,15 @@ var contents = {
 "members": {
 "Dictation":{
 "files": [
-[529, [169]],
-[179, [184]]
+[546, [169]],
+[189, [184]]
 ],
 "memberKind": "Field"
 }
 ,
 "WebSearch":{
 "files": [
-[180, [154]]
+[190, [154]]
 ],
 "memberKind": "Field"
 }
@@ -23264,8 +24035,8 @@ var contents = {
 "Properties":{
 "files": [
 [3, [262]],
-[166, [393,395,400,409,411,416,424,426,431,441]],
-[167, [411,413,418,427,429,434,442,444,449,459]]
+[176, [393,395,400,409,411,416,424,426,431,441]],
+[177, [411,413,418,427,429,434,442,444,449,459]]
 ],
 "memberKind": "Property"
 }
@@ -23276,9 +24047,9 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[529, [169]],
-[179, [184]],
-[180, [154]]
+[546, [169]],
+[189, [184]],
+[190, [154]]
 ],
 "memberKind": "Constructor"
 }
@@ -23289,190 +24060,190 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[573, [97]]
+[595, [97]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[529, [162]],
-[177, [178]],
-[166, [223]],
-[178, [198]],
-[179, [178]],
-[180, [148]],
-[167, [218]]
+[546, [162]],
+[187, [178]],
+[176, [223]],
+[188, [198]],
+[189, [178]],
+[190, [148]],
+[177, [218]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CompileConstraintsAsync`0":{
 "files": [
-[529, [171]],
-[177, [236]],
-[166, [231]],
-[178, [256]],
-[573, [110,307,373]],
-[179, [186]],
-[180, [162]],
-[167, [228]]
+[546, [171]],
+[187, [236]],
+[176, [231]],
+[188, [256]],
+[595, [110,307,373]],
+[189, [186]],
+[190, [162]],
+[177, [228]]
 ],
 "memberKind": "Method"
 }
 ,
 "Constraints":{
 "files": [
-[529, [170]],
-[177, [186,192,198,205,212,219]],
-[166, [230]],
-[178, [204,210,216,223,230,237]],
-[573, [108,294,301,360,367]],
-[179, [185]],
-[180, [155]],
-[167, [227]]
+[546, [170]],
+[187, [186,192,198,205,212,219]],
+[176, [230]],
+[188, [204,210,216,223,230,237]],
+[595, [108,294,301,360,367]],
+[189, [185]],
+[190, [155]],
+[177, [227]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContinuousRecognitionSession":{
 "files": [
-[529, [154,155,181,182,197,205,206,349,382]],
-[177, [170,171,255,256,288,293,294,391,416]],
-[166, [179,182,183,201,202,250,251,292,312]],
-[573, [89,90,122,123,137,141,142,238,266,288,316,320,354,382,386]]
+[546, [154,155,181,182,197,205,206,349,382]],
+[187, [170,171,255,256,288,293,294,391,416]],
+[176, [179,182,183,201,202,250,251,292,312]],
+[595, [89,90,122,123,137,141,142,238,266,288,316,320,354,382,386]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentLanguage":{
 "files": [
-[529, [127]],
-[177, [137]],
-[166, [146]],
-[178, [132]],
-[179, [117]],
-[180, [316]],
-[167, [144]]
+[546, [127]],
+[187, [137]],
+[176, [146]],
+[188, [132]],
+[189, [117]],
+[190, [316]],
+[177, [144]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[529, [158,210]],
-[177, [173,297]],
-[166, [186,205]],
-[178, [175,192]],
-[573, [93,145]],
-[179, [156,173]],
-[180, [126,143]],
-[167, [184,201]]
+[546, [158,210]],
+[187, [173,297]],
+[176, [186,205]],
+[188, [175,192]],
+[595, [93,145]],
+[189, [156,173]],
+[190, [126,143]],
+[177, [184,201]]
 ],
 "memberKind": "Method"
 }
 ,
 "HypothesisGenerated":{
 "files": [
-[529, [156,183,207]]
+[546, [156,183,207]]
 ],
 "memberKind": "Event"
 }
 ,
 "RecognizeAsync`0":{
 "files": [
-[178, [388]],
-[179, [289]],
-[180, [261]],
-[167, [354]]
+[188, [388]],
+[189, [289]],
+[190, [261]],
+[177, [354]]
 ],
 "memberKind": "Method"
 }
 ,
 "RecognizeWithUIAsync`0":{
 "files": [
-[178, [321]],
-[179, [232]],
-[180, [204]],
-[167, [298]]
+[188, [321]],
+[189, [232]],
+[190, [204]],
+[177, [298]]
 ],
 "memberKind": "Method"
 }
 ,
 "State":{
 "files": [
-[529, [338,377]],
-[177, [387,411]],
-[166, [177,287]],
-[178, [164]],
-[573, [233,261]],
-[179, [145]],
-[180, [115]],
-[167, [173]]
+[546, [338,377]],
+[187, [387,411]],
+[176, [177,287]],
+[188, [164]],
+[595, [233,261]],
+[189, [145]],
+[190, [115]],
+[177, [173]]
 ],
 "memberKind": "Property"
 }
 ,
 "StateChanged":{
 "files": [
-[529, [153,166,208]],
-[177, [169,182,295]],
-[166, [184,203,227]],
-[178, [173,190,201]],
-[573, [91,101,143]],
-[179, [154,171,181]],
-[180, [124,141,151]],
-[167, [182,199,221]]
+[546, [153,166,208]],
+[187, [169,182,295]],
+[176, [184,203,227]],
+[188, [173,190,201]],
+[595, [91,101,143]],
+[189, [154,171,181]],
+[190, [124,141,151]],
+[177, [182,199,221]]
 ],
 "memberKind": "Event"
 }
 ,
 "SupportedGrammarLanguages":{
 "files": [
-[177, [107]],
-[166, [117]],
-[178, [103]],
-[167, [113]]
+[187, [107]],
+[176, [117]],
+[188, [103]],
+[177, [113]]
 ],
 "memberKind": "Property"
 }
 ,
 "SupportedTopicLanguages":{
 "files": [
-[529, [99]],
-[179, [89]],
-[180, [89]]
+[546, [99]],
+[189, [89]],
+[190, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "SystemSpeechLanguage":{
 "files": [
-[529, [89,98]],
-[177, [86,94,106]],
-[166, [93,104,116]],
-[178, [81,89,102]],
-[179, [72,79,88]],
-[180, [72,79,88]],
-[167, [91,99,112]]
+[546, [89,98]],
+[187, [86,94,106]],
+[176, [93,104,116]],
+[188, [81,89,102]],
+[189, [72,79,88]],
+[190, [72,79,88]],
+[177, [91,99,112]]
 ],
 "memberKind": "Property"
 }
 ,
 "Timeouts":{
 "files": [
-[166, [246]],
-[167, [250]]
+[176, [246]],
+[177, [250]]
 ],
 "memberKind": "Property"
 }
 ,
 "UIOptions":{
 "files": [
-[178, [250]],
-[179, [189,190]],
-[180, [158,159]],
-[167, [224]]
+[188, [250]],
+[189, [189,190]],
+[190, [158,159]],
+[177, [224]]
 ],
 "memberKind": "Property"
 }
@@ -23483,14 +24254,14 @@ var contents = {
 "members": {
 "Idle":{
 "files": [
-[529, [338,377]],
-[177, [387,411]],
-[166, [177,287]],
-[178, [164]],
-[573, [233,261]],
-[179, [145]],
-[180, [115]],
-[167, [173]]
+[546, [338,377]],
+[187, [387,411]],
+[176, [177,287]],
+[188, [164]],
+[595, [233,261]],
+[189, [145]],
+[190, [115]],
+[177, [173]]
 ],
 "memberKind": "Field"
 }
@@ -23501,14 +24272,14 @@ var contents = {
 "members": {
 "State":{
 "files": [
-[529, [323]],
-[177, [372]],
-[166, [374]],
-[178, [304]],
-[573, [218]],
-[179, [214]],
-[180, [186]],
-[167, [280]]
+[546, [323]],
+[187, [372]],
+[176, [374]],
+[188, [304]],
+[595, [218]],
+[189, [214]],
+[190, [186]],
+[177, [280]]
 ],
 "memberKind": "Property"
 }
@@ -23519,8 +24290,8 @@ var contents = {
 "members": {
 "EndSilenceTimeout":{
 "files": [
-[166, [246]],
-[167, [250]]
+[176, [246]],
+[177, [250]]
 ],
 "memberKind": "Property"
 }
@@ -23531,18 +24302,18 @@ var contents = {
 "members": {
 "AudiblePrompt":{
 "files": [
-[179, [189]],
-[180, [158]]
+[189, [189]],
+[190, [158]]
 ],
 "memberKind": "Property"
 }
 ,
 "ExampleText":{
 "files": [
-[178, [250]],
-[179, [190]],
-[180, [159]],
-[167, [224]]
+[188, [250]],
+[189, [190]],
+[190, [159]],
+[177, [224]]
 ],
 "memberKind": "Property"
 }
@@ -23557,8 +24328,8 @@ var contents = {
 "members": {
 "ContentType":{
 "files": [
-[181, [71]],
-[182, [70]]
+[191, [71]],
+[192, [70]]
 ],
 "memberKind": "Property"
 }
@@ -23569,46 +24340,46 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[181, [32]],
-[182, [32]]
+[191, [32]],
+[192, [32]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AllVoices":{
 "files": [
-[181, [105]],
-[182, [104]]
+[191, [105]],
+[192, [104]]
 ],
 "memberKind": "Property"
 }
 ,
 "DefaultVoice":{
 "files": [
-[181, [35]],
-[182, [35]]
+[191, [35]],
+[192, [35]]
 ],
 "memberKind": "Property"
 }
 ,
 "SynthesizeSsmlToStreamAsync`1":{
 "files": [
-[181, [67]]
+[191, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "SynthesizeTextToStreamAsync`1":{
 "files": [
-[182, [66]]
+[192, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "Voice":{
 "files": [
-[181, [108,136,157]],
-[182, [107,135]]
+[191, [108,136,157]],
+[192, [107,135]]
 ],
 "memberKind": "Property"
 }
@@ -23619,24 +24390,24 @@ var contents = {
 "members": {
 "DisplayName":{
 "files": [
-[181, [113,115]],
-[182, [112,114]]
+[191, [113,115]],
+[192, [112,114]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[181, [119]],
-[182, [118]]
+[191, [119]],
+[192, [118]]
 ],
 "memberKind": "Property"
 }
 ,
 "Language":{
 "files": [
-[181, [35,115,139,157]],
-[182, [35,114,138]]
+[191, [35,115,139,157]],
+[192, [35,114,138]]
 ],
 "memberKind": "Property"
 }
@@ -23653,88 +24424,88 @@ var contents = {
 "members": {
 "AvailableBitrates":{
 "files": [
-[574, [114,151,152,177,178]]
+[596, [114,151,152,177,178]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateFromUriAsync`1":{
 "files": [
-[574, [63]],
-[575, [67]],
-[419, [83]],
-[558, [89]]
+[596, [63]],
+[597, [67]],
+[436, [83]],
+[579, [89]]
 ],
 "memberKind": "Method"
 }
 ,
 "DesiredMaxBitrate":{
 "files": [
-[574, [185]]
+[596, [185]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredMinBitrate":{
 "files": [
-[574, [160]]
+[596, [160]]
 ],
 "memberKind": "Property"
 }
 ,
 "DownloadBitrateChanged":{
 "files": [
-[574, [77]]
+[596, [77]]
 ],
 "memberKind": "Event"
 }
 ,
 "DownloadCompleted":{
 "files": [
-[575, [77]]
+[597, [77]]
 ],
 "memberKind": "Event"
 }
 ,
 "DownloadFailed":{
 "files": [
-[575, [78]]
+[597, [78]]
 ],
 "memberKind": "Event"
 }
 ,
 "DownloadRequested":{
 "files": [
-[574, [74]],
-[575, [74]]
+[596, [74]],
+[597, [74]]
 ],
 "memberKind": "Event"
 }
 ,
 "InboundBitsPerSecond":{
 "files": [
-[574, [88]]
+[596, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "InboundBitsPerSecondWindow":{
 "files": [
-[574, [202]]
+[596, [202]]
 ],
 "memberKind": "Property"
 }
 ,
 "InitialBitrate":{
 "files": [
-[574, [70,71,131]]
+[596, [70,71,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "PlaybackBitrateChanged":{
 "files": [
-[574, [78]]
+[596, [78]]
 ],
 "memberKind": "Event"
 }
@@ -23745,18 +24516,18 @@ var contents = {
 "members": {
 "MediaSource":{
 "files": [
-[574, [66]],
-[575, [70]],
-[419, [86]]
+[596, [66]],
+[597, [70]],
+[436, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[574, [64,82]],
-[575, [68,82]],
-[419, [84,92]]
+[596, [64,82]],
+[597, [68,82]],
+[436, [84,92]]
 ],
 "memberKind": "Property"
 }
@@ -23767,10 +24538,10 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[574, [64]],
-[575, [68]],
-[419, [84]],
-[558, [90]]
+[596, [64]],
+[597, [68]],
+[436, [84]],
+[579, [90]]
 ],
 "memberKind": "Field"
 }
@@ -23781,7 +24552,7 @@ var contents = {
 "members": {
 "NewValue":{
 "files": [
-[574, [93]]
+[596, [93]]
 ],
 "memberKind": "Property"
 }
@@ -23792,14 +24563,14 @@ var contents = {
 "members": {
 "ResourceType":{
 "files": [
-[575, [101]]
+[597, [101]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResourceUri":{
 "files": [
-[575, [101]]
+[597, [101]]
 ],
 "memberKind": "Property"
 }
@@ -23810,21 +24581,21 @@ var contents = {
 "members": {
 "HttpResponseMessage":{
 "files": [
-[575, [105]]
+[597, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResourceType":{
 "files": [
-[575, [105]]
+[597, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResourceUri":{
 "files": [
-[575, [105]]
+[597, [105]]
 ],
 "memberKind": "Property"
 }
@@ -23835,21 +24606,21 @@ var contents = {
 "members": {
 "ResourceType":{
 "files": [
-[575, [89]]
+[597, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResourceUri":{
 "files": [
-[575, [91]]
+[597, [91]]
 ],
 "memberKind": "Property"
 }
 ,
 "Result":{
 "files": [
-[575, [95]]
+[597, [95]]
 ],
 "memberKind": "Property"
 }
@@ -23860,7 +24631,7 @@ var contents = {
 "members": {
 "ResourceUri":{
 "files": [
-[575, [95]]
+[597, [95]]
 ],
 "memberKind": "Property"
 }
@@ -23871,7 +24642,7 @@ var contents = {
 "members": {
 "NewValue":{
 "files": [
-[574, [98]]
+[596, [98]]
 ],
 "memberKind": "Property"
 }
@@ -23882,7 +24653,7 @@ var contents = {
 "members": {
 "Key":{
 "files": [
-[575, [89]]
+[597, [89]]
 ],
 "memberKind": "Field"
 }
@@ -23897,158 +24668,158 @@ var contents = {
 "members": {
 "AutoRepeatMode":{
 "files": [
-[548, [239]]
+[565, [239]]
 ],
 "memberKind": "Property"
 }
 ,
 "AutoRepeatModeChangeRequested":{
 "files": [
-[548, [121,172]]
+[565, [121,172]]
 ],
 "memberKind": "Event"
 }
 ,
 "ButtonPressed":{
 "files": [
-[563, [44,56]],
-[80, [97,173]],
-[548, [118,167]]
+[584, [44,56]],
+[82, [97,173]],
+[565, [118,167]]
 ],
 "memberKind": "Event"
 }
 ,
 "DisplayUpdater":{
 "files": [
-[80, [196,197,202,203,207,209,211]],
-[548, [666,701,706]]
+[82, [196,197,202,203,207,209,211]],
+[565, [666,701,706]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[563, [42]],
-[194, [62]],
-[195, [57]],
-[196, [59]],
-[197, [57]],
-[198, [57]],
-[548, [140]]
+[584, [42]],
+[204, [62]],
+[205, [57]],
+[206, [59]],
+[207, [57]],
+[208, [57]],
+[565, [140]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
 "files": [
-[80, [99]],
-[548, [148,359]]
+[82, [99]],
+[565, [148,359]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsNextEnabled":{
 "files": [
-[80, [102]],
-[548, [722,727]]
+[82, [102]],
+[565, [722,727]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPauseEnabled":{
 "files": [
-[563, [46]],
-[80, [100]],
-[548, [180]]
+[584, [46]],
+[82, [100]],
+[565, [180]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPlayEnabled":{
 "files": [
-[563, [45]],
-[80, [101]],
-[548, [179]]
+[584, [45]],
+[82, [101]],
+[565, [179]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPreviousEnabled":{
 "files": [
-[80, [103]],
-[548, [733,738]]
+[82, [103]],
+[565, [733,738]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsStopEnabled":{
 "files": [
-[563, [47]],
-[548, [181]]
+[584, [47]],
+[565, [181]]
 ],
 "memberKind": "Property"
 }
 ,
 "PlaybackPositionChangeRequested":{
 "files": [
-[548, [120,171]]
+[565, [120,171]]
 ],
 "memberKind": "Event"
 }
 ,
 "PlaybackRate":{
 "files": [
-[548, [307]]
+[565, [307]]
 ],
 "memberKind": "Property"
 }
 ,
 "PlaybackRateChangeRequested":{
 "files": [
-[548, [119,170]]
+[565, [119,170]]
 ],
 "memberKind": "Event"
 }
 ,
 "PlaybackStatus":{
 "files": [
-[563, [48,65,74,83]],
-[80, [195,201,383,395,409,413,417,478]],
-[548, [182,470,488,492,496]]
+[584, [48,65,74,83]],
+[82, [195,201,383,395,409,413,417,478]],
+[565, [182,470,488,492,496]]
 ],
 "memberKind": "Property"
 }
 ,
 "PropertyChanged":{
 "files": [
-[563, [43,55]],
-[80, [98,174]],
-[194, [697,716]],
-[195, [282]],
-[196, [747,766]],
-[197, [604,623]],
-[198, [751,765]],
-[548, [175]]
+[584, [43,55]],
+[82, [98,174]],
+[204, [673,692]],
+[205, [278]],
+[206, [731,750]],
+[207, [581,600]],
+[208, [735,749]],
+[565, [175]]
 ],
 "memberKind": "Event"
 }
 ,
 "SoundLevel":{
 "files": [
-[563, [190]],
-[194, [152]],
-[195, [149]],
-[196, [168]],
-[197, [145]],
-[198, [150]],
-[548, [192]]
+[584, [190]],
+[204, [152]],
+[205, [149]],
+[206, [168]],
+[207, [145]],
+[208, [150]],
+[565, [192]]
 ],
 "memberKind": "Property"
 }
 ,
 "UpdateTimelineProperties`1":{
 "files": [
-[548, [267]]
+[565, [267]]
 ],
 "memberKind": "Method"
 }
@@ -24059,42 +24830,42 @@ var contents = {
 "members": {
 "Next":{
 "files": [
-[80, [261]],
-[548, [577]]
+[82, [261]],
+[565, [577]]
 ],
 "memberKind": "Field"
 }
 ,
 "Pause":{
 "files": [
-[563, [213]],
-[80, [250]],
-[548, [567]]
+[584, [213]],
+[82, [250]],
+[565, [567]]
 ],
 "memberKind": "Field"
 }
 ,
 "Play":{
 "files": [
-[563, [208]],
-[80, [234]],
-[548, [562]]
+[584, [208]],
+[82, [234]],
+[565, [562]]
 ],
 "memberKind": "Field"
 }
 ,
 "Previous":{
 "files": [
-[80, [265]],
-[548, [583]]
+[82, [265]],
+[565, [583]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stop":{
 "files": [
-[563, [218]],
-[548, [572]]
+[584, [218]],
+[565, [572]]
 ],
 "memberKind": "Field"
 }
@@ -24105,9 +24876,9 @@ var contents = {
 "members": {
 "Button":{
 "files": [
-[563, [206]],
-[80, [232]],
-[548, [560]]
+[584, [206]],
+[82, [232]],
+[565, [560]]
 ],
 "memberKind": "Property"
 }
@@ -24118,43 +24889,43 @@ var contents = {
 "members": {
 "ClearAll`0":{
 "files": [
-[548, [701]]
+[565, [701]]
 ],
 "memberKind": "Method"
 }
 ,
 "CopyFromFileAsync`2":{
 "files": [
-[548, [666]]
+[565, [666]]
 ],
 "memberKind": "Method"
 }
 ,
 "MusicProperties":{
 "files": [
-[80, [196,203]]
+[82, [196,203]]
 ],
 "memberKind": "Property"
 }
 ,
 "Thumbnail":{
 "files": [
-[80, [207,209]]
+[82, [207,209]]
 ],
 "memberKind": "Property"
 }
 ,
 "Type":{
 "files": [
-[80, [202]]
+[82, [202]]
 ],
 "memberKind": "Property"
 }
 ,
 "Update`0":{
 "files": [
-[80, [197,211]],
-[548, [706]]
+[82, [197,211]],
+[565, [706]]
 ],
 "memberKind": "Method"
 }
@@ -24165,13 +24936,13 @@ var contents = {
 "members": {
 "SoundLevel":{
 "files": [
-[563, [188]],
-[194, [148]],
-[195, [145]],
-[196, [164]],
-[197, [141]],
-[198, [146]],
-[548, [189]]
+[584, [188]],
+[204, [148]],
+[205, [145]],
+[206, [164]],
+[207, [141]],
+[208, [146]],
+[565, [189]]
 ],
 "memberKind": "Field"
 }
@@ -24182,13 +24953,13 @@ var contents = {
 "members": {
 "Property":{
 "files": [
-[563, [188]],
-[194, [148]],
-[195, [145]],
-[196, [164]],
-[197, [141]],
-[198, [146]],
-[548, [189]]
+[584, [188]],
+[204, [148]],
+[205, [145]],
+[206, [164]],
+[207, [141]],
+[208, [146]],
+[565, [189]]
 ],
 "memberKind": "Property"
 }
@@ -24199,42 +24970,42 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[548, [252]]
+[565, [252]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "EndTime":{
 "files": [
-[548, [265]]
+[565, [265]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxSeekTime":{
 "files": [
-[548, [264]]
+[565, [264]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinSeekTime":{
 "files": [
-[548, [262]]
+[565, [262]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[548, [263]]
+[565, [263]]
 ],
 "memberKind": "Property"
 }
 ,
 "StartTime":{
 "files": [
-[548, [261]]
+[565, [261]]
 ],
 "memberKind": "Property"
 }
@@ -24247,41 +25018,41 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[566, [39]],
-[564, [36]],
-[500, [40]]
+[588, [39]],
+[585, [36]],
+[517, [40]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "PrepareFileTranscodeAsync`3":{
 "files": [
-[566, [96]],
-[564, [104]],
-[500, [114]]
+[588, [96]],
+[585, [104]],
+[517, [114]]
 ],
 "memberKind": "Method"
 }
 ,
 "TrimStartTime":{
 "files": [
-[500, [105]]
+[517, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "TrimStopTime":{
 "files": [
-[500, [106]]
+[517, [106]]
 ],
 "memberKind": "Property"
 }
 ,
 "VideoProcessingAlgorithm":{
 "files": [
-[566, [100,104]],
-[564, [108,112]],
-[500, [118,122]]
+[588, [100,104]],
+[585, [108,112]],
+[517, [118,122]]
 ],
 "memberKind": "Property"
 }
@@ -24292,18 +25063,18 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[566, [104]],
-[564, [112]],
-[500, [122]]
+[588, [104]],
+[585, [112]],
+[517, [122]]
 ],
 "memberKind": "Field"
 }
 ,
 "MrfCrf444":{
 "files": [
-[566, [100]],
-[564, [108]],
-[500, [118]]
+[588, [100]],
+[585, [108]],
+[517, [118]]
 ],
 "memberKind": "Field"
 }
@@ -24314,26 +25085,26 @@ var contents = {
 "members": {
 "CodecNotFound":{
 "files": [
-[566, [241]],
-[564, [223]],
-[500, [290]]
+[588, [241]],
+[585, [223]],
+[517, [290]]
 ],
 "memberKind": "Field"
 }
 ,
 "InvalidProfile":{
 "files": [
-[566, [244]],
-[564, [226]],
-[500, [293]]
+[588, [244]],
+[585, [226]],
+[517, [293]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[298, [152]],
-[413, [128]]
+[311, [152]],
+[430, [128]]
 ],
 "memberKind": "Field"
 }
@@ -24346,18 +25117,18 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[192, [228]],
-[193, [255]],
-[195, [371]],
-[201, [182]]
+[202, [228]],
+[203, [255]],
+[205, [353]],
+[211, [182]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "SoftwareBitmap":{
 "files": [
-[192, [233,235,244]],
-[193, [260,270]]
+[202, [233,235,244]],
+[203, [260,270]]
 ],
 "memberKind": "Property"
 }
@@ -24374,89 +25145,89 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[576, [150]],
-[228, [133,157]]
+[598, [150]],
+[238, [133,157]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[74, [123]]
+[75, [123]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CompletionGroup":{
 "files": [
-[429, [70]],
-[74, [92]]
+[446, [70]],
+[75, [92]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateDownload`2":{
 "files": [
-[576, [151]],
-[228, [254]],
-[429, [65]],
-[74, [88]]
+[598, [151]],
+[238, [254]],
+[446, [65]],
+[75, [88]]
 ],
 "memberKind": "Method"
 }
 ,
 "FailureTileNotification":{
 "files": [
-[228, [182]]
+[238, [182]]
 ],
 "memberKind": "Property"
 }
 ,
 "FailureToastNotification":{
 "files": [
-[228, [148]]
+[238, [148]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetCurrentDownloadsAsync`0":{
 "files": [
-[576, [81]]
+[598, [81]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCurrentDownloadsForTransferGroupAsync`1":{
 "files": [
-[228, [89]]
+[238, [89]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestUnconstrainedDownloadsAsync`1":{
 "files": [
-[576, [174]]
+[598, [174]]
 ],
 "memberKind": "Method"
 }
 ,
 "SuccessTileNotification":{
 "files": [
-[228, [170]]
+[238, [170]]
 ],
 "memberKind": "Property"
 }
 ,
 "SuccessToastNotification":{
 "files": [
-[228, [141]]
+[238, [141]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransferGroup":{
 "files": [
-[228, [134,158]]
+[238, [134,158]]
 ],
 "memberKind": "Property"
 }
@@ -24467,36 +25238,36 @@ var contents = {
 "members": {
 "BytesReceived":{
 "files": [
-[576, [271,277]]
+[598, [271,277]]
 ],
 "memberKind": "Field"
 }
 ,
 "HasResponseChanged":{
 "files": [
-[576, [286]]
+[598, [286]]
 ],
 "memberKind": "Field"
 }
 ,
 "HasRestarted":{
 "files": [
-[576, [281]]
+[598, [281]]
 ],
 "memberKind": "Field"
 }
 ,
 "Status":{
 "files": [
-[576, [101,208,216,232,240,266]],
-[74, [67]]
+[598, [101,208,216,232,240,266]],
+[75, [67]]
 ],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToReceive":{
 "files": [
-[576, [269,271,278]]
+[598, [269,271,278]]
 ],
 "memberKind": "Field"
 }
@@ -24507,7 +25278,7 @@ var contents = {
 "members": {
 "Parallel":{
 "files": [
-[228, [61]]
+[238, [61]]
 ],
 "memberKind": "Field"
 }
@@ -24518,22 +25289,22 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[74, [115]]
+[75, [115]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Enable`0":{
 "files": [
-[429, [70]],
-[74, [92]]
+[446, [70]],
+[75, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "Trigger":{
 "files": [
-[74, [119]]
+[75, [119]]
 ],
 "memberKind": "Property"
 }
@@ -24544,7 +25315,7 @@ var contents = {
 "members": {
 "Downloads":{
 "files": [
-[74, [45]]
+[75, [45]]
 ],
 "memberKind": "Property"
 }
@@ -24555,14 +25326,14 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[577, [220]]
+[599, [220]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "SetFile`1":{
 "files": [
-[577, [221]]
+[599, [221]]
 ],
 "memberKind": "Method"
 }
@@ -24573,9 +25344,9 @@ var contents = {
 "members": {
 "GetStatus`1":{
 "files": [
-[576, [353]],
-[577, [326]],
-[228, [281]]
+[598, [353]],
+[599, [326]],
+[238, [281]]
 ],
 "memberKind": "Method"
 }
@@ -24586,14 +25357,14 @@ var contents = {
 "members": {
 "CreateGroup`1":{
 "files": [
-[228, [55]]
+[238, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "TransferBehavior":{
 "files": [
-[228, [61]]
+[238, [61]]
 ],
 "memberKind": "Property"
 }
@@ -24604,14 +25375,14 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[576, [184,194]]
+[598, [184,194]]
 ],
 "memberKind": "Field"
 }
 ,
 "High":{
 "files": [
-[576, [189]]
+[598, [189]]
 ],
 "memberKind": "Field"
 }
@@ -24622,28 +25393,28 @@ var contents = {
 "members": {
 "Canceled":{
 "files": [
-[74, [68]]
+[75, [68]]
 ],
 "memberKind": "Field"
 }
 ,
 "Error":{
 "files": [
-[74, [68]]
+[75, [68]]
 ],
 "memberKind": "Field"
 }
 ,
 "PausedByApplication":{
 "files": [
-[576, [232]]
+[598, [232]]
 ],
 "memberKind": "Field"
 }
 ,
 "Running":{
 "files": [
-[576, [208]]
+[598, [208]]
 ],
 "memberKind": "Field"
 }
@@ -24654,35 +25425,35 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[577, [151,225]]
+[599, [151,225]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CreateUpload`2":{
 "files": [
-[577, [154]]
+[599, [154]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateUploadAsync`2":{
 "files": [
-[577, [226]]
+[599, [226]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCurrentUploadsAsync`0":{
 "files": [
-[577, [81]]
+[599, [81]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetRequestHeader`2":{
 "files": [
-[577, [152]]
+[599, [152]]
 ],
 "memberKind": "Method"
 }
@@ -24693,49 +25464,49 @@ var contents = {
 "members": {
 "BytesReceived":{
 "files": [
-[577, [271]]
+[599, [271]]
 ],
 "memberKind": "Field"
 }
 ,
 "BytesSent":{
 "files": [
-[577, [266,270]]
+[599, [266,270]]
 ],
 "memberKind": "Field"
 }
 ,
 "HasResponseChanged":{
 "files": [
-[577, [278]]
+[599, [278]]
 ],
 "memberKind": "Field"
 }
 ,
 "HasRestarted":{
 "files": [
-[577, [273]]
+[599, [273]]
 ],
 "memberKind": "Field"
 }
 ,
 "Status":{
 "files": [
-[577, [100,261]]
+[599, [100,261]]
 ],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToReceive":{
 "files": [
-[577, [271]]
+[599, [271]]
 ],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToSend":{
 "files": [
-[577, [264,266,271]]
+[599, [264,266,271]]
 ],
 "memberKind": "Field"
 }
@@ -24746,76 +25517,76 @@ var contents = {
 "members": {
 "AttachAsync`0":{
 "files": [
-[576, [318]]
+[598, [318]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetResponseInformation`0":{
 "files": [
-[576, [290,321]],
-[74, [73]]
+[598, [290,321]],
+[75, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "Guid":{
 "files": [
-[576, [100,154,211,215,235,239,265,304,330,336,366]]
+[598, [100,154,211,215,235,239,265,304,330,336,366]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pause`0":{
 "files": [
-[576, [210]]
+[598, [210]]
 ],
 "memberKind": "Method"
 }
 ,
 "Priority":{
 "files": [
-[576, [156]]
+[598, [156]]
 ],
 "memberKind": "Property"
 }
 ,
 "Progress":{
 "files": [
-[576, [101,206,230,263]],
-[74, [67]]
+[598, [101,206,230,263]],
+[75, [67]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestedUri":{
 "files": [
-[74, [88]]
+[75, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResultFile":{
 "files": [
-[228, [259,265,294]],
-[74, [88]]
+[238, [259,265,294]],
+[75, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "Resume`0":{
 "files": [
-[576, [234]]
+[598, [234]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartAsync`0":{
 "files": [
-[576, [313]],
-[228, [263]],
-[429, [66]],
-[74, [89]]
+[598, [313]],
+[238, [263]],
+[446, [66]],
+[75, [89]]
 ],
 "memberKind": "Method"
 }
@@ -24826,17 +25597,17 @@ var contents = {
 "members": {
 "Headers":{
 "files": [
-[576, [291]],
-[577, [281]]
+[598, [291]],
+[599, [281]]
 ],
 "memberKind": "Property"
 }
 ,
 "StatusCode":{
 "files": [
-[576, [324]],
-[577, [309]],
-[74, [74]]
+[598, [324]],
+[599, [309]],
+[75, [74]]
 ],
 "memberKind": "Property"
 }
@@ -24847,7 +25618,7 @@ var contents = {
 "members": {
 "IsUnconstrained":{
 "files": [
-[576, [177]]
+[598, [177]]
 ],
 "memberKind": "Property"
 }
@@ -24858,35 +25629,35 @@ var contents = {
 "members": {
 "AttachAsync`0":{
 "files": [
-[577, [303]]
+[599, [303]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetResponseInformation`0":{
 "files": [
-[577, [281,306]]
+[599, [281,306]]
 ],
 "memberKind": "Method"
 }
 ,
 "Guid":{
 "files": [
-[577, [100,156,235,260,292,308,313,339]]
+[599, [100,156,235,260,292,308,313,339]]
 ],
 "memberKind": "Property"
 }
 ,
 "Progress":{
 "files": [
-[577, [100,258]]
+[599, [100,258]]
 ],
 "memberKind": "Property"
 }
 ,
 "StartAsync`0":{
 "files": [
-[577, [298]]
+[599, [298]]
 ],
 "memberKind": "Method"
 }
@@ -24901,28 +25672,28 @@ var contents = {
 "members": {
 "ApproachingDataLimit":{
 "files": [
-[578, [244,270]]
+[600, [244,270]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkCostType":{
 "files": [
-[578, [223,264,268]]
+[600, [223,264,268]]
 ],
 "memberKind": "Property"
 }
 ,
 "OverDataLimit":{
 "files": [
-[578, [243,270]]
+[600, [243,270]]
 ],
 "memberKind": "Property"
 }
 ,
 "Roaming":{
 "files": [
-[578, [242,260]]
+[600, [242,260]]
 ],
 "memberKind": "Property"
 }
@@ -24933,85 +25704,85 @@ var contents = {
 "members": {
 "GetConnectionCost`0":{
 "files": [
-[578, [166]]
+[600, [166]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDataPlanStatus`0":{
 "files": [
-[578, [170]]
+[600, [170]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDomainConnectivityLevel`0":{
 "files": [
-[578, [152]]
+[600, [152]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNetworkConnectivityLevel`0":{
 "files": [
-[578, [136]]
+[600, [136]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetSignalBars`0":{
 "files": [
-[578, [199,202]]
+[600, [199,202]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsWlanConnectionProfile":{
 "files": [
-[578, [178]]
+[600, [178]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsWwanConnectionProfile":{
 "files": [
-[578, [185]]
+[600, [185]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkSecuritySettings":{
 "files": [
-[578, [174]]
+[600, [174]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProfileName":{
 "files": [
-[260, [615,617]],
-[578, [134]]
+[271, [615,617]],
+[600, [134]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceProviderGuid":{
 "files": [
-[578, [192,195]]
+[600, [192,195]]
 ],
 "memberKind": "Property"
 }
 ,
 "WlanConnectionProfileDetails":{
 "files": [
-[578, [180]]
+[600, [180]]
 ],
 "memberKind": "Property"
 }
 ,
 "WwanConnectionProfileDetails":{
 "files": [
-[578, [187]]
+[600, [187]]
 ],
 "memberKind": "Property"
 }
@@ -25022,42 +25793,42 @@ var contents = {
 "members": {
 "DataLimitInMegabytes":{
 "files": [
-[578, [331]]
+[600, [331]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataPlanUsage":{
 "files": [
-[578, [301,303,304]]
+[600, [301,303,304]]
 ],
 "memberKind": "Property"
 }
 ,
 "InboundBitsPerSecond":{
 "files": [
-[578, [311]]
+[600, [311]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxTransferSizeInMegabytes":{
 "files": [
-[578, [351]]
+[600, [351]]
 ],
 "memberKind": "Property"
 }
 ,
 "NextBillingCycle":{
 "files": [
-[578, [341]]
+[600, [341]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutboundBitsPerSecond":{
 "files": [
-[578, [321]]
+[600, [321]]
 ],
 "memberKind": "Property"
 }
@@ -25068,14 +25839,14 @@ var contents = {
 "members": {
 "LastSyncTime":{
 "files": [
-[578, [304]]
+[600, [304]]
 ],
 "memberKind": "Property"
 }
 ,
 "MegabytesUsed":{
 "files": [
-[578, [303]]
+[600, [303]]
 ],
 "memberKind": "Property"
 }
@@ -25086,21 +25857,21 @@ var contents = {
 "members": {
 "Authenticated":{
 "files": [
-[578, [160]]
+[600, [160]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[578, [154]]
+[600, [154]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unauthenticated":{
 "files": [
-[578, [157]]
+[600, [157]]
 ],
 "memberKind": "Field"
 }
@@ -25111,8 +25882,8 @@ var contents = {
 "members": {
 "NetworkAdapter":{
 "files": [
-[123, [154,362]],
-[127, [140,280]]
+[132, [154,362]],
+[136, [140,280]]
 ],
 "memberKind": "Property"
 }
@@ -25123,26 +25894,26 @@ var contents = {
 "members": {
 "GetConnectedProfileAsync`0":{
 "files": [
-[260, [614]],
-[409, [54]],
-[310, [109]]
+[271, [614]],
+[426, [54]],
+[325, [109]]
 ],
 "memberKind": "Method"
 }
 ,
 "NetworkAdapterId":{
 "files": [
-[123, [159,362]],
-[401, [127]],
-[127, [151,280]],
-[128, [126,139]]
+[132, [159,362]],
+[418, [127]],
+[136, [151,280]],
+[137, [126,139]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkItem":{
 "files": [
-[401, [128]]
+[418, [128]]
 ],
 "memberKind": "Property"
 }
@@ -25153,66 +25924,66 @@ var contents = {
 "members": {
 "None":{
 "files": [
-[578, [381]]
+[600, [381]]
 ],
 "memberKind": "Field"
 }
 ,
 "Open80211":{
 "files": [
-[260, [129,644]],
-[578, [387]],
-[409, [36]],
-[310, [161,186]]
+[271, [129,644]],
+[600, [387]],
+[426, [36]],
+[325, [161,186]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rsna":{
 "files": [
-[578, [402]]
+[600, [402]]
 ],
 "memberKind": "Field"
 }
 ,
 "RsnaPsk":{
 "files": [
-[578, [405]]
+[600, [405]]
 ],
 "memberKind": "Field"
 }
 ,
 "SharedKey80211":{
 "files": [
-[578, [390]]
+[600, [390]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[578, [384]]
+[600, [384]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wpa":{
 "files": [
-[578, [393]]
+[600, [393]]
 ],
 "memberKind": "Field"
 }
 ,
 "WpaNone":{
 "files": [
-[578, [399]]
+[600, [399]]
 ],
 "memberKind": "Field"
 }
 ,
 "WpaPsk":{
 "files": [
-[578, [396]]
+[600, [396]]
 ],
 "memberKind": "Field"
 }
@@ -25223,28 +25994,28 @@ var contents = {
 "members": {
 "ConstrainedInternetAccess":{
 "files": [
-[578, [144]]
+[600, [144]]
 ],
 "memberKind": "Field"
 }
 ,
 "InternetAccess":{
 "files": [
-[578, [147]]
+[600, [147]]
 ],
 "memberKind": "Field"
 }
 ,
 "LocalAccess":{
 "files": [
-[578, [141]]
+[600, [141]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[578, [138]]
+[600, [138]]
 ],
 "memberKind": "Field"
 }
@@ -25255,28 +26026,28 @@ var contents = {
 "members": {
 "Fixed":{
 "files": [
-[578, [228,268]]
+[600, [228,268]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[578, [234]]
+[600, [234]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unrestricted":{
 "files": [
-[578, [225]]
+[600, [225]]
 ],
 "memberKind": "Field"
 }
 ,
 "Variable":{
 "files": [
-[578, [231,264]]
+[600, [231,264]]
 ],
 "memberKind": "Field"
 }
@@ -25287,63 +26058,63 @@ var contents = {
 "members": {
 "Ccmp":{
 "files": [
-[578, [435]]
+[600, [435]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[578, [417]]
+[600, [417]]
 ],
 "memberKind": "Field"
 }
 ,
 "RsnUseGroup":{
 "files": [
-[578, [441]]
+[600, [441]]
 ],
 "memberKind": "Field"
 }
 ,
 "Tkip":{
 "files": [
-[578, [432]]
+[600, [432]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[578, [420]]
+[600, [420]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wep":{
 "files": [
-[578, [423]]
+[600, [423]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wep104":{
 "files": [
-[578, [429]]
+[600, [429]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wep40":{
 "files": [
-[578, [426]]
+[600, [426]]
 ],
 "memberKind": "Field"
 }
 ,
 "WpaUseGroup":{
 "files": [
-[578, [438]]
+[600, [438]]
 ],
 "memberKind": "Field"
 }
@@ -25354,16 +26125,16 @@ var contents = {
 "members": {
 "GetHostNames`0":{
 "files": [
-[123, [288]],
-[127, [238]]
+[132, [288]],
+[136, [238]]
 ],
 "memberKind": "Method"
 }
 ,
 "NetworkStatusChanged":{
 "files": [
-[260, [590]],
-[310, [82]]
+[271, [590]],
+[325, [82]]
 ],
 "memberKind": "Event"
 }
@@ -25374,7 +26145,7 @@ var contents = {
 "members": {
 "GetNetworkTypes`0":{
 "files": [
-[401, [128]]
+[418, [128]]
 ],
 "memberKind": "Method"
 }
@@ -25385,18 +26156,18 @@ var contents = {
 "members": {
 "NetworkAuthenticationType":{
 "files": [
-[260, [129,644]],
-[578, [379]],
-[409, [36,112]],
-[310, [161,186]]
+[271, [129,644]],
+[600, [379]],
+[426, [36,112]],
+[325, [161,186]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkEncryptionType":{
 "files": [
-[578, [415]],
-[409, [112]]
+[600, [415]],
+[426, [112]]
 ],
 "memberKind": "Property"
 }
@@ -25407,7 +26178,7 @@ var contents = {
 "members": {
 "GetConnectedSsid`0":{
 "files": [
-[578, [464]]
+[600, [464]]
 ],
 "memberKind": "Method"
 }
@@ -25418,28 +26189,28 @@ var contents = {
 "members": {
 "AccessPointName":{
 "files": [
-[578, [481]]
+[600, [481]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetCurrentDataClass`0":{
 "files": [
-[578, [483]]
+[600, [483]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetNetworkRegistrationState`0":{
 "files": [
-[578, [482]]
+[600, [482]]
 ],
 "memberKind": "Method"
 }
 ,
 "HomeProviderId":{
 "files": [
-[578, [480]]
+[600, [480]]
 ],
 "memberKind": "Property"
 }
@@ -25452,38 +26223,38 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[124, [77]],
-[579, [158,204]],
-[580, [61]],
-[93, [66]],
-[78, [96]],
-[128, [95]],
-[581, [75]]
+[133, [77]],
+[601, [158,204]],
+[602, [61]],
+[99, [66]],
+[80, [96]],
+[137, [95]],
+[603, [75]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CanonicalName":{
 "files": [
-[123, [127,147]],
-[579, [265]],
-[127, [104,133]]
+[132, [127,147]],
+[601, [265]],
+[136, [104,133]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[123, [361]],
-[127, [279]]
+[132, [361]],
+[136, [279]]
 ],
 "memberKind": "Property"
 }
 ,
 "IPInformation":{
 "files": [
-[123, [154,290,355,362]],
-[127, [140,240,273,280]]
+[132, [154,290,355,362]],
+[136, [140,240,273,280]]
 ],
 "memberKind": "Property"
 }
@@ -25496,7 +26267,7 @@ var contents = {
 "members": {
 "Custom":{
 "files": [
-[401, [163]]
+[418, [163]]
 ],
 "memberKind": "Field"
 }
@@ -25507,66 +26278,66 @@ var contents = {
 "members": {
 "AvailableNetworkAccountIds":{
 "files": [
-[401, [76]],
-[578, [81]],
-[582, [79]],
-[583, [54]]
+[418, [76]],
+[600, [81]],
+[604, [79]],
+[605, [54]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateFromNetworkAccountId`1":{
 "files": [
-[584, [109,212]],
-[401, [106]],
-[578, [64]],
-[582, [62]]
+[606, [109,212]],
+[418, [106]],
+[600, [64]],
+[604, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "CurrentDeviceInformation":{
 "files": [
-[584, [216]],
-[401, [148]]
+[606, [216]],
+[418, [148]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentNetwork":{
 "files": [
-[584, [221]],
-[401, [112]],
-[582, [63]]
+[606, [221]],
+[418, [112]],
+[604, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetConnectionProfiles`0":{
 "files": [
-[578, [65]]
+[600, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "NetworkAccountId":{
 "files": [
-[401, [110]]
+[418, [110]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceProviderGuid":{
 "files": [
-[401, [109]]
+[418, [109]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServiceProviderName":{
 "files": [
-[584, [111]],
-[401, [108]]
+[606, [111]],
+[418, [108]]
 ],
 "memberKind": "Property"
 }
@@ -25577,63 +26348,63 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[584, [31]]
+[606, [31]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AccountAdded":{
 "files": [
-[584, [100]]
+[606, [100]]
 ],
 "memberKind": "Event"
 }
 ,
 "AccountRemoved":{
 "files": [
-[584, [139]]
+[606, [139]]
 ],
 "memberKind": "Event"
 }
 ,
 "AccountUpdated":{
 "files": [
-[584, [121]]
+[606, [121]]
 ],
 "memberKind": "Event"
 }
 ,
 "EnumerationCompleted":{
 "files": [
-[584, [156]]
+[606, [156]]
 ],
 "memberKind": "Event"
 }
 ,
 "Start`0":{
 "files": [
-[584, [65]]
+[606, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "Status":{
 "files": [
-[584, [58,59,82,83]]
+[606, [58,59,82,83]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stop`0":{
 "files": [
-[584, [85]]
+[606, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
 "files": [
-[584, [164]]
+[606, [164]]
 ],
 "memberKind": "Event"
 }
@@ -25644,14 +26415,14 @@ var contents = {
 "members": {
 "EnumerationCompleted":{
 "files": [
-[584, [59,83]]
+[606, [59,83]]
 ],
 "memberKind": "Field"
 }
 ,
 "Started":{
 "files": [
-[584, [58,82]]
+[606, [58,82]]
 ],
 "memberKind": "Field"
 }
@@ -25662,138 +26433,138 @@ var contents = {
 "members": {
 "CellularClass":{
 "files": [
-[401, [161,173,181]],
-[585, [58]]
+[418, [161,173,181]],
+[607, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentRadioState":{
 "files": [
-[584, [190]],
-[585, [59]]
+[606, [190]],
+[607, [59]]
 ],
 "memberKind": "Property"
 }
 ,
 "CustomDataClass":{
 "files": [
-[401, [165]],
-[585, [60]]
+[418, [165]],
+[607, [60]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataClasses":{
 "files": [
-[401, [162,163]],
-[585, [61]]
+[418, [162,163]],
+[607, [61]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceId":{
 "files": [
-[584, [189]],
-[401, [104,170]],
-[585, [62]]
+[606, [189]],
+[418, [104,170]],
+[607, [62]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceType":{
 "files": [
-[401, [169]],
-[585, [63]]
+[418, [169]],
+[607, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirmwareInformation":{
 "files": [
-[401, [160]],
-[585, [64]]
+[418, [160]],
+[607, [64]]
 ],
 "memberKind": "Property"
 }
 ,
 "Manufacturer":{
 "files": [
-[401, [158]],
-[585, [65]]
+[418, [158]],
+[607, [65]]
 ],
 "memberKind": "Property"
 }
 ,
 "MobileEquipmentId":{
 "files": [
-[584, [186]],
-[401, [176,184]],
-[585, [66]]
+[606, [186]],
+[418, [176,184]],
+[607, [66]]
 ],
 "memberKind": "Property"
 }
 ,
 "Model":{
 "files": [
-[401, [159]],
-[585, [67]]
+[418, [159]],
+[607, [67]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkDeviceStatus":{
 "files": [
-[584, [185]],
-[401, [171]],
-[585, [68]]
+[606, [185]],
+[418, [171]],
+[607, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "PinManager":{
 "files": [
-[585, [71]]
+[607, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "Revision":{
 "files": [
-[585, [77]]
+[607, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "SerialNumber":{
 "files": [
-[585, [78]]
+[607, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "SimIccId":{
 "files": [
-[584, [188]],
-[401, [168]],
-[585, [79]]
+[606, [188]],
+[418, [168]],
+[607, [79]]
 ],
 "memberKind": "Property"
 }
 ,
 "SubscriberId":{
 "files": [
-[584, [187]],
-[401, [179,187]],
-[585, [80]]
+[606, [187]],
+[418, [179,187]],
+[607, [80]]
 ],
 "memberKind": "Property"
 }
 ,
 "TelephoneNumbers":{
 "files": [
-[401, [153,155]],
-[585, [82]]
+[418, [153,155]],
+[607, [82]]
 ],
 "memberKind": "Property"
 }
@@ -25804,32 +26575,32 @@ var contents = {
 "members": {
 "DeviceInformation":{
 "files": [
-[401, [104]],
-[585, [58,59,60,61,62,63,64,65,66,67,68,71,77,78,79,80,82]]
+[418, [104]],
+[607, [58,59,60,61,62,63,64,65,66,67,68,71,77,78,79,80,82]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeviceServices":{
 "files": [
-[586, [51]]
+[608, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetCurrentConfigurationAsync`0":{
 "files": [
-[587, [53]]
+[609, [53]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDefault`0":{
 "files": [
-[401, [103]],
-[586, [50]],
-[585, [56]],
-[587, [52]]
+[418, [103]],
+[608, [50]],
+[607, [56]],
+[609, [52]]
 ],
 "memberKind": "Method"
 }
@@ -25840,7 +26611,7 @@ var contents = {
 "members": {
 "Uicc":{
 "files": [
-[587, [54]]
+[609, [54]]
 ],
 "memberKind": "Property"
 }
@@ -25851,75 +26622,75 @@ var contents = {
 "members": {
 "AccessPointName":{
 "files": [
-[584, [195]],
-[401, [116]]
+[606, [195]],
+[418, [116]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActivationNetworkError":{
 "files": [
-[584, [204]],
-[401, [125]]
+[606, [204]],
+[418, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkAdapter":{
 "files": [
-[401, [127,128]]
+[418, [127,128]]
 ],
 "memberKind": "Property"
 }
 ,
 "NetworkRegistrationState":{
 "files": [
-[584, [201]],
-[401, [122]]
+[606, [201]],
+[418, [122]]
 ],
 "memberKind": "Property"
 }
 ,
 "PacketAttachNetworkError":{
 "files": [
-[584, [203]],
-[401, [124]]
+[606, [203]],
+[418, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegisteredDataClass":{
 "files": [
-[401, [131]]
+[418, [131]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegisteredProviderId":{
 "files": [
-[401, [129]]
+[418, [129]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegisteredProviderName":{
 "files": [
-[401, [130]]
+[418, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegistrationNetworkError":{
 "files": [
-[584, [202]],
-[401, [123]]
+[606, [202]],
+[418, [123]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowConnectionUI`0":{
 "files": [
-[582, [63]]
+[604, [63]]
 ],
 "memberKind": "Method"
 }
@@ -25930,7 +26701,7 @@ var contents = {
 "members": {
 "SupportedPins":{
 "files": [
-[585, [71]]
+[607, [71]]
 ],
 "memberKind": "Property"
 }
@@ -25941,14 +26712,14 @@ var contents = {
 "members": {
 "GetUiccAppsAsync`0":{
 "files": [
-[587, [61]]
+[609, [61]]
 ],
 "memberKind": "Method"
 }
 ,
 "SimIccId":{
 "files": [
-[587, [58]]
+[609, [58]]
 ],
 "memberKind": "Property"
 }
@@ -25959,21 +26730,21 @@ var contents = {
 "members": {
 "GetRecordDetailsAsync`1":{
 "files": [
-[587, [118]]
+[609, [118]]
 ],
 "memberKind": "Method"
 }
 ,
 "Id":{
 "files": [
-[587, [97]]
+[609, [97]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadRecordAsync`2":{
 "files": [
-[587, [125]]
+[609, [125]]
 ],
 "memberKind": "Method"
 }
@@ -25984,7 +26755,7 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[587, [128]]
+[609, [128]]
 ],
 "memberKind": "Field"
 }
@@ -25995,14 +26766,14 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[587, [131]]
+[609, [131]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[587, [126,128]]
+[609, [126,128]]
 ],
 "memberKind": "Property"
 }
@@ -26013,14 +26784,14 @@ var contents = {
 "members": {
 "Kind":{
 "files": [
-[587, [121]]
+[609, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "RecordSize":{
 "files": [
-[587, [122]]
+[609, [122]]
 ],
 "memberKind": "Property"
 }
@@ -26031,7 +26802,7 @@ var contents = {
 "members": {
 "UiccApps":{
 "files": [
-[587, [63]]
+[609, [63]]
 ],
 "memberKind": "Property"
 }
@@ -26042,21 +26813,21 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[583, [73]]
+[605, [73]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DataCodingScheme":{
 "files": [
-[583, [95]]
+[605, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "PayloadAsText":{
 "files": [
-[583, [82]]
+[605, [82]]
 ],
 "memberKind": "Property"
 }
@@ -26067,14 +26838,14 @@ var contents = {
 "members": {
 "Message":{
 "files": [
-[583, [81]]
+[605, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResultCode":{
 "files": [
-[583, [76]]
+[605, [76]]
 ],
 "memberKind": "Property"
 }
@@ -26085,14 +26856,14 @@ var contents = {
 "members": {
 "ActionRequired":{
 "files": [
-[583, [77,103]]
+[605, [77,103]]
 ],
 "memberKind": "Field"
 }
 ,
 "NoActionRequired":{
 "files": [
-[583, [77]]
+[605, [77]]
 ],
 "memberKind": "Field"
 }
@@ -26103,21 +26874,21 @@ var contents = {
 "members": {
 "Close`0":{
 "files": [
-[583, [105]]
+[605, [105]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFromNetworkAccountId`1":{
 "files": [
-[583, [69]]
+[605, [69]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendMessageAndGetReplyAsync`1":{
 "files": [
-[583, [73]]
+[605, [73]]
 ],
 "memberKind": "Method"
 }
@@ -26132,28 +26903,28 @@ var contents = {
 "members": {
 "GetDefault`0":{
 "files": [
-[588, [143]]
+[610, [143]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetDeviceSelector`0":{
 "files": [
-[264, [66]]
+[275, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "MaxMessageBytes":{
 "files": [
-[588, [200]]
+[610, [200]]
 ],
 "memberKind": "Property"
 }
 ,
 "PublishBinaryMessage`2":{
 "files": [
-[588, [167]]
+[610, [167]]
 ],
 "memberKind": "Method"
 }
@@ -26168,93 +26939,93 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[123, [88]],
-[124, [93]],
-[579, [129]],
-[316, [788,846]]
+[132, [88]],
+[133, [93]],
+[601, [129]],
+[331, [788,846]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "BindEndpointAsync`2":{
 "files": [
-[123, [145]],
-[316, [795]]
+[132, [145]],
+[331, [795]]
 ],
 "memberKind": "Method"
 }
 ,
 "BindServiceNameAsync`1":{
 "files": [
-[123, [139,156]],
-[579, [153]]
+[132, [139,156]],
+[601, [153]]
 ],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`2":{
 "files": [
-[124, [113]],
-[316, [850]]
+[133, [113]],
+[331, [850]]
 ],
 "memberKind": "Method"
 }
 ,
 "Control":{
 "files": [
-[123, [106]],
-[124, [100]],
-[579, [147]]
+[132, [106]],
+[133, [100]],
+[601, [147]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[126, [77,88]],
-[579, [49,177]],
-[316, [1283]]
+[135, [77,88]],
+[601, [49,177]],
+[331, [1283]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetOutputStreamAsync`2":{
 "files": [
-[123, [196]],
-[579, [209]]
+[132, [196]],
+[601, [209]]
 ],
 "memberKind": "Method"
 }
 ,
 "Information":{
 "files": [
-[579, [161,167]],
-[316, [1114]]
+[601, [161,167]],
+[331, [1114]]
 ],
 "memberKind": "Property"
 }
 ,
 "JoinMulticastGroup`1":{
 "files": [
-[579, [158]]
+[601, [158]]
 ],
 "memberKind": "Method"
 }
 ,
 "MessageReceived":{
 "files": [
-[123, [89]],
-[124, [103]],
-[579, [130]],
-[316, [1071,1284]]
+[132, [89]],
+[133, [103]],
+[601, [130]],
+[331, [1071,1284]]
 ],
 "memberKind": "Event"
 }
 ,
 "OutputStream":{
 "files": [
-[125, [75]],
-[316, [1072]]
+[134, [75]],
+[331, [1072]]
 ],
 "memberKind": "Property"
 }
@@ -26265,21 +27036,21 @@ var contents = {
 "members": {
 "DontFragment":{
 "files": [
-[124, [100]]
+[133, [100]]
 ],
 "memberKind": "Property"
 }
 ,
 "InboundBufferSizeInBytes":{
 "files": [
-[123, [106]]
+[132, [106]]
 ],
 "memberKind": "Property"
 }
 ,
 "MulticastOnly":{
 "files": [
-[579, [147]]
+[601, [147]]
 ],
 "memberKind": "Property"
 }
@@ -26290,8 +27061,8 @@ var contents = {
 "members": {
 "LocalPort":{
 "files": [
-[579, [161,167]],
-[316, [1114]]
+[601, [161,167]],
+[331, [1114]]
 ],
 "memberKind": "Property"
 }
@@ -26302,26 +27073,26 @@ var contents = {
 "members": {
 "GetDataReader`0":{
 "files": [
-[123, [254]],
-[124, [138,139]],
-[579, [260,261]],
-[316, [1241]]
+[132, [254]],
+[133, [138,139]],
+[601, [260,261]],
+[331, [1241]]
 ],
 "memberKind": "Method"
 }
 ,
 "RemoteAddress":{
 "files": [
-[123, [197,211,237,246]],
-[579, [265]]
+[132, [197,211,237,246]],
+[601, [265]]
 ],
 "memberKind": "Property"
 }
 ,
 "RemotePort":{
 "files": [
-[123, [198,211,237,247]],
-[579, [267]]
+[132, [198,211,237,247]],
+[601, [267]]
 ],
 "memberKind": "Property"
 }
@@ -26332,56 +27103,56 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[589, [78]]
+[611, [78]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Close`2":{
 "files": [
-[589, [180]]
+[611, [180]]
 ],
 "memberKind": "Method"
 }
 ,
 "Closed":{
 "files": [
-[589, [83]]
+[611, [83]]
 ],
 "memberKind": "Event"
 }
 ,
 "ConnectAsync`1":{
 "files": [
-[589, [88]]
+[611, [88]]
 ],
 "memberKind": "Method"
 }
 ,
 "Control":{
 "files": [
-[589, [79]]
+[611, [79]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[589, [115,213]]
+[611, [115,213]]
 ],
 "memberKind": "Method"
 }
 ,
 "MessageReceived":{
 "files": [
-[589, [80]]
+[611, [80]]
 ],
 "memberKind": "Event"
 }
 ,
 "OutputStream":{
 "files": [
-[589, [89]]
+[611, [89]]
 ],
 "memberKind": "Property"
 }
@@ -26392,7 +27163,7 @@ var contents = {
 "members": {
 "MessageType":{
 "files": [
-[589, [79]]
+[611, [79]]
 ],
 "memberKind": "Property"
 }
@@ -26403,14 +27174,14 @@ var contents = {
 "members": {
 "GetDataReader`0":{
 "files": [
-[589, [147]]
+[611, [147]]
 ],
 "memberKind": "Method"
 }
 ,
 "MessageType":{
 "files": [
-[589, [146]]
+[611, [146]]
 ],
 "memberKind": "Property"
 }
@@ -26421,8 +27192,8 @@ var contents = {
 "members": {
 "Wake":{
 "files": [
-[93, [59]],
-[78, [95]]
+[99, [59]],
+[80, [95]]
 ],
 "memberKind": "Field"
 }
@@ -26433,22 +27204,22 @@ var contents = {
 "members": {
 "AllSockets":{
 "files": [
-[78, [65,92]]
+[80, [65,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[93, [46,55]]
+[99, [46,55]]
 ],
 "memberKind": "Property"
 }
 ,
 "StreamSocket":{
 "files": [
-[93, [40,49]],
-[78, [69]]
+[99, [40,49]],
+[80, [69]]
 ],
 "memberKind": "Property"
 }
@@ -26459,14 +27230,14 @@ var contents = {
 "members": {
 "Reason":{
 "files": [
-[93, [37]]
+[99, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "SocketInformation":{
 "files": [
-[93, [36]]
+[99, [36]]
 ],
 "memberKind": "Property"
 }
@@ -26477,21 +27248,21 @@ var contents = {
 "members": {
 "KeepAliveTimerExpired":{
 "files": [
-[93, [48]]
+[99, [48]]
 ],
 "memberKind": "Field"
 }
 ,
 "SocketActivity":{
 "files": [
-[93, [39]]
+[99, [39]]
 ],
 "memberKind": "Field"
 }
 ,
 "SocketClosed":{
 "files": [
-[93, [57]]
+[99, [57]]
 ],
 "memberKind": "Field"
 }
@@ -26502,14 +27273,14 @@ var contents = {
 "members": {
 "GetStatus`1":{
 "files": [
-[123, [168,221,259]],
-[124, [124,148]],
-[125, [96]],
-[579, [181,224,273,275]],
-[127, [160,212]],
-[128, [150]],
-[129, [98]],
-[581, [119]]
+[132, [168,221,259]],
+[133, [124,148]],
+[134, [96]],
+[601, [181,224,273,275]],
+[136, [160,212]],
+[137, [150]],
+[138, [98]],
+[603, [119]]
 ],
 "memberKind": "Method"
 }
@@ -26520,21 +27291,21 @@ var contents = {
 "members": {
 "ConnectionResetByPeer":{
 "files": [
-[124, [149]]
+[133, [149]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[123, [168,221,259]],
-[124, [124,158]],
-[125, [96]],
-[579, [181,224,275]],
-[127, [160,212]],
-[128, [150]],
-[129, [98]],
-[581, [119]]
+[132, [168,221,259]],
+[133, [124,158]],
+[134, [96]],
+[601, [181,224,275]],
+[136, [160,212]],
+[137, [150]],
+[138, [98]],
+[603, [119]]
 ],
 "memberKind": "Field"
 }
@@ -26545,7 +27316,7 @@ var contents = {
 "members": {
 "Utf8":{
 "files": [
-[589, [79]]
+[611, [79]]
 ],
 "memberKind": "Field"
 }
@@ -26554,17 +27325,24 @@ var contents = {
 ,
 "SocketProtectionLevel":{
 "members": {
+"BluetoothEncryptionAllowNullAuthentication":{
+"files": [
+[277, [59]]
+],
+"memberKind": "Field"
+}
+,
 "PlainSocket":{
 "files": [
-[127, [147]],
-[128, [135]]
+[136, [147]],
+[137, [135]]
 ],
 "memberKind": "Field"
 }
 ,
 "Tls12":{
 "files": [
-[581, [105]]
+[603, [105]]
 ],
 "memberKind": "Field"
 }
@@ -26575,7 +27353,7 @@ var contents = {
 "members": {
 "Ignorable":{
 "files": [
-[581, [126]]
+[603, [126]]
 ],
 "memberKind": "Field"
 }
@@ -26586,95 +27364,105 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[93, [58]],
-[78, [94]],
-[128, [103]],
-[581, [85]],
-[296, [281]],
-[316, [834]]
+[276, [138]],
+[99, [58]],
+[80, [94]],
+[137, [103]],
+[603, [85]],
+[309, [281]],
+[331, [834]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CancelIOAsync`0":{
 "files": [
-[78, [107]]
+[80, [107]]
 ],
 "memberKind": "Method"
 }
 ,
 "ConnectAsync`1":{
 "files": [
-[93, [66]],
-[78, [97]],
-[128, [118,132]],
-[581, [105]],
-[296, [282]],
-[316, [838]]
+[276, [142]],
+[99, [66]],
+[80, [97]],
+[137, [118,132]],
+[603, [105]],
+[309, [282]],
+[331, [838]]
 ],
 "memberKind": "Method"
 }
 ,
 "Control":{
 "files": [
-[128, [107]],
-[581, [89,140,143]]
+[137, [107]],
+[603, [89,140,143]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[590, [45]],
-[130, [77]],
-[318, [57]],
-[316, [1278]]
+[276, [271]],
+[277, [158]],
+[612, [45]],
+[139, [77]],
+[333, [57]],
+[331, [1278]]
 ],
 "memberKind": "Method"
 }
 ,
 "EnableTransferOwnership`1":{
 "files": [
-[93, [59]],
-[78, [95]]
+[99, [59]],
+[80, [95]]
 ],
 "memberKind": "Method"
 }
 ,
 "Information":{
 "files": [
-[581, [108,109,126,134,141]],
-[316, [1110]]
+[603, [108,109,126,134,141]],
+[331, [1110]]
 ],
 "memberKind": "Property"
 }
 ,
 "InputStream":{
 "files": [
-[93, [41]],
-[78, [100]],
-[127, [180]],
-[318, [40]],
-[316, [1066]]
+[276, [147]],
+[277, [185]],
+[86, [64]],
+[99, [41]],
+[80, [100]],
+[136, [180]],
+[333, [40]],
+[331, [1066]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutputStream":{
 "files": [
-[590, [70]],
-[93, [50]],
-[129, [75]],
-[318, [44]],
-[316, [1067]]
+[276, [144]],
+[277, [183]],
+[86, [63]],
+[612, [70]],
+[99, [50]],
+[138, [75]],
+[333, [44]],
+[331, [1067]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransferOwnership`1":{
 "files": [
-[93, [46,55,67]],
-[78, [70,108]]
+[99, [46,55,67]],
+[80, [70,108]]
 ],
 "memberKind": "Method"
 }
@@ -26685,21 +27473,21 @@ var contents = {
 "members": {
 "ClientCertificate":{
 "files": [
-[581, [89]]
+[603, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "IgnorableServerCertificateErrors":{
 "files": [
-[581, [140,143]]
+[603, [140,143]]
 ],
 "memberKind": "Property"
 }
 ,
 "KeepAlive":{
 "files": [
-[128, [107]]
+[137, [107]]
 ],
 "memberKind": "Property"
 }
@@ -26710,35 +27498,35 @@ var contents = {
 "members": {
 "LocalPort":{
 "files": [
-[316, [1110]]
+[331, [1110]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServerCertificate":{
 "files": [
-[581, [108]]
+[603, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServerCertificateErrors":{
 "files": [
-[581, [134,141]]
+[603, [134,141]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServerCertificateErrorSeverity":{
 "files": [
-[581, [126]]
+[603, [126]]
 ],
 "memberKind": "Property"
 }
 ,
 "ServerIntermediateCertificates":{
 "files": [
-[581, [109]]
+[603, [109]]
 ],
 "memberKind": "Property"
 }
@@ -26749,59 +27537,63 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[590, [61]],
-[127, [107]],
-[314, [234]],
-[316, [763]]
+[277, [55]],
+[612, [61]],
+[136, [107]],
+[329, [234]],
+[331, [763]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "BindEndpointAsync`2":{
 "files": [
-[590, [63]],
-[127, [131]],
-[314, [236]],
-[316, [772]]
+[612, [63]],
+[136, [131]],
+[329, [236]],
+[331, [772]]
 ],
 "memberKind": "Method"
 }
 ,
 "BindServiceNameAsync`1":{
 "files": [
-[127, [125,145]]
+[277, [58]],
+[136, [125,145]]
 ],
 "memberKind": "Method"
 }
 ,
 "ConnectionReceived":{
 "files": [
-[590, [62]],
-[127, [108]],
-[314, [235]],
-[316, [978,1013]]
+[277, [56]],
+[612, [62]],
+[136, [108]],
+[329, [235]],
+[331, [978,1013]]
 ],
 "memberKind": "Event"
 }
 ,
 "Control":{
 "files": [
-[127, [114]]
+[136, [114]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[130, [88]],
-[316, [1018]]
+[277, [146,178]],
+[139, [88]],
+[331, [1018]]
 ],
 "memberKind": "Method"
 }
 ,
 "Information":{
 "files": [
-[316, [983]]
+[331, [983]]
 ],
 "memberKind": "Property"
 }
@@ -26812,10 +27604,11 @@ var contents = {
 "members": {
 "Socket":{
 "files": [
-[590, [48]],
-[127, [180]],
-[314, [263]],
-[316, [985]]
+[277, [181]],
+[612, [48]],
+[136, [180]],
+[329, [263]],
+[331, [985]]
 ],
 "memberKind": "Property"
 }
@@ -26826,7 +27619,7 @@ var contents = {
 "members": {
 "KeepAlive":{
 "files": [
-[127, [114]]
+[136, [114]]
 ],
 "memberKind": "Property"
 }
@@ -26837,7 +27630,7 @@ var contents = {
 "members": {
 "LocalPort":{
 "files": [
-[316, [983]]
+[331, [983]]
 ],
 "memberKind": "Property"
 }
@@ -26848,49 +27641,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[591, [79]]
+[613, [79]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Close`2":{
 "files": [
-[591, [237]]
+[613, [237]]
 ],
 "memberKind": "Method"
 }
 ,
 "Closed":{
 "files": [
-[591, [82]]
+[613, [82]]
 ],
 "memberKind": "Event"
 }
 ,
 "ConnectAsync`1":{
 "files": [
-[591, [87]]
+[613, [87]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[591, [105,270]]
+[613, [105,270]]
 ],
 "memberKind": "Method"
 }
 ,
 "InputStream":{
 "files": [
-[591, [93]]
+[613, [93]]
 ],
 "memberKind": "Property"
 }
 ,
 "OutputStream":{
 "files": [
-[591, [97]]
+[613, [97]]
 ],
 "memberKind": "Property"
 }
@@ -26901,16 +27694,16 @@ var contents = {
 "members": {
 "Code":{
 "files": [
-[589, [209]],
-[591, [266]]
+[611, [209]],
+[613, [266]]
 ],
 "memberKind": "Property"
 }
 ,
 "Reason":{
 "files": [
-[589, [209]],
-[591, [266]]
+[611, [209]],
+[613, [266]]
 ],
 "memberKind": "Property"
 }
@@ -26921,8 +27714,8 @@ var contents = {
 "members": {
 "GetStatus`1":{
 "files": [
-[589, [119,157,190]],
-[591, [109,166,211,247]]
+[611, [119,157,190]],
+[613, [109,166,211,247]]
 ],
 "memberKind": "Method"
 }
@@ -26944,8 +27737,8 @@ var contents = {
 "Handled":{
 "files": [
 [15, [23]],
-[431, [88]],
-[435, [106]]
+[448, [88]],
+[452, [106]]
 ],
 "memberKind": "Property"
 }
@@ -26957,19 +27750,19 @@ var contents = {
 "BackPressed":{
 "files": [
 [15, [38]],
-[431, [42]],
-[435, [52]],
-[437, [87,106]],
-[438, [70]]
+[448, [42]],
+[452, [52]],
+[454, [87,106]],
+[455, [70]]
 ],
 "memberKind": "Event"
 }
 ,
 "CameraPressed":{
 "files": [
-[194, [684,707]],
-[196, [734,757]],
-[197, [591,614]]
+[204, [660,683]],
+[206, [718,741]],
+[207, [568,591]]
 ],
 "memberKind": "Event"
 }
@@ -26994,39 +27787,39 @@ var contents = {
 "members": {
 "FindAccountAsync`2":{
 "files": [
-[592, [113]],
-[593, [156]],
-[594, [130,230]],
-[595, [131,229]]
+[614, [113]],
+[615, [156]],
+[616, [130,230]],
+[617, [131,229]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindAccountProviderAsync`3":{
 "files": [
-[596, [98]],
-[592, [150]],
-[593, [184]],
-[594, [119,127,228]],
-[595, [120,128,227]]
+[618, [98]],
+[614, [150]],
+[615, [184]],
+[616, [119,127,228]],
+[617, [120,128,227]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTokenSilentlyAsync`1":{
 "files": [
-[596, [187]]
+[618, [187]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestTokenAsync`1":{
 "files": [
-[596, [152]],
-[592, [247]],
-[593, [232]],
-[594, [190]],
-[595, [189]]
+[618, [152]],
+[614, [247]],
+[615, [232]],
+[616, [190]],
+[617, [189]]
 ],
 "memberKind": "Method"
 }
@@ -27037,8 +27830,8 @@ var contents = {
 "members": {
 "ErrorMessage":{
 "files": [
-[596, [199,211]],
-[593, [279]]
+[618, [199,211]],
+[615, [279]]
 ],
 "memberKind": "Property"
 }
@@ -27049,21 +27842,21 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[596, [141,179]],
-[592, [236]],
-[593, [221]],
-[594, [181]],
-[595, [183]]
+[618, [141,179]],
+[614, [236]],
+[615, [221]],
+[616, [181]],
+[617, [183]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Properties":{
 "files": [
-[596, [146,184]],
-[592, [241]],
-[593, [226]],
-[594, [183]]
+[618, [146,184]],
+[614, [241]],
+[615, [226]],
+[616, [183]]
 ],
 "memberKind": "Property"
 }
@@ -27074,33 +27867,33 @@ var contents = {
 "members": {
 "ResponseData":{
 "files": [
-[596, [156,191,207]],
-[592, [251,282]],
-[593, [236,275]],
-[594, [200,215]],
-[595, [199,214]]
+[618, [156,191,207]],
+[614, [251,282]],
+[615, [236,275]],
+[616, [200,215]],
+[617, [199,214]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResponseError":{
 "files": [
-[596, [199,211]],
-[592, [286]],
-[593, [279]],
-[594, [220]],
-[595, [219]]
+[618, [199,211]],
+[614, [286]],
+[615, [279]],
+[616, [220]],
+[617, [219]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResponseStatus":{
 "files": [
-[596, [154,189,193,199,205,211]],
-[592, [249,280]],
-[593, [234,273,279]],
-[594, [196,213]],
-[595, [195,212]]
+[618, [154,189,193,199,205,211]],
+[614, [249,280]],
+[615, [234,273,279]],
+[616, [196,213]],
+[617, [195,212]]
 ],
 "memberKind": "Property"
 }
@@ -27111,18 +27904,18 @@ var contents = {
 "members": {
 "Success":{
 "files": [
-[596, [154,189,205]],
-[592, [249,280]],
-[593, [234,273]],
-[594, [196,213]],
-[595, [195,212]]
+[618, [154,189,205]],
+[614, [249,280]],
+[615, [234,273]],
+[616, [196,213]],
+[617, [195,212]]
 ],
 "memberKind": "Field"
 }
 ,
 "UserInteractionRequired":{
 "files": [
-[596, [193]]
+[618, [193]]
 ],
 "memberKind": "Field"
 }
@@ -27135,10 +27928,10 @@ var contents = {
 "members": {
 "AuthenticateAsync`3":{
 "files": [
-[215, [57]],
-[597, [77]],
-[598, [130]],
-[599, [44]]
+[225, [57]],
+[619, [77]],
+[620, [130]],
+[621, [44]]
 ],
 "memberKind": "Method"
 }
@@ -27149,16 +27942,16 @@ var contents = {
 "members": {
 "None":{
 "files": [
-[215, [57]],
-[597, [77]],
-[598, [131]]
+[225, [57]],
+[619, [77]],
+[620, [131]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseTitle":{
 "files": [
-[599, [44]]
+[621, [44]]
 ],
 "memberKind": "Field"
 }
@@ -27169,30 +27962,30 @@ var contents = {
 "members": {
 "ResponseData":{
 "files": [
-[215, [60,61]],
-[597, [80,81]],
-[598, [136]],
-[599, [47]]
+[225, [60,61]],
+[619, [80,81]],
+[620, [136]],
+[621, [47]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResponseErrorDetail":{
 "files": [
-[215, [65]],
-[597, [85]],
-[598, [140]],
-[599, [51]]
+[225, [65]],
+[619, [85]],
+[620, [140]],
+[621, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "ResponseStatus":{
 "files": [
-[215, [58,63,69]],
-[597, [78,83,89]],
-[598, [134,138,144]],
-[599, [45,49,55]]
+[225, [58,63,69]],
+[619, [78,83,89]],
+[620, [134,138,144]],
+[621, [45,49,55]]
 ],
 "memberKind": "Property"
 }
@@ -27203,20 +27996,20 @@ var contents = {
 "members": {
 "ErrorHttp":{
 "files": [
-[215, [63]],
-[597, [83]],
-[598, [138]],
-[599, [49]]
+[225, [63]],
+[619, [83]],
+[620, [138]],
+[621, [49]]
 ],
 "memberKind": "Field"
 }
 ,
 "Success":{
 "files": [
-[215, [58]],
-[597, [78]],
-[598, [134]],
-[599, [45]]
+[225, [58]],
+[619, [78]],
+[620, [134]],
+[621, [45]]
 ],
 "memberKind": "Field"
 }
@@ -27233,22 +28026,22 @@ var contents = {
 "members": {
 "GetAttestationAsync`0":{
 "files": [
-[600, [340]]
+[622, [340]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestSignAsync`1":{
 "files": [
-[600, [416]]
+[622, [416]]
 ],
 "memberKind": "Method"
 }
 ,
 "RetrievePublicKey`0":{
 "files": [
-[601, [63]],
-[600, [339,414]]
+[623, [63]],
+[622, [339,414]]
 ],
 "memberKind": "Method"
 }
@@ -27259,21 +28052,21 @@ var contents = {
 "members": {
 "AttestationBuffer":{
 "files": [
-[600, [351]]
+[622, [351]]
 ],
 "memberKind": "Property"
 }
 ,
 "CertificateChainBuffer":{
 "files": [
-[600, [352]]
+[622, [352]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[600, [348,355,361]]
+[622, [348,355,361]]
 ],
 "memberKind": "Property"
 }
@@ -27284,21 +28077,21 @@ var contents = {
 "members": {
 "NotSupported":{
 "files": [
-[600, [361,363]]
+[622, [361,363]]
 ],
 "memberKind": "Field"
 }
 ,
 "Success":{
 "files": [
-[600, [348]]
+[622, [348]]
 ],
 "memberKind": "Field"
 }
 ,
 "TemporaryFailure":{
 "files": [
-[600, [355,357]]
+[622, [355,357]]
 ],
 "memberKind": "Field"
 }
@@ -27309,7 +28102,7 @@ var contents = {
 "members": {
 "ReplaceExisting":{
 "files": [
-[600, [332]]
+[622, [332]]
 ],
 "memberKind": "Field"
 }
@@ -27320,29 +28113,29 @@ var contents = {
 "members": {
 "DeleteAsync`1":{
 "files": [
-[601, [69]]
+[623, [69]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsSupportedAsync`0":{
 "files": [
-[600, [128]]
+[622, [128]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenAsync`1":{
 "files": [
-[601, [58]],
-[600, [409]]
+[623, [58]],
+[622, [409]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestCreateAsync`2":{
 "files": [
-[600, [332]]
+[622, [332]]
 ],
 "memberKind": "Method"
 }
@@ -27353,14 +28146,14 @@ var contents = {
 "members": {
 "Result":{
 "files": [
-[600, [420]]
+[622, [420]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[600, [418,422,429,433,437]]
+[622, [418,422,429,433,437]]
 ],
 "memberKind": "Property"
 }
@@ -27371,16 +28164,16 @@ var contents = {
 "members": {
 "Credential":{
 "files": [
-[601, [62]],
-[600, [338,413]]
+[623, [62]],
+[622, [338,413]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[601, [60]],
-[600, [334,380,384,395,411,444]]
+[623, [60]],
+[622, [334,380,384,395,411,444]]
 ],
 "memberKind": "Property"
 }
@@ -27391,36 +28184,36 @@ var contents = {
 "members": {
 "NotFound":{
 "files": [
-[600, [384,429,444]]
+[622, [384,429,444]]
 ],
 "memberKind": "Field"
 }
 ,
 "SecurityDeviceLocked":{
 "files": [
-[600, [433]]
+[622, [433]]
 ],
 "memberKind": "Field"
 }
 ,
 "Success":{
 "files": [
-[601, [60]],
-[600, [334,411,418]]
+[623, [60]],
+[622, [334,411,418]]
 ],
 "memberKind": "Field"
 }
 ,
 "UnknownError":{
 "files": [
-[600, [437]]
+[622, [437]]
 ],
 "memberKind": "Field"
 }
 ,
 "UserCanceled":{
 "files": [
-[600, [380,422]]
+[622, [380,422]]
 ],
 "memberKind": "Field"
 }
@@ -27431,51 +28224,51 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[260, [656]],
-[310, [193]]
+[271, [656]],
+[325, [193]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[602, [45]]
+[624, [45]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Password":{
 "files": [
-[252, [281]],
-[260, [657,734]],
-[259, [249]],
-[261, [263]],
-[602, [48]],
-[603, [122]],
-[310, [201]]
+[262, [281]],
+[271, [657,734]],
+[270, [249]],
+[272, [263]],
+[624, [48]],
+[625, [122]],
+[325, [201]]
 ],
 "memberKind": "Property"
 }
 ,
 "Resource":{
 "files": [
-[602, [48]],
-[603, [97,122,131]]
+[624, [48]],
+[625, [97,122,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "RetrievePassword`0":{
 "files": [
-[603, [121]]
+[625, [121]]
 ],
 "memberKind": "Method"
 }
 ,
 "UserName":{
 "files": [
-[602, [48]],
-[603, [97,122,131]]
+[624, [48]],
+[625, [97,122,131]]
 ],
 "memberKind": "Property"
 }
@@ -27486,52 +28279,52 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[604, [39]],
-[602, [44]],
-[603, [41,148]]
+[626, [39]],
+[624, [44]],
+[625, [41,148]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Add`1":{
 "files": [
-[602, [46]]
+[624, [46]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindAllByResource`1":{
 "files": [
-[603, [57]]
+[625, [57]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindAllByUserName`1":{
 "files": [
-[603, [62]]
+[625, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "Remove`1":{
 "files": [
-[603, [163]]
+[625, [163]]
 ],
 "memberKind": "Method"
 }
 ,
 "Retrieve`2":{
 "files": [
-[603, [67]]
+[625, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "RetrieveAll`0":{
 "files": [
-[604, [40]],
-[603, [52]]
+[626, [40]],
+[625, [52]]
 ],
 "memberKind": "Method"
 }
@@ -27544,49 +28337,49 @@ var contents = {
 "members": {
 "Basic":{
 "files": [
-[605, [113]]
+[627, [113]]
 ],
 "memberKind": "Field"
 }
 ,
 "CredSsp":{
 "files": [
-[605, [109]]
+[627, [109]]
 ],
 "memberKind": "Field"
 }
 ,
 "Custom":{
 "files": [
-[605, [123]]
+[627, [123]]
 ],
 "memberKind": "Field"
 }
 ,
 "Digest":{
 "files": [
-[605, [117]]
+[627, [117]]
 ],
 "memberKind": "Field"
 }
 ,
 "Kerberos":{
 "files": [
-[605, [97]]
+[627, [97]]
 ],
 "memberKind": "Field"
 }
 ,
 "Negotiate":{
 "files": [
-[605, [90,101]]
+[627, [90,101]]
 ],
 "memberKind": "Field"
 }
 ,
 "Ntlm":{
 "files": [
-[605, [105]]
+[627, [105]]
 ],
 "memberKind": "Field"
 }
@@ -27597,9 +28390,9 @@ var contents = {
 "members": {
 "PickAsync`1":{
 "files": [
-[606, [67]],
-[607, [66]],
-[605, [150]]
+[628, [67]],
+[629, [66]],
+[627, [150]]
 ],
 "memberKind": "Method"
 }
@@ -27610,56 +28403,56 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[605, [82]]
+[627, [82]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AlwaysDisplayDialog":{
 "files": [
-[605, [86]]
+[627, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "AuthenticationProtocol":{
 "files": [
-[605, [90,97,101,105,109,113,117,123]]
+[627, [90,97,101,105,109,113,117,123]]
 ],
 "memberKind": "Property"
 }
 ,
 "Caption":{
 "files": [
-[605, [84]]
+[627, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "CredentialSaveOption":{
 "files": [
-[605, [138,142,146]]
+[627, [138,142,146]]
 ],
 "memberKind": "Property"
 }
 ,
 "CustomAuthenticationProtocol":{
 "files": [
-[605, [124]]
+[627, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "Message":{
 "files": [
-[605, [83]]
+[627, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "TargetName":{
 "files": [
-[605, [85]]
+[627, [85]]
 ],
 "memberKind": "Property"
 }
@@ -27670,54 +28463,54 @@ var contents = {
 "members": {
 "CredentialDomainName":{
 "files": [
-[606, [41]],
-[607, [42]],
-[605, [56]]
+[628, [41]],
+[629, [42]],
+[627, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "CredentialPassword":{
 "files": [
-[606, [43]],
-[607, [44]],
-[605, [58]]
+[628, [43]],
+[629, [44]],
+[627, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "CredentialSaved":{
 "files": [
-[606, [44]],
-[607, [45]],
-[605, [59]]
+[628, [44]],
+[629, [45]],
+[627, [59]]
 ],
 "memberKind": "Property"
 }
 ,
 "CredentialSaveOption":{
 "files": [
-[606, [45]],
-[607, [46]],
-[605, [60]]
+[628, [45]],
+[629, [46]],
+[627, [60]]
 ],
 "memberKind": "Property"
 }
 ,
 "CredentialUserName":{
 "files": [
-[606, [42]],
-[607, [43]],
-[605, [57]]
+[628, [42]],
+[629, [43]],
+[627, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "ErrorCode":{
 "files": [
-[606, [33,39]],
-[607, [33,39]],
-[605, [47,53]]
+[628, [33,39]],
+[629, [33,39]],
+[627, [47,53]]
 ],
 "memberKind": "Property"
 }
@@ -27728,27 +28521,27 @@ var contents = {
 "members": {
 "Hidden":{
 "files": [
-[606, [47]],
-[607, [48]],
-[605, [62,138]]
+[628, [47]],
+[629, [48]],
+[627, [62,138]]
 ],
 "memberKind": "Field"
 }
 ,
 "Selected":{
 "files": [
-[606, [50]],
-[607, [51]],
-[605, [65,142]]
+[628, [50]],
+[629, [51]],
+[627, [65,142]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unselected":{
 "files": [
-[606, [53]],
-[607, [54]],
-[605, [68,146]]
+[628, [53]],
+[629, [54]],
+[627, [68,146]]
 ],
 "memberKind": "Field"
 }
@@ -27759,49 +28552,49 @@ var contents = {
 "members": {
 "Canceled":{
 "files": [
-[608, [83]]
+[630, [83]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceBusy":{
 "files": [
-[608, [54]]
+[630, [54]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceNotPresent":{
 "files": [
-[608, [60]]
+[630, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "DisabledByPolicy":{
 "files": [
-[608, [66]]
+[630, [66]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotConfiguredForUser":{
 "files": [
-[608, [72]]
+[630, [72]]
 ],
 "memberKind": "Field"
 }
 ,
 "RetriesExhausted":{
 "files": [
-[608, [78]]
+[630, [78]]
 ],
 "memberKind": "Field"
 }
 ,
 "Verified":{
 "files": [
-[608, [48]]
+[630, [48]]
 ],
 "memberKind": "Field"
 }
@@ -27812,14 +28605,14 @@ var contents = {
 "members": {
 "CheckAvailabilityAsync`0":{
 "files": [
-[609, [43]]
+[631, [43]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestVerificationAsync`1":{
 "files": [
-[608, [45]]
+[630, [45]]
 ],
 "memberKind": "Method"
 }
@@ -27830,35 +28623,35 @@ var contents = {
 "members": {
 "Available":{
 "files": [
-[609, [46]]
+[631, [46]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceBusy":{
 "files": [
-[609, [52]]
+[631, [52]]
 ],
 "memberKind": "Field"
 }
 ,
 "DeviceNotPresent":{
 "files": [
-[609, [58]]
+[631, [58]]
 ],
 "memberKind": "Field"
 }
 ,
 "DisabledByPolicy":{
 "files": [
-[609, [64]]
+[631, [64]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotConfiguredForUser":{
 "files": [
-[609, [70]]
+[631, [70]]
 ],
 "memberKind": "Field"
 }
@@ -27871,43 +28664,43 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[592, [109,228]],
-[593, [152,213]]
+[614, [109,228]],
+[615, [152,213]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Id":{
 "files": [
-[596, [162]],
-[592, [266,268,269,311,312]],
-[593, [249,251]]
+[618, [162]],
+[614, [266,268,269,311,312]],
+[615, [249,251]]
 ],
 "memberKind": "Property"
 }
 ,
 "SignOutAsync`0":{
 "files": [
-[592, [309]],
-[593, [319]],
-[594, [234]],
-[595, [233]]
+[614, [309]],
+[615, [319]],
+[616, [234]],
+[617, [233]]
 ],
 "memberKind": "Method"
 }
 ,
 "UserName":{
 "files": [
-[592, [273,299,317]],
-[593, [256]]
+[614, [273,299,317]],
+[615, [256]]
 ],
 "memberKind": "Property"
 }
 ,
 "WebAccountProvider":{
 "files": [
-[592, [268,269,273,307]],
-[593, [260,261,263,313]]
+[614, [268,269,273,307]],
+[615, [260,261,263,313]]
 ],
 "memberKind": "Property"
 }
@@ -27918,26 +28711,26 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[592, [146]],
-[593, [180]]
+[614, [146]],
+[615, [180]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Authority":{
 "files": [
-[596, [107,108,144,176,177,182]],
-[592, [215,220,239,269]],
-[593, [200,205,224,261,263]]
+[618, [107,108,144,176,177,182]],
+[614, [215,220,239,269]],
+[615, [200,205,224,261,263]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[596, [144]],
-[592, [215,220,224,239,268,273,307]],
-[593, [200,205,209,224,260,313]]
+[618, [144]],
+[614, [215,220,224,239,268,273,307]],
+[615, [200,205,209,224,260,313]]
 ],
 "memberKind": "Property"
 }
@@ -27948,8 +28741,8 @@ var contents = {
 "members": {
 "None":{
 "files": [
-[592, [109,228]],
-[593, [152,213]]
+[614, [109,228]],
+[615, [152,213]]
 ],
 "memberKind": "Field"
 }
@@ -27964,12 +28757,12 @@ var contents = {
 "members": {
 "Utf8":{
 "files": [
-[610, [62,96]],
-[85, [91,100,167,196]],
-[600, [262]],
-[597, [241,244]],
-[598, [90,93]],
-[506, [26]]
+[632, [62,96]],
+[88, [91,100,167,196]],
+[622, [262]],
+[619, [241,244]],
+[620, [90,93]],
+[523, [26]]
 ],
 "memberKind": "Field"
 }
@@ -27982,35 +28775,35 @@ var contents = {
 "members": {
 "FriendlyName":{
 "files": [
-[581, [193]]
+[603, [193]]
 ],
 "memberKind": "Property"
 }
 ,
 "Issuer":{
 "files": [
-[581, [195]]
+[603, [195]]
 ],
 "memberKind": "Property"
 }
 ,
 "Subject":{
 "files": [
-[581, [194]]
+[603, [194]]
 ],
 "memberKind": "Property"
 }
 ,
 "ValidFrom":{
 "files": [
-[581, [196]]
+[603, [196]]
 ],
 "memberKind": "Property"
 }
 ,
 "ValidTo":{
 "files": [
-[581, [196]]
+[603, [196]]
 ],
 "memberKind": "Property"
 }
@@ -28021,14 +28814,14 @@ var contents = {
 "members": {
 "InvalidName":{
 "files": [
-[611, [130]]
+[633, [130]]
 ],
 "memberKind": "Field"
 }
 ,
 "Untrusted":{
 "files": [
-[611, [129]]
+[633, [129]]
 ],
 "memberKind": "Field"
 }
@@ -28043,15 +28836,15 @@ var contents = {
 "members": {
 "Encrypt`3":{
 "files": [
-[612, [29]]
+[634, [29]]
 ],
 "memberKind": "Method"
 }
 ,
 "Sign`2":{
 "files": [
-[597, [245]],
-[598, [94]]
+[619, [245]],
+[620, [94]]
 ],
 "memberKind": "Method"
 }
@@ -28062,16 +28855,16 @@ var contents = {
 "members": {
 "CreateKey`1":{
 "files": [
-[597, [243]],
-[598, [92]]
+[619, [243]],
+[620, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenAlgorithm`1":{
 "files": [
-[597, [242]],
-[598, [91]]
+[619, [242]],
+[620, [91]]
 ],
 "memberKind": "Method"
 }
@@ -28082,7 +28875,7 @@ var contents = {
 "members": {
 "TripleDesCbc":{
 "files": [
-[612, [27]]
+[634, [27]]
 ],
 "memberKind": "Property"
 }
@@ -28093,14 +28886,14 @@ var contents = {
 "members": {
 "CreateSymmetricKey`1":{
 "files": [
-[612, [28]]
+[634, [28]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenAlgorithm`1":{
 "files": [
-[612, [27]]
+[634, [27]]
 ],
 "memberKind": "Method"
 }
@@ -28113,65 +28906,65 @@ var contents = {
 "members": {
 "ConvertBinaryToString`2":{
 "files": [
-[610, [62]],
-[85, [100,196]],
-[506, [26]]
+[632, [62]],
+[88, [100,196]],
+[523, [26]]
 ],
 "memberKind": "Method"
 }
 ,
 "ConvertStringToBinary`2":{
 "files": [
-[610, [95]],
-[85, [91,166]],
-[600, [262]],
-[597, [241,244]],
-[598, [90,93]]
+[632, [95]],
+[88, [91,166]],
+[622, [262]],
+[619, [241,244]],
+[620, [90,93]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFromByteArray`1":{
 "files": [
-[613, [108]],
-[395, [65]],
-[390, [50]]
+[635, [108]],
+[412, [65]],
+[407, [50]]
 ],
 "memberKind": "Method"
 }
 ,
 "DecodeFromHexString`1":{
 "files": [
-[506, [24]]
+[523, [24]]
 ],
 "memberKind": "Method"
 }
 ,
 "EncodeToBase64String`1":{
 "files": [
-[614, [41]],
-[597, [246]],
-[598, [95]]
+[636, [41]],
+[619, [246]],
+[620, [95]]
 ],
 "memberKind": "Method"
 }
 ,
 "EncodeToHexString`1":{
 "files": [
-[610, [101]],
-[615, [67,112]],
-[85, [94]],
-[613, [110]],
-[390, [54]]
+[632, [101]],
+[637, [67,112]],
+[88, [94]],
+[635, [110]],
+[407, [54]]
 ],
 "memberKind": "Method"
 }
 ,
 "GenerateRandom`1":{
 "files": [
-[614, [40]],
-[392, [64]],
-[396, [38]]
+[636, [40]],
+[409, [64]],
+[413, [38]]
 ],
 "memberKind": "Method"
 }
@@ -28184,14 +28977,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[395, [62]]
+[412, [62]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ProtectAsync`1":{
 "files": [
-[395, [65]]
+[412, [65]]
 ],
 "memberKind": "Method"
 }
@@ -28208,16 +29001,16 @@ var contents = {
 "members": {
 "Buffer":{
 "files": [
-[610, [61,98]],
-[85, [94,99,100,169]]
+[632, [61,98]],
+[88, [94,99,100,169]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProtectionInfo":{
 "files": [
-[610, [65,99]],
-[85, [93,184]]
+[632, [65,99]],
+[88, [93,184]]
 ],
 "memberKind": "Property"
 }
@@ -28228,9 +29021,9 @@ var contents = {
 "members": {
 "Status":{
 "files": [
-[610, [65,82,99]],
-[615, [82]],
-[85, [93,184]]
+[632, [65,82,99]],
+[637, [82]],
+[88, [93,184]]
 ],
 "memberKind": "Property"
 }
@@ -28241,44 +29034,44 @@ var contents = {
 "members": {
 "GetProtectionInfoAsync`1":{
 "files": [
-[610, [81]]
+[632, [81]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetStreamProtectionInfoAsync`1":{
 "files": [
-[615, [81]]
+[637, [81]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProtectAsync`2":{
 "files": [
-[610, [97]],
-[85, [92,168]]
+[632, [97]],
+[88, [92,168]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProtectStreamAsync`3":{
 "files": [
-[615, [107]]
+[637, [107]]
 ],
 "memberKind": "Method"
 }
 ,
 "UnprotectAsync`1":{
 "files": [
-[610, [60]],
-[85, [99,195]]
+[632, [60]],
+[88, [99,195]]
 ],
 "memberKind": "Method"
 }
 ,
 "UnprotectStreamAsync`2":{
 "files": [
-[615, [60]]
+[637, [60]]
 ],
 "memberKind": "Method"
 }
@@ -28289,15 +29082,15 @@ var contents = {
 "members": {
 "IsRoamable":{
 "files": [
-[616, [159]]
+[638, [159]]
 ],
 "memberKind": "Property"
 }
 ,
 "Status":{
 "files": [
-[616, [86,91,95,126,129,150,156]],
-[85, [127]]
+[638, [86,91,95,126,129,150,156]],
+[88, [127]]
 ],
 "memberKind": "Property"
 }
@@ -28308,28 +29101,28 @@ var contents = {
 "members": {
 "CopyProtectionAsync`2":{
 "files": [
-[616, [117]]
+[638, [117]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateProtectedAndOpenAsync`4":{
 "files": [
-[85, [124]]
+[88, [124]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetProtectionInfoAsync`1":{
 "files": [
-[616, [85,90,124,125,149]]
+[638, [85,90,124,125,149]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProtectAsync`2":{
 "files": [
-[616, [89]]
+[638, [89]]
 ],
 "memberKind": "Method"
 }
@@ -28340,14 +29133,14 @@ var contents = {
 "members": {
 "Protected":{
 "files": [
-[616, [86]]
+[638, [86]]
 ],
 "memberKind": "Field"
 }
 ,
 "Revoked":{
 "files": [
-[616, [150]]
+[638, [150]]
 ],
 "memberKind": "Field"
 }
@@ -28358,7 +29151,7 @@ var contents = {
 "members": {
 "GetDeferral`0":{
 "files": [
-[85, [161]]
+[88, [161]]
 ],
 "memberKind": "Method"
 }
@@ -28369,14 +29162,14 @@ var contents = {
 "members": {
 "ProtectionInfo":{
 "files": [
-[85, [127]]
+[88, [127]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stream":{
 "files": [
-[85, [131]]
+[88, [131]]
 ],
 "memberKind": "Property"
 }
@@ -28387,17 +29180,17 @@ var contents = {
 "members": {
 "Allowed":{
 "files": [
-[136, [55]],
-[137, [58]],
-[138, [53]]
+[146, [55]],
+[147, [58]],
+[148, [53]]
 ],
 "memberKind": "Field"
 }
 ,
 "Blocked":{
 "files": [
-[154, [79]],
-[137, [46]]
+[164, [79]],
+[147, [46]]
 ],
 "memberKind": "Field"
 }
@@ -28408,97 +29201,97 @@ var contents = {
 "members": {
 "CheckAccess`2":{
 "files": [
-[137, [51]]
+[147, [51]]
 ],
 "memberKind": "Method"
 }
 ,
 "ClearProcessUIPolicy`0":{
 "files": [
-[617, [59]]
+[639, [59]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateCurrentThreadNetworkContext`1":{
 "files": [
-[580, [67]]
+[602, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[136, [36]],
-[137, [50]],
-[618, [33,40]],
-[138, [36,57]]
+[146, [36]],
+[147, [50]],
+[640, [33,40]],
+[148, [36,57]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPrimaryManagedIdentityForNetworkEndpointAsync`1":{
 "files": [
-[580, [60]]
+[602, [60]]
 ],
 "memberKind": "Method"
 }
 ,
 "Identity":{
 "files": [
-[136, [37]],
-[137, [52]],
-[618, [34,41]],
-[138, [37,57]]
+[146, [37]],
+[147, [52]],
+[640, [34,41]],
+[148, [37,57]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsIdentityManaged`1":{
 "files": [
-[619, [49]]
+[641, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProtectedAccessResumed":{
 "files": [
-[85, [48]]
+[88, [48]]
 ],
 "memberKind": "Event"
 }
 ,
 "ProtectedAccessSuspending":{
 "files": [
-[85, [47]]
+[88, [47]]
 ],
 "memberKind": "Event"
 }
 ,
 "ProtectedContentRevoked":{
 "files": [
-[620, [47]]
+[642, [47]]
 ],
 "memberKind": "Event"
 }
 ,
 "RequestAccessAsync`2":{
 "files": [
-[154, [77]]
+[164, [77]]
 ],
 "memberKind": "Method"
 }
 ,
 "RevokeContent`1":{
 "files": [
-[620, [52]]
+[642, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryApplyProcessUIPolicy`1":{
 "files": [
-[617, [53]]
+[639, [53]]
 ],
 "memberKind": "Method"
 }
@@ -28509,7 +29302,7 @@ var contents = {
 "members": {
 "Dispose`0":{
 "files": [
-[580, [102]]
+[602, [102]]
 ],
 "memberKind": "Method"
 }
@@ -28524,49 +29317,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[621, [33]]
+[643, [33]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "FriendlyName":{
 "files": [
-[621, [36]]
+[643, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "Id":{
 "files": [
-[621, [34]]
+[643, [34]]
 ],
 "memberKind": "Property"
 }
 ,
 "OperatingSystem":{
 "files": [
-[621, [35]]
+[643, [35]]
 ],
 "memberKind": "Property"
 }
 ,
 "SystemManufacturer":{
 "files": [
-[621, [37]]
+[643, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "SystemProductName":{
 "files": [
-[621, [38]]
+[643, [38]]
 ],
 "memberKind": "Property"
 }
 ,
 "SystemSku":{
 "files": [
-[621, [39]]
+[643, [39]]
 ],
 "memberKind": "Property"
 }
@@ -28577,86 +29370,86 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[622, [33]],
-[623, [33]]
+[644, [33]],
+[645, [33]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ApplyAsync`0":{
 "files": [
-[623, [117]]
+[645, [117]]
 ],
 "memberKind": "Method"
 }
 ,
 "CheckCompliance`0":{
 "files": [
-[622, [122]]
+[644, [122]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisallowConvenienceLogon":{
 "files": [
-[622, [63,69,73]],
-[623, [62,67,69]]
+[644, [63,69,73]],
+[645, [62,67,69]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxInactivityTimeLock":{
 "files": [
-[622, [115,119]],
-[623, [110,114]]
+[644, [115,119]],
+[645, [110,114]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPasswordFailedAttempts":{
 "files": [
-[622, [106,110]],
-[623, [101,105]]
+[644, [106,110]],
+[645, [101,105]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinPasswordComplexCharacters":{
 "files": [
-[622, [79,83]],
-[623, [74,78]]
+[644, [79,83]],
+[645, [74,78]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinPasswordLength":{
 "files": [
-[622, [54,58]],
-[623, [53,57]]
+[644, [54,58]],
+[645, [53,57]]
 ],
 "memberKind": "Property"
 }
 ,
 "PasswordExpiration":{
 "files": [
-[622, [88,92]],
-[623, [83,87]]
+[644, [88,92]],
+[645, [83,87]]
 ],
 "memberKind": "Property"
 }
 ,
 "PasswordHistory":{
 "files": [
-[622, [97,101]],
-[623, [92,96]]
+[644, [97,101]],
+[645, [92,96]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequireEncryption":{
 "files": [
-[622, [38,44,48]],
-[623, [37,43,47]]
+[644, [38,44,48]],
+[645, [37,43,47]]
 ],
 "memberKind": "Property"
 }
@@ -28667,71 +29460,71 @@ var contents = {
 "members": {
 "DisallowConvenienceLogonResult":{
 "files": [
-[622, [127]],
-[623, [121]]
+[644, [127]],
+[645, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "EncryptionProviderType":{
 "files": [
-[622, [125]]
+[644, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxInactivityTimeLockResult":{
 "files": [
-[622, [132]],
-[623, [126]]
+[644, [132]],
+[645, [126]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxPasswordFailedAttemptsResult":{
 "files": [
-[622, [131]],
-[623, [125]]
+[644, [131]],
+[645, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinPasswordComplexCharactersResult":{
 "files": [
-[622, [128]],
-[623, [122]]
+[644, [128]],
+[645, [122]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinPasswordLengthResult":{
 "files": [
-[622, [126]],
-[623, [120]]
+[644, [126]],
+[645, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "PasswordExpirationResult":{
 "files": [
-[622, [129]],
-[623, [123]]
+[644, [129]],
+[645, [123]]
 ],
 "memberKind": "Property"
 }
 ,
 "PasswordHistoryResult":{
 "files": [
-[622, [130]],
-[623, [124]]
+[644, [130]],
+[645, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequireEncryptionResult":{
 "files": [
-[622, [124]],
-[623, [119]]
+[644, [124]],
+[645, [119]]
 ],
 "memberKind": "Property"
 }
@@ -28750,7 +29543,7 @@ var contents = {
 "members": {
 "Metadata":{
 "files": [
-[624, [83,102]]
+[646, [83,102]]
 ],
 "memberKind": "Field"
 }
@@ -28761,14 +29554,14 @@ var contents = {
 "members": {
 "AppAndSystem":{
 "files": [
-[624, [53]]
+[646, [53]]
 ],
 "memberKind": "Field"
 }
 ,
 "AppOnly":{
 "files": [
-[624, [53]]
+[646, [53]]
 ],
 "memberKind": "Field"
 }
@@ -28779,18 +29572,18 @@ var contents = {
 "members": {
 "FutureAccessList":{
 "files": [
-[624, [59,95,146]],
-[625, [49]],
-[413, [48]],
-[202, [41]],
-[203, [45]]
+[646, [59,95,146]],
+[647, [49]],
+[430, [48]],
+[212, [41]],
+[213, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "MostRecentlyUsedList":{
 "files": [
-[624, [54,76,130]]
+[646, [54,76,130]]
 ],
 "memberKind": "Property"
 }
@@ -28801,40 +29594,40 @@ var contents = {
 "members": {
 "Add`1":{
 "files": [
-[624, [59]],
-[413, [77]],
-[202, [184]],
-[203, [222]]
+[646, [59]],
+[430, [77]],
+[212, [184]],
+[213, [222]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddOrReplace`2":{
 "files": [
-[625, [49]]
+[647, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
 "files": [
-[413, [49]]
+[430, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "Entries":{
 "files": [
-[624, [95]]
+[646, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetFileAsync`1":{
 "files": [
-[624, [146]],
-[202, [134]],
-[203, [137,354,489]]
+[646, [146]],
+[212, [134]],
+[213, [137,354,489]]
 ],
 "memberKind": "Method"
 }
@@ -28845,21 +29638,21 @@ var contents = {
 "members": {
 "Add`1":{
 "files": [
-[624, [54]]
+[646, [54]]
 ],
 "memberKind": "Method"
 }
 ,
 "Entries":{
 "files": [
-[624, [76]]
+[646, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetFileAsync`1":{
 "files": [
-[624, [130]]
+[646, [130]]
 ],
 "memberKind": "Method"
 }
@@ -28872,7 +29665,7 @@ var contents = {
 "members": {
 "ClearAsync`0":{
 "files": [
-[626, [38]]
+[648, [38]]
 ],
 "memberKind": "Method"
 }
@@ -28880,133 +29673,138 @@ var contents = {
 "Current":{
 "files": [
 [59, [184]],
-[79, [38,66]],
-[627, [28]],
-[628, [43,44,45,46]],
-[629, [36]],
-[630, [37]],
-[631, [38]],
-[632, [40]],
-[633, [38]],
-[634, [41]],
-[626, [38]],
-[635, [39]],
-[636, [79,110]],
-[159, [43]],
-[637, [32,39,40,53,55,59]],
-[81, [49,60,61,62,91,94]],
+[81, [38,66]],
+[649, [28]],
+[650, [43,44,45,46]],
+[651, [36]],
+[652, [37]],
+[653, [38]],
+[654, [40]],
+[655, [38]],
+[656, [41]],
+[648, [38]],
+[657, [39]],
+[658, [79,110]],
+[169, [43]],
+[659, [32,39,40,53,55,59]],
+[83, [49,60,61,62,91,94]],
 [61, [69,70,80,94,121,285,287,310,312]],
-[72, [108,191]],
+[73, [108,191]],
 [60, [100]],
-[82, [49,94]],
-[83, [60]],
+[84, [49,94]],
+[85, [60]],
 [68, [307,309]],
 [69, [272,274]],
-[95, [97,135]],
-[133, [96,126]],
-[638, [103,127]],
-[160, [16,26,35,118]],
-[639, [35,66]],
-[640, [55,78]],
-[641, [53]],
-[642, [75,219]],
-[643, [90,121]],
-[84, [71,72,76,77]],
-[73, [282,286,305]],
-[98, [24]],
-[75, [148]],
-[76, [77,161]],
-[616, [105]],
-[85, [36,74,87,119,175,178,201,203]],
-[644, [69]],
-[645, [75]],
-[646, [42]],
-[647, [43]],
-[91, [57,63,203,236]],
-[92, [69,77,85]],
-[70, [234]],
-[209, [363,396]],
-[71, [243,282]],
-[648, [26,47,52]],
-[649, [78,107]],
-[199, [60,66,186,209,292,295,306,307,321,323,324,336,347]],
-[200, [55,61,218,281,289,291,292]],
-[394, [43,45,48,50,53,54,197,207,212,217,222,238]],
+[101, [97,135]],
+[70, [165,171,196,258,260]],
+[86, [53,68,90,91,104,113,119,133,145,155,167]],
+[143, [96,126]],
+[109, [46,69]],
+[94, [31]],
+[96, [31]],
+[660, [103,127]],
+[170, [16,26,35,118]],
+[661, [35,66]],
+[662, [55,78]],
+[663, [53]],
+[664, [75,219]],
+[665, [90,121]],
+[87, [71,72,76,77]],
+[74, [282,286,305]],
+[106, [24]],
+[77, [148]],
+[78, [77,161]],
+[638, [105]],
+[88, [36,74,87,119,175,178,201,203]],
+[666, [69]],
+[667, [75]],
+[668, [42]],
+[669, [43]],
+[97, [57,63,203,236]],
+[98, [69,77,85]],
+[71, [234]],
+[219, [363,396]],
+[72, [243,282]],
+[670, [26,47,52]],
+[671, [78,107]],
+[209, [60,66,186,209,292,295,306,307,321,323,324,336,347]],
+[210, [55,61,218,281,289,291,292]],
+[411, [43,45,48,50,53,54,197,207,212,217,222,238]],
 [63, [82,85]],
-[650, [79]],
-[395, [226]],
-[651, [9]],
-[652, [9]],
-[238, [41]],
-[653, [38]],
-[654, [46]],
-[655, [79,110]],
-[202, [42]],
-[203, [46]],
-[86, [48,100]],
-[77, [243]],
-[93, [60,64,65]],
-[78, [86,87]],
-[656, [79,110]],
-[592, [97,121,264,305,335,336,337]],
-[593, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
-[594, [94,129,137,198,200,226,230,237]],
-[595, [95,130,138,197,199,225,229,236]],
+[672, [79]],
+[412, [249]],
+[673, [9]],
+[674, [9]],
+[248, [41]],
+[675, [38]],
+[676, [46]],
+[677, [79,110]],
+[212, [42]],
+[213, [46]],
+[89, [48,100]],
+[79, [243]],
+[99, [60,64,65]],
+[80, [86,87]],
+[678, [79,110]],
+[614, [97,121,264,305,335,336,337]],
+[615, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
+[616, [94,129,137,198,200,226,230,237]],
+[617, [95,130,138,197,199,225,229,236]],
 [28, [151]],
-[657, [79,108]],
-[229, [87]],
-[171, [221]]
+[679, [79,108]],
+[239, [87]],
+[181, [221]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataChanged":{
 "files": [
-[632, [77,91]],
-[633, [94,108]]
+[654, [77,91]],
+[655, [94,108]]
 ],
 "memberKind": "Event"
 }
 ,
 "LocalCacheFolder":{
 "files": [
-[628, [44]]
+[650, [44]]
 ],
 "memberKind": "Property"
 }
 ,
 "LocalFolder":{
 "files": [
-[628, [43]],
-[634, [46]],
-[636, [79,110]],
-[133, [96,126]],
-[160, [118]],
-[640, [55,78]],
-[641, [53]],
-[642, [75,219]],
-[643, [90,121]],
-[616, [105]],
-[85, [74,87,119,178,203]],
-[644, [69]],
-[645, [75]],
-[646, [42]],
-[647, [43]],
-[648, [26,47,52]],
-[649, [78,107]],
-[199, [186,209]],
-[200, [218]],
-[394, [197,238]],
-[650, [79]],
-[395, [226]],
-[238, [41]],
-[653, [38]],
-[654, [46]],
-[655, [79,110]],
-[656, [79,110]],
-[657, [79,108]],
-[229, [87]],
-[171, [221]]
+[650, [43]],
+[656, [46]],
+[658, [79,110]],
+[143, [96,126]],
+[170, [118]],
+[662, [55,78]],
+[663, [53]],
+[664, [75,219]],
+[665, [90,121]],
+[638, [105]],
+[88, [74,87,119,178,203]],
+[666, [69]],
+[667, [75]],
+[668, [42]],
+[669, [43]],
+[670, [26,47,52]],
+[671, [78,107]],
+[209, [186,209]],
+[210, [218]],
+[411, [197,238]],
+[672, [79]],
+[412, [249]],
+[248, [41]],
+[675, [38]],
+[676, [46]],
+[677, [79,110]],
+[678, [79,110]],
+[679, [79,108]],
+[239, [87]],
+[181, [221]]
 ],
 "memberKind": "Property"
 }
@@ -29014,67 +29812,72 @@ var contents = {
 "LocalSettings":{
 "files": [
 [59, [184]],
-[79, [38,66]],
-[627, [28]],
-[630, [37]],
-[635, [60,83]],
-[637, [32,39,40,53,55,59]],
-[81, [49,60,61,62,91,94]],
+[81, [38,66]],
+[649, [28]],
+[652, [37]],
+[657, [60,83]],
+[659, [32,39,40,53,55,59]],
+[83, [49,60,61,62,91,94]],
 [61, [69,70,80,94,121,285,287,310,312]],
-[72, [108,191]],
+[73, [108,191]],
 [60, [100]],
-[82, [49,94]],
-[83, [60]],
+[84, [49,94]],
+[85, [60]],
 [68, [307,309]],
 [69, [272,274]],
-[95, [97,135]],
-[160, [16,26,35]],
-[639, [35,66]],
-[84, [71,72,76,77]],
-[73, [282,286,305]],
-[98, [24]],
-[75, [148]],
-[76, [77,161]],
-[85, [36,175,201]],
-[91, [57,63,203,236]],
-[92, [69,77,85]],
-[70, [234]],
-[209, [363,396]],
-[71, [243,282]],
-[199, [60,66,292,295,306,307,321,323,324,336,347]],
-[200, [55,61,281,289,291,292]],
+[101, [97,135]],
+[70, [165,171,196,258,260]],
+[86, [53,68,90,91,104,113,119,133,145,155,167]],
+[109, [46,69]],
+[94, [31]],
+[96, [31]],
+[170, [16,26,35]],
+[661, [35,66]],
+[87, [71,72,76,77]],
+[74, [282,286,305]],
+[106, [24]],
+[77, [148]],
+[78, [77,161]],
+[88, [36,175,201]],
+[97, [57,63,203,236]],
+[98, [69,77,85]],
+[71, [234]],
+[219, [363,396]],
+[72, [243,282]],
+[209, [60,66,292,295,306,307,321,323,324,336,347]],
+[210, [55,61,281,289,291,292]],
 [63, [82,85]],
-[651, [9]],
-[652, [9]],
-[202, [42]],
-[203, [46]],
-[86, [48,100]],
-[77, [243]],
-[93, [60,64,65]],
-[78, [86,87]],
-[592, [97,121,264,305,335,336,337]],
-[593, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
-[594, [94,129,137,198,200,226,230,237]],
-[595, [95,130,138,197,199,225,229,236]]
+[673, [9]],
+[674, [9]],
+[212, [42]],
+[213, [46]],
+[89, [48,100]],
+[79, [243]],
+[99, [60,64,65]],
+[80, [86,87]],
+[614, [97,121,264,305,335,336,337]],
+[615, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
+[616, [94,129,137,198,200,226,230,237]],
+[617, [95,130,138,197,199,225,229,236]]
 ],
 "memberKind": "Property"
 }
 ,
 "RoamingFolder":{
 "files": [
-[628, [45]],
-[634, [57]]
+[650, [45]],
+[656, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "RoamingSettings":{
 "files": [
-[629, [36]],
-[631, [38]],
-[632, [41]],
-[633, [39]],
-[394, [43,45,48,50,53,54,207,212,217,222]],
+[651, [36]],
+[653, [38]],
+[654, [41]],
+[655, [39]],
+[411, [43,45,48,50,53,54,207,212,217,222]],
 [28, [151]]
 ],
 "memberKind": "Property"
@@ -29082,31 +29885,31 @@ var contents = {
 ,
 "SetVersionAsync`2":{
 "files": [
-[635, [100,106]]
+[657, [100,106]]
 ],
 "memberKind": "Method"
 }
 ,
 "SignalDataChanged`0":{
 "files": [
-[632, [51]]
+[654, [51]]
 ],
 "memberKind": "Method"
 }
 ,
 "TemporaryFolder":{
 "files": [
-[628, [46]],
-[634, [68]],
-[159, [43]],
-[638, [103,127]]
+[650, [46]],
+[656, [68]],
+[169, [43]],
+[660, [103,127]]
 ],
 "memberKind": "Property"
 }
 ,
 "Version":{
 "files": [
-[635, [48,75,112]]
+[657, [48,75,112]]
 ],
 "memberKind": "Property"
 }
@@ -29117,8 +29920,8 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[631, [45]],
-[651, [60]]
+[653, [45]],
+[673, [60]]
 ],
 "memberKind": "Constructor"
 }
@@ -29129,25 +29932,25 @@ var contents = {
 "members": {
 "Containers":{
 "files": [
-[630, [58,60,68,70,78,79]],
-[592, [97,99,102,103,121,123,124,264,268,269,273,305,311,312,317,336,337]]
+[652, [58,60,68,70,78,79]],
+[614, [97,99,102,103,121,123,124,264,268,269,273,305,311,312,317,336,337]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateContainer`2":{
 "files": [
-[630, [44]],
-[651, [9]],
-[652, [9]],
-[592, [335]]
+[652, [44]],
+[673, [9]],
+[674, [9]],
+[614, [335]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeleteContainer`1":{
 "files": [
-[630, [51]]
+[652, [51]]
 ],
 "memberKind": "Method"
 }
@@ -29155,51 +29958,56 @@ var contents = {
 "Values":{
 "files": [
 [59, [186,188,190,192,194,196,198,200,202,204]],
-[79, [39,43,44,45,49,50,51,54,68]],
-[627, [36,38,40,46,60,66,71,79,85,90,98,104,109,117,119,121,125,133,135,144,152,154,163]],
-[629, [72,79,86]],
-[631, [49,56,63]],
-[632, [48,65]],
-[633, [63,65,81]],
-[635, [60,83]],
-[637, [32,39,40,53,55,59]],
-[81, [49,60,61,62,91,94]],
+[81, [39,43,44,45,49,50,51,54,68]],
+[649, [36,38,40,46,60,66,71,79,85,90,98,104,109,117,119,121,125,133,135,144,152,154,163]],
+[651, [72,79,86]],
+[653, [49,56,63]],
+[654, [48,65]],
+[655, [63,65,81]],
+[657, [60,83]],
+[659, [32,39,40,53,55,59]],
+[83, [49,60,61,62,91,94]],
 [61, [69,70,80,94,121,285,287,310,312]],
-[72, [109,192,194]],
+[73, [109,192,194]],
 [60, [101]],
-[82, [50,100,101]],
-[83, [66]],
+[84, [50,100,101]],
+[85, [66]],
 [68, [307,309]],
 [69, [272,274]],
-[95, [97,135]],
-[160, [17,19,27,28,36]],
-[639, [36,38,67,85]],
-[84, [71,72,76,77]],
-[73, [282,286,305]],
-[98, [47,48,50,58]],
-[75, [149]],
-[76, [78,79,162]],
-[85, [41,42,73,75,176,202]],
-[91, [58,64,204,206,237]],
-[92, [70,71,72,78,79,80,86]],
-[70, [235,237,241,242,243]],
-[209, [364,366,382,397]],
-[71, [246,248,283,285]],
-[199, [60,66,292,295,306,307,321,323,324,336,347]],
-[200, [55,61,281,289,291,292]],
-[394, [43,45,48,50,53,54,207,212,217,222]],
+[101, [97,135]],
+[70, [165,171,197,201,258,260]],
+[86, [53,68,90,91,104,113,119,133,145,155,167]],
+[109, [46,72,76]],
+[94, [31]],
+[96, [31]],
+[170, [17,19,27,28,36]],
+[661, [36,38,67,85]],
+[87, [71,72,76,77]],
+[74, [282,286,305]],
+[106, [47,48,50,58]],
+[77, [149]],
+[78, [78,79,162]],
+[88, [41,42,73,75,176,202]],
+[97, [58,64,204,206,237]],
+[98, [70,71,72,78,79,80,86]],
+[71, [235,237,241,242,243]],
+[219, [364,366,382,397]],
+[72, [246,248,283,285]],
+[209, [60,66,292,295,306,307,321,323,324,336,347]],
+[210, [55,61,281,289,291,292]],
+[411, [43,45,48,50,53,54,207,212,217,222]],
 [63, [82,85]],
-[651, [9]],
-[652, [9]],
-[202, [42]],
-[203, [46]],
-[86, [49,101]],
-[77, [244]],
-[93, [60,64,65]],
-[78, [86,87]],
-[593, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
-[594, [94,129,137,198,200,226,230,237]],
-[595, [95,130,138,197,199,225,229,236]],
+[673, [9]],
+[674, [9]],
+[212, [42]],
+[213, [46]],
+[89, [49,101]],
+[79, [244]],
+[99, [60,64,65]],
+[80, [86,87]],
+[615, [142,143,144,251,256,260,263,267,299,300,301,329,330,331]],
+[616, [94,129,137,198,200,226,230,237]],
+[617, [95,130,138,197,199,225,229,236]],
 [28, [155,179]]
 ],
 "memberKind": "Property"
@@ -29211,10 +30019,10 @@ var contents = {
 "members": {
 "Always":{
 "files": [
-[630, [44]],
-[651, [9]],
-[652, [9]],
-[592, [335,336,337]]
+[652, [44]],
+[673, [9]],
+[674, [9]],
+[614, [335,336,337]]
 ],
 "memberKind": "Field"
 }
@@ -29225,7 +30033,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[635, [100,106]]
+[657, [100,106]]
 ],
 "memberKind": "Constructor"
 }
@@ -29236,16 +30044,16 @@ var contents = {
 "members": {
 "CompleteUpdatesAsync`1":{
 "files": [
-[658, [56]],
-[497, [84]]
+[680, [56]],
+[514, [84]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeferUpdates`1":{
 "files": [
-[658, [51]],
-[497, [75]]
+[680, [51]],
+[514, [75]]
 ],
 "memberKind": "Method"
 }
@@ -29258,35 +30066,35 @@ var contents = {
 "members": {
 "InvalidAlgorithm":{
 "files": [
-[638, [258,305]]
+[660, [258,305]]
 ],
 "memberKind": "Field"
 }
 ,
 "Lzms":{
 "files": [
-[638, [254,284]]
+[660, [254,284]]
 ],
 "memberKind": "Field"
 }
 ,
 "Mszip":{
 "files": [
-[638, [250,281]]
+[660, [250,281]]
 ],
 "memberKind": "Field"
 }
 ,
 "Xpress":{
 "files": [
-[638, [242,275]]
+[660, [242,275]]
 ],
 "memberKind": "Field"
 }
 ,
 "XpressHuff":{
 "files": [
-[638, [246,278]]
+[660, [246,278]]
 ],
 "memberKind": "Field"
 }
@@ -29297,14 +30105,14 @@ var contents = {
 "members": {
 "HasValue":{
 "files": [
-[638, [116]]
+[660, [116]]
 ],
 "memberKind": "?"
 }
 ,
 "Value":{
 "files": [
-[638, [118]]
+[660, [118]]
 ],
 "memberKind": "?"
 }
@@ -29315,21 +30123,21 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[638, [117]]
+[660, [117]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`3":{
 "files": [
-[638, [118]]
+[660, [118]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "FinishAsync`0":{
 "files": [
-[638, [122]]
+[660, [122]]
 ],
 "memberKind": "Method"
 }
@@ -29340,7 +30148,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[638, [137]]
+[660, [137]]
 ],
 "memberKind": "Constructor"
 }
@@ -29353,57 +30161,59 @@ var contents = {
 "members": {
 "GenerateUniqueName":{
 "files": [
-[576, [142]],
-[228, [246]],
-[429, [79]],
-[194, [515,748]],
-[195, [518]],
-[196, [798]],
-[197, [435,655]],
-[198, [565]],
-[638, [103,127]],
-[646, [42]],
-[566, [94]],
-[564, [102]],
-[500, [112]],
-[229, [87]]
+[598, [142]],
+[238, [246]],
+[446, [79]],
+[204, [497,724]],
+[205, [500]],
+[206, [782]],
+[568, [139]],
+[569, [144]],
+[207, [418,632]],
+[208, [547]],
+[660, [103,127]],
+[668, [42]],
+[588, [94]],
+[585, [102]],
+[517, [112]],
+[239, [87]]
 ],
 "memberKind": "Field"
 }
 ,
 "OpenIfExists":{
 "files": [
-[160, [122]],
-[640, [56,79]],
-[641, [53]],
-[154, [376]],
-[616, [106]],
-[85, [88,121,146,181,205]],
-[199, [187,210]],
-[200, [219]],
-[238, [41]],
-[653, [38]],
-[155, [360]]
+[170, [122]],
+[662, [56,79]],
+[663, [53]],
+[164, [376]],
+[638, [106]],
+[88, [88,121,146,181,205]],
+[209, [187,210]],
+[210, [219]],
+[248, [41]],
+[675, [38]],
+[165, [360]]
 ],
 "memberKind": "Field"
 }
 ,
 "ReplaceExisting":{
 "files": [
-[628, [82,109,136,163]],
-[636, [79]],
-[643, [90]],
-[616, [114]],
-[85, [125,147]],
-[659, [41]],
-[645, [75]],
-[647, [43]],
-[649, [78]],
-[395, [226]],
-[655, [79]],
-[656, [79]],
-[657, [79]],
-[171, [222]]
+[650, [82,109,136,163]],
+[658, [79]],
+[665, [90]],
+[638, [114]],
+[88, [125,147]],
+[681, [41]],
+[667, [75]],
+[669, [43]],
+[671, [78]],
+[412, [249]],
+[677, [79]],
+[678, [79]],
+[679, [79]],
+[181, [222]]
 ],
 "memberKind": "Field"
 }
@@ -29415,41 +30225,41 @@ var contents = {
 "Read":{
 "files": [
 [31, [68]],
-[563, [109]],
-[538, [201]],
-[660, [55]],
-[446, [68]],
-[283, [68]],
-[134, [106]],
-[661, [86]],
-[662, [57]],
-[566, [196,263,419]],
-[564, [178,245,371]],
-[500, [245,312,472]],
-[162, [101]],
-[457, [590]],
-[145, [70,102]],
-[147, [78]],
-[202, [311]],
-[203, [140,226,256,506]],
-[548, [750]],
-[506, [42]],
-[497, [52]]
+[584, [109]],
+[555, [201]],
+[682, [55]],
+[463, [68]],
+[296, [68]],
+[144, [106]],
+[683, [86]],
+[684, [57]],
+[588, [196,263,419]],
+[585, [178,245,371]],
+[517, [245,312,472]],
+[172, [101]],
+[474, [590]],
+[155, [70,102]],
+[157, [78]],
+[212, [311]],
+[213, [140,226,256,506]],
+[565, [750]],
+[523, [42]],
+[514, [52]]
 ],
 "memberKind": "Field"
 }
 ,
 "ReadWrite":{
 "files": [
-[194, [750]],
-[195, [519]],
-[196, [800]],
-[197, [657]],
-[638, [115,138]],
-[266, [216]],
-[203, [355,507]],
-[467, [169]],
-[497, [78]]
+[204, [726]],
+[205, [501]],
+[206, [784]],
+[207, [634]],
+[660, [115,138]],
+[279, [216]],
+[213, [355,507]],
+[484, [169]],
+[514, [78]]
 ],
 "memberKind": "Field"
 }
@@ -29460,62 +30270,62 @@ var contents = {
 "members": {
 "AppendTextAsync`2":{
 "files": [
-[85, [108,153,186,206]],
-[663, [67]]
+[88, [108,153,186,206]],
+[685, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadBufferAsync`1":{
 "files": [
-[664, [91]],
-[588, [136]]
+[686, [91]],
+[610, [136]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadLinesAsync`1":{
 "files": [
-[152, [52]]
+[162, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadTextAsync`1":{
 "files": [
-[628, [93,120,147,174]],
-[183, [87]],
-[642, [118]],
-[85, [148]],
-[665, [77]],
-[624, [133,149]],
-[663, [35]],
-[644, [35]],
-[648, [27]],
-[394, [251]],
-[650, [92]],
-[211, [155]]
+[650, [93,120,147,174]],
+[193, [87]],
+[664, [118]],
+[88, [148]],
+[687, [77]],
+[646, [133,149]],
+[685, [35]],
+[666, [35]],
+[670, [27]],
+[411, [251]],
+[672, [92]],
+[221, [155]]
 ],
 "memberKind": "Method"
 }
 ,
 "WriteBufferAsync`2":{
 "files": [
-[664, [65]],
-[395, [227]]
+[686, [65]],
+[412, [250]]
 ],
 "memberKind": "Method"
 }
 ,
 "WriteTextAsync`2":{
 "files": [
-[628, [83,110,137,164]],
-[642, [258]],
-[85, [149]],
-[665, [51]],
-[658, [53]],
-[645, [76]],
-[648, [48,53]]
+[650, [83,110,137,164]],
+[664, [258]],
+[88, [149]],
+[687, [51]],
+[680, [53]],
+[667, [76]],
+[670, [48,53]]
 ],
 "memberKind": "Method"
 }
@@ -29528,19 +30338,19 @@ var contents = {
 "members": {
 "DateModified":{
 "files": [
-[666, [61]],
-[416, [47]],
-[418, [47]]
+[688, [61]],
+[433, [47]],
+[435, [47]]
 ],
 "memberKind": "Property"
 }
 ,
 "Size":{
 "files": [
-[577, [143,206]],
-[666, [60]],
-[416, [46]],
-[418, [46]]
+[599, [143,206]],
+[688, [60]],
+[433, [46]],
+[435, [46]]
 ],
 "memberKind": "Property"
 }
@@ -29551,21 +30361,21 @@ var contents = {
 "members": {
 "GetGeotagAsync`1":{
 "files": [
-[325, [67]]
+[340, [60]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetGeotagAsync`2":{
 "files": [
-[325, [115]]
+[340, [110]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetGeotagFromGeolocatorAsync`2":{
 "files": [
-[325, [93]]
+[340, [87]]
 ],
 "memberKind": "Method"
 }
@@ -29576,86 +30386,86 @@ var contents = {
 "members": {
 "CameraManufacturer":{
 "files": [
-[202, [283]]
+[212, [283]]
 ],
 "memberKind": "Property"
 }
 ,
 "CameraModel":{
 "files": [
-[202, [284]]
+[212, [284]]
 ],
 "memberKind": "Property"
 }
 ,
 "DateTaken":{
 "files": [
-[202, [282]]
+[212, [282]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[416, [51]],
-[418, [51]]
+[433, [51]],
+[435, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Keywords":{
 "files": [
-[202, [228,368,372]]
+[212, [228,368,372]]
 ],
 "memberKind": "Property"
 }
 ,
 "Latitude":{
 "files": [
-[202, [255,257]]
+[212, [255,257]]
 ],
 "memberKind": "Property"
 }
 ,
 "Longitude":{
 "files": [
-[202, [255,258]]
+[212, [255,258]]
 ],
 "memberKind": "Property"
 }
 ,
 "Orientation":{
 "files": [
-[202, [250]]
+[212, [250]]
 ],
 "memberKind": "Property"
 }
 ,
 "RetrievePropertiesAsync`1":{
 "files": [
-[202, [198]]
+[212, [198]]
 ],
 "memberKind": "Method"
 }
 ,
 "SavePropertiesAsync`1":{
 "files": [
-[202, [456]]
+[212, [456]]
 ],
 "memberKind": "Method"
 }
 ,
 "Title":{
 "files": [
-[202, [280,362]]
+[212, [280,362]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[416, [50]],
-[418, [50]]
+[433, [50]],
+[435, [50]]
 ],
 "memberKind": "Property"
 }
@@ -29666,21 +30476,21 @@ var contents = {
 "members": {
 "Album":{
 "files": [
-[568, [52]]
+[590, [52]]
 ],
 "memberKind": "Property"
 }
 ,
 "Artist":{
 "files": [
-[568, [53]]
+[590, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[568, [51]]
+[590, [51]]
 ],
 "memberKind": "Property"
 }
@@ -29691,83 +30501,83 @@ var contents = {
 "members": {
 "FlipHorizontal":{
 "files": [
-[539, [56,139,167]]
+[556, [56,139,167]]
 ],
 "memberKind": "Field"
 }
 ,
 "FlipVertical":{
 "files": [
-[539, [60,143,171]]
+[556, [60,143,171]]
 ],
 "memberKind": "Field"
 }
 ,
 "Normal":{
 "files": [
-[194, [876]],
-[196, [792,927]],
-[197, [783]],
-[198, [900]],
-[539, [54,88,113,121,137,165,204,221,224,245,252]],
-[203, [612,653,654,667]]
+[204, [852]],
+[206, [776,911]],
+[207, [760]],
+[208, [884]],
+[556, [54,88,113,121,137,165,204,221,224,245,252]],
+[213, [612,653,654,667]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rotate180":{
 "files": [
-[194, [871]],
-[196, [922]],
-[197, [778]],
-[198, [895]],
-[539, [58,92,117,141,169,200,225,228,248,249]],
-[203, [606]]
+[204, [847]],
+[206, [906]],
+[207, [755]],
+[208, [879]],
+[556, [58,92,117,141,169,200,225,228,248,249]],
+[213, [606]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rotate270":{
 "files": [
-[194, [873]],
-[196, [924]],
-[197, [780]],
-[198, [897]],
-[539, [64,90,115,147,175,202,222,227,250,251]],
-[203, [601]]
+[204, [849]],
+[206, [908]],
+[207, [757]],
+[208, [881]],
+[556, [64,90,115,147,175,202,222,227,250,251]],
+[213, [601]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rotate90":{
 "files": [
-[194, [869]],
-[196, [920]],
-[197, [776]],
-[198, [893]],
-[539, [68,94,119,151,179,198,223,226,246,247]],
-[203, [609]]
+[204, [845]],
+[206, [904]],
+[207, [753]],
+[208, [877]],
+[556, [68,94,119,151,179,198,223,226,246,247]],
+[213, [609]]
 ],
 "memberKind": "Field"
 }
 ,
 "Transpose":{
 "files": [
-[539, [62,145,173]]
+[556, [62,145,173]]
 ],
 "memberKind": "Field"
 }
 ,
 "Transverse":{
 "files": [
-[539, [66,149,177]]
+[556, [66,149,177]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unspecified":{
 "files": [
-[539, [70,153,231,255]]
+[556, [70,153,231,255]]
 ],
 "memberKind": "Field"
 }
@@ -29778,14 +30588,14 @@ var contents = {
 "members": {
 "DocumentProperties":{
 "files": [
-[667, [62]]
+[689, [62]]
 ],
 "memberKind": "Field"
 }
 ,
 "ImageProperties":{
 "files": [
-[668, [69]]
+[690, [69]]
 ],
 "memberKind": "Field"
 }
@@ -29796,25 +30606,25 @@ var contents = {
 "members": {
 "GetImagePropertiesAsync`0":{
 "files": [
-[668, [88]],
-[202, [135,189]],
-[416, [49]],
-[418, [49]]
+[690, [88]],
+[212, [135,189]],
+[433, [49]],
+[435, [49]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetMusicPropertiesAsync`0":{
 "files": [
-[568, [48]]
+[590, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "RetrievePropertiesAsync`1":{
 "files": [
-[666, [67]],
-[668, [93]]
+[688, [67]],
+[690, [93]]
 ],
 "memberKind": "Method"
 }
@@ -29825,21 +30635,21 @@ var contents = {
 "members": {
 "OriginalHeight":{
 "files": [
-[669, [86]]
+[691, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "OriginalWidth":{
 "files": [
-[669, [85]]
+[691, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "Type":{
 "files": [
-[670, [58]]
+[692, [58]]
 ],
 "memberKind": "Property"
 }
@@ -29850,31 +30660,31 @@ var contents = {
 "members": {
 "DocumentsView":{
 "files": [
-[671, [51]]
+[693, [51]]
 ],
 "memberKind": "Field"
 }
 ,
 "MusicView":{
 "files": [
-[670, [52]]
+[692, [52]]
 ],
 "memberKind": "Field"
 }
 ,
 "PicturesView":{
 "files": [
-[672, [51]],
-[673, [63]]
+[694, [51]],
+[695, [63]]
 ],
 "memberKind": "Field"
 }
 ,
 "SingleItem":{
 "files": [
-[674, [53]],
-[416, [36]],
-[418, [36]]
+[696, [53]],
+[433, [36]],
+[435, [36]]
 ],
 "memberKind": "Field"
 }
@@ -29885,16 +30695,16 @@ var contents = {
 "members": {
 "ReturnOnlyIfCached":{
 "files": [
-[675, [58]],
-[674, [59]]
+[697, [58]],
+[696, [59]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseCurrentScale":{
 "files": [
-[675, [55]],
-[674, [56]]
+[697, [55]],
+[696, [56]]
 ],
 "memberKind": "Field"
 }
@@ -29905,7 +30715,7 @@ var contents = {
 "members": {
 "Image":{
 "files": [
-[670, [58]]
+[692, [58]]
 ],
 "memberKind": "Field"
 }
@@ -29918,20 +30728,20 @@ var contents = {
 "members": {
 "Name":{
 "files": [
-[228, [259,265,294]],
-[588, [83]]
+[238, [259,265,294]],
+[610, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "OpenStreamForWriteAsync":{
 "files": [
-[636, [80]],
-[643, [91]],
-[649, [79]],
-[655, [80]],
-[656, [80]],
-[657, [80]]
+[658, [80]],
+[665, [91]],
+[671, [79]],
+[677, [80]],
+[678, [80]],
+[679, [80]]
 ],
 "memberKind": "?"
 }
@@ -29942,28 +30752,28 @@ var contents = {
 "members": {
 "IsOfType`1":{
 "files": [
-[669, [82]]
+[691, [82]]
 ],
 "memberKind": "Method"
 }
 ,
 "Name":{
 "files": [
-[228, [259,265,294]],
-[669, [83]],
-[588, [83]]
+[238, [259,265,294]],
+[691, [83]],
+[610, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "OpenStreamForWriteAsync":{
 "files": [
-[636, [80]],
-[643, [91]],
-[649, [79]],
-[655, [80]],
-[656, [80]],
-[657, [80]]
+[658, [80]],
+[665, [91]],
+[671, [79]],
+[677, [80]],
+[678, [80]],
+[679, [80]]
 ],
 "memberKind": "?"
 }
@@ -29974,49 +30784,51 @@ var contents = {
 "members": {
 "HomeGroup":{
 "files": [
-[676, [47]],
-[677, [44]]
+[698, [47]],
+[699, [44]]
 ],
 "memberKind": "Property"
 }
 ,
 "MusicLibrary":{
 "files": [
-[678, [36]],
-[567, [51]]
+[700, [36]],
+[589, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "PicturesLibrary":{
 "files": [
-[576, [140]],
-[228, [245]],
-[429, [77]],
-[194, [515,748]],
-[195, [518]],
-[196, [798]],
-[197, [435,655]],
-[198, [565]],
-[679, [51]],
-[659, [40]],
-[680, [40]],
-[681, [47]],
-[682, [30]],
-[683, [61]],
-[668, [80]],
-[325, [66,88,107]],
-[676, [48]],
-[667, [65]]
+[598, [140]],
+[238, [245]],
+[446, [77]],
+[204, [497,724]],
+[205, [500]],
+[206, [782]],
+[568, [139]],
+[207, [418,632]],
+[208, [547]],
+[701, [51]],
+[681, [40]],
+[702, [40]],
+[703, [47]],
+[704, [30]],
+[705, [61]],
+[690, [80]],
+[340, [59,82,102]],
+[698, [48]],
+[689, [65]]
 ],
 "memberKind": "Property"
 }
 ,
 "VideosLibrary":{
 "files": [
-[566, [94]],
-[564, [102]],
-[500, [112]]
+[569, [144]],
+[588, [94]],
+[585, [102]],
+[517, [112]]
 ],
 "memberKind": "Property"
 }
@@ -30027,11 +30839,11 @@ var contents = {
 "members": {
 "Pictures":{
 "files": [
-[684, [47]],
-[685, [52]],
-[686, [67]],
-[416, [123]],
-[418, [123]]
+[706, [47]],
+[707, [52]],
+[708, [67]],
+[433, [123]],
+[435, [123]]
 ],
 "memberKind": "Field"
 }
@@ -30042,21 +30854,21 @@ var contents = {
 "members": {
 "GenerateUniqueName":{
 "files": [
-[644, [69]],
-[238, [44]],
-[653, [41]]
+[666, [69]],
+[248, [44]],
+[675, [41]]
 ],
 "memberKind": "Field"
 }
 ,
 "ReplaceExisting":{
 "files": [
-[159, [43]],
-[133, [126]],
-[160, [127]],
-[681, [47]],
-[654, [46]],
-[567, [53]]
+[169, [43]],
+[143, [126]],
+[170, [127]],
+[703, [47]],
+[676, [46]],
+[589, [53]]
 ],
 "memberKind": "Field"
 }
@@ -30069,247 +30881,247 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[159, [147,205]],
-[563, [99]],
-[543, [75]],
-[545, [74,127]],
-[546, [77]],
-[420, [80]],
-[577, [128,176]],
-[538, [182]],
-[660, [40]],
-[446, [53]],
-[283, [53]],
-[133, [44]],
-[134, [136]],
-[638, [176]],
-[616, [63]],
-[687, [46]],
-[688, [39]],
-[689, [41]],
-[690, [42]],
-[675, [42]],
-[670, [42]],
-[671, [42]],
-[674, [44]],
-[691, [39]],
-[662, [48]],
-[413, [62]],
-[560, [51,68]],
-[559, [49,73]],
-[460, [51,67]],
-[566, [255]],
-[564, [237]],
-[500, [304]],
-[588, [67]],
-[238, [30]],
-[653, [27]],
-[162, [293]],
-[692, [47]],
+[169, [147,205]],
+[584, [99]],
+[560, [75]],
+[562, [74,127]],
+[563, [77]],
+[437, [80]],
+[599, [128,176]],
+[555, [182]],
+[682, [40]],
+[463, [53]],
+[296, [53]],
+[143, [44]],
+[144, [136]],
+[660, [176]],
+[638, [63]],
+[709, [46]],
+[710, [39]],
+[711, [41]],
+[712, [42]],
+[697, [42]],
+[692, [42]],
+[693, [42]],
+[696, [44]],
+[713, [39]],
+[684, [48]],
+[430, [62]],
+[581, [51,68]],
+[580, [49,73]],
+[477, [51,67]],
+[588, [255]],
+[585, [237]],
+[517, [304]],
+[610, [67]],
+[248, [30]],
+[675, [27]],
+[172, [293]],
+[714, [47]],
+[594, [52]],
+[155, [88]],
+[156, [52]],
+[157, [64]],
+[212, [78]],
+[213, [183]],
+[484, [189]],
+[565, [336]],
 [572, [52]],
-[145, [88]],
-[146, [52]],
-[147, [64]],
-[202, [78]],
-[203, [183]],
-[467, [189]],
-[548, [336]],
-[551, [52]],
-[497, [42]]
+[514, [42]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CommitButtonText":{
 "files": [
-[238, [33]],
-[653, [30]],
-[548, [339]]
+[248, [33]],
+[675, [30]],
+[565, [339]]
 ],
 "memberKind": "Property"
 }
 ,
 "FileTypeFilter":{
 "files": [
-[159, [148,206]],
-[563, [101,102,103,104,105]],
-[543, [77,78,79,80]],
-[545, [76,77,78,129]],
-[546, [79,80,81]],
-[420, [82]],
-[577, [129,177]],
-[538, [185,186,187,188]],
-[660, [43,44]],
-[446, [56,57]],
-[283, [56,57]],
-[133, [44]],
-[134, [136]],
-[638, [178]],
-[616, [66]],
-[687, [48]],
-[688, [42,43,44]],
-[689, [44]],
-[690, [44]],
-[675, [45]],
-[670, [45]],
-[671, [45]],
-[674, [47]],
-[691, [42]],
-[662, [51,52]],
-[413, [64]],
-[560, [53,70]],
-[559, [51,75,76,77]],
-[460, [53,69]],
-[566, [257,258]],
-[564, [239,240]],
-[500, [306,307]],
-[588, [70]],
-[238, [34,35,36]],
-[653, [31,32,33]],
-[162, [293]],
-[692, [47]],
-[572, [57]],
-[145, [88]],
-[146, [52]],
-[147, [64]],
-[202, [79]],
-[203, [184]],
-[467, [191,192]],
-[548, [342,346]],
-[551, [55,56,57]],
-[497, [45]]
+[169, [148,206]],
+[584, [101,102,103,104,105]],
+[560, [77,78,79,80]],
+[562, [76,77,78,129]],
+[563, [79,80,81]],
+[437, [82]],
+[599, [129,177]],
+[555, [185,186,187,188]],
+[682, [43,44]],
+[463, [56,57]],
+[296, [56,57]],
+[143, [44]],
+[144, [136]],
+[660, [178]],
+[638, [66]],
+[709, [48]],
+[710, [42,43,44]],
+[711, [44]],
+[712, [44]],
+[697, [45]],
+[692, [45]],
+[693, [45]],
+[696, [47]],
+[713, [42]],
+[684, [51,52]],
+[430, [64]],
+[581, [53,70]],
+[580, [51,75,76,77]],
+[477, [53,69]],
+[588, [257,258]],
+[585, [239,240]],
+[517, [306,307]],
+[610, [70]],
+[248, [34,35,36]],
+[675, [31,32,33]],
+[172, [293]],
+[714, [47]],
+[594, [57]],
+[155, [88]],
+[156, [52]],
+[157, [64]],
+[212, [79]],
+[213, [184]],
+[484, [191,192]],
+[565, [342,346]],
+[572, [55,56,57]],
+[514, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "PickMultipleFilesAsync`0":{
 "files": [
-[577, [190]],
-[133, [50]],
-[689, [45]],
-[690, [46]],
-[567, [40]],
-[569, [61]],
-[146, [59]],
-[548, [349]]
+[599, [190]],
+[143, [50]],
+[711, [45]],
+[712, [46]],
+[589, [40]],
+[591, [61]],
+[156, [59]],
+[565, [349]]
 ],
 "memberKind": "Method"
 }
 ,
 "PickSingleFileAsync`0":{
 "files": [
-[159, [150,207]],
-[563, [106]],
-[543, [82]],
-[545, [80,131]],
-[546, [83]],
-[420, [84]],
-[577, [184]],
-[538, [190]],
-[660, [50]],
-[446, [63]],
-[283, [63]],
-[134, [143]],
-[638, [180]],
-[616, [67]],
-[687, [49]],
-[688, [45]],
-[675, [48]],
-[670, [48]],
-[671, [48]],
-[674, [50]],
-[691, [43]],
-[662, [53]],
-[413, [65]],
-[560, [54,71]],
-[559, [52,78]],
-[460, [54,70]],
-[566, [260]],
-[564, [242]],
-[500, [309]],
-[588, [71]],
-[238, [38]],
-[653, [35]],
-[162, [299]],
-[692, [54]],
-[572, [69]],
-[145, [95]],
-[147, [71]],
-[202, [82]],
-[203, [187]],
-[467, [193]],
-[551, [59]],
-[497, [47]]
+[169, [150,207]],
+[584, [106]],
+[560, [82]],
+[562, [80,131]],
+[563, [83]],
+[437, [84]],
+[599, [184]],
+[555, [190]],
+[682, [50]],
+[463, [63]],
+[296, [63]],
+[144, [143]],
+[660, [180]],
+[638, [67]],
+[709, [49]],
+[710, [45]],
+[697, [48]],
+[692, [48]],
+[693, [48]],
+[696, [50]],
+[713, [43]],
+[684, [53]],
+[430, [65]],
+[581, [54,71]],
+[580, [52,78]],
+[477, [54,70]],
+[588, [260]],
+[585, [242]],
+[517, [309]],
+[610, [71]],
+[248, [38]],
+[675, [35]],
+[172, [299]],
+[714, [54]],
+[594, [69]],
+[155, [95]],
+[157, [71]],
+[212, [82]],
+[213, [187]],
+[484, [193]],
+[572, [59]],
+[514, [47]]
 ],
 "memberKind": "Method"
 }
 ,
 "SuggestedStartLocation":{
 "files": [
-[563, [100]],
-[543, [76]],
-[545, [75,128]],
-[546, [78]],
-[420, [81]],
-[538, [184]],
-[660, [47]],
-[446, [60]],
-[283, [60]],
-[134, [136]],
-[616, [65]],
-[687, [47]],
-[688, [41]],
-[689, [43]],
-[691, [41]],
-[662, [50]],
-[413, [63]],
-[560, [52,69]],
-[559, [50,74]],
-[460, [52,68]],
-[566, [256]],
-[564, [238]],
-[500, [305]],
-[238, [32]],
-[653, [29]],
-[162, [293]],
-[692, [47]],
-[572, [53]],
-[145, [88]],
-[146, [52]],
-[147, [64]],
-[202, [80]],
-[203, [185]],
-[467, [190]],
-[548, [338]],
-[551, [54]],
-[497, [43]]
+[584, [100]],
+[560, [76]],
+[562, [75,128]],
+[563, [78]],
+[437, [81]],
+[555, [184]],
+[682, [47]],
+[463, [60]],
+[296, [60]],
+[144, [136]],
+[638, [65]],
+[709, [47]],
+[710, [41]],
+[711, [43]],
+[713, [41]],
+[684, [50]],
+[430, [63]],
+[581, [52,69]],
+[580, [50,74]],
+[477, [52,68]],
+[588, [256]],
+[585, [238]],
+[517, [305]],
+[248, [32]],
+[675, [29]],
+[172, [293]],
+[714, [47]],
+[594, [53]],
+[155, [88]],
+[156, [52]],
+[157, [64]],
+[212, [80]],
+[213, [185]],
+[484, [190]],
+[565, [338]],
+[572, [54]],
+[514, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "ViewMode":{
 "files": [
-[543, [81]],
-[545, [79,130]],
-[546, [82]],
-[420, [83]],
-[538, [183]],
-[133, [44]],
-[134, [136]],
-[616, [64]],
-[688, [40]],
-[689, [42]],
-[690, [43]],
-[691, [40]],
-[662, [49]],
-[238, [31]],
-[653, [28]],
-[692, [47]],
-[145, [88]],
-[146, [52]],
-[147, [64]],
-[548, [337]],
-[551, [53]]
+[560, [81]],
+[562, [79,130]],
+[563, [82]],
+[437, [83]],
+[555, [183]],
+[143, [44]],
+[144, [136]],
+[638, [64]],
+[710, [40]],
+[711, [42]],
+[712, [43]],
+[713, [40]],
+[684, [49]],
+[248, [31]],
+[675, [28]],
+[714, [47]],
+[155, [88]],
+[156, [52]],
+[157, [64]],
+[565, [337]],
+[572, [53]]
 ],
 "memberKind": "Property"
 }
@@ -30320,68 +31132,68 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[298, [84]],
-[658, [41]],
-[693, [40]],
-[413, [105]],
-[203, [470]],
-[467, [160]],
-[497, [61]]
+[311, [84]],
+[680, [41]],
+[715, [40]],
+[430, [105]],
+[213, [470]],
+[484, [160]],
+[514, [61]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DefaultFileExtension":{
 "files": [
-[203, [474]]
+[213, [474]]
 ],
 "memberKind": "Property"
 }
 ,
 "FileTypeChoices":{
 "files": [
-[298, [85,86,87]],
-[658, [44]],
-[693, [41]],
-[413, [107]],
-[203, [471,472,473]],
-[467, [162]],
-[497, [65]]
+[311, [85,86,87]],
+[680, [44]],
+[715, [41]],
+[430, [107]],
+[213, [471,472,473]],
+[484, [162]],
+[514, [65]]
 ],
 "memberKind": "Property"
 }
 ,
 "PickSaveFileAsync`0":{
 "files": [
-[298, [89]],
-[658, [47]],
-[693, [43]],
-[413, [110]],
-[203, [478]],
-[467, [164]],
-[497, [70]]
+[311, [89]],
+[680, [47]],
+[715, [43]],
+[430, [110]],
+[213, [478]],
+[484, [164]],
+[514, [70]]
 ],
 "memberKind": "Method"
 }
 ,
 "SuggestedFileName":{
 "files": [
-[298, [88]],
-[658, [46]],
-[413, [108]],
-[203, [475]],
-[497, [68]]
+[311, [88]],
+[680, [46]],
+[430, [108]],
+[213, [475]],
+[514, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "SuggestedStartLocation":{
 "files": [
-[658, [42]],
-[413, [106]],
-[203, [476]],
-[467, [161]],
-[497, [62]]
+[680, [42]],
+[430, [106]],
+[213, [476]],
+[484, [161]],
+[514, [62]]
 ],
 "memberKind": "Property"
 }
@@ -30392,49 +31204,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[625, [40]],
-[672, [42]],
-[673, [45]],
-[694, [37]],
-[695, [81]]
+[647, [40]],
+[694, [42]],
+[695, [45]],
+[716, [37]],
+[717, [81]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "FileTypeFilter":{
 "files": [
-[625, [42,43,44]],
-[672, [45]],
-[673, [48]],
-[694, [38]],
-[695, [83,84]]
+[647, [42,43,44]],
+[694, [45]],
+[695, [48]],
+[716, [38]],
+[717, [83,84]]
 ],
 "memberKind": "Property"
 }
 ,
 "PickSingleFolderAsync`0":{
 "files": [
-[625, [45]],
-[672, [48]],
-[673, [51]],
-[694, [41]],
-[695, [85]]
+[647, [45]],
+[694, [48]],
+[695, [51]],
+[716, [41]],
+[717, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "SuggestedStartLocation":{
 "files": [
-[625, [41]],
-[694, [40]],
-[695, [82]]
+[647, [41]],
+[716, [40]],
+[717, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "ViewMode":{
 "files": [
-[694, [39]]
+[716, [39]]
 ],
 "memberKind": "Property"
 }
@@ -30445,78 +31257,78 @@ var contents = {
 "members": {
 "Desktop":{
 "files": [
-[625, [41]]
+[647, [41]]
 ],
 "memberKind": "Field"
 }
 ,
 "DocumentsLibrary":{
 "files": [
-[616, [65]],
-[689, [43]],
-[658, [42]],
-[694, [40]],
-[146, [55]],
-[497, [44,62]]
+[638, [65]],
+[711, [43]],
+[680, [42]],
+[716, [40]],
+[156, [55]],
+[514, [44,62]]
 ],
 "memberKind": "Field"
 }
 ,
 "HomeGroup":{
 "files": [
-[691, [41]],
-[662, [50]]
+[713, [41]],
+[684, [50]]
 ],
 "memberKind": "Field"
 }
 ,
 "MusicLibrary":{
 "files": [
-[563, [100]],
-[543, [76]],
-[545, [75,128]],
-[546, [78]],
-[420, [81]],
-[559, [74]],
-[572, [53]],
-[548, [338]]
+[584, [100]],
+[560, [76]],
+[562, [75,128]],
+[563, [78]],
+[437, [81]],
+[580, [74]],
+[594, [53]],
+[565, [338]]
 ],
 "memberKind": "Field"
 }
 ,
 "PicturesLibrary":{
 "files": [
-[538, [184]],
-[134, [139]],
-[687, [47]],
-[688, [41]],
-[238, [32]],
-[653, [29]],
-[162, [295]],
-[692, [50]],
-[145, [91]],
-[147, [67]],
-[202, [80]],
-[203, [185,476]],
-[467, [161,190]],
-[695, [82]]
+[555, [184]],
+[144, [139]],
+[709, [47]],
+[710, [41]],
+[248, [32]],
+[675, [29]],
+[172, [295]],
+[714, [50]],
+[155, [91]],
+[157, [67]],
+[212, [80]],
+[213, [185,476]],
+[484, [161,190]],
+[717, [82]]
 ],
 "memberKind": "Field"
 }
 ,
 "VideosLibrary":{
 "files": [
-[660, [47]],
-[446, [60]],
-[283, [60]],
-[413, [63,106]],
-[560, [52,69]],
-[559, [50]],
-[460, [52,68]],
-[566, [256]],
-[564, [238]],
-[500, [305]],
-[551, [54]]
+[682, [47]],
+[463, [60]],
+[296, [60]],
+[430, [63,106]],
+[581, [52,69]],
+[580, [50]],
+[477, [52,68]],
+[588, [256]],
+[585, [238]],
+[517, [305]],
+[572, [54]]
 ],
 "memberKind": "Field"
 }
@@ -30527,34 +31339,34 @@ var contents = {
 "members": {
 "List":{
 "files": [
-[133, [46]],
-[689, [42]],
-[694, [39]],
-[146, [54]],
-[548, [337]]
+[143, [46]],
+[711, [42]],
+[716, [39]],
+[156, [54]],
+[565, [337]]
 ],
 "memberKind": "Field"
 }
 ,
 "Thumbnail":{
 "files": [
-[543, [81]],
-[545, [79,130]],
-[546, [82]],
-[420, [83]],
-[538, [183]],
-[134, [138]],
-[616, [64]],
-[688, [40]],
-[690, [43]],
-[691, [40]],
-[662, [49]],
-[238, [31]],
-[653, [28]],
-[692, [49]],
-[145, [90]],
-[147, [66]],
-[551, [53]]
+[560, [81]],
+[562, [79,130]],
+[563, [82]],
+[437, [83]],
+[555, [183]],
+[144, [138]],
+[638, [64]],
+[710, [40]],
+[712, [43]],
+[713, [40]],
+[684, [49]],
+[248, [31]],
+[675, [28]],
+[714, [49]],
+[155, [90]],
+[157, [66]],
+[572, [53]]
 ],
 "memberKind": "Field"
 }
@@ -30567,18 +31379,18 @@ var contents = {
 "members": {
 "Added":{
 "files": [
-[161, [78]],
-[645, [82]],
-[502, [94]]
+[171, [78]],
+[667, [82]],
+[519, [94]]
 ],
 "memberKind": "Field"
 }
 ,
 "AlreadyAdded":{
 "files": [
-[161, [79]],
-[645, [83]],
-[502, [95]]
+[171, [79]],
+[667, [83]],
+[519, [95]]
 ],
 "memberKind": "Field"
 }
@@ -30589,36 +31401,36 @@ var contents = {
 "members": {
 "AddFile`2":{
 "files": [
-[161, [76]],
-[645, [80]],
-[502, [92]]
+[171, [76]],
+[667, [80]],
+[519, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "ContainsFile`1":{
 "files": [
-[161, [63,94]],
-[645, [64,98]],
-[502, [63,111]]
+[171, [63,94]],
+[667, [64,98]],
+[519, [63,111]]
 ],
 "memberKind": "Method"
 }
 ,
 "FileRemoved":{
 "files": [
-[161, [64,69]],
-[645, [65,70]],
-[502, [64,69]]
+[171, [64,69]],
+[667, [65,70]],
+[519, [64,69]]
 ],
 "memberKind": "Event"
 }
 ,
 "RemoveFile`1":{
 "files": [
-[161, [96]],
-[645, [100]],
-[502, [113]]
+[171, [96]],
+[667, [100]],
+[519, [113]]
 ],
 "memberKind": "Method"
 }
@@ -30629,9 +31441,9 @@ var contents = {
 "members": {
 "Id":{
 "files": [
-[161, [50]],
-[645, [51]],
-[502, [50]]
+[171, [50]],
+[667, [51]],
+[519, [50]]
 ],
 "memberKind": "Property"
 }
@@ -30642,17 +31454,17 @@ var contents = {
 "members": {
 "FileName":{
 "files": [
-[646, [42]],
-[647, [43]]
+[668, [42]],
+[669, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "TargetFileRequested":{
 "files": [
-[696, [67,72]],
-[646, [50,55]],
-[647, [53,58]]
+[718, [67,72]],
+[668, [50,55]],
+[669, [53,58]]
 ],
 "memberKind": "Event"
 }
@@ -30663,18 +31475,18 @@ var contents = {
 "members": {
 "GetDeferral`0":{
 "files": [
-[696, [47]],
-[646, [40]],
-[647, [41]]
+[718, [47]],
+[668, [40]],
+[669, [41]]
 ],
 "memberKind": "Method"
 }
 ,
 "TargetFile":{
 "files": [
-[696, [60]],
-[646, [42]],
-[647, [45]]
+[718, [60]],
+[668, [42]],
+[669, [45]]
 ],
 "memberKind": "Property"
 }
@@ -30685,9 +31497,9 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[696, [61]],
-[646, [45]],
-[647, [48]]
+[718, [61]],
+[668, [45]],
+[669, [48]]
 ],
 "memberKind": "Method"
 }
@@ -30698,9 +31510,9 @@ var contents = {
 "members": {
 "Request":{
 "files": [
-[696, [47,60]],
-[646, [40,42]],
-[647, [41,45]]
+[718, [47,60]],
+[668, [40,42]],
+[669, [41,45]]
 ],
 "memberKind": "Property"
 }
@@ -30717,9 +31529,9 @@ var contents = {
 "members": {
 "RequireUpdateOnAccess":{
 "files": [
-[644, [70]],
-[645, [77]],
-[647, [44]]
+[666, [70]],
+[667, [77]],
+[669, [44]]
 ],
 "memberKind": "Field"
 }
@@ -30748,9 +31560,9 @@ var contents = {
 "members": {
 "SetUpdateInformation`5":{
 "files": [
-[644, [70]],
-[645, [77]],
-[647, [44]]
+[666, [70]],
+[667, [77]],
+[669, [44]]
 ],
 "memberKind": "Method"
 }
@@ -30775,8 +31587,8 @@ var contents = {
 ,
 "UIStatus":{
 "files": [
-[663, [59,73]],
-[644, [61,78]],
+[685, [59,73]],
+[666, [61,78]],
 [29, [83]]
 ],
 "memberKind": "Property"
@@ -30795,8 +31607,8 @@ var contents = {
 "members": {
 "File":{
 "files": [
-[663, [54,67,68]],
-[644, [56,69]]
+[685, [54,67,68]],
+[666, [56,69]]
 ],
 "memberKind": "Property"
 }
@@ -30810,8 +31622,8 @@ var contents = {
 ,
 "Status":{
 "files": [
-[663, [56,70]],
-[644, [58,75]],
+[685, [56,70]],
+[666, [58,75]],
 [29, [86,92]]
 ],
 "memberKind": "Property"
@@ -30819,7 +31631,7 @@ var contents = {
 ,
 "UpdateLocalFile`1":{
 "files": [
-[644, [71]]
+[666, [71]]
 ],
 "memberKind": "Method"
 }
@@ -30830,8 +31642,8 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[663, [57,71]],
-[644, [59,76]],
+[685, [57,71]],
+[666, [59,76]],
 [29, [87,93]]
 ],
 "memberKind": "Method"
@@ -30854,17 +31666,17 @@ var contents = {
 "members": {
 "Complete":{
 "files": [
-[658, [57]],
-[663, [56,70]],
-[644, [58]],
-[497, [85]]
+[680, [57]],
+[685, [56,70]],
+[666, [58]],
+[514, [85]]
 ],
 "memberKind": "Field"
 }
 ,
 "CompleteAndRenamed":{
 "files": [
-[644, [75]]
+[666, [75]]
 ],
 "memberKind": "Field"
 }
@@ -30889,15 +31701,15 @@ var contents = {
 "members": {
 "BeforeAccess":{
 "files": [
-[645, [77]]
+[667, [77]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotNeeded":{
 "files": [
-[644, [70]],
-[647, [44]]
+[666, [70]],
+[669, [44]]
 ],
 "memberKind": "Field"
 }
@@ -30908,8 +31720,8 @@ var contents = {
 "members": {
 "Complete":{
 "files": [
-[663, [42]],
-[644, [42]]
+[685, [42]],
+[666, [42]]
 ],
 "memberKind": "Field"
 }
@@ -30941,15 +31753,15 @@ var contents = {
 "members": {
 "AfterWrite":{
 "files": [
-[644, [70]],
-[647, [44]]
+[666, [70]],
+[669, [44]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotNeeded":{
 "files": [
-[645, [77]]
+[667, [77]]
 ],
 "memberKind": "Field"
 }
@@ -30964,17 +31776,17 @@ var contents = {
 "members": {
 "OrderByName":{
 "files": [
-[641, [81]],
-[668, [62]]
+[663, [81]],
+[690, [62]]
 ],
 "memberKind": "Field"
 }
 ,
 "OrderBySearchRank":{
 "files": [
-[678, [41]],
-[676, [41]],
-[677, [89]]
+[700, [41]],
+[698, [41]],
+[699, [89]]
 ],
 "memberKind": "Field"
 }
@@ -30985,22 +31797,22 @@ var contents = {
 "members": {
 "GroupByMonth":{
 "files": [
-[673, [54]],
-[683, [35]]
+[695, [54]],
+[705, [35]]
 ],
 "memberKind": "Field"
 }
 ,
 "GroupByRating":{
 "files": [
-[683, [43]]
+[705, [43]]
 ],
 "memberKind": "Field"
 }
 ,
 "GroupByTag":{
 "files": [
-[683, [51]]
+[705, [51]]
 ],
 "memberKind": "Field"
 }
@@ -31011,71 +31823,71 @@ var contents = {
 "members": {
 "AddAsync`1":{
 "files": [
-[160, [97]],
-[697, [91]]
+[170, [97]],
+[719, [91]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateQuery`4":{
 "files": [
-[160, [106]],
-[698, [112,122]],
-[699, [60]]
+[170, [106]],
+[720, [112,122]],
+[721, [60]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeleteAllAsync`0":{
 "files": [
-[698, [152]]
+[720, [152]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeleteAsync`1":{
 "files": [
-[698, [134]]
+[720, [134]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeleteMultipleAsync`1":{
 "files": [
-[698, [144]]
+[720, [144]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetIndexer`1":{
 "files": [
-[697, [90]],
-[698, [47,54,108]],
-[699, [46,53]],
-[639, [65]]
+[719, [90]],
+[720, [47,54,108]],
+[721, [46,53]],
+[661, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "RetrievePropertiesAsync`2":{
 "files": [
-[697, [95]],
-[698, [60,74]]
+[719, [95]],
+[720, [60,74]]
 ],
 "memberKind": "Method"
 }
 ,
 "Revision":{
 "files": [
-[160, [36]],
-[639, [69,70,73,85]]
+[170, [36]],
+[661, [69,70,73,85]]
 ],
 "memberKind": "Property"
 }
 ,
 "UpdateAsync`1":{
 "files": [
-[698, [70]]
+[720, [70]]
 ],
 "memberKind": "Method"
 }
@@ -31086,15 +31898,15 @@ var contents = {
 "members": {
 "GetAsync`0":{
 "files": [
-[699, [61]]
+[721, [61]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCountAsync`0":{
 "files": [
-[160, [107]],
-[698, [113,123]]
+[170, [107]],
+[720, [113,123]]
 ],
 "memberKind": "Method"
 }
@@ -31105,41 +31917,41 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[160, [88]],
-[697, [80]],
-[698, [64]]
+[170, [88]],
+[719, [80]],
+[720, [64]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Id":{
 "files": [
-[160, [95]],
-[697, [81]],
-[698, [66]]
+[170, [95]],
+[719, [81]],
+[720, [66]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[160, [92,93,94]],
-[697, [82,83,84,95,96]],
-[698, [65]]
+[170, [92,93,94]],
+[719, [82,83,84,95,96]],
+[720, [65]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stream":{
 "files": [
-[697, [85]]
+[719, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "StreamContentType":{
 "files": [
-[697, [86]]
+[719, [86]]
 ],
 "memberKind": "Property"
 }
@@ -31150,16 +31962,16 @@ var contents = {
 "members": {
 "OnlyUseIndexer":{
 "files": [
-[641, [92]],
-[667, [60]]
+[663, [92]],
+[689, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseIndexerWhenAvailable":{
 "files": [
-[416, [111]],
-[418, [111]]
+[433, [111]],
+[435, [111]]
 ],
 "memberKind": "Field"
 }
@@ -31170,62 +31982,62 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[641, [90]],
-[667, [59]],
-[416, [110]],
-[418, [110]]
+[663, [90]],
+[689, [59]],
+[433, [110]],
+[435, [110]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[683, [35,43,51]]
+[705, [35,43,51]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[678, [41]],
-[668, [62]],
-[676, [41]],
-[677, [89]]
+[700, [41]],
+[690, [62]],
+[698, [41]],
+[699, [89]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ApplicationSearchFilter":{
 "files": [
-[641, [94]]
+[663, [94]]
 ],
 "memberKind": "Property"
 }
 ,
 "IndexerOption":{
 "files": [
-[641, [92]],
-[667, [60]],
-[416, [111]],
-[418, [111]]
+[663, [92]],
+[689, [60]],
+[433, [111]],
+[435, [111]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetPropertyPrefetch`2":{
 "files": [
-[668, [69]],
-[667, [62]]
+[690, [69]],
+[689, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "UserSearchFilter":{
 "files": [
-[678, [43,53]],
-[676, [42]],
-[677, [90]],
-[667, [61]]
+[700, [43,53]],
+[698, [42]],
+[699, [90]],
+[689, [61]]
 ],
 "memberKind": "Property"
 }
@@ -31236,38 +32048,38 @@ var contents = {
 "members": {
 "ContentsChanged":{
 "files": [
-[416, [113]],
-[418, [113]]
+[433, [113]],
+[435, [113]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetFilesAsync`2":{
 "files": [
-[641, [55]],
-[678, [49]],
-[668, [81]],
-[694, [46]],
-[676, [49]],
-[677, [92]],
-[667, [66]],
-[416, [172]],
-[418, [172]]
+[663, [55]],
+[700, [49]],
+[690, [81]],
+[716, [46]],
+[698, [49]],
+[699, [92]],
+[689, [66]],
+[433, [172]],
+[435, [172]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetItemCountAsync`0":{
 "files": [
-[416, [152]],
-[418, [152]]
+[433, [152]],
+[435, [152]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetMatchingPropertiesWithRanges`1":{
 "files": [
-[667, [69]]
+[689, [69]]
 ],
 "memberKind": "Method"
 }
@@ -31278,8 +32090,8 @@ var contents = {
 "members": {
 "GetFoldersAsync`2":{
 "files": [
-[673, [59]],
-[683, [64]]
+[695, [59]],
+[705, [64]]
 ],
 "memberKind": "Method"
 }
@@ -31290,21 +32102,21 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[697, [65,69,73]]
+[719, [65,69,73]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Language":{
 "files": [
-[697, [66,70,74]]
+[719, [66,70,74]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[697, [67,71,75]]
+[719, [67,71,75]]
 ],
 "memberKind": "Property"
 }
@@ -31317,7 +32129,7 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[635, [68,95]]
+[657, [68,95]]
 ],
 "memberKind": "Method"
 }
@@ -31328,7 +32140,7 @@ var contents = {
 "members": {
 "GetDeferral`0":{
 "files": [
-[635, [46,73]]
+[657, [46,73]]
 ],
 "memberKind": "Method"
 }
@@ -31339,61 +32151,61 @@ var contents = {
 "members": {
 "ContentType":{
 "files": [
-[563, [113]],
-[660, [56]],
-[446, [69]],
-[283, [69]],
-[662, [58]],
-[413, [79]],
-[560, [61,78]],
-[559, [59]],
-[460, [61]],
-[566, [199,266,420]],
-[564, [181,248,372]],
-[500, [248,315,473]],
-[548, [619,786]]
+[584, [113]],
+[682, [56]],
+[463, [69]],
+[296, [69]],
+[684, [58]],
+[430, [79]],
+[581, [61,78]],
+[580, [59]],
+[477, [61]],
+[588, [199,266,420]],
+[585, [181,248,372]],
+[517, [248,315,473]],
+[565, [619,786]]
 ],
 "memberKind": "Property"
 }
 ,
 "CopyAsync`1":{
 "files": [
-[634, [46,57,68]],
-[133, [126]],
-[681, [47]],
-[644, [69]],
-[238, [44]],
-[653, [41]],
-[654, [46]]
+[656, [46,57,68]],
+[143, [126]],
+[703, [47]],
+[666, [69]],
+[248, [44]],
+[675, [41]],
+[676, [46]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateStreamedFileFromUriAsync`3":{
 "files": [
-[502, [90]]
+[519, [90]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeleteAsync`0":{
 "files": [
-[616, [110]],
-[700, [48]],
-[566, [216,231]],
-[564, [198,213]],
-[500, [265,280]],
-[394, [244]],
-[650, [85]]
+[638, [110]],
+[722, [48]],
+[588, [216,231]],
+[585, [198,213]],
+[517, [265,280]],
+[411, [244]],
+[672, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisplayName":{
 "files": [
-[667, [74]],
-[416, [44]],
-[418, [44]]
+[689, [74]],
+[433, [44]],
+[435, [44]]
 ],
 "memberKind": "Property"
 }
@@ -31401,27 +32213,27 @@ var contents = {
 "FileType":{
 "files": [
 [31, [69]],
-[298, [122]],
-[666, [56]],
-[203, [492]]
+[311, [122]],
+[688, [56]],
+[213, [492]]
 ],
 "memberKind": "Property"
 }
 ,
 "FolderRelativeId":{
 "files": [
-[416, [48]],
-[418, [48]]
+[433, [48]],
+[435, [48]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetBasicPropertiesAsync`0":{
 "files": [
-[577, [142]],
-[666, [59]],
-[416, [45]],
-[418, [45]]
+[599, [142]],
+[688, [59]],
+[433, [45]],
+[435, [45]]
 ],
 "memberKind": "Method"
 }
@@ -31429,117 +32241,117 @@ var contents = {
 "GetFileFromApplicationUriAsync`1":{
 "files": [
 [31, [67]],
-[634, [45,56,67]],
-[183, [86]],
+[656, [45,56,67]],
+[193, [86]],
 [58, [310,411]],
-[701, [60]],
-[654, [37]],
-[457, [589]],
-[506, [41]],
-[152, [51]],
-[211, [154]]
+[723, [60]],
+[676, [37]],
+[474, [589]],
+[523, [41]],
+[162, [51]],
+[221, [154]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFileFromPathAsync`1":{
 "files": [
-[416, [35]],
-[418, [35]]
+[433, [35]],
+[435, [35]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetParentAsync`0":{
 "files": [
-[702, [48]]
+[724, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetScaledImageAsThumbnailAsync`1":{
 "files": [
-[674, [62]]
+[696, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetThumbnailAsync`1":{
 "files": [
-[675, [62]],
-[670, [54]],
-[671, [53]],
-[416, [36]],
-[418, [36]]
+[697, [62]],
+[692, [54]],
+[693, [53]],
+[433, [36]],
+[435, [36]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsAvailable":{
 "files": [
-[694, [60]]
+[716, [60]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEqual`1":{
 "files": [
-[687, [54]]
+[709, [54]]
 ],
 "memberKind": "Method"
 }
 ,
 "MoveAsync`1":{
 "files": [
-[199, [189,214]]
+[209, [189,214]]
 ],
 "memberKind": "Method"
 }
 ,
 "Name":{
 "files": [
-[159, [184,214]],
+[169, [184,214]],
 [32, [51]],
-[298, [97]],
-[576, [154]],
-[577, [152,155]],
-[133, [126,129]],
-[638, [100,102,126]],
-[659, [42]],
-[700, [47]],
-[680, [44]],
-[702, [52]],
-[665, [52,78]],
-[664, [66,95]],
-[661, [59,95,99]],
-[666, [55]],
-[624, [54,55,59,60,134,150]],
-[681, [48]],
-[688, [49]],
-[689, [52]],
-[658, [53,59,63]],
-[663, [36]],
-[644, [36,69]],
-[690, [51]],
-[693, [47]],
-[678, [67]],
-[673, [80]],
-[682, [45]],
-[683, [71]],
-[668, [84]],
-[694, [52]],
-[676, [54]],
-[677, [97]],
-[238, [44,46]],
-[653, [41,43]],
-[567, [59]],
-[145, [106]],
-[147, [82]],
-[202, [158,202,317]],
-[203, [145,164,203,232,444,558]],
-[548, [767]],
-[551, [62]],
-[497, [88]]
+[311, [97]],
+[598, [154]],
+[599, [152,155]],
+[143, [126,129]],
+[660, [100,102,126]],
+[681, [42]],
+[722, [47]],
+[702, [44]],
+[724, [52]],
+[687, [52,78]],
+[686, [66,95]],
+[683, [59,95,99]],
+[688, [55]],
+[646, [54,55,59,60,134,150]],
+[703, [48]],
+[710, [49]],
+[711, [52]],
+[680, [53,59,63]],
+[685, [36]],
+[666, [36,69]],
+[712, [51]],
+[715, [47]],
+[700, [67]],
+[695, [80]],
+[704, [45]],
+[705, [71]],
+[690, [84]],
+[716, [52]],
+[698, [54]],
+[699, [97]],
+[248, [44,46]],
+[675, [41,43]],
+[589, [59]],
+[155, [106]],
+[157, [82]],
+[212, [158,202,317]],
+[213, [145,164,203,232,444,558]],
+[565, [767]],
+[572, [62]],
+[514, [88]]
 ],
 "memberKind": "Property"
 }
@@ -31547,105 +32359,105 @@ var contents = {
 "OpenAsync`1":{
 "files": [
 [31, [68]],
-[563, [109]],
-[538, [201]],
-[660, [55]],
-[446, [68]],
-[283, [68]],
-[134, [106]],
-[661, [86]],
-[662, [57]],
-[566, [196,263,419]],
-[564, [178,245,371]],
-[500, [245,312,472]],
-[162, [101]],
-[145, [70,102]],
-[147, [78]],
-[202, [311]],
-[203, [140,226,256,355,506,507]],
-[467, [169]],
-[548, [750]],
-[506, [42]],
-[497, [52,78]]
+[584, [109]],
+[555, [201]],
+[682, [55]],
+[463, [68]],
+[296, [68]],
+[144, [106]],
+[683, [86]],
+[684, [57]],
+[588, [196,263,419]],
+[585, [178,245,371]],
+[517, [245,312,472]],
+[172, [101]],
+[155, [70,102]],
+[157, [78]],
+[212, [311]],
+[213, [140,226,256,355,506,507]],
+[484, [169]],
+[565, [750]],
+[523, [42]],
+[514, [52,78]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenReadAsync`0":{
 "files": [
-[638, [114]],
-[413, [79]],
-[560, [61,78]],
-[559, [59]],
-[460, [61]]
+[660, [114]],
+[430, [79]],
+[581, [61,78]],
+[580, [59]],
+[477, [61]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenSequentialReadAsync`0":{
 "files": [
-[636, [111]],
-[643, [122]],
-[649, [108]],
-[655, [111]],
-[467, [196]],
-[656, [111]],
-[657, [109]]
+[658, [111]],
+[665, [122]],
+[671, [108]],
+[677, [111]],
+[484, [196]],
+[678, [111]],
+[679, [109]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenStreamForWriteAsync":{
 "files": [
-[636, [80]],
-[643, [91]],
-[649, [79]],
-[655, [80]],
-[656, [80]],
-[657, [80]]
+[658, [80]],
+[665, [91]],
+[671, [79]],
+[677, [80]],
+[678, [80]],
+[679, [80]]
 ],
 "memberKind": "?"
 }
 ,
 "OpenTransactedWriteAsync`0":{
 "files": [
-[661, [52]]
+[683, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "Path":{
 "files": [
-[616, [71,91,116,152,156,161,165]],
-[702, [52]],
-[691, [47]],
-[200, [224]],
-[566, [195]],
-[564, [177]],
-[500, [244]],
-[568, [50]],
-[416, [43]],
-[418, [43]],
-[171, [224]]
+[638, [71,91,116,152,156,161,165]],
+[724, [52]],
+[713, [47]],
+[210, [224]],
+[588, [195]],
+[585, [177]],
+[517, [244]],
+[590, [50]],
+[433, [43]],
+[435, [43]],
+[181, [224]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[666, [67]],
-[668, [88,93]],
-[568, [48]],
-[202, [135,189]],
-[416, [49]],
-[418, [49]]
+[688, [67]],
+[690, [88,93]],
+[590, [48]],
+[212, [135,189]],
+[433, [49]],
+[435, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "Provider":{
 "files": [
-[694, [55]]
+[716, [55]]
 ],
 "memberKind": "Property"
 }
@@ -31656,197 +32468,199 @@ var contents = {
 "members": {
 "CreateFileAsync`1":{
 "files": [
-[628, [82,109,136,163]],
-[636, [79]],
-[576, [140]],
-[228, [245]],
-[429, [77]],
-[194, [515,748]],
-[195, [518]],
-[196, [798]],
-[197, [435,655]],
-[198, [565]],
-[638, [103,127]],
-[642, [228]],
-[643, [90]],
-[154, [376]],
-[616, [106,114]],
-[85, [88,121,146,147,180,204]],
-[659, [41]],
-[645, [75]],
-[646, [42]],
-[647, [43]],
-[648, [52]],
-[649, [78]],
-[566, [94]],
-[564, [102]],
-[500, [112]],
-[395, [226]],
-[655, [79]],
-[155, [360]],
-[656, [79]],
-[657, [79]],
-[229, [87]],
-[171, [222]]
+[650, [82,109,136,163]],
+[658, [79]],
+[598, [140]],
+[238, [245]],
+[446, [77]],
+[204, [497,724]],
+[205, [500]],
+[206, [782]],
+[568, [139]],
+[569, [144]],
+[207, [418,632]],
+[208, [547]],
+[660, [103,127]],
+[664, [228]],
+[665, [90]],
+[164, [376]],
+[638, [106,114]],
+[88, [88,121,146,147,180,204]],
+[681, [41]],
+[667, [75]],
+[668, [42]],
+[669, [43]],
+[670, [52]],
+[671, [78]],
+[588, [94]],
+[585, [102]],
+[517, [112]],
+[412, [249]],
+[677, [79]],
+[165, [360]],
+[678, [79]],
+[679, [79]],
+[239, [87]],
+[181, [222]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFileQuery`0":{
 "files": [
-[641, [81]],
-[694, [45]]
+[663, [81]],
+[716, [45]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFileQueryWithOptions`1":{
 "files": [
-[641, [95]],
-[678, [44]],
-[668, [80]],
-[676, [47,48]],
-[677, [91]],
-[667, [65]],
-[416, [112]],
-[418, [112]]
+[663, [95]],
+[700, [44]],
+[690, [80]],
+[698, [47,48]],
+[699, [91]],
+[689, [65]],
+[433, [112]],
+[435, [112]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFolderAsync`1":{
 "files": [
-[160, [122]],
-[640, [56,79]],
-[641, [53]],
-[199, [186,209]],
-[200, [218]],
-[238, [41]],
-[653, [38]]
+[170, [122]],
+[662, [56,79]],
+[663, [53]],
+[209, [186,209]],
+[210, [218]],
+[248, [41]],
+[675, [38]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFolderQuery`0":{
 "files": [
-[673, [59]]
+[695, [59]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFolderQueryWithOptions`1":{
 "files": [
-[683, [62]]
+[705, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "DisplayName":{
 "files": [
-[682, [40]],
-[684, [51]],
-[686, [54]]
+[704, [40]],
+[706, [51]],
+[708, [54]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetFileAsync`1":{
 "files": [
-[628, [92,119,146,173]],
-[636, [110]],
-[159, [39]],
-[642, [232]],
+[650, [92,119,146,173]],
+[658, [110]],
+[169, [39]],
+[664, [232]],
 [3, [96]],
-[643, [121]],
-[679, [51]],
-[161, [74]],
-[325, [66,88,107]],
-[648, [26,47]],
-[649, [107]],
-[394, [197]],
-[162, [116]],
-[655, [110]],
-[166, [218]],
-[167, [215]],
-[656, [110]],
-[657, [108]],
-[169, [49]],
-[171, [52,53]]
+[665, [121]],
+[701, [51]],
+[171, [74]],
+[340, [59,82,102]],
+[670, [26,47]],
+[671, [107]],
+[411, [197]],
+[172, [116]],
+[677, [110]],
+[176, [218]],
+[177, [215]],
+[678, [110]],
+[679, [108]],
+[179, [49]],
+[181, [52,53]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFilesAsync`0":{
 "files": [
-[673, [73]],
-[682, [32]],
-[683, [67]]
+[695, [73]],
+[704, [32]],
+[705, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFolderAsync`1":{
 "files": [
-[160, [121]],
-[169, [48]],
-[170, [95,147]],
-[171, [51]]
+[170, [121]],
+[179, [48]],
+[180, [95,147]],
+[181, [51]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFoldersAsync`0":{
 "files": [
-[682, [33]],
-[677, [44]]
+[704, [33]],
+[699, [44]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetThumbnailAsync`1":{
 "files": [
-[672, [53]],
-[673, [66]]
+[694, [53]],
+[695, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsCommonFolderQuerySupported`1":{
 "files": [
-[673, [56]]
+[695, [56]]
 ],
 "memberKind": "Method"
 }
 ,
 "Name":{
 "files": [
-[702, [53]],
-[625, [50]],
-[682, [36]],
-[683, [68]],
-[677, [54,94]]
+[724, [53]],
+[647, [50]],
+[704, [36]],
+[705, [68]],
+[699, [54,94]]
 ],
 "memberKind": "Property"
 }
 ,
 "Path":{
 "files": [
-[133, [96,138]],
-[85, [74]],
-[702, [53]],
-[199, [194,216]],
-[164, [39]],
-[170, [96]]
+[143, [96,138]],
+[88, [74]],
+[724, [53]],
+[209, [194,216]],
+[174, [39]],
+[180, [96]]
 ],
 "memberKind": "Property"
 }
 ,
 "TryGetItemAsync`1":{
 "files": [
-[642, [78,225]],
-[680, [41]],
-[394, [238]],
-[650, [79]]
+[664, [78,225]],
+[702, [41]],
+[411, [238]],
+[672, [79]]
 ],
 "memberKind": "Method"
 }
@@ -31857,8 +32671,8 @@ var contents = {
 "members": {
 "File":{
 "files": [
-[642, [114]],
-[669, [82]]
+[664, [114]],
+[691, [82]]
 ],
 "memberKind": "Field"
 }
@@ -31869,49 +32683,49 @@ var contents = {
 "members": {
 "DefinitionChanged":{
 "files": [
-[685, [58]],
-[686, [73]]
+[707, [58]],
+[708, [73]]
 ],
 "memberKind": "Event"
 }
 ,
 "Folders":{
 "files": [
-[685, [55,73]],
-[686, [70,90,100]]
+[707, [55,73]],
+[708, [70,90,100]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetLibraryAsync`1":{
 "files": [
-[684, [47]],
-[685, [52]],
-[686, [67]],
-[416, [123]],
-[418, [123]]
+[706, [47]],
+[707, [52]],
+[708, [67]],
+[433, [123]],
+[435, [123]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestAddFolderAsync`0":{
 "files": [
-[684, [48]]
+[706, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestRemoveFolderAsync`1":{
 "files": [
-[686, [52]]
+[708, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveFolder":{
 "files": [
-[416, [124]],
-[418, [124]]
+[433, [124]],
+[435, [124]]
 ],
 "memberKind": "Property"
 }
@@ -31922,7 +32736,7 @@ var contents = {
 "members": {
 "DisplayName":{
 "files": [
-[694, [55]]
+[716, [55]]
 ],
 "memberKind": "Property"
 }
@@ -31933,14 +32747,14 @@ var contents = {
 "members": {
 "CommitAsync`0":{
 "files": [
-[661, [58]]
+[683, [58]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stream":{
 "files": [
-[661, [54,57]]
+[683, [54,57]]
 ],
 "memberKind": "Property"
 }
@@ -31953,8 +32767,8 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[403, [344]],
-[317, [347]]
+[420, [344]],
+[332, [347]]
 ],
 "memberKind": "Constructor"
 }
@@ -31965,12 +32779,12 @@ var contents = {
 "members": {
 "LittleEndian":{
 "files": [
-[317, [353]],
-[703, [68,98]],
-[314, [126]],
-[296, [219]],
-[318, [42,46]],
-[316, [1078,1082,1243]]
+[332, [353]],
+[725, [68,98]],
+[329, [126]],
+[309, [219]],
+[333, [42,46]],
+[331, [1078,1082,1243]]
 ],
 "memberKind": "Field"
 }
@@ -31981,205 +32795,221 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[387, [182]],
-[405, [376]],
-[703, [94]],
-[701, [66]],
-[615, [63,109]],
-[661, [88]],
-[313, [259]],
-[93, [41]],
-[78, [100]],
-[127, [180]],
-[318, [40]],
-[316, [1066]]
+[276, [147]],
+[277, [185]],
+[86, [64]],
+[404, [182]],
+[422, [376]],
+[725, [94]],
+[723, [66]],
+[637, [63,109]],
+[683, [88]],
+[328, [259]],
+[99, [41]],
+[80, [100]],
+[136, [180]],
+[333, [40]],
+[331, [1066]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ByteOrder":{
 "files": [
-[317, [353]],
-[703, [98]],
-[296, [219]],
-[318, [42]],
-[316, [1078,1243]]
+[332, [353]],
+[725, [98]],
+[309, [219]],
+[333, [42]],
+[331, [1078,1243]]
 ],
 "memberKind": "Property"
 }
 ,
 "DetachBuffer`0":{
 "files": [
-[123, [254]]
+[132, [254]]
 ],
 "memberKind": "Method"
 }
 ,
 "DetachStream`0":{
 "files": [
-[387, [199]],
-[313, [273]]
+[277, [243]],
+[404, [199]],
+[328, [273]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[318, [55]],
-[316, [1294]]
+[333, [55]],
+[331, [1294]]
 ],
 "memberKind": "Method"
 }
 ,
 "FromBuffer`1":{
 "files": [
-[299, [191,235]],
-[345, [460,504]],
-[262, [240]],
-[95, [78]],
-[336, [137]],
-[403, [214,316]],
-[404, [291]],
-[317, [350]],
-[664, [92]],
-[230, [202]],
-[311, [203]],
-[704, [80]],
-[391, [106]],
-[705, [132,145]],
-[296, [217]],
-[706, [27]],
-[316, [113,261,447,628]]
+[312, [191,235]],
+[362, [460,504]],
+[273, [240]],
+[101, [78]],
+[276, [118]],
+[353, [137]],
+[420, [214,316]],
+[421, [291]],
+[332, [350]],
+[686, [92]],
+[240, [202]],
+[326, [203]],
+[726, [80]],
+[408, [106]],
+[727, [132,145]],
+[309, [217]],
+[728, [27]],
+[331, [113,261,447,628]]
 ],
 "memberKind": "Method"
 }
 ,
 "InputStreamOptions":{
 "files": [
-[387, [306]],
-[313, [322]],
-[93, [42]],
-[78, [101]]
+[404, [306]],
+[328, [322]],
+[99, [42]],
+[80, [101]]
 ],
 "memberKind": "Property"
 }
 ,
 "LoadAsync`1":{
 "files": [
-[387, [307]],
-[405, [387]],
-[703, [101]],
-[701, [78]],
-[615, [64,110]],
-[661, [93]],
-[313, [323]],
-[93, [43]],
-[78, [102]],
-[127, [186,195]],
-[318, [79,84]],
-[316, [1177,1193]]
+[276, [207,215]],
+[277, [199,210]],
+[86, [101,110]],
+[404, [307]],
+[422, [387]],
+[725, [101]],
+[723, [78]],
+[637, [64,110]],
+[683, [93]],
+[328, [323]],
+[99, [43]],
+[80, [102]],
+[136, [186,195]],
+[333, [79,84]],
+[331, [1177,1193]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadBuffer`1":{
 "files": [
-[615, [65,111]],
-[704, [112]],
-[391, [136,140]]
+[637, [65,111]],
+[726, [112]],
+[408, [136,140]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadByte`0":{
 "files": [
-[336, [139,140]],
-[403, [217,318]],
-[404, [293]],
-[317, [357,358]],
-[311, [206]],
-[704, [82,89,95,98,101,104]],
-[391, [108,117,118,129]],
-[705, [136,137,154,161,172,179,182]]
+[276, [119,130]],
+[353, [139,140]],
+[420, [217,318]],
+[421, [293]],
+[332, [357,358]],
+[326, [206]],
+[726, [82,89,95,98,101,104]],
+[408, [108,117,118,129]],
+[727, [136,137,154,161,172,179,182]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadBytes`1":{
 "files": [
-[299, [193]],
-[345, [462]],
-[262, [242]],
-[95, [80]],
-[701, [85,101]],
-[391, [125]],
-[705, [135]]
+[312, [193]],
+[362, [462]],
+[273, [242]],
+[101, [80]],
+[723, [85,101]],
+[408, [125]],
+[727, [135]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadString`1":{
 "files": [
-[299, [236]],
-[345, [505]],
-[387, [313]],
-[124, [139]],
-[579, [261]],
-[703, [111]],
-[664, [94]],
-[661, [94]],
-[230, [202]],
-[313, [330]],
-[93, [44]],
-[127, [205]],
-[589, [151]],
-[296, [222]],
-[318, [88]],
-[706, [29]],
-[316, [115,263,449,630,1204]]
+[312, [236]],
+[362, [505]],
+[276, [134,222]],
+[277, [218]],
+[86, [117]],
+[404, [313]],
+[133, [139]],
+[601, [261]],
+[725, [111]],
+[686, [94]],
+[683, [94]],
+[240, [202]],
+[328, [330]],
+[99, [44]],
+[136, [205]],
+[611, [151]],
+[309, [222]],
+[333, [88]],
+[728, [29]],
+[331, [115,263,449,630,1204]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadUInt16`0":{
 "files": [
-[391, [130]]
+[408, [130]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadUInt32`0":{
 "files": [
-[703, [110]],
-[127, [194]],
-[296, [222]],
-[318, [83]],
-[316, [1189]]
+[276, [214]],
+[277, [207]],
+[86, [108]],
+[725, [110]],
+[136, [194]],
+[309, [222]],
+[333, [83]],
+[331, [1189]]
 ],
 "memberKind": "Method"
 }
 ,
 "UnconsumedBufferLength":{
 "files": [
-[124, [138]],
-[579, [260]],
-[703, [106]],
-[311, [204]],
-[391, [112]],
-[705, [149,159,169]],
-[93, [44]],
-[589, [151]]
+[133, [138]],
+[601, [260]],
+[725, [106]],
+[326, [204]],
+[408, [112]],
+[727, [149,159,169]],
+[99, [44]],
+[611, [151]]
 ],
 "memberKind": "Property"
 }
 ,
 "UnicodeEncoding":{
 "files": [
-[703, [97]],
-[589, [149]],
-[296, [218]],
-[318, [41]],
-[316, [1077,1242]]
+[276, [133]],
+[725, [97]],
+[611, [149]],
+[309, [218]],
+[333, [41]],
+[331, [1077,1242]]
 ],
 "memberKind": "Property"
 }
@@ -32190,16 +33020,16 @@ var contents = {
 "members": {
 "AsTask":{
 "files": [
-[387, [307]],
-[405, [387]],
-[313, [323]]
+[404, [307]],
+[422, [387]],
+[328, [323]]
 ],
 "memberKind": "?"
 }
 ,
 "Completed":{
 "files": [
-[78, [103]]
+[80, [103]]
 ],
 "memberKind": "Property"
 }
@@ -32210,233 +33040,248 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[262, [71]],
-[263, [61]],
+[273, [71]],
+[274, [61]],
 [68, [78]],
 [69, [70]],
-[336, [108]],
-[337, [153,174]],
-[338, [162,221]],
-[403, [153]],
-[212, [74,154]],
-[312, [278]],
-[707, [42,75]],
-[705, [77]],
-[302, [65]],
-[588, [214]],
-[314, [124,132]],
-[170, [100]]
+[277, [74]],
+[353, [108]],
+[354, [153,174]],
+[355, [162,221]],
+[420, [153]],
+[222, [74,154]],
+[327, [278]],
+[729, [42,75]],
+[727, [77]],
+[317, [65]],
+[610, [214]],
+[329, [124,132]],
+[180, [100]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[697, [54]],
-[387, [222]],
-[84, [145]],
-[404, [405]],
-[405, [338]],
-[125, [75]],
-[579, [215]],
-[703, [65]],
-[615, [99]],
-[85, [133]],
-[664, [46]],
-[661, [54]],
-[212, [93,134]],
-[313, [185,235]],
-[590, [70]],
-[93, [50]],
-[129, [75]],
-[589, [89]],
-[318, [44]],
-[307, [200,219,322]],
-[316, [440,509,1067,1072]]
+[276, [144]],
+[277, [183]],
+[86, [63]],
+[719, [54]],
+[404, [222]],
+[87, [145]],
+[421, [405]],
+[422, [338]],
+[134, [75]],
+[601, [215]],
+[725, [65]],
+[637, [99]],
+[88, [133]],
+[686, [46]],
+[683, [54]],
+[222, [93,134]],
+[328, [185,235]],
+[612, [70]],
+[99, [50]],
+[138, [75]],
+[611, [89]],
+[333, [44]],
+[322, [200,219,322]],
+[331, [440,509,1067,1072]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ByteOrder":{
 "files": [
-[703, [68]],
-[314, [126]],
-[318, [46]],
-[316, [1082]]
+[725, [68]],
+[329, [126]],
+[333, [46]],
+[331, [1082]]
 ],
 "memberKind": "Property"
 }
 ,
 "DetachBuffer`0":{
 "files": [
-[262, [75]],
-[263, [66]],
+[273, [75]],
+[274, [66]],
 [68, [82]],
 [69, [75]],
-[336, [114]],
-[337, [159,180]],
-[338, [168,227]],
-[403, [159]],
-[664, [49]],
-[212, [78,157]],
-[312, [300]],
-[707, [49,83]],
-[705, [95]],
-[302, [71]],
-[588, [233]],
-[314, [129,134]],
-[307, [203,222,326]],
-[316, [443,512]],
-[170, [104]]
+[277, [87]],
+[353, [114]],
+[354, [159,180]],
+[355, [168,227]],
+[420, [159]],
+[686, [49]],
+[222, [78,157]],
+[327, [300]],
+[729, [49,83]],
+[727, [95]],
+[317, [71]],
+[610, [233]],
+[329, [129,134]],
+[322, [203,222,326]],
+[331, [443,512]],
+[180, [104]]
 ],
 "memberKind": "Method"
 }
 ,
 "DetachStream`0":{
 "files": [
-[387, [239]],
-[126, [65]],
-[703, [89]],
-[212, [99,139]],
-[313, [214,251]],
-[590, [74]],
-[93, [53]],
-[130, [65]]
+[276, [257]],
+[277, [152]],
+[404, [239]],
+[135, [65]],
+[725, [89]],
+[222, [99,139]],
+[328, [214,251]],
+[612, [74]],
+[99, [53]],
+[139, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispose`0":{
 "files": [
-[126, [66]],
-[590, [75]],
-[93, [54]],
-[130, [66]],
-[318, [56]],
-[316, [1289]]
+[135, [66]],
+[612, [75]],
+[99, [54]],
+[139, [66]],
+[333, [56]],
+[331, [1289]]
 ],
 "memberKind": "Method"
 }
 ,
 "FlushAsync`0":{
 "files": [
-[703, [83]]
+[725, [83]]
 ],
 "memberKind": "Method"
 }
 ,
 "MeasureString`1":{
 "files": [
-[703, [73]],
-[129, [86]],
-[314, [127]],
-[318, [64]],
-[316, [1134,1138]]
+[725, [73]],
+[138, [86]],
+[329, [127]],
+[333, [64]],
+[331, [1134,1138]]
 ],
 "memberKind": "Method"
 }
 ,
 "StoreAsync`0":{
 "files": [
-[697, [56]],
-[387, [341]],
-[84, [157]],
-[404, [409]],
-[405, [352]],
-[125, [90]],
-[579, [217]],
-[703, [79]],
-[615, [101]],
-[85, [137]],
-[661, [57]],
-[212, [96,136]],
-[313, [298]],
-[590, [73]],
-[93, [52]],
-[129, [92]],
-[589, [106]],
-[318, [66]],
-[316, [1136]]
+[276, [191]],
+[277, [119]],
+[86, [143]],
+[719, [56]],
+[404, [341]],
+[87, [157]],
+[421, [409]],
+[422, [352]],
+[134, [90]],
+[601, [217]],
+[725, [79]],
+[637, [101]],
+[88, [137]],
+[683, [57]],
+[222, [96,136]],
+[328, [298]],
+[612, [73]],
+[99, [52]],
+[138, [92]],
+[611, [106]],
+[333, [66]],
+[331, [1136]]
 ],
 "memberKind": "Method"
 }
 ,
 "UnicodeEncoding":{
 "files": [
-[703, [67]],
-[314, [125]],
-[318, [45]],
-[316, [1081]]
+[277, [83]],
+[725, [67]],
+[329, [125]],
+[333, [45]],
+[331, [1081]]
 ],
 "memberKind": "Property"
 }
 ,
 "WriteBuffer`1":{
 "files": [
-[588, [230]]
+[610, [230]]
 ],
 "memberKind": "Method"
 }
 ,
 "WriteByte`1":{
 "files": [
-[336, [111,112]],
-[337, [156,157,177,178]],
-[338, [165,166,224,225]],
-[403, [156]],
-[312, [298]],
-[707, [44,46,77,79]],
-[705, [79,80,81,82,86,92]],
-[302, [67,68]]
+[277, [77,80]],
+[353, [111,112]],
+[354, [156,157,177,178]],
+[355, [165,166,224,225]],
+[420, [156]],
+[327, [298]],
+[729, [44,46,77,79]],
+[727, [79,80,81,82,86,92]],
+[317, [67,68]]
 ],
 "memberKind": "Method"
 }
 ,
 "WriteBytes`1":{
 "files": [
-[84, [155]],
-[404, [406]],
-[405, [339]],
-[615, [100]],
-[707, [45,47,78,80,81]],
-[705, [87]],
-[302, [69]],
-[588, [229]],
-[590, [71]],
-[93, [51]],
-[314, [133]],
-[316, [442]]
+[87, [155]],
+[421, [406]],
+[422, [339]],
+[637, [100]],
+[729, [45,47,78,80,81]],
+[727, [87]],
+[317, [69]],
+[610, [229]],
+[612, [71]],
+[99, [51]],
+[329, [133]],
+[331, [442]]
 ],
 "memberKind": "Method"
 }
 ,
 "WriteString`1":{
 "files": [
-[697, [55]],
-[387, [331]],
-[125, [85]],
-[579, [216]],
-[703, [75]],
-[85, [136]],
-[664, [48]],
-[661, [56]],
-[212, [75,94,135,155]],
-[313, [190,194,236]],
-[129, [87]],
-[589, [103]],
-[314, [128]],
-[318, [65]],
-[307, [202,221,324]],
-[316, [511,1135]],
-[170, [102]]
+[276, [187]],
+[277, [84,113]],
+[86, [142]],
+[719, [55]],
+[404, [331]],
+[134, [85]],
+[601, [216]],
+[725, [75]],
+[88, [136]],
+[686, [48]],
+[683, [56]],
+[222, [75,94,135,155]],
+[328, [190,194,236]],
+[138, [87]],
+[611, [103]],
+[329, [128]],
+[333, [65]],
+[322, [202,221,324]],
+[331, [511,1135]],
+[180, [102]]
 ],
 "memberKind": "Method"
 }
 ,
 "WriteUInt16`1":{
 "files": [
-[262, [72]],
-[263, [63]],
+[273, [72]],
+[274, [63]],
 [68, [79]],
 [69, [72]]
 ],
@@ -32445,11 +33290,14 @@ var contents = {
 ,
 "WriteUInt32`1":{
 "files": [
-[703, [74]],
-[129, [86]],
-[314, [127]],
-[318, [64]],
-[316, [1134]]
+[276, [186]],
+[277, [112]],
+[86, [141]],
+[725, [74]],
+[138, [86]],
+[329, [127]],
+[333, [64]],
+[331, [1134]]
 ],
 "memberKind": "Method"
 }
@@ -32460,11 +33308,11 @@ var contents = {
 "members": {
 "AsTask":{
 "files": [
-[387, [341]],
-[84, [157]],
-[405, [352]],
-[212, [96,136]],
-[313, [298]]
+[404, [341]],
+[87, [157]],
+[422, [352]],
+[222, [96,136]],
+[328, [298]]
 ],
 "memberKind": "?"
 }
@@ -32475,39 +33323,39 @@ var contents = {
 "members": {
 "AsStream":{
 "files": [
-[457, [619]]
+[474, [619]]
 ],
 "memberKind": "?"
 }
 ,
 "Length":{
 "files": [
-[299, [189,200,236]],
-[345, [458,469,505]],
-[337, [206]],
-[403, [171,177,184,212,247,313]],
-[404, [287,289,366]],
-[664, [66,94,95]],
-[212, [81,158]],
-[613, [109]],
-[230, [202]],
-[708, [62]],
-[391, [86,102]],
-[705, [128,134]],
-[588, [205,206,212,225]],
-[706, [29]],
-[316, [111,115,259,263,449,626,630]]
+[312, [189,200,236]],
+[362, [458,469,505]],
+[354, [206]],
+[420, [171,177,184,212,247,313]],
+[421, [287,289,366]],
+[686, [66,94,95]],
+[222, [81,158]],
+[635, [109]],
+[240, [202]],
+[730, [62]],
+[408, [86,102]],
+[727, [128,134]],
+[610, [205,206,212,225]],
+[728, [29]],
+[331, [111,115,259,263,449,626,630]]
 ],
 "memberKind": "Property"
 }
 ,
 "ToArray":{
 "files": [
-[587, [97,131]],
-[708, [126]],
-[707, [49,83]],
-[302, [71]],
-[296, [203]]
+[609, [97,131]],
+[730, [126]],
+[729, [49,83]],
+[317, [71]],
+[309, [203]]
 ],
 "memberKind": "?"
 }
@@ -32518,13 +33366,13 @@ var contents = {
 "members": {
 "AsStreamForRead":{
 "files": [
-[636, [115]],
-[643, [126]],
-[649, [112]],
-[655, [115]],
-[656, [115]],
-[591, [93]],
-[657, [113]]
+[658, [115]],
+[665, [126]],
+[671, [112]],
+[677, [115]],
+[678, [115]],
+[613, [93]],
+[679, [113]]
 ],
 "memberKind": "?"
 }
@@ -32535,53 +33383,54 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[194, [484]],
-[196, [570]],
-[197, [404]],
-[134, [112]],
-[697, [53]],
-[703, [62]],
-[615, [59,97,104]],
-[664, [44]],
-[212, [92]],
-[145, [64]],
-[203, [356]],
-[307, [198,217,322]],
-[316, [438,509]],
-[443, [91]]
+[204, [465]],
+[206, [552]],
+[568, [134]],
+[207, [386]],
+[144, [112]],
+[719, [53]],
+[725, [62]],
+[637, [59,97,104]],
+[686, [44]],
+[222, [92]],
+[155, [64]],
+[213, [356]],
+[322, [198,217,322]],
+[331, [438,509]],
+[460, [91]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetInputStreamAt`1":{
 "files": [
-[615, [58,63,81,103,109]],
-[212, [104]]
+[637, [58,63,81,103,109]],
+[222, [104]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetOutputStreamAt`1":{
 "files": [
-[615, [98,105]],
-[443, [104]]
+[637, [98,105]],
+[460, [104]]
 ],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
 "files": [
-[697, [57]],
-[703, [93]]
+[719, [57]],
+[725, [93]]
 ],
 "memberKind": "Method"
 }
 ,
 "Size":{
 "files": [
-[703, [101]],
-[615, [64,65,110,111]],
-[212, [102]]
+[725, [101]],
+[637, [64,65,110,111]],
+[222, [102]]
 ],
 "memberKind": "Property"
 }
@@ -32592,10 +33441,10 @@ var contents = {
 "members": {
 "Partial":{
 "files": [
-[387, [306]],
-[313, [322]],
-[93, [42]],
-[78, [101]]
+[404, [306]],
+[328, [322]],
+[99, [42]],
+[80, [101]]
 ],
 "memberKind": "Field"
 }
@@ -32606,8 +33455,8 @@ var contents = {
 "members": {
 "WriteAsync`1":{
 "files": [
-[123, [254]],
-[591, [151]]
+[132, [254]],
+[613, [151]]
 ],
 "memberKind": "Method"
 }
@@ -32618,22 +33467,22 @@ var contents = {
 "members": {
 "GetOutputStreamAt`1":{
 "files": [
-[85, [131]]
+[88, [131]]
 ],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
 "files": [
-[203, [434,435]]
+[213, [434,435]]
 ],
 "memberKind": "Method"
 }
 ,
 "Size":{
 "files": [
-[661, [57,90]],
-[203, [436,511]]
+[683, [57,90]],
+[213, [436,511]]
 ],
 "memberKind": "Property"
 }
@@ -32644,12 +33493,12 @@ var contents = {
 "members": {
 "OpenReadAsync`0":{
 "files": [
-[134, [76]],
-[154, [206,221,325]],
-[561, [57]],
-[709, [45]],
-[155, [190,205,309]],
-[710, [104]]
+[144, [76]],
+[164, [206,221,325]],
+[582, [57]],
+[731, [45]],
+[165, [190,205,309]],
+[732, [104]]
 ],
 "memberKind": "Method"
 }
@@ -32660,15 +33509,15 @@ var contents = {
 "members": {
 "CopyAndCloseAsync`2":{
 "files": [
-[443, [102]]
+[460, [102]]
 ],
 "memberKind": "Method"
 }
 ,
 "CopyAsync`2":{
 "files": [
-[638, [121,141]],
-[203, [437]]
+[660, [121,141]],
+[213, [437]]
 ],
 "memberKind": "Method"
 }
@@ -32679,38 +33528,38 @@ var contents = {
 "members": {
 "CreateFromFile`1":{
 "files": [
-[134, [157]],
-[154, [377]],
-[145, [42]],
-[147, [50]],
-[155, [361]]
+[144, [157]],
+[164, [377]],
+[155, [42]],
+[157, [50]],
+[165, [361]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFromStream`1":{
 "files": [
-[134, [118]],
-[145, [77]]
+[144, [118]],
+[155, [77]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateFromUri`1":{
 "files": [
-[80, [207]],
-[135, [62]],
-[502, [90]],
-[327, [37]],
-[143, [54,59]],
-[443, [90]]
+[82, [207]],
+[145, [62]],
+[519, [90]],
+[342, [37]],
+[153, [54,59]],
+[460, [90]]
 ],
 "memberKind": "Method"
 }
 ,
 "OpenReadAsync`0":{
 "files": [
-[443, [95]]
+[460, [95]]
 ],
 "memberKind": "Method"
 }
@@ -32721,13 +33570,15 @@ var contents = {
 "members": {
 "Utf8":{
 "files": [
-[703, [67,97]],
-[597, [137]],
-[589, [149]],
-[314, [125]],
-[296, [218]],
-[318, [41,45]],
-[316, [1077,1081,1242]]
+[276, [133]],
+[277, [83]],
+[725, [67,97]],
+[619, [137]],
+[611, [149]],
+[329, [125]],
+[309, [218]],
+[333, [41,45]],
+[331, [1077,1081,1242]]
 ],
 "memberKind": "Field"
 }
@@ -32740,39 +33591,39 @@ var contents = {
 "members": {
 "Comment":{
 "files": [
-[160, [94,104]],
-[697, [84]],
-[699, [58]],
-[641, [60,69]]
+[170, [94,104]],
+[719, [84]],
+[721, [58]],
+[663, [60,69]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemNameDisplay":{
 "files": [
-[160, [92,102]],
-[697, [82]],
-[698, [93,111]],
-[699, [56]],
-[641, [58,67,94]]
+[170, [92,102]],
+[719, [82]],
+[720, [93,111]],
+[721, [56]],
+[663, [58,67,94]]
 ],
 "memberKind": "Property"
 }
 ,
 "Keywords":{
 "files": [
-[160, [93,103]],
-[697, [83]],
-[698, [101]],
-[699, [57]],
-[641, [59,68]]
+[170, [93,103]],
+[719, [83]],
+[720, [101]],
+[721, [57]],
+[663, [59,68]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[641, [61,70]]
+[663, [61,70]]
 ],
 "memberKind": "Property"
 }
@@ -32789,36 +33640,36 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[194, [59]],
-[195, [54]],
-[196, [56]],
-[197, [54]],
-[198, [54]],
-[201, [56]]
+[204, [59]],
+[205, [54]],
+[206, [56]],
+[207, [54]],
+[208, [54]],
+[211, [56]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "RequestActive`0":{
 "files": [
-[194, [347]],
-[195, [279]],
-[196, [387]],
-[197, [317]],
-[198, [362]],
-[201, [426]]
+[204, [343]],
+[205, [275]],
+[206, [383]],
+[207, [313]],
+[208, [358]],
+[211, [426]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestRelease`0":{
 "files": [
-[194, [421]],
-[195, [354]],
-[196, [458]],
-[197, [388]],
-[198, [433]],
-[201, [498]]
+[204, [402]],
+[205, [336]],
+[206, [440]],
+[207, [370]],
+[208, [415]],
+[211, [498]]
 ],
 "memberKind": "Method"
 }
@@ -32831,64 +33682,64 @@ var contents = {
 "members": {
 "AccountName":{
 "files": [
-[710, [84]]
+[732, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[710, [44]],
-[711, [95]]
+[732, [44]],
+[733, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "DomainName":{
 "files": [
-[710, [87]]
+[732, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "FirstName":{
 "files": [
-[710, [81]]
+[732, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "GuestHost":{
 "files": [
-[710, [85]]
+[732, [85]]
 ],
 "memberKind": "Property"
 }
 ,
 "LastName":{
 "files": [
-[710, [82]]
+[732, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "PrincipalName":{
 "files": [
-[710, [86]]
+[732, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProviderName":{
 "files": [
-[710, [83]]
+[732, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "SessionInitiationProtocolUri":{
 "files": [
-[710, [88]]
+[732, [88]]
 ],
 "memberKind": "Property"
 }
@@ -32899,49 +33750,49 @@ var contents = {
 "members": {
 "LaunchFileAsync`1":{
 "files": [
-[159, [73,97,127,181,211]]
+[169, [73,97,127,181,211]]
 ],
 "memberKind": "Method"
 }
 ,
 "LaunchUriAsync`3":{
 "files": [
-[470, [190]],
-[471, [108]],
-[472, [139]],
-[430, [54,78,108,159]],
-[473, [126]],
-[712, [161]],
-[713, [147]],
+[487, [190]],
+[488, [108]],
+[489, [139]],
+[447, [54,78,108,159]],
+[490, [126]],
+[734, [161]],
+[735, [147]],
 [29, [334]],
 [33, [294]],
 [34, [292]],
-[474, [108]],
-[475, [108]],
-[476, [117]],
-[504, [54]],
-[477, [134]],
-[714, [143]],
-[461, [158]],
+[491, [108]],
+[492, [108]],
+[493, [117]],
+[521, [54]],
+[494, [134]],
+[736, [143]],
+[478, [158]],
 [63, [198,203]],
-[715, [83]],
-[478, [105]],
-[431, [155]],
-[155, [412]],
-[529, [436]],
-[179, [340]],
-[180, [342]],
-[435, [149]],
-[716, [178]],
-[479, [82]],
-[480, [112]],
-[481, [108]],
-[482, [107]],
-[483, [82]],
-[485, [82]],
-[488, [108]],
-[489, [108]],
-[170, [162]]
+[737, [83]],
+[495, [105]],
+[448, [155]],
+[165, [412]],
+[546, [436]],
+[189, [340]],
+[190, [342]],
+[452, [149]],
+[738, [178]],
+[496, [82]],
+[497, [112]],
+[498, [108]],
+[499, [107]],
+[500, [82]],
+[502, [82]],
+[505, [108]],
+[506, [108]],
+[180, [162]]
 ],
 "memberKind": "Method"
 }
@@ -32952,48 +33803,48 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[159, [93,121,154]],
-[430, [74,102,128]],
-[504, [52]]
+[169, [93,121,154]],
+[447, [74,102,128]],
+[521, [52]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DesiredRemainingView":{
 "files": [
-[159, [157,161,165,169,173,177]],
-[430, [134,138,142,146,150,154]]
+[169, [157,161,165,169,173,177]],
+[447, [134,138,142,146,150,154]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayApplicationPicker":{
 "files": [
-[159, [122]],
-[430, [103]]
+[169, [122]],
+[447, [103]]
 ],
 "memberKind": "Property"
 }
 ,
 "TargetApplicationPackageFamilyName":{
 "files": [
-[504, [53]]
+[521, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "TreatAsUntrusted":{
 "files": [
-[159, [94]],
-[430, [75]]
+[169, [94]],
+[447, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "UI":{
 "files": [
-[159, [123,124]],
-[430, [104,105]]
+[169, [123,124]],
+[447, [104,105]]
 ],
 "memberKind": "Property"
 }
@@ -33004,16 +33855,16 @@ var contents = {
 "members": {
 "InvocationPoint":{
 "files": [
-[159, [123]],
-[430, [104]]
+[169, [123]],
+[447, [104]]
 ],
 "memberKind": "Property"
 }
 ,
 "PreferredPlacement":{
 "files": [
-[159, [124]],
-[430, [105]]
+[169, [124]],
+[447, [105]]
 ],
 "memberKind": "Property"
 }
@@ -33024,35 +33875,35 @@ var contents = {
 "members": {
 "Arm":{
 "files": [
-[163, [46]]
+[173, [46]]
 ],
 "memberKind": "Field"
 }
 ,
 "Neutral":{
 "files": [
-[163, [50]]
+[173, [50]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[163, [52]]
+[173, [52]]
 ],
 "memberKind": "Field"
 }
 ,
 "X64":{
 "files": [
-[163, [48]]
+[173, [48]]
 ],
 "memberKind": "Field"
 }
 ,
 "X86":{
 "files": [
-[163, [44]]
+[173, [44]]
 ],
 "memberKind": "Field"
 }
@@ -33065,7 +33916,7 @@ var contents = {
 "members": {
 "VersionInfo":{
 "files": [
-[717, [25]]
+[739, [25]]
 ],
 "memberKind": "Property"
 }
@@ -33076,7 +33927,7 @@ var contents = {
 "members": {
 "DeviceFamily":{
 "files": [
-[717, [25]]
+[739, [25]]
 ],
 "memberKind": "Property"
 }
@@ -33091,7 +33942,7 @@ var contents = {
 "members": {
 "RunAsync`1":{
 "files": [
-[173, [68]]
+[183, [68]]
 ],
 "memberKind": "Method"
 }
@@ -33102,24 +33953,26 @@ var contents = {
 "members": {
 "Cancel`0":{
 "files": [
-[82, [92]],
-[193, [207]]
+[84, [92]],
+[203, [207]],
+[86, [163]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreatePeriodicTimer`2":{
 "files": [
-[82, [63]],
-[193, [183]]
+[84, [63]],
+[203, [183]],
+[86, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateTimer`2":{
 "files": [
-[501, [98]],
-[718, [144]]
+[518, [98]],
+[740, [144]]
 ],
 "memberKind": "Method"
 }
@@ -33130,9 +33983,10 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[82, [63]],
-[193, [183]],
-[501, [98]]
+[84, [63]],
+[203, [183]],
+[86, [55]],
+[518, [98]]
 ],
 "memberKind": "Constructor"
 }
@@ -33145,65 +33999,65 @@ var contents = {
 "members": {
 "AuthenticationStatus":{
 "files": [
-[710, [76]]
+[732, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "CreateWatcher`0":{
 "files": [
-[711, [50]]
+[733, [50]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindAllAsync`0":{
 "files": [
-[710, [39]]
+[732, [39]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFromId`1":{
 "files": [
-[710, [71]]
+[732, [71]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPictureAsync`1":{
 "files": [
-[710, [101]]
+[732, [101]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPropertiesAsync`1":{
 "files": [
-[710, [91]]
+[732, [91]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetPropertyAsync`1":{
 "files": [
-[710, [44]],
-[711, [95]]
+[732, [44]],
+[733, [95]]
 ],
 "memberKind": "Method"
 }
 ,
 "NonRoamableId":{
 "files": [
-[710, [52,74]],
-[711, [116,132,148]]
+[732, [52,74]],
+[733, [116,132,148]]
 ],
 "memberKind": "Property"
 }
 ,
 "Type":{
 "files": [
-[710, [75]]
+[732, [75]]
 ],
 "memberKind": "Property"
 }
@@ -33214,7 +34068,7 @@ var contents = {
 "members": {
 "User":{
 "files": [
-[711, [108,126,142]]
+[733, [108,126,142]]
 ],
 "memberKind": "Property"
 }
@@ -33225,7 +34079,7 @@ var contents = {
 "members": {
 "Size64x64":{
 "files": [
-[710, [101]]
+[732, [101]]
 ],
 "memberKind": "Field"
 }
@@ -33238,44 +34092,44 @@ var contents = {
 "members": {
 "Calendars":{
 "files": [
-[719, [32]]
+[741, [32]]
 ],
 "memberKind": "Property"
 }
 ,
 "Clocks":{
 "files": [
-[719, [33]]
+[741, [33]]
 ],
 "memberKind": "Property"
 }
 ,
 "Currencies":{
 "files": [
-[520, [46]],
-[530, [61]]
+[537, [46]],
+[547, [61]]
 ],
 "memberKind": "Property"
 }
 ,
 "HomeGeographicRegion":{
 "files": [
-[719, [31]]
+[741, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "Languages":{
 "files": [
-[719, [30]],
-[527, [38]]
+[741, [30]],
+[544, [38]]
 ],
 "memberKind": "Property"
 }
 ,
 "WeekStartsOn":{
 "files": [
-[719, [34]]
+[741, [34]]
 ],
 "memberKind": "Property"
 }
@@ -33286,28 +34140,28 @@ var contents = {
 "members": {
 "GetImageStream`0":{
 "files": [
-[692, [63]]
+[714, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestSetImageFeedAsync`1":{
 "files": [
-[505, [50]]
+[522, [50]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetImageFileAsync`1":{
 "files": [
-[692, [60]]
+[714, [60]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryRemoveImageFeed`0":{
 "files": [
-[505, [67]]
+[522, [67]]
 ],
 "memberKind": "Method"
 }
@@ -33318,14 +34172,14 @@ var contents = {
 "members": {
 "ChangeDisabled":{
 "files": [
-[505, [55]]
+[522, [55]]
 ],
 "memberKind": "Field"
 }
 ,
 "Success":{
 "files": [
-[505, [51]]
+[522, [51]]
 ],
 "memberKind": "Field"
 }
@@ -33338,49 +34192,49 @@ var contents = {
 "members": {
 "Added":{
 "files": [
-[711, [51,67]]
+[733, [51,67]]
 ],
 "memberKind": "Event"
 }
 ,
 "EnumerationCompleted":{
 "files": [
-[711, [54,70]]
+[733, [54,70]]
 ],
 "memberKind": "Event"
 }
 ,
 "Removed":{
 "files": [
-[711, [53,69]]
+[733, [53,69]]
 ],
 "memberKind": "Event"
 }
 ,
 "Start`0":{
 "files": [
-[711, [56]]
+[733, [56]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[711, [72]]
+[733, [72]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stopped":{
 "files": [
-[711, [55,71]]
+[733, [55,71]]
 ],
 "memberKind": "Event"
 }
 ,
 "Updated":{
 "files": [
-[711, [52,68]]
+[733, [52,68]]
 ],
 "memberKind": "Event"
 }
@@ -33391,186 +34245,189 @@ var contents = {
 "members": {
 "Application":{
 "files": [
-[450, [80]]
+[467, [80]]
 ],
 "memberKind": "Field"
 }
 ,
 "Control":{
 "files": [
-[458, [251]],
-[437, [241]]
+[475, [251]],
+[454, [241]]
 ],
 "memberKind": "Field"
 }
 ,
 "Down":{
 "files": [
-[436, [113]],
-[720, [128]]
+[453, [122]],
+[742, [128]]
 ],
 "memberKind": "Field"
 }
 ,
 "Enter":{
 "files": [
-[720, [183]]
+[276, [171]],
+[277, [97]],
+[70, [153]],
+[742, [183]]
 ],
 "memberKind": "Field"
 }
 ,
 "Escape":{
 "files": [
-[721, [96]]
+[743, [96]]
 ],
 "memberKind": "Field"
 }
 ,
 "F10":{
 "files": [
-[450, [66]]
+[467, [66]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadDown":{
 "files": [
-[436, [114]]
+[453, [123]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadLeft":{
 "files": [
-[436, [94]]
+[453, [103]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadRight":{
 "files": [
-[436, [100]]
+[453, [109]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadDPadUp":{
 "files": [
-[436, [107]]
+[453, [116]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickDown":{
 "files": [
-[436, [115]]
+[453, [124]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickLeft":{
 "files": [
-[436, [95]]
+[453, [104]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickRight":{
 "files": [
-[436, [101]]
+[453, [110]]
 ],
 "memberKind": "Field"
 }
 ,
 "GamepadLeftThumbstickUp":{
 "files": [
-[436, [108]]
+[453, [117]]
 ],
 "memberKind": "Field"
 }
 ,
 "Left":{
 "files": [
-[458, [245,257]],
-[436, [93]],
-[437, [235,247]]
+[475, [245,257]],
+[453, [102]],
+[454, [235,247]]
 ],
 "memberKind": "Field"
 }
 ,
 "Menu":{
 "files": [
-[458, [250]],
-[437, [240]]
+[475, [250]],
+[454, [240]]
 ],
 "memberKind": "Field"
 }
 ,
 "NavigationDown":{
 "files": [
-[436, [116]]
+[453, [125]]
 ],
 "memberKind": "Field"
 }
 ,
 "NavigationLeft":{
 "files": [
-[436, [96]]
+[453, [105]]
 ],
 "memberKind": "Field"
 }
 ,
 "NavigationRight":{
 "files": [
-[436, [102]]
+[453, [111]]
 ],
 "memberKind": "Field"
 }
 ,
 "NavigationUp":{
 "files": [
-[436, [109]]
+[453, [118]]
 ],
 "memberKind": "Field"
 }
 ,
 "Right":{
 "files": [
-[458, [245,264]],
-[436, [99]],
-[437, [235,254]]
+[475, [245,264]],
+[453, [108]],
+[454, [235,254]]
 ],
 "memberKind": "Field"
 }
 ,
 "Shift":{
 "files": [
-[458, [252]],
-[450, [60,97]],
-[720, [134]],
-[437, [242]]
+[475, [252]],
+[467, [60,97]],
+[742, [134]],
+[454, [242]]
 ],
 "memberKind": "Field"
 }
 ,
 "Space":{
 "files": [
-[720, [182]]
+[742, [182]]
 ],
 "memberKind": "Field"
 }
 ,
 "Tab":{
 "files": [
-[720, [133]]
+[742, [133]]
 ],
 "memberKind": "Field"
 }
 ,
 "Up":{
 "files": [
-[436, [106]],
-[720, [123]]
+[453, [115]],
+[742, [123]]
 ],
 "memberKind": "Field"
 }
@@ -33587,30 +34444,30 @@ var contents = {
 "members": {
 "AccountCommandsRequested":{
 "files": [
-[592, [61,68]],
-[593, [59,66]],
-[594, [48,55]],
-[595, [49,56]]
+[614, [61,68]],
+[615, [59,66]],
+[616, [48,55]],
+[617, [49,56]]
 ],
 "memberKind": "Event"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[592, [61,68]],
-[593, [59,66]],
-[594, [48,55]],
-[595, [49,56]]
+[614, [61,68]],
+[615, [59,66]],
+[616, [48,55]],
+[617, [49,56]]
 ],
 "memberKind": "Method"
 }
 ,
 "Show`0":{
 "files": [
-[592, [77]],
-[593, [75]],
-[594, [65]],
-[595, [66]]
+[614, [77]],
+[615, [75]],
+[616, [65]],
+[617, [66]]
 ],
 "memberKind": "Method"
 }
@@ -33621,50 +34478,50 @@ var contents = {
 "members": {
 "Commands":{
 "files": [
-[592, [176,177]],
-[593, [120,121]],
-[594, [149,150]],
-[595, [150,151]]
+[614, [176,177]],
+[615, [120,121]],
+[616, [149,150]],
+[617, [150,151]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[592, [159]],
-[593, [96]],
-[594, [89]],
-[595, [90]]
+[614, [159]],
+[615, [96]],
+[616, [89]],
+[617, [90]]
 ],
 "memberKind": "Method"
 }
 ,
 "HeaderText":{
 "files": [
-[592, [173]],
-[593, [117]],
-[594, [146]],
-[595, [147]]
+[614, [173]],
+[615, [117]],
+[616, [146]],
+[617, [147]]
 ],
 "memberKind": "Property"
 }
 ,
 "WebAccountCommands":{
 "files": [
-[592, [209]],
-[593, [173]],
-[594, [141]],
-[595, [142]]
+[614, [209]],
+[615, [173]],
+[616, [141]],
+[617, [142]]
 ],
 "memberKind": "Property"
 }
 ,
 "WebAccountProviderCommands":{
 "files": [
-[592, [198]],
-[593, [136]],
-[594, [122]],
-[595, [123]]
+[614, [198]],
+[615, [136]],
+[616, [122]],
+[617, [123]]
 ],
 "memberKind": "Property"
 }
@@ -33675,10 +34532,10 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[592, [168]],
-[593, [112]],
-[594, [107]],
-[595, [108]]
+[614, [168]],
+[615, [112]],
+[616, [107]],
+[617, [108]]
 ],
 "memberKind": "Method"
 }
@@ -33689,10 +34546,10 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[592, [176,177]],
-[593, [120,121]],
-[594, [149,150]],
-[595, [150,151]]
+[614, [176,177]],
+[615, [120,121]],
+[616, [149,150]],
+[617, [150,151]]
 ],
 "memberKind": "Constructor"
 }
@@ -33703,18 +34560,18 @@ var contents = {
 "members": {
 "Manage":{
 "files": [
-[592, [208]],
-[593, [172]]
+[614, [208]],
+[615, [172]]
 ],
 "memberKind": "Field"
 }
 ,
 "Remove":{
 "files": [
-[592, [208]],
-[593, [172]],
-[594, [140]],
-[595, [141]]
+[614, [208]],
+[615, [172]],
+[616, [140]],
+[617, [141]]
 ],
 "memberKind": "Field"
 }
@@ -33725,18 +34582,18 @@ var contents = {
 "members": {
 "Manage":{
 "files": [
-[592, [296]],
-[593, [290]]
+[614, [296]],
+[615, [290]]
 ],
 "memberKind": "Field"
 }
 ,
 "Remove":{
 "files": [
-[592, [292]],
-[593, [285]],
-[594, [160]],
-[595, [162]]
+[614, [292]],
+[615, [285]],
+[616, [160]],
+[617, [162]]
 ],
 "memberKind": "Field"
 }
@@ -33747,17 +34604,17 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[592, [208]],
-[593, [172]],
-[594, [140]],
-[595, [141]]
+[614, [208]],
+[615, [172]],
+[616, [140]],
+[617, [141]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "WebAccount":{
 "files": [
-[592, [294,299]]
+[614, [294,299]]
 ],
 "memberKind": "Property"
 }
@@ -33768,10 +34625,10 @@ var contents = {
 "members": {
 "Action":{
 "files": [
-[592, [292,296]],
-[593, [285,290]],
-[594, [160]],
-[595, [162]]
+[614, [292,296]],
+[615, [285,290]],
+[616, [160]],
+[617, [162]]
 ],
 "memberKind": "Property"
 }
@@ -33782,20 +34639,20 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[592, [197]],
-[593, [135]],
-[594, [121]],
-[595, [122]]
+[614, [197]],
+[615, [135]],
+[616, [121]],
+[617, [122]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "WebAccountProvider":{
 "files": [
-[592, [215,218,220,222,224,228]],
-[593, [200,203,205,207,209,213]],
-[594, [155]],
-[595, [157]]
+[614, [215,218,220,222,224,228]],
+[615, [200,203,205,207,209,213]],
+[616, [155]],
+[617, [157]]
 ],
 "memberKind": "Property"
 }
@@ -33808,55 +34665,55 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[143, [82]],
-[722, [81,82,83,84,89,90,91,92,95,96,97,98]]
+[153, [82]],
+[744, [81,82,83,84,89,90,91,92,95,96,97,98]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "A":{
 "files": [
-[143, [86]],
-[722, [81,82,83,84,89,90,91,92,95,96,97,98]],
-[723, [24]],
-[724, [24]]
+[153, [86]],
+[744, [81,82,83,84,89,90,91,92,95,96,97,98]],
+[745, [24]],
+[746, [24]]
 ],
 "memberKind": "Field"
 }
 ,
 "B":{
 "files": [
-[143, [85]],
-[722, [81,82,83,84,89,90,91,92,95,96,97,98]],
-[723, [24]],
-[724, [24]]
+[153, [85]],
+[744, [81,82,83,84,89,90,91,92,95,96,97,98]],
+[745, [24]],
+[746, [24]]
 ],
 "memberKind": "Field"
 }
 ,
 "G":{
 "files": [
-[143, [84]],
-[722, [81,82,83,84,89,90,91,92,95,96,97,98]],
-[723, [24]],
-[724, [24]]
+[153, [84]],
+[744, [81,82,83,84,89,90,91,92,95,96,97,98]],
+[745, [24]],
+[746, [24]]
 ],
 "memberKind": "Field"
 }
 ,
 "R":{
 "files": [
-[143, [83]],
-[722, [81,82,83,84,89,90,91,92,95,96,97,98]],
-[723, [24]],
-[724, [24]]
+[153, [83]],
+[744, [81,82,83,84,89,90,91,92,95,96,97,98]],
+[745, [24]],
+[746, [24]]
 ],
 "memberKind": "Field"
 }
 ,
 "ToString":{
 "files": [
-[725, [35]]
+[747, [35]]
 ],
 "memberKind": "?"
 }
@@ -33867,1300 +34724,1521 @@ var contents = {
 "members": {
 "AliceBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "AntiqueWhite":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Aqua":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Aquamarine":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Azure":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Beige":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Bisque":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Black":{
 "files": [
-[324, [70,77]],
-[327, [98]],
-[166, [54]],
-[167, [55]],
-[723, [12]],
-[724, [12]],
-[725, [42]],
-[493, [72]],
-[497, [125,161]]
+[339, [70,77]],
+[342, [98]],
+[176, [54]],
+[177, [55]],
+[745, [12]],
+[746, [12]],
+[747, [42]],
+[510, [72]],
+[514, [125,161]]
 ],
 "memberKind": "Property"
 }
 ,
 "BlanchedAlmond":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Blue":{
 "files": [
-[543, [124]],
-[298, [141,142]],
-[544, [79]],
-[545, [103,154,175,178,182]],
-[546, [130]],
-[420, [126]],
-[194, [976]],
-[344, [140]],
-[327, [82]],
-[258, [127]],
-[448, [70,105]],
-[166, [54]],
-[167, [55]],
-[723, [12]],
-[724, [12]],
-[726, [51]],
-[727, [57]],
-[493, [78]],
-[728, [54]],
-[729, [45]],
-[497, [149]]
+[560, [124]],
+[311, [141,142]],
+[561, [79]],
+[562, [103,154,175,178,182]],
+[563, [130]],
+[437, [126]],
+[204, [952]],
+[361, [131]],
+[342, [82]],
+[269, [127]],
+[465, [70,105]],
+[176, [54]],
+[177, [55]],
+[745, [12]],
+[746, [12]],
+[748, [51]],
+[749, [57]],
+[510, [78]],
+[750, [54]],
+[751, [45]],
+[514, [149]]
 ],
 "memberKind": "Property"
 }
 ,
 "BlueViolet":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Brown":{
 "files": [
-[166, [55]],
-[167, [56]],
-[723, [12]],
-[724, [12]]
+[176, [55]],
+[177, [56]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "BurlyWood":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "CadetBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Chartreuse":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Chocolate":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Coral":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "CornflowerBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Cornsilk":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Crimson":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Cyan":{
 "files": [
-[166, [56]],
-[167, [57]],
-[723, [12]],
-[724, [12]]
+[176, [56]],
+[177, [57]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkBlue":{
 "files": [
-[345, [421,435]],
-[723, [12]],
-[724, [12]],
-[726, [76]],
-[729, [70]]
+[362, [421,435]],
+[745, [12]],
+[746, [12]],
+[748, [76]],
+[751, [70]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkCyan":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkGoldenrod":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkGray":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkGreen":{
 "files": [
-[723, [12]],
-[724, [12]],
-[726, [73]],
-[729, [67]]
+[745, [12]],
+[746, [12]],
+[748, [73]],
+[751, [67]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkKhaki":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkMagenta":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkOliveGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkOrange":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkOrchid":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkRed":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkSalmon":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkSeaGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkSlateBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkSlateGray":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkTurquoise":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DarkViolet":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeepPink":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DeepSkyBlue":{
 "files": [
-[730, [76,110]],
-[444, [71]],
-[445, [188]],
-[194, [976]],
-[723, [12]],
-[724, [12]]
+[752, [76,110]],
+[461, [71]],
+[462, [188]],
+[204, [952]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DimGray":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "DodgerBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Firebrick":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "FloralWhite":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "ForestGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Fuchsia":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Gainsboro":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "GhostWhite":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Gold":{
 "files": [
-[723, [12]],
-[724, [12]],
-[726, [70]],
-[729, [64]]
+[745, [12]],
+[746, [12]],
+[748, [70]],
+[751, [64]]
 ],
 "memberKind": "Property"
 }
 ,
 "Goldenrod":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Gray":{
 "files": [
-[324, [72,74]],
-[345, [385,386,407,408]],
-[166, [57]],
-[167, [58]],
-[723, [12]],
-[724, [12]],
-[497, [131]]
+[339, [72,74]],
+[362, [385,386,407,408]],
+[176, [57]],
+[177, [58]],
+[745, [12]],
+[746, [12]],
+[514, [131]]
 ],
 "memberKind": "Property"
 }
 ,
 "Green":{
 "files": [
-[470, [176]],
-[471, [94]],
-[472, [118]],
-[543, [100,191]],
-[298, [162,209,224]],
-[544, [152,159]],
-[545, [110,161,237,240]],
-[546, [110,399]],
-[420, [102,164]],
-[473, [102]],
-[341, [217]],
-[474, [94]],
-[475, [94]],
-[477, [120]],
-[566, [446]],
-[564, [398]],
-[500, [499]],
-[461, [132]],
-[650, [55]],
-[478, [91]],
-[431, [134]],
-[718, [188]],
-[731, [160]],
-[166, [55]],
-[167, [56]],
-[435, [128]],
-[596, [160]],
-[723, [12]],
-[480, [93]],
-[724, [12]],
-[481, [94]],
-[482, [93]],
+[487, [176]],
 [488, [94]],
-[489, [94]],
-[726, [48]],
-[727, [54]],
-[493, [81]],
-[728, [51]],
-[729, [42]],
-[497, [143]]
+[489, [118]],
+[560, [100,191]],
+[311, [162,209,224]],
+[561, [152,159]],
+[562, [110,161,237,240]],
+[563, [110,399]],
+[437, [102,164]],
+[490, [102]],
+[358, [217]],
+[491, [94]],
+[492, [94]],
+[494, [120]],
+[588, [446]],
+[585, [398]],
+[517, [499]],
+[478, [132]],
+[672, [55]],
+[495, [91]],
+[448, [134]],
+[740, [188]],
+[753, [160]],
+[176, [55]],
+[177, [56]],
+[452, [128]],
+[618, [160]],
+[745, [12]],
+[497, [93]],
+[746, [12]],
+[498, [94]],
+[499, [93]],
+[505, [94]],
+[506, [94]],
+[748, [48]],
+[749, [54]],
+[510, [81]],
+[750, [51]],
+[751, [42]],
+[514, [143]]
 ],
 "memberKind": "Property"
 }
 ,
 "GreenYellow":{
 "files": [
-[723, [12]],
-[724, [12]],
-[497, [137]]
+[745, [12]],
+[746, [12]],
+[514, [137]]
 ],
 "memberKind": "Property"
 }
 ,
 "Honeydew":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "HotPink":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "IndianRed":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Indigo":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Ivory":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Khaki":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Lavender":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LavenderBlush":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LawnGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LemonChiffon":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightCoral":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightCyan":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightGoldenrodYellow":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightGray":{
 "files": [
-[730, [52,68,115,120]],
-[444, [108]],
-[445, [220]],
-[723, [12]],
-[724, [12]]
+[752, [52,68,115,120]],
+[461, [108]],
+[462, [220]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightPink":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightSalmon":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightSeaGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightSkyBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightSlateGray":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightSteelBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LightYellow":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Lime":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "LimeGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Linen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Magenta":{
 "files": [
-[166, [56]],
-[167, [57]],
-[723, [12]],
-[724, [12]]
+[176, [56]],
+[177, [57]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Maroon":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumAquamarine":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumOrchid":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumPurple":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumSeaGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumSlateBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumSpringGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumTurquoise":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MediumVioletRed":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MidnightBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MintCream":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "MistyRose":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Moccasin":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "NavajoWhite":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Navy":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "OldLace":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Olive":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "OliveDrab":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Orange":{
 "files": [
-[650, [61]],
-[166, [57]],
-[167, [58]],
-[723, [12]],
-[724, [12]]
+[672, [61]],
+[176, [57]],
+[177, [58]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "OrangeRed":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Orchid":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PaleGoldenrod":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PaleGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PaleTurquoise":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PaleVioletRed":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PapayaWhip":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PeachPuff":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Peru":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pink":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Plum":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "PowderBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Purple":{
 "files": [
-[166, [55]],
-[167, [56]],
-[723, [12]],
-[724, [12]]
+[176, [55]],
+[177, [56]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Red":{
 "files": [
-[470, [179]],
-[471, [97]],
-[472, [121]],
-[543, [185]],
-[298, [107,156,203,218]],
-[544, [147]],
-[545, [231]],
-[546, [393]],
-[420, [158]],
-[473, [105]],
-[341, [213]],
-[474, [97]],
-[475, [97]],
-[327, [81]],
-[477, [123]],
-[566, [434]],
-[564, [386]],
-[500, [487]],
-[461, [135]],
-[650, [49]],
-[732, [32]],
-[478, [94]],
-[431, [137]],
-[718, [213]],
-[731, [178]],
-[467, [46]],
-[468, [44]],
-[166, [54]],
-[167, [55]],
-[435, [131]],
-[596, [132]],
-[723, [12]],
-[733, [166]],
-[480, [96]],
-[734, [42]],
-[724, [12]],
-[735, [166]],
-[481, [97]],
-[482, [96]],
+[487, [179]],
 [488, [97]],
-[489, [97]],
-[727, [60]],
-[493, [75]],
-[728, [57]],
-[497, [155]],
-[169, [66]],
-[171, [122,135,197,210]]
+[489, [121]],
+[560, [185]],
+[311, [107,156,203,218]],
+[561, [147]],
+[562, [231]],
+[563, [393]],
+[437, [158]],
+[490, [105]],
+[358, [213]],
+[491, [97]],
+[492, [97]],
+[342, [81]],
+[494, [123]],
+[588, [434]],
+[585, [386]],
+[517, [487]],
+[478, [135]],
+[672, [49]],
+[754, [32]],
+[495, [94]],
+[448, [137]],
+[740, [213]],
+[753, [178]],
+[484, [46]],
+[485, [44]],
+[176, [54]],
+[177, [55]],
+[452, [131]],
+[618, [132]],
+[745, [12]],
+[755, [166]],
+[497, [96]],
+[756, [42]],
+[746, [12]],
+[757, [166]],
+[498, [97]],
+[499, [96]],
+[505, [97]],
+[506, [97]],
+[749, [60]],
+[510, [75]],
+[750, [57]],
+[514, [155]],
+[179, [66]],
+[181, [122,135,197,210]]
 ],
 "memberKind": "Property"
 }
 ,
 "RosyBrown":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "RoyalBlue":{
 "files": [
-[730, [44,60,84,93]],
-[444, [102]],
-[445, [213]],
-[723, [12]],
-[724, [12]]
+[752, [44,60,84,93]],
+[461, [102]],
+[462, [213]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SaddleBrown":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Salmon":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SandyBrown":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SeaGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SeaShell":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Sienna":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Silver":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SkyBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SlateBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SlateGray":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Snow":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SpringGreen":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "SteelBlue":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tan":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Teal":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Thistle":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tomato":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Transparent":{
 "files": [
-[538, [47]],
-[192, [48]],
-[193, [51]],
-[736, [36]],
-[166, [477]],
-[167, [495]],
-[443, [410,423]],
-[723, [12]],
-[724, [12]]
+[555, [47]],
+[202, [48]],
+[203, [51]],
+[758, [36]],
+[176, [477]],
+[177, [495]],
+[460, [410,423]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Turquoise":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Violet":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Wheat":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "White":{
 "files": [
-[324, [71,76]],
-[298, [275]],
-[546, [147,175,203,234,235,236,237]],
-[166, [57]],
-[167, [58]],
-[723, [12]],
-[724, [12]],
-[726, [54,79]],
-[729, [48,73]],
-[169, [71]],
-[171, [87,88,162,163]]
+[339, [71,76]],
+[311, [275]],
+[563, [147,175,203,234,235,236,237]],
+[176, [57]],
+[177, [58]],
+[745, [12]],
+[746, [12]],
+[748, [54,79]],
+[751, [48,73]],
+[179, [71]],
+[181, [87,88,162,163]]
 ],
 "memberKind": "Property"
 }
 ,
 "WhiteSmoke":{
 "files": [
-[723, [12]],
-[724, [12]]
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
 }
 ,
 "Yellow":{
 "files": [
-[538, [37]],
-[192, [38]],
-[193, [41]],
-[341, [221]],
-[166, [56]],
-[167, [57]],
-[723, [12]],
-[724, [12]],
-[726, [45]],
-[727, [51]],
-[728, [48]],
-[729, [39]]
+[555, [37]],
+[202, [38]],
+[203, [41]],
+[358, [221]],
+[176, [56]],
+[177, [57]],
+[745, [12]],
+[746, [12]],
+[748, [45]],
+[749, [51]],
+[750, [48]],
+[751, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "YellowGreen":{
 "files": [
-[298, [112]],
-[723, [12]],
-[724, [12]]
+[311, [112]],
+[745, [12]],
+[746, [12]]
 ],
 "memberKind": "Property"
+}
+}
+}
+,
+"Composition":{
+"children": {
+"CompositionTarget":{
+"members": {
+"Root":{
+"files": [
+[140, [278]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"Compositor":{
+"members": {
+":ctor`0":{
+"files": [
+[140, [271]]
+],
+"memberKind": "Constructor"
+}
+,
+"CreateContainerVisual`0":{
+"files": [
+[140, [273,303]]
+],
+"memberKind": "Method"
+}
+,
+"CreateInsetClip`0":{
+"files": [
+[140, [156]]
+],
+"memberKind": "Method"
+}
+,
+"CreateSolidColorVisual`0":{
+"files": [
+[140, [314,322]]
+],
+"memberKind": "Method"
+}
+,
+"CreateTargetForCurrentView`0":{
+"files": [
+[140, [277]]
+],
+"memberKind": "Method"
+}
+}
+}
+,
+"ContainerVisual":{
+"members": {
+"Children":{
+"files": [
+[140, [82,111,112,145,195,285,315,323]]
+],
+"memberKind": "Property"
+}
+,
+"Clip":{
+"files": [
+[140, [161,203]]
+],
+"memberKind": "Property"
+}
+,
+"Offset":{
+"files": [
+[140, [167,309,324]]
+],
+"memberKind": "Property"
+}
+,
+"Opacity":{
+"files": [
+[140, [139,202,340]]
+],
+"memberKind": "Property"
+}
+,
+"Parent":{
+"files": [
+[140, [110]]
+],
+"memberKind": "Property"
+}
+,
+"Size":{
+"files": [
+[140, [148,304,317,325]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"InsetClip":{
+"members": {
+"BottomInset":{
+"files": [
+[140, [160]]
+],
+"memberKind": "Property"
+}
+,
+"LeftInset":{
+"files": [
+[140, [157]]
+],
+"memberKind": "Property"
+}
+,
+"RightInset":{
+"files": [
+[140, [158]]
+],
+"memberKind": "Property"
+}
+,
+"TopInset":{
+"files": [
+[140, [159]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"SolidColorVisual":{
+"members": {
+"Children":{
+"files": [
+[140, [323]]
+],
+"memberKind": "Property"
+}
+,
+"Color":{
+"files": [
+[140, [316,333]]
+],
+"memberKind": "Property"
+}
+,
+"Offset":{
+"files": [
+[140, [324]]
+],
+"memberKind": "Property"
+}
+,
+"Size":{
+"files": [
+[140, [317,325]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"Visual":{
+"members": {
+"Clip":{
+"files": [
+[140, [161,203]]
+],
+"memberKind": "Property"
+}
+,
+"Offset":{
+"files": [
+[140, [167,309,324]]
+],
+"memberKind": "Property"
+}
+,
+"Opacity":{
+"files": [
+[140, [139,202,340]]
+],
+"memberKind": "Property"
+}
+,
+"Parent":{
+"files": [
+[140, [110]]
+],
+"memberKind": "Property"
+}
+,
+"Size":{
+"files": [
+[140, [148,304,317,325]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"VisualCollection":{
+"members": {
+"InsertAtTop`1":{
+"files": [
+[140, [112,285,315,323]]
+],
+"memberKind": "Method"
+}
+,
+"Remove`1":{
+"files": [
+[140, [111]]
+],
+"memberKind": "Method"
+}
+}
 }
 }
 }
@@ -35171,24 +36249,24 @@ var contents = {
 "members": {
 "EventType":{
 "files": [
-[458, [243,244]],
-[437, [233,234]]
+[475, [243,244]],
+[454, [233,234]]
 ],
 "memberKind": "Property"
 }
 ,
 "Handled":{
 "files": [
-[458, [260,267]],
-[437, [250,257]]
+[475, [260,267]],
+[454, [250,257]]
 ],
 "memberKind": "Property"
 }
 ,
 "VirtualKey":{
 "files": [
-[458, [239]],
-[437, [229]]
+[475, [239]],
+[454, [229]]
 ],
 "memberKind": "Property"
 }
@@ -35201,47 +36279,47 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[452, [41]],
-[714, [174]]
+[469, [41]],
+[736, [174]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Animations":{
 "files": [
-[452, [53]],
-[714, [188]]
+[469, [53]],
+[736, [188]]
 ],
 "memberKind": "Property"
 }
 ,
 "DelayLimit":{
 "files": [
-[452, [46]],
-[714, [185]]
+[469, [46]],
+[736, [185]]
 ],
 "memberKind": "Property"
 }
 ,
 "StaggerDelay":{
 "files": [
-[452, [42]],
-[714, [185]]
+[469, [42]],
+[736, [185]]
 ],
 "memberKind": "Property"
 }
 ,
 "StaggerDelayFactor":{
 "files": [
-[452, [44]],
-[714, [185]]
+[469, [44]],
+[736, [185]]
 ],
 "memberKind": "Property"
 }
 ,
 "ZOrder":{
 "files": [
-[452, [48]]
+[469, [48]]
 ],
 "memberKind": "Property"
 }
@@ -35252,15 +36330,15 @@ var contents = {
 "members": {
 "AddToList":{
 "files": [
-[452, [129,133]]
+[469, [129,133]]
 ],
 "memberKind": "Field"
 }
 ,
 "EnterPage":{
 "files": [
-[452, [137]],
-[714, [174]]
+[469, [137]],
+[736, [174]]
 ],
 "memberKind": "Field"
 }
@@ -35271,22 +36349,22 @@ var contents = {
 "members": {
 "Added":{
 "files": [
-[452, [129]]
+[469, [129]]
 ],
 "memberKind": "Field"
 }
 ,
 "Affected":{
 "files": [
-[452, [133]]
+[469, [133]]
 ],
 "memberKind": "Field"
 }
 ,
 "Primary":{
 "files": [
-[452, [137]],
-[714, [174]]
+[469, [137]],
+[736, [174]]
 ],
 "memberKind": "Field"
 }
@@ -35297,14 +36375,14 @@ var contents = {
 "members": {
 "FinalOpacity":{
 "files": [
-[452, [94]]
+[469, [94]]
 ],
 "memberKind": "Property"
 }
 ,
 "InitialOpacity":{
 "files": [
-[452, [89,91]]
+[469, [89,91]]
 ],
 "memberKind": "Property"
 }
@@ -35315,23 +36393,23 @@ var contents = {
 "members": {
 "Opacity":{
 "files": [
-[452, [85]],
-[714, [216]]
+[469, [85]],
+[736, [216]]
 ],
 "memberKind": "Field"
 }
 ,
 "Scale":{
 "files": [
-[452, [60]]
+[469, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "Translation":{
 "files": [
-[452, [82]],
-[714, [207]]
+[469, [82]],
+[736, [207]]
 ],
 "memberKind": "Field"
 }
@@ -35342,35 +36420,35 @@ var contents = {
 "members": {
 "FinalScaleX":{
 "files": [
-[452, [74]]
+[469, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "FinalScaleY":{
 "files": [
-[452, [76]]
+[469, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "InitialScaleX":{
 "files": [
-[452, [64,66]]
+[469, [64,66]]
 ],
 "memberKind": "Property"
 }
 ,
 "InitialScaleY":{
 "files": [
-[452, [69,71]]
+[469, [69,71]]
 ],
 "memberKind": "Property"
 }
 ,
 "NormalizedOrigin":{
 "files": [
-[452, [78]]
+[469, [78]]
 ],
 "memberKind": "Property"
 }
@@ -35383,17 +36461,17 @@ var contents = {
 "members": {
 "Collapsed":{
 "files": [
-[473, [61]],
-[737, [51]],
-[738, [11]]
+[490, [61]],
+[759, [51]],
+[760, [11]]
 ],
 "memberKind": "Field"
 }
 ,
 "Visible":{
 "files": [
-[737, [46]],
-[738, [11]]
+[759, [46]],
+[760, [11]]
 ],
 "memberKind": "Field"
 }
@@ -35405,13 +36483,13 @@ var contents = {
 "Handled":{
 "files": [
 [10, [107,109]],
-[738, [34]],
-[486, [51]],
-[739, [37]],
-[740, [65]],
-[487, [151]],
-[436, [136,138]],
-[741, [88]]
+[760, [34]],
+[503, [51]],
+[761, [37]],
+[762, [65]],
+[504, [151]],
+[453, [145,147]],
+[763, [88]]
 ],
 "memberKind": "Property"
 }
@@ -35422,16 +36500,16 @@ var contents = {
 "members": {
 "KeyDown":{
 "files": [
-[458, [244]],
-[437, [234]]
+[475, [244]],
+[454, [234]]
 ],
 "memberKind": "Field"
 }
 ,
 "SystemKeyDown":{
 "files": [
-[458, [243]],
-[437, [233]]
+[475, [243]],
+[454, [233]]
 ],
 "memberKind": "Field"
 }
@@ -35442,219 +36520,230 @@ var contents = {
 "members": {
 "AcceleratorKeyActivated":{
 "files": [
-[458, [99,113]],
-[437, [92,110]]
+[475, [99,113]],
+[454, [92,110]]
 ],
 "memberKind": "Event"
 }
 ,
 "HasThreadAccess":{
 "files": [
-[461, [123]],
-[742, [84,103,123]],
-[743, [84,103,123]],
-[744, [84,103,123]],
-[745, [84,103,123]],
-[416, [130]],
-[418, [130]]
+[478, [123]],
+[764, [84,103,123]],
+[765, [84,103,123]],
+[766, [84,103,123]],
+[767, [84,103,123]],
+[433, [130]],
+[435, [130]]
 ],
 "memberKind": "Property"
 }
 ,
+"ProcessEvents`1":{
+"files": [
+[140, [237]]
+],
+"memberKind": "Method"
+}
+,
 "RunAsync`2":{
 "files": [
-[354, [115]],
-[355, [107]],
-[356, [152,172]],
-[357, [121]],
-[265, [81,157]],
+[371, [115]],
+[372, [107]],
+[373, [152,172]],
+[374, [121]],
+[278, [81,157]],
 [59, [178]],
-[574, [103]],
-[575, [42]],
-[419, [60]],
-[324, [101,108,164,171]],
-[282, [111,133,190]],
-[115, [102,120,192,203,228]],
-[116, [122,167,178,229,303,395,402]],
-[746, [51,81,116]],
-[747, [281]],
-[252, [164,423]],
-[260, [528,808,993]],
-[748, [28]],
-[259, [150,264]],
-[261, [185,394]],
-[749, [29]],
-[359, [115]],
-[632, [57]],
-[633, [73]],
-[174, [65]],
+[596, [103]],
+[597, [42]],
+[436, [60]],
+[339, [101,108,164,171]],
+[295, [111,133,190]],
+[124, [102,120,192,203,228]],
+[125, [122,167,178,229,303,395,402]],
+[768, [51,81,116]],
+[769, [281]],
+[262, [164,423]],
+[271, [528,808,993]],
+[770, [28]],
+[270, [150,264]],
+[272, [185,394]],
+[771, [29]],
+[376, [115]],
+[654, [57]],
+[655, [73]],
+[184, [65]],
 [52, [94]],
-[563, [62,71,80,111,120,159,176]],
-[298, [239]],
-[420, [187]],
-[191, [247,266,457]],
+[584, [62,71,80,111,120,159,176]],
+[311, [239]],
+[437, [187]],
+[201, [247,266,457]],
 [61, [304]],
-[87, [123]],
-[88, [124]],
-[89, [123]],
 [90, [123]],
+[91, [124]],
+[92, [123]],
+[93, [123]],
 [60, [146]],
-[576, [376]],
-[577, [349]],
-[429, [85,93]],
-[299, [167,258]],
-[345, [122,193,414,428,539,577]],
-[361, [116]],
-[192, [380]],
-[193, [271,279,364]],
-[446, [89,105,113]],
-[283, [101,111,127,138,172,206]],
-[262, [251,271]],
-[263, [199]],
+[598, [376]],
+[599, [349]],
+[446, [85,93]],
+[312, [167,258]],
+[362, [122,193,414,428,539,577]],
+[378, [116]],
+[202, [380]],
+[203, [271,279,364]],
+[463, [89,105,113]],
+[296, [101,111,127,138,172,206]],
+[273, [251,271]],
+[274, [199]],
 [68, [311]],
 [69, [276]],
-[194, [145,180,198,249,258,264,415]],
-[195, [142,197,349]],
-[196, [161,196,215,225,297,452]],
-[278, [203,219]],
-[279, [174,190]],
-[280, [150,166]],
-[197, [138,173,191,225,234,382]],
-[198, [143,178,196,252,267,276,427]],
-[347, [194,208]],
-[348, [238,264]],
-[134, [180]],
-[363, [116]],
-[208, [139]],
-[266, [376,550,576]],
-[284, [354,371,388,462]],
-[337, [103,211]],
-[267, [98,115,195]],
-[268, [87,104]],
-[269, [380,556,581]],
-[285, [381,398,415,491]],
-[387, [446,464,482,494]],
-[270, [395,569,594]],
-[286, [397,414,431,489]],
-[404, [108,313,333,371]],
-[405, [241,477,508,528]],
-[73, [264,322]],
-[123, [275]],
-[124, [173]],
-[579, [293]],
-[323, [112,123]],
-[287, [97,111,131,152,163]],
-[75, [129]],
-[288, [89,103,123,144,155]],
-[289, [81,92,111,129,137]],
-[290, [94,108,128,149,160]],
-[154, [190,440]],
-[76, [159]],
+[277, [161,188,220,230,247]],
+[70, [199,206,227,261]],
+[204, [145,180,198,249,258,264,396]],
+[205, [142,197,331]],
+[206, [161,196,215,225,297,434]],
+[291, [203,219]],
+[292, [174,190]],
+[293, [150,166]],
+[566, [102]],
+[207, [138,173,191,225,234,364]],
+[208, [143,178,196,252,267,276,409]],
+[364, [194,208]],
+[365, [238,264]],
+[144, [180]],
+[380, [116]],
+[218, [139]],
+[279, [376,550,576]],
+[297, [354,371,388,462]],
+[354, [103,211]],
+[280, [98,115,195]],
+[281, [87,104]],
+[282, [380,556,581]],
+[298, [381,398,415,491]],
+[404, [446,464,482,494]],
+[283, [395,569,594]],
+[299, [397,414,431,489]],
+[421, [108,313,333,371]],
+[422, [241,477,508,528]],
+[74, [264,322]],
+[132, [275]],
+[133, [173]],
+[601, [293]],
+[338, [112,123]],
+[300, [97,111,131,152,163]],
+[77, [129]],
+[301, [89,103,123,144,155]],
+[302, [81,92,111,129,137]],
+[303, [94,108,128,149,160]],
+[164, [190,440]],
+[78, [159]],
 [29, [72]],
-[161, [53]],
-[645, [54]],
-[502, [53]],
-[696, [49]],
-[334, [138,153]],
-[70, [224,259]],
-[332, [180,190]],
-[71, [233,268]],
-[366, [116]],
-[369, [116]],
-[301, [145,161]],
-[344, [170,185]],
-[343, [140,207,222]],
-[685, [60]],
-[686, [75]],
-[372, [116]],
-[350, [146]],
-[349, [146]],
-[413, [116,123]],
+[171, [53]],
+[667, [54]],
+[519, [53]],
+[718, [49]],
+[349, [138,153]],
+[71, [224,259]],
+[347, [180,190]],
+[72, [233,268]],
+[383, [116]],
+[386, [116]],
+[352, [116]],
+[316, [145,161]],
+[361, [156,171]],
+[360, [133,200,215]],
+[707, [60]],
+[708, [75]],
+[389, [116]],
+[367, [146]],
+[366, [146]],
+[430, [116,123]],
 [30, [313,673]],
-[566, [197,342,350,358,370,400,415,432,444,453]],
-[564, [179,314,322,330,341,352,367,384,396,405]],
-[500, [246,391,399,407,421,453,468,485,497,506]],
-[291, [140,158,176,192]],
-[311, [251]],
-[584, [175]],
+[588, [197,342,350,358,370,400,415,432,444,453]],
+[585, [179,314,322,330,341,352,367,384,396,405]],
+[517, [246,391,399,407,421,453,468,485,497,506]],
+[304, [140,158,176,192]],
+[326, [251]],
+[606, [175]],
 [4, [56,80]],
-[117, [72]],
-[750, [139]],
-[714, [96,115]],
-[751, [232]],
-[461, [125]],
+[126, [72]],
+[772, [139]],
+[736, [96,115]],
+[773, [232]],
+[478, [125]],
 [44, [67]],
 [65, [106]],
 [6, [109]],
 [7, [68]],
 [67, [96]],
-[201, [486,493,606]],
-[376, [116]],
-[271, [110,170]],
-[157, [77]],
-[110, [59]],
-[102, [48]],
-[103, [54,68]],
-[105, [46]],
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]],
-[752, [59]],
-[118, [54]],
-[119, [58,87,138]],
-[120, [82]],
-[753, [269]],
-[292, [67,76,84,97,174]],
-[293, [60]],
-[294, [59]],
-[742, [92,111,131]],
-[743, [92,111,131]],
-[352, [39]],
-[370, [116]],
-[382, [116]],
-[718, [147]],
-[272, [400,576,601]],
-[295, [368,385,402,462]],
-[313, [410,425,441,453]],
-[155, [174,433]],
+[211, [486,493,606]],
+[393, [116]],
+[284, [110,170]],
+[167, [77]],
+[119, [59]],
+[111, [48]],
+[112, [54,68]],
+[114, [46]],
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]],
+[774, [59]],
+[127, [54]],
+[128, [58,87,138]],
+[129, [82]],
+[775, [269]],
+[305, [67,76,84,97,174]],
+[306, [60]],
+[307, [59]],
+[764, [92,111,131]],
+[765, [92,111,131]],
+[369, [39]],
+[387, [116]],
+[399, [116]],
+[740, [147]],
+[285, [400,576,601]],
+[308, [368,385,402,462]],
+[328, [410,425,441,453]],
+[165, [174,433]],
+[443, [146]],
+[587, [120,198]],
+[400, [142]],
+[79, [230]],
+[612, [49]],
+[546, [231,242,264,287,300,322]],
+[187, [312,344,355,371]],
+[176, [325,347,358,372]],
+[188, [302]],
+[595, [160,193,202,216]],
+[189, [212]],
+[190, [184]],
+[177, [278]],
+[136, [225]],
+[733, [111,129,145,159,168]],
+[574, [86]],
+[466, [111,140]],
+[611, [85,226]],
+[613, [84,283]],
+[776, [31]],
+[329, [187,202,225,277]],
+[309, [112,125,144]],
+[330, [120,132,151,162,185,196]],
+[428, [66,81]],
+[777, [71,82]],
+[429, [92,103]],
+[322, [81]],
 [426, [146]],
-[565, [120,198]],
-[383, [142]],
-[77, [230]],
-[590, [49]],
-[529, [231,242,264,287,300,322]],
-[177, [312,344,355,371]],
-[166, [325,347,358,372]],
-[178, [302]],
-[573, [160,193,202,216]],
-[179, [212]],
-[180, [184]],
-[167, [278]],
-[127, [225]],
-[711, [111,129,145,159,168]],
-[553, [86]],
-[449, [111,140]],
-[589, [85,226]],
-[591, [84,283]],
-[754, [31]],
-[314, [187,202,225,277]],
-[296, [112,125,144]],
-[315, [120,132,151,162,185,196]],
-[411, [66,81]],
-[755, [71,82]],
-[412, [92,103]],
-[307, [81]],
-[409, [146]],
-[309, [76]],
-[310, [113,121]],
-[744, [92,111,131]],
-[745, [92,111,131]],
-[416, [132]],
-[418, [132]],
-[756, [85]],
-[757, [118]]
+[324, [76]],
+[325, [113,121]],
+[766, [92,111,131]],
+[767, [92,111,131]],
+[433, [132]],
+[435, [132]],
+[778, [85]],
+[779, [118]]
 ],
 "memberKind": "Method"
 }
@@ -35665,218 +36754,222 @@ var contents = {
 "members": {
 "High":{
 "files": [
-[387, [446,464]],
-[405, [508]],
-[758, [109,137]],
-[759, [118,148]],
-[291, [140,158,176,192]],
-[311, [251]],
-[313, [410,425]],
-[314, [187,202,225]]
+[404, [446,464]],
+[422, [508]],
+[780, [109,137]],
+[781, [118,148]],
+[304, [140,158,176,192]],
+[326, [251]],
+[328, [410,425]],
+[329, [187,202,225]]
 ],
 "memberKind": "Field"
 }
 ,
 "Low":{
 "files": [
-[747, [281]],
-[405, [477]],
-[323, [112,123]],
-[287, [97,111,131,152,163]],
-[289, [81,92,111,129,137]],
-[290, [94,108,128,149,160]],
-[751, [232]],
-[753, [269]],
-[711, [111,129,145,159,168]]
+[769, [281]],
+[422, [477]],
+[338, [112,123]],
+[300, [97,111,131,152,163]],
+[302, [81,92,111,129,137]],
+[303, [94,108,128,149,160]],
+[773, [232]],
+[775, [269]],
+[733, [111,129,145,159,168]]
 ],
 "memberKind": "Field"
 }
 ,
 "Normal":{
 "files": [
-[354, [115]],
-[355, [107]],
-[356, [152,172]],
-[357, [121]],
-[265, [81,157]],
+[371, [115]],
+[372, [107]],
+[373, [152,172]],
+[374, [121]],
+[278, [81,157]],
 [59, [178]],
-[574, [103]],
-[575, [42]],
-[419, [60]],
-[324, [101,108,164,171]],
-[282, [111,133,190]],
-[115, [102,120,192,203,228]],
-[116, [122,167,178,229,303,395,402]],
-[746, [51,81,116]],
-[252, [164,423]],
-[260, [528,808,993]],
-[748, [28]],
-[259, [150,264]],
-[261, [185,394]],
-[749, [29]],
-[359, [115]],
-[632, [57]],
-[633, [73]],
-[174, [65]],
+[596, [103]],
+[597, [42]],
+[436, [60]],
+[339, [101,108,164,171]],
+[295, [111,133,190]],
+[124, [102,120,192,203,228]],
+[125, [122,167,178,229,303,395,402]],
+[768, [51,81,116]],
+[262, [164,423]],
+[271, [528,808,993]],
+[770, [28]],
+[270, [150,264]],
+[272, [185,394]],
+[771, [29]],
+[376, [115]],
+[654, [57]],
+[655, [73]],
+[184, [65]],
 [52, [94]],
-[563, [62,71,80,111,120,159,176]],
-[298, [239]],
-[420, [187]],
-[191, [247,266,457]],
+[584, [62,71,80,111,120,159,176]],
+[311, [239]],
+[437, [187]],
+[201, [247,266,457]],
 [61, [304]],
-[87, [123]],
-[88, [124]],
-[89, [123]],
 [90, [123]],
+[91, [124]],
+[92, [123]],
+[93, [123]],
 [60, [146]],
-[576, [376]],
-[577, [349]],
-[429, [85,93]],
-[299, [167,258]],
-[345, [123,194,414,428,540,578]],
-[361, [116]],
-[192, [380]],
-[193, [271,279,364]],
-[446, [89,105,113]],
-[283, [101,111,127,138,172,206]],
-[262, [251,271]],
-[263, [199]],
+[598, [376]],
+[599, [349]],
+[446, [85,93]],
+[312, [167,258]],
+[362, [123,194,414,428,540,578]],
+[378, [116]],
+[202, [380]],
+[203, [271,279,364]],
+[463, [89,105,113]],
+[296, [101,111,127,138,172,206]],
+[273, [251,271]],
+[274, [199]],
 [68, [311]],
 [69, [276]],
-[194, [145,180,198,249,258,264,415]],
-[195, [142,197,349]],
-[196, [161,196,215,225,297,452]],
-[278, [203,219]],
-[279, [174,190]],
-[280, [150,166]],
-[197, [138,173,191,225,234,382]],
-[198, [143,178,196,252,267,276,427]],
-[347, [194,208]],
-[348, [238,264]],
-[134, [180]],
-[363, [116]],
-[208, [139]],
-[266, [377,551,577]],
-[284, [355,372,389,463]],
-[337, [103,212]],
-[267, [98,115,195]],
-[268, [87,104]],
-[269, [381,557,582]],
-[285, [382,399,416,492]],
-[387, [482,494]],
-[270, [396,570,595]],
-[286, [398,415,432,490]],
-[404, [109,314,334,372]],
-[405, [241,528]],
-[73, [264,322]],
-[123, [276]],
-[124, [174]],
-[579, [294]],
-[75, [129]],
-[288, [89,103,123,144,155]],
-[154, [190,440]],
-[76, [159]],
+[277, [161,188,220,230,247]],
+[70, [199,206,227,261]],
+[204, [145,180,198,249,258,264,396]],
+[205, [142,197,331]],
+[206, [161,196,215,225,297,434]],
+[291, [203,219]],
+[292, [174,190]],
+[293, [150,166]],
+[566, [102]],
+[207, [138,173,191,225,234,364]],
+[208, [143,178,196,252,267,276,409]],
+[364, [194,208]],
+[365, [238,264]],
+[144, [180]],
+[380, [116]],
+[218, [139]],
+[279, [377,551,577]],
+[297, [355,372,389,463]],
+[354, [103,212]],
+[280, [98,115,195]],
+[281, [87,104]],
+[282, [381,557,582]],
+[298, [382,399,416,492]],
+[404, [482,494]],
+[283, [396,570,595]],
+[299, [398,415,432,490]],
+[421, [109,314,334,372]],
+[422, [241,528]],
+[74, [264,322]],
+[132, [276]],
+[133, [174]],
+[601, [294]],
+[77, [129]],
+[301, [89,103,123,144,155]],
+[164, [190,440]],
+[78, [159]],
 [29, [72]],
-[161, [53]],
-[645, [54]],
-[502, [53]],
-[696, [49]],
-[334, [138,153]],
-[70, [224,259]],
-[332, [180,190]],
-[71, [233,268]],
-[366, [116]],
-[369, [116]],
-[301, [145,161]],
-[344, [170,185]],
-[343, [140,207,222]],
-[685, [60]],
-[686, [75]],
-[372, [116]],
-[350, [146]],
-[349, [146]],
-[413, [116,123]],
+[171, [53]],
+[667, [54]],
+[519, [53]],
+[718, [49]],
+[349, [138,153]],
+[71, [224,259]],
+[347, [180,190]],
+[72, [233,268]],
+[383, [116]],
+[386, [116]],
+[352, [116]],
+[316, [145,161]],
+[361, [156,171]],
+[360, [133,200,215]],
+[707, [60]],
+[708, [75]],
+[389, [116]],
+[367, [146]],
+[366, [146]],
+[430, [116,123]],
 [30, [313,673]],
-[566, [197,342,350,358,370,400,415,432,444,453]],
-[564, [179,314,322,330,341,352,367,384,396,405]],
-[500, [246,391,399,407,421,453,468,485,497,506]],
-[584, [176]],
+[588, [197,342,350,358,370,400,415,432,444,453]],
+[585, [179,314,322,330,341,352,367,384,396,405]],
+[517, [246,391,399,407,421,453,468,485,497,506]],
+[606, [176]],
 [4, [56,80]],
-[117, [72]],
-[750, [139]],
-[714, [96,115]],
-[461, [125]],
+[126, [72]],
+[772, [139]],
+[736, [96,115]],
+[478, [125]],
 [44, [67]],
 [65, [106]],
 [6, [109]],
 [7, [68]],
 [67, [96]],
-[201, [486,493,606]],
-[376, [116]],
-[271, [110,170]],
-[157, [75]],
-[110, [60]],
-[102, [49]],
-[103, [55,69]],
-[105, [47]],
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]],
-[752, [59]],
-[118, [54]],
-[119, [58,87,138]],
-[120, [82]],
-[292, [67,76,84,97,174]],
-[293, [60]],
-[294, [59]],
-[742, [92,111,131]],
-[743, [92,111,131]],
-[352, [39]],
-[370, [116]],
-[382, [116]],
-[718, [147]],
-[272, [401,577,602]],
-[295, [369,386,403,463]],
-[313, [441,453]],
-[155, [174,433]],
+[211, [486,493,606]],
+[393, [116]],
+[284, [110,170]],
+[167, [75]],
+[119, [60]],
+[111, [49]],
+[112, [55,69]],
+[114, [47]],
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]],
+[774, [59]],
+[127, [54]],
+[128, [58,87,138]],
+[129, [82]],
+[305, [67,76,84,97,174]],
+[306, [60]],
+[307, [59]],
+[764, [92,111,131]],
+[765, [92,111,131]],
+[369, [39]],
+[387, [116]],
+[399, [116]],
+[740, [147]],
+[285, [401,577,602]],
+[308, [369,386,403,463]],
+[328, [441,453]],
+[165, [174,433]],
+[443, [146]],
+[587, [120,198]],
+[400, [142]],
+[79, [230]],
+[612, [49]],
+[546, [231,242,264,287,300,322]],
+[187, [312,344,355,371]],
+[176, [325,347,358,372]],
+[188, [302]],
+[595, [160,193,202,216]],
+[189, [212]],
+[190, [184]],
+[177, [278]],
+[136, [226]],
+[565, [187,219,275,300,553]],
+[574, [86]],
+[466, [111,140]],
+[611, [85,226]],
+[613, [84,283]],
+[776, [31]],
+[329, [277]],
+[309, [112,125,144]],
+[330, [120,132,151,162,185,196]],
+[428, [66,81]],
+[777, [71,82]],
+[429, [92,103]],
+[322, [81]],
 [426, [146]],
-[565, [120,198]],
-[383, [142]],
-[77, [230]],
-[590, [49]],
-[529, [231,242,264,287,300,322]],
-[177, [312,344,355,371]],
-[166, [325,347,358,372]],
-[178, [302]],
-[573, [160,193,202,216]],
-[179, [212]],
-[180, [184]],
-[167, [278]],
-[127, [226]],
-[548, [187,219,275,300,553]],
-[553, [86]],
-[449, [111,140]],
-[589, [85,226]],
-[591, [84,283]],
-[754, [31]],
-[314, [277]],
-[296, [112,125,144]],
-[315, [120,132,151,162,185,196]],
-[411, [66,81]],
-[755, [71,82]],
-[412, [92,103]],
-[307, [81]],
-[409, [146]],
-[309, [76]],
-[310, [113,121]],
-[744, [92,111,131]],
-[745, [92,111,131]],
-[416, [132]],
-[418, [132]],
-[756, [85]],
-[757, [118]]
+[324, [76]],
+[325, [113,121]],
+[766, [92,111,131]],
+[767, [92,111,131]],
+[433, [132]],
+[435, [132]],
+[778, [85]],
+[779, [118]]
 ],
 "memberKind": "Field"
 }
@@ -35887,30 +36980,41 @@ var contents = {
 "members": {
 "Mouse":{
 "files": [
-[467, [52,214,220]],
-[468, [80]],
-[448, [39]],
-[493, [36]]
+[484, [52,214,220]],
+[485, [80]],
+[465, [39]],
+[510, [36]]
 ],
 "memberKind": "Field"
 }
 ,
 "Pen":{
 "files": [
-[467, [52,214,220]],
-[468, [80]],
-[448, [39]],
-[493, [36]]
+[484, [52,214,220]],
+[485, [80]],
+[465, [39]],
+[510, [36]]
 ],
 "memberKind": "Field"
 }
 ,
 "Touch":{
 "files": [
-[467, [214]],
-[468, [80]],
-[448, [39]],
-[493, [36]]
+[484, [214]],
+[485, [80]],
+[465, [39]],
+[510, [36]]
+],
+"memberKind": "Field"
+}
+}
+}
+,
+"CoreProcessEventsOption":{
+"members": {
+"ProcessUntilQuit":{
+"files": [
+[140, [237]]
 ],
 "memberKind": "Field"
 }
@@ -35921,9 +37025,9 @@ var contents = {
 "members": {
 "Down":{
 "files": [
-[458, [249]],
-[720, [135]],
-[437, [239]]
+[475, [249]],
+[742, [135]],
+[454, [239]]
 ],
 "memberKind": "Field"
 }
@@ -35932,87 +37036,110 @@ var contents = {
 ,
 "CoreWindow":{
 "members": {
+"Activate`0":{
+"files": [
+[140, [236]]
+],
+"memberKind": "Method"
+}
+,
 "Dispatcher":{
 "files": [
-[747, [82]],
-[252, [44]],
-[260, [72]],
-[259, [39]],
-[261, [42]],
-[563, [62,71,80,111,120,159,176]],
-[458, [99,113]],
-[208, [139]],
-[751, [77]],
+[769, [82]],
+[262, [44]],
+[271, [72]],
+[270, [39]],
+[272, [42]],
+[584, [62,71,80,111,120,159,176]],
+[140, [237]],
+[475, [99,113]],
+[218, [139]],
+[773, [77]],
 [44, [67]],
 [65, [106]],
 [6, [109]],
 [7, [68]],
 [67, [96]],
-[110, [59]],
-[102, [48]],
-[103, [54,68]],
-[105, [46]],
-[753, [77]],
-[77, [42]],
-[529, [74]],
-[177, [70]],
-[166, [78]],
-[178, [66]],
-[573, [62]],
-[179, [57]],
-[180, [57]],
-[167, [76]],
-[437, [92,110]]
+[119, [59]],
+[111, [48]],
+[112, [54,68]],
+[114, [46]],
+[775, [77]],
+[79, [42]],
+[546, [74]],
+[187, [70]],
+[176, [78]],
+[188, [66]],
+[595, [62]],
+[189, [57]],
+[190, [57]],
+[177, [76]],
+[454, [92,110]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetForCurrentThread`0":{
 "files": [
-[747, [156]],
-[252, [44]],
-[260, [72]],
-[259, [39]],
-[261, [42]],
-[332, [79]],
-[751, [137]],
-[753, [151]],
-[529, [74]],
-[177, [70]],
-[166, [78]],
-[178, [66]],
-[573, [62]],
-[179, [57]],
-[180, [57]],
-[167, [76]],
-[720, [134]]
+[769, [156]],
+[262, [44]],
+[271, [72]],
+[270, [39]],
+[272, [42]],
+[347, [79]],
+[773, [137]],
+[775, [151]],
+[546, [74]],
+[187, [70]],
+[176, [78]],
+[188, [66]],
+[595, [62]],
+[189, [57]],
+[190, [57]],
+[177, [76]],
+[742, [134]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetKeyState`1":{
 "files": [
-[458, [250,251,252]],
-[720, [134]],
-[437, [240,241,242]]
+[475, [250,251,252]],
+[742, [134]],
+[454, [240,241,242]]
 ],
 "memberKind": "Method"
 }
 ,
+"PointerMoved":{
+"files": [
+[140, [62]]
+],
+"memberKind": "Event"
+}
+,
 "PointerPressed":{
 "files": [
-[458, [101,115]],
-[437, [94,112]]
+[140, [61]],
+[475, [101,115]],
+[454, [94,112]]
+],
+"memberKind": "Event"
+}
+,
+"PointerReleased":{
+"files": [
+[140, [63]]
 ],
 "memberKind": "Event"
 }
 ,
 "VisibilityChanged":{
 "files": [
-[747, [98,105]],
-[713, [90]],
-[332, [80]],
-[753, [93,100]]
+[769, [98,105]],
+[735, [90]],
+[347, [80]],
+[775, [93,100]]
 ],
 "memberKind": "Event"
 }
@@ -36023,7 +37150,7 @@ var contents = {
 "members": {
 "Deactivated":{
 "files": [
-[132, [96]]
+[142, [96]]
 ],
 "memberKind": "Field"
 }
@@ -36034,28 +37161,28 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[574, [103]],
-[575, [42]],
-[419, [60]],
-[266, [378,552,578]],
-[284, [356,373,390,464]],
-[337, [103,213]],
-[269, [382,558,583]],
-[285, [383,400,417,493]],
-[387, [447,465,483,495]],
-[270, [397,571,596]],
-[286, [399,416,433,491]],
-[404, [110,315,335,373]],
-[405, [242,478,509,529]],
-[73, [265,323]],
-[413, [116,123]],
-[742, [92,111,131]],
-[743, [92,111,131]],
-[272, [402,578,603]],
-[295, [370,387,404,464]],
-[313, [411,426,442,454]],
-[744, [92,111,131]],
-[745, [92,111,131]]
+[596, [103]],
+[597, [42]],
+[436, [60]],
+[279, [378,552,578]],
+[297, [356,373,390,464]],
+[354, [103,213]],
+[282, [382,558,583]],
+[298, [383,400,417,493]],
+[404, [447,465,483,495]],
+[283, [397,571,596]],
+[299, [399,416,433,491]],
+[421, [110,315,335,373]],
+[422, [242,478,509,529]],
+[74, [265,323]],
+[430, [116,123]],
+[764, [92,111,131]],
+[765, [92,111,131]],
+[285, [402,578,603]],
+[308, [370,387,404,464]],
+[328, [411,426,442,454]],
+[766, [92,111,131]],
+[767, [92,111,131]]
 ],
 "memberKind": "Constructor"
 }
@@ -36066,17 +37193,18 @@ var contents = {
 "members": {
 "CurrentPoint":{
 "files": [
-[458, [283]],
-[448, [75,82,87]],
-[437, [273]]
+[140, [77,166]],
+[475, [283]],
+[465, [75,82,87]],
+[454, [273]]
 ],
 "memberKind": "Property"
 }
 ,
 "Handled":{
 "files": [
-[458, [295]],
-[437, [285]]
+[475, [295]],
+[454, [285]]
 ],
 "memberKind": "Property"
 }
@@ -36087,9 +37215,9 @@ var contents = {
 "members": {
 "AppViewBackButtonVisibility":{
 "files": [
-[473, [61]],
-[737, [46,51]],
-[738, [41,42]]
+[490, [61]],
+[759, [46,51]],
+[760, [41,42]]
 ],
 "memberKind": "Property"
 }
@@ -36097,13 +37225,13 @@ var contents = {
 "BackRequested":{
 "files": [
 [10, [86]],
-[738, [13,22]],
-[486, [41,46]],
-[739, [25,31]],
-[740, [37]],
-[487, [71,78]],
-[436, [70]],
-[741, [76,83]]
+[760, [13,22]],
+[503, [41,46]],
+[761, [25,31]],
+[762, [37]],
+[504, [71,78]],
+[453, [79]],
+[763, [76,83]]
 ],
 "memberKind": "Event"
 }
@@ -36111,15 +37239,15 @@ var contents = {
 "GetForCurrentView`0":{
 "files": [
 [10, [86]],
-[473, [61]],
-[737, [46,51]],
-[738, [13,22,41,42]],
-[486, [41,46]],
-[739, [25,31]],
-[740, [37]],
-[487, [71,78]],
-[436, [70]],
-[741, [76,83]]
+[490, [61]],
+[759, [46,51]],
+[760, [13,22,41,42]],
+[503, [41,46]],
+[761, [25,31]],
+[762, [37]],
+[504, [71,78]],
+[453, [79]],
+[763, [76,83]]
 ],
 "memberKind": "Method"
 }
@@ -36130,35 +37258,35 @@ var contents = {
 "members": {
 "Visible":{
 "files": [
-[354, [95]],
-[355, [87]],
-[353, [104]],
-[356, [193]],
-[357, [101]],
-[747, [111]],
-[359, [95]],
+[371, [95]],
+[372, [87]],
+[370, [104]],
+[373, [193]],
+[374, [101]],
+[769, [111]],
+[376, [95]],
 [61, [121,123]],
-[361, [96]],
-[363, [96]],
-[362, [104]],
-[713, [67]],
-[267, [172]],
-[332, [159]],
-[366, [96]],
-[364, [104]],
-[369, [96]],
-[367, [104]],
-[372, [96]],
-[371, [104]],
-[750, [88]],
-[376, [96]],
-[377, [104]],
-[753, [106]],
-[370, [96]],
-[382, [96]],
-[426, [154]],
-[383, [85]],
-[443, [137,141]]
+[378, [96]],
+[380, [96]],
+[379, [104]],
+[735, [67]],
+[280, [172]],
+[347, [159]],
+[383, [96]],
+[381, [104]],
+[386, [96]],
+[384, [104]],
+[389, [96]],
+[388, [104]],
+[772, [88]],
+[393, [96]],
+[394, [104]],
+[775, [106]],
+[387, [96]],
+[399, [96]],
+[443, [154]],
+[400, [85]],
+[460, [137,141]]
 ],
 "memberKind": "Property"
 }
@@ -36169,7 +37297,7 @@ var contents = {
 "members": {
 "WindowActivationState":{
 "files": [
-[132, [96]]
+[142, [96]]
 ],
 "memberKind": "Property"
 }
@@ -36184,70 +37312,70 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[445, [34]]
+[462, [34]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CompleteGesture`0":{
 "files": [
-[445, [179,226,234,242,251,263]]
+[462, [179,226,234,242,251,263]]
 ],
 "memberKind": "Method"
 }
 ,
 "GestureSettings":{
 "files": [
-[445, [107,227,228,235,236,243,252,256,265]]
+[462, [107,227,228,235,236,243,252,256,265]]
 ],
 "memberKind": "Property"
 }
 ,
 "ManipulationCompleted":{
 "files": [
-[445, [118]]
+[462, [118]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationInertiaStarting":{
 "files": [
-[445, [119]]
+[462, [119]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationStarted":{
 "files": [
-[445, [116]]
+[462, [116]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationUpdated":{
 "files": [
-[445, [117]]
+[462, [117]]
 ],
 "memberKind": "Event"
 }
 ,
 "ProcessDownEvent`1":{
 "files": [
-[445, [153]]
+[462, [153]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProcessMoveEvents`1":{
 "files": [
-[445, [161]]
+[462, [161]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProcessUpEvent`1":{
 "files": [
-[445, [169]]
+[462, [169]]
 ],
 "memberKind": "Method"
 }
@@ -36258,35 +37386,35 @@ var contents = {
 "members": {
 "ManipulationRotate":{
 "files": [
-[445, [139]]
+[462, [139]]
 ],
 "memberKind": "Field"
 }
 ,
 "ManipulationRotateInertia":{
 "files": [
-[445, [141,252,256]]
+[462, [141,252,256]]
 ],
 "memberKind": "Field"
 }
 ,
 "ManipulationTranslateInertia":{
 "files": [
-[445, [140,252,256]]
+[462, [140,252,256]]
 ],
 "memberKind": "Field"
 }
 ,
 "ManipulationTranslateX":{
 "files": [
-[445, [137,227,235,236,243]]
+[462, [137,227,235,236,243]]
 ],
 "memberKind": "Field"
 }
 ,
 "ManipulationTranslateY":{
 "files": [
-[445, [138,227,228,235,243]]
+[462, [138,227,228,235,243]]
 ],
 "memberKind": "Field"
 }
@@ -36297,17 +37425,17 @@ var contents = {
 "members": {
 "Completed":{
 "files": [
-[730, [113]],
-[450, [108]]
+[752, [113]],
+[467, [108]]
 ],
 "memberKind": "Field"
 }
 ,
 "Started":{
 "files": [
-[730, [108]],
-[464, [59]],
-[760, [40]]
+[752, [108]],
+[481, [59]],
+[782, [40]]
 ],
 "memberKind": "Field"
 }
@@ -36320,65 +37448,65 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[467, [45]],
-[468, [43]]
+[484, [45]],
+[485, [43]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Color":{
 "files": [
-[467, [46,86]],
-[468, [44]],
-[493, [72,75,78,81]]
+[484, [46,86]],
+[485, [44]],
+[510, [72,75,78,81]]
 ],
 "memberKind": "Property"
 }
 ,
 "DrawAsHighlighter":{
 "files": [
-[467, [122,130,137]],
-[493, [86]]
+[484, [122,130,137]],
+[510, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "FitToCurve":{
 "files": [
-[467, [49]],
-[468, [48]]
+[484, [49]],
+[485, [48]]
 ],
 "memberKind": "Property"
 }
 ,
 "IgnorePressure":{
 "files": [
-[467, [48]],
-[468, [47]]
+[484, [48]],
+[485, [47]]
 ],
 "memberKind": "Property"
 }
 ,
 "PenTip":{
 "files": [
-[467, [121,129,136]],
-[493, [87]]
+[484, [121,129,136]],
+[510, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "PenTipTransform":{
 "files": [
-[467, [123,131,141]]
+[484, [123,131,141]]
 ],
 "memberKind": "Property"
 }
 ,
 "Size":{
 "files": [
-[467, [47,101,105,120,128,135]],
-[468, [46]],
-[493, [85]]
+[484, [47,101,105,120,128,135]],
+[485, [46]],
+[510, [85]]
 ],
 "memberKind": "Property"
 }
@@ -36389,14 +37517,14 @@ var contents = {
 "members": {
 "Mode":{
 "files": [
-[467, [226,232]]
+[484, [226,232]]
 ],
 "memberKind": "Property"
 }
 ,
 "RightDragAction":{
 "files": [
-[448, [43]]
+[465, [43]]
 ],
 "memberKind": "Property"
 }
@@ -36407,14 +37535,14 @@ var contents = {
 "members": {
 "Erasing":{
 "files": [
-[467, [226]]
+[484, [226]]
 ],
 "memberKind": "Field"
 }
 ,
 "Inking":{
 "files": [
-[467, [232]]
+[484, [232]]
 ],
 "memberKind": "Field"
 }
@@ -36425,7 +37553,7 @@ var contents = {
 "members": {
 "LeaveUnprocessed":{
 "files": [
-[448, [43]]
+[465, [43]]
 ],
 "memberKind": "Field"
 }
@@ -36436,74 +37564,74 @@ var contents = {
 "members": {
 "CopyDefaultDrawingAttributes`0":{
 "files": [
-[467, [80,95,115]],
-[493, [67]]
+[484, [80,95,115]],
+[510, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "InputDeviceTypes":{
 "files": [
-[467, [52,214,220]],
-[468, [80]],
-[448, [39]],
-[493, [35]]
+[484, [52,214,220]],
+[485, [80]],
+[465, [39]],
+[510, [35]]
 ],
 "memberKind": "Property"
 }
 ,
 "InputProcessingConfiguration":{
 "files": [
-[467, [226,232]],
-[448, [43]]
+[484, [226,232]],
+[465, [43]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeContainer":{
 "files": [
-[467, [150,158,171,173,200,208]],
-[468, [118,125,154]],
-[448, [89,129,158,164,165,171,176,178]],
-[493, [95]]
+[484, [150,158,171,173,200,208]],
+[485, [118,125,154]],
+[465, [89,129,158,164,165,171,176,178]],
+[510, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeInput":{
 "files": [
-[448, [50]]
+[465, [50]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokesCollected":{
 "files": [
-[467, [53]]
+[484, [53]]
 ],
 "memberKind": "Event"
 }
 ,
 "StrokesErased":{
 "files": [
-[467, [54]],
-[448, [51]]
+[484, [54]],
+[465, [51]]
 ],
 "memberKind": "Event"
 }
 ,
 "UnprocessedInput":{
 "files": [
-[448, [45,46,47]]
+[465, [45,46,47]]
 ],
 "memberKind": "Property"
 }
 ,
 "UpdateDefaultDrawingAttributes`1":{
 "files": [
-[467, [51,87,107,143]],
-[468, [79]],
-[493, [89]]
+[484, [51,87,107,143]],
+[485, [79]],
+[510, [89]]
 ],
 "memberKind": "Method"
 }
@@ -36514,7 +37642,7 @@ var contents = {
 "members": {
 "All":{
 "files": [
-[468, [125]]
+[485, [125]]
 ],
 "memberKind": "Field"
 }
@@ -36525,7 +37653,7 @@ var contents = {
 "members": {
 "Name":{
 "files": [
-[468, [57,164]]
+[485, [57,164]]
 ],
 "memberKind": "Property"
 }
@@ -36536,28 +37664,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[468, [51]]
+[485, [51]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetRecognizers`0":{
 "files": [
-[468, [52]]
+[485, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "RecognizeAsync`2":{
 "files": [
-[468, [125]]
+[485, [125]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetDefaultRecognizer`1":{
 "files": [
-[468, [166,201]]
+[485, [166,201]]
 ],
 "memberKind": "Method"
 }
@@ -36568,68 +37696,68 @@ var contents = {
 "members": {
 "CanPasteFromClipboard`0":{
 "files": [
-[448, [176]]
+[465, [176]]
 ],
 "memberKind": "Method"
 }
 ,
 "Clear`0":{
 "files": [
-[467, [150]],
-[468, [154]],
-[448, [158]],
-[493, [95]]
+[484, [150]],
+[485, [154]],
+[465, [158]],
+[510, [95]]
 ],
 "memberKind": "Method"
 }
 ,
 "CopySelectedToClipboard`0":{
 "files": [
-[448, [164,171]]
+[465, [164,171]]
 ],
 "memberKind": "Method"
 }
 ,
 "DeleteSelected`0":{
 "files": [
-[448, [165]]
+[465, [165]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetStrokes`0":{
 "files": [
-[467, [158,173,208]],
-[468, [118]],
-[448, [129]]
+[484, [158,173,208]],
+[485, [118]],
+[465, [129]]
 ],
 "memberKind": "Method"
 }
 ,
 "LoadAsync`1":{
 "files": [
-[467, [200]]
+[484, [200]]
 ],
 "memberKind": "Method"
 }
 ,
 "PasteFromClipboard`1":{
 "files": [
-[448, [178]]
+[465, [178]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveAsync`1":{
 "files": [
-[467, [171]]
+[484, [171]]
 ],
 "memberKind": "Method"
 }
 ,
 "SelectWithPolyLine`1":{
 "files": [
-[448, [89]]
+[465, [89]]
 ],
 "memberKind": "Method"
 }
@@ -36640,7 +37768,7 @@ var contents = {
 "members": {
 "StrokeStarted":{
 "files": [
-[448, [50]]
+[465, [50]]
 ],
 "memberKind": "Event"
 }
@@ -36651,7 +37779,7 @@ var contents = {
 "members": {
 "Strokes":{
 "files": [
-[467, [73]]
+[484, [73]]
 ],
 "memberKind": "Property"
 }
@@ -36662,7 +37790,7 @@ var contents = {
 "members": {
 "Strokes":{
 "files": [
-[467, [68]]
+[484, [68]]
 ],
 "memberKind": "Property"
 }
@@ -36673,21 +37801,21 @@ var contents = {
 "members": {
 "PointerMoved":{
 "files": [
-[448, [46]]
+[465, [46]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerPressed":{
 "files": [
-[448, [45]]
+[465, [45]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerReleased":{
 "files": [
-[448, [47]]
+[465, [47]]
 ],
 "memberKind": "Event"
 }
@@ -36698,16 +37826,16 @@ var contents = {
 "members": {
 "Circle":{
 "files": [
-[467, [121]],
-[493, [87]]
+[484, [121]],
+[510, [87]]
 ],
 "memberKind": "Field"
 }
 ,
 "Rectangle":{
 "files": [
-[467, [129,136]],
-[493, [87]]
+[484, [129,136]],
+[510, [87]]
 ],
 "memberKind": "Field"
 }
@@ -36720,16 +37848,16 @@ var contents = {
 "members": {
 "Rotation":{
 "files": [
-[444, [93]],
-[445, [203]]
+[461, [93]],
+[462, [203]]
 ],
 "memberKind": "Field"
 }
 ,
 "Translation":{
 "files": [
-[444, [94,95]],
-[445, [204,205]]
+[461, [94,95]],
+[462, [204,205]]
 ],
 "memberKind": "Field"
 }
@@ -36740,14 +37868,14 @@ var contents = {
 "members": {
 "Delta":{
 "files": [
-[445, [203,204,205]]
+[462, [203,204,205]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[445, [197]]
+[462, [197]]
 ],
 "memberKind": "Property"
 }
@@ -36758,45 +37886,46 @@ var contents = {
 "members": {
 "IsInContact":{
 "files": [
-[341, [58,70,90,116]]
+[358, [58,70,90,116]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerDevice":{
 "files": [
-[341, [127,210]]
+[358, [127,210]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerId":{
 "files": [
-[341, [113,191,193,195,225,226,231,236,238,239,240]]
+[358, [113,191,193,195,225,226,231,236,238,239,240]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[341, [114,115,229,230]],
-[342, [86]]
+[358, [114,115,229,230]],
+[140, [77,166]],
+[359, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[341, [146,162,176]],
-[458, [283]],
-[437, [273]]
+[358, [146,162,176]],
+[475, [283]],
+[454, [273]]
 ],
 "memberKind": "Property"
 }
 ,
 "RawPosition":{
 "files": [
-[448, [75,82,87]]
+[465, [75,82,87]]
 ],
 "memberKind": "Property"
 }
@@ -36807,80 +37936,80 @@ var contents = {
 "members": {
 "ContactRect":{
 "files": [
-[341, [165,166,167,168]]
+[358, [165,166,167,168]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsBarrelButtonPressed":{
 "files": [
-[341, [179]]
+[358, [179]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEraser":{
 "files": [
-[341, [180]]
+[358, [180]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsLeftButtonPressed":{
 "files": [
-[341, [149]],
-[458, [286]],
-[437, [276]]
+[358, [149]],
+[475, [286]],
+[454, [276]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsMiddleButtonPressed":{
 "files": [
-[341, [151]],
-[458, [287]],
-[437, [277]]
+[358, [151]],
+[475, [287]],
+[454, [277]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsRightButtonPressed":{
 "files": [
-[341, [150]],
-[458, [286]],
-[437, [276]]
+[358, [150]],
+[475, [286]],
+[454, [276]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsXButton1Pressed":{
 "files": [
-[341, [152]],
-[458, [291]],
-[437, [281]]
+[358, [152]],
+[475, [291]],
+[454, [281]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsXButton2Pressed":{
 "files": [
-[341, [153]],
-[458, [292]],
-[437, [282]]
+[358, [153]],
+[475, [292]],
+[454, [282]]
 ],
 "memberKind": "Property"
 }
 ,
 "MouseWheelDelta":{
 "files": [
-[341, [154]]
+[358, [154]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pressure":{
 "files": [
-[341, [181]]
+[358, [181]]
 ],
 "memberKind": "Property"
 }
@@ -36895,14 +38024,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[231, [99,180]],
-[235, [47]],
-[96, [85]],
-[256, [32]],
-[257, [40]],
-[258, [47,68]],
-[246, [99,180]],
-[250, [234]]
+[241, [99,180]],
+[245, [47]],
+[102, [85]],
+[267, [32]],
+[268, [40]],
+[269, [47,68]],
+[256, [99,180]],
+[260, [234]]
 ],
 "memberKind": "Constructor"
 }
@@ -36913,16 +38042,16 @@ var contents = {
 "members": {
 "BadgeGlyph":{
 "files": [
-[256, [25]],
-[258, [61]]
+[267, [25]],
+[269, [61]]
 ],
 "memberKind": "Field"
 }
 ,
 "BadgeNumber":{
 "files": [
-[257, [33]],
-[258, [40]]
+[268, [33]],
+[269, [40]]
 ],
 "memberKind": "Field"
 }
@@ -36933,30 +38062,30 @@ var contents = {
 "members": {
 "CreateBadgeUpdaterForApplication`0":{
 "files": [
-[235, [31,38,48]],
-[761, [21]],
-[256, [35]],
-[257, [43]]
+[245, [31,38,48]],
+[783, [21]],
+[267, [35]],
+[268, [43]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateBadgeUpdaterForSecondaryTile`1":{
 "files": [
-[442, [53]],
-[96, [23]],
-[258, [26,50,71]],
+[459, [53]],
+[102, [23]],
+[269, [26,50,71]],
 [66, [113]],
-[250, [187,237]]
+[260, [187,237]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTemplateContent`1":{
 "files": [
-[256, [25]],
-[257, [33]],
-[258, [40,61]]
+[267, [25]],
+[268, [33]],
+[269, [40,61]]
 ],
 "memberKind": "Method"
 }
@@ -36967,23 +38096,23 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[235, [31]],
-[761, [21]],
-[258, [26]]
+[245, [31]],
+[783, [21]],
+[269, [26]]
 ],
 "memberKind": "Method"
 }
 ,
 "Update`1":{
 "files": [
-[235, [38,48]],
-[442, [53]],
-[96, [23]],
-[256, [38]],
-[257, [46]],
-[258, [53,74]],
+[245, [38,48]],
+[459, [53]],
+[102, [23]],
+[267, [38]],
+[268, [46]],
+[269, [53,74]],
 [66, [113]],
-[250, [187,237]]
+[260, [187,237]]
 ],
 "memberKind": "Method"
 }
@@ -36994,29 +38123,29 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[228, [168,180]],
-[233, [53]],
-[235, [76]],
-[236, [51,79,103]],
-[237, [46]],
-[238, [82]],
-[239, [56]],
-[240, [56]],
-[241, [85]],
-[242, [93]],
-[243, [56]],
-[244, [60]],
-[248, [53]],
-[250, [217]],
-[254, [116]]
+[238, [168,180]],
+[243, [53]],
+[245, [76]],
+[246, [51,79,103]],
+[247, [46]],
+[248, [82]],
+[249, [56]],
+[250, [56]],
+[251, [85]],
+[252, [93]],
+[253, [56]],
+[254, [60]],
+[258, [53]],
+[260, [217]],
+[265, [116]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ExpirationTime":{
 "files": [
-[228, [169,181]],
-[242, [96]]
+[238, [169,181]],
+[252, [96]]
 ],
 "memberKind": "Property"
 }
@@ -37027,14 +38156,14 @@ var contents = {
 "members": {
 "TileSquare150x150Image":{
 "files": [
-[254, [107]]
+[265, [107]]
 ],
 "memberKind": "Field"
 }
 ,
 "TileSquare150x150Text03":{
 "files": [
-[228, [162,174]]
+[238, [162,174]]
 ],
 "memberKind": "Field"
 }
@@ -37045,35 +38174,35 @@ var contents = {
 "members": {
 "CreateTileUpdaterForApplication`0":{
 "files": [
-[235, [58,77,83]],
-[236, [79]],
-[762, [21]],
-[243, [57]]
+[245, [58,77,83]],
+[246, [79]],
+[784, [21]],
+[253, [57]]
 ],
 "memberKind": "Method"
 }
 ,
 "CreateTileUpdaterForSecondaryTile`1":{
 "files": [
-[442, [87]],
-[236, [51,103]],
-[237, [46]],
-[238, [83]],
-[239, [57]],
-[240, [57]],
-[241, [86]],
-[242, [99]],
-[244, [61]],
-[250, [159,220]],
-[254, [119]]
+[459, [87]],
+[246, [51,103]],
+[247, [46]],
+[248, [83]],
+[249, [57]],
+[250, [57]],
+[251, [86]],
+[252, [99]],
+[254, [61]],
+[260, [159,220]],
+[265, [119]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTemplateContent`1":{
 "files": [
-[228, [161,173]],
-[254, [107]]
+[238, [161,173]],
+[265, [107]]
 ],
 "memberKind": "Method"
 }
@@ -37084,27 +38213,27 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[235, [83]],
-[762, [21]]
+[245, [83]],
+[784, [21]]
 ],
 "memberKind": "Method"
 }
 ,
 "Update`1":{
 "files": [
-[235, [58,77]],
-[442, [87]],
-[236, [51,79,103]],
-[237, [46]],
-[238, [83]],
-[239, [57]],
-[240, [57]],
-[241, [86]],
-[242, [99]],
-[243, [57]],
-[244, [61]],
-[250, [159,220]],
-[254, [122]]
+[245, [58,77]],
+[459, [87]],
+[246, [51,79,103]],
+[247, [46]],
+[248, [83]],
+[249, [57]],
+[250, [57]],
+[251, [86]],
+[252, [99]],
+[253, [57]],
+[254, [61]],
+[260, [159,220]],
+[265, [122]]
 ],
 "memberKind": "Method"
 }
@@ -37126,45 +38255,46 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[252, [358]],
-[228, [140,147]],
-[74, [109]],
-[91, [197]],
-[234, [462]],
-[225, [59]],
-[253, [48]],
-[245, [33]],
-[249, [462]],
-[86, [74]],
-[93, [87,88]]
+[262, [358]],
+[238, [140,147]],
+[75, [109]],
+[263, [16]],
+[97, [197]],
+[244, [462]],
+[235, [59]],
+[264, [48]],
+[255, [33]],
+[259, [462]],
+[89, [74]],
+[99, [87,88]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ExpirationTime":{
 "files": [
-[253, [50]]
+[264, [50]]
 ],
 "memberKind": "Property"
 }
 ,
 "Group":{
 "files": [
-[225, [65]]
+[235, [65]]
 ],
 "memberKind": "Property"
 }
 ,
 "SuppressPopup":{
 "files": [
-[245, [33]]
+[255, [33]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[225, [62]]
+[235, [62]]
 ],
 "memberKind": "Property"
 }
@@ -37175,16 +38305,16 @@ var contents = {
 "members": {
 "Argument":{
 "files": [
-[99, [18]],
-[100, [18]]
+[107, [18]],
+[108, [18]]
 ],
 "memberKind": "Property"
 }
 ,
 "UserInput":{
 "files": [
-[99, [26]],
-[100, [26]]
+[107, [26]],
+[108, [26]]
 ],
 "memberKind": "Property"
 }
@@ -37195,64 +38325,64 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[763, [29]],
-[764, [29]],
-[765, [29]],
-[766, [29]],
-[767, [29]],
+[785, [29]],
+[786, [29]],
+[787, [29]],
+[788, [29]],
+[789, [29]],
 [44, [29]],
-[768, [29]],
-[769, [29]],
+[790, [29]],
+[791, [29]],
 [64, [30]],
 [65, [33]],
 [6, [71]],
 [7, [30]],
-[770, [30]],
-[771, [30]],
-[772, [30]],
-[773, [30]],
-[774, [30]],
-[775, [30]],
-[776, [31]],
-[654, [34]],
-[777, [29]],
-[778, [29]],
-[253, [28]],
+[792, [30]],
+[793, [30]],
+[794, [30]],
+[795, [30]],
+[796, [30]],
+[797, [30]],
+[798, [31]],
+[676, [34]],
+[799, [29]],
+[800, [29]],
+[264, [28]],
 [66, [37]],
 [67, [42]],
-[779, [27]],
-[780, [27]],
-[781, [27]],
-[782, [27]],
-[783, [35]],
-[784, [28]],
-[785, [35]],
-[786, [35]],
-[787, [28]]
+[801, [27]],
+[802, [27]],
+[803, [27]],
+[804, [27]],
+[805, [35]],
+[806, [28]],
+[807, [35]],
+[808, [35]],
+[809, [28]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetHistory`0":{
 "files": [
-[96, [18]],
+[102, [18]],
 [66, [108]],
-[788, [23]]
+[810, [23]]
 ],
 "memberKind": "Method"
 }
 ,
 "Remove`3":{
 "files": [
-[784, [38]],
-[785, [48]]
+[806, [38]],
+[807, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "RemoveGroup`1":{
 "files": [
-[786, [48]]
+[808, [48]]
 ],
 "memberKind": "Method"
 }
@@ -37263,8 +38393,8 @@ var contents = {
 "members": {
 "ChangeType":{
 "files": [
-[96, [26]],
-[97, [15]]
+[102, [26]],
+[103, [15]]
 ],
 "memberKind": "Property"
 }
@@ -37275,69 +38405,71 @@ var contents = {
 "members": {
 "CreateToastNotifier`0":{
 "files": [
-[252, [359]],
-[74, [110]],
-[91, [170]],
-[225, [67]],
-[253, [53]],
-[245, [37]],
-[86, [75]],
-[93, [83]]
+[262, [359]],
+[75, [110]],
+[263, [17]],
+[97, [170]],
+[235, [67]],
+[264, [53]],
+[255, [37]],
+[89, [75]],
+[99, [83]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetTemplateContent`1":{
 "files": [
-[252, [351]],
-[228, [137,144]],
-[74, [97]],
-[91, [176]],
-[253, [34]],
-[86, [66]],
-[93, [84]]
+[262, [351]],
+[238, [137,144]],
+[75, [97]],
+[263, [11]],
+[97, [176]],
+[264, [34]],
+[89, [66]],
+[99, [84]]
 ],
 "memberKind": "Method"
 }
 ,
 "History":{
 "files": [
-[96, [18]],
-[763, [29]],
-[764, [29]],
-[765, [29]],
-[766, [29]],
-[767, [29]],
+[102, [18]],
+[785, [29]],
+[786, [29]],
+[787, [29]],
+[788, [29]],
+[789, [29]],
 [44, [29]],
-[768, [29]],
-[769, [29]],
+[790, [29]],
+[791, [29]],
 [64, [30]],
 [65, [33]],
 [6, [71]],
 [7, [30]],
-[770, [30]],
-[771, [30]],
-[772, [30]],
-[773, [30]],
-[774, [30]],
-[775, [30]],
-[776, [31]],
-[654, [34]],
-[777, [29]],
-[778, [29]],
-[253, [28]],
+[792, [30]],
+[793, [30]],
+[794, [30]],
+[795, [30]],
+[796, [30]],
+[797, [30]],
+[798, [31]],
+[676, [34]],
+[799, [29]],
+[800, [29]],
+[264, [28]],
 [66, [37,108]],
 [67, [42]],
-[779, [27]],
-[780, [27]],
-[781, [27]],
-[782, [27]],
-[783, [35]],
-[788, [23]],
-[784, [28,38]],
-[785, [35,48]],
-[786, [35,48]],
-[787, [28]]
+[801, [27]],
+[802, [27]],
+[803, [27]],
+[804, [27]],
+[805, [35]],
+[810, [23]],
+[806, [28,38]],
+[807, [35,48]],
+[808, [35,48]],
+[809, [28]]
 ],
 "memberKind": "Property"
 }
@@ -37348,14 +38480,15 @@ var contents = {
 "members": {
 "Show`1":{
 "files": [
-[252, [359]],
-[74, [110]],
-[91, [198]],
-[225, [67]],
-[253, [53]],
-[245, [37]],
-[86, [75]],
-[93, [88]]
+[262, [359]],
+[75, [110]],
+[263, [17]],
+[97, [198]],
+[235, [67]],
+[264, [53]],
+[255, [37]],
+[89, [75]],
+[99, [88]]
 ],
 "memberKind": "Method"
 }
@@ -37364,27 +38497,34 @@ var contents = {
 ,
 "ToastTemplateType":{
 "members": {
+"ToastImageAndText01":{
+"files": [
+[263, [10]]
+],
+"memberKind": "Field"
+}
+,
 "ToastImageAndText02":{
 "files": [
-[74, [97]]
+[75, [97]]
 ],
 "memberKind": "Field"
 }
 ,
 "ToastText01":{
 "files": [
-[228, [137,144]]
+[238, [137,144]]
 ],
 "memberKind": "Field"
 }
 ,
 "ToastText02":{
 "files": [
-[252, [350]],
-[91, [176]],
-[253, [34]],
-[86, [66]],
-[93, [84]]
+[262, [350]],
+[97, [176]],
+[264, [34]],
+[89, [66]],
+[99, [84]]
 ],
 "memberKind": "Field"
 }
@@ -37399,14 +38539,14 @@ var contents = {
 "members": {
 "Id":{
 "files": [
-[581, [178]]
+[603, [178]]
 ],
 "memberKind": "Property"
 }
 ,
 "Label":{
 "files": [
-[789, [65]]
+[811, [65]]
 ],
 "memberKind": "Property"
 }
@@ -37417,78 +38557,78 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[696, [55]],
-[789, [41]],
-[790, [41]],
+[718, [55]],
+[811, [41]],
+[812, [41]],
 [13, [43]],
-[389, [61]],
-[394, [70]],
-[241, [47]],
-[791, [52]],
+[406, [61]],
+[411, [70]],
+[251, [47]],
+[813, [52]],
 [44, [98,101,104]],
 [64, [35]],
 [65, [38,136,139,142]],
 [66, [42]],
 [67, [47,121,145,156]],
-[101, [93]],
-[549, [61]],
-[181, [78]],
-[182, [77]],
-[792, [144]],
-[793, [20]],
-[794, [93]],
-[795, [28,34,40]],
-[796, [20]],
-[797, [93]],
-[518, [63]],
-[497, [88]]
+[110, [93]],
+[567, [61]],
+[191, [78]],
+[192, [77]],
+[814, [144]],
+[815, [20]],
+[816, [93]],
+[817, [28,34,40]],
+[818, [20]],
+[819, [93]],
+[535, [63]],
+[514, [88]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[798, [40]],
-[799, [40]],
+[820, [40]],
+[821, [40]],
 [14, [141]],
-[236, [68,89]],
-[257, [28]],
-[258, [35]],
-[237, [39]],
-[242, [52,59,104]],
-[800, [53]],
-[801, [55]],
-[763, [61]],
-[764, [59]],
-[765, [61]],
-[766, [55]],
-[767, [54]],
+[246, [68,89]],
+[268, [28]],
+[269, [35]],
+[247, [39]],
+[252, [52,59,104]],
+[822, [53]],
+[823, [55]],
+[785, [61]],
+[786, [59]],
+[787, [61]],
+[788, [55]],
+[789, [54]],
 [44, [92]],
-[768, [54]],
-[769, [47]],
+[790, [54]],
+[791, [47]],
 [65, [112]],
 [6, [134]],
 [7, [99]],
-[770, [47]],
-[771, [53]],
-[772, [53]],
-[773, [53]],
-[774, [61]],
-[775, [61]],
-[776, [104]],
-[654, [73]],
-[777, [47]],
-[778, [47]],
-[529, [136,360]],
-[177, [153,270,398]],
-[166, [162,271,299]],
-[178, [148,289,361,429]],
-[573, [248,328,394]],
-[179, [128,263,320]],
-[180, [235,292,327]],
-[167, [159,265,328,384]],
-[581, [170]],
-[314, [175]],
+[792, [47]],
+[793, [53]],
+[794, [53]],
+[795, [53]],
+[796, [61]],
+[797, [61]],
+[798, [104]],
+[676, [73]],
+[799, [47]],
+[800, [47]],
+[546, [136,360]],
+[187, [153,270,398]],
+[176, [162,271,299]],
+[188, [148,289,361,429]],
+[595, [248,328,394]],
+[189, [128,263,320]],
+[190, [235,292,327]],
+[177, [159,265,328,384]],
+[603, [170]],
+[329, [175]],
 [28, [175]]
 ],
 "memberKind": "Constructor"
@@ -37496,23 +38636,23 @@ var contents = {
 ,
 "CancelCommandIndex":{
 "files": [
-[789, [51]],
-[581, [175]],
-[314, [185]]
+[811, [51]],
+[603, [175]],
+[329, [185]]
 ],
 "memberKind": "Property"
 }
 ,
 "Commands":{
 "files": [
-[789, [44,45]],
-[798, [43,44]],
-[799, [43,48]],
+[811, [44,45]],
+[820, [43,44]],
+[821, [43,48]],
 [13, [44]],
-[389, [62]],
-[394, [71]],
-[581, [172,173]],
-[314, [178,179]],
+[406, [62]],
+[411, [71]],
+[603, [172,173]],
+[329, [178,179]],
 [28, [178]]
 ],
 "memberKind": "Property"
@@ -37520,82 +38660,82 @@ var contents = {
 ,
 "DefaultCommandIndex":{
 "files": [
-[789, [48]],
-[798, [47]],
-[799, [54]],
-[581, [174]],
-[314, [182]]
+[811, [48]],
+[820, [47]],
+[821, [54]],
+[603, [174]],
+[329, [182]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowAsync`0":{
 "files": [
-[696, [56]],
-[789, [54]],
-[798, [50]],
-[799, [57]],
-[790, [44]],
+[718, [56]],
+[811, [54]],
+[820, [50]],
+[821, [57]],
+[812, [44]],
 [13, [45]],
-[389, [63]],
-[394, [72]],
+[406, [63]],
+[411, [72]],
 [14, [141]],
-[236, [68,89]],
-[257, [28]],
-[258, [35]],
-[237, [39]],
-[241, [47]],
-[791, [52]],
-[242, [52,59,104]],
-[800, [53]],
-[801, [55]],
-[763, [61]],
-[764, [59]],
-[765, [61]],
-[766, [55]],
-[767, [54]],
+[246, [68,89]],
+[268, [28]],
+[269, [35]],
+[247, [39]],
+[251, [47]],
+[813, [52]],
+[252, [52,59,104]],
+[822, [53]],
+[823, [55]],
+[785, [61]],
+[786, [59]],
+[787, [61]],
+[788, [55]],
+[789, [54]],
 [44, [92,98,101,104]],
-[768, [54]],
-[769, [47]],
+[790, [54]],
+[791, [47]],
 [64, [35]],
 [65, [38,112,136,139,142]],
 [6, [134]],
 [7, [99]],
-[770, [47]],
-[771, [53]],
-[772, [53]],
-[773, [53]],
-[774, [61]],
-[775, [61]],
-[776, [104]],
-[654, [73]],
-[777, [47]],
-[778, [47]],
+[792, [47]],
+[793, [53]],
+[794, [53]],
+[795, [53]],
+[796, [61]],
+[797, [61]],
+[798, [104]],
+[676, [73]],
+[799, [47]],
+[800, [47]],
 [66, [42]],
 [67, [47,121,145,156]],
-[101, [94]],
-[549, [62]],
-[529, [137,361]],
-[177, [154,271,399]],
-[166, [163,272,300]],
-[178, [149,290,362,430]],
-[573, [249,329,395]],
-[179, [129,264,321]],
-[180, [236,293,328]],
-[167, [160,266,329,385]],
-[181, [79]],
-[182, [78]],
-[581, [177]],
-[792, [145]],
-[314, [190]],
-[793, [21]],
-[794, [94]],
-[795, [29,35,41]],
-[796, [21]],
-[797, [94]],
+[110, [94]],
+[567, [62]],
+[546, [137,361]],
+[187, [154,271,399]],
+[176, [163,272,300]],
+[188, [149,290,362,430]],
+[595, [249,329,395]],
+[189, [129,264,321]],
+[190, [236,293,328]],
+[177, [160,266,329,385]],
+[191, [79]],
+[192, [78]],
+[603, [177]],
+[814, [145]],
+[329, [190]],
+[815, [21]],
+[816, [94]],
+[817, [29,35,41]],
+[818, [21]],
+[819, [94]],
 [28, [185]],
-[518, [63]],
-[497, [89]]
+[535, [63]],
+[514, [89]]
 ],
 "memberKind": "Method"
 }
@@ -37606,28 +38746,28 @@ var contents = {
 "members": {
 "Above":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[446, [81]],
-[442, [49,81]],
-[119, [167]],
-[434, [82,125]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[463, [81]],
+[459, [49,81]],
+[128, [167]],
+[451, [82,125]]
 ],
 "memberKind": "Field"
 }
 ,
 "Below":{
 "files": [
-[159, [124]],
-[430, [105]],
-[108, [108]],
-[433, [121]],
-[718, [123]],
-[802, [74]],
-[250, [116]],
-[731, [117]]
+[169, [124]],
+[447, [105]],
+[117, [108]],
+[450, [121]],
+[740, [123]],
+[824, [74]],
+[260, [116]],
+[753, [117]]
 ],
 "memberKind": "Field"
 }
@@ -37637,14 +38777,14 @@ var contents = {
 [46, [44]],
 [47, [60,65]],
 [50, [56,61]],
-[111, [76]]
+[120, [76]]
 ],
 "memberKind": "Field"
 }
 ,
 "Right":{
 "files": [
-[111, [60]]
+[120, [60]]
 ],
 "memberKind": "Field"
 }
@@ -37655,36 +38795,36 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[191, [399]],
-[441, [44]],
-[139, [88]],
-[449, [204]]
+[201, [399]],
+[458, [44]],
+[149, [88]],
+[466, [204]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Commands":{
 "files": [
-[191, [401,402,403,404,405]],
-[441, [45,49]],
-[139, [89,90,91,92]],
-[449, [206,207,208,209,210]]
+[201, [401,402,403,404,405]],
+[458, [45,49]],
+[149, [89,90,91,92]],
+[466, [206,207,208,209,210]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowAsync`1":{
 "files": [
-[191, [414]],
-[449, [219]]
+[201, [414]],
+[466, [219]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowForSelectionAsync`1":{
 "files": [
-[441, [57]],
-[139, [99]]
+[458, [57]],
+[149, [99]]
 ],
 "memberKind": "Method"
 }
@@ -37696,19 +38836,19 @@ var contents = {
 ":ctor`1":{
 "files": [
 [13, [44]],
-[389, [62]],
-[394, [71]]
+[406, [62]],
+[411, [71]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[191, [401,402,403,404,405]],
-[441, [45,49]],
-[789, [44,45]],
-[799, [43,48]],
-[449, [206,207,208,209,210]],
+[201, [401,402,403,404,405]],
+[458, [45,49]],
+[811, [44,45]],
+[821, [43,48]],
+[466, [206,207,208,209,210]],
 [28, [178]]
 ],
 "memberKind": "Constructor"
@@ -37716,10 +38856,10 @@ var contents = {
 ,
 ":ctor`3":{
 "files": [
-[139, [89,91,92]],
-[798, [43,44]],
-[581, [172,173]],
-[314, [178,179]]
+[149, [89,91,92]],
+[820, [43,44]],
+[603, [172,173]],
+[329, [178,179]]
 ],
 "memberKind": "Constructor"
 }
@@ -37730,7 +38870,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[789, [44,45]]
+[811, [44,45]]
 ],
 "memberKind": "Constructor"
 }
@@ -37741,7 +38881,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[139, [90]]
+[149, [90]]
 ],
 "memberKind": "Constructor"
 }
@@ -37756,19 +38896,19 @@ var contents = {
 "members": {
 "Dark":{
 "files": [
-[433, [111]],
-[718, [115,189,202]],
-[250, [110]],
-[434, [119]],
-[731, [113,161,170]]
+[450, [111]],
+[740, [115,189,202]],
+[260, [110]],
+[451, [119]],
+[753, [113,161,170]]
 ],
 "memberKind": "Field"
 }
 ,
 "Light":{
 "files": [
-[718, [214]],
-[731, [179]]
+[740, [214]],
+[753, [179]]
 ],
 "memberKind": "Field"
 }
@@ -37779,213 +38919,213 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[732, [30]]
+[754, [30]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[800, [27]],
-[802, [72]],
-[434, [79]],
-[803, [72]]
+[822, [27]],
+[824, [72]],
+[451, [79]],
+[825, [72]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`5":{
 "files": [
-[442, [40,70]],
-[236, [24]],
-[258, [123]],
-[804, [29]],
-[805, [28]],
-[736, [29]],
-[653, [56]],
-[806, [26]],
-[242, [32]],
-[801, [32]],
+[459, [40,70]],
+[246, [24]],
+[269, [123]],
+[826, [29]],
+[827, [28]],
+[758, [29]],
+[675, [56]],
+[828, [26]],
+[252, [32]],
+[823, [32]],
 [66, [91]],
-[433, [83]],
-[718, [83]],
-[250, [95]],
-[434, [108]],
-[731, [82]],
-[254, [75]]
+[450, [83]],
+[740, [83]],
+[260, [95]],
+[451, [108]],
+[753, [82]],
+[265, [75]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Arguments":{
 "files": [
-[800, [28]]
+[822, [28]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayName":{
 "files": [
-[732, [31]],
-[800, [30]],
-[801, [60]]
+[754, [31]],
+[822, [30]],
+[823, [60]]
 ],
 "memberKind": "Property"
 }
 ,
 "Exists`1":{
 "files": [
-[442, [39,68]],
-[236, [95]],
-[237, [45]],
-[802, [69]],
-[807, [67]],
-[250, [49,148,182]],
-[434, [66,76,153]],
-[803, [69]]
+[459, [39,68]],
+[246, [95]],
+[247, [45]],
+[824, [69]],
+[829, [67]],
+[260, [49,148,182]],
+[451, [66,76,153]],
+[825, [69]]
 ],
 "memberKind": "Method"
 }
 ,
 "FindAllAsync`0":{
 "files": [
-[236, [40]],
-[258, [103]],
-[732, [25]],
-[242, [56]],
-[808, [25]],
-[801, [52]],
-[809, [72]]
+[246, [40]],
+[269, [103]],
+[754, [25]],
+[252, [56]],
+[830, [25]],
+[823, [52]],
+[831, [72]]
 ],
 "memberKind": "Method"
 }
 ,
 "LockScreenBadgeLogo":{
 "files": [
-[442, [47,78]]
+[459, [47,78]]
 ],
 "memberKind": "Property"
 }
 ,
 "LockScreenDisplayBadgeAndTileText":{
 "files": [
-[442, [79]]
+[459, [79]]
 ],
 "memberKind": "Property"
 }
 ,
 "RequestCreateAsync`0":{
 "files": [
-[236, [17,46,99]],
-[258, [128]],
-[237, [51,52,53,54]],
-[238, [60]],
-[239, [34]],
-[240, [34]],
-[241, [58]],
-[804, [37]],
-[805, [35]],
-[736, [37]],
-[653, [57]],
-[806, [27]],
-[242, [39]],
-[244, [74]],
-[800, [48]],
-[801, [39]],
+[246, [17,46,99]],
+[269, [128]],
+[247, [51,52,53,54]],
+[248, [60]],
+[249, [34]],
+[250, [34]],
+[251, [58]],
+[826, [37]],
+[827, [35]],
+[758, [37]],
+[675, [57]],
+[828, [27]],
+[252, [39]],
+[254, [74]],
+[822, [48]],
+[823, [39]],
 [66, [98]],
-[433, [138]],
-[250, [133]],
-[434, [143]],
-[254, [77]]
+[450, [138]],
+[260, [133]],
+[451, [143]],
+[265, [77]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestCreateForSelectionAsync`1":{
 "files": [
-[442, [49,81]],
-[433, [121]],
-[718, [123]],
-[250, [116]],
-[434, [125]],
-[731, [117]]
+[459, [49,81]],
+[450, [121]],
+[740, [123]],
+[260, [116]],
+[451, [125]],
+[753, [117]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestDeleteAsync`0":{
 "files": [
-[808, [28]]
+[830, [28]]
 ],
 "memberKind": "Method"
 }
 ,
 "RequestDeleteForSelectionAsync`1":{
 "files": [
-[802, [74]],
-[434, [82]]
+[824, [74]],
+[451, [82]]
 ],
 "memberKind": "Method"
 }
 ,
 "RoamingEnabled":{
 "files": [
-[433, [115]],
-[718, [119]]
+[450, [115]],
+[740, [119]]
 ],
 "memberKind": "Property"
 }
 ,
 "TileId":{
 "files": [
-[236, [51]],
-[238, [83]],
-[239, [57]],
-[240, [57]],
-[241, [86]],
-[242, [99]]
+[246, [51]],
+[248, [83]],
+[249, [57]],
+[250, [57]],
+[251, [86]],
+[252, [99]]
 ],
 "memberKind": "Property"
 }
 ,
 "UpdateAsync`0":{
 "files": [
-[801, [67]],
-[803, [74]]
+[823, [67]],
+[825, [74]]
 ],
 "memberKind": "Method"
 }
 ,
 "VisualElements":{
 "files": [
-[442, [77]],
-[236, [25,26,27,28,98]],
-[258, [124,125,126,127]],
-[241, [54,55,56]],
-[804, [30,31,32,33,34,35,36]],
-[805, [29,30,31,32,33,34]],
-[736, [30,31,32,33,34,35,36]],
-[732, [32]],
-[242, [33,34,35,36,37,38]],
-[244, [71,72,73]],
-[800, [33,36,39,42,44,45,46]],
-[801, [33,34,35,36,37,38,61,62,63,64]],
+[459, [77]],
+[246, [25,26,27,28,98]],
+[269, [124,125,126,127]],
+[251, [54,55,56]],
+[826, [30,31,32,33,34,35,36]],
+[827, [29,30,31,32,33,34]],
+[758, [30,31,32,33,34,35,36]],
+[754, [32]],
+[252, [33,34,35,36,37,38]],
+[254, [71,72,73]],
+[822, [33,36,39,42,44,45,46]],
+[823, [33,34,35,36,37,38,61,62,63,64]],
 [66, [92,93,94,95,96,97]],
-[433, [91,92,97,101,105,106,111]],
-[718, [91,92,97,101,105,106,107,115]],
-[250, [102,105,106,110]],
-[434, [115,119]],
-[803, [73]],
-[731, [90,91,96,100,103,104,105,113]],
-[254, [76]]
+[450, [91,92,97,101,105,106,111]],
+[740, [91,92,97,101,105,106,107,115]],
+[260, [102,105,106,110]],
+[451, [115,119]],
+[825, [73]],
+[753, [90,91,96,100,103,104,105,113]],
+[265, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "VisualElementsRequested":{
 "files": [
-[718, [111]],
-[731, [109]]
+[740, [111]],
+[753, [109]]
 ],
 "memberKind": "Event"
 }
@@ -37996,146 +39136,146 @@ var contents = {
 "members": {
 "BackgroundColor":{
 "files": [
-[258, [127]],
-[804, [36]],
-[736, [36]],
-[732, [32]]
+[269, [127]],
+[826, [36]],
+[758, [36]],
+[754, [32]]
 ],
 "memberKind": "Property"
 }
 ,
 "ForegroundText":{
 "files": [
-[433, [111]],
-[718, [115]],
-[250, [110]],
-[434, [119]],
-[731, [113]]
+[450, [111]],
+[740, [115]],
+[260, [110]],
+[451, [119]],
+[753, [113]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowNameOnSquare150x150Logo":{
 "files": [
-[258, [124]],
-[241, [54]],
-[804, [33]],
-[805, [32]],
-[736, [33]],
-[242, [36]],
-[244, [71]],
-[800, [44]],
-[801, [36]],
+[269, [124]],
+[251, [54]],
+[826, [33]],
+[827, [32]],
+[758, [33]],
+[252, [36]],
+[254, [71]],
+[822, [44]],
+[823, [36]],
 [66, [95]],
-[433, [101]],
-[718, [105]],
-[250, [105]],
-[434, [115]],
-[731, [103]],
-[254, [76]]
+[450, [101]],
+[740, [105]],
+[260, [105]],
+[451, [115]],
+[753, [103]],
+[265, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowNameOnSquare310x310Logo":{
 "files": [
-[236, [98]],
-[258, [125]],
-[241, [55]],
-[804, [34]],
-[805, [33]],
-[736, [34]],
-[242, [37]],
-[244, [72]],
-[800, [45]],
-[801, [37]],
+[246, [98]],
+[269, [125]],
+[251, [55]],
+[826, [34]],
+[827, [33]],
+[758, [34]],
+[252, [37]],
+[254, [72]],
+[822, [45]],
+[823, [37]],
 [66, [96]],
-[433, [106]],
-[718, [107]],
-[731, [105]]
+[450, [106]],
+[740, [107]],
+[753, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowNameOnWide310x150Logo":{
 "files": [
-[258, [126]],
-[241, [56]],
-[804, [35]],
-[805, [34]],
-[736, [35]],
-[242, [38]],
-[244, [73]],
-[800, [46]],
-[801, [38]],
+[269, [126]],
+[251, [56]],
+[826, [35]],
+[827, [34]],
+[758, [35]],
+[252, [38]],
+[254, [73]],
+[822, [46]],
+[823, [38]],
 [66, [97]],
-[433, [105]],
-[718, [106]],
-[250, [106]],
-[731, [104]]
+[450, [105]],
+[740, [106]],
+[260, [106]],
+[753, [104]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square150x150Logo":{
 "files": [
-[800, [33]],
-[801, [61]],
-[803, [73]]
+[822, [33]],
+[823, [61]],
+[825, [73]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square30x30Logo":{
 "files": [
-[433, [97]],
-[718, [101]],
-[731, [100]]
+[450, [97]],
+[740, [101]],
+[753, [100]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square310x310Logo":{
 "files": [
-[236, [27]],
-[804, [32]],
-[805, [31]],
-[736, [32]],
-[242, [35]],
-[800, [42]],
-[801, [35,63]],
+[246, [27]],
+[826, [32]],
+[827, [31]],
+[758, [32]],
+[252, [35]],
+[822, [42]],
+[823, [35,63]],
 [66, [94]],
-[433, [92]],
-[718, [92]],
-[731, [91]]
+[450, [92]],
+[740, [92]],
+[753, [91]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square44x44Logo":{
 "files": [
-[236, [28]]
+[246, [28]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square70x70Logo":{
 "files": [
-[718, [97]],
-[731, [96]]
+[740, [97]],
+[753, [96]]
 ],
 "memberKind": "Property"
 }
 ,
 "Square71x71Logo":{
 "files": [
-[236, [25]],
-[804, [30]],
-[805, [29]],
-[736, [30]],
-[242, [33]],
-[800, [36]],
-[801, [33,62]],
+[246, [25]],
+[826, [30]],
+[827, [29]],
+[758, [30]],
+[252, [33]],
+[822, [36]],
+[823, [33,62]],
 [66, [92]]
 ],
 "memberKind": "Property"
@@ -38143,19 +39283,19 @@ var contents = {
 ,
 "Wide310x150Logo":{
 "files": [
-[442, [77]],
-[236, [26]],
-[804, [31]],
-[805, [30]],
-[736, [31]],
-[242, [34]],
-[800, [39]],
-[801, [34,64]],
+[459, [77]],
+[246, [26]],
+[826, [31]],
+[827, [30]],
+[758, [31]],
+[252, [34]],
+[822, [39]],
+[823, [34,64]],
 [66, [93]],
-[433, [91]],
-[718, [91]],
-[250, [102]],
-[731, [90]]
+[450, [91]],
+[740, [91]],
+[260, [102]],
+[753, [90]]
 ],
 "memberKind": "Property"
 }
@@ -38166,36 +39306,36 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[236, [24]],
-[258, [123]],
-[804, [29]],
-[805, [28]],
-[736, [29]],
-[653, [56]],
-[806, [26]],
-[242, [32]],
-[801, [32]],
+[246, [24]],
+[269, [123]],
+[826, [29]],
+[827, [28]],
+[758, [29]],
+[675, [56]],
+[828, [26]],
+[252, [32]],
+[823, [32]],
 [66, [91]],
-[254, [75]]
+[265, [75]]
 ],
 "memberKind": "Field"
 }
 ,
 "Square150x150":{
 "files": [
-[442, [45]],
-[433, [87]],
-[718, [87]],
-[434, [112]],
-[731, [86]]
+[459, [45]],
+[450, [87]],
+[740, [87]],
+[451, [112]],
+[753, [86]]
 ],
 "memberKind": "Field"
 }
 ,
 "Wide310x150":{
 "files": [
-[442, [75]],
-[250, [99]]
+[459, [75]],
+[260, [99]]
 ],
 "memberKind": "Field"
 }
@@ -38206,22 +39346,22 @@ var contents = {
 "members": {
 "AlternateVisualElements":{
 "files": [
-[718, [183,184,185,186,188,189,190,196,197,198,199,201,202,203,208,209,210,211,213,214,215]],
-[731, [154,155,156,157,160,161,162,164,165,166,167,169,170,171,173,174,175,176,178,179,180]]
+[740, [183,184,185,186,188,189,190,196,197,198,199,201,202,203,208,209,210,211,213,214,215]],
+[753, [154,155,156,157,160,161,162,164,165,166,167,169,170,171,173,174,175,176,178,179,180]]
 ],
 "memberKind": "Property"
 }
 ,
 "Deadline":{
 "files": [
-[718, [180,194,206]]
+[740, [180,194,206]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[718, [140]]
+[740, [140]]
 ],
 "memberKind": "Method"
 }
@@ -38232,7 +39372,7 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[718, [155]]
+[740, [155]]
 ],
 "memberKind": "Method"
 }
@@ -38243,8 +39383,8 @@ var contents = {
 "members": {
 "Request":{
 "files": [
-[718, [140,180,183,184,185,186,188,189,190,194,196,197,198,199,201,202,203,206,208,209,210,211,213,214,215]],
-[731, [154,155,156,157,160,161,162,164,165,166,167,169,170,171,173,174,175,176,178,179,180]]
+[740, [140,180,183,184,185,186,188,189,190,194,196,197,198,199,201,202,203,206,208,209,210,211,213,214,215]],
+[753, [154,155,156,157,160,161,162,164,165,166,167,169,170,171,173,174,175,176,178,179,180]]
 ],
 "memberKind": "Property"
 }
@@ -38261,21 +39401,21 @@ var contents = {
 "members": {
 "GetForCurrentView`0":{
 "files": [
-[468, [68]]
+[485, [68]]
 ],
 "memberKind": "Method"
 }
 ,
 "InputLanguage":{
 "files": [
-[468, [188]]
+[485, [188]]
 ],
 "memberKind": "Property"
 }
 ,
 "InputLanguageChanged":{
 "files": [
-[468, [69]]
+[485, [69]]
 ],
 "memberKind": "Event"
 }
@@ -38288,9 +39428,9 @@ var contents = {
 "members": {
 "Bold":{
 "files": [
-[154, [449]],
-[810, [47]],
-[155, [442]]
+[164, [449]],
+[832, [47]],
+[165, [442]]
 ],
 "memberKind": "Property"
 }
@@ -38301,7 +39441,7 @@ var contents = {
 "members": {
 "Toggle":{
 "files": [
-[497, [100,111]]
+[514, [100,111]]
 ],
 "memberKind": "Field"
 }
@@ -38312,21 +39452,21 @@ var contents = {
 "members": {
 "Bold":{
 "files": [
-[497, [100]]
+[514, [100]]
 ],
 "memberKind": "Property"
 }
 ,
 "ForegroundColor":{
 "files": [
-[497, [125,131,137,143,149,155,161]]
+[514, [125,131,137,143,149,155,161]]
 ],
 "memberKind": "Property"
 }
 ,
 "Italic":{
 "files": [
-[497, [111]]
+[514, [111]]
 ],
 "memberKind": "Property"
 }
@@ -38337,39 +39477,39 @@ var contents = {
 "members": {
 "GetText`2":{
 "files": [
-[226, [58]],
-[229, [55,81]],
-[170, [90]],
-[251, [69]],
-[171, [97,100,172,175]]
+[236, [58]],
+[239, [55,81]],
+[180, [90]],
+[261, [69]],
+[181, [97,100,172,175]]
 ],
 "memberKind": "Method"
 }
 ,
 "LoadFromStream`2":{
 "files": [
-[497, [55]]
+[514, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "SaveToStream`2":{
 "files": [
-[497, [80]]
+[514, [80]]
 ],
 "memberKind": "Method"
 }
 ,
 "Selection":{
 "files": [
-[497, [96,107,120,165]]
+[514, [96,107,120,165]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetText`2":{
 "files": [
-[169, [59]]
+[179, [59]]
 ],
 "memberKind": "Method"
 }
@@ -38380,7 +39520,7 @@ var contents = {
 "members": {
 "CharacterFormat":{
 "files": [
-[497, [99,101,110,112,120,165]]
+[514, [99,101,110,112,120,165]]
 ],
 "memberKind": "Property"
 }
@@ -38391,7 +39531,7 @@ var contents = {
 "members": {
 "CharacterFormat":{
 "files": [
-[497, [99,101,110,112,120,165]]
+[514, [99,101,110,112,120,165]]
 ],
 "memberKind": "Property"
 }
@@ -38402,18 +39542,18 @@ var contents = {
 "members": {
 "FormatRtf":{
 "files": [
-[497, [80]]
+[514, [80]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[226, [58]],
-[229, [55,81]],
-[170, [90]],
-[251, [69]],
-[171, [97,100,172,175]]
+[236, [58]],
+[239, [55,81]],
+[180, [90]],
+[261, [69]],
+[181, [97,100,172,175]]
 ],
 "memberKind": "Field"
 }
@@ -38424,14 +39564,14 @@ var contents = {
 "members": {
 "FormatRtf":{
 "files": [
-[497, [55]]
+[514, [55]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[169, [59]]
+[179, [59]]
 ],
 "memberKind": "Field"
 }
@@ -38446,172 +39586,172 @@ var contents = {
 "members": {
 "Consolidated":{
 "files": [
-[747, [97,104]],
-[751, [92,98]],
-[753, [92,99]]
+[769, [97,104]],
+[773, [92,98]],
+[775, [92,99]]
 ],
 "memberKind": "Event"
 }
 ,
 "ExitFullScreenMode`0":{
 "files": [
-[116, [285]],
-[470, [50]],
-[721, [50,101]],
-[122, [73]]
+[125, [285]],
+[487, [50]],
+[743, [50,101]],
+[131, [73]]
 ],
 "memberKind": "Method"
 }
 ,
 "FullScreenSystemOverlayMode":{
 "files": [
-[721, [77]]
+[743, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetApplicationViewIdForWindow`1":{
 "files": [
-[747, [84]],
-[751, [79]],
-[753, [79]]
+[769, [84]],
+[773, [79]],
+[775, [79]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetForCurrentView`0":{
 "files": [
-[115, [112]],
-[116, [221,285]],
-[470, [50]],
-[746, [99]],
-[747, [97,104]],
-[811, [27,33]],
-[721, [47,70,76,87,98]],
+[124, [112]],
+[125, [221,285]],
+[487, [50]],
+[768, [99]],
+[769, [97,104]],
+[833, [27,33]],
+[743, [47,70,76,87,98]],
 [4, [66]],
-[117, [88,117]],
-[750, [122]],
-[714, [68,89,90,160]],
-[751, [92,98]],
-[462, [35,44]],
-[752, [72,84]],
-[118, [43]],
-[119, [39]],
-[120, [37]],
-[753, [92,99]],
-[466, [46,61]],
-[121, [81]],
-[722, [25]],
-[122, [70,96]],
-[484, [39,45,48]]
+[126, [88,117]],
+[772, [122]],
+[736, [68,89,90,160]],
+[773, [92,98]],
+[479, [35,44]],
+[774, [72,84]],
+[127, [43]],
+[128, [39]],
+[129, [37]],
+[775, [92,99]],
+[483, [46,61]],
+[130, [81]],
+[744, [25]],
+[131, [70,96]],
+[501, [39,45,48]]
 ],
 "memberKind": "Method"
 }
 ,
 "Id":{
 "files": [
-[115, [112]],
-[116, [221]],
-[746, [99]],
+[124, [112]],
+[125, [221]],
+[768, [99]],
 [4, [66]],
-[117, [117]],
-[750, [122]],
-[714, [68,89,160]],
-[752, [72,84]],
-[118, [43]],
-[119, [39]],
-[120, [37]]
+[126, [117]],
+[772, [122]],
+[736, [68,89,160]],
+[774, [72,84]],
+[127, [43]],
+[128, [39]],
+[129, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsFullScreenMode":{
 "files": [
-[721, [48,88,99]],
-[121, [81]],
-[122, [71,96]]
+[743, [48,88,99]],
+[130, [81]],
+[131, [71,96]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsScreenCaptureEnabled":{
 "files": [
-[811, [27,33]]
+[833, [27,33]]
 ],
 "memberKind": "Property"
 }
 ,
 "PreferredLaunchViewSize":{
 "files": [
-[491, [36]]
+[508, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "PreferredLaunchWindowingMode":{
 "files": [
-[812, [23,28]],
-[491, [24,37,41]]
+[834, [23,28]],
+[508, [24,37,41]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetPreferredMinSize`1":{
 "files": [
-[466, [65,70]]
+[483, [65,70]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowStandardSystemOverlays`0":{
 "files": [
-[721, [71]]
+[743, [71]]
 ],
 "memberKind": "Method"
 }
 ,
 "Title":{
 "files": [
-[117, [88]],
-[714, [90]]
+[126, [88]],
+[736, [90]]
 ],
 "memberKind": "Property"
 }
 ,
 "TitleBar":{
 "files": [
-[722, [25]]
+[744, [25]]
 ],
 "memberKind": "Property"
 }
 ,
 "TryEnterFullScreenMode`0":{
 "files": [
-[721, [56]],
-[122, [78]]
+[743, [56]],
+[131, [78]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryResizeView`1":{
 "files": [
-[466, [47]]
+[483, [47]]
 ],
 "memberKind": "Method"
 }
 ,
 "VisibleBounds":{
 "files": [
-[462, [49,50]],
-[484, [45,48]]
+[479, [49,50]],
+[501, [45,48]]
 ],
 "memberKind": "Property"
 }
 ,
 "VisibleBoundsChanged":{
 "files": [
-[462, [35,44]],
-[484, [39]]
+[479, [35,44]],
+[501, [39]]
 ],
 "memberKind": "Event"
 }
@@ -38622,21 +39762,21 @@ var contents = {
 "members": {
 "PrepareForCustomAnimatedSwitchAsync`3":{
 "files": [
-[750, [123]]
+[772, [123]]
 ],
 "memberKind": "Method"
 }
 ,
 "SwitchAsync`1":{
 "files": [
-[714, [59,67,160]]
+[736, [59,67,160]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryShowAsStandaloneAsync`1":{
 "files": [
-[117, [114]]
+[126, [114]]
 ],
 "memberKind": "Method"
 }
@@ -38647,15 +39787,15 @@ var contents = {
 "members": {
 "ConsolidateViews":{
 "files": [
-[714, [69]]
+[736, [69]]
 ],
 "memberKind": "Field"
 }
 ,
 "SkipAnimation":{
 "files": [
-[750, [126]],
-[714, [162]]
+[772, [126]],
+[736, [162]]
 ],
 "memberKind": "Field"
 }
@@ -38666,84 +39806,84 @@ var contents = {
 "members": {
 "BackgroundColor":{
 "files": [
-[722, [63,81]]
+[744, [63,81]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonBackgroundColor":{
 "files": [
-[722, [28,32,68,89]]
+[744, [28,32,68,89]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonForegroundColor":{
 "files": [
-[722, [73,95]]
+[744, [73,95]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonHoverBackgroundColor":{
 "files": [
-[722, [69,90]]
+[744, [69,90]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonHoverForegroundColor":{
 "files": [
-[722, [74,96]]
+[744, [74,96]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonInactiveBackgroundColor":{
 "files": [
-[722, [71,92]]
+[744, [71,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonInactiveForegroundColor":{
 "files": [
-[722, [76,98]]
+[744, [76,98]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonPressedBackgroundColor":{
 "files": [
-[722, [70,91]]
+[744, [70,91]]
 ],
 "memberKind": "Property"
 }
 ,
 "ButtonPressedForegroundColor":{
 "files": [
-[722, [75,97]]
+[744, [75,97]]
 ],
 "memberKind": "Property"
 }
 ,
 "ForegroundColor":{
 "files": [
-[722, [64,82]]
+[744, [64,82]]
 ],
 "memberKind": "Property"
 }
 ,
 "InactiveBackgroundColor":{
 "files": [
-[722, [65,83]]
+[744, [65,83]]
 ],
 "memberKind": "Property"
 }
 ,
 "InactiveForegroundColor":{
 "files": [
-[722, [66,84]]
+[744, [66,84]]
 ],
 "memberKind": "Property"
 }
@@ -38754,22 +39894,22 @@ var contents = {
 "members": {
 "Auto":{
 "files": [
-[812, [28]],
-[491, [24,41]]
+[834, [28]],
+[508, [24,41]]
 ],
 "memberKind": "Field"
 }
 ,
 "FullScreen":{
 "files": [
-[812, [23,28]]
+[834, [23,28]]
 ],
 "memberKind": "Field"
 }
 ,
 "PreferredLaunchViewSize":{
 "files": [
-[491, [37]]
+[508, [37]]
 ],
 "memberKind": "Field"
 }
@@ -38780,14 +39920,14 @@ var contents = {
 "members": {
 "Minimal":{
 "files": [
-[721, [77]]
+[743, [77]]
 ],
 "memberKind": "Field"
 }
 ,
 "Standard":{
 "files": [
-[721, [77]]
+[743, [77]]
 ],
 "memberKind": "Field"
 }
@@ -38798,59 +39938,59 @@ var contents = {
 "members": {
 "GetDeviceSelector`0":{
 "files": [
-[115, [67]],
-[116, [92]],
-[120, [45]]
+[124, [67]],
+[125, [92]],
+[129, [45]]
 ],
 "memberKind": "Method"
 }
 ,
 "ProjectionDisplayAvailable":{
 "files": [
-[115, [154,160]],
-[116, [219,263]],
-[119, [50,60]]
+[124, [154,160]],
+[125, [219,263]],
+[128, [50,60]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProjectionDisplayAvailableChanged":{
 "files": [
-[119, [44,52]]
+[128, [44,52]]
 ],
 "memberKind": "Event"
 }
 ,
 "RequestStartProjectingAsync`3":{
 "files": [
-[119, [167]]
+[128, [167]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartProjectingAsync`3":{
 "files": [
-[115, [149]],
-[116, [259]],
-[118, [85]],
-[119, [118]],
-[120, [114]]
+[124, [149]],
+[125, [259]],
+[127, [85]],
+[128, [118]],
+[129, [114]]
 ],
 "memberKind": "Method"
 }
 ,
 "StopProjectingAsync`2":{
 "files": [
-[746, [125]],
-[752, [83]]
+[768, [125]],
+[774, [83]]
 ],
 "memberKind": "Method"
 }
 ,
 "SwapDisplaysForViewsAsync`2":{
 "files": [
-[746, [98]],
-[752, [71]]
+[768, [98]],
+[774, [71]]
 ],
 "memberKind": "Method"
 }
@@ -38861,30 +40001,30 @@ var contents = {
 "members": {
 "GetForCurrentView`0":{
 "files": [
-[194, [615,639]],
-[196, [680,704]],
-[197, [530,554]],
-[198, [676,700]]
+[204, [591,615]],
+[206, [664,688]],
+[207, [507,531]],
+[208, [660,684]]
 ],
 "memberKind": "Method"
 }
 ,
 "HideAsync`0":{
 "files": [
-[194, [615]],
-[196, [680]],
-[197, [530]],
-[198, [676]]
+[204, [591]],
+[206, [664]],
+[207, [507]],
+[208, [660]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowAsync`0":{
 "files": [
-[194, [639]],
-[196, [704]],
-[197, [554]],
-[198, [700]]
+[204, [615]],
+[206, [688]],
+[207, [531]],
+[208, [684]]
 ],
 "memberKind": "Method"
 }
@@ -38895,16 +40035,16 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[741, [56]],
-[455, [52]]
+[763, [56]],
+[472, [52]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AnimationsEnabled":{
 "files": [
-[741, [62]],
-[455, [86]]
+[763, [62]],
+[472, [86]]
 ],
 "memberKind": "Property"
 }
@@ -38915,14 +40055,14 @@ var contents = {
 "members": {
 "GetForCurrentView`0":{
 "files": [
-[813, [93]]
+[835, [93]]
 ],
 "memberKind": "Method"
 }
 ,
 "UserInteractionMode":{
 "files": [
-[813, [93]]
+[835, [93]]
 ],
 "memberKind": "Property"
 }
@@ -38933,7 +40073,7 @@ var contents = {
 "members": {
 "Mouse":{
 "files": [
-[813, [96]]
+[835, [96]]
 ],
 "memberKind": "Field"
 }
@@ -38944,55 +40084,55 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[159, [157]],
-[430, [134]],
-[117, [59]]
+[169, [157]],
+[447, [134]],
+[126, [59]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseHalf":{
 "files": [
-[159, [165]],
-[430, [142]],
-[114, [37]],
-[117, [60]]
+[169, [165]],
+[447, [142]],
+[123, [37]],
+[126, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseLess":{
 "files": [
-[159, [161]],
-[430, [138]],
-[117, [61]]
+[169, [161]],
+[447, [138]],
+[126, [61]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseMinimum":{
 "files": [
-[159, [173]],
-[430, [150]],
-[117, [62]]
+[169, [173]],
+[447, [150]],
+[126, [62]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseMore":{
 "files": [
-[159, [169]],
-[430, [146]],
-[117, [63]]
+[169, [169]],
+[447, [146]],
+[126, [63]]
 ],
 "memberKind": "Field"
 }
 ,
 "UseNone":{
 "files": [
-[159, [177]],
-[430, [154]],
-[117, [43]]
+[169, [177]],
+[447, [154]],
+[126, [43]]
 ],
 "memberKind": "Field"
 }
@@ -39003,29 +40143,40 @@ var contents = {
 ,
 "Xaml":{
 "children": {
+"AdaptiveTrigger":{
+"members": {
+"MinWindowWidth":{
+"files": [
+[456, [40]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
 "Application":{
 "members": {
 "Current":{
 "files": [
 [1, [53]],
-[191, [150,151]],
-[194, [86,87]],
-[195, [79,80]],
-[196, [99,100]],
-[197, [79,80]],
-[198, [84,85]],
-[683, [80,89]],
-[668, [108,117]],
-[694, [78]],
+[201, [150,151]],
+[204, [86,87]],
+[205, [79,80]],
+[206, [99,100]],
+[207, [79,80]],
+[208, [84,85]],
+[705, [80,89]],
+[690, [108,117]],
+[716, [78]],
 [44, [32]],
 [7, [33]],
-[201, [72,73]],
-[536, [39]],
-[110, [75]],
-[102, [63]],
-[103, [83]],
-[105, [61]],
-[342, [37]],
+[211, [72,73]],
+[553, [39]],
+[119, [75]],
+[111, [63]],
+[112, [83]],
+[114, [61]],
+[359, [37]],
 [27, [56]]
 ],
 "memberKind": "Property"
@@ -39043,75 +40194,76 @@ var contents = {
 "Resources":{
 "files": [
 [3, [101]],
-[683, [80,89]],
-[668, [108,117]],
-[694, [78]],
-[110, [75]],
-[102, [63]],
-[103, [83]],
-[105, [61]],
-[342, [37]],
+[705, [80,89]],
+[690, [108,117]],
+[716, [78]],
+[119, [75]],
+[111, [63]],
+[112, [83]],
+[114, [61]],
+[359, [37]],
 [27, [56]],
-[814, [22,23]]
+[836, [22,23]]
 ],
 "memberKind": "Property"
 }
 ,
 "Resuming":{
 "files": [
-[191, [151]],
-[262, [124,141]],
-[263, [101,118]],
+[201, [151]],
+[273, [124,141]],
+[274, [101,118]],
 [68, [141,158]],
 [69, [121,138]],
-[194, [87]],
-[195, [80]],
-[196, [100]],
-[197, [80]],
-[198, [85]],
-[266, [399,408]],
-[284, [192,200]],
-[269, [403,412]],
-[285, [219,227]],
-[270, [418,427]],
-[286, [235,243]],
-[199, [430]],
-[200, [379]],
-[201, [73]],
-[536, [39]],
-[272, [423,432]],
-[295, [206,214]]
+[204, [87]],
+[205, [80]],
+[206, [100]],
+[207, [80]],
+[208, [85]],
+[279, [399,408]],
+[297, [192,200]],
+[282, [403,412]],
+[298, [219,227]],
+[283, [418,427]],
+[299, [235,243]],
+[209, [430]],
+[210, [379]],
+[211, [73]],
+[553, [39]],
+[285, [423,432]],
+[308, [206,214]]
 ],
 "memberKind": "Event"
 }
 ,
 "Suspending":{
 "files": [
-[191, [150]],
-[192, [83]],
-[193, [96]],
-[262, [123,140]],
-[263, [100,117]],
+[201, [150]],
+[202, [83]],
+[203, [96]],
+[273, [123,140]],
+[274, [100,117]],
 [68, [140,157]],
 [69, [120,137]],
-[194, [86]],
-[195, [79]],
-[196, [99]],
-[197, [79]],
-[198, [84]],
-[266, [397,405]],
-[284, [190,198]],
-[269, [401,409]],
-[285, [217,225]],
-[270, [416,424]],
-[286, [233,241]],
-[199, [429]],
-[200, [378]],
-[201, [72]],
-[272, [421,429]],
-[295, [204,212]],
-[202, [58]],
-[203, [68]]
+[276, [38]],
+[204, [86]],
+[205, [79]],
+[206, [99]],
+[207, [79]],
+[208, [84]],
+[279, [397,405]],
+[297, [190,198]],
+[282, [401,409]],
+[298, [217,225]],
+[283, [416,424]],
+[299, [233,241]],
+[209, [429]],
+[210, [378]],
+[211, [72]],
+[285, [421,429]],
+[308, [204,212]],
+[212, [58]],
+[213, [68]]
 ],
 "memberKind": "Event"
 }
@@ -39131,15 +40283,15 @@ var contents = {
 "members": {
 "NameProperty":{
 "files": [
-[436, [298,302]]
+[453, [307,311]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetName`2":{
 "files": [
-[202, [317]],
-[203, [145,232]]
+[212, [317]],
+[213, [145,232]]
 ],
 "memberKind": "Method"
 }
@@ -39154,31 +40306,31 @@ var contents = {
 "members": {
 "IsOpen":{
 "files": [
-[815, [36,42,47]],
-[816, [36,49]],
-[184, [123]]
+[837, [36,42,47]],
+[838, [36,49]],
+[194, [123]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSticky":{
 "files": [
-[434, [73,148]],
-[816, [37]]
+[451, [73,148]],
+[838, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "MeasureOverride`1":{
 "files": [
-[492, [42]]
+[509, [42]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnApplyTemplate`0":{
 "files": [
-[492, [31]]
+[509, [31]]
 ],
 "memberKind": "Method"
 }
@@ -39189,59 +40341,59 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[816, [65,70,77,82]]
+[838, [65,70,77,82]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Click":{
 "files": [
-[434, [67]]
+[451, [67]]
 ],
 "memberKind": "?"
 }
 ,
 "Flyout":{
 "files": [
-[497, [168]]
+[514, [168]]
 ],
 "memberKind": "?"
 }
 ,
 "Icon":{
 "files": [
-[434, [51,56]],
-[816, [66,71,78,83]]
+[451, [51,56]],
+[838, [66,71,78,83]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsCompact":{
 "files": [
-[817, [30,35]],
-[818, [72,73,74,75]]
+[839, [30,35]],
+[840, [72,73,74,75]]
 ],
 "memberKind": "Property"
 }
 ,
 "Label":{
 "files": [
-[434, [50,55]],
-[816, [67,72,79,84]]
+[451, [50,55]],
+[838, [67,72,79,84]]
 ],
 "memberKind": "Property"
 }
 ,
 "UpdateLayout":{
 "files": [
-[434, [59]]
+[451, [59]]
 ],
 "memberKind": "?"
 }
 ,
 "Visibility":{
 "files": [
-[740, [72,73,74,75,79,80,81,82]]
+[762, [72,73,74,75,79,80,81,82]]
 ],
 "memberKind": "?"
 }
@@ -39252,25 +40404,25 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[492, [80]],
-[818, [57]],
-[819, [57]],
-[820, [57]],
-[816, [75]]
+[509, [80]],
+[840, [57]],
+[841, [57]],
+[842, [57]],
+[838, [75]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [82,83,108,109,110]]
+[509, [82,83,108,109,110]]
 ],
 "memberKind": "?"
 }
 ,
 "Measure":{
 "files": [
-[492, [81]]
+[509, [81]]
 ],
 "memberKind": "?"
 }
@@ -39281,57 +40433,57 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[818, [59]],
-[819, [59]],
-[820, [59]]
+[840, [59]],
+[841, [59]],
+[842, [59]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Click":{
 "files": [
-[818, [42,62]],
-[819, [42,62]],
-[820, [42,62]]
+[840, [42,62]],
+[841, [42,62]],
+[842, [42,62]]
 ],
 "memberKind": "?"
 }
 ,
 "Icon":{
 "files": [
-[818, [60]],
-[819, [60]],
-[820, [60]]
+[840, [60]],
+[841, [60]],
+[842, [60]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsChecked":{
 "files": [
-[820, [90,93,96,99]]
+[842, [90,93,96,99]]
 ],
 "memberKind": "?"
 }
 ,
 "IsCompact":{
 "files": [
-[820, [72,73,74,75]]
+[842, [72,73,74,75]]
 ],
 "memberKind": "Property"
 }
 ,
 "Label":{
 "files": [
-[818, [61]],
-[819, [61]],
-[820, [61]]
+[840, [61]],
+[841, [61]],
+[842, [61]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[820, [85]]
+[842, [85]]
 ],
 "memberKind": "?"
 }
@@ -39342,19 +40494,19 @@ var contents = {
 "members": {
 "ItemsSource":{
 "files": [
-[821, [54]],
-[507, [46,69,71]],
-[439, [93,95]]
+[843, [54]],
+[524, [46,69,71]],
+[456, [93,95]]
 ],
 "memberKind": "Property"
 }
 ,
 "Text":{
 "files": [
-[821, [52,102]],
-[757, [60]],
-[507, [43,44,66,94,116]],
-[439, [85,93]]
+[843, [52,102]],
+[779, [60]],
+[524, [43,44,66,94,116]],
+[456, [85,93]]
 ],
 "memberKind": "Property"
 }
@@ -39365,20 +40517,20 @@ var contents = {
 "members": {
 "ChosenSuggestion":{
 "files": [
-[821, [69,72]],
-[757, [73,75]],
-[507, [86,89]],
-[439, [101,103]]
+[843, [69,72]],
+[779, [73,75]],
+[524, [86,89]],
+[456, [101,103]]
 ],
 "memberKind": "Property"
 }
 ,
 "QueryText":{
 "files": [
-[821, [77]],
-[757, [77,81]],
-[507, [91]],
-[439, [106,108]]
+[843, [77]],
+[779, [77,81]],
+[524, [91]],
+[456, [106,108]]
 ],
 "memberKind": "Property"
 }
@@ -39389,9 +40541,9 @@ var contents = {
 "members": {
 "SelectedItem":{
 "files": [
-[821, [100]],
-[757, [94]],
-[507, [50,111]]
+[843, [100]],
+[779, [94]],
+[524, [50,111]]
 ],
 "memberKind": "Property"
 }
@@ -39402,10 +40554,10 @@ var contents = {
 "members": {
 "Reason":{
 "files": [
-[821, [50]],
-[757, [55]],
-[507, [40,64]],
-[439, [77]]
+[843, [50]],
+[779, [55]],
+[524, [40,64]],
+[456, [77]]
 ],
 "memberKind": "Property"
 }
@@ -39416,10 +40568,10 @@ var contents = {
 "members": {
 "UserInput":{
 "files": [
-[821, [50]],
-[757, [55]],
-[507, [40,64]],
-[439, [77]]
+[843, [50]],
+[779, [55]],
+[524, [40,64]],
+[456, [77]]
 ],
 "memberKind": "Field"
 }
@@ -39430,247 +40582,247 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[201, [246]],
-[162, [229]]
+[211, [246]],
+[172, [229]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Background":{
 "files": [
-[470, [176,179]],
-[471, [94,97]],
-[472, [118,121]],
-[543, [185,191]],
-[298, [203,209,218,224,248,260,263]],
-[544, [147,152,159]],
-[545, [231,237,240]],
-[546, [393,399]],
-[420, [158,164]],
-[473, [102,105]],
-[730, [44,52,60,68,76,84,93,110,115,120]],
-[444, [71,102,108]],
-[445, [188,213,220]],
-[154, [210]],
-[474, [94,97]],
-[475, [94,97]],
-[477, [120,123]],
-[461, [132,135]],
-[478, [91,94]],
-[431, [134,137]],
-[155, [194]],
-[435, [128,131]],
-[480, [93,96]],
-[481, [94,97]],
-[482, [93,96]],
+[487, [176,179]],
 [488, [94,97]],
-[489, [94,97]],
-[726, [45,48,51,54]],
-[729, [39,42,45,48]]
+[489, [118,121]],
+[560, [185,191]],
+[311, [203,209,218,224,248,260,263]],
+[561, [147,152,159]],
+[562, [231,237,240]],
+[563, [393,399]],
+[437, [158,164]],
+[490, [102,105]],
+[752, [44,52,60,68,76,84,93,110,115,120]],
+[461, [71,102,108]],
+[462, [188,213,220]],
+[164, [210]],
+[491, [94,97]],
+[492, [94,97]],
+[494, [120,123]],
+[478, [132,135]],
+[495, [91,94]],
+[448, [134,137]],
+[165, [194]],
+[452, [128,131]],
+[497, [93,96]],
+[498, [94,97]],
+[499, [93,96]],
+[505, [94,97]],
+[506, [94,97]],
+[748, [45,48,51,54]],
+[751, [39,42,45,48]]
 ],
 "memberKind": "Property"
 }
 ,
 "BorderBrush":{
 "files": [
-[726, [70,73,76,79]],
-[729, [64,67,70,73]]
+[748, [70,73,76,79]],
+[751, [64,67,70,73]]
 ],
 "memberKind": "Property"
 }
 ,
 "BorderThickness":{
 "files": [
-[726, [32]]
+[748, [32]]
 ],
 "memberKind": "Property"
 }
 ,
 "Child":{
 "files": [
-[201, [246]]
+[211, [246]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataContext":{
 "files": [
-[152, [172]]
+[162, [172]]
 ],
 "memberKind": "Property"
 }
 ,
 "DoubleTapped":{
 "files": [
-[730, [34]]
+[752, [34]]
 ],
 "memberKind": "Event"
 }
 ,
 "Height":{
 "files": [
-[184, [145]]
+[194, [145]]
 ],
 "memberKind": "Property"
 }
 ,
 "HeightProperty":{
 "files": [
-[201, [255]],
-[162, [239]]
+[211, [255]],
+[172, [239]]
 ],
 "memberKind": "Property"
 }
 ,
 "Holding":{
 "files": [
-[730, [36]]
+[752, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationCompleted":{
 "files": [
-[444, [40]]
+[461, [40]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationDelta":{
 "files": [
-[444, [39]]
+[461, [39]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationInertiaStarting":{
 "files": [
-[444, [41]]
+[461, [41]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationMode":{
 "files": [
-[444, [45,114,121,125,136]]
+[461, [45,114,121,125,136]]
 ],
 "memberKind": "Property"
 }
 ,
 "ManipulationStarted":{
 "files": [
-[444, [38]]
+[461, [38]]
 ],
 "memberKind": "Event"
 }
 ,
 "MarginProperty":{
 "files": [
-[201, [253]],
-[162, [237]]
+[211, [253]],
+[172, [237]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerEntered":{
 "files": [
-[730, [29]]
+[752, [29]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerExited":{
 "files": [
-[730, [30]]
+[752, [30]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerPressed":{
 "files": [
-[730, [25]]
+[752, [25]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerReleased":{
 "files": [
-[730, [26]]
+[752, [26]]
 ],
 "memberKind": "Event"
 }
 ,
 "RenderTransform":{
 "files": [
-[444, [63,152]]
+[461, [63,152]]
 ],
 "memberKind": "Property"
 }
 ,
 "RightTapped":{
 "files": [
-[730, [37]]
+[752, [37]]
 ],
 "memberKind": "Event"
 }
 ,
 "SetBinding`2":{
 "files": [
-[201, [253,254,255]],
-[162, [237,238,239]]
+[211, [253,254,255]],
+[172, [237,238,239]]
 ],
 "memberKind": "Method"
 }
 ,
 "Style":{
 "files": [
-[201, [246]],
-[162, [229]]
+[211, [246]],
+[172, [229]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tapped":{
 "files": [
-[730, [33]]
+[752, [33]]
 ],
 "memberKind": "Event"
 }
 ,
 "Visibility":{
 "files": [
-[470, [96,101,140,145,185,196]],
-[471, [74,103,114]],
-[472, [129,133,145]],
-[473, [111,114,119]],
-[474, [74,103,115]],
-[475, [74,103,114]],
-[477, [100,129,140]],
-[461, [98,153,164]],
-[478, [71,100,111]],
-[431, [145,149,161]],
-[435, [139,143,155]],
-[480, [73,118]],
-[481, [74,103,114]],
-[482, [73,102,113]],
+[487, [96,101,140,145,185,196]],
 [488, [74,103,114]],
-[489, [74,103,114]],
-[822, [45,70]]
+[489, [129,133,145]],
+[490, [111,114,119]],
+[491, [74,103,115]],
+[492, [74,103,114]],
+[494, [100,129,140]],
+[478, [98,153,164]],
+[495, [71,100,111]],
+[448, [145,149,161]],
+[452, [139,143,155]],
+[497, [73,118]],
+[498, [74,103,114]],
+[499, [73,102,113]],
+[505, [74,103,114]],
+[506, [74,103,114]],
+[844, [45,70]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[184, [144]]
+[194, [144]]
 ],
 "memberKind": "Property"
 }
 ,
 "WidthProperty":{
 "files": [
-[201, [254]],
-[162, [238]]
+[211, [254]],
+[172, [238]]
 ],
 "memberKind": "Property"
 }
@@ -39681,399 +40833,415 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[677, [51]],
-[408, [59]],
-[308, [59]],
-[310, [70,75]],
-[815, [74]]
+[699, [51]],
+[425, [59]],
+[323, [59]],
+[325, [70,75]],
+[837, [74]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ActualHeight":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[323, [95]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[338, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[323, [95]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[338, [95]]
 ],
 "memberKind": "Property"
 }
 ,
 "Background":{
 "files": [
-[543, [100]],
-[298, [107,112,156,162,262]],
-[545, [110,161]],
-[546, [110]],
-[420, [102]],
-[467, [84]]
+[560, [100]],
+[311, [107,112,156,162,262]],
+[562, [110,161]],
+[563, [110]],
+[437, [102]],
+[484, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "Click":{
 "files": [
-[823, [52]],
-[824, [41,45]],
-[133, [35,36]],
-[134, [39,40,41]],
-[135, [36,37]],
-[131, [40,41,43]],
-[659, [30]],
+[845, [52]],
+[846, [41,45]],
+[143, [35,36]],
+[144, [39,40,41]],
+[145, [36,37]],
+[141, [40,41,43]],
+[681, [30]],
+[722, [31]],
+[702, [30]],
+[724, [32]],
+[687, [31,32]],
+[686, [32,33]],
+[683, [32,33]],
+[688, [37]],
+[646, [34,35,36]],
+[703, [31]],
+[709, [32]],
+[710, [31]],
+[711, [33]],
+[647, [32]],
+[680, [33]],
+[685, [29,30]],
+[666, [29,30]],
+[171, [37,38]],
+[667, [38,39]],
+[519, [37,38]],
+[712, [33]],
+[715, [31]],
 [700, [31]],
-[680, [30]],
-[702, [32]],
-[665, [31,32]],
-[664, [32,33]],
-[661, [32,33]],
-[666, [37]],
-[624, [34,35,36]],
-[681, [31]],
-[687, [32]],
-[688, [31]],
-[689, [33]],
-[625, [32]],
-[658, [33]],
-[663, [29,30]],
-[644, [29,30]],
-[161, [37,38]],
-[645, [38,39]],
-[502, [37,38]],
-[690, [33]],
-[693, [31]],
-[678, [31]],
-[675, [29]],
-[670, [29]],
-[671, [29]],
-[672, [29]],
-[673, [32]],
-[677, [55]],
+[697, [29]],
+[692, [29]],
+[693, [29]],
+[694, [29]],
+[695, [32]],
+[699, [55]],
 [62, [26,27,28]],
-[442, [33,34]],
-[566, [48,50,51,54,55,56,57,58,59]],
-[564, [45,47,48,51,52,53,54,55,56]],
-[500, [54,56,57,58,59,69,70,71,72,73,74]],
-[825, [33]],
+[459, [33,34]],
+[588, [48,50,51,54,55,56,57,58,59]],
+[585, [45,47,48,51,52,53,54,55,56]],
+[517, [54,56,57,58,59,69,70,71,72,73,74]],
+[847, [33]],
 [43, [38]],
-[826, [40]],
-[408, [62]],
-[308, [61]],
-[310, [72,77]],
-[827, [32]],
-[815, [77,100]]
+[848, [40]],
+[425, [62]],
+[323, [61]],
+[325, [72,77]],
+[849, [32]],
+[837, [77,100]]
 ],
 "memberKind": "Event"
 }
 ,
 "Content":{
 "files": [
-[543, [69,120,123,129]],
-[298, [137,140,144,160,247]],
-[544, [75,78,81,84]],
-[545, [68,101,121,152,171,174,185,188]],
-[546, [71,126,129,135]],
-[420, [74,122,125,131,190]],
-[191, [204,424,428]],
-[283, [87,142]],
-[284, [157,400,409,435,470]],
-[285, [427,444,468,499]],
-[286, [443,451,475,497]],
-[579, [77,89]],
-[677, [54]],
-[601, [47]],
-[758, [151,167]],
-[759, [162,177]],
-[401, [65,83,88]],
-[578, [85,90]],
-[582, [83,88]],
-[394, [246,253]],
-[650, [87,94]],
-[828, [26,32]],
-[829, [35,41]],
-[271, [76,98,176]],
-[295, [414,424,448,470]],
-[426, [106,251,266]],
-[181, [54,62,77,95]],
-[182, [53,61,76,94]],
-[449, [229,233]],
-[594, [216,239]],
-[595, [215,238]],
-[408, [61]],
-[308, [60]],
-[310, [71,76]],
-[815, [75]]
+[560, [69,120,123,129]],
+[311, [137,140,144,160,247]],
+[561, [75,78,81,84]],
+[562, [68,101,121,152,171,174,185,188]],
+[563, [71,126,129,135]],
+[437, [74,122,125,131,190]],
+[201, [204,424,428]],
+[296, [87,142]],
+[76, [46,51]],
+[297, [157,400,409,435,470]],
+[298, [427,444,468,499]],
+[299, [443,451,475,497]],
+[601, [77,89]],
+[699, [54]],
+[351, [64,70]],
+[352, [103,109]],
+[314, [88,96]],
+[315, [119,127]],
+[623, [47]],
+[780, [151,167]],
+[781, [162,177]],
+[418, [65,83,88]],
+[600, [85,90]],
+[604, [83,88]],
+[411, [246,253]],
+[672, [87,94]],
+[850, [26,32]],
+[851, [35,41]],
+[284, [76,98,176]],
+[308, [414,424,448,470]],
+[443, [106,251,266]],
+[191, [54,62,77,95]],
+[192, [53,61,76,94]],
+[466, [229,233]],
+[616, [216,239]],
+[617, [215,238]],
+[425, [61]],
+[323, [60]],
+[325, [71,76]],
+[837, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataContext":{
 "files": [
-[677, [52,83]],
-[328, [58]]
+[699, [52,83]],
+[343, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [51]]
+[509, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Flyout":{
 "files": [
-[830, [40]]
+[852, [40]]
 ],
 "memberKind": "Property"
 }
 ,
 "Focus`1":{
 "files": [
-[277, [85]],
-[288, [169,197]],
-[289, [165,191]],
-[529, [404]]
+[290, [85]],
+[301, [169,197]],
+[302, [165,191]],
+[546, [404]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
 "files": [
-[354, [57,58,71,93,139,140,161,162]],
-[355, [52,53,66,85,125,126,143,144]],
-[353, [64,65,78,102,148,149,172,173]],
-[356, [63,67,69,85,137,138,191,223,224]],
-[357, [63,64,77,99,147,148,169,170]],
-[265, [52,53,66,115,116,143,144,162,163]],
+[371, [57,58,71,93,139,140,161,162]],
+[372, [52,53,66,85,125,126,143,144]],
+[370, [64,65,78,102,148,149,172,173]],
+[373, [63,67,69,85,137,138,191,223,224]],
+[374, [63,64,77,99,147,148,169,170]],
+[278, [52,53,66,115,116,143,144,162,163]],
 [59, [180,181]],
-[359, [57,58,71,93,137,138,159,160]],
-[543, [107]],
-[298, [117,163,164,227,230,245,246,258,261,274]],
-[545, [107,158,257,258]],
-[546, [100]],
-[420, [108]],
-[191, [274,275,292,293,349,393]],
+[376, [57,58,71,93,137,138,159,160]],
+[560, [107]],
+[311, [117,163,164,227,230,245,246,258,261,274]],
+[562, [107,158,257,258]],
+[563, [100]],
+[437, [108]],
+[201, [274,275,292,293,349,393]],
 [61, [72,73,119,156,157,180,181]],
-[87, [126,127]],
-[88, [127,128]],
-[89, [126,127]],
 [90, [126,127]],
+[91, [127,128]],
+[92, [126,127]],
+[93, [126,127]],
 [60, [149,150,151]],
-[228, [126,127]],
-[299, [152,153,293,294]],
-[345, [395,396,397,398,417,418,419,420,431,432,433,434]],
-[361, [58,59,72,94,138,139,160,161]],
-[346, [77,78,188,189]],
-[347, [78,79,229,230]],
-[348, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
-[363, [58,59,72,94,164,165,186,187]],
-[362, [64,65,78,102,172,173,196,197]],
-[284, [468,509,510,512]],
-[336, [54,58,71,77]],
-[337, [276,277]],
-[338, [55,59,71,77,90,95,107,114]],
-[267, [130,131,144,170,216,217,242,243]],
-[285, [497,531,532,534]],
-[387, [258,259,260,265,266,267,276,277,278,284,285,286,449,450,467,468]],
-[286, [495,529,530,532]],
-[403, [61,65,78,84,97,101,114,120]],
-[404, [448,449,450]],
-[405, [314,315,316,317,511,512,513,514]],
-[406, [75]],
-[73, [364,365]],
-[579, [80,81,92,93,172,173,243,244]],
-[323, [71,104,114]],
-[287, [72,176,181,201]],
-[75, [48,49,72,99,137,142]],
-[300, [49,80]],
-[277, [64,84]],
-[288, [67,168,176,196]],
-[289, [72,164,170,190]],
-[290, [73,173,178,198,205,221,225]],
-[663, [44,45]],
-[644, [44,45]],
-[161, [43,44]],
-[645, [44,45]],
-[502, [43,44]],
-[334, [43,44,57,96,97,123,124]],
-[335, [44,45,75,76,129,130,146,147,158,163,168,173]],
-[70, [262,263]],
-[209, [63,68,241,272,311]],
-[71, [271,272]],
-[366, [58,59,72,94,140,141,162,163]],
-[364, [64,65,78,102,148,149,172,173]],
-[365, [67,71,85,111]],
-[427, [89,90,99,100]],
-[369, [58,59,72,94,158,159,180,181]],
-[367, [64,65,78,102,166,167,190,191]],
-[601, [46]],
-[600, [138,187,389,449]],
-[685, [51]],
-[686, [104]],
-[372, [58,59,72,94,138,139,160,161]],
-[371, [64,65,78,102,146,147,170,171]],
-[758, [155,156,160,161,168,171,175,229,233]],
-[759, [165,166,170,171,178,181,185,239,243]],
-[350, [109,110,218,219]],
-[349, [109,110,238,239]],
-[413, [80,97,154,155,156]],
-[560, [62,79]],
-[559, [60]],
-[460, [62]],
+[238, [126,127]],
+[312, [152,153,293,294]],
+[362, [395,396,397,398,417,418,419,420,431,432,433,434]],
+[378, [58,59,72,94,138,139,160,161]],
+[276, [57,81,92,114,126,156,277]],
+[277, [49,164]],
+[70, [93,230]],
+[570, [59,61]],
+[568, [77,79]],
+[569, [75,77]],
+[363, [77,78,188,189]],
+[364, [78,79,229,230]],
+[365, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
+[380, [58,59,72,94,164,165,186,187]],
+[379, [64,65,78,102,172,173,196,197]],
+[297, [468,509,510,512]],
+[353, [54,58,71,77]],
+[354, [276,277]],
+[355, [55,59,71,77,90,95,107,114]],
+[280, [130,131,144,170,216,217,242,243]],
+[298, [497,531,532,534]],
+[404, [258,259,260,265,266,267,276,277,278,284,285,286,449,450,467,468]],
+[299, [495,529,530,532]],
+[420, [61,65,78,84,97,101,114,120]],
+[421, [448,449,450]],
+[422, [314,315,316,317,511,512,513,514]],
+[423, [75]],
+[74, [364,365]],
+[601, [80,81,92,93,172,173,243,244]],
+[338, [71,104,114]],
+[300, [72,176,181,201]],
+[77, [48,49,72,99,137,142]],
+[313, [49,80]],
+[290, [64,84]],
+[301, [67,168,176,196]],
+[302, [72,164,170,190]],
+[303, [73,173,178,198,205,221,225]],
+[685, [44,45]],
+[666, [44,45]],
+[171, [43,44]],
+[667, [44,45]],
+[519, [43,44]],
+[349, [43,44,57,96,97,123,124]],
+[350, [44,45,75,76,129,130,146,147,158,163,168,173]],
+[71, [262,263]],
+[219, [63,68,241,272,311]],
+[72, [271,272]],
+[383, [58,59,72,94,140,141,162,163]],
+[381, [64,65,78,102,148,149,172,173]],
+[382, [67,71,85,111]],
+[444, [89,90,99,100]],
+[386, [58,59,72,94,158,159,180,181]],
+[384, [64,65,78,102,166,167,190,191]],
+[314, [93,95]],
+[315, [124,126]],
+[623, [46]],
+[622, [138,187,389,449]],
+[707, [51]],
+[708, [104]],
+[389, [58,59,72,94,138,139,160,161]],
+[388, [64,65,78,102,146,147,170,171]],
+[780, [155,156,160,161,168,171,175,229,233]],
+[781, [165,166,170,171,178,181,185,239,243]],
+[367, [109,110,218,219]],
+[366, [109,110,238,239]],
+[430, [80,97,154,155,156]],
+[581, [62,79]],
+[580, [60]],
+[477, [62]],
 [30, [165,166,167,168,169,170,171,242,243,244,247,248,249,250,264,265,338,339,341,342,343,344,345,346,420,459,460,461,462,463,464,465,466,569,570,571,572,573,574,575,639,640,641,642,684,685,695,696,714,762,763,771,772,780,781]],
-[566, [344,352,360,363,373,374]],
-[564, [316,324,332,334,343,344]],
-[500, [393,401,409,412,413,414,424,425,427,428]],
-[297, [86,87,217,218,231,232]],
-[312, [195,225,238,386,397,401,490,495,589,594,673,678]],
-[401, [84,89]],
-[578, [86,91]],
-[582, [84,89]],
-[394, [59,60]],
-[829, [18,22]],
-[238, [48]],
-[241, [27,48]],
-[791, [23,53]],
-[653, [45]],
-[800, [23,56]],
-[808, [22,31]],
-[783, [22,28,33,37]],
-[376, [58,59,72,94,176,177,198,199]],
-[377, [64,65,78,102,183,184,207,208]],
-[271, [66,77,88]],
-[275, [70,85,135,168]],
-[276, [62,113]],
-[569, [40,49]],
-[120, [47,65]],
-[292, [112,113,126,145,146,163,164]],
-[294, [74,75,88,115,116,141,142]],
-[370, [58,59,72,94,140,141,162,163]],
-[368, [36,40]],
-[382, [58,59,72,94,156,157,178,179]],
-[381, [36,40]],
-[250, [70,71,72,73]],
-[295, [468,502,503,505]],
-[426, [107,132,252,267,306]],
-[565, [91,92,124,131,173]],
-[202, [162,163,206,207,527,528]],
-[203, [158,159,160,161,162,241,242,243,244,245,657,658,659,660,661]],
-[468, [121,122,142,143]],
-[383, [50,51,64,83,160,161,182,183]],
-[392, [57,74,144]],
-[399, [43,69]],
-[398, [44,89]],
-[396, [34,61]],
-[397, [33,57]],
-[393, [43,86]],
-[306, [43,105]],
-[390, [35,63]],
-[77, [44,45,71,72,77,78]],
-[590, [36,53]],
-[78, [74,111]],
-[529, [81,175,267,292,397]],
-[177, [77,240,248,263]],
-[166, [85,237,254,264]],
-[178, [72,73,262,263,271,272,281,282,378,379,437,438]],
-[573, [69,114,164,165,241,242,256,257,405,406,407]],
-[179, [63,64,196,197,280,281,328,329]],
-[180, [63,64,168,169,252,253,299,301]],
-[167, [82,83,234,235,243,244,257,258,346,347,392,393]],
-[609, [39,89]],
-[608, [38,102,108]],
-[711, [57,58,75,76]],
-[583, [65,112]],
-[449, [225,226]],
-[596, [130,158]],
-[592, [73,79,84,90]],
-[593, [71,77,82,88]],
-[594, [61,67,72,78]],
-[595, [62,68,73,79]],
-[229, [69,92]]
+[588, [344,352,360,363,373,374]],
+[585, [316,324,332,334,343,344]],
+[517, [393,401,409,412,413,414,424,425,427,428]],
+[310, [86,87,217,218,231,232]],
+[327, [195,225,238,386,397,401,490,495,589,594,673,678]],
+[418, [84,89]],
+[600, [86,91]],
+[604, [84,89]],
+[411, [59,60]],
+[851, [18,22]],
+[248, [48]],
+[251, [27,48]],
+[813, [23,53]],
+[675, [45]],
+[822, [23,56]],
+[830, [22,31]],
+[805, [22,28,33,37]],
+[393, [58,59,72,94,176,177,198,199]],
+[394, [64,65,78,102,183,184,207,208]],
+[284, [66,77,88]],
+[288, [70,85,135,168]],
+[289, [62,113]],
+[591, [40,49]],
+[129, [47,65]],
+[305, [112,113,126,145,146,163,164]],
+[307, [74,75,88,115,116,141,142]],
+[387, [58,59,72,94,140,141,162,163]],
+[385, [36,40]],
+[399, [58,59,72,94,156,157,178,179]],
+[398, [36,40]],
+[260, [70,71,72,73]],
+[308, [468,502,503,505]],
+[443, [107,132,252,267,306]],
+[587, [91,92,124,131,173]],
+[212, [162,163,206,207,527,528]],
+[213, [158,159,160,161,162,241,242,243,244,245,657,658,659,660,661]],
+[485, [121,122,142,143]],
+[400, [50,51,64,83,160,161,182,183]],
+[409, [57,74,144]],
+[416, [43,69]],
+[415, [44,89]],
+[413, [34,61]],
+[414, [33,57]],
+[410, [43,86]],
+[321, [43,105]],
+[407, [35,63]],
+[79, [44,45,71,72,77,78]],
+[612, [36,53]],
+[80, [74,111]],
+[546, [81,175,267,292,397]],
+[187, [77,240,248,263]],
+[176, [85,237,254,264]],
+[188, [72,73,262,263,271,272,281,282,378,379,437,438]],
+[595, [69,114,164,165,241,242,256,257,405,406,407]],
+[189, [63,64,196,197,280,281,328,329]],
+[190, [63,64,168,169,252,253,299,301]],
+[177, [82,83,234,235,243,244,257,258,346,347,392,393]],
+[631, [39,89]],
+[630, [38,102,108]],
+[733, [57,58,75,76]],
+[605, [65,112]],
+[466, [225,226]],
+[618, [130,158]],
+[614, [73,79,84,90]],
+[615, [71,77,82,88]],
+[616, [61,67,72,78]],
+[617, [62,68,73,79]],
+[239, [69,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[373, [114,122]],
-[374, [114,122]],
-[375, [114,122]]
+[390, [114,122]],
+[391, [114,122]],
+[392, [114,122]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[523, [106]],
-[554, [51]],
-[555, [51]],
-[818, [85]],
-[831, [33]],
-[497, [121]]
+[540, [106]],
+[575, [51]],
+[576, [51]],
+[840, [85]],
+[853, [33]],
+[514, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "Style":{
 "files": [
-[677, [53]]
+[699, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[760, [42]],
-[408, [60,71]],
-[815, [72,76,98]]
+[782, [42]],
+[425, [60,71]],
+[837, [72,76,98]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93]],
-[116, [109]],
-[191, [410]],
-[323, [93]],
-[449, [215]]
+[339, [91]],
+[295, [89]],
+[124, [93]],
+[125, [109]],
+[201, [410]],
+[338, [93]],
+[466, [215]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[373, [198,199,210,211]],
-[374, [198,199,210,211]],
-[375, [198,199,210,211]],
-[492, [49]],
-[152, [81,134]],
-[436, [75]],
-[439, [71]]
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[390, [198,199,210,211]],
+[391, [198,199,210,211]],
+[392, [198,199,210,211]],
+[509, [49]],
+[162, [81,134]],
+[453, [84]],
+[456, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[191, [411]],
-[449, [216]]
+[201, [411]],
+[466, [216]]
 ],
 "memberKind": "Property"
 }
@@ -40084,14 +41252,14 @@ var contents = {
 "members": {
 "Language":{
 "files": [
-[518, [59]]
+[535, [59]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionMode":{
 "files": [
-[518, [51]]
+[535, [51]]
 ],
 "memberKind": "Property"
 }
@@ -40102,46 +41270,46 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[457, [521,527]]
+[474, [521,527]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
 "files": [
-[465, [113,146,189,303]],
-[457, [437,495,573,574]],
-[448, [77,96,115,120,122]]
+[482, [113,146,189,303]],
+[474, [437,495,573,574]],
+[465, [77,96,115,120,122]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[457, [521,527,545]]
+[474, [521,527,545]]
 ],
 "memberKind": "Property"
 }
 ,
 "InvalidateArrange`0":{
 "files": [
-[540, [270]]
+[557, [270]]
 ],
 "memberKind": "Method"
 }
 ,
 "InvalidateMeasure`0":{
 "files": [
-[465, [147,304]],
-[540, [271]],
-[457, [438]]
+[482, [147,304]],
+[557, [271]],
+[474, [438]]
 ],
 "memberKind": "Method"
 }
 ,
 "LeftProperty":{
 "files": [
-[457, [533,544]],
+[474, [533,544]],
 [43, [77]]
 ],
 "memberKind": "Property"
@@ -40149,30 +41317,30 @@ var contents = {
 ,
 "SetLeft`2":{
 "files": [
-[194, [936,944,1023]],
-[448, [112]]
+[204, [912,920,999]],
+[465, [112]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetTop`2":{
 "files": [
-[194, [937,945,1024]],
-[448, [113]]
+[204, [913,921,1000]],
+[465, [113]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
 "files": [
-[457, [533,534]]
+[474, [533,534]]
 ],
 "memberKind": "Method"
 }
 ,
 "TopProperty":{
 "files": [
-[457, [534,545]],
+[474, [534,545]],
 [43, [78]]
 ],
 "memberKind": "Property"
@@ -40180,16 +41348,16 @@ var contents = {
 ,
 "UpdateLayout`0":{
 "files": [
-[465, [148,305]],
-[540, [272]],
-[457, [439]]
+[482, [148,305]],
+[557, [272]],
+[474, [439]]
 ],
 "memberKind": "Method"
 }
 ,
 "Width":{
 "files": [
-[457, [521,527,544]]
+[474, [521,527,544]]
 ],
 "memberKind": "Property"
 }
@@ -40200,28 +41368,29 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[194, [1040,1058,1061,1063,1074]]
+[204, [1016,1034,1037,1039,1050]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[194, [1040,1057,1061,1066,1071]]
+[204, [1016,1033,1037,1042,1047]]
 ],
 "memberKind": "Property"
 }
 ,
 "Source":{
 "files": [
-[426, [261]]
+[566, [65,91]],
+[443, [261]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[426, [104,249,265]]
+[443, [104,249,265]]
 ],
 "memberKind": "Property"
 }
@@ -40232,7 +41401,7 @@ var contents = {
 "members": {
 "Click":{
 "files": [
-[131, [42]]
+[141, [42]]
 ],
 "memberKind": "Event"
 }
@@ -40243,37 +41412,37 @@ var contents = {
 [47, [56]],
 [50, [52]],
 [49, [100,101,102,103,104,105,106]],
-[345, [127,198]],
-[348, [242,268,307,308]],
-[131, [33,70,73]],
-[108, [58]],
-[605, [86]],
-[535, [58,62,66,70]],
-[154, [338,353,402]],
-[624, [53]],
-[675, [54]],
-[674, [55]],
-[721, [77]],
-[812, [23,28]],
-[832, [52]],
-[566, [98]],
-[564, [106]],
-[500, [116]],
-[394, [53,54]],
-[395, [144,153,168]],
-[800, [32,35,38,41,44,45,46]],
-[466, [62]],
-[491, [24,32]],
-[155, [322,337,386]],
-[122, [28,29,30,50,65]],
-[792, [45,51,52,57,58,59,79,87,92,93,94,109,110,111,117,123,128]],
-[314, [71,81]],
-[410, [57,58,61,62,64,78,82,86,125,126]],
-[411, [126,141]],
-[310, [180]],
-[695, [114]],
-[833, [62,67,78,79,80,84,94,95,96,98,100,101,102,104,109]],
-[493, [86]]
+[362, [127,198]],
+[365, [242,268,307,308]],
+[141, [33,70,73]],
+[117, [58]],
+[627, [86]],
+[552, [58,62,66,70]],
+[164, [338,353,402]],
+[646, [53]],
+[697, [54]],
+[696, [55]],
+[743, [77]],
+[834, [23,28]],
+[854, [52]],
+[588, [98]],
+[585, [106]],
+[517, [116]],
+[411, [53,54]],
+[412, [144,153,168]],
+[822, [32,35,38,41,44,45,46]],
+[483, [62]],
+[508, [24,32]],
+[165, [322,337,386]],
+[131, [28,29,30,50,65]],
+[814, [45,51,52,57,58,59,79,87,92,93,94,109,110,111,117,123,128]],
+[329, [71,81]],
+[427, [57,58,61,62,64,78,82,86,125,126]],
+[428, [126,141]],
+[325, [180]],
+[717, [114]],
+[855, [62,67,78,79,80,84,94,95,96,98,100,101,102,104,109]],
+[510, [86]]
 ],
 "memberKind": "Property"
 }
@@ -40281,17 +41450,17 @@ var contents = {
 "IsEnabled":{
 "files": [
 [30, [252,581]],
-[566, [364,376]],
-[564, [335,346]],
-[500, [415,429]]
+[588, [364,376]],
+[585, [335,346]],
+[517, [415,429]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[121, [150,156]],
-[122, [29,52]]
+[130, [150,156]],
+[131, [29,52]]
 ],
 "memberKind": "Property"
 }
@@ -40302,192 +41471,196 @@ var contents = {
 "members": {
 "DataContext":{
 "files": [
-[289, [49]],
-[834, [177]],
-[207, [41]],
-[710, [54]]
+[302, [49]],
+[856, [177]],
+[217, [41]],
+[732, [54]]
 ],
 "memberKind": "?"
 }
 ,
 "DisplayMemberPath":{
 "files": [
-[123, [286]],
-[127, [236]]
+[132, [286]],
+[136, [236]]
 ],
 "memberKind": "Property"
 }
 ,
 "Header":{
 "files": [
-[312, [452,463,515,561,614,644,701]]
+[327, [452,463,515,561,614,644,701]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[123, [57,62]],
-[566, [361,362,372,375]],
-[564, [333,345]],
-[500, [410,411,423,426]],
-[312, [194,224,453,464,516,562,615,645,702]],
-[468, [62,123,144]],
-[529, [200,235,246,341,366,375]],
-[177, [316,393,407]],
-[166, [295,307,329]],
-[178, [380,436]],
-[179, [282,327]],
-[180, [254,300]],
-[167, [348,391]],
-[127, [57,62]]
+[132, [57,62]],
+[588, [361,362,372,375]],
+[585, [333,345]],
+[517, [410,411,423,426]],
+[327, [194,224,453,464,516,562,615,645,702]],
+[485, [62,123,144]],
+[546, [200,235,246,341,366,375]],
+[187, [316,393,407]],
+[176, [295,307,329]],
+[188, [380,436]],
+[189, [282,327]],
+[190, [254,300]],
+[177, [348,391]],
+[136, [57,62]]
 ],
 "memberKind": "?"
 }
 ,
 "Items":{
 "files": [
-[385, [92,125,149]],
-[406, [66]],
-[312, [140,145,449,460,514,558,613,641,692,697]],
-[468, [57,63]],
-[529, [106]],
-[177, [114]],
-[166, [124]],
-[178, [110]],
-[179, [96]],
-[180, [96]],
-[167, [120]],
-[181, [116]],
-[182, [115]]
+[568, [172]],
+[402, [92,125,149]],
+[423, [66]],
+[327, [140,145,449,460,514,558,613,641,692,697]],
+[485, [57,63]],
+[546, [106]],
+[187, [114]],
+[176, [124]],
+[188, [110]],
+[189, [96]],
+[190, [96]],
+[177, [120]],
+[191, [116]],
+[192, [115]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemsSource":{
 "files": [
-[508, [82]],
-[123, [285]],
-[323, [43]],
-[287, [47]],
-[75, [37]],
-[300, [38]],
-[290, [47]],
-[686, [70,89,90]],
-[143, [34]],
-[127, [235]],
-[518, [42]]
+[525, [82]],
+[132, [285]],
+[338, [43]],
+[300, [47]],
+[77, [37]],
+[313, [38]],
+[303, [47]],
+[708, [70,89,90]],
+[153, [34]],
+[136, [235]],
+[535, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedIndex":{
 "files": [
-[508, [83,86,112,116]],
-[183, [35]],
+[525, [83,86,112,116]],
+[193, [35]],
 [45, [70,87,102,122,207,221]],
 [49, [39,79]],
-[336, [73]],
-[338, [73,109]],
-[385, [92,125,149,263]],
-[403, [80,116]],
-[406, [70,94]],
-[323, [44]],
-[287, [48]],
-[75, [38]],
-[300, [39]],
-[289, [50]],
-[290, [48]],
-[622, [42,67,142,144]],
-[623, [41,66,136,138]],
-[686, [101]],
-[566, [135,276,392,394]],
-[564, [258]],
-[500, [153,325,445,447]],
-[312, [219,228,229,230,351,479,512,576,611,659]],
-[467, [43,96]],
-[468, [65,202]],
-[207, [45]],
-[710, [57]],
-[410, [59]],
-[727, [68]],
-[498, [36,74,100,129,155]]
+[353, [73]],
+[355, [73,109]],
+[402, [92,125,149,263]],
+[420, [80,116]],
+[423, [70,94]],
+[338, [44]],
+[300, [48]],
+[77, [38]],
+[313, [39]],
+[302, [50]],
+[303, [48]],
+[644, [42,67,142,144]],
+[645, [41,66,136,138]],
+[708, [101]],
+[588, [135,276,392,394]],
+[585, [258]],
+[517, [153,325,445,447]],
+[327, [219,228,229,230,351,479,512,576,611,659]],
+[484, [43,96]],
+[485, [65,202]],
+[217, [45]],
+[732, [57]],
+[427, [59]],
+[749, [68]],
+[515, [36,74,100,129,155]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedItem":{
 "files": [
-[444, [116]],
-[445, [54]],
-[638, [296]],
-[605, [87,94,133,135,157,163]],
-[385, [97,101,105,109,113,131,135,139,154,158,162,166]],
-[123, [118]],
-[323, [77]],
-[287, [76]],
-[75, [75]],
-[300, [53]],
-[289, [144]],
-[290, [80]],
-[675, [51]],
-[686, [51]],
-[834, [184]],
-[256, [22]],
-[258, [58]],
-[143, [35,42]],
-[467, [97,116]],
-[529, [110,125]],
-[177, [118,133]],
-[166, [128,142]],
-[178, [114,128]],
-[179, [100,115]],
-[180, [100,314]],
-[167, [124,139]],
-[181, [122,134]],
-[182, [121,133]],
-[127, [95]],
-[410, [92,96]],
-[411, [112,116,120]],
-[412, [125]],
-[518, [43,49]]
+[461, [116]],
+[462, [54]],
+[570, [80]],
+[568, [101,116]],
+[569, [105,125]],
+[660, [296]],
+[627, [87,94,133,135,157,163]],
+[402, [97,101,105,109,113,131,135,139,154,158,162,166]],
+[132, [118]],
+[338, [77]],
+[300, [76]],
+[77, [75]],
+[313, [53]],
+[302, [144]],
+[303, [80]],
+[697, [51]],
+[708, [51]],
+[856, [184]],
+[267, [22]],
+[269, [58]],
+[153, [35,42]],
+[484, [97,116]],
+[546, [110,125]],
+[187, [118,133]],
+[176, [128,142]],
+[188, [114,128]],
+[189, [100,115]],
+[190, [100,314]],
+[177, [124,139]],
+[191, [122,134]],
+[192, [121,133]],
+[136, [95]],
+[427, [92,96]],
+[428, [112,116,120]],
+[429, [125]],
+[535, [43,49]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
 "files": [
-[508, [110,119]],
-[183, [64]],
-[385, [269]],
-[312, [257,260,263,266,269,272,275,303,306,309]],
-[468, [112]],
-[392, [167,182,197,212]],
-[205, [46]],
+[525, [110,119]],
+[193, [64]],
+[402, [269]],
+[327, [257,260,263,266,269,272,275,303,306,309]],
+[485, [112]],
+[409, [167,182,197,212]],
+[215, [46]],
 [48, [50]],
-[710, [63]],
-[493, [69]]
+[732, [63]],
+[510, [69]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionBoxItem":{
 "files": [
-[314, [83,87,91]]
+[329, [83,87,91]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionChanged":{
 "files": [
-[508, [84]],
-[566, [49]],
-[564, [46]],
-[500, [55]],
-[177, [105,122]],
-[166, [115,131]],
-[178, [101,117]],
-[167, [111,128]]
+[525, [84]],
+[588, [49]],
+[585, [46]],
+[517, [55]],
+[187, [105,122]],
+[176, [115,131]],
+[188, [101,117]],
+[177, [111,128]]
 ],
 "memberKind": "Event"
 }
@@ -40495,8 +41668,8 @@ var contents = {
 "Visibility":{
 "files": [
 [45, [286,296]],
-[686, [102]],
-[312, [454,465,517,563,616,646,703]]
+[708, [102]],
+[327, [454,465,517,563,616,646,703]]
 ],
 "memberKind": "?"
 }
@@ -40507,81 +41680,90 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[529, [102]],
-[177, [110]],
-[166, [120]],
-[178, [106]],
-[179, [92]],
-[180, [92]],
-[167, [116]],
-[181, [112]],
-[182, [111]]
+[570, [100]],
+[568, [169]],
+[569, [187,223]],
+[546, [102]],
+[187, [110]],
+[176, [120]],
+[188, [106]],
+[189, [92]],
+[190, [92]],
+[177, [116]],
+[191, [112]],
+[192, [111]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
 "files": [
-[444, [117]],
-[445, [55]],
-[638, [211]],
-[605, [94,135,163]],
-[467, [97,116]],
-[529, [104]],
-[177, [112]],
-[166, [122]],
-[178, [108]],
-[179, [94]],
-[180, [94]],
-[167, [118]],
-[181, [115]],
-[182, [114]],
-[221, [62,110]],
-[222, [62,110]],
-[411, [112,116,120]],
-[412, [125]],
-[835, [16]],
-[814, [21]],
-[490, [94,99]]
+[461, [117]],
+[462, [55]],
+[570, [101]],
+[568, [170]],
+[569, [188,224]],
+[660, [211]],
+[627, [94,135,163]],
+[484, [97,116]],
+[546, [104]],
+[187, [112]],
+[176, [122]],
+[188, [108]],
+[189, [94]],
+[190, [94]],
+[177, [118]],
+[191, [115]],
+[192, [114]],
+[231, [62,110]],
+[232, [62,110]],
+[428, [112,116,120]],
+[429, [125]],
+[857, [16]],
+[836, [21]],
+[507, [94,99]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSelected":{
 "files": [
-[529, [109]],
-[177, [117]],
-[166, [127]],
-[178, [113]],
-[179, [99]],
-[180, [99]],
-[167, [123]],
-[181, [121]],
-[182, [120]]
+[546, [109]],
+[187, [117]],
+[176, [127]],
+[188, [113]],
+[189, [99]],
+[190, [99]],
+[177, [123]],
+[191, [121]],
+[192, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[675, [51]],
-[181, [113]],
-[182, [112]]
+[697, [51]],
+[191, [113]],
+[192, [112]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[529, [103,126]],
-[177, [111,134]],
-[166, [121,143]],
-[178, [107,129]],
-[179, [93,116]],
-[180, [93,315]],
-[167, [117,140]],
-[181, [114,135]],
-[182, [113,134]]
+[570, [81,102]],
+[568, [102,117,171]],
+[569, [106,126,190,225]],
+[546, [103,126]],
+[187, [111,134]],
+[176, [121,143]],
+[188, [107,129]],
+[189, [93,116]],
+[190, [93,315]],
+[177, [117,140]],
+[191, [114,135]],
+[192, [113,134]]
 ],
 "memberKind": "Property"
 }
@@ -40592,46 +41774,46 @@ var contents = {
 "members": {
 "IsOpen":{
 "files": [
-[815, [36]],
-[816, [36,49]]
+[837, [36]],
+[838, [36,49]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSticky":{
 "files": [
-[434, [73]],
-[816, [37]]
+[451, [73]],
+[838, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "MeasureOverride`1":{
 "files": [
-[492, [42]]
+[509, [42]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnApplyTemplate`0":{
 "files": [
-[492, [31]]
+[509, [31]]
 ],
 "memberKind": "Method"
 }
 ,
 "PrimaryCommands":{
 "files": [
-[818, [43,57,63]],
-[819, [43,57,63]],
-[820, [43,57,63]]
+[840, [43,57,63]],
+[841, [43,57,63]],
+[842, [43,57,63]]
 ],
 "memberKind": "Property"
 }
 ,
 "SecondaryCommands":{
 "files": [
-[816, [63,68,73,75,80,85,109,111]]
+[838, [63,68,73,75,80,85,109,111]]
 ],
 "memberKind": "Property"
 }
@@ -40642,41 +41824,41 @@ var contents = {
 "members": {
 "InRecycleQueue":{
 "files": [
-[836, [95]],
-[342, [41]],
-[436, [296]]
+[858, [95]],
+[359, [41]],
+[453, [305]]
 ],
 "memberKind": "Property"
 }
 ,
 "Item":{
 "files": [
-[836, [91]],
-[436, [296,298]]
+[858, [91]],
+[453, [305,307]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemContainer":{
 "files": [
-[836, [99,106]],
-[342, [43,58]],
-[436, [298,302]]
+[858, [99,106]],
+[359, [43,58]],
+[453, [307,311]]
 ],
 "memberKind": "Property"
 }
 ,
 "Phase":{
 "files": [
-[695, [96]],
-[342, [56]]
+[717, [96]],
+[359, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegisterUpdateCallback`1":{
 "files": [
-[695, [96]]
+[717, [96]]
 ],
 "memberKind": "Method"
 }
@@ -40687,360 +41869,379 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[323, [95]],
-[836, [76]],
-[342, [120]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[338, [95]],
+[858, [76]],
+[359, [120]],
+[453, [281]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[323, [95]],
-[451, [63]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[338, [95]],
+[453, [281]],
+[468, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "Background":{
 "files": [
-[543, [100]],
-[298, [107,112,156,162,262]],
-[545, [110,161]],
-[546, [110]],
-[420, [102]],
-[467, [84]]
+[560, [100]],
+[311, [107,112,156,162,262]],
+[562, [110,161]],
+[563, [110]],
+[437, [102]],
+[484, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClearValue`1":{
 "files": [
-[836, [106]],
-[436, [302]]
+[858, [106]],
+[453, [311]]
 ],
 "memberKind": "Method"
 }
 ,
 "Content":{
 "files": [
-[543, [69,120,123,129]],
-[298, [137,140,144,160,247]],
-[544, [75,78,81,84]],
-[545, [68,101,121,152,171,174,185,188]],
-[546, [71,126,129,135]],
-[420, [74,122,125,131,190]],
-[191, [204,424,428]],
-[444, [117]],
-[445, [55]],
-[283, [87,142]],
-[638, [211]],
-[605, [94,135,163]],
-[284, [157,400,409,435,470]],
-[285, [427,444,468,499]],
-[286, [443,451,475,497]],
-[579, [77,89]],
+[560, [69,120,123,129]],
+[311, [137,140,144,160,247]],
+[561, [75,78,81,84]],
+[562, [68,101,121,152,171,174,185,188]],
+[563, [71,126,129,135]],
+[437, [74,122,125,131,190]],
+[201, [204,424,428]],
+[461, [117]],
+[462, [55]],
+[296, [87,142]],
+[570, [101]],
+[568, [170]],
+[569, [188,224]],
+[76, [46,51]],
+[660, [211]],
+[627, [94,135,163]],
+[297, [157,400,409,435,470]],
+[298, [427,444,468,499]],
+[299, [443,451,475,497]],
+[601, [77,89]],
 [29, [217,300]],
 [33, [177,260]],
 [34, [175,258]],
-[677, [54]],
-[601, [47]],
-[758, [151,167]],
-[759, [162,177]],
-[401, [65,83,88]],
-[578, [85,90]],
-[582, [83,88]],
-[587, [67,95]],
-[394, [246,253]],
-[650, [87,94]],
-[828, [26,32]],
-[829, [35,41]],
-[271, [76,98,176]],
-[536, [77,92,97,102,108]],
-[295, [414,424,448,470]],
-[426, [106,251,266]],
-[467, [97,116]],
-[468, [75]],
-[529, [104]],
-[177, [112]],
-[166, [122]],
-[178, [108]],
-[179, [94]],
-[180, [94]],
-[167, [118]],
-[181, [54,62,77,95,115]],
-[182, [53,61,76,94,114]],
-[716, [158,178]],
-[221, [62,110]],
-[222, [62,110]],
-[449, [229,233]],
-[594, [216,239]],
-[595, [215,238]],
-[411, [112,116,120]],
-[412, [125]],
-[408, [61]],
-[308, [60]],
-[310, [71,76]],
-[450, [73,86]],
-[756, [76]],
-[757, [109]],
-[837, [39]],
-[838, [46,49,52]],
-[835, [16]],
-[814, [21]],
-[815, [75]],
-[839, [35]],
-[490, [94,99]],
-[184, [130]]
+[699, [54]],
+[351, [64,70]],
+[352, [103,109]],
+[314, [88,96]],
+[315, [119,127]],
+[623, [47]],
+[780, [151,167]],
+[781, [162,177]],
+[418, [65,83,88]],
+[600, [85,90]],
+[604, [83,88]],
+[609, [67,95]],
+[411, [246,253]],
+[672, [87,94]],
+[850, [26,32]],
+[851, [35,41]],
+[284, [76,98,176]],
+[553, [77,92,97,102,108]],
+[308, [414,424,448,470]],
+[443, [106,251,266]],
+[484, [97,116]],
+[485, [75]],
+[546, [104]],
+[187, [112]],
+[176, [122]],
+[188, [108]],
+[189, [94]],
+[190, [94]],
+[177, [118]],
+[191, [54,62,77,95,115]],
+[192, [53,61,76,94,114]],
+[738, [158,178]],
+[231, [62,110]],
+[232, [62,110]],
+[466, [229,233]],
+[616, [216,239]],
+[617, [215,238]],
+[428, [112,116,120]],
+[429, [125]],
+[425, [61]],
+[323, [60]],
+[325, [71,76]],
+[467, [73,86]],
+[778, [76]],
+[779, [109]],
+[859, [39]],
+[860, [46,49,52]],
+[857, [16]],
+[836, [21]],
+[837, [75]],
+[861, [35]],
+[507, [94,99]],
+[194, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentTemplateRoot":{
 "files": [
-[342, [125]]
+[359, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataContext":{
 "files": [
-[677, [52,83]],
-[328, [58]]
+[699, [52,83]],
+[343, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "DefaultStyleKey":{
 "files": [
-[840, [10]]
+[862, [10]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [51]]
+[509, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "FindName`1":{
 "files": [
-[342, [115]]
+[359, [115]]
 ],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
 "files": [
-[277, [85]],
-[288, [169,197]],
-[289, [165,191]],
-[529, [404]],
-[720, [234]]
+[290, [85]],
+[301, [169,197]],
+[302, [165,191]],
+[546, [404]],
+[453, [67]],
+[742, [234]]
 ],
 "memberKind": "Method"
 }
 ,
 "Height":{
 "files": [
-[836, [99]]
+[858, [99]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[354, [57,58,71,93,139,140,161,162]],
-[355, [52,53,66,85,125,126,143,144]],
-[353, [64,65,78,102,148,149,172,173]],
-[356, [63,67,69,85,137,138,191,223,224]],
-[357, [63,64,77,99,147,148,169,170]],
-[265, [52,53,66,115,116,143,144,162,163]],
+[371, [57,58,71,93,139,140,161,162]],
+[372, [52,53,66,85,125,126,143,144]],
+[370, [64,65,78,102,148,149,172,173]],
+[373, [63,67,69,85,137,138,191,223,224]],
+[374, [63,64,77,99,147,148,169,170]],
+[278, [52,53,66,115,116,143,144,162,163]],
 [59, [180,181]],
-[359, [57,58,71,93,137,138,159,160]],
-[543, [107]],
-[298, [117,163,164,227,230,245,246,258,261,274]],
-[545, [107,158,257,258]],
-[546, [100]],
-[420, [108]],
-[191, [274,275,292,293,349,393]],
+[376, [57,58,71,93,137,138,159,160]],
+[560, [107]],
+[311, [117,163,164,227,230,245,246,258,261,274]],
+[562, [107,158,257,258]],
+[563, [100]],
+[437, [108]],
+[201, [274,275,292,293,349,393]],
 [61, [72,73,119,156,157,180,181]],
-[87, [126,127]],
-[88, [127,128]],
-[89, [126,127]],
 [90, [126,127]],
+[91, [127,128]],
+[92, [126,127]],
+[93, [126,127]],
 [60, [149,150,151]],
-[228, [126,127]],
-[299, [152,153,293,294]],
-[345, [395,396,397,398,417,418,419,420,431,432,433,434]],
-[361, [58,59,72,94,138,139,160,161]],
-[346, [77,78,188,189]],
-[347, [78,79,229,230]],
-[348, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
-[363, [58,59,72,94,164,165,186,187]],
-[362, [64,65,78,102,172,173,196,197]],
-[284, [468,509,510,512]],
-[336, [54,58,71,77]],
-[337, [276,277]],
-[338, [55,59,71,77,90,95,107,114]],
-[267, [130,131,144,170,216,217,242,243]],
-[285, [497,531,532,534]],
-[387, [258,259,260,265,266,267,276,277,278,284,285,286,449,450,467,468]],
-[286, [495,529,530,532]],
-[403, [61,65,78,84,97,101,114,120]],
-[404, [448,449,450]],
-[405, [314,315,316,317,511,512,513,514]],
-[406, [75]],
-[73, [364,365]],
-[579, [80,81,92,93,172,173,243,244]],
-[323, [71,104,114]],
-[287, [72,176,181,201]],
-[75, [48,49,72,99,137,142]],
-[300, [49,80]],
-[277, [64,84]],
-[288, [67,168,176,196]],
-[289, [72,164,170,190]],
-[290, [73,173,178,198,205,221,225]],
-[663, [44,45]],
-[644, [44,45]],
-[161, [43,44]],
-[645, [44,45]],
-[502, [43,44]],
-[334, [43,44,57,96,97,123,124]],
-[335, [44,45,75,76,129,130,146,147,158,163,168,173]],
-[70, [262,263]],
-[209, [63,68,241,272,311]],
-[71, [271,272]],
-[366, [58,59,72,94,140,141,162,163]],
-[364, [64,65,78,102,148,149,172,173]],
-[365, [67,71,85,111]],
-[427, [89,90,99,100]],
-[369, [58,59,72,94,158,159,180,181]],
-[367, [64,65,78,102,166,167,190,191]],
-[601, [46]],
-[600, [138,187,389,449]],
-[685, [51]],
-[686, [104]],
-[372, [58,59,72,94,138,139,160,161]],
-[371, [64,65,78,102,146,147,170,171]],
-[758, [155,156,160,161,168,171,175,229,233]],
-[759, [165,166,170,171,178,181,185,239,243]],
-[350, [109,110,218,219]],
-[349, [109,110,238,239]],
-[413, [80,97,154,155,156]],
-[560, [62,79]],
-[559, [60]],
-[460, [62]],
+[238, [126,127]],
+[312, [152,153,293,294]],
+[362, [395,396,397,398,417,418,419,420,431,432,433,434]],
+[378, [58,59,72,94,138,139,160,161]],
+[276, [57,81,92,114,126,156,277]],
+[277, [49,164]],
+[70, [93,230]],
+[570, [59,61]],
+[568, [77,79]],
+[569, [75,77]],
+[363, [77,78,188,189]],
+[364, [78,79,229,230]],
+[365, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
+[380, [58,59,72,94,164,165,186,187]],
+[379, [64,65,78,102,172,173,196,197]],
+[297, [468,509,510,512]],
+[353, [54,58,71,77]],
+[354, [276,277]],
+[355, [55,59,71,77,90,95,107,114]],
+[280, [130,131,144,170,216,217,242,243]],
+[298, [497,531,532,534]],
+[404, [258,259,260,265,266,267,276,277,278,284,285,286,449,450,467,468]],
+[299, [495,529,530,532]],
+[420, [61,65,78,84,97,101,114,120]],
+[421, [448,449,450]],
+[422, [314,315,316,317,511,512,513,514]],
+[423, [75]],
+[74, [364,365]],
+[601, [80,81,92,93,172,173,243,244]],
+[338, [71,104,114]],
+[300, [72,176,181,201]],
+[77, [48,49,72,99,137,142]],
+[313, [49,80]],
+[290, [64,84]],
+[301, [67,168,176,196]],
+[302, [72,164,170,190]],
+[303, [73,173,178,198,205,221,225]],
+[685, [44,45]],
+[666, [44,45]],
+[171, [43,44]],
+[667, [44,45]],
+[519, [43,44]],
+[349, [43,44,57,96,97,123,124]],
+[350, [44,45,75,76,129,130,146,147,158,163,168,173]],
+[71, [262,263]],
+[219, [63,68,241,272,311]],
+[72, [271,272]],
+[383, [58,59,72,94,140,141,162,163]],
+[381, [64,65,78,102,148,149,172,173]],
+[382, [67,71,85,111]],
+[444, [89,90,99,100]],
+[386, [58,59,72,94,158,159,180,181]],
+[384, [64,65,78,102,166,167,190,191]],
+[314, [93,95]],
+[315, [124,126]],
+[623, [46]],
+[622, [138,187,389,449]],
+[707, [51]],
+[708, [104]],
+[389, [58,59,72,94,138,139,160,161]],
+[388, [64,65,78,102,146,147,170,171]],
+[780, [155,156,160,161,168,171,175,229,233]],
+[781, [165,166,170,171,178,181,185,239,243]],
+[367, [109,110,218,219]],
+[366, [109,110,238,239]],
+[430, [80,97,154,155,156]],
+[581, [62,79]],
+[580, [60]],
+[477, [62]],
 [30, [149,150,151,165,166,167,168,169,170,171,242,243,244,247,248,249,250,252,253,254,255,256,264,265,338,339,341,342,343,344,345,346,420,459,460,461,462,463,464,465,466,569,570,571,572,573,574,575,578,579,580,581,582,583,584,585,639,640,641,642,684,685,695,696,714,762,763,771,772,780,781]],
-[566, [344,352,360,363,364,373,374,376]],
-[564, [316,324,332,334,335,343,344,346]],
-[500, [393,401,409,412,413,414,415,424,425,427,428,429]],
-[297, [86,87,217,218,231,232]],
-[312, [195,225,238,386,397,401,490,495,589,594,673,678]],
-[401, [84,89]],
-[578, [86,91]],
-[582, [84,89]],
-[394, [59,60]],
-[829, [18,22]],
-[238, [48]],
-[241, [27,48]],
-[791, [23,53]],
-[653, [45]],
-[800, [23,56]],
-[808, [22,31]],
+[588, [344,352,360,363,364,373,374,376]],
+[585, [316,324,332,334,335,343,344,346]],
+[517, [393,401,409,412,413,414,415,424,425,427,428,429]],
+[310, [86,87,217,218,231,232]],
+[327, [195,225,238,386,397,401,490,495,589,594,673,678]],
+[418, [84,89]],
+[600, [86,91]],
+[604, [84,89]],
+[411, [59,60]],
+[851, [18,22]],
+[248, [48]],
+[251, [27,48]],
+[813, [23,53]],
+[675, [45]],
+[822, [23,56]],
+[830, [22,31]],
 [67, [39,58]],
-[783, [22,28,33,37]],
-[376, [58,59,72,94,176,177,198,199]],
-[377, [64,65,78,102,183,184,207,208]],
-[271, [66,77,88]],
-[275, [70,85,135,168]],
-[276, [62,113]],
-[569, [40,49]],
-[120, [47,65]],
-[292, [112,113,126,145,146,163,164]],
-[294, [74,75,88,115,116,141,142]],
-[370, [58,59,72,94,140,141,162,163]],
-[368, [36,40]],
-[382, [58,59,72,94,156,157,178,179]],
-[381, [36,40]],
-[250, [70,71,72,73]],
-[295, [468,502,503,505]],
-[426, [107,132,252,267,306]],
-[565, [91,92,124,131,173]],
-[202, [162,163,206,207,527,528]],
-[203, [158,159,160,161,162,241,242,243,244,245,657,658,659,660,661]],
-[468, [121,122,142,143]],
-[383, [50,51,64,83,160,161,182,183]],
-[392, [57,74,144]],
-[399, [43,69]],
-[398, [44,89]],
-[396, [34,61]],
-[397, [33,57]],
-[393, [43,86]],
-[306, [43,105]],
-[390, [35,63]],
-[77, [44,45,71,72,77,78]],
-[590, [36,53]],
-[78, [74,111]],
-[529, [81,175,267,292,397]],
-[177, [77,240,248,263]],
-[166, [85,237,254,264]],
-[178, [72,73,262,263,271,272,281,282,378,379,437,438]],
-[573, [69,114,164,165,241,242,256,257,405,406,407]],
-[179, [63,64,196,197,280,281,328,329]],
-[180, [63,64,168,169,252,253,299,301]],
-[167, [82,83,234,235,243,244,257,258,346,347,392,393]],
-[609, [39,89]],
-[608, [38,102,108]],
-[711, [57,58,75,76]],
-[583, [65,112]],
-[449, [225,226]],
-[596, [130,158]],
-[592, [73,79,84,90]],
-[593, [71,77,82,88]],
-[594, [61,67,72,78]],
-[595, [62,68,73,79]],
-[229, [69,92]]
+[805, [22,28,33,37]],
+[393, [58,59,72,94,176,177,198,199]],
+[394, [64,65,78,102,183,184,207,208]],
+[284, [66,77,88]],
+[288, [70,85,135,168]],
+[289, [62,113]],
+[591, [40,49]],
+[129, [47,65]],
+[305, [112,113,126,145,146,163,164]],
+[307, [74,75,88,115,116,141,142]],
+[387, [58,59,72,94,140,141,162,163]],
+[385, [36,40]],
+[399, [58,59,72,94,156,157,178,179]],
+[398, [36,40]],
+[260, [70,71,72,73]],
+[308, [468,502,503,505]],
+[443, [107,132,252,267,306]],
+[587, [91,92,124,131,173]],
+[212, [162,163,206,207,527,528]],
+[213, [158,159,160,161,162,241,242,243,244,245,657,658,659,660,661]],
+[485, [121,122,142,143]],
+[400, [50,51,64,83,160,161,182,183]],
+[409, [57,74,144]],
+[416, [43,69]],
+[415, [44,89]],
+[413, [34,61]],
+[414, [33,57]],
+[410, [43,86]],
+[321, [43,105]],
+[407, [35,63]],
+[79, [44,45,71,72,77,78]],
+[612, [36,53]],
+[80, [74,111]],
+[546, [81,175,267,292,397]],
+[187, [77,240,248,263]],
+[176, [85,237,254,264]],
+[188, [72,73,262,263,271,272,281,282,378,379,437,438]],
+[595, [69,114,164,165,241,242,256,257,405,406,407]],
+[189, [63,64,196,197,280,281,328,329]],
+[190, [63,64,168,169,252,253,299,301]],
+[177, [82,83,234,235,243,244,257,258,346,347,392,393]],
+[631, [39,89]],
+[630, [38,102,108]],
+[733, [57,58,75,76]],
+[605, [65,112]],
+[466, [225,226]],
+[618, [130,158]],
+[614, [73,79,84,90]],
+[615, [71,77,82,88]],
+[616, [61,67,72,78]],
+[617, [62,68,73,79]],
+[239, [69,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsTabStop":{
 "files": [
-[436, [214,216]]
+[453, [223,225]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[373, [114,122]],
-[374, [114,122]],
-[375, [114,122]]
+[390, [114,122]],
+[391, [114,122]],
+[392, [114,122]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxHeight":{
 "files": [
-[461, [103,107]]
+[478, [103,107]]
 ],
 "memberKind": "Property"
 }
 ,
 "MeasureOverride`1":{
 "files": [
-[492, [42]]
+[509, [42]]
 ],
 "memberKind": "Method"
 }
@@ -41050,150 +42251,157 @@ var contents = {
 [29, [218]],
 [33, [178]],
 [34, [176]],
-[675, [51]],
-[523, [106]],
-[841, [44]],
-[587, [66]],
-[181, [113]],
-[182, [112]],
-[554, [51]],
-[555, [51]],
-[818, [85]],
-[831, [33]],
-[497, [121]]
+[697, [51]],
+[540, [106]],
+[863, [44]],
+[609, [66]],
+[191, [113]],
+[192, [112]],
+[575, [51]],
+[576, [51]],
+[840, [85]],
+[853, [33]],
+[514, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
 "files": [
-[492, [31]]
+[509, [31]]
 ],
 "memberKind": "Method"
 }
 ,
 "Padding":{
 "files": [
-[342, [124]]
+[359, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[436, [298]]
+[453, [307]]
 ],
 "memberKind": "Method"
 }
 ,
 "SizeChanged":{
 "files": [
-[842, [36]]
+[864, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "Style":{
 "files": [
-[677, [53]]
+[699, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[470, [190]],
-[471, [108]],
-[472, [139]],
-[473, [126]],
-[712, [161]],
-[713, [147]],
+[487, [190]],
+[488, [108]],
+[489, [139]],
+[490, [126]],
+[570, [81,102]],
+[568, [102,117,171]],
+[569, [106,126,190,225]],
+[734, [161]],
+[735, [147]],
 [29, [334]],
 [33, [294]],
 [34, [292]],
-[474, [108]],
-[475, [108]],
-[476, [117]],
-[477, [134]],
-[461, [158]],
-[715, [83]],
-[760, [42]],
-[478, [105]],
-[431, [155]],
-[155, [412]],
-[529, [103,126]],
-[177, [111,134]],
-[166, [121,143]],
-[178, [107,129]],
-[179, [93,116]],
-[180, [93,315]],
-[167, [117,140]],
-[181, [114,135]],
-[182, [113,134]],
-[435, [149]],
-[408, [60,71]],
-[479, [82]],
-[480, [112]],
-[481, [108]],
-[482, [107]],
-[483, [82]],
-[485, [82]],
-[488, [108]],
-[489, [108]],
-[815, [55,57,63,72,76,98]],
-[726, [41,66]],
-[729, [35,60]],
-[843, [32]],
-[844, [33]],
-[845, [34,56]],
-[170, [162]]
+[491, [108]],
+[492, [108]],
+[493, [117]],
+[494, [134]],
+[478, [158]],
+[737, [83]],
+[782, [42]],
+[495, [105]],
+[448, [155]],
+[165, [412]],
+[546, [103,126]],
+[187, [111,134]],
+[176, [121,143]],
+[188, [107,129]],
+[189, [93,116]],
+[190, [93,315]],
+[177, [117,140]],
+[191, [114,135]],
+[192, [113,134]],
+[452, [149]],
+[425, [60,71]],
+[496, [82]],
+[497, [112]],
+[498, [108]],
+[499, [107]],
+[500, [82]],
+[502, [82]],
+[505, [108]],
+[506, [108]],
+[837, [55,57,63,72,76,98]],
+[748, [41,66]],
+[751, [35,60]],
+[865, [32]],
+[866, [33]],
+[867, [34,56]],
+[180, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93]],
-[116, [109]],
-[191, [410]],
-[323, [93]],
-[449, [215]],
-[451, [62]]
+[339, [91]],
+[295, [89]],
+[124, [93]],
+[125, [109]],
+[201, [410]],
+[338, [93]],
+[466, [215]],
+[453, [280]],
+[468, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[373, [198,199,210,211]],
-[385, [50]],
-[387, [97]],
-[386, [49]],
-[374, [198,199,210,211]],
-[258, [110,111,116,117]],
-[375, [198,199,210,211]],
-[313, [95]],
-[121, [150,156]],
-[122, [29,52]],
-[315, [77,78,106,107]],
-[755, [45,46,57,58]],
-[412, [49,50,68,69]],
-[310, [131,158]],
-[492, [49]],
-[152, [81,134]],
-[436, [75]],
-[439, [71]]
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[390, [198,199,210,211]],
+[402, [50]],
+[404, [97]],
+[403, [49]],
+[391, [198,199,210,211]],
+[269, [110,111,116,117]],
+[392, [198,199,210,211]],
+[328, [95]],
+[130, [150,156]],
+[131, [29,52]],
+[330, [77,78,106,107]],
+[777, [45,46,57,58]],
+[429, [49,50,68,69]],
+[325, [131,158]],
+[509, [49]],
+[162, [81,134]],
+[453, [84]],
+[456, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[191, [411]],
-[449, [216]],
-[498, [181,185]]
+[201, [411]],
+[466, [216]],
+[515, [181,185]]
 ],
 "memberKind": "Property"
 }
@@ -41204,45 +42412,45 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[756, [66]],
-[757, [99]],
-[837, [37]]
+[778, [66]],
+[779, [99]],
+[859, [37]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
 "files": [
-[756, [76]],
-[757, [109]],
-[837, [39]]
+[778, [76]],
+[779, [109]],
+[859, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "PrimaryButtonText":{
 "files": [
-[756, [84]],
-[757, [117]],
-[837, [40]]
+[778, [84]],
+[779, [117]],
+[859, [40]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowAsync`0":{
 "files": [
-[756, [85]],
-[757, [118]],
-[837, [41]]
+[778, [85]],
+[779, [118]],
+[859, [41]]
 ],
 "memberKind": "Method"
 }
 ,
 "Title":{
 "files": [
-[756, [75,80]],
-[757, [108,113]],
-[837, [38]]
+[778, [75,80]],
+[779, [108,113]],
+[859, [38]]
 ],
 "memberKind": "Property"
 }
@@ -41253,7 +42461,7 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[846, [70]]
+[868, [70]]
 ],
 "memberKind": "Method"
 }
@@ -41264,14 +42472,14 @@ var contents = {
 "members": {
 "Cancel":{
 "files": [
-[846, [48,53]]
+[868, [48,53]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[846, [61]]
+[868, [61]]
 ],
 "memberKind": "Method"
 }
@@ -41282,22 +42490,22 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[455, [80,88,89,96]]
+[472, [80,88,89,96]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentTransitions":{
 "files": [
-[847, [133,134]],
-[848, [111,112,119]]
+[869, [133,134]],
+[870, [111,112,119]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[847, [149,166,190]]
+[869, [149,166,190]]
 ],
 "memberKind": "Property"
 }
@@ -41308,7 +42516,7 @@ var contents = {
 "members": {
 "Handled":{
 "files": [
-[139, [83]]
+[149, [83]]
 ],
 "memberKind": "Property"
 }
@@ -41319,94 +42527,96 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[278, [206]],
-[279, [177]],
-[280, [153]],
-[458, [95]],
-[323, [95]],
-[301, [148]],
-[344, [173]],
-[343, [210]],
-[758, [99]],
-[759, [108]],
-[836, [76]],
-[342, [120]],
-[437, [82]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[291, [206]],
+[292, [177]],
+[293, [153]],
+[475, [95]],
+[338, [95]],
+[316, [148]],
+[361, [159]],
+[360, [203]],
+[780, [99]],
+[781, [108]],
+[858, [76]],
+[359, [120]],
+[453, [281]],
+[454, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[458, [96]],
-[323, [95]],
-[451, [63]],
-[437, [83]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[475, [96]],
+[338, [95]],
+[453, [281]],
+[468, [63]],
+[454, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "Background":{
 "files": [
-[543, [100]],
-[298, [107,112,156,162,262]],
-[545, [110,161]],
-[546, [110]],
-[420, [102]],
-[467, [84]]
+[560, [100]],
+[311, [107,112,156,162,262]],
+[562, [110,161]],
+[563, [110]],
+[437, [102]],
+[484, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClearValue`1":{
 "files": [
-[836, [106]],
-[436, [302]]
+[858, [106]],
+[453, [311]]
 ],
 "memberKind": "Method"
 }
 ,
 "DataContext":{
 "files": [
-[677, [52,83]],
-[328, [58]],
-[499, [126]]
+[699, [52,83]],
+[343, [58]],
+[516, [126]]
 ],
 "memberKind": "Property"
 }
 ,
 "DefaultStyleKey":{
 "files": [
-[840, [10]]
+[862, [10]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [51]]
+[509, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]],
-[590, [49]],
-[589, [226]],
-[591, [283]]
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]],
+[612, [49]],
+[611, [226]],
+[613, [283]]
 ],
 "memberKind": "Property"
 }
@@ -41416,260 +42626,268 @@ var contents = {
 [29, [244,245,266]],
 [33, [204,205,226]],
 [34, [202,203,224]],
-[465, [66]],
-[342, [115]]
+[482, [66]],
+[359, [115]]
 ],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
 "files": [
-[277, [85]],
-[288, [169,197]],
-[289, [165,191]],
-[529, [404]],
-[436, [126,232]],
-[720, [210,234]],
-[497, [167]],
-[190, [126]]
+[290, [85]],
+[301, [169,197]],
+[302, [165,191]],
+[546, [404]],
+[453, [67,135,241]],
+[742, [210,234]],
+[514, [167]],
+[200, [126]]
 ],
 "memberKind": "Method"
 }
 ,
 "Foreground":{
 "files": [
-[169, [60]],
-[171, [87,88,122,135,162,163,197,210]]
+[179, [60]],
+[181, [87,88,122,135,162,163,197,210]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[536, [91,96,101,107]],
-[836, [99]]
+[553, [91,96,101,107]],
+[858, [99]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[354, [57,58,71,93,139,140,161,162]],
-[355, [52,53,66,85,125,126,143,144]],
-[353, [64,65,78,102,148,149,172,173]],
-[356, [63,67,69,85,137,138,191,223,224]],
-[357, [63,64,77,99,147,148,169,170]],
-[265, [52,53,66,115,116,143,144,162,163]],
+[371, [57,58,71,93,139,140,161,162]],
+[372, [52,53,66,85,125,126,143,144]],
+[370, [64,65,78,102,148,149,172,173]],
+[373, [63,67,69,85,137,138,191,223,224]],
+[374, [63,64,77,99,147,148,169,170]],
+[278, [52,53,66,115,116,143,144,162,163]],
 [59, [180,181]],
-[359, [57,58,71,93,137,138,159,160]],
-[543, [107,108,109]],
-[298, [117,163,164,227,230,245,246,258,261,274]],
-[545, [107,108,158,159,257,258]],
-[546, [100,101,102,103,104,146,152,174,180,202,208,230,231,232,233,242,243,244,245]],
-[420, [108]],
-[191, [274,275,292,293,349,393]],
+[376, [57,58,71,93,137,138,159,160]],
+[560, [107,108,109]],
+[311, [117,163,164,227,230,245,246,258,261,274]],
+[562, [107,108,158,159,257,258]],
+[563, [100,101,102,103,104,146,152,174,180,202,208,230,231,232,233,242,243,244,245]],
+[437, [108]],
+[201, [274,275,292,293,349,393]],
 [61, [72,73,119,156,157,180,181]],
-[87, [126,127]],
-[88, [127,128]],
-[89, [126,127]],
 [90, [126,127]],
+[91, [127,128]],
+[92, [126,127]],
+[93, [126,127]],
 [60, [149,150,151]],
-[228, [126,127]],
-[299, [152,153,293,294]],
-[345, [395,396,397,398,417,418,419,420,431,432,433,434]],
-[361, [58,59,72,94,138,139,160,161]],
-[346, [77,78,188,189]],
-[347, [78,79,229,230]],
-[348, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
-[363, [58,59,72,94,164,165,186,187]],
-[362, [64,65,78,102,172,173,196,197]],
-[605, [167,171]],
-[284, [468,509,510,512]],
-[336, [54,58,71,77]],
-[337, [276,277]],
-[338, [55,59,71,77,90,95,107,114]],
-[267, [130,131,144,170,216,217,242,243]],
-[285, [497,531,532,534]],
-[387, [258,259,260,261,265,266,267,268,276,277,278,279,280,284,285,286,287,288,449,450,467,468]],
-[286, [495,529,530,532]],
-[403, [61,65,78,84,97,101,114,120]],
-[404, [448,449,450]],
-[405, [314,315,316,317,511,512,513,514]],
-[406, [75]],
-[73, [364,365]],
-[579, [79,80,81,91,92,93,172,173,243,244]],
-[323, [71,104,114]],
-[287, [72,176,181,201]],
-[75, [48,49,72,99,137,142]],
-[300, [49,80]],
-[277, [63,64,84,86]],
-[288, [66,67,168,170,175,176,196,198]],
-[289, [72,164,170,190]],
-[290, [73,173,178,198,205,221,225]],
-[663, [44,45]],
-[644, [44,45]],
-[161, [43,44]],
-[645, [44,45]],
-[502, [43,44]],
-[334, [43,44,57,96,97,123,124]],
-[335, [44,45,46,75,76,129,130,146,147,158,163,168,173]],
-[70, [262,263]],
-[209, [63,68,241,272,311]],
-[71, [271,272]],
-[366, [58,59,72,94,140,141,162,163]],
-[364, [64,65,78,102,148,149,172,173]],
-[365, [67,71,85,111]],
-[427, [89,90,99,100]],
-[369, [58,59,72,94,158,159,180,181]],
-[367, [64,65,78,102,166,167,190,191]],
-[601, [46]],
-[600, [76,138,187,389,449]],
-[685, [51]],
-[686, [104]],
-[372, [58,59,72,94,138,139,160,161]],
-[371, [64,65,78,102,146,147,170,171]],
-[758, [155,156,160,161,168,171,175,229,233]],
-[759, [165,166,170,171,178,181,185,239,243]],
-[350, [109,110,218,219]],
-[349, [109,110,238,239]],
-[413, [80,97,154,155,156]],
-[560, [62,79]],
-[559, [60]],
-[460, [62]],
+[238, [126,127]],
+[312, [152,153,293,294]],
+[362, [395,396,397,398,417,418,419,420,431,432,433,434]],
+[378, [58,59,72,94,138,139,160,161]],
+[276, [57,81,92,114,126,156,277]],
+[277, [49,164]],
+[70, [93,230]],
+[570, [59,61]],
+[568, [77,79]],
+[569, [75,77]],
+[363, [77,78,188,189]],
+[364, [78,79,229,230]],
+[365, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
+[380, [58,59,72,94,164,165,186,187]],
+[379, [64,65,78,102,172,173,196,197]],
+[627, [167,171]],
+[297, [468,509,510,512]],
+[353, [54,58,71,77]],
+[354, [276,277]],
+[355, [55,59,71,77,90,95,107,114]],
+[280, [130,131,144,170,216,217,242,243]],
+[298, [497,531,532,534]],
+[404, [258,259,260,261,265,266,267,268,276,277,278,279,280,284,285,286,287,288,449,450,467,468]],
+[299, [495,529,530,532]],
+[420, [61,65,78,84,97,101,114,120]],
+[421, [448,449,450]],
+[422, [314,315,316,317,511,512,513,514]],
+[423, [75]],
+[74, [364,365]],
+[601, [79,80,81,91,92,93,172,173,243,244]],
+[338, [71,104,114]],
+[300, [72,176,181,201]],
+[77, [48,49,72,99,137,142]],
+[313, [49,80]],
+[290, [63,64,84,86]],
+[301, [66,67,168,170,175,176,196,198]],
+[302, [72,164,170,190]],
+[303, [73,173,178,198,205,221,225]],
+[685, [44,45]],
+[666, [44,45]],
+[171, [43,44]],
+[667, [44,45]],
+[519, [43,44]],
+[349, [43,44,57,96,97,123,124]],
+[350, [44,45,46,75,76,129,130,146,147,158,163,168,173]],
+[71, [262,263]],
+[219, [63,68,241,272,311]],
+[72, [271,272]],
+[383, [58,59,72,94,140,141,162,163]],
+[381, [64,65,78,102,148,149,172,173]],
+[382, [67,71,85,111]],
+[444, [89,90,99,100]],
+[386, [58,59,72,94,158,159,180,181]],
+[384, [64,65,78,102,166,167,190,191]],
+[314, [93,95]],
+[315, [124,126]],
+[623, [46]],
+[622, [76,138,187,389,449]],
+[707, [51]],
+[708, [104]],
+[389, [58,59,72,94,138,139,160,161]],
+[388, [64,65,78,102,146,147,170,171]],
+[780, [155,156,160,161,168,171,175,229,233]],
+[781, [165,166,170,171,178,181,185,239,243]],
+[367, [109,110,218,219]],
+[366, [109,110,238,239]],
+[430, [80,97,154,155,156]],
+[581, [62,79]],
+[580, [60]],
+[477, [62]],
 [30, [149,150,151,165,166,167,168,169,170,171,242,243,244,247,248,249,250,252,253,254,255,256,264,265,338,339,341,342,343,344,345,346,420,459,460,461,462,463,464,465,466,569,570,571,572,573,574,575,578,579,580,581,582,583,584,585,639,640,641,642,684,685,695,696,714,762,763,771,772,780,781]],
-[566, [344,352,360,363,364,373,374,376]],
-[564, [316,324,332,334,335,343,344,346]],
-[500, [64,65,393,401,409,412,413,414,415,424,425,427,428,429]],
-[297, [86,87,217,218,231,232]],
-[312, [195,225,238,386,397,401,490,495,589,594,673,678]],
-[401, [84,89]],
-[578, [86,91]],
-[582, [84,89]],
-[394, [59,60]],
-[829, [18,22]],
-[258, [90,98]],
-[238, [48,55,85]],
-[239, [27,59]],
-[240, [27,59]],
-[241, [27,48]],
-[791, [23,53]],
-[804, [25,39]],
-[805, [24,37]],
-[736, [25,39]],
-[653, [45,52,59]],
-[806, [22,29]],
-[242, [28,41,46,109]],
-[244, [66,77]],
-[800, [23,56]],
-[808, [22,31]],
-[801, [26,44,49,71]],
+[588, [344,352,360,363,364,373,374,376]],
+[585, [316,324,332,334,335,343,344,346]],
+[517, [64,65,393,401,409,412,413,414,415,424,425,427,428,429]],
+[310, [86,87,217,218,231,232]],
+[327, [195,225,238,386,397,401,490,495,589,594,673,678]],
+[418, [84,89]],
+[600, [86,91]],
+[604, [84,89]],
+[411, [59,60]],
+[851, [18,22]],
+[269, [90,98]],
+[248, [48,55,85]],
+[249, [27,59]],
+[250, [27,59]],
+[251, [27,48]],
+[813, [23,53]],
+[826, [25,39]],
+[827, [24,37]],
+[758, [25,39]],
+[675, [45,52,59]],
+[828, [22,29]],
+[252, [28,41,46,109]],
+[254, [66,77]],
+[822, [23,56]],
+[830, [22,31]],
+[823, [26,44,49,71]],
 [66, [34,47]],
 [67, [39,58]],
-[783, [22,28,33,37]],
-[162, [76]],
-[376, [58,59,72,94,176,177,198,199]],
-[377, [64,65,78,102,183,184,207,208]],
-[271, [66,77,88]],
-[275, [70,85,135,168]],
-[276, [62,113]],
-[569, [40,49]],
-[120, [47,65]],
-[292, [112,113,126,145,146,163,164]],
-[294, [74,75,88,115,116,141,142]],
-[370, [58,59,72,94,140,141,162,163]],
-[368, [36,40]],
-[382, [58,59,72,94,156,157,178,179]],
-[381, [36,40]],
-[250, [70,71,72,73]],
-[295, [468,502,503,505]],
-[426, [107,111,132,252,267,281,305,306]],
-[565, [91,92,124,131,173]],
-[202, [162,163,206,207,527,528]],
-[203, [158,159,160,161,162,163,240,241,242,243,244,245,575,657,658,659,660,661,671]],
-[468, [121,122,142,143]],
-[383, [50,51,64,83,160,161,182,183]],
-[392, [57,74,144]],
-[399, [43,69]],
-[398, [44,89]],
-[396, [34,61]],
-[397, [33,57]],
-[393, [43,86]],
-[306, [43,105]],
-[390, [35,63]],
-[77, [44,45,71,72,77,78]],
-[590, [35,36,52,53]],
-[78, [73,74,111]],
-[529, [81,175,267,292,397]],
-[177, [77,240,248,263]],
-[166, [85,237,254,264]],
-[178, [72,73,262,263,271,272,281,282,378,379,437,438]],
-[573, [69,114,164,165,241,242,256,257,405,406,407]],
-[179, [63,64,196,197,280,281,328,329]],
-[180, [63,64,168,169,252,253,299,301]],
-[167, [82,83,234,235,243,244,257,258,346,347,392,393]],
-[609, [39,89]],
-[608, [38,102,108]],
-[711, [57,58,75,76]],
-[583, [65,112]],
-[449, [225,226]],
-[596, [130,158]],
-[592, [73,79,84,90]],
-[593, [71,77,82,88]],
-[594, [61,67,72,78]],
-[595, [62,68,73,79]],
-[492, [146]],
-[498, [40,46,52]],
-[229, [69,92]]
+[805, [22,28,33,37]],
+[172, [76]],
+[393, [58,59,72,94,176,177,198,199]],
+[394, [64,65,78,102,183,184,207,208]],
+[284, [66,77,88]],
+[288, [70,85,135,168]],
+[289, [62,113]],
+[591, [40,49]],
+[129, [47,65]],
+[305, [112,113,126,145,146,163,164]],
+[307, [74,75,88,115,116,141,142]],
+[387, [58,59,72,94,140,141,162,163]],
+[385, [36,40]],
+[399, [58,59,72,94,156,157,178,179]],
+[398, [36,40]],
+[260, [70,71,72,73]],
+[308, [468,502,503,505]],
+[443, [107,111,132,252,267,281,305,306]],
+[587, [91,92,124,131,173]],
+[212, [162,163,206,207,527,528]],
+[213, [158,159,160,161,162,163,240,241,242,243,244,245,575,657,658,659,660,661,671]],
+[485, [121,122,142,143]],
+[400, [50,51,64,83,160,161,182,183]],
+[409, [57,74,144]],
+[416, [43,69]],
+[415, [44,89]],
+[413, [34,61]],
+[414, [33,57]],
+[410, [43,86]],
+[321, [43,105]],
+[407, [35,63]],
+[79, [44,45,71,72,77,78]],
+[612, [35,36,52,53]],
+[80, [73,74,111]],
+[546, [81,175,267,292,397]],
+[187, [77,240,248,263]],
+[176, [85,237,254,264]],
+[188, [72,73,262,263,271,272,281,282,378,379,437,438]],
+[595, [69,114,164,165,241,242,256,257,405,406,407]],
+[189, [63,64,196,197,280,281,328,329]],
+[190, [63,64,168,169,252,253,299,301]],
+[177, [82,83,234,235,243,244,257,258,346,347,392,393]],
+[631, [39,89]],
+[630, [38,102,108]],
+[733, [57,58,75,76]],
+[605, [65,112]],
+[466, [225,226]],
+[618, [130,158]],
+[614, [73,79,84,90]],
+[615, [71,77,82,88]],
+[616, [61,67,72,78]],
+[617, [62,68,73,79]],
+[509, [146]],
+[515, [40,46,52]],
+[239, [69,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsTabStop":{
 "files": [
-[436, [214,216]]
+[453, [223,225]]
 ],
 "memberKind": "Property"
 }
 ,
 "Language":{
 "files": [
-[518, [59]]
+[535, [59]]
 ],
 "memberKind": "Property"
 }
 ,
 "Loaded":{
 "files": [
-[458, [89]],
-[326, [36]],
-[327, [36]],
-[328, [34]],
+[475, [89]],
+[341, [36]],
+[342, [36]],
+[343, [34]],
 [6, [24]],
-[436, [226,233]],
-[437, [79]]
+[453, [235,242]],
+[454, [79]]
 ],
 "memberKind": "Event"
 }
 ,
 "Margin":{
 "files": [
-[373, [114,122]],
-[374, [114,122]],
-[375, [114,122]]
+[390, [114,122]],
+[391, [114,122]],
+[392, [114,122]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxHeight":{
 "files": [
-[461, [103,107]]
+[478, [103,107]]
 ],
 "memberKind": "Property"
 }
 ,
 "MeasureOverride`1":{
 "files": [
-[492, [42]]
+[509, [42]]
 ],
 "memberKind": "Method"
 }
@@ -41679,217 +42897,225 @@ var contents = {
 [29, [218]],
 [33, [178]],
 [34, [176]],
-[675, [51]],
-[523, [106]],
-[841, [44]],
-[587, [66]],
-[181, [113]],
-[182, [112]],
-[554, [51]],
-[555, [51]],
-[818, [85]],
-[831, [33]],
-[497, [121]]
+[697, [51]],
+[540, [106]],
+[863, [44]],
+[609, [66]],
+[191, [113]],
+[192, [112]],
+[575, [51]],
+[576, [51]],
+[840, [85]],
+[853, [33]],
+[514, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
 "files": [
-[823, [48]],
-[824, [37]],
-[826, [42]],
-[492, [31]],
-[827, [33]],
-[849, [46]]
+[845, [48]],
+[846, [37]],
+[848, [42]],
+[509, [31]],
+[849, [33]],
+[871, [46]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnHolding`1":{
 "files": [
-[450, [129]]
+[467, [129]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnKeyDown`1":{
 "files": [
-[450, [92]]
+[467, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnKeyUp`1":{
 "files": [
-[450, [102]]
+[467, [102]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnPointerPressed`1":{
 "files": [
-[450, [136]]
+[467, [136]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnRightTapped`1":{
 "files": [
-[450, [149]]
+[467, [149]]
 ],
 "memberKind": "Method"
 }
 ,
 "Padding":{
 "files": [
-[342, [124]]
+[359, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegisterPropertyChangedCallback`2":{
 "files": [
-[720, [55]]
+[453, [70]],
+[742, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
 "files": [
-[436, [298]]
+[453, [307]]
 ],
 "memberKind": "Method"
 }
 ,
 "SizeChanged":{
 "files": [
-[842, [36]]
+[864, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "Style":{
 "files": [
-[677, [53]]
+[699, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[470, [190]],
-[471, [108]],
-[472, [139]],
-[473, [126]],
-[712, [161]],
-[713, [147]],
+[487, [190]],
+[488, [108]],
+[489, [139]],
+[490, [126]],
+[570, [81,102]],
+[568, [102,117,171]],
+[569, [106,126,190,225]],
+[734, [161]],
+[735, [147]],
 [29, [334]],
 [33, [294]],
 [34, [292]],
-[474, [108]],
-[475, [108]],
-[476, [117]],
-[477, [134]],
-[461, [158]],
-[715, [83]],
-[760, [42]],
-[478, [105]],
-[431, [155]],
-[155, [412]],
-[529, [103,126]],
-[177, [111,134]],
-[166, [121,143]],
-[178, [107,129]],
-[179, [93,116]],
-[180, [93,315]],
-[167, [117,140]],
-[181, [114,135]],
-[182, [113,134]],
-[435, [149]],
-[408, [60,71]],
-[479, [82]],
-[480, [112]],
-[481, [108]],
-[482, [107]],
-[483, [82]],
-[485, [82]],
-[488, [108]],
-[489, [108]],
-[815, [55,57,63,72,76,98]],
-[726, [41,66]],
-[850, [35]],
-[729, [35,60]],
-[843, [32]],
-[844, [33]],
-[845, [34,56]],
-[170, [162]]
+[491, [108]],
+[492, [108]],
+[493, [117]],
+[494, [134]],
+[478, [158]],
+[737, [83]],
+[782, [42]],
+[495, [105]],
+[448, [155]],
+[165, [412]],
+[546, [103,126]],
+[187, [111,134]],
+[176, [121,143]],
+[188, [107,129]],
+[189, [93,116]],
+[190, [93,315]],
+[177, [117,140]],
+[191, [114,135]],
+[192, [113,134]],
+[452, [149]],
+[425, [60,71]],
+[496, [82]],
+[497, [112]],
+[498, [108]],
+[499, [107]],
+[500, [82]],
+[502, [82]],
+[505, [108]],
+[506, [108]],
+[837, [55,57,63,72,76,98]],
+[748, [41,66]],
+[872, [35]],
+[751, [35,60]],
+[865, [32]],
+[866, [33]],
+[867, [34,56]],
+[180, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93]],
-[116, [109]],
-[191, [410]],
-[139, [59]],
-[323, [93]],
-[449, [215]],
-[451, [62]]
+[339, [91]],
+[295, [89]],
+[124, [93]],
+[125, [109]],
+[201, [410]],
+[149, [59]],
+[338, [93]],
+[466, [215]],
+[453, [280]],
+[468, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "Unloaded":{
 "files": [
-[458, [108]],
-[437, [102]]
+[475, [108]],
+[454, [102]]
 ],
 "memberKind": "Event"
 }
 ,
 "Visibility":{
 "files": [
-[373, [198,199,210,211]],
-[385, [50]],
-[387, [97]],
-[386, [49]],
-[209, [271,310]],
-[374, [198,199,210,211]],
-[312, [241,381]],
-[394, [241,245,252]],
-[650, [82,86,93]],
-[828, [23,25,31]],
-[829, [32,34,40]],
-[258, [110,111,116,117]],
-[375, [198,199,210,211]],
-[313, [95]],
-[121, [150,156]],
-[122, [29,52]],
-[315, [77,78,106,107]],
-[755, [45,46,57,58]],
-[412, [49,50,68,69]],
-[310, [131,158]],
-[492, [49]],
-[152, [81,134]],
-[436, [75]],
-[439, [71]]
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[390, [198,199,210,211]],
+[402, [50]],
+[404, [97]],
+[403, [49]],
+[219, [271,310]],
+[391, [198,199,210,211]],
+[327, [241,381]],
+[411, [241,245,252]],
+[672, [82,86,93]],
+[850, [23,25,31]],
+[851, [32,34,40]],
+[269, [110,111,116,117]],
+[392, [198,199,210,211]],
+[328, [95]],
+[130, [150,156]],
+[131, [29,52]],
+[330, [77,78,106,107]],
+[777, [45,46,57,58]],
+[429, [49,50,68,69]],
+[325, [131,158]],
+[509, [49]],
+[162, [81,134]],
+[453, [84]],
+[456, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[191, [411]],
+[201, [411]],
 [29, [168,173]],
 [33, [128,133]],
 [34, [126,131]],
-[449, [216]],
-[497, [175,179]],
-[498, [181,185]]
+[466, [216]],
+[514, [175,179]],
+[515, [181,185]]
 ],
 "memberKind": "Property"
 }
@@ -41904,23 +43130,23 @@ var contents = {
 [47, [59]],
 [50, [55]],
 [49, [72]],
-[832, [58]],
-[275, [108,117]],
-[851, [31]]
+[854, [58]],
+[288, [108,117]],
+[873, [31]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxYear":{
 "files": [
-[851, [37]]
+[873, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinYear":{
 "files": [
-[851, [34]]
+[873, [34]]
 ],
 "memberKind": "Property"
 }
@@ -41931,14 +43157,14 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[151, [84,86,142,144]]
+[161, [84,86,142,144]]
 ],
 "memberKind": "Property"
 }
 ,
 "Items":{
 "files": [
-[151, [78,140,142]]
+[161, [78,140,142]]
 ],
 "memberKind": "Property"
 }
@@ -41949,22 +43175,22 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[157, [76]]
+[167, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[157, [77]]
+[167, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "Hide`0":{
 "files": [
-[852, [58]],
-[830, [43]]
+[874, [58]],
+[852, [43]]
 ],
 "memberKind": "Method"
 }
@@ -41975,11 +43201,11 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[115, [133]],
-[116, [242]],
+[124, [133]],
+[125, [242]],
 [1, [64,91,106,117,134]],
-[470, [70,154]],
-[853, [44]],
+[487, [70,154]],
+[875, [44]],
 [9, [60]],
 [2, [60,95]],
 [10, [61]],
@@ -41996,14 +43222,14 @@ var contents = {
 [12, [44]],
 [0, [64,170]],
 [40, [92]],
-[117, [83]],
+[126, [83]],
 [13, [71]],
 [14, [64]],
 [15, [63]],
 [16, [63]],
-[118, [68]],
-[119, [101,152]],
-[120, [96]],
+[127, [68]],
+[128, [101,152]],
+[129, [96]],
 [17, [51]],
 [5, [31]],
 [43, [58]],
@@ -42011,7 +43237,7 @@ var contents = {
 [19, [56]],
 [20, [64]],
 [21, [46]],
-[204, [52]],
+[214, [52]],
 [23, [61]],
 [24, [64]],
 [25, [64]],
@@ -42030,28 +43256,28 @@ var contents = {
 ,
 "BackStack":{
 "files": [
-[712, [90,109]],
-[715, [29,35]],
-[462, [26]],
-[487, [52]],
-[436, [201]]
+[734, [90,109]],
+[737, [29,35]],
+[479, [26]],
+[504, [52]],
+[453, [210]]
 ],
 "memberKind": "Property"
 }
 ,
 "BackStackDepth":{
 "files": [
-[458, [332,339]],
-[436, [197]],
-[437, [321,328]]
+[475, [332,339]],
+[453, [206]],
+[454, [321,328]]
 ],
 "memberKind": "Property"
 }
 ,
 "CacheSize":{
 "files": [
-[847, [215,216,217]],
-[836, [119,120,121]]
+[869, [215,216,217]],
+[858, [119,120,121]]
 ],
 "memberKind": "Property"
 }
@@ -42059,40 +43285,40 @@ var contents = {
 "CanGoBack":{
 "files": [
 [10, [107]],
-[737, [43]],
-[458, [182,203]],
-[825, [47]],
-[738, [11,32]],
-[715, [28]],
-[462, [25]],
+[759, [43]],
+[475, [182,203]],
+[847, [47]],
+[760, [11,32]],
+[737, [28]],
+[479, [25]],
 [15, [21]],
-[431, [80]],
-[435, [98]],
-[436, [155]],
-[757, [48]],
-[437, [120,187,208]],
-[438, [72]],
-[439, [57]]
+[448, [80]],
+[452, [98]],
+[453, [164]],
+[779, [48]],
+[454, [120,187,208]],
+[455, [72]],
+[456, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "CanGoForward":{
 "files": [
-[458, [194,211]],
-[437, [199,216]]
+[475, [194,211]],
+[454, [199,216]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClearValue":{
 "files": [
-[636, [124]],
-[643, [135]],
-[649, [121]],
-[655, [124]],
-[656, [124]],
-[657, [122]]
+[658, [124]],
+[665, [135]],
+[671, [121]],
+[677, [124]],
+[678, [124]],
+[679, [122]]
 ],
 "memberKind": "?"
 }
@@ -42100,7 +43326,7 @@ var contents = {
 "Content":{
 "files": [
 [1, [80,94,110,138]],
-[470, [73,156]],
+[487, [73,156]],
 [9, [75]],
 [2, [75,115,123,142,150]],
 [10, [76]],
@@ -42118,11 +43344,11 @@ var contents = {
 [0, [86,126,180]],
 [40, [73]],
 [4, [82,92]],
-[750, [141]],
+[772, [141]],
 [13, [92,93]],
 [14, [77]],
 [15, [76]],
-[540, [197]],
+[557, [197]],
 [16, [78]],
 [5, [40]],
 [43, [100]],
@@ -42130,7 +43356,7 @@ var contents = {
 [19, [69]],
 [20, [77]],
 [21, [59]],
-[204, [58]],
+[214, [58]],
 [22, [78]],
 [23, [74]],
 [24, [77]],
@@ -42138,48 +43364,48 @@ var contents = {
 [26, [77]],
 [27, [67]],
 [28, [109]],
-[818, [37,51]],
-[815, [31]],
-[819, [37,51]],
-[820, [37,51]],
-[816, [30,43,57,103]]
+[840, [37,51]],
+[837, [31]],
+[841, [37,51]],
+[842, [37,51]],
+[838, [30,43,57,103]]
 ],
 "memberKind": "?"
 }
 ,
 "CurrentSourcePageType":{
 "files": [
-[194, [93,108,148]],
-[195, [86,101,145]],
-[196, [109,124,164]],
-[197, [86,101,141]],
-[198, [91,106,146]],
-[201, [119,139]],
-[436, [179]]
+[204, [93,108,148]],
+[205, [86,101,145]],
+[206, [109,124,164]],
+[207, [86,101,141]],
+[208, [91,106,146]],
+[211, [119,139]],
+[453, [188]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetNavigationState`0":{
 "files": [
-[636, [254]],
-[643, [265]],
-[649, [241]],
-[655, [254]],
-[656, [254]],
-[657, [242]]
+[658, [254]],
+[665, [265]],
+[671, [241]],
+[677, [254]],
+[678, [254]],
+[679, [242]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetValue":{
 "files": [
-[636, [122,159,164,195,218,222]],
-[643, [133,170,175,206,229,233]],
-[649, [152,157,182,205,209]],
-[655, [122,159,164,195,218,222]],
-[656, [122,159,164,195,218,222]],
-[657, [153,158,183,206,210]]
+[658, [122,159,164,195,218,222]],
+[665, [133,170,175,206,229,233]],
+[671, [152,157,182,205,209]],
+[677, [122,159,164,195,218,222]],
+[678, [122,159,164,195,218,222]],
+[679, [153,158,183,206,210]]
 ],
 "memberKind": "?"
 }
@@ -42187,39 +43413,39 @@ var contents = {
 "GoBack`0":{
 "files": [
 [10, [110]],
-[458, [203]],
-[854, [67]],
-[395, [126,233]],
-[825, [50]],
-[738, [35]],
-[462, [30]],
+[475, [203]],
+[876, [67]],
+[412, [126,256]],
+[847, [50]],
+[760, [35]],
+[479, [30]],
 [15, [24]],
-[431, [85]],
-[435, [103]],
-[486, [58,67,71]],
-[739, [45]],
-[487, [86,96,100]],
-[436, [159]],
-[757, [49]],
-[741, [89,94]],
-[437, [122,208]],
-[438, [74]],
-[439, [53]]
+[448, [85]],
+[452, [103]],
+[503, [58,67,71]],
+[761, [45]],
+[504, [86,96,100]],
+[453, [168]],
+[779, [49]],
+[763, [89,94]],
+[454, [122,208]],
+[455, [74]],
+[456, [53]]
 ],
 "memberKind": "Method"
 }
 ,
 "GoForward`0":{
 "files": [
-[458, [211]],
-[437, [216]]
+[475, [211]],
+[454, [216]]
 ],
 "memberKind": "Method"
 }
 ,
 "Height":{
 "files": [
-[203, [665]]
+[213, [665]]
 ],
 "memberKind": "?"
 }
@@ -42242,7 +43468,7 @@ var contents = {
 [16, [65]],
 [17, [54]],
 [18, [59,95]],
-[204, [54]],
+[214, [54]],
 [28, [91]]
 ],
 "memberKind": "?"
@@ -42250,96 +43476,96 @@ var contents = {
 ,
 "Navigate`2":{
 "files": [
-[115, [134]],
-[116, [243]],
+[124, [134]],
+[125, [243]],
 [1, [87,93,109,124,128,137]],
-[470, [72,92,136,155]],
-[853, [49]],
+[487, [72,92,136,155]],
+[875, [49]],
 [9, [80]],
-[471, [70]],
+[488, [70]],
 [2, [80,117,144]],
-[472, [95]],
+[489, [95]],
 [10, [81]],
-[473, [79]],
-[855, [48]],
+[490, [79]],
+[877, [48]],
 [35, [71]],
 [36, [71]],
 [37, [71]],
 [38, [71]],
 [39, [71]],
 [3, [80,86,247]],
-[854, [59]],
+[876, [59]],
 [11, [80]],
 [29, [237]],
 [33, [197]],
 [34, [195]],
-[474, [70]],
-[601, [32]],
-[600, [297]],
-[856, [81,94,108]],
-[475, [70]],
+[491, [70]],
+[623, [32]],
+[622, [297]],
+[878, [81,94,108]],
+[492, [70]],
 [12, [45]],
-[476, [92,136,137]],
+[493, [92,136,137]],
 [0, [69,131,171]],
-[477, [49,54,96]],
+[494, [49,54,96]],
 [40, [79]],
-[117, [84]],
+[126, [84]],
 [13, [90,98]],
-[461, [94]],
-[394, [119]],
-[650, [74]],
+[478, [94]],
+[411, [119]],
+[672, [74]],
 [14, [81,90]],
-[715, [71,75]],
+[737, [71,75]],
 [15, [81]],
-[540, [409]],
+[557, [409]],
 [16, [83]],
-[478, [67]],
-[118, [69]],
-[119, [102,153]],
-[120, [97]],
+[495, [67]],
+[127, [69]],
+[128, [102,153]],
+[129, [97]],
 [17, [77]],
-[431, [108]],
+[448, [108]],
 [5, [32]],
 [42, [44]],
 [43, [97]],
-[435, [92]],
+[452, [92]],
 [18, [77]],
 [19, [74]],
-[479, [67]],
-[480, [69]],
-[481, [70]],
-[482, [69]],
+[496, [67]],
+[497, [69]],
+[498, [70]],
+[499, [69]],
 [20, [82]],
-[483, [67]],
-[485, [67]],
+[500, [67]],
+[502, [67]],
 [21, [64]],
-[486, [99]],
-[847, [76,123]],
-[836, [113]],
-[857, [14,18,22,26,30,34]],
-[204, [60]],
-[848, [76,94]],
+[503, [99]],
+[869, [76,123]],
+[858, [113]],
+[879, [14,18,22,26,30,34]],
+[214, [60]],
+[870, [76,94]],
 [22, [82]],
-[436, [181]],
-[858, [27]],
-[488, [70]],
-[756, [89,93]],
+[453, [190]],
+[880, [27]],
+[505, [70]],
+[778, [89,93]],
 [23, [79]],
 [24, [82]],
 [25, [82]],
 [26, [86,90]],
 [27, [72]],
-[859, [72]],
-[489, [70]],
+[881, [72]],
+[506, [70]],
 [28, [112]],
-[815, [59,63]],
-[860, [29]],
-[184, [88,117,130,154]],
-[499, [127,141,149,154]],
-[438, [115,121]],
-[439, [104,108]],
-[190, [250,257]],
-[861, [129,135]]
+[837, [59,63]],
+[882, [29]],
+[194, [88,117,130,154]],
+[516, [127,141,149,154]],
+[455, [115,121]],
+[456, [104,108]],
+[200, [250,257]],
+[883, [129,135]]
 ],
 "memberKind": "Method"
 }
@@ -42368,7 +43594,7 @@ var contents = {
 [19, [58]],
 [20, [66]],
 [21, [48]],
-[204, [56]],
+[214, [56]],
 [22, [67]],
 [23, [63]],
 [24, [66]],
@@ -42382,31 +43608,31 @@ var contents = {
 ,
 "RenderTransform":{
 "files": [
-[203, [666]]
+[213, [666]]
 ],
 "memberKind": "?"
 }
 ,
 "SetNavigationState`1":{
 "files": [
-[636, [247]],
-[643, [258]],
-[649, [234]],
-[655, [247]],
-[656, [247]],
-[657, [235]]
+[658, [247]],
+[665, [258]],
+[671, [234]],
+[677, [247]],
+[678, [247]],
+[679, [235]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetValue":{
 "files": [
-[636, [171,177,237]],
-[643, [182,188,248]],
-[649, [164,224]],
-[655, [171,177,237]],
-[656, [171,177,237]],
-[657, [165,225]]
+[658, [171,177,237]],
+[665, [182,188,248]],
+[671, [164,224]],
+[677, [171,177,237]],
+[678, [171,177,237]],
+[679, [165,225]]
 ],
 "memberKind": "?"
 }
@@ -42422,7 +43648,7 @@ var contents = {
 ,
 "Width":{
 "files": [
-[203, [664]]
+[213, [664]]
 ],
 "memberKind": "?"
 }
@@ -42433,29 +43659,29 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[457, [537]]
+[474, [537]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ActualHeight":{
 "files": [
-[448, [151,153]],
-[451, [63]]
+[465, [151,153]],
+[468, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[448, [150,152]]
+[465, [150,152]]
 ],
 "memberKind": "Property"
 }
 ,
 "Background":{
 "files": [
-[600, [136,388,448]]
+[622, [136,388,448]]
 ],
 "memberKind": "Property"
 }
@@ -42465,151 +43691,152 @@ var contents = {
 [29, [111]],
 [33, [71]],
 [34, [69]],
-[201, [258,342]],
-[162, [127,242]],
-[457, [572]],
-[121, [104,109]]
+[211, [258,342]],
+[172, [127,242]],
+[474, [572]],
+[130, [104,109]]
 ],
 "memberKind": "Property"
 }
 ,
 "ColumnDefinitions":{
 "files": [
-[541, [161,162]]
+[558, [161,162]]
 ],
 "memberKind": "Property"
 }
 ,
 "ColumnProperty":{
 "files": [
-[541, [159]]
+[558, [159]]
 ],
 "memberKind": "Property"
 }
 ,
 "ColumnSpanProperty":{
 "files": [
-[541, [156]],
-[540, [253]]
+[558, [156]],
+[557, [253]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetColumnSpan`1":{
 "files": [
-[498, [179]]
+[515, [179]]
 ],
 "memberKind": "Method"
 }
 ,
 "Height":{
 "files": [
-[494, [25,28]],
-[465, [299]],
-[457, [537,545]],
-[467, [61]],
-[468, [105]],
-[448, [151]]
+[511, [25,28]],
+[482, [299]],
+[474, [537,545]],
+[484, [61]],
+[485, [105]],
+[465, [151]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[373, [113,121]],
+[390, [113,121]],
 [29, [160,161]],
 [33, [120,121]],
 [34, [118,119]],
-[374, [113,121]],
-[375, [113,121]],
-[862, [30,36]]
+[391, [113,121]],
+[392, [113,121]],
+[884, [30,36]]
 ],
 "memberKind": "Property"
 }
 ,
 "RenderTransform":{
 "files": [
-[201, [219,320]],
-[162, [125,200,343]]
+[211, [219,320]],
+[172, [125,200,343]]
 ],
 "memberKind": "Property"
 }
 ,
 "RowDefinitions":{
 "files": [
-[540, [246]],
-[342, [130]]
+[557, [246]],
+[359, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "RowProperty":{
 "files": [
-[541, [158]]
+[558, [158]]
 ],
 "memberKind": "Property"
 }
 ,
 "RowSpanProperty":{
 "files": [
-[342, [130]]
+[359, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetColumn`2":{
 "files": [
-[373, [111,119]],
+[390, [111,119]],
 [29, [186,189,192,197,200,203]],
 [33, [146,149,152,157,160,163]],
 [34, [144,147,150,155,158,161]],
-[374, [111,119]],
-[375, [111,119]]
+[391, [111,119]],
+[392, [111,119]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetRow`2":{
 "files": [
-[373, [110,118]],
+[390, [110,118]],
 [29, [185,188,191,196,199,202]],
 [33, [145,148,151,156,159,162]],
 [34, [143,146,149,154,157,160]],
-[374, [110,118]],
-[375, [110,118]],
-[121, [86,92,111]]
+[391, [110,118]],
+[392, [110,118]],
+[130, [86,92,111]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
 "files": [
-[457, [544,545]]
+[474, [544,545]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[523, [91]],
-[524, [101]],
-[201, [268,348]],
-[121, [85,91]]
+[276, [145,279]],
+[540, [91]],
+[541, [101]],
+[211, [268,348]],
+[130, [85,91]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[373, [106,108]],
-[374, [106,108]],
-[375, [106,108]],
-[494, [24,27]],
-[465, [298]],
-[457, [537,544]],
-[467, [60]],
-[468, [104]],
-[448, [150]]
+[390, [106,108]],
+[391, [106,108]],
+[392, [106,108]],
+[511, [24,27]],
+[482, [298]],
+[474, [537,544]],
+[484, [60]],
+[485, [104]],
+[465, [150]]
 ],
 "memberKind": "Property"
 }
@@ -42620,51 +43847,51 @@ var contents = {
 "members": {
 "ContainerContentChanging":{
 "files": [
-[695, [116,120]]
+[717, [116,120]]
 ],
 "memberKind": "Event"
 }
 ,
 "FlowDirection":{
 "files": [
-[863, [72,74,78]]
+[885, [72,74,78]]
 ],
 "memberKind": "?"
 }
 ,
 "Items":{
 "files": [
-[677, [56]]
+[699, [56]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemsSource":{
 "files": [
-[695, [66,87]],
-[152, [54]]
+[717, [66,87]],
+[162, [54]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemTemplate":{
 "files": [
-[695, [132,136,140]],
-[863, [47]]
+[717, [132,136,140]],
+[885, [47]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedItems":{
 "files": [
-[863, [56]]
+[885, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionMode":{
 "files": [
-[863, [90,94,97,100]]
+[885, [90,94,97,100]]
 ],
 "memberKind": "Property"
 }
@@ -42675,21 +43902,21 @@ var contents = {
 "members": {
 "OnApplyTemplate":{
 "files": [
-[842, [29]]
+[864, [29]]
 ],
 "memberKind": "?"
 }
 ,
 "Sections":{
 "files": [
-[864, [33]]
+[886, [33]]
 ],
 "memberKind": "Property"
 }
 ,
 "SectionsInView":{
 "files": [
-[859, [46]]
+[881, [46]]
 ],
 "memberKind": "Property"
 }
@@ -42700,14 +43927,14 @@ var contents = {
 "members": {
 "DataContext":{
 "files": [
-[499, [126]]
+[516, [126]]
 ],
 "memberKind": "Property"
 }
 ,
 "Header":{
 "files": [
-[864, [35,37]]
+[886, [35,37]]
 ],
 "memberKind": "Property"
 }
@@ -42718,7 +43945,7 @@ var contents = {
 "members": {
 "Section":{
 "files": [
-[499, [125]]
+[516, [125]]
 ],
 "memberKind": "Property"
 }
@@ -42729,41 +43956,41 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[716, [158,178]]
+[738, [158,178]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[470, [190]],
-[471, [108]],
-[472, [139]],
-[473, [126]],
-[712, [161]],
-[713, [147]],
+[487, [190]],
+[488, [108]],
+[489, [139]],
+[490, [126]],
+[734, [161]],
+[735, [147]],
 [29, [334]],
 [33, [294]],
 [34, [292]],
-[474, [108]],
-[475, [108]],
-[476, [117]],
-[477, [134]],
-[461, [158]],
-[715, [83]],
-[478, [105]],
-[431, [155]],
-[155, [412]],
-[435, [149]],
-[479, [82]],
-[480, [112]],
-[481, [108]],
-[482, [107]],
-[483, [82]],
-[485, [82]],
-[488, [108]],
-[489, [108]],
-[170, [162]]
+[491, [108]],
+[492, [108]],
+[493, [117]],
+[494, [134]],
+[478, [158]],
+[737, [83]],
+[495, [105]],
+[448, [155]],
+[165, [412]],
+[452, [149]],
+[496, [82]],
+[497, [112]],
+[498, [108]],
+[499, [107]],
+[500, [82]],
+[502, [82]],
+[505, [108]],
+[506, [108]],
+[180, [162]]
 ],
 "memberKind": "Property"
 }
@@ -42774,66 +44001,66 @@ var contents = {
 "members": {
 "Click":{
 "files": [
-[434, [67]],
-[818, [42,62]],
-[819, [42,62]],
-[820, [42,62]]
+[451, [67]],
+[840, [42,62]],
+[841, [42,62]],
+[842, [42,62]]
 ],
 "memberKind": "?"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [82,83,108,109,110]]
+[509, [82,83,108,109,110]]
 ],
 "memberKind": "?"
 }
 ,
 "Flyout":{
 "files": [
-[497, [168]]
+[514, [168]]
 ],
 "memberKind": "?"
 }
 ,
 "IsChecked":{
 "files": [
-[820, [90,93,96,99]]
+[842, [90,93,96,99]]
 ],
 "memberKind": "?"
 }
 ,
 "IsCompact":{
 "files": [
-[819, [78]]
+[841, [78]]
 ],
 "memberKind": "Property"
 }
 ,
 "Measure":{
 "files": [
-[492, [81]]
+[509, [81]]
 ],
 "memberKind": "?"
 }
 ,
 "Name":{
 "files": [
-[820, [85]]
+[842, [85]]
 ],
 "memberKind": "?"
 }
 ,
 "UpdateLayout":{
 "files": [
-[434, [59]]
+[451, [59]]
 ],
 "memberKind": "?"
 }
 ,
 "Visibility":{
 "files": [
-[740, [72,73,74,75,79,80,81,82]]
+[762, [72,73,74,75,79,80,81,82]]
 ],
 "memberKind": "?"
 }
@@ -42853,45 +44080,45 @@ var contents = {
 ,
 "DataContext":{
 "files": [
-[289, [49]],
-[834, [177]],
-[207, [41]],
-[710, [54]]
+[302, [49]],
+[856, [177]],
+[217, [41]],
+[732, [54]]
 ],
 "memberKind": "?"
 }
 ,
 "IsEnabled":{
 "files": [
-[284, [512]],
-[285, [534]],
-[286, [532]],
-[123, [57,62]],
+[297, [512]],
+[298, [534]],
+[299, [532]],
+[132, [57,62]],
 [30, [103,206,293]],
-[566, [361,362,372,375]],
-[564, [333,345]],
-[500, [410,411,423,426]],
-[291, [113,126]],
-[297, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
-[311, [108,118,128,149]],
-[312, [194,224,453,464,516,562,615,645,702]],
-[295, [505]],
-[468, [62,123,144]],
-[529, [200,235,246,341,366,375]],
-[177, [316,393,407]],
-[166, [295,307,329]],
-[178, [380,436]],
-[179, [282,327]],
-[180, [254,300]],
-[167, [348,391]],
-[127, [57,62]]
+[588, [361,362,372,375]],
+[585, [333,345]],
+[517, [410,411,423,426]],
+[304, [113,126]],
+[310, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
+[326, [108,118,128,149]],
+[327, [194,224,453,464,516,562,615,645,702]],
+[308, [505]],
+[485, [62,123,144]],
+[546, [200,235,246,341,366,375]],
+[187, [316,393,407]],
+[176, [295,307,329]],
+[188, [380,436]],
+[189, [282,327]],
+[190, [254,300]],
+[177, [348,391]],
+[136, [57,62]]
 ],
 "memberKind": "?"
 }
 ,
 "Loaded":{
 "files": [
-[825, [15]]
+[847, [15]]
 ],
 "memberKind": "?"
 }
@@ -42908,8 +44135,9 @@ var contents = {
 "Visibility":{
 "files": [
 [45, [286,296]],
-[686, [102]],
-[312, [454,465,517,563,616,646,703]]
+[276, [73,93,278]],
+[708, [102]],
+[327, [454,465,517,563,616,646,703]]
 ],
 "memberKind": "?"
 }
@@ -42920,32 +44148,32 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[457, [554]],
-[756, [70]],
-[757, [103]]
+[474, [554]],
+[778, [70]],
+[779, [103]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ActualHeight":{
 "files": [
-[201, [223,300,324]],
-[162, [143,204,347]]
+[211, [223,300,324]],
+[172, [143,204,347]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[201, [222,299,323]],
-[162, [142,203,346]]
+[211, [222,299,323]],
+[172, [142,203,346]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[457, [568]],
+[474, [568]],
 [43, [79]]
 ],
 "memberKind": "Property"
@@ -42953,16 +44181,16 @@ var contents = {
 ,
 "HorizontalAlignment":{
 "files": [
-[457, [554]],
-[756, [72]],
-[757, [105]]
+[474, [554]],
+[778, [72]],
+[779, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[541, [158,159]],
+[558, [158,159]],
 [43, [77,78]]
 ],
 "memberKind": "Method"
@@ -42970,67 +44198,68 @@ var contents = {
 ,
 "Source":{
 "files": [
-[634, [76,77,78,83,84,85]],
-[191, [272,286]],
-[134, [80]],
-[154, [209,224,328]],
-[669, [75,91]],
-[238, [49]],
-[653, [46]],
-[201, [201,289,345]],
-[162, [109]],
-[692, [68]],
-[457, [554]],
-[145, [105]],
-[147, [81]],
-[155, [193,208,312]],
-[202, [316,529]],
-[203, [144,231,663]],
-[710, [67,107]],
-[443, [78,112,161]],
-[756, [71]],
-[757, [104]],
-[507, [131]]
+[656, [76,77,78,83,84,85]],
+[201, [272,286]],
+[144, [80]],
+[164, [209,224,328]],
+[691, [75,91]],
+[248, [49]],
+[675, [46]],
+[676, [55]],
+[211, [201,289,345]],
+[172, [109]],
+[714, [68]],
+[474, [554]],
+[155, [105]],
+[157, [81]],
+[165, [193,208,312]],
+[212, [316,529]],
+[213, [144,231,663]],
+[732, [67,107]],
+[460, [78,112,161]],
+[778, [71]],
+[779, [104]],
+[524, [131]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stretch":{
 "files": [
-[457, [566]],
-[756, [74]],
-[757, [107]],
-[839, [37]]
+[474, [566]],
+[778, [74]],
+[779, [107]],
+[861, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "VerticalAlignment":{
 "files": [
-[457, [554]],
-[756, [73]],
-[757, [106]]
+[474, [554]],
+[778, [73]],
+[779, [106]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[134, [81,89]],
-[373, [158,171,200,212]],
-[374, [158,171,200,212]],
-[375, [158,171,200,212]],
-[692, [69,73,79,85]],
-[541, [155]],
-[540, [249]],
-[426, [105,250,264]]
+[144, [81,89]],
+[390, [158,171,200,212]],
+[391, [158,171,200,212]],
+[392, [158,171,200,212]],
+[714, [69,73,79,85]],
+[558, [155]],
+[557, [249]],
+[443, [105,250,264]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[457, [567]],
+[474, [567]],
 [43, [80]]
 ],
 "memberKind": "Property"
@@ -43049,12 +44278,12 @@ var contents = {
 ,
 "ClearValue":{
 "files": [
-[636, [124]],
-[643, [135]],
-[649, [121]],
-[655, [124]],
-[656, [124]],
-[657, [122]]
+[658, [124]],
+[665, [135]],
+[671, [121]],
+[677, [124]],
+[678, [124]],
+[679, [122]]
 ],
 "memberKind": "?"
 }
@@ -43062,7 +44291,7 @@ var contents = {
 "Content":{
 "files": [
 [1, [80,94,110,138]],
-[470, [73,156]],
+[487, [73,156]],
 [9, [75]],
 [2, [75,115,123,142,150]],
 [10, [76]],
@@ -43080,11 +44309,11 @@ var contents = {
 [0, [86,126,180]],
 [40, [73]],
 [4, [82,92]],
-[750, [141]],
+[772, [141]],
 [13, [92,93]],
 [14, [77]],
 [15, [76]],
-[540, [197]],
+[557, [197]],
 [16, [78]],
 [5, [40]],
 [43, [100]],
@@ -43092,7 +44321,7 @@ var contents = {
 [19, [69]],
 [20, [77]],
 [21, [59]],
-[204, [58]],
+[214, [58]],
 [22, [78]],
 [23, [74]],
 [24, [77]],
@@ -43100,30 +44329,30 @@ var contents = {
 [26, [77]],
 [27, [67]],
 [28, [109]],
-[818, [37,51]],
-[815, [31]],
-[819, [37,51]],
-[820, [37,51]],
-[816, [30,43,57,103]]
+[840, [37,51]],
+[837, [31]],
+[841, [37,51]],
+[842, [37,51]],
+[838, [30,43,57,103]]
 ],
 "memberKind": "?"
 }
 ,
 "GetValue":{
 "files": [
-[636, [122,159,164,195,218,222]],
-[643, [133,170,175,206,229,233]],
-[649, [152,157,182,205,209]],
-[655, [122,159,164,195,218,222]],
-[656, [122,159,164,195,218,222]],
-[657, [153,158,183,206,210]]
+[658, [122,159,164,195,218,222]],
+[665, [133,170,175,206,229,233]],
+[671, [152,157,182,205,209]],
+[677, [122,159,164,195,218,222]],
+[678, [122,159,164,195,218,222]],
+[679, [153,158,183,206,210]]
 ],
 "memberKind": "?"
 }
 ,
 "Height":{
 "files": [
-[203, [665]]
+[213, [665]]
 ],
 "memberKind": "?"
 }
@@ -43146,7 +44375,7 @@ var contents = {
 [16, [65]],
 [17, [54]],
 [18, [59,95]],
-[204, [54]],
+[214, [54]],
 [28, [91]]
 ],
 "memberKind": "?"
@@ -43154,19 +44383,19 @@ var contents = {
 ,
 "RenderTransform":{
 "files": [
-[203, [666]]
+[213, [666]]
 ],
 "memberKind": "?"
 }
 ,
 "SetValue":{
 "files": [
-[636, [171,177,237]],
-[643, [182,188,248]],
-[649, [164,224]],
-[655, [171,177,237]],
-[656, [171,177,237]],
-[657, [165,225]]
+[658, [171,177,237]],
+[665, [182,188,248]],
+[671, [164,224]],
+[677, [171,177,237]],
+[678, [171,177,237]],
+[679, [165,225]]
 ],
 "memberKind": "?"
 }
@@ -43182,7 +44411,7 @@ var contents = {
 ,
 "Width":{
 "files": [
-[203, [664]]
+[213, [664]]
 ],
 "memberKind": "?"
 }
@@ -43193,28 +44422,28 @@ var contents = {
 "members": {
 "Height":{
 "files": [
-[467, [63]],
-[468, [107]],
-[448, [153]]
+[484, [63]],
+[485, [107]],
+[465, [153]]
 ],
 "memberKind": "Property"
 }
 ,
 "InkPresenter":{
 "files": [
-[467, [51,52,53,54,80,87,95,107,115,143,150,158,171,173,200,208,214,220,226,232]],
-[468, [79,80,118,125,154]],
-[448, [39,43,45,46,47,50,51,89,129,158,164,165,171,176,178]],
-[493, [34]]
+[484, [51,52,53,54,80,87,95,107,115,143,150,158,171,173,200,208,214,220,226,232]],
+[485, [79,80,118,125,154]],
+[465, [39,43,45,46,47,50,51,89,129,158,164,165,171,176,178]],
+[510, [34]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[467, [62]],
-[468, [106]],
-[448, [152]]
+[484, [62]],
+[485, [106]],
+[465, [152]]
 ],
 "memberKind": "Property"
 }
@@ -43225,22 +44454,22 @@ var contents = {
 "members": {
 "ContainerFromItem":{
 "files": [
-[836, [76]]
+[858, [76]]
 ],
 "memberKind": "?"
 }
 ,
 "DataContext":{
 "files": [
-[275, [40]]
+[288, [40]]
 ],
 "memberKind": "?"
 }
 ,
 "FlowDirection":{
 "files": [
-[863, [72,74,78]],
-[865, [72,74,78]]
+[885, [72,74,78]],
+[887, [72,74,78]]
 ],
 "memberKind": "?"
 }
@@ -43254,113 +44483,113 @@ var contents = {
 ,
 "Items":{
 "files": [
-[677, [56]],
-[596, [133,161,162]],
-[410, [67,116,151,159]],
-[315, [84,87,90,95,100,103,125,136,141,155,166,171,173,189,200,205,217,222,230,235,243,255,271]],
-[411, [51,70,73,104,109,134,139]],
-[755, [49,52,55,75,86,91,98,114]],
-[412, [62,65,79,96,107,112,139]],
-[847, [158,183,196]]
+[699, [56]],
+[618, [133,161,162]],
+[427, [67,116,151,159]],
+[330, [84,87,90,95,100,103,125,136,141,155,166,171,173,189,200,205,217,222,230,235,243,255,271]],
+[428, [51,70,73,104,109,134,139]],
+[777, [49,52,55,75,86,91,98,114]],
+[429, [62,65,79,96,107,112,139]],
+[869, [158,183,196]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemsSource":{
 "files": [
-[866, [43]],
-[856, [104]],
-[685, [55]],
+[888, [43]],
+[878, [104]],
+[707, [55]],
 [30, [93,146,214,405]],
-[732, [25]],
-[788, [25]],
-[306, [95]],
-[867, [42]],
-[314, [53]],
-[695, [66,87]],
-[484, [37,55]],
-[151, [43,44]],
-[152, [54]],
-[847, [33]],
-[848, [35,46]],
-[454, [53]],
-[868, [36]],
-[864, [41]]
+[754, [25]],
+[810, [25]],
+[321, [95]],
+[889, [42]],
+[329, [53]],
+[717, [66,87]],
+[501, [37,55]],
+[161, [43,44]],
+[162, [54]],
+[869, [33]],
+[870, [35,46]],
+[471, [53]],
+[890, [36]],
+[886, [41]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemTemplate":{
 "files": [
-[695, [132,136,140]],
-[863, [47]],
-[865, [47]]
+[717, [132,136,140]],
+[885, [47]],
+[887, [47]]
 ],
 "memberKind": "?"
 }
 ,
 "OnApplyTemplate":{
 "files": [
-[720, [68]],
-[842, [29]]
+[742, [68]],
+[864, [29]]
 ],
 "memberKind": "?"
 }
 ,
 "OnKeyDown":{
 "files": [
-[720, [190]]
+[742, [190]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedIndex":{
 "files": [
-[866, [53,57]],
-[867, [52,56]],
-[315, [219,232,245,257,273]],
-[411, [106,136]],
-[755, [100,116]],
-[412, [141]],
-[847, [50,143,145,160,172,185]],
-[838, [34,43]]
+[888, [53,57]],
+[889, [52,56]],
+[330, [219,232,245,257,273]],
+[428, [106,136]],
+[777, [100,116]],
+[429, [141]],
+[869, [50,143,145,160,172,185]],
+[860, [34,43]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedItem":{
 "files": [
-[290, [203,215]],
-[715, [54,59]],
-[120, [129,131]],
-[310, [151,173]],
-[847, [64,82,97,146,161,186]],
-[848, [106]],
-[756, [59]],
-[757, [129]]
+[303, [203,215]],
+[737, [54,59]],
+[129, [129,131]],
+[325, [151,173]],
+[869, [64,82,97,146,161,186]],
+[870, [106]],
+[778, [59]],
+[779, [129]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedValue":{
 "files": [
-[856, [77,79]]
+[878, [77,79]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectionChanged":{
 "files": [
-[866, [75,76]],
-[856, [45]],
-[867, [74,75]]
+[888, [75,76]],
+[878, [45]],
+[889, [74,75]]
 ],
 "memberKind": "?"
 }
 ,
 "Visibility":{
 "files": [
-[484, [49]]
+[501, [49]]
 ],
 "memberKind": "?"
 }
@@ -43371,20 +44600,20 @@ var contents = {
 "members": {
 "ClickedItem":{
 "files": [
-[191, [314]],
-[869, [48]],
-[449, [152]],
-[847, [119]],
-[848, [88]],
-[720, [218]],
-[858, [29]],
-[863, [62]],
-[865, [62]],
-[490, [89]],
-[499, [140,148]],
-[438, [115]],
-[190, [252]],
-[861, [128]]
+[201, [314]],
+[891, [48]],
+[466, [152]],
+[869, [119]],
+[870, [88]],
+[742, [218]],
+[880, [29]],
+[885, [62]],
+[887, [62]],
+[507, [89]],
+[516, [140,148]],
+[455, [115]],
+[200, [252]],
+[883, [128]]
 ],
 "memberKind": "Property"
 }
@@ -43395,36 +44624,39 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[298, [170]],
-[283, [80]],
+[311, [170]],
+[296, [80]],
+[276, [68,280]],
+[277, [165]],
+[70, [231]],
 [30, [737]],
-[291, [110,119]],
-[297, [96,101,106,111,133,134,178,179,259,269,279,305,315,325,344]],
-[311, [106,116,126,148]],
-[312, [140,449,460,514,558,613,641,692]],
-[603, [38]],
-[596, [133,161]],
-[410, [67]],
-[315, [84,87,100]],
-[411, [51,70]],
-[755, [49]],
-[412, [62,79]]
+[304, [110,119]],
+[310, [96,101,106,111,133,134,178,179,259,269,279,305,315,325,344]],
+[326, [106,116,126,148]],
+[327, [140,449,460,514,558,613,641,692]],
+[625, [38]],
+[618, [133,161]],
+[427, [67]],
+[330, [84,87,100]],
+[428, [51,70]],
+[777, [49]],
+[429, [62,79]]
 ],
 "memberKind": "Method"
 }
 ,
 "IndexOf`2":{
 "files": [
-[385, [92,125,149]]
+[402, [92,125,149]]
 ],
 "memberKind": "Method"
 }
 ,
 "RemoveAt`1":{
 "files": [
-[315, [171,205]],
-[755, [91]],
-[412, [112]]
+[330, [171,205]],
+[777, [91]],
+[429, [112]]
 ],
 "memberKind": "Method"
 }
@@ -43435,7 +44667,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[157, [70]]
+[167, [70]]
 ],
 "memberKind": "Constructor"
 }
@@ -43451,158 +44683,162 @@ var contents = {
 ,
 "ContainerFromItem`1":{
 "files": [
-[438, [103]]
+[455, [103]]
 ],
 "memberKind": "Method"
 }
 ,
 "DataContext":{
 "files": [
-[289, [49]],
-[834, [177]],
-[207, [41]],
-[710, [54]]
+[302, [49]],
+[856, [177]],
+[217, [41]],
+[732, [54]]
 ],
 "memberKind": "?"
 }
 ,
 "DisplayMemberPath":{
 "files": [
-[123, [286]],
-[127, [236]]
+[132, [286]],
+[136, [236]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[284, [512]],
-[285, [534]],
-[286, [532]],
-[123, [57,62]],
+[297, [512]],
+[298, [534]],
+[299, [532]],
+[132, [57,62]],
 [30, [103,206,293]],
-[566, [361,362,372,375]],
-[564, [333,345]],
-[500, [410,411,423,426]],
-[291, [113,126]],
-[297, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
-[311, [108,118,128,149]],
-[312, [194,224,453,464,516,562,615,645,702]],
-[295, [505]],
-[468, [62,123,144]],
-[529, [200,235,246,341,366,375]],
-[177, [316,393,407]],
-[166, [295,307,329]],
-[178, [380,436]],
-[179, [282,327]],
-[180, [254,300]],
-[167, [348,391]],
-[127, [57,62]]
+[588, [361,362,372,375]],
+[585, [333,345]],
+[517, [410,411,423,426]],
+[304, [113,126]],
+[310, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
+[326, [108,118,128,149]],
+[327, [194,224,453,464,516,562,615,645,702]],
+[308, [505]],
+[485, [62,123,144]],
+[546, [200,235,246,341,366,375]],
+[187, [316,393,407]],
+[176, [295,307,329]],
+[188, [380,436]],
+[189, [282,327]],
+[190, [254,300]],
+[177, [348,391]],
+[136, [57,62]]
 ],
 "memberKind": "?"
 }
 ,
 "Items":{
 "files": [
-[470, [120,122]],
-[298, [170,172,175]],
-[283, [80,105,114,118]],
-[262, [254]],
+[487, [120,122]],
+[311, [170,172,175]],
+[296, [80,105,114,118]],
+[273, [254]],
 [68, [314]],
-[385, [92,125,149]],
-[406, [66]],
+[276, [68,71,189,222,280]],
+[277, [115,165,222]],
+[70, [175,231,264]],
+[568, [172]],
+[402, [92,125,149]],
+[423, [66]],
 [30, [737]],
-[291, [110,112,119,123]],
-[297, [96,97,101,102,106,107,111,112,133,134,144,154,178,179,189,199,259,260,269,270,279,280,305,306,315,316,325,326,344,345,346,347,348,349,352,355]],
-[311, [106,107,116,117,126,127,148,256,257]],
-[312, [140,145,449,460,514,558,613,641,692,697]],
-[825, [75]],
-[603, [38,92,159]],
-[351, [52]],
-[468, [57,63]],
-[529, [106]],
-[177, [114]],
-[166, [124]],
-[178, [110]],
-[179, [96]],
-[180, [96]],
-[167, [120]],
-[181, [116]],
-[182, [115]],
-[438, [101]]
+[304, [110,112,119,123]],
+[310, [96,97,101,102,106,107,111,112,133,134,144,154,178,179,189,199,259,260,269,270,279,280,305,306,315,316,325,326,344,345,346,347,348,349,352,355]],
+[326, [106,107,116,117,126,127,148,256,257]],
+[327, [140,145,449,460,514,558,613,641,692,697]],
+[847, [75]],
+[625, [38,92,159]],
+[368, [52]],
+[485, [57,63]],
+[546, [106]],
+[187, [114]],
+[176, [124]],
+[188, [110]],
+[189, [96]],
+[190, [96]],
+[177, [120]],
+[191, [116]],
+[192, [115]],
+[455, [101]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemsPanelRoot":{
 "files": [
-[825, [20,63]]
+[847, [20,63]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemsSource":{
 "files": [
-[470, [56]],
-[471, [44]],
-[508, [82]],
-[173, [108,109]],
-[472, [69]],
-[473, [48]],
-[123, [285]],
-[323, [43]],
-[287, [47]],
-[75, [37]],
-[300, [38]],
-[290, [47]],
+[487, [56]],
+[488, [44]],
+[525, [82]],
+[183, [108,109]],
+[489, [69]],
+[490, [48]],
+[132, [285]],
+[338, [43]],
+[300, [47]],
+[77, [37]],
+[313, [38]],
+[303, [47]],
 [29, [223]],
 [33, [183]],
 [34, [181]],
-[474, [44]],
-[870, [88]],
-[686, [70,89,90]],
-[475, [44]],
-[477, [70]],
+[491, [44]],
+[892, [88]],
+[708, [70,89,90]],
+[492, [44]],
+[494, [70]],
 [30, [124,745]],
-[587, [71]],
-[117, [44,47,53]],
-[750, [37]],
-[461, [53]],
-[394, [64,139,157,175,200]],
+[609, [71]],
+[126, [44,47,53]],
+[772, [37]],
+[478, [53]],
+[411, [64,139,157,175,200]],
 [67, [30]],
-[157, [70]],
-[478, [41]],
-[431, [51,55]],
-[143, [34]],
-[435, [59]],
-[127, [235]],
-[716, [161]],
-[479, [44]],
-[821, [54]],
-[480, [43]],
-[481, [44]],
-[482, [43]],
-[483, [44]],
-[485, [44]],
-[488, [44]],
-[489, [44]],
-[507, [46,69,71]],
-[518, [42]],
-[439, [93,95]]
+[167, [70]],
+[495, [41]],
+[448, [51,55]],
+[153, [34]],
+[452, [59]],
+[136, [235]],
+[738, [161]],
+[496, [44]],
+[843, [54]],
+[497, [43]],
+[498, [44]],
+[499, [43]],
+[500, [44]],
+[502, [44]],
+[505, [44]],
+[506, [44]],
+[524, [46,69,71]],
+[535, [42]],
+[456, [93,95]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemTemplate":{
 "files": [
-[157, [70]]
+[167, [70]]
 ],
 "memberKind": "Property"
 }
 ,
 "Loaded":{
 "files": [
-[825, [15]]
+[847, [15]]
 ],
 "memberKind": "?"
 }
@@ -43619,8 +44855,9 @@ var contents = {
 "Visibility":{
 "files": [
 [45, [286,296]],
-[686, [102]],
-[312, [454,465,517,563,616,646,703]]
+[276, [73,93,278]],
+[708, [102]],
+[327, [454,465,517,563,616,646,703]]
 ],
 "memberKind": "?"
 }
@@ -43640,65 +44877,68 @@ var contents = {
 ,
 "IsEnabled":{
 "files": [
-[284, [512]],
-[285, [534]],
-[286, [532]],
+[297, [512]],
+[298, [534]],
+[299, [532]],
 [30, [103,206,293]],
-[291, [113,126]],
-[297, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
-[311, [108,118,128,149]],
-[295, [505]]
+[304, [113,126]],
+[310, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
+[326, [108,118,128,149]],
+[308, [505]]
 ],
 "memberKind": "?"
 }
 ,
 "Items":{
 "files": [
-[470, [120,122]],
-[298, [170,172,175]],
-[283, [80,105,114,118]],
-[262, [254]],
+[487, [120,122]],
+[311, [170,172,175]],
+[296, [80,105,114,118]],
+[273, [254]],
 [68, [314]],
+[276, [68,71,189,222,280]],
+[277, [115,165,222]],
+[70, [175,231,264]],
 [30, [737]],
-[291, [110,112,119,123]],
-[297, [96,97,101,102,106,107,111,112,133,134,144,154,178,179,189,199,259,260,269,270,279,280,305,306,315,316,325,326,344,345,346,347,348,349,352,355]],
-[311, [106,107,116,117,126,127,148,256,257]],
-[603, [38,92,159]]
+[304, [110,112,119,123]],
+[310, [96,97,101,102,106,107,111,112,133,134,144,154,178,179,189,199,259,260,269,270,279,280,305,306,315,316,325,326,344,345,346,347,348,349,352,355]],
+[326, [106,107,116,117,126,127,148,256,257]],
+[625, [38,92,159]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemsSource":{
 "files": [
-[470, [56]],
-[471, [44]],
-[472, [69]],
-[473, [48]],
+[487, [56]],
+[488, [44]],
+[489, [69]],
+[490, [48]],
 [29, [223]],
 [33, [183]],
 [34, [181]],
-[474, [44]],
-[870, [88]],
-[475, [44]],
-[477, [70]],
+[491, [44]],
+[892, [88]],
+[492, [44]],
+[494, [70]],
 [30, [124,745]],
-[587, [71]],
-[117, [44,47,53]],
-[750, [37]],
-[461, [53]],
-[394, [64,139,157,175,200]],
-[478, [41]],
-[431, [51,55]],
-[435, [59]],
-[716, [161]],
-[479, [44]],
-[480, [43]],
-[481, [44]],
-[482, [43]],
-[483, [44]],
-[485, [44]],
-[488, [44]],
-[489, [44]]
+[609, [71]],
+[126, [44,47,53]],
+[772, [37]],
+[478, [53]],
+[411, [64,139,157,175,200]],
+[495, [41]],
+[448, [51,55]],
+[452, [59]],
+[738, [161]],
+[496, [44]],
+[497, [43]],
+[498, [44]],
+[499, [43]],
+[500, [44]],
+[502, [44]],
+[505, [44]],
+[506, [44]]
 ],
 "memberKind": "Property"
 }
@@ -43714,120 +44954,129 @@ var contents = {
 ,
 "ScrollIntoView`1":{
 "files": [
-[472, [47,53]],
-[311, [257]],
-[431, [62]],
-[435, [65]]
+[489, [47,53]],
+[326, [257]],
+[448, [62]],
+[452, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "SelectedIndex":{
 "files": [
-[470, [64,89,130]],
-[471, [47,51]],
-[472, [46,52,72,76]],
-[298, [183,256]],
-[473, [51,55]],
-[284, [490,496]],
-[285, [512,518]],
-[286, [510,516]],
+[487, [64,89,130]],
+[488, [47,51]],
+[489, [46,52,72,76]],
+[311, [183,256]],
+[490, [51,55]],
+[276, [95]],
+[109, [103]],
+[297, [490,496]],
+[298, [512,518]],
+[299, [510,516]],
 [29, [224]],
 [33, [184]],
 [34, [182]],
-[474, [47,51]],
-[475, [47,51]],
-[841, [50]],
-[477, [73,77]],
+[491, [47,51]],
+[492, [47,51]],
+[863, [50]],
+[494, [73,77]],
 [30, [746]],
-[297, [253,299]],
-[311, [100]],
-[312, [157]],
-[587, [74]],
+[310, [253,299]],
+[326, [100]],
+[327, [157]],
+[609, [74]],
 [4, [93]],
-[117, [45,48]],
-[461, [56,60]],
-[478, [44,48]],
-[431, [61,69,73,107]],
-[295, [483,489]],
+[126, [45,48]],
+[478, [56,60]],
+[495, [44,48]],
+[448, [61,69,73,107]],
+[308, [483,489]],
 [5, [77]],
-[435, [64,72,91]],
-[871, [40]],
-[479, [47,51]],
-[480, [46,50]],
-[481, [47,51]],
-[482, [46,50]],
-[483, [47,51]],
-[485, [47,51]],
-[488, [47,51]],
-[489, [47,51]],
-[728, [64]]
+[452, [64,72,91]],
+[893, [40]],
+[496, [47,51]],
+[497, [46,50]],
+[498, [47,51]],
+[499, [46,50]],
+[500, [47,51]],
+[502, [47,51]],
+[505, [47,51]],
+[506, [47,51]],
+[750, [64]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedItem":{
 "files": [
-[470, [132]],
-[452, [126]],
-[471, [67]],
-[472, [47,53,92]],
-[473, [76]],
-[283, [149,159,184,210]],
+[487, [132]],
+[469, [126]],
+[488, [67]],
+[489, [47,53,92]],
+[490, [76]],
+[296, [149,159,184,210]],
 [29, [295,299]],
 [33, [255,259]],
 [34, [253,257]],
-[474, [67]],
-[475, [67]],
-[841, [39,43,68]],
-[477, [93]],
-[587, [92,94]],
-[117, [98,99,100]],
-[750, [111]],
-[461, [85]],
-[394, [127,147,165,183,227]],
-[478, [64]],
-[431, [62,104]],
-[435, [65,88]],
-[479, [64]],
-[480, [66]],
-[481, [67]],
-[482, [66]],
-[483, [64]],
-[485, [64]],
-[488, [67]],
-[489, [67]]
+[491, [67]],
+[492, [67]],
+[863, [39,43,68]],
+[494, [93]],
+[609, [92,94]],
+[126, [98,99,100]],
+[772, [111]],
+[478, [85]],
+[411, [127,147,165,183,227]],
+[495, [64]],
+[448, [62,104]],
+[452, [65,88]],
+[496, [64]],
+[497, [66]],
+[498, [67]],
+[499, [66]],
+[500, [64]],
+[502, [64]],
+[505, [67]],
+[506, [67]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedItems":{
 "files": [
-[284, [110,139]],
-[285, [127,156]],
-[286, [128,157]],
-[603, [106,145]],
-[295, [127,156]]
+[297, [110,139]],
+[298, [127,156]],
+[299, [128,157]],
+[625, [106,145]],
+[308, [127,156]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
 "files": [
-[317, [130]]
+[332, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionChanged":{
 "files": [
-[470, [51,119,148]],
+[487, [51,119,148]],
 [29, [116]],
 [33, [76]],
 [34, [74]],
-[841, [58]]
+[863, [58]]
 ],
 "memberKind": "Event"
+}
+,
+"Visibility":{
+"files": [
+[276, [73,93,278]]
+],
+"memberKind": "?"
 }
 }
 }
@@ -43839,7 +45088,7 @@ var contents = {
 [29, [215]],
 [33, [175]],
 [34, [173]],
-[587, [65]]
+[609, [65]]
 ],
 "memberKind": "Constructor"
 }
@@ -43849,7 +45098,7 @@ var contents = {
 [29, [217,300]],
 [33, [177,260]],
 [34, [175,258]],
-[587, [67,95]]
+[609, [67,95]]
 ],
 "memberKind": "Property"
 }
@@ -43859,8 +45108,8 @@ var contents = {
 [29, [218]],
 [33, [178]],
 [34, [176]],
-[841, [44]],
-[587, [66]]
+[863, [44]],
+[609, [66]]
 ],
 "memberKind": "Property"
 }
@@ -43871,21 +45120,21 @@ var contents = {
 "members": {
 "ContainerFromItem":{
 "files": [
-[836, [76]]
+[858, [76]]
 ],
 "memberKind": "?"
 }
 ,
 "DataContext":{
 "files": [
-[275, [40]]
+[288, [40]]
 ],
 "memberKind": "?"
 }
 ,
 "FlowDirection":{
 "files": [
-[865, [72,74,78]]
+[887, [72,74,78]]
 ],
 "memberKind": "?"
 }
@@ -43899,136 +45148,136 @@ var contents = {
 ,
 "ItemClick":{
 "files": [
-[866, [66,67]],
-[867, [65,66]]
+[888, [66,67]],
+[889, [65,66]]
 ],
 "memberKind": "Event"
 }
 ,
 "Items":{
 "files": [
-[596, [133,161,162]],
-[410, [67,116,151,159]],
-[315, [84,87,90,95,100,103,125,136,141,155,166,171,173,189,200,205,217,222,230,235,243,255,271]],
-[411, [51,70,73,104,109,134,139]],
-[755, [49,52,55,75,86,91,98,114]],
-[412, [62,65,79,96,107,112,139]],
-[847, [158,183,196]]
+[618, [133,161,162]],
+[427, [67,116,151,159]],
+[330, [84,87,90,95,100,103,125,136,141,155,166,171,173,189,200,205,217,222,230,235,243,255,271]],
+[428, [51,70,73,104,109,134,139]],
+[777, [49,52,55,75,86,91,98,114]],
+[429, [62,65,79,96,107,112,139]],
+[869, [158,183,196]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemsSource":{
 "files": [
-[866, [43]],
-[856, [104]],
-[685, [55]],
+[888, [43]],
+[878, [104]],
+[707, [55]],
 [30, [93,146,214,405]],
-[732, [25]],
-[788, [25]],
-[306, [95]],
-[867, [42]],
-[314, [53]],
-[484, [37,55]],
-[151, [43,44]],
-[847, [33]],
-[848, [35,46]],
-[454, [53]],
-[868, [36]],
-[864, [41]]
+[754, [25]],
+[810, [25]],
+[321, [95]],
+[889, [42]],
+[329, [53]],
+[501, [37,55]],
+[161, [43,44]],
+[869, [33]],
+[870, [35,46]],
+[471, [53]],
+[890, [36]],
+[886, [41]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemTemplate":{
 "files": [
-[865, [47]]
+[887, [47]]
 ],
 "memberKind": "?"
 }
 ,
 "OnApplyTemplate":{
 "files": [
-[720, [68]]
+[742, [68]]
 ],
 "memberKind": "?"
 }
 ,
 "OnKeyDown":{
 "files": [
-[720, [190]]
+[742, [190]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedIndex":{
 "files": [
-[866, [53,57]],
-[867, [52,56]],
-[315, [219,232,245,257,273]],
-[411, [106,136]],
-[755, [100,116]],
-[412, [141]],
-[847, [50,143,145,160,172,185]],
-[838, [34,43]]
+[888, [53,57]],
+[889, [52,56]],
+[330, [219,232,245,257,273]],
+[428, [106,136]],
+[777, [100,116]],
+[429, [141]],
+[869, [50,143,145,160,172,185]],
+[860, [34,43]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedItem":{
 "files": [
-[290, [203,215]],
-[715, [54,59]],
-[120, [129,131]],
-[310, [151,173]],
-[847, [64,82,97,146,161,186]],
-[848, [106]],
-[756, [59]],
-[757, [129]]
+[303, [203,215]],
+[737, [54,59]],
+[129, [129,131]],
+[325, [151,173]],
+[869, [64,82,97,146,161,186]],
+[870, [106]],
+[778, [59]],
+[779, [129]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedItems":{
 "files": [
-[314, [315,329,342,350]],
-[410, [149]],
-[847, [95,101,109,175]],
-[740, [70]],
-[865, [56]]
+[329, [315,329,342,350]],
+[427, [149]],
+[869, [95,101,109,175]],
+[762, [70]],
+[887, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
 "files": [
-[856, [77,79]]
+[878, [77,79]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectionChanged":{
 "files": [
-[866, [75,76]],
-[856, [45]],
-[867, [74,75]]
+[888, [75,76]],
+[878, [45]],
+[889, [74,75]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectionMode":{
 "files": [
-[314, [54]],
-[847, [63,81]],
-[740, [70]],
-[865, [90,94,97,100]]
+[329, [54]],
+[869, [63,81]],
+[762, [70]],
+[887, [90,94,97,100]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[484, [49]]
+[501, [49]]
 ],
 "memberKind": "?"
 }
@@ -44039,29 +45288,29 @@ var contents = {
 "members": {
 "ContainerContentChanging":{
 "files": [
-[695, [116,120]]
+[717, [116,120]]
 ],
 "memberKind": "Event"
 }
 ,
 "ContainerFromItem":{
 "files": [
-[836, [76]]
+[858, [76]]
 ],
 "memberKind": "?"
 }
 ,
 "DataContext":{
 "files": [
-[275, [40]]
+[288, [40]]
 ],
 "memberKind": "?"
 }
 ,
 "FlowDirection":{
 "files": [
-[863, [72,74,78]],
-[865, [72,74,78]]
+[885, [72,74,78]],
+[887, [72,74,78]]
 ],
 "memberKind": "?"
 }
@@ -44075,143 +45324,143 @@ var contents = {
 ,
 "ItemClick":{
 "files": [
-[866, [66,67]],
-[867, [65,66]]
+[888, [66,67]],
+[889, [65,66]]
 ],
 "memberKind": "Event"
 }
 ,
 "Items":{
 "files": [
-[677, [56]],
-[596, [133,161,162]],
-[410, [67,116,151,159]],
-[315, [84,87,90,95,100,103,125,136,141,155,166,171,173,189,200,205,217,222,230,235,243,255,271]],
-[411, [51,70,73,104,109,134,139]],
-[755, [49,52,55,75,86,91,98,114]],
-[412, [62,65,79,96,107,112,139]],
-[847, [158,183,196]]
+[699, [56]],
+[618, [133,161,162]],
+[427, [67,116,151,159]],
+[330, [84,87,90,95,100,103,125,136,141,155,166,171,173,189,200,205,217,222,230,235,243,255,271]],
+[428, [51,70,73,104,109,134,139]],
+[777, [49,52,55,75,86,91,98,114]],
+[429, [62,65,79,96,107,112,139]],
+[869, [158,183,196]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemsSource":{
 "files": [
-[866, [43]],
-[856, [104]],
-[685, [55]],
+[888, [43]],
+[878, [104]],
+[707, [55]],
 [30, [93,146,214,405]],
-[732, [25]],
-[788, [25]],
-[306, [95]],
-[867, [42]],
-[314, [53]],
-[695, [66,87]],
-[484, [37,55]],
-[151, [43,44]],
-[152, [54]],
-[847, [33]],
-[848, [35,46]],
-[454, [53]],
-[868, [36]],
-[864, [41]]
+[754, [25]],
+[810, [25]],
+[321, [95]],
+[889, [42]],
+[329, [53]],
+[717, [66,87]],
+[501, [37,55]],
+[161, [43,44]],
+[162, [54]],
+[869, [33]],
+[870, [35,46]],
+[471, [53]],
+[890, [36]],
+[886, [41]]
 ],
 "memberKind": "?"
 }
 ,
 "ItemTemplate":{
 "files": [
-[695, [132,136,140]],
-[863, [47]],
-[865, [47]]
+[717, [132,136,140]],
+[885, [47]],
+[887, [47]]
 ],
 "memberKind": "?"
 }
 ,
 "OnApplyTemplate":{
 "files": [
-[720, [68]]
+[742, [68]]
 ],
 "memberKind": "?"
 }
 ,
 "OnKeyDown":{
 "files": [
-[720, [190]]
+[742, [190]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedIndex":{
 "files": [
-[866, [53,57]],
-[867, [52,56]],
-[315, [219,232,245,257,273]],
-[411, [106,136]],
-[755, [100,116]],
-[412, [141]],
-[847, [50,143,145,160,172,185]],
-[838, [34,43]]
+[888, [53,57]],
+[889, [52,56]],
+[330, [219,232,245,257,273]],
+[428, [106,136]],
+[777, [100,116]],
+[429, [141]],
+[869, [50,143,145,160,172,185]],
+[860, [34,43]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedItem":{
 "files": [
-[290, [203,215]],
-[715, [54,59]],
-[120, [129,131]],
-[310, [151,173]],
-[847, [64,82,97,146,161,186]],
-[848, [106]],
-[756, [59]],
-[757, [129]]
+[303, [203,215]],
+[737, [54,59]],
+[129, [129,131]],
+[325, [151,173]],
+[869, [64,82,97,146,161,186]],
+[870, [106]],
+[778, [59]],
+[779, [129]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectedItems":{
 "files": [
-[314, [315,329,342,350]],
-[410, [149]],
-[847, [95,101,109,175]],
-[740, [70]],
-[863, [56]],
-[865, [56]]
+[329, [315,329,342,350]],
+[427, [149]],
+[869, [95,101,109,175]],
+[762, [70]],
+[885, [56]],
+[887, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
 "files": [
-[856, [77,79]]
+[878, [77,79]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectionChanged":{
 "files": [
-[866, [75,76]],
-[856, [45]],
-[867, [74,75]]
+[888, [75,76]],
+[878, [45]],
+[889, [74,75]]
 ],
 "memberKind": "?"
 }
 ,
 "SelectionMode":{
 "files": [
-[314, [54]],
-[847, [63,81]],
-[740, [70]],
-[863, [90,94,97,100]],
-[865, [90,94,97,100]]
+[329, [54]],
+[869, [63,81]],
+[762, [70]],
+[885, [90,94,97,100]],
+[887, [90,94,97,100]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[484, [49]]
+[501, [49]]
 ],
 "memberKind": "?"
 }
@@ -44222,50 +45471,50 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[836, [76]],
-[342, [120]]
+[858, [76]],
+[359, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentTemplateRoot":{
 "files": [
-[342, [125]]
+[359, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "FindName`1":{
 "files": [
-[342, [115]]
+[359, [115]]
 ],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
 "files": [
-[720, [234]]
+[742, [234]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsSelected":{
 "files": [
-[720, [98,102]]
+[742, [98,102]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsTabStop":{
 "files": [
-[436, [214,216]]
+[453, [223,225]]
 ],
 "memberKind": "Property"
 }
 ,
 "Padding":{
 "files": [
-[342, [124]]
+[359, [124]]
 ],
 "memberKind": "Property"
 }
@@ -44276,14 +45525,14 @@ var contents = {
 "members": {
 "GetRelativeScrollPosition`2":{
 "files": [
-[836, [44]]
+[858, [44]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetRelativeScrollPositionAsync`3":{
 "files": [
-[836, [36]]
+[858, [36]]
 ],
 "memberKind": "Method"
 }
@@ -44294,38 +45543,38 @@ var contents = {
 "members": {
 "Extended":{
 "files": [
-[847, [63,81]],
-[863, [100]],
-[865, [100]]
+[869, [63,81]],
+[885, [100]],
+[887, [100]]
 ],
 "memberKind": "Field"
 }
 ,
 "Multiple":{
 "files": [
-[740, [43,62,70,87]],
-[863, [97]],
-[865, [97]]
+[762, [43,62,70,87]],
+[885, [97]],
+[887, [97]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[740, [54,122]],
-[863, [90]],
-[865, [90]]
+[762, [54,122]],
+[885, [90]],
+[887, [90]]
 ],
 "memberKind": "Field"
 }
 ,
 "Single":{
 "files": [
-[314, [54]],
-[296, [64,67]],
-[720, [38]],
-[863, [94]],
-[865, [94]]
+[329, [54]],
+[309, [64,67]],
+[742, [38]],
+[885, [94]],
+[887, [94]]
 ],
 "memberKind": "Field"
 }
@@ -44338,88 +45587,88 @@ var contents = {
 "members": {
 "Center":{
 "files": [
-[326, [42]],
-[327, [42,55,69,70,90,91]],
-[328, [39,52]],
-[329, [83]],
-[330, [77]]
+[341, [42]],
+[342, [42,55,69,70,90,91]],
+[343, [39,52]],
+[344, [83]],
+[345, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "CustomExperience":{
 "files": [
-[330, [64]]
+[345, [64]]
 ],
 "memberKind": "Property"
 }
 ,
 "Is3DSupported":{
 "files": [
-[329, [55]]
+[344, [55]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsStreetsideSupported":{
 "files": [
-[330, [52]]
+[345, [52]]
 ],
 "memberKind": "Property"
 }
 ,
 "Loaded":{
 "files": [
-[326, [36]],
-[327, [36]],
-[328, [34]]
+[341, [36]],
+[342, [36]],
+[343, [34]]
 ],
 "memberKind": "Event"
 }
 ,
 "MapElements":{
 "files": [
-[327, [60,85,101]]
+[342, [60,85,101]]
 ],
 "memberKind": "Property"
 }
 ,
 "MapTapped":{
 "files": [
-[326, [37]]
+[341, [37]]
 ],
 "memberKind": "Event"
 }
 ,
 "Style":{
 "files": [
-[326, [82,85,88,91,94]],
-[329, [57]]
+[341, [82,85,88,91,94]],
+[344, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "TrafficFlowVisible":{
 "files": [
-[326, [67,72]]
+[341, [67,72]]
 ],
 "memberKind": "Property"
 }
 ,
 "TrySetSceneAsync`1":{
 "files": [
-[329, [70]]
+[344, [70]]
 ],
 "memberKind": "Method"
 }
 ,
 "ZoomLevel":{
 "files": [
-[326, [49]],
-[327, [49]],
-[328, [46]],
-[329, [90]],
-[330, [84]]
+[341, [49]],
+[342, [49]],
+[343, [46]],
+[344, [90]],
+[345, [84]]
 ],
 "memberKind": "Property"
 }
@@ -44430,7 +45679,7 @@ var contents = {
 "members": {
 "ZIndex":{
 "files": [
-[327, [59,80]]
+[342, [59,80]]
 ],
 "memberKind": "Property"
 }
@@ -44441,42 +45690,42 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[327, [54]]
+[342, [54]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Image":{
 "files": [
-[327, [58]]
+[342, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "Location":{
 "files": [
-[327, [55]]
+[342, [55]]
 ],
 "memberKind": "Property"
 }
 ,
 "NormalizedAnchorPoint":{
 "files": [
-[327, [56]]
+[342, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[327, [57]]
+[342, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "ZIndex":{
 "files": [
-[327, [59]]
+[342, [59]]
 ],
 "memberKind": "Property"
 }
@@ -44487,7 +45736,7 @@ var contents = {
 "members": {
 "Location":{
 "files": [
-[326, [55]]
+[341, [55]]
 ],
 "memberKind": "Property"
 }
@@ -44498,7 +45747,7 @@ var contents = {
 "members": {
 "ItemsSource":{
 "files": [
-[328, [52]]
+[343, [52]]
 ],
 "memberKind": "Property"
 }
@@ -44509,49 +45758,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[327, [71]]
+[342, [71]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "FillColor":{
 "files": [
-[327, [81]]
+[342, [81]]
 ],
 "memberKind": "Property"
 }
 ,
 "Path":{
 "files": [
-[327, [72]]
+[342, [72]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeColor":{
 "files": [
-[327, [82]]
+[342, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeDashed":{
 "files": [
-[327, [84]]
+[342, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
 "files": [
-[327, [83]]
+[342, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "ZIndex":{
 "files": [
-[327, [80]]
+[342, [80]]
 ],
 "memberKind": "Property"
 }
@@ -44562,35 +45811,35 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[327, [92]]
+[342, [92]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Path":{
 "files": [
-[327, [93]]
+[342, [93]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeColor":{
 "files": [
-[327, [98]]
+[342, [98]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeDashed":{
 "files": [
-[327, [100]]
+[342, [100]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
 "files": [
-[327, [99]]
+[342, [99]]
 ],
 "memberKind": "Property"
 }
@@ -44601,7 +45850,7 @@ var contents = {
 "members": {
 "CreateFromLocationAndRadius`2":{
 "files": [
-[329, [65]]
+[344, [65]]
 ],
 "memberKind": "Method"
 }
@@ -44612,42 +45861,42 @@ var contents = {
 "members": {
 "Aerial":{
 "files": [
-[326, [88]]
+[341, [88]]
 ],
 "memberKind": "Field"
 }
 ,
 "Aerial3DWithRoads":{
 "files": [
-[329, [57]]
+[344, [57]]
 ],
 "memberKind": "Field"
 }
 ,
 "AerialWithRoads":{
 "files": [
-[326, [91]]
+[341, [91]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[326, [82]]
+[341, [82]]
 ],
 "memberKind": "Field"
 }
 ,
 "Road":{
 "files": [
-[326, [85]]
+[341, [85]]
 ],
 "memberKind": "Field"
 }
 ,
 "Terrain":{
 "files": [
-[326, [94]]
+[341, [94]]
 ],
 "memberKind": "Field"
 }
@@ -44658,7 +45907,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[330, [64]]
+[345, [64]]
 ],
 "memberKind": "Constructor"
 }
@@ -44669,7 +45918,7 @@ var contents = {
 "members": {
 "FindNearbyAsync`1":{
 "files": [
-[330, [60]]
+[345, [60]]
 ],
 "memberKind": "Method"
 }
@@ -44682,112 +45931,112 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[413, [94]],
-[560, [94]],
-[559, [90]],
-[460, [92,107]]
+[430, [94]],
+[581, [94]],
+[580, [90]],
+[477, [92,107]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[413, [94]],
-[560, [94]],
-[559, [90]],
-[460, [107]]
+[430, [94]],
+[581, [94]],
+[580, [90]],
+[477, [107]]
 ],
 "memberKind": "Property"
 }
 ,
 "AreTransportControlsEnabled":{
 "files": [
-[746, [39]]
+[768, [39]]
 ],
 "memberKind": "Property"
 }
 ,
 "AudioCategory":{
 "files": [
-[563, [89]]
+[584, [89]]
 ],
 "memberKind": "Property"
 }
 ,
 "AudioDeviceType":{
 "files": [
-[563, [94]]
+[584, [94]]
 ],
 "memberKind": "Property"
 }
 ,
 "AutoPlay":{
 "files": [
-[563, [110]],
-[181, [70]],
-[182, [69]],
-[548, [364,415,424,431,530,535]]
+[584, [110]],
+[191, [70]],
+[192, [69]],
+[565, [364,415,424,431,530,535]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentState":{
 "files": [
-[872, [56,57]],
-[324, [183]],
-[282, [252]],
+[894, [56,57]],
+[339, [183]],
+[295, [252]],
 [31, [92,94]],
-[115, [243]],
-[116, [555]],
-[563, [161]],
-[556, [213,220]],
-[566, [402,406]],
-[564, [354,358]],
-[500, [455,459]],
-[181, [51]],
-[182, [50]],
-[548, [205,283,467,502,528,532,533]],
-[449, [139,158,159,180,184,185]]
+[124, [243]],
+[125, [555]],
+[584, [161]],
+[577, [213,220]],
+[588, [402,406]],
+[585, [354,358]],
+[517, [455,459]],
+[191, [51]],
+[192, [50]],
+[565, [205,283,467,502,528,532,533]],
+[466, [139,158,159,180,184,185]]
 ],
 "memberKind": "Property"
 }
 ,
 "CurrentStateChanged":{
 "files": [
-[872, [33]],
-[324, [43]],
-[282, [44]],
+[894, [33]],
+[339, [43]],
+[295, [44]],
 [31, [44]],
-[115, [49]],
-[116, [53]],
-[556, [207]],
-[548, [88]],
-[449, [52]]
+[124, [49]],
+[125, [53]],
+[577, [207]],
+[565, [88]],
+[466, [52]]
 ],
 "memberKind": "Event"
 }
 ,
 "DefaultPlaybackRate":{
 "files": [
-[566, [300,302,321,323]],
-[564, [272,274,293,295]],
-[500, [349,351,370,372]]
+[588, [300,302,321,323]],
+[585, [272,274,293,295]],
+[517, [349,351,370,372]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[746, [51,116]]
+[768, [51,116]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetAsCastingSource`0":{
 "files": [
-[324, [61,136]],
-[116, [366]],
-[283, [166]]
+[339, [61,136]],
+[125, [366]],
+[296, [166]]
 ],
 "memberKind": "Method"
 }
@@ -44801,29 +46050,29 @@ var contents = {
 ,
 "IsAudioOnly":{
 "files": [
-[548, [378]]
+[565, [378]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsFullWindow":{
 "files": [
-[746, [38]],
-[548, [390]]
+[768, [38]],
+[565, [390]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsLooping":{
 "files": [
-[548, [225,229,233]]
+[565, [225,229,233]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxHeight":{
 "files": [
-[548, [384,399]]
+[565, [384,399]]
 ],
 "memberKind": "Property"
 }
@@ -44831,108 +46080,108 @@ var contents = {
 "MediaEnded":{
 "files": [
 [31, [45]],
-[548, [90]]
+[565, [90]]
 ],
 "memberKind": "Event"
 }
 ,
 "MediaFailed":{
 "files": [
-[872, [32]],
-[324, [42]],
-[282, [43]],
+[894, [32]],
+[339, [42]],
+[295, [43]],
 [31, [43]],
-[115, [48]],
-[116, [52]],
-[565, [60]],
-[548, [91]]
+[124, [48]],
+[125, [52]],
+[587, [60]],
+[565, [91]]
 ],
 "memberKind": "Event"
 }
 ,
 "MediaOpened":{
 "files": [
-[872, [31]],
-[324, [41]],
-[282, [42]],
+[894, [31]],
+[339, [41]],
+[295, [42]],
 [31, [42]],
-[115, [47]],
-[116, [51]],
-[746, [33]],
-[556, [184]],
-[548, [89]]
+[124, [47]],
+[125, [51]],
+[768, [33]],
+[577, [184]],
+[565, [89]]
 ],
 "memberKind": "Event"
 }
 ,
 "MinHeight":{
 "files": [
-[548, [383,398]]
+[565, [383,398]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinWidth":{
 "files": [
-[548, [382,397]]
+[565, [382,397]]
 ],
 "memberKind": "Property"
 }
 ,
 "NaturalDuration":{
 "files": [
-[548, [264,265,279]]
+[565, [264,265,279]]
 ],
 "memberKind": "Property"
 }
 ,
 "Pause`0":{
 "files": [
-[324, [85]],
-[282, [84]],
-[115, [87,162]],
-[116, [102,269]],
-[563, [73]],
-[566, [316,337,404,408]],
-[564, [288,309,356,360]],
-[500, [365,386,457,461]],
-[548, [208,569]],
-[449, [182]]
+[339, [85]],
+[295, [84]],
+[124, [87,162]],
+[125, [102,269]],
+[584, [73]],
+[588, [316,337,404,408]],
+[585, [288,309,356,360]],
+[517, [365,386,457,461]],
+[565, [208,569]],
+[466, [182]]
 ],
 "memberKind": "Method"
 }
 ,
 "Play`0":{
 "files": [
-[324, [103,144]],
-[282, [120,264]],
+[339, [103,144]],
+[295, [120,264]],
 [31, [78,112]],
-[115, [196,234,253]],
-[116, [171,308,383,565]],
-[746, [55]],
-[563, [64]],
-[662, [60]],
-[558, [97]],
-[556, [208,401]],
-[566, [267,306,327,421]],
-[564, [249,278,299,373]],
-[500, [316,355,376,474]],
-[181, [72]],
-[182, [71]],
-[548, [198,564]],
-[551, [64]],
-[449, [161,187]]
+[124, [196,234,253]],
+[125, [171,308,383,565]],
+[768, [55]],
+[584, [64]],
+[684, [60]],
+[579, [97]],
+[577, [208,401]],
+[588, [267,306,327,421]],
+[585, [249,278,299,373]],
+[517, [316,355,376,474]],
+[191, [72]],
+[192, [71]],
+[565, [198,564]],
+[572, [64]],
+[466, [161,187]]
 ],
 "memberKind": "Method"
 }
 ,
 "PlaybackRate":{
 "files": [
-[566, [303,324]],
-[564, [275,296]],
-[500, [352,373]],
-[548, [306,307]],
-[449, [206,207,208,209,210]]
+[588, [303,324]],
+[585, [275,296]],
+[517, [352,373]],
+[565, [306,307]],
+[466, [206,207,208,209,210]]
 ],
 "memberKind": "Property"
 }
@@ -44940,50 +46189,50 @@ var contents = {
 "Position":{
 "files": [
 [31, [63,77]],
-[115, [163,225,233]],
-[116, [270,300,307,437]],
-[746, [54]],
-[556, [187,200]],
-[413, [93]],
-[560, [93]],
-[559, [89]],
-[460, [106]],
-[500, [207,219]],
-[548, [263,286]]
+[124, [163,225,233]],
+[125, [270,300,307,437]],
+[768, [54]],
+[577, [187,200]],
+[430, [93]],
+[581, [93]],
+[580, [89]],
+[477, [106]],
+[517, [207,219]],
+[565, [263,286]]
 ],
 "memberKind": "Property"
 }
 ,
 "ProtectionManager":{
 "files": [
-[419, [120]]
+[436, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetMediaStreamSource`1":{
 "files": [
-[574, [67]],
-[575, [71]],
-[419, [88]],
-[558, [96]],
-[556, [205,397]],
-[413, [95]],
-[560, [95]],
-[559, [91]],
-[460, [108]]
+[596, [67]],
+[597, [71]],
+[436, [88]],
+[579, [96]],
+[577, [205,397]],
+[430, [95]],
+[581, [95]],
+[580, [91]],
+[477, [108]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetPlaybackSource`1":{
 "files": [
-[551, [63]],
-[552, [45]],
-[553, [71]],
-[554, [44]],
-[555, [44]],
-[449, [128]]
+[572, [63]],
+[573, [45]],
+[574, [71]],
+[575, [44]],
+[576, [44]],
+[466, [128]]
 ],
 "memberKind": "Method"
 }
@@ -44991,78 +46240,78 @@ var contents = {
 "SetSource`2":{
 "files": [
 [31, [69]],
-[563, [113]],
-[283, [69]],
-[662, [58]],
-[413, [79]],
-[560, [61,78]],
-[559, [59]],
-[460, [61]],
-[566, [199,266,420]],
-[564, [181,248,372]],
-[500, [248,315,473]],
-[181, [71]],
-[182, [70]],
-[548, [786]]
+[584, [113]],
+[296, [69]],
+[684, [58]],
+[430, [79]],
+[581, [61,78]],
+[580, [59]],
+[477, [61]],
+[588, [199,266,420]],
+[585, [181,248,372]],
+[517, [248,315,473]],
+[191, [71]],
+[192, [70]],
+[565, [786]]
 ],
 "memberKind": "Method"
 }
 ,
 "Source":{
 "files": [
-[872, [38]],
-[324, [51]],
-[282, [52]],
+[894, [38]],
+[339, [51]],
+[295, [52]],
 [31, [60]],
-[115, [57,163,226,231]],
-[116, [61,270,301,306]],
-[746, [53,88,119]],
-[413, [54]],
-[560, [43]],
-[559, [42]],
-[460, [44]],
-[426, [276,304,340,341,375]],
-[565, [75,93,130,172,201]],
-[548, [124,763]],
-[551, [40]],
-[873, [30]]
+[124, [57,163,226,231]],
+[125, [61,270,301,306]],
+[768, [53,88,119]],
+[430, [54]],
+[581, [43]],
+[580, [42]],
+[477, [44]],
+[443, [276,304,340,341,375]],
+[587, [75,93,130,172,201]],
+[565, [124,763]],
+[572, [40]],
+[895, [30]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stop`0":{
 "files": [
-[746, [87,118]],
-[563, [82]],
-[662, [59]],
-[566, [311,332]],
-[564, [283,304]],
-[500, [360,381]],
-[426, [274,334,363]],
-[565, [74,200]],
-[181, [53]],
-[182, [52]],
-[548, [432,574]]
+[768, [87,118]],
+[584, [82]],
+[684, [59]],
+[588, [311,332]],
+[585, [283,304]],
+[517, [360,381]],
+[443, [274,334,363]],
+[587, [74,200]],
+[191, [53]],
+[192, [52]],
+[565, [432,574]]
 ],
 "memberKind": "Method"
 }
 ,
 "TransportControls":{
 "files": [
-[872, [45]],
-[324, [55,88]],
-[282, [55,61,87]],
-[115, [61,90]],
-[116, [68,107]],
-[746, [29]],
-[556, [80]]
+[894, [45]],
+[339, [55,88]],
+[295, [55,61,87]],
+[124, [61,90]],
+[125, [68,107]],
+[768, [29]],
+[577, [80]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[426, [283,284,343,344]]
+[443, [283,284,343,344]]
 ],
 "memberKind": "Property"
 }
@@ -45080,24 +46329,24 @@ var contents = {
 "members": {
 "IsCompact":{
 "files": [
-[872, [45]]
+[894, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSeekEnabled":{
 "files": [
-[556, [80]]
+[577, [80]]
 ],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
 "files": [
-[823, [48]],
-[824, [37]],
-[826, [42]],
-[827, [33]]
+[845, [48]],
+[846, [37]],
+[848, [42]],
+[849, [33]]
 ],
 "memberKind": "Method"
 }
@@ -45108,7 +46357,7 @@ var contents = {
 "members": {
 "ShowAt`2":{
 "files": [
-[450, [158]]
+[467, [158]]
 ],
 "memberKind": "Method"
 }
@@ -45119,14 +46368,14 @@ var contents = {
 "members": {
 "CommandParameter":{
 "files": [
-[852, [56]]
+[874, [56]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[850, [35]]
+[872, [35]]
 ],
 "memberKind": "Property"
 }
@@ -45137,7 +46386,7 @@ var contents = {
 "members": {
 "Tag":{
 "files": [
-[850, [35]]
+[872, [35]]
 ],
 "memberKind": "Property"
 }
@@ -45148,21 +46397,21 @@ var contents = {
 "members": {
 "Horizontal":{
 "files": [
-[874, [75,81,99,105]],
-[456, [131,152,333,419]],
-[843, [37]],
-[844, [38]]
+[896, [75,81,99,105]],
+[473, [131,152,333,419]],
+[865, [37]],
+[866, [38]]
 ],
 "memberKind": "Field"
 }
 ,
 "Vertical":{
 "files": [
-[430, [188,193]],
-[454, [148]],
-[456, [153]],
-[843, [40]],
-[844, [41]]
+[447, [188,193]],
+[471, [148]],
+[473, [153]],
+[865, [40]],
+[866, [41]]
 ],
 "memberKind": "Field"
 }
@@ -45173,27 +46422,27 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[458, [95]],
-[437, [82]]
+[475, [95]],
+[454, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[458, [96]],
-[437, [83]]
+[475, [96]],
+[454, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]]
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]]
 ],
 "memberKind": "Property"
 }
@@ -45203,199 +46452,199 @@ var contents = {
 [29, [244,245,266]],
 [33, [204,205,226]],
 [34, [202,203,224]],
-[465, [66]]
+[482, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
 "files": [
-[436, [232]]
+[453, [241]]
 ],
 "memberKind": "Method"
 }
 ,
 "Frame":{
 "files": [
-[458, [74]],
-[738, [11,32,35]],
-[437, [64]]
+[475, [74]],
+[760, [11,32,35]],
+[454, [64]]
 ],
 "memberKind": "Property"
 }
 ,
 "Loaded":{
 "files": [
-[458, [89]],
-[436, [226,233]],
-[437, [79]]
+[475, [89]],
+[453, [235,242]],
+[454, [79]]
 ],
 "memberKind": "Event"
 }
 ,
 "OnHolding`1":{
 "files": [
-[450, [129]]
+[467, [129]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnKeyDown`1":{
 "files": [
-[450, [92]]
+[467, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnKeyUp`1":{
 "files": [
-[450, [102]]
+[467, [102]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnNavigatedFrom`1":{
 "files": [
-[176, [56]],
-[191, [163]],
-[299, [115]],
-[345, [77]],
-[346, [60]],
-[347, [59]],
-[348, [71]],
-[875, [61]],
-[350, [180]],
-[349, [190]],
-[413, [56]],
-[560, [45]],
-[559, [44]],
-[460, [46]],
-[297, [56]],
-[311, [62]],
-[312, [79]],
-[738, [20]],
-[271, [52]],
-[178, [161]],
-[179, [141]],
-[180, [112]],
-[167, [170]],
-[486, [45]],
-[739, [30]],
-[487, [76]],
-[741, [81]]
+[186, [56]],
+[201, [163]],
+[312, [115]],
+[362, [77]],
+[363, [60]],
+[364, [59]],
+[365, [71]],
+[897, [61]],
+[367, [180]],
+[366, [190]],
+[430, [56]],
+[581, [45]],
+[580, [44]],
+[477, [46]],
+[310, [56]],
+[326, [62]],
+[327, [79]],
+[760, [20]],
+[284, [52]],
+[188, [161]],
+[189, [141]],
+[190, [112]],
+[177, [170]],
+[503, [45]],
+[761, [30]],
+[504, [76]],
+[763, [81]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnNavigatedTo`1":{
 "files": [
-[853, [54]],
-[299, [104]],
-[345, [66]],
-[346, [50]],
-[347, [49]],
-[348, [61]],
-[301, [51]],
-[344, [48]],
-[343, [56]],
-[350, [170]],
-[349, [180]],
+[875, [54]],
+[312, [104]],
+[362, [66]],
+[363, [50]],
+[364, [49]],
+[365, [61]],
+[316, [51]],
+[361, [48]],
+[360, [56]],
+[367, [170]],
+[366, [180]],
 [30, [610]],
-[585, [50]],
-[738, [15]],
-[486, [37]],
-[847, [43]],
-[739, [22]],
-[487, [47]],
-[848, [33]],
-[876, [39]],
-[741, [67]],
-[859, [63]],
-[877, [38]],
-[863, [39]],
-[865, [39]],
-[878, [38]],
-[490, [48]]
+[607, [50]],
+[760, [15]],
+[503, [37]],
+[869, [43]],
+[761, [22]],
+[504, [47]],
+[870, [33]],
+[898, [39]],
+[763, [67]],
+[881, [63]],
+[899, [38]],
+[885, [39]],
+[887, [39]],
+[900, [38]],
+[507, [48]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnNavigatingFrom`1":{
 "files": [
-[354, [80]],
-[355, [72]],
-[353, [89]],
-[356, [98]],
-[357, [86]],
-[265, [71]],
-[359, [80]],
-[632, [90]],
-[633, [107]],
+[371, [80]],
+[372, [72]],
+[370, [89]],
+[373, [98]],
+[374, [86]],
+[278, [71]],
+[376, [80]],
+[654, [90]],
+[655, [107]],
 [61, [106]],
-[361, [81]],
-[262, [151]],
-[263, [127]],
+[378, [81]],
+[273, [151]],
+[274, [127]],
 [68, [167]],
 [69, [147]],
-[363, [81]],
-[362, [89]],
-[378, [56]],
-[267, [157]],
-[334, [63]],
-[335, [65]],
-[70, [105]],
-[332, [150]],
-[71, [110]],
-[366, [81]],
-[364, [89]],
-[369, [81]],
-[367, [89]],
-[379, [57]],
-[343, [93]],
-[372, [81]],
-[371, [89]],
-[389, [88]],
-[376, [81]],
-[377, [89]],
-[380, [57]],
-[292, [131]],
-[294, [97]],
-[370, [81]],
-[368, [63]],
-[382, [81]],
-[381, [63]],
-[426, [206]],
-[565, [70]],
-[383, [70]],
-[836, [45]],
-[818, [35]],
-[815, [91]],
-[819, [35]],
-[820, [35]],
-[816, [98]],
-[184, [111]]
+[380, [81]],
+[379, [89]],
+[395, [56]],
+[280, [157]],
+[349, [63]],
+[350, [65]],
+[71, [105]],
+[347, [150]],
+[72, [110]],
+[383, [81]],
+[381, [89]],
+[386, [81]],
+[384, [89]],
+[396, [57]],
+[360, [86]],
+[389, [81]],
+[388, [89]],
+[406, [88]],
+[393, [81]],
+[394, [89]],
+[397, [57]],
+[305, [131]],
+[307, [97]],
+[387, [81]],
+[385, [63]],
+[399, [81]],
+[398, [63]],
+[443, [206]],
+[587, [70]],
+[400, [70]],
+[858, [45]],
+[840, [35]],
+[837, [91]],
+[841, [35]],
+[842, [35]],
+[838, [98]],
+[194, [111]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnPointerPressed`1":{
 "files": [
-[450, [136]]
+[467, [136]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnRightTapped`1":{
 "files": [
-[450, [149]]
+[467, [149]]
 ],
 "memberKind": "Method"
 }
 ,
 "Unloaded":{
 "files": [
-[458, [108]],
-[437, [102]]
+[475, [108]],
+[454, [102]]
 ],
 "memberKind": "Event"
 }
@@ -45406,22 +46655,22 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[448, [151,153]],
-[451, [63]]
+[465, [151,153]],
+[468, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[448, [150,152]]
+[465, [150,152]]
 ],
 "memberKind": "Property"
 }
 ,
 "Background":{
 "files": [
-[600, [136,388,448]]
+[622, [136,388,448]]
 ],
 "memberKind": "Property"
 }
@@ -45431,115 +46680,116 @@ var contents = {
 [29, [111,271,272]],
 [33, [71,231,232]],
 [34, [69,229,230]],
-[714, [175,178]],
-[201, [258,342]],
-[162, [127,242]],
-[465, [113,146,189,303]],
-[457, [437,495,572,573,574]],
-[448, [77,96,115,120,122]],
-[121, [104,109]],
-[342, [132]]
+[736, [175,178]],
+[211, [258,342]],
+[172, [127,242]],
+[482, [113,146,189,303]],
+[474, [437,495,572,573,574]],
+[465, [77,96,115,120,122]],
+[130, [104,109]],
+[359, [132]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClearValue`1":{
 "files": [
-[720, [247,248]]
+[742, [247,248]]
 ],
 "memberKind": "Method"
 }
 ,
 "Height":{
 "files": [
-[494, [25,28]],
-[465, [299]],
-[457, [521,527,537,545]],
-[467, [61]],
-[468, [105]],
-[448, [151]]
+[511, [25,28]],
+[482, [299]],
+[474, [521,527,537,545]],
+[484, [61]],
+[485, [105]],
+[465, [151]]
 ],
 "memberKind": "Property"
 }
 ,
 "InvalidateArrange`0":{
 "files": [
-[540, [270]]
+[557, [270]]
 ],
 "memberKind": "Method"
 }
 ,
 "InvalidateMeasure`0":{
 "files": [
-[465, [147,304]],
-[540, [271]],
-[457, [438]]
+[482, [147,304]],
+[557, [271]],
+[474, [438]]
 ],
 "memberKind": "Method"
 }
 ,
 "Margin":{
 "files": [
-[373, [113,121]],
+[390, [113,121]],
 [29, [160,161]],
 [33, [120,121]],
 [34, [118,119]],
-[374, [113,121]],
-[375, [113,121]],
-[862, [30,36]]
+[391, [113,121]],
+[392, [113,121]],
+[884, [30,36]]
 ],
 "memberKind": "Property"
 }
 ,
 "RenderTransform":{
 "files": [
-[201, [219,320]],
-[162, [125,200,343]]
+[211, [219,320]],
+[172, [125,200,343]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[457, [533,534,544,545]],
-[720, [253,254]]
+[474, [533,534,544,545]],
+[742, [253,254]]
 ],
 "memberKind": "Method"
 }
 ,
 "UpdateLayout`0":{
 "files": [
-[465, [148,305]],
-[540, [272]],
-[457, [439]]
+[482, [148,305]],
+[557, [272]],
+[474, [439]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[523, [91]],
-[524, [101]],
-[201, [268,348]],
-[121, [85,91]],
-[821, [113]],
-[484, [46]],
-[507, [128]]
+[276, [145,279]],
+[540, [91]],
+[541, [101]],
+[211, [268,348]],
+[130, [85,91]],
+[843, [113]],
+[501, [46]],
+[524, [128]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[373, [106,108]],
-[374, [106,108]],
-[375, [106,108]],
-[494, [24,27]],
-[465, [298]],
-[457, [521,527,537,544]],
-[467, [60]],
-[468, [104]],
-[448, [150]]
+[390, [106,108]],
+[391, [106,108]],
+[392, [106,108]],
+[511, [24,27]],
+[482, [298]],
+[474, [521,527,537,544]],
+[484, [60]],
+[485, [104]],
+[465, [150]]
 ],
 "memberKind": "Property"
 }
@@ -45550,10 +46800,10 @@ var contents = {
 "members": {
 "Password":{
 "files": [
-[600, [204]],
-[602, [34]],
-[310, [199,201]],
-[879, [33,37]]
+[622, [204]],
+[624, [34]],
+[325, [199,201]],
+[901, [33,37]]
 ],
 "memberKind": "Property"
 }
@@ -45564,7 +46814,7 @@ var contents = {
 "members": {
 "SelectedIndex":{
 "files": [
-[536, [48,59]]
+[553, [48,59]]
 ],
 "memberKind": "Property"
 }
@@ -45575,7 +46825,7 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[536, [77,92,97,102,108]]
+[553, [77,92,97,102,108]]
 ],
 "memberKind": "Property"
 }
@@ -45586,7 +46836,7 @@ var contents = {
 "members": {
 "Item":{
 "files": [
-[536, [77,92,97,102,108]]
+[553, [77,92,97,102,108]]
 ],
 "memberKind": "Property"
 }
@@ -45599,419 +46849,439 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[323, [95]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[338, [95]],
+[453, [281]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[323, [95]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[338, [95]],
+[453, [281]]
 ],
 "memberKind": "Property"
 }
 ,
 "Background":{
 "files": [
-[543, [100]],
-[298, [107,112,156,162,262]],
-[545, [110,161]],
-[546, [110]],
-[420, [102]],
-[467, [84]]
+[560, [100]],
+[311, [107,112,156,162,262]],
+[562, [110,161]],
+[563, [110]],
+[437, [102]],
+[484, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "Click":{
 "files": [
-[823, [52]],
-[824, [41,45]],
-[133, [35,36]],
-[134, [39,40,41]],
-[135, [36,37]],
-[131, [40,41,42,43]],
-[659, [30]],
+[845, [52]],
+[846, [41,45]],
+[143, [35,36]],
+[144, [39,40,41]],
+[145, [36,37]],
+[141, [40,41,42,43]],
+[681, [30]],
+[722, [31]],
+[702, [30]],
+[724, [32]],
+[687, [31,32]],
+[686, [32,33]],
+[683, [32,33]],
+[688, [37]],
+[646, [34,35,36]],
+[703, [31]],
+[709, [32]],
+[710, [31]],
+[711, [33]],
+[647, [32]],
+[680, [33]],
+[685, [29,30]],
+[666, [29,30]],
+[171, [37,38]],
+[667, [38,39]],
+[519, [37,38]],
+[712, [33]],
+[715, [31]],
 [700, [31]],
-[680, [30]],
-[702, [32]],
-[665, [31,32]],
-[664, [32,33]],
-[661, [32,33]],
-[666, [37]],
-[624, [34,35,36]],
-[681, [31]],
-[687, [32]],
-[688, [31]],
-[689, [33]],
-[625, [32]],
-[658, [33]],
-[663, [29,30]],
-[644, [29,30]],
-[161, [37,38]],
-[645, [38,39]],
-[502, [37,38]],
-[690, [33]],
-[693, [31]],
-[678, [31]],
-[675, [29]],
-[670, [29]],
-[671, [29]],
-[672, [29]],
-[673, [32]],
-[677, [55]],
+[697, [29]],
+[692, [29]],
+[693, [29]],
+[694, [29]],
+[695, [32]],
+[699, [55]],
 [62, [26,27,28]],
-[442, [33,34]],
-[566, [48,50,51,54,55,56,57,58,59]],
-[564, [45,47,48,51,52,53,54,55,56]],
-[500, [54,56,57,58,59,69,70,71,72,73,74]],
-[825, [33]],
+[459, [33,34]],
+[588, [48,50,51,54,55,56,57,58,59]],
+[585, [45,47,48,51,52,53,54,55,56]],
+[517, [54,56,57,58,59,69,70,71,72,73,74]],
+[847, [33]],
 [43, [38]],
-[826, [40]],
-[408, [62]],
-[308, [61]],
-[310, [72,77]],
-[827, [32]],
-[815, [77,100]]
+[848, [40]],
+[425, [62]],
+[323, [61]],
+[325, [72,77]],
+[849, [32]],
+[837, [77,100]]
 ],
 "memberKind": "Event"
 }
 ,
 "Content":{
 "files": [
-[543, [69,120,123,129]],
-[298, [137,140,144,160,247]],
-[544, [75,78,81,84]],
-[545, [68,101,121,152,171,174,185,188]],
-[546, [71,126,129,135]],
-[420, [74,122,125,131,190]],
-[191, [204,424,428]],
-[283, [87,142]],
-[284, [157,400,409,435,470]],
-[285, [427,444,468,499]],
-[286, [443,451,475,497]],
-[579, [77,89]],
-[677, [54]],
-[601, [47]],
-[758, [151,167]],
-[759, [162,177]],
-[401, [65,83,88]],
-[578, [85,90]],
-[582, [83,88]],
-[394, [246,253]],
-[650, [87,94]],
-[828, [26,32]],
-[829, [35,41]],
-[271, [76,98,176]],
-[295, [414,424,448,470]],
-[426, [106,251,266]],
-[181, [54,62,77,95]],
-[182, [53,61,76,94]],
-[716, [158,178]],
-[449, [229,233]],
-[594, [216,239]],
-[595, [215,238]],
-[408, [61]],
-[308, [60]],
-[310, [71,76]],
-[815, [75]],
-[839, [35]],
-[184, [130]]
+[560, [69,120,123,129]],
+[311, [137,140,144,160,247]],
+[561, [75,78,81,84]],
+[562, [68,101,121,152,171,174,185,188]],
+[563, [71,126,129,135]],
+[437, [74,122,125,131,190]],
+[201, [204,424,428]],
+[296, [87,142]],
+[76, [46,51]],
+[297, [157,400,409,435,470]],
+[298, [427,444,468,499]],
+[299, [443,451,475,497]],
+[601, [77,89]],
+[699, [54]],
+[351, [64,70]],
+[352, [103,109]],
+[314, [88,96]],
+[315, [119,127]],
+[623, [47]],
+[780, [151,167]],
+[781, [162,177]],
+[418, [65,83,88]],
+[600, [85,90]],
+[604, [83,88]],
+[411, [246,253]],
+[672, [87,94]],
+[850, [26,32]],
+[851, [35,41]],
+[284, [76,98,176]],
+[308, [414,424,448,470]],
+[443, [106,251,266]],
+[191, [54,62,77,95]],
+[192, [53,61,76,94]],
+[738, [158,178]],
+[466, [229,233]],
+[616, [216,239]],
+[617, [215,238]],
+[425, [61]],
+[323, [60]],
+[325, [71,76]],
+[837, [75]],
+[861, [35]],
+[194, [130]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataContext":{
 "files": [
-[677, [52,83]],
-[328, [58]]
+[699, [52,83]],
+[343, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [51]]
+[509, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Focus`1":{
 "files": [
-[277, [85]],
-[288, [169,197]],
-[289, [165,191]],
-[529, [404]]
+[290, [85]],
+[301, [169,197]],
+[302, [165,191]],
+[546, [404]],
+[453, [67]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
 "files": [
-[354, [57,58,71,93,139,140,161,162]],
-[355, [52,53,66,85,125,126,143,144]],
-[353, [64,65,78,102,148,149,172,173]],
-[356, [63,67,69,85,137,138,191,223,224]],
-[357, [63,64,77,99,147,148,169,170]],
-[265, [52,53,66,115,116,143,144,162,163]],
+[371, [57,58,71,93,139,140,161,162]],
+[372, [52,53,66,85,125,126,143,144]],
+[370, [64,65,78,102,148,149,172,173]],
+[373, [63,67,69,85,137,138,191,223,224]],
+[374, [63,64,77,99,147,148,169,170]],
+[278, [52,53,66,115,116,143,144,162,163]],
 [59, [180,181]],
-[359, [57,58,71,93,137,138,159,160]],
-[543, [107]],
-[298, [117,163,164,227,230,245,246,258,261,274]],
-[545, [107,158,257,258]],
-[546, [100]],
-[420, [108]],
-[191, [274,275,292,293,349,393]],
+[376, [57,58,71,93,137,138,159,160]],
+[560, [107]],
+[311, [117,163,164,227,230,245,246,258,261,274]],
+[562, [107,158,257,258]],
+[563, [100]],
+[437, [108]],
+[201, [274,275,292,293,349,393]],
 [61, [72,73,119,156,157,180,181]],
-[87, [126,127]],
-[88, [127,128]],
-[89, [126,127]],
 [90, [126,127]],
+[91, [127,128]],
+[92, [126,127]],
+[93, [126,127]],
 [60, [149,150,151]],
-[228, [126,127]],
-[299, [152,153,293,294]],
-[345, [395,396,397,398,417,418,419,420,431,432,433,434]],
-[361, [58,59,72,94,138,139,160,161]],
-[346, [77,78,188,189]],
-[347, [78,79,229,230]],
-[348, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
-[363, [58,59,72,94,164,165,186,187]],
-[362, [64,65,78,102,172,173,196,197]],
-[284, [468,509,510,512]],
-[336, [54,58,71,77]],
-[337, [276,277]],
-[338, [55,59,71,77,90,95,107,114]],
-[267, [130,131,144,170,216,217,242,243]],
-[285, [497,531,532,534]],
-[387, [258,259,260,265,266,267,276,277,278,284,285,286,449,450,467,468]],
-[286, [495,529,530,532]],
-[403, [61,65,78,84,97,101,114,120]],
-[404, [448,449,450]],
-[405, [314,315,316,317,511,512,513,514]],
-[406, [75]],
-[73, [364,365]],
-[579, [80,81,92,93,172,173,243,244]],
-[323, [71,104,114]],
-[287, [72,176,181,201]],
-[75, [48,49,72,99,137,142]],
-[300, [49,80]],
-[277, [64,84]],
-[288, [67,168,176,196]],
-[289, [72,164,170,190]],
-[290, [73,173,178,198,205,221,225]],
-[663, [44,45]],
-[644, [44,45]],
-[161, [43,44]],
-[645, [44,45]],
-[502, [43,44]],
-[334, [43,44,57,96,97,123,124]],
-[335, [44,45,75,76,129,130,146,147,158,163,168,173]],
-[70, [262,263]],
-[209, [63,68,241,272,311]],
-[71, [271,272]],
-[366, [58,59,72,94,140,141,162,163]],
-[364, [64,65,78,102,148,149,172,173]],
-[365, [67,71,85,111]],
-[427, [89,90,99,100]],
-[369, [58,59,72,94,158,159,180,181]],
-[367, [64,65,78,102,166,167,190,191]],
-[601, [46]],
-[600, [138,187,389,449]],
-[685, [51]],
-[686, [104]],
-[372, [58,59,72,94,138,139,160,161]],
-[371, [64,65,78,102,146,147,170,171]],
-[758, [155,156,160,161,168,171,175,229,233]],
-[759, [165,166,170,171,178,181,185,239,243]],
-[350, [109,110,218,219]],
-[349, [109,110,238,239]],
-[413, [80,97,154,155,156]],
-[560, [62,79]],
-[559, [60]],
-[460, [62]],
+[238, [126,127]],
+[312, [152,153,293,294]],
+[362, [395,396,397,398,417,418,419,420,431,432,433,434]],
+[378, [58,59,72,94,138,139,160,161]],
+[276, [57,81,92,114,126,156,277]],
+[277, [49,164]],
+[70, [93,230]],
+[570, [59,61]],
+[568, [77,79]],
+[569, [75,77]],
+[363, [77,78,188,189]],
+[364, [78,79,229,230]],
+[365, [303,304,305,306,322,323,324,325,329,330,331,332,349,350,354,355]],
+[380, [58,59,72,94,164,165,186,187]],
+[379, [64,65,78,102,172,173,196,197]],
+[297, [468,509,510,512]],
+[353, [54,58,71,77]],
+[354, [276,277]],
+[355, [55,59,71,77,90,95,107,114]],
+[280, [130,131,144,170,216,217,242,243]],
+[298, [497,531,532,534]],
+[404, [258,259,260,265,266,267,276,277,278,284,285,286,449,450,467,468]],
+[299, [495,529,530,532]],
+[420, [61,65,78,84,97,101,114,120]],
+[421, [448,449,450]],
+[422, [314,315,316,317,511,512,513,514]],
+[423, [75]],
+[74, [364,365]],
+[601, [80,81,92,93,172,173,243,244]],
+[338, [71,104,114]],
+[300, [72,176,181,201]],
+[77, [48,49,72,99,137,142]],
+[313, [49,80]],
+[290, [64,84]],
+[301, [67,168,176,196]],
+[302, [72,164,170,190]],
+[303, [73,173,178,198,205,221,225]],
+[685, [44,45]],
+[666, [44,45]],
+[171, [43,44]],
+[667, [44,45]],
+[519, [43,44]],
+[349, [43,44,57,96,97,123,124]],
+[350, [44,45,75,76,129,130,146,147,158,163,168,173]],
+[71, [262,263]],
+[219, [63,68,241,272,311]],
+[72, [271,272]],
+[383, [58,59,72,94,140,141,162,163]],
+[381, [64,65,78,102,148,149,172,173]],
+[382, [67,71,85,111]],
+[444, [89,90,99,100]],
+[386, [58,59,72,94,158,159,180,181]],
+[384, [64,65,78,102,166,167,190,191]],
+[314, [93,95]],
+[315, [124,126]],
+[623, [46]],
+[622, [138,187,389,449]],
+[707, [51]],
+[708, [104]],
+[389, [58,59,72,94,138,139,160,161]],
+[388, [64,65,78,102,146,147,170,171]],
+[780, [155,156,160,161,168,171,175,229,233]],
+[781, [165,166,170,171,178,181,185,239,243]],
+[367, [109,110,218,219]],
+[366, [109,110,238,239]],
+[430, [80,97,154,155,156]],
+[581, [62,79]],
+[580, [60]],
+[477, [62]],
 [30, [149,150,151,165,166,167,168,169,170,171,242,243,244,247,248,249,250,252,253,254,255,256,264,265,338,339,341,342,343,344,345,346,420,459,460,461,462,463,464,465,466,569,570,571,572,573,574,575,578,579,580,581,582,583,584,585,639,640,641,642,684,685,695,696,714,762,763,771,772,780,781]],
-[566, [344,352,360,363,364,373,374,376]],
-[564, [316,324,332,334,335,343,344,346]],
-[500, [393,401,409,412,413,414,415,424,425,427,428,429]],
-[297, [86,87,217,218,231,232]],
-[312, [195,225,238,386,397,401,490,495,589,594,673,678]],
-[401, [84,89]],
-[578, [86,91]],
-[582, [84,89]],
-[394, [59,60]],
-[829, [18,22]],
-[238, [48]],
-[241, [27,48]],
-[791, [23,53]],
-[653, [45]],
-[800, [23,56]],
-[808, [22,31]],
-[783, [22,28,33,37]],
-[376, [58,59,72,94,176,177,198,199]],
-[377, [64,65,78,102,183,184,207,208]],
-[271, [66,77,88]],
-[275, [70,85,135,168]],
-[276, [62,113]],
-[569, [40,49]],
-[120, [47,65]],
-[292, [112,113,126,145,146,163,164]],
-[294, [74,75,88,115,116,141,142]],
-[370, [58,59,72,94,140,141,162,163]],
-[368, [36,40]],
-[382, [58,59,72,94,156,157,178,179]],
-[381, [36,40]],
-[250, [70,71,72,73]],
-[295, [468,502,503,505]],
-[426, [107,132,252,267,306]],
-[565, [91,92,124,131,173]],
-[202, [162,163,206,207,527,528]],
-[203, [158,159,160,161,162,241,242,243,244,245,657,658,659,660,661]],
-[468, [121,122,142,143]],
-[383, [50,51,64,83,160,161,182,183]],
-[392, [57,74,144]],
-[399, [43,69]],
-[398, [44,89]],
-[396, [34,61]],
-[397, [33,57]],
-[393, [43,86]],
-[306, [43,105]],
-[390, [35,63]],
-[77, [44,45,71,72,77,78]],
-[590, [36,53]],
-[78, [74,111]],
-[529, [81,175,267,292,397]],
-[177, [77,240,248,263]],
-[166, [85,237,254,264]],
-[178, [72,73,262,263,271,272,281,282,378,379,437,438]],
-[573, [69,114,164,165,241,242,256,257,405,406,407]],
-[179, [63,64,196,197,280,281,328,329]],
-[180, [63,64,168,169,252,253,299,301]],
-[167, [82,83,234,235,243,244,257,258,346,347,392,393]],
-[609, [39,89]],
-[608, [38,102,108]],
-[711, [57,58,75,76]],
-[583, [65,112]],
-[449, [225,226]],
-[596, [130,158]],
-[592, [73,79,84,90]],
-[593, [71,77,82,88]],
-[594, [61,67,72,78]],
-[595, [62,68,73,79]],
-[229, [69,92]]
+[588, [344,352,360,363,364,373,374,376]],
+[585, [316,324,332,334,335,343,344,346]],
+[517, [393,401,409,412,413,414,415,424,425,427,428,429]],
+[310, [86,87,217,218,231,232]],
+[327, [195,225,238,386,397,401,490,495,589,594,673,678]],
+[418, [84,89]],
+[600, [86,91]],
+[604, [84,89]],
+[411, [59,60]],
+[851, [18,22]],
+[248, [48]],
+[251, [27,48]],
+[813, [23,53]],
+[675, [45]],
+[822, [23,56]],
+[830, [22,31]],
+[805, [22,28,33,37]],
+[393, [58,59,72,94,176,177,198,199]],
+[394, [64,65,78,102,183,184,207,208]],
+[284, [66,77,88]],
+[288, [70,85,135,168]],
+[289, [62,113]],
+[591, [40,49]],
+[129, [47,65]],
+[305, [112,113,126,145,146,163,164]],
+[307, [74,75,88,115,116,141,142]],
+[387, [58,59,72,94,140,141,162,163]],
+[385, [36,40]],
+[399, [58,59,72,94,156,157,178,179]],
+[398, [36,40]],
+[260, [70,71,72,73]],
+[308, [468,502,503,505]],
+[443, [107,132,252,267,306]],
+[587, [91,92,124,131,173]],
+[212, [162,163,206,207,527,528]],
+[213, [158,159,160,161,162,241,242,243,244,245,657,658,659,660,661]],
+[485, [121,122,142,143]],
+[400, [50,51,64,83,160,161,182,183]],
+[409, [57,74,144]],
+[416, [43,69]],
+[415, [44,89]],
+[413, [34,61]],
+[414, [33,57]],
+[410, [43,86]],
+[321, [43,105]],
+[407, [35,63]],
+[79, [44,45,71,72,77,78]],
+[612, [36,53]],
+[80, [74,111]],
+[546, [81,175,267,292,397]],
+[187, [77,240,248,263]],
+[176, [85,237,254,264]],
+[188, [72,73,262,263,271,272,281,282,378,379,437,438]],
+[595, [69,114,164,165,241,242,256,257,405,406,407]],
+[189, [63,64,196,197,280,281,328,329]],
+[190, [63,64,168,169,252,253,299,301]],
+[177, [82,83,234,235,243,244,257,258,346,347,392,393]],
+[631, [39,89]],
+[630, [38,102,108]],
+[733, [57,58,75,76]],
+[605, [65,112]],
+[466, [225,226]],
+[618, [130,158]],
+[614, [73,79,84,90]],
+[615, [71,77,82,88]],
+[616, [61,67,72,78]],
+[617, [62,68,73,79]],
+[239, [69,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[373, [114,122]],
-[374, [114,122]],
-[375, [114,122]]
+[390, [114,122]],
+[391, [114,122]],
+[392, [114,122]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[523, [106]],
-[554, [51]],
-[555, [51]],
-[818, [85]],
-[831, [33]],
-[497, [121]]
+[540, [106]],
+[575, [51]],
+[576, [51]],
+[840, [85]],
+[853, [33]],
+[514, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "Style":{
 "files": [
-[677, [53]]
+[699, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[470, [190]],
-[471, [108]],
-[472, [139]],
-[473, [126]],
-[712, [161]],
-[713, [147]],
+[487, [190]],
+[488, [108]],
+[489, [139]],
+[490, [126]],
+[734, [161]],
+[735, [147]],
 [29, [334]],
 [33, [294]],
 [34, [292]],
-[474, [108]],
-[475, [108]],
-[476, [117]],
-[477, [134]],
-[461, [158]],
-[715, [83]],
-[760, [42]],
-[478, [105]],
-[431, [155]],
-[155, [412]],
-[435, [149]],
-[408, [60,71]],
-[479, [82]],
-[480, [112]],
-[481, [108]],
-[482, [107]],
-[483, [82]],
-[485, [82]],
-[488, [108]],
-[489, [108]],
-[815, [55,57,63,72,76,98]],
-[726, [41,66]],
-[729, [35,60]],
-[843, [32]],
-[844, [33]],
-[845, [34,56]],
-[170, [162]]
+[491, [108]],
+[492, [108]],
+[493, [117]],
+[494, [134]],
+[478, [158]],
+[737, [83]],
+[782, [42]],
+[495, [105]],
+[448, [155]],
+[165, [412]],
+[452, [149]],
+[425, [60,71]],
+[496, [82]],
+[497, [112]],
+[498, [108]],
+[499, [107]],
+[500, [82]],
+[502, [82]],
+[505, [108]],
+[506, [108]],
+[837, [55,57,63,72,76,98]],
+[748, [41,66]],
+[751, [35,60]],
+[865, [32]],
+[866, [33]],
+[867, [34,56]],
+[180, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93]],
-[116, [109]],
-[191, [410]],
-[323, [93]],
-[449, [215]]
+[339, [91]],
+[295, [89]],
+[124, [93]],
+[125, [109]],
+[201, [410]],
+[338, [93]],
+[466, [215]],
+[453, [280]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[373, [198,199,210,211]],
-[374, [198,199,210,211]],
-[375, [198,199,210,211]],
-[121, [150,156]],
-[122, [29,52]],
-[492, [49]],
-[152, [81,134]],
-[436, [75]],
-[439, [71]]
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[390, [198,199,210,211]],
+[391, [198,199,210,211]],
+[392, [198,199,210,211]],
+[130, [150,156]],
+[131, [29,52]],
+[509, [49]],
+[162, [81,134]],
+[453, [84]],
+[456, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[191, [411]],
-[449, [216]]
+[201, [411]],
+[466, [216]]
 ],
 "memberKind": "Property"
 }
@@ -46022,44 +47292,44 @@ var contents = {
 "members": {
 "Dispatcher":{
 "files": [
-[157, [77]]
+[167, [77]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetAttachedFlyout`1":{
 "files": [
-[852, [44]]
+[874, [44]]
 ],
 "memberKind": "Method"
 }
 ,
 "Hide`0":{
 "files": [
-[852, [58]],
-[830, [43]],
-[497, [168]]
+[874, [58]],
+[852, [43]],
+[514, [168]]
 ],
 "memberKind": "Method"
 }
 ,
 "Placement":{
 "files": [
-[852, [46]]
+[874, [46]]
 ],
 "memberKind": "Property"
 }
 ,
 "ShowAt`1":{
 "files": [
-[852, [47]]
+[874, [47]]
 ],
 "memberKind": "Method"
 }
 ,
 "ShowAttachedFlyout`1":{
 "files": [
-[830, [34]]
+[852, [34]]
 ],
 "memberKind": "Method"
 }
@@ -46070,7 +47340,7 @@ var contents = {
 "members": {
 "Bottom":{
 "files": [
-[852, [46]]
+[874, [46]]
 ],
 "memberKind": "Field"
 }
@@ -46081,13 +47351,13 @@ var contents = {
 "members": {
 "Children":{
 "files": [
-[341, [203,224]],
-[683, [59,68,71]],
-[668, [52,84,89,95,97]],
-[694, [34,69]],
-[815, [70,79,96,101]],
-[819, [76]],
-[438, [107]]
+[358, [203,224]],
+[705, [59,68,71]],
+[690, [52,84,89,95,97]],
+[716, [34,69]],
+[837, [70,79,96,101]],
+[841, [76]],
+[455, [107]]
 ],
 "memberKind": "?"
 }
@@ -46095,26 +47365,49 @@ var contents = {
 "Visibility":{
 "files": [
 [45, [263,264,275,276]],
-[159, [58,59,60]],
-[430, [39,40,41]],
-[473, [115,120]],
-[154, [211,225,320,329,343,348,407,412]],
-[721, [91]],
-[395, [243,248,253]],
+[169, [58,59,60]],
+[447, [39,40,41]],
+[490, [115,120]],
+[164, [211,225,320,329,343,348,407,412]],
+[743, [91]],
+[351, [65,71]],
+[352, [104,110]],
+[412, [266,271,276]],
 [67, [56,115,116,132,133,175,176]],
-[275, [48,56]],
-[465, [141,278,314]],
-[541, [170]],
-[540, [244,296]],
-[145, [108]],
-[146, [78]],
-[147, [84]],
-[155, [195,209,304,313,327,332,391,396]],
-[310, [163,167]],
-[480, [102,107]],
-[695, [65,88,90]]
+[288, [48,56]],
+[482, [141,278,314]],
+[558, [170]],
+[557, [244,296]],
+[155, [108]],
+[156, [78]],
+[157, [84]],
+[165, [195,209,304,313,327,332,391,396]],
+[325, [163,167]],
+[497, [102,107]],
+[717, [65,88,90]]
 ],
 "memberKind": "?"
+}
+}
+}
+,
+"Popup":{
+"members": {
+"HorizontalOffset":{
+"files": [
+[194, [146]]
+],
+"memberKind": "Property"
+}
+,
+"IsOpen":{
+"files": [
+[390, [64,69,80,85]],
+[391, [64,69,80,85]],
+[392, [64,69,80,85]],
+[194, [142,147]]
+],
+"memberKind": "Property"
 }
 }
 }
@@ -46123,10 +47416,10 @@ var contents = {
 "members": {
 "IsEnabled":{
 "files": [
-[543, [109]],
-[546, [146,152,174,180,202,208,230,231,232,233,242,243,244,245]],
-[203, [163,240,575,671]],
-[498, [40,46,52]]
+[560, [109]],
+[563, [146,152,174,180,202,208,230,231,232,233,242,243,244,245]],
+[213, [163,240,575,671]],
+[515, [40,46,52]]
 ],
 "memberKind": "Property"
 }
@@ -46134,23 +47427,23 @@ var contents = {
 "Value":{
 "files": [
 [49, [65,76,117,120]],
-[543, [138]],
-[546, [162,190,218,270,279,288,297]],
-[73, [289,296,325,336]],
-[880, [126,139,191]],
+[560, [138]],
+[563, [162,190,218,270,279,288,297]],
+[74, [289,296,325,336]],
+[902, [126,139,191]],
 [30, [96,294,308,434,661,701]],
-[143, [83,84,85,86]],
-[203, [149,670]],
-[493, [85]],
-[881, [33]],
-[498, [45,51,192,197]]
+[153, [83,84,85,86]],
+[213, [149,670]],
+[510, [85]],
+[903, [33]],
+[515, [45,51,192,197]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[209, [271,310]]
+[219, [271,310]]
 ],
 "memberKind": "Property"
 }
@@ -46161,9 +47454,9 @@ var contents = {
 "members": {
 "NewValue":{
 "files": [
-[203, [578]],
-[726, [32]],
-[498, [63]]
+[213, [578]],
+[748, [32]],
+[515, [63]]
 ],
 "memberKind": "Property"
 }
@@ -46183,121 +47476,125 @@ var contents = {
 ,
 "DataContext":{
 "files": [
-[289, [49]],
-[834, [177]],
-[207, [41]],
-[710, [54]]
+[302, [49]],
+[856, [177]],
+[217, [41]],
+[732, [54]]
 ],
 "memberKind": "?"
 }
 ,
 "DisplayMemberPath":{
 "files": [
-[123, [286]],
-[127, [236]]
+[132, [286]],
+[136, [236]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[284, [512]],
-[285, [534]],
-[286, [532]],
-[123, [57,62]],
+[297, [512]],
+[298, [534]],
+[299, [532]],
+[132, [57,62]],
 [30, [103,206,293]],
-[566, [361,362,372,375]],
-[564, [333,345]],
-[500, [410,411,423,426]],
-[291, [113,126]],
-[297, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
-[311, [108,118,128,149]],
-[312, [194,224,453,464,516,562,615,645,702]],
-[295, [505]],
-[468, [62,123,144]],
-[529, [200,235,246,341,366,375]],
-[177, [316,393,407]],
-[166, [295,307,329]],
-[178, [380,436]],
-[179, [282,327]],
-[180, [254,300]],
-[167, [348,391]],
-[127, [57,62]]
+[588, [361,362,372,375]],
+[585, [333,345]],
+[517, [410,411,423,426]],
+[304, [113,126]],
+[310, [98,103,108,113,135,145,155,180,190,200,261,271,281,307,317,327,358]],
+[326, [108,118,128,149]],
+[327, [194,224,453,464,516,562,615,645,702]],
+[308, [505]],
+[485, [62,123,144]],
+[546, [200,235,246,341,366,375]],
+[187, [316,393,407]],
+[176, [295,307,329]],
+[188, [380,436]],
+[189, [282,327]],
+[190, [254,300]],
+[177, [348,391]],
+[136, [57,62]]
 ],
 "memberKind": "?"
 }
 ,
 "Items":{
 "files": [
-[470, [120,122]],
-[298, [170,172,175]],
-[283, [80,105,114,118]],
-[262, [254]],
+[487, [120,122]],
+[311, [170,172,175]],
+[296, [80,105,114,118]],
+[273, [254]],
 [68, [314]],
-[385, [92,125,149]],
-[406, [66]],
+[276, [68,71,189,222,280]],
+[277, [115,165,222]],
+[70, [175,231,264]],
+[568, [172]],
+[402, [92,125,149]],
+[423, [66]],
 [30, [737]],
-[291, [110,112,119,123]],
-[297, [96,97,101,102,106,107,111,112,133,134,144,154,178,179,189,199,259,260,269,270,279,280,305,306,315,316,325,326,344,345,346,347,348,349,352,355]],
-[311, [106,107,116,117,126,127,148,256,257]],
-[312, [140,145,449,460,514,558,613,641,692,697]],
-[603, [38,92,159]],
-[468, [57,63]],
-[529, [106]],
-[177, [114]],
-[166, [124]],
-[178, [110]],
-[179, [96]],
-[180, [96]],
-[167, [120]],
-[181, [116]],
-[182, [115]]
+[304, [110,112,119,123]],
+[310, [96,97,101,102,106,107,111,112,133,134,144,154,178,179,189,199,259,260,269,270,279,280,305,306,315,316,325,326,344,345,346,347,348,349,352,355]],
+[326, [106,107,116,117,126,127,148,256,257]],
+[327, [140,145,449,460,514,558,613,641,692,697]],
+[625, [38,92,159]],
+[485, [57,63]],
+[546, [106]],
+[187, [114]],
+[176, [124]],
+[188, [110]],
+[189, [96]],
+[190, [96]],
+[177, [120]],
+[191, [116]],
+[192, [115]]
 ],
 "memberKind": "Property"
 }
 ,
 "ItemsSource":{
 "files": [
-[470, [56]],
-[471, [44]],
-[508, [82]],
-[472, [69]],
-[473, [48]],
-[123, [285]],
-[323, [43]],
-[287, [47]],
-[75, [37]],
-[300, [38]],
-[290, [47]],
+[487, [56]],
+[488, [44]],
+[525, [82]],
+[489, [69]],
+[490, [48]],
+[132, [285]],
+[338, [43]],
+[300, [47]],
+[77, [37]],
+[313, [38]],
+[303, [47]],
 [29, [223]],
 [33, [183]],
 [34, [181]],
-[474, [44]],
-[870, [88]],
-[686, [70,89,90]],
-[475, [44]],
-[477, [70]],
+[491, [44]],
+[892, [88]],
+[708, [70,89,90]],
+[492, [44]],
+[494, [70]],
 [30, [124,745]],
-[587, [71]],
-[117, [44,47,53]],
-[750, [37]],
-[461, [53]],
-[394, [64,139,157,175,200]],
-[478, [41]],
-[431, [51,55]],
-[143, [34]],
-[435, [59]],
-[127, [235]],
-[716, [161]],
-[479, [44]],
-[480, [43]],
-[481, [44]],
-[482, [43]],
-[483, [44]],
-[485, [44]],
-[488, [44]],
-[489, [44]],
-[518, [42]]
+[609, [71]],
+[126, [44,47,53]],
+[772, [37]],
+[478, [53]],
+[411, [64,139,157,175,200]],
+[495, [41]],
+[448, [51,55]],
+[153, [34]],
+[452, [59]],
+[136, [235]],
+[738, [161]],
+[496, [44]],
+[497, [43]],
+[498, [44]],
+[499, [43]],
+[500, [44]],
+[502, [44]],
+[505, [44]],
+[506, [44]],
+[535, [42]]
 ],
 "memberKind": "Property"
 }
@@ -46313,176 +47610,181 @@ var contents = {
 ,
 "SelectedIndex":{
 "files": [
-[470, [64,89,130]],
-[471, [47,51]],
-[508, [83,86,112,116]],
-[183, [35]],
+[487, [64,89,130]],
+[488, [47,51]],
+[525, [83,86,112,116]],
+[193, [35]],
 [45, [70,87,102,122,207,221]],
 [49, [39,79]],
-[472, [46,52,72,76]],
-[298, [183,256]],
-[473, [51,55]],
-[284, [490,496]],
-[336, [73]],
-[338, [73,109]],
-[285, [512,518]],
-[385, [92,125,149,263]],
-[286, [510,516]],
-[403, [80,116]],
-[406, [70,94]],
-[323, [44]],
-[287, [48]],
-[75, [38]],
-[300, [39]],
-[289, [50]],
-[290, [48]],
-[622, [42,67,142,144]],
-[623, [41,66,136,138]],
+[489, [46,52,72,76]],
+[311, [183,256]],
+[490, [51,55]],
+[276, [95]],
+[109, [103]],
+[297, [490,496]],
+[353, [73]],
+[355, [73,109]],
+[298, [512,518]],
+[402, [92,125,149,263]],
+[299, [510,516]],
+[420, [80,116]],
+[423, [70,94]],
+[338, [44]],
+[300, [48]],
+[77, [38]],
+[313, [39]],
+[302, [50]],
+[303, [48]],
+[644, [42,67,142,144]],
+[645, [41,66,136,138]],
 [29, [224]],
 [33, [184]],
 [34, [182]],
-[474, [47,51]],
-[686, [101]],
-[475, [47,51]],
-[841, [50]],
-[477, [73,77]],
+[491, [47,51]],
+[708, [101]],
+[492, [47,51]],
+[863, [50]],
+[494, [73,77]],
 [30, [746]],
-[566, [135,276,392,394]],
-[564, [258]],
-[500, [153,325,445,447]],
-[297, [253,299]],
-[311, [100]],
-[312, [157,219,228,229,230,351,479,512,576,611,659]],
-[587, [74]],
+[588, [135,276,392,394]],
+[585, [258]],
+[517, [153,325,445,447]],
+[310, [253,299]],
+[326, [100]],
+[327, [157,219,228,229,230,351,479,512,576,611,659]],
+[609, [74]],
 [4, [93]],
-[117, [45,48]],
-[461, [56,60]],
-[478, [44,48]],
-[431, [61,69,73,107]],
-[295, [483,489]],
+[126, [45,48]],
+[478, [56,60]],
+[495, [44,48]],
+[448, [61,69,73,107]],
+[308, [483,489]],
 [5, [77]],
-[467, [43,96]],
-[468, [65,202]],
-[435, [64,72,91]],
-[207, [45]],
-[710, [57]],
-[871, [40]],
-[410, [59]],
-[479, [47,51]],
-[480, [46,50]],
-[481, [47,51]],
-[482, [46,50]],
-[483, [47,51]],
-[485, [47,51]],
-[488, [47,51]],
-[489, [47,51]],
-[727, [68]],
-[728, [64]],
-[498, [36,74,100,129,155]]
+[484, [43,96]],
+[485, [65,202]],
+[452, [64,72,91]],
+[217, [45]],
+[732, [57]],
+[893, [40]],
+[427, [59]],
+[496, [47,51]],
+[497, [46,50]],
+[498, [47,51]],
+[499, [46,50]],
+[500, [47,51]],
+[502, [47,51]],
+[505, [47,51]],
+[506, [47,51]],
+[749, [68]],
+[750, [64]],
+[515, [36,74,100,129,155]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedItem":{
 "files": [
-[470, [132]],
-[452, [126]],
-[471, [67]],
-[472, [47,53,92]],
-[473, [76]],
-[444, [116]],
-[445, [54]],
-[283, [149,159,184,210]],
-[638, [296]],
-[605, [87,94,133,135,157,163]],
-[385, [97,101,105,109,113,131,135,139,154,158,162,166]],
-[123, [118]],
-[323, [77]],
-[287, [76]],
-[75, [75]],
-[300, [53]],
-[289, [144]],
-[290, [80]],
+[487, [132]],
+[469, [126]],
+[488, [67]],
+[489, [47,53,92]],
+[490, [76]],
+[461, [116]],
+[462, [54]],
+[296, [149,159,184,210]],
+[570, [80]],
+[568, [101,116]],
+[569, [105,125]],
+[660, [296]],
+[627, [87,94,133,135,157,163]],
+[402, [97,101,105,109,113,131,135,139,154,158,162,166]],
+[132, [118]],
+[338, [77]],
+[300, [76]],
+[77, [75]],
+[313, [53]],
+[302, [144]],
+[303, [80]],
 [29, [295,299]],
 [33, [255,259]],
 [34, [253,257]],
-[474, [67]],
-[675, [51]],
-[686, [51]],
-[475, [67]],
-[834, [184]],
-[841, [39,43,68]],
-[477, [93]],
-[587, [92,94]],
-[117, [98,99,100]],
-[750, [111]],
-[461, [85]],
-[394, [127,147,165,183,227]],
-[256, [22]],
-[258, [58]],
-[478, [64]],
-[431, [62,104]],
-[143, [35,42]],
-[467, [97,116]],
-[529, [110,125]],
-[177, [118,133]],
-[166, [128,142]],
-[178, [114,128]],
-[179, [100,115]],
-[180, [100,314]],
-[167, [124,139]],
-[181, [122,134]],
-[182, [121,133]],
-[435, [65,88]],
-[127, [95]],
-[410, [92,96]],
-[411, [112,116,120]],
-[412, [125]],
-[479, [64]],
-[480, [66]],
-[481, [67]],
-[482, [66]],
-[483, [64]],
-[485, [64]],
-[488, [67]],
-[489, [67]],
-[518, [43,49]]
+[491, [67]],
+[697, [51]],
+[708, [51]],
+[492, [67]],
+[856, [184]],
+[863, [39,43,68]],
+[494, [93]],
+[609, [92,94]],
+[126, [98,99,100]],
+[772, [111]],
+[478, [85]],
+[411, [127,147,165,183,227]],
+[267, [22]],
+[269, [58]],
+[495, [64]],
+[448, [62,104]],
+[153, [35,42]],
+[484, [97,116]],
+[546, [110,125]],
+[187, [118,133]],
+[176, [128,142]],
+[188, [114,128]],
+[189, [100,115]],
+[190, [100,314]],
+[177, [124,139]],
+[191, [122,134]],
+[192, [121,133]],
+[452, [65,88]],
+[136, [95]],
+[427, [92,96]],
+[428, [112,116,120]],
+[429, [125]],
+[496, [64]],
+[497, [66]],
+[498, [67]],
+[499, [66]],
+[500, [64]],
+[502, [64]],
+[505, [67]],
+[506, [67]],
+[535, [43,49]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedValue":{
 "files": [
-[508, [110,119]],
-[183, [64]],
-[385, [269]],
-[317, [130]],
-[312, [257,260,263,266,269,272,275,303,306,309]],
-[468, [112]],
-[392, [167,182,197,212]],
-[205, [46]],
+[525, [110,119]],
+[193, [64]],
+[402, [269]],
+[332, [130]],
+[327, [257,260,263,266,269,272,275,303,306,309]],
+[485, [112]],
+[409, [167,182,197,212]],
+[215, [46]],
 [48, [50]],
-[710, [63]],
-[493, [69]]
+[732, [63]],
+[510, [69]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionChanged":{
 "files": [
-[470, [51,119,148]],
-[508, [84]],
+[487, [51,119,148]],
+[525, [84]],
 [29, [116]],
 [33, [76]],
 [34, [74]],
-[841, [58]],
-[566, [49]],
-[564, [46]],
-[500, [55]],
-[177, [105,122]],
-[166, [115,131]],
-[178, [101,117]],
-[167, [111,128]]
+[863, [58]],
+[588, [49]],
+[585, [46]],
+[517, [55]],
+[187, [105,122]],
+[176, [115,131]],
+[188, [101,117]],
+[177, [111,128]]
 ],
 "memberKind": "Event"
 }
@@ -46490,8 +47792,9 @@ var contents = {
 "Visibility":{
 "files": [
 [45, [286,296]],
-[686, [102]],
-[312, [454,465,517,563,616,646,703]]
+[276, [73,93,278]],
+[708, [102]],
+[327, [454,465,517,563,616,646,703]]
 ],
 "memberKind": "?"
 }
@@ -46502,98 +47805,101 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[836, [76]],
-[342, [120]]
+[858, [76]],
+[359, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "ClearValue`1":{
 "files": [
-[836, [106]],
-[436, [302]]
+[858, [106]],
+[453, [311]]
 ],
 "memberKind": "Method"
 }
 ,
 "Content":{
 "files": [
-[444, [117]],
-[445, [55]],
-[638, [211]],
-[605, [94,135,163]],
+[461, [117]],
+[462, [55]],
+[570, [101]],
+[568, [170]],
+[569, [188,224]],
+[660, [211]],
+[627, [94,135,163]],
 [29, [217,300]],
 [33, [177,260]],
 [34, [175,258]],
-[587, [67,95]],
-[467, [97,116]],
-[529, [104]],
-[177, [112]],
-[166, [122]],
-[178, [108]],
-[179, [94]],
-[180, [94]],
-[167, [118]],
-[181, [115]],
-[182, [114]],
-[221, [62,110]],
-[222, [62,110]],
-[411, [112,116,120]],
-[412, [125]],
-[835, [16]],
-[814, [21]],
-[490, [94,99]]
+[609, [67,95]],
+[484, [97,116]],
+[546, [104]],
+[187, [112]],
+[176, [122]],
+[188, [108]],
+[189, [94]],
+[190, [94]],
+[177, [118]],
+[191, [115]],
+[192, [114]],
+[231, [62,110]],
+[232, [62,110]],
+[428, [112,116,120]],
+[429, [125]],
+[857, [16]],
+[836, [21]],
+[507, [94,99]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentTemplateRoot":{
 "files": [
-[342, [125]]
+[359, [125]]
 ],
 "memberKind": "Property"
 }
 ,
 "FindName`1":{
 "files": [
-[342, [115]]
+[359, [115]]
 ],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
 "files": [
-[720, [234]]
+[742, [234]]
 ],
 "memberKind": "Method"
 }
 ,
 "Height":{
 "files": [
-[836, [99]]
+[858, [99]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSelected":{
 "files": [
-[529, [109]],
-[177, [117]],
-[166, [127]],
-[178, [113]],
-[179, [99]],
-[180, [99]],
-[167, [123]],
-[181, [121]],
-[182, [120]],
-[720, [98,102]]
+[546, [109]],
+[187, [117]],
+[176, [127]],
+[188, [113]],
+[189, [99]],
+[190, [99]],
+[177, [123]],
+[191, [121]],
+[192, [120]],
+[742, [98,102]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsTabStop":{
 "files": [
-[436, [214,216]]
+[453, [223,225]]
 ],
 "memberKind": "Property"
 }
@@ -46603,40 +47909,43 @@ var contents = {
 [29, [218]],
 [33, [178]],
 [34, [176]],
-[675, [51]],
-[841, [44]],
-[587, [66]],
-[181, [113]],
-[182, [112]]
+[697, [51]],
+[863, [44]],
+[609, [66]],
+[191, [113]],
+[192, [112]]
 ],
 "memberKind": "Property"
 }
 ,
 "Padding":{
 "files": [
-[342, [124]]
+[359, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[436, [298]]
+[453, [307]]
 ],
 "memberKind": "Method"
 }
 ,
 "Tag":{
 "files": [
-[529, [103,126]],
-[177, [111,134]],
-[166, [121,143]],
-[178, [107,129]],
-[179, [93,116]],
-[180, [93,315]],
-[167, [117,140]],
-[181, [114,135]],
-[182, [113,134]]
+[570, [81,102]],
+[568, [102,117,171]],
+[569, [106,126,190,225]],
+[546, [103,126]],
+[187, [111,134]],
+[176, [121,143]],
+[188, [107,129]],
+[189, [93,116]],
+[190, [93,315]],
+[177, [117,140]],
+[191, [114,135]],
+[192, [113,134]]
 ],
 "memberKind": "Property"
 }
@@ -46645,18 +47954,39 @@ var contents = {
 ,
 "ToggleButton":{
 "members": {
+"ActualHeight":{
+"files": [
+[453, [281]]
+],
+"memberKind": "Property"
+}
+,
+"ActualWidth":{
+"files": [
+[453, [281]]
+],
+"memberKind": "Property"
+}
+,
 "Click":{
 "files": [
-[131, [42]]
+[141, [42]]
 ],
 "memberKind": "Event"
 }
 ,
 "Content":{
 "files": [
-[839, [35]]
+[861, [35]]
 ],
 "memberKind": "Property"
+}
+,
+"Focus`1":{
+"files": [
+[453, [67]]
+],
+"memberKind": "Method"
 }
 ,
 "IsChecked":{
@@ -46665,54 +47995,55 @@ var contents = {
 [47, [56]],
 [50, [52]],
 [49, [63,70,100,101,102,103,104,105,106]],
-[345, [127,198]],
-[348, [242,268,307,308]],
-[131, [33,70,73]],
-[108, [58]],
-[605, [86]],
-[123, [51,116,136,142,150]],
-[579, [61,128]],
-[535, [58,62,66,70]],
-[154, [338,353,402]],
-[624, [50,53,57,74,93,125,141]],
-[675, [54]],
-[674, [55]],
-[721, [77]],
-[812, [23,28]],
-[611, [99,103,107,112,116]],
-[832, [52]],
-[875, [85,89]],
-[526, [35]],
+[362, [127,198]],
+[365, [242,268,307,308]],
+[141, [33,70,73]],
+[117, [58]],
+[627, [86]],
+[132, [51,116,136,142,150]],
+[601, [61,128]],
+[552, [58,62,66,70]],
+[164, [338,353,402]],
+[646, [50,53,57,74,93,125,141]],
+[697, [54]],
+[696, [55]],
+[743, [77]],
+[834, [23,28]],
+[633, [99,103,107,112,116]],
+[854, [52]],
+[897, [85,89]],
+[543, [35]],
 [30, [106,107,108,154,348,349,350,351]],
-[566, [98]],
-[564, [106]],
-[500, [116]],
-[394, [53,54]],
-[395, [137,144,146,153,161,168,191,203,214,240,245]],
-[800, [32,35,38,41,44,45,46]],
-[466, [62]],
-[491, [24,32]],
-[143, [52,57]],
-[155, [322,337,386]],
-[77, [113,120,130,134,138,142,146,156,160,164,168]],
-[127, [52,93,122,128,136]],
-[722, [30,34,38,60,88]],
-[122, [28,29,30,50,65]],
-[792, [45,51,52,57,58,59,79,87,92,93,94,109,110,111,117,123,128]],
-[314, [71,81]],
-[410, [57,58,61,62,64,78,82,86,125,126]],
-[411, [126,141]],
-[310, [180]],
-[695, [114,130,134,138]],
-[153, [42,47,81,86]],
-[152, [78]],
-[818, [70,75]],
-[819, [74,78]],
-[820, [70,75]],
-[833, [62,67,78,79,80,84,94,95,96,98,100,101,102,104,109]],
-[493, [86]],
-[438, [108,111]],
-[170, [72,77,82,131,136,141]]
+[588, [98]],
+[585, [106]],
+[517, [116]],
+[411, [53,54]],
+[412, [137,144,146,153,161,168,189,237,263,268]],
+[822, [32,35,38,41,44,45,46]],
+[483, [62]],
+[508, [24,32]],
+[153, [52,57]],
+[165, [322,337,386]],
+[79, [113,120,130,134,138,142,146,156,160,164,168]],
+[136, [52,93,122,128,136]],
+[744, [30,34,38,60,88]],
+[131, [28,29,30,50,65]],
+[814, [45,51,52,57,58,59,79,87,92,93,94,109,110,111,117,123,128]],
+[329, [71,81]],
+[427, [57,58,61,62,64,78,82,86,125,126]],
+[428, [126,141]],
+[325, [180]],
+[717, [114,130,134,138]],
+[163, [42,47,81,86]],
+[162, [78]],
+[840, [70,75]],
+[841, [74,78]],
+[842, [70,75]],
+[855, [62,67,78,79,80,84,94,95,96,98,100,101,102,104,109]],
+[510, [86]],
+[904, [27]],
+[455, [108,111]],
+[180, [72,77,82,131,136,141]]
 ],
 "memberKind": "Property"
 }
@@ -46720,28 +48051,35 @@ var contents = {
 "IsEnabled":{
 "files": [
 [30, [149,150,151,252,253,254,255,256,578,579,580,581,582,583,584,585]],
-[566, [364,376]],
-[564, [335,346]],
-[500, [415,429]]
+[588, [364,376]],
+[585, [335,346]],
+[517, [415,429]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[726, [41,66]],
-[729, [35,60]],
-[843, [32]],
-[844, [33]],
-[845, [34,56]]
+[748, [41,66]],
+[751, [35,60]],
+[865, [32]],
+[866, [33]],
+[867, [34,56]]
 ],
 "memberKind": "Property"
 }
 ,
+"TransformToVisual`1":{
+"files": [
+[453, [280]]
+],
+"memberKind": "Method"
+}
+,
 "Visibility":{
 "files": [
-[121, [150,156]],
-[122, [29,52]]
+[130, [150,156]],
+[131, [29,52]]
 ],
 "memberKind": "Property"
 }
@@ -46754,17 +48092,17 @@ var contents = {
 "members": {
 "Value":{
 "files": [
-[73, [289,296,325,336]],
-[880, [126,139,191]],
+[74, [289,296,325,336]],
+[902, [126,139,191]],
 [30, [96,294,308,434,661,701]],
-[881, [33]]
+[903, [33]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[209, [271,310]]
+[219, [271,310]]
 ],
 "memberKind": "Property"
 }
@@ -46775,11 +48113,11 @@ var contents = {
 "members": {
 "IsActive":{
 "files": [
-[283, [89,143,179,186,192,199]],
-[676, [40,62]],
-[677, [80,105]],
+[296, [89,143,179,186,192,199]],
+[698, [40,62]],
+[699, [80,105]],
 [30, [212,267,270]],
-[141, [30]]
+[151, [30]]
 ],
 "memberKind": "Property"
 }
@@ -46790,7 +48128,7 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[839, [35]]
+[861, [35]]
 ],
 "memberKind": "Property"
 }
@@ -46799,22 +48137,22 @@ var contents = {
 "files": [
 [45, [147,180]],
 [49, [63,70]],
-[123, [51,116,136,142,150]],
-[579, [61,128]],
-[624, [50,57,74,93,125,141]],
-[611, [99,103,107,112,116]],
-[875, [85,89]],
-[526, [35]],
+[132, [51,116,136,142,150]],
+[601, [61,128]],
+[646, [50,57,74,93,125,141]],
+[633, [99,103,107,112,116]],
+[897, [85,89]],
+[543, [35]],
 [30, [106,107,108,154,348,349,350,351]],
-[395, [137,146,161,191,203,214,240,245]],
-[143, [52,57]],
-[77, [113,120,130,134,138,142,146,156,160,164,168]],
-[127, [52,93,122,128,136]],
-[722, [30,34,38,60,88]],
-[695, [130,134,138]],
-[153, [42,47,81,86]],
-[152, [78]],
-[170, [72,77,82,131,136,141]]
+[412, [137,146,161,189,237,263,268]],
+[153, [52,57]],
+[79, [113,120,130,134,138,142,146,156,160,164,168]],
+[136, [52,93,122,128,136]],
+[744, [30,34,38,60,88]],
+[717, [130,134,138]],
+[163, [42,47,81,86]],
+[162, [78]],
+[180, [72,77,82,131,136,141]]
 ],
 "memberKind": "Property"
 }
@@ -46828,11 +48166,11 @@ var contents = {
 ,
 "Tag":{
 "files": [
-[726, [41,66]],
-[729, [35,60]],
-[843, [32]],
-[844, [33]],
-[845, [34,56]]
+[748, [41,66]],
+[751, [35,60]],
+[865, [32]],
+[866, [33]],
+[867, [34,56]]
 ],
 "memberKind": "Property"
 }
@@ -46843,9 +48181,9 @@ var contents = {
 "members": {
 "Visibility":{
 "files": [
-[821, [113]],
-[484, [46]],
-[507, [128]]
+[843, [113]],
+[501, [46]],
+[524, [128]]
 ],
 "memberKind": "Property"
 }
@@ -46856,42 +48194,42 @@ var contents = {
 "members": {
 "Document":{
 "files": [
-[497, [55,80,96,107,120,165]],
-[169, [59]],
-[226, [58]],
-[229, [55,81]],
-[170, [90]],
-[251, [69]],
-[171, [97,100,172,175]]
+[514, [55,80,96,107,120,165]],
+[179, [59]],
+[236, [58]],
+[239, [55,81]],
+[180, [90]],
+[261, [69]],
+[181, [97,100,172,175]]
 ],
 "memberKind": "Property"
 }
 ,
 "Focus`1":{
 "files": [
-[497, [167]]
+[514, [167]]
 ],
 "memberKind": "Method"
 }
 ,
 "Foreground":{
 "files": [
-[169, [60]],
-[171, [87,88,122,135,162,163,197,210]]
+[179, [60]],
+[181, [87,88,122,135,162,163,197,210]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsReadOnly":{
 "files": [
-[169, [58,61]]
+[179, [58,61]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[497, [175,179]]
+[514, [175,179]]
 ],
 "memberKind": "Property"
 }
@@ -46902,29 +48240,29 @@ var contents = {
 "members": {
 "Blocks":{
 "files": [
-[540, [267,283]]
+[557, [267,283]]
 ],
 "memberKind": "Property"
 }
 ,
 "OverflowContentTarget":{
 "files": [
-[540, [262,265]]
+[557, [262,265]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectedText":{
 "files": [
-[540, [198]]
+[557, [198]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[541, [165]],
-[540, [261,266]]
+[558, [165]],
+[557, [261,266]]
 ],
 "memberKind": "Property"
 }
@@ -46935,30 +48273,30 @@ var contents = {
 "members": {
 "HasOverflowContent":{
 "files": [
-[465, [206,311]]
+[482, [206,311]]
 ],
 "memberKind": "Property"
 }
 ,
 "OverflowContentTarget":{
 "files": [
-[882, [19]]
+[905, [19]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[541, [156]],
-[540, [253]]
+[558, [156]],
+[557, [253]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[465, [206,311]],
-[541, [166]]
+[482, [206,311]],
+[558, [166]]
 ],
 "memberKind": "Property"
 }
@@ -46969,29 +48307,29 @@ var contents = {
 "members": {
 "Auto":{
 "files": [
-[498, [103,158]]
+[515, [103,158]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disabled":{
 "files": [
-[498, [112,115,167]]
+[515, [112,115,167]]
 ],
 "memberKind": "Field"
 }
 ,
 "Hidden":{
 "files": [
-[498, [109,164]]
+[515, [109,164]]
 ],
 "memberKind": "Field"
 }
 ,
 "Visible":{
 "files": [
-[834, [62]],
-[498, [106,161,170]]
+[856, [62]],
+[515, [106,161,170]]
 ],
 "memberKind": "Field"
 }
@@ -47002,22 +48340,22 @@ var contents = {
 "members": {
 "Auto":{
 "files": [
-[498, [77,132]]
+[515, [77,132]]
 ],
 "memberKind": "Field"
 }
 ,
 "Disabled":{
 "files": [
-[498, [83,138]]
+[515, [83,138]]
 ],
 "memberKind": "Field"
 }
 ,
 "Enabled":{
 "files": [
-[834, [61]],
-[498, [80,86,135,141]]
+[856, [61]],
+[515, [80,86,135,141]]
 ],
 "memberKind": "Field"
 }
@@ -47028,51 +48366,51 @@ var contents = {
 "members": {
 "ActualWidth":{
 "files": [
-[451, [63]]
+[468, [63]]
 ],
 "memberKind": "Property"
 }
 ,
 "ChangeView`3":{
 "files": [
-[758, [99]],
-[759, [108]],
-[461, [150]],
-[464, [49]],
-[529, [423]],
-[454, [59]],
-[498, [44,50,63]]
+[780, [99]],
+[781, [108]],
+[478, [150]],
+[481, [49]],
+[546, [423]],
+[471, [59]],
+[515, [44,50,63]]
 ],
 "memberKind": "Method"
 }
 ,
 "ExtentHeight":{
 "files": [
-[461, [150]],
-[529, [423]]
+[478, [150]],
+[546, [423]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalOffset":{
 "files": [
-[448, [178]]
+[465, [178]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalScrollBarVisibility":{
 "files": [
-[834, [62]],
-[498, [103,106,109,112,115]]
+[856, [62]],
+[515, [103,106,109,112,115]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalScrollMode":{
 "files": [
-[834, [61]],
-[498, [77,80,83,86]]
+[856, [61]],
+[515, [77,80,83,86]]
 ],
 "memberKind": "Property"
 }
@@ -47086,102 +48424,102 @@ var contents = {
 ,
 "MaxHeight":{
 "files": [
-[461, [103,107]]
+[478, [103,107]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScrollableWidth":{
 "files": [
-[464, [48]]
+[481, [48]]
 ],
 "memberKind": "Property"
 }
 ,
 "SizeChanged":{
 "files": [
-[842, [36]]
+[864, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[451, [62]]
+[468, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "VerticalOffset":{
 "files": [
-[448, [178]],
-[454, [65]],
-[451, [71]]
+[465, [178]],
+[471, [65]],
+[468, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "VerticalScrollBarVisibility":{
 "files": [
-[498, [158,161,164,167,170]]
+[515, [158,161,164,167,170]]
 ],
 "memberKind": "Property"
 }
 ,
 "VerticalScrollMode":{
 "files": [
-[498, [132,135,138,141]]
+[515, [132,135,138,141]]
 ],
 "memberKind": "Property"
 }
 ,
 "ViewportHeight":{
 "files": [
-[842, [46]]
+[864, [46]]
 ],
 "memberKind": "Property"
 }
 ,
 "ViewportWidth":{
 "files": [
-[842, [45]]
+[864, [45]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[385, [50]],
-[387, [97]],
-[386, [49]],
-[258, [110,111,116,117]],
-[313, [95]],
-[315, [77,78,106,107]],
-[755, [45,46,57,58]],
-[412, [49,50,68,69]],
-[310, [131,158]]
+[402, [50]],
+[404, [97]],
+[403, [49]],
+[269, [110,111,116,117]],
+[328, [95]],
+[330, [77,78,106,107]],
+[777, [45,46,57,58]],
+[429, [49,50,68,69]],
+[325, [131,158]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[498, [181,185]]
+[515, [181,185]]
 ],
 "memberKind": "Property"
 }
 ,
 "ZoomFactor":{
 "files": [
-[448, [178]],
-[498, [192,197]]
+[465, [178]],
+[515, [192,197]]
 ],
 "memberKind": "Property"
 }
 ,
 "ZoomMode":{
 "files": [
-[498, [39,43,49]]
+[515, [39,43,49]]
 ],
 "memberKind": "Property"
 }
@@ -47192,9 +48530,9 @@ var contents = {
 "members": {
 "QueryText":{
 "files": [
-[184, [154]],
-[190, [257]],
-[861, [135]]
+[194, [154]],
+[200, [257]],
+[883, [135]]
 ],
 "memberKind": "Property"
 }
@@ -47205,21 +48543,21 @@ var contents = {
 "members": {
 "LinguisticDetails":{
 "files": [
-[190, [197]]
+[200, [197]]
 ],
 "memberKind": "Property"
 }
 ,
 "QueryText":{
 "files": [
-[190, [189,200]]
+[200, [189,200]]
 ],
 "memberKind": "Property"
 }
 ,
 "Request":{
 "files": [
-[190, [179,183]]
+[200, [179,183]]
 ],
 "memberKind": "Property"
 }
@@ -47230,23 +48568,23 @@ var contents = {
 "members": {
 "AddedItems":{
 "files": [
-[638, [208,210,220,222]],
-[209, [58]],
+[660, [208,210,220,222]],
+[219, [58]],
 [30, [159,161]],
-[756, [56,58]],
-[757, [126,128]],
-[727, [46]],
-[863, [86]],
-[728, [44]],
-[865, [86]],
-[490, [94,99]]
+[778, [56,58]],
+[779, [126,128]],
+[749, [46]],
+[885, [86]],
+[750, [44]],
+[887, [86]],
+[507, [94,99]]
 ],
 "memberKind": "Property"
 }
 ,
 "RemovedItems":{
 "files": [
-[638, [208,220,223]]
+[660, [208,220,223]]
 ],
 "memberKind": "Property"
 }
@@ -47257,10 +48595,10 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[841, [58]],
-[566, [49]],
-[564, [46]],
-[500, [55]]
+[863, [58]],
+[588, [49]],
+[585, [46]],
+[517, [55]]
 ],
 "memberKind": "Constructor"
 }
@@ -47271,7 +48609,7 @@ var contents = {
 "members": {
 "IsZoomedInViewActive":{
 "files": [
-[869, [57]]
+[891, [57]]
 ],
 "memberKind": "Property"
 }
@@ -47282,10 +48620,10 @@ var contents = {
 "members": {
 "IsEnabled":{
 "files": [
-[543, [109]],
-[546, [146,152,174,180,202,208,230,231,232,233,242,243,244,245]],
-[203, [163,240,575,671]],
-[498, [40,46,52]]
+[560, [109]],
+[563, [146,152,174,180,202,208,230,231,232,233,242,243,244,245]],
+[213, [163,240,575,671]],
+[515, [40,46,52]]
 ],
 "memberKind": "Property"
 }
@@ -47293,12 +48631,12 @@ var contents = {
 "Value":{
 "files": [
 [49, [65,76,117,120]],
-[543, [138]],
-[546, [162,190,218,270,279,288,297]],
-[143, [83,84,85,86]],
-[203, [149,670]],
-[493, [85]],
-[498, [45,51,192,197]]
+[560, [138]],
+[563, [162,190,218,270,279,288,297]],
+[153, [83,84,85,86]],
+[213, [149,670]],
+[510, [85]],
+[515, [45,51,192,197]]
 ],
 "memberKind": "Property"
 }
@@ -47309,75 +48647,83 @@ var contents = {
 "members": {
 "CompactPaneLength":{
 "files": [
-[720, [253]]
+[742, [253]]
 ],
 "memberKind": "Property"
 }
 ,
 "DisplayMode":{
 "files": [
-[436, [268,269]],
-[720, [228,229,250,251]],
-[490, [59,65,94]]
+[453, [277,278]],
+[742, [228,229,250,251]],
+[507, [59,65,94]]
+],
+"memberKind": "Property"
+}
+,
+"DisplayModeProperty":{
+"files": [
+[453, [71]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPaneOpen":{
 "files": [
-[470, [95,100,139,144,195]],
-[471, [73,113]],
-[472, [98,144]],
-[473, [82,131]],
-[474, [73,114]],
-[475, [73,113]],
-[477, [99,139]],
-[461, [97,163]],
-[478, [70,110]],
-[431, [160]],
-[435, [154]],
-[479, [70,87]],
-[480, [72,117]],
-[481, [73,113]],
-[482, [72,112]],
-[483, [70,87]],
-[485, [70,87]],
-[720, [227,231,245]],
+[487, [95,100,139,144,195]],
 [488, [73,113]],
-[837, [32]],
-[838, [38]],
-[489, [73,113]],
-[490, [57,60,64,70]],
-[438, [116,122]],
-[439, [114]]
+[489, [98,144]],
+[490, [82,131]],
+[491, [73,114]],
+[492, [73,113]],
+[494, [99,139]],
+[478, [97,163]],
+[495, [70,110]],
+[448, [160]],
+[452, [154]],
+[496, [70,87]],
+[497, [72,117]],
+[498, [73,113]],
+[499, [72,112]],
+[500, [70,87]],
+[502, [70,87]],
+[742, [227,231,245]],
+[505, [73,113]],
+[859, [32]],
+[860, [38]],
+[506, [73,113]],
+[507, [57,60,64,70]],
+[455, [116,122]],
+[456, [114]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsPaneOpenProperty":{
 "files": [
-[720, [55]]
+[742, [55]]
 ],
 "memberKind": "Property"
 }
 ,
 "PaneBackground":{
 "files": [
-[490, [101,110]]
+[507, [101,110]]
 ],
 "memberKind": "Property"
 }
 ,
 "PanePlacement":{
 "files": [
-[490, [79,83]]
+[507, [79,83]]
 ],
 "memberKind": "Property"
 }
 ,
 "RegisterPropertyChangedCallback`2":{
 "files": [
-[720, [55]]
+[453, [70]],
+[742, [55]]
 ],
 "memberKind": "Method"
 }
@@ -47388,31 +48734,31 @@ var contents = {
 "members": {
 "CompactInline":{
 "files": [
-[720, [250]]
+[742, [250]]
 ],
 "memberKind": "Field"
 }
 ,
 "CompactOverlay":{
 "files": [
-[720, [228,251]],
-[490, [59]]
+[742, [228,251]],
+[507, [59]]
 ],
 "memberKind": "Field"
 }
 ,
 "Inline":{
 "files": [
-[436, [268]],
-[490, [65]]
+[453, [277]],
+[507, [65]]
 ],
 "memberKind": "Field"
 }
 ,
 "Overlay":{
 "files": [
-[436, [269]],
-[720, [229]]
+[453, [278]],
+[742, [229]]
 ],
 "memberKind": "Field"
 }
@@ -47423,14 +48769,14 @@ var contents = {
 "members": {
 "Left":{
 "files": [
-[490, [83]]
+[507, [83]]
 ],
 "memberKind": "Field"
 }
 ,
 "Right":{
 "files": [
-[490, [79]]
+[507, [79]]
 ],
 "memberKind": "Field"
 }
@@ -47441,28 +48787,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[341, [200]]
+[358, [200]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
 "files": [
-[341, [203,224]],
-[683, [59,68,71]],
-[668, [52,84,89,95,97]],
-[694, [34,69]],
-[815, [70,79,96,101]],
-[819, [76]],
-[438, [107]]
+[358, [203,224]],
+[705, [59,68,71]],
+[690, [52,84,89,95,97]],
+[716, [34,69]],
+[837, [70,79,96,101]],
+[841, [76]],
+[455, [107]]
 ],
 "memberKind": "?"
 }
 ,
 "Orientation":{
 "files": [
-[430, [188,193]],
-[843, [37,40]]
+[447, [188,193]],
+[865, [37,40]]
 ],
 "memberKind": "Property"
 }
@@ -47470,24 +48816,26 @@ var contents = {
 "Visibility":{
 "files": [
 [45, [263,264,275,276]],
-[159, [58,59,60]],
-[430, [39,40,41]],
-[473, [115,120]],
-[154, [211,225,320,329,343,348,407,412]],
-[721, [91]],
-[395, [243,248,253]],
+[169, [58,59,60]],
+[447, [39,40,41]],
+[490, [115,120]],
+[164, [211,225,320,329,343,348,407,412]],
+[743, [91]],
+[351, [65,71]],
+[352, [104,110]],
+[412, [266,271,276]],
 [67, [56,115,116,132,133,175,176]],
-[275, [48,56]],
-[465, [141,278,314]],
-[541, [170]],
-[540, [244,296]],
-[145, [108]],
-[146, [78]],
-[147, [84]],
-[155, [195,209,304,313,327,332,391,396]],
-[310, [163,167]],
-[480, [102,107]],
-[695, [65,88,90]]
+[288, [48,56]],
+[482, [141,278,314]],
+[558, [170]],
+[557, [244,296]],
+[155, [108]],
+[156, [78]],
+[157, [84]],
+[165, [195,209,304,313,327,332,391,396]],
+[325, [163,167]],
+[497, [102,107]],
+[717, [65,88,90]]
 ],
 "memberKind": "?"
 }
@@ -47498,21 +48846,21 @@ var contents = {
 "members": {
 "Both":{
 "files": [
-[845, [44]]
+[867, [44]]
 ],
 "memberKind": "Field"
 }
 ,
 "DownOnly":{
 "files": [
-[845, [41]]
+[867, [41]]
 ],
 "memberKind": "Field"
 }
 ,
 "UpOnly":{
 "files": [
-[845, [38]]
+[867, [38]]
 ],
 "memberKind": "Field"
 }
@@ -47523,116 +48871,116 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[816, [66]]
+[838, [66]]
 ],
 "memberKind": "Field"
 }
 ,
 "BackToWindow":{
 "files": [
-[721, [89]],
-[122, [97]]
+[743, [89]],
+[131, [97]]
 ],
 "memberKind": "Field"
 }
 ,
 "Contact":{
 "files": [
-[436, [34]]
+[453, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Delete":{
 "files": [
-[816, [71]]
+[838, [71]]
 ],
 "memberKind": "Field"
 }
 ,
 "Edit":{
 "files": [
-[436, [40]]
+[453, [40]]
 ],
 "memberKind": "Field"
 }
 ,
 "Favorite":{
 "files": [
-[436, [46]]
+[453, [46]]
 ],
 "memberKind": "Field"
 }
 ,
 "FontDecrease":{
 "files": [
-[816, [78]]
+[838, [78]]
 ],
 "memberKind": "Field"
 }
 ,
 "FontIncrease":{
 "files": [
-[816, [83]]
+[838, [83]]
 ],
 "memberKind": "Field"
 }
 ,
 "FontSize":{
 "files": [
-[818, [60]],
-[819, [60]],
-[820, [60]]
+[840, [60]],
+[841, [60]],
+[842, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "FullScreen":{
 "files": [
-[721, [89]],
-[122, [97]]
+[743, [89]],
+[131, [97]]
 ],
 "memberKind": "Field"
 }
 ,
 "Globe":{
 "files": [
-[490, [31]]
+[507, [31]]
 ],
 "memberKind": "Field"
 }
 ,
 "Mail":{
 "files": [
-[490, [33]]
+[507, [33]]
 ],
 "memberKind": "Field"
 }
 ,
 "Message":{
 "files": [
-[490, [32]]
+[507, [32]]
 ],
 "memberKind": "Field"
 }
 ,
 "People":{
 "files": [
-[490, [30]]
+[507, [30]]
 ],
 "memberKind": "Field"
 }
 ,
 "Pin":{
 "files": [
-[434, [51]]
+[451, [51]]
 ],
 "memberKind": "Field"
 }
 ,
 "UnPin":{
 "files": [
-[434, [56]]
+[451, [56]]
 ],
 "memberKind": "Field"
 }
@@ -47643,19 +48991,19 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[434, [51,56]],
-[818, [60]],
-[819, [60]],
-[820, [60]],
-[816, [66,71,78,83]]
+[451, [51,56]],
+[840, [60]],
+[841, [60]],
+[842, [60]],
+[838, [66,71,78,83]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Symbol":{
 "files": [
-[721, [89]],
-[122, [97]]
+[743, [89]],
+[131, [97]]
 ],
 "memberKind": "Property"
 }
@@ -47666,123 +49014,123 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[574, [44]],
-[575, [44]],
-[419, [62]],
-[341, [201,205]],
-[683, [78,87]],
-[668, [106,115]],
-[694, [76]],
-[201, [234]],
-[603, [95]]
+[596, [44]],
+[597, [44]],
+[436, [62]],
+[358, [201,205]],
+[705, [78,87]],
+[690, [106,115]],
+[716, [76]],
+[211, [234]],
+[625, [95]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DataContext":{
 "files": [
-[603, [96,113,158]]
+[625, [96,113,158]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[174, [65]],
-[429, [85]],
-[742, [84,92,103,111,123,131]],
-[743, [84,92,103,111,123,131]],
-[744, [84,92,103,111,123,131]],
-[745, [84,92,103,111,123,131]]
+[184, [65]],
+[446, [85]],
+[764, [84,92,103,111,123,131]],
+[765, [84,92,103,111,123,131]],
+[766, [84,92,103,111,123,131]],
+[767, [84,92,103,111,123,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontFamily":{
 "files": [
-[883, [25,33]],
-[523, [113]],
-[524, [108]]
+[906, [25,33]],
+[540, [113]],
+[541, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontSize":{
 "files": [
-[459, [28,51,71]]
+[476, [28,51,71]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontStretch":{
 "files": [
-[883, [28,36]],
-[523, [116]],
-[524, [111]]
+[906, [28,36]],
+[540, [116]],
+[541, [111]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontStyle":{
 "files": [
-[883, [27,35]],
-[523, [115]],
-[524, [110]]
+[906, [27,35]],
+[540, [115]],
+[541, [110]]
 ],
 "memberKind": "Property"
 }
 ,
 "FontWeight":{
 "files": [
-[883, [26,34]],
-[523, [114]],
-[524, [109]]
+[906, [26,34]],
+[540, [114]],
+[541, [109]]
 ],
 "memberKind": "Property"
 }
 ,
 "Foreground":{
 "files": [
-[298, [259,275]],
-[546, [147,153,175,181,203,209,234,235,236,237,246,247,248,249]],
-[341, [213,217,221]],
-[566, [434,446]],
-[564, [386,398]],
-[500, [487,499]],
-[650, [49,55,61]],
-[596, [132,160]]
+[311, [259,275]],
+[563, [147,153,175,181,203,209,234,235,236,237,246,247,248,249]],
+[358, [213,217,221]],
+[588, [434,446]],
+[585, [386,398]],
+[517, [487,499]],
+[672, [49,55,61]],
+[618, [132,160]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignment":{
 "files": [
-[430, [191,196]]
+[447, [191,196]]
 ],
 "memberKind": "Property"
 }
 ,
 "Inlines":{
 "files": [
-[404, [423,437]],
-[154, [451,457]],
-[810, [42,47,54,56]],
-[155, [444,450]]
+[421, [423,437]],
+[164, [451,457]],
+[832, [42,47,54,56]],
+[165, [444,450]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[683, [91,93]],
-[668, [119,121]]
+[705, [91,93]],
+[690, [119,121]]
 ],
 "memberKind": "Property"
 }
 ,
 "StartDragAsync`1":{
 "files": [
-[152, [121]]
+[162, [121]]
 ],
 "memberKind": "Method"
 }
@@ -47792,275 +49140,277 @@ var contents = {
 [29, [312,316]],
 [33, [272,276]],
 [34, [270,274]],
-[683, [80,89]],
-[668, [108,117]],
-[694, [78]],
-[476, [125,128]],
-[201, [234]],
-[155, [421,425]]
+[705, [80,89]],
+[690, [108,117]],
+[716, [78]],
+[493, [125,128]],
+[211, [234]],
+[165, [421,425]]
 ],
 "memberKind": "Property"
 }
 ,
 "Text":{
 "files": [
-[354, [118,119,120]],
-[355, [110]],
-[353, [127,128,129]],
-[356, [155,156,157,175,176,177]],
-[357, [124,125,126]],
-[273, [42,43,44,59,60,61]],
-[274, [43,44,45,46,47,48,49,69,73,74,75,78,79,80]],
-[265, [84,85,86]],
+[371, [118,119,120]],
+[372, [110]],
+[370, [127,128,129]],
+[373, [155,156,157,175,176,177]],
+[374, [124,125,126]],
+[286, [42,43,44,59,60,61]],
+[287, [43,44,45,46,47,48,49,69,73,74,75,78,79,80]],
+[278, [84,85,86]],
 [59, [182,188,192,196,200,204]],
-[574, [45,105]],
-[575, [45]],
-[419, [63]],
-[872, [39]],
-[324, [52]],
+[596, [45,105]],
+[597, [45]],
+[436, [63]],
+[894, [39]],
+[339, [52]],
 [31, [61]],
-[115, [58]],
-[116, [62]],
-[470, [45,182,185]],
-[853, [68,69]],
-[359, [118]],
-[358, [54]],
-[452, [113]],
-[471, [38,100,103]],
-[628, [95,101,122,128,149,155,176,182]],
-[629, [88]],
-[630, [86]],
-[631, [75]],
-[632, [66]],
-[633, [83]],
-[626, [39,43]],
-[635, [112]],
-[172, [89,124]],
-[186, [55]],
-[183, [88]],
-[187, [41,56]],
-[188, [41,56]],
-[189, [56,57]],
-[174, [46,61,67]],
-[175, [67,74]],
-[176, [93]],
+[124, [58]],
+[125, [62]],
+[487, [45,182,185]],
+[875, [68,69]],
+[376, [118]],
+[375, [54]],
+[469, [113]],
+[488, [38,100,103]],
+[650, [95,101,122,128,149,155,176,182]],
+[651, [88]],
+[652, [86]],
+[653, [75]],
+[654, [66]],
+[655, [83]],
+[648, [39,43]],
+[657, [112]],
+[182, [89,124]],
+[196, [55]],
+[193, [88]],
+[197, [41,56]],
+[198, [41,56]],
+[199, [56,57]],
+[184, [46,61,67]],
+[185, [67,74]],
+[186, [93]],
 [52, [172]],
 [53, [113]],
-[472, [59,124,127]],
-[563, [122]],
-[546, [163,191,220]],
-[473, [39,108,111,112]],
-[191, [199,200,205,206,250,273,289]],
+[489, [59,124,127]],
+[584, [122]],
+[563, [163,191,220]],
+[490, [39,108,111,112]],
+[201, [199,200,205,206,250,273,289]],
 [61, [288,292]],
-[87, [128,129]],
-[88, [129,130]],
-[89, [128,129]],
 [90, [128,129]],
+[91, [129,130]],
+[92, [128,129]],
+[93, [128,129]],
 [60, [152,153,154]],
-[429, [87]],
-[299, [261,263,265,288,289,290]],
-[345, [388,389,390,391,392,393,543,546,549,582,585,588]],
-[361, [119]],
-[360, [55]],
-[730, [45,53,61,69,77,85,94,111,116,121]],
-[341, [194,196,202,206]],
-[340, [25,41,50]],
-[283, [88,94,131,154,178,185,191,198]],
-[263, [72,77,201]],
+[446, [87]],
+[312, [261,263,265,288,289,290]],
+[362, [388,389,390,391,392,393,543,546,549,582,585,588]],
+[378, [119]],
+[377, [55]],
+[752, [45,53,61,69,77,85,94,111,116,121]],
+[358, [194,196,202,206]],
+[357, [25,41,50]],
+[296, [88,94,131,154,178,185,191,198]],
+[274, [72,77,201]],
 [69, [81,86,279]],
-[514, [47]],
-[515, [48]],
-[424, [139]],
-[516, [54]],
-[517, [100]],
-[347, [241]],
-[133, [43,53,71,96,98,102,105,108,111,114,117,129,138,146]],
-[134, [82,88,153,158,173,182]],
-[135, [47,48,69,81,82,91,100,157,174,179]],
-[131, [60,83,87,104,110]],
-[363, [119,122,126,131,134,137,140,143]],
-[362, [127,130,134,139,142,145,148,151]],
-[638, [96,100,104,120,123,128,140,142]],
-[112, [36,44]],
-[113, [36,46]],
-[441, [47,51,56,60]],
-[139, [97,109,113,117,123,128]],
-[267, [197]],
-[268, [124]],
-[385, [76,91,92,122,123,125,148,149,178,182,198,202,218,222,237,241,249,253,260]],
-[387, [139,144,149,154,313,347]],
-[386, [89,95,106,112]],
-[317, [175]],
-[125, [91]],
-[579, [76,82,88,94,199,219,245]],
-[703, [39,115]],
-[701, [70,115,146]],
-[509, [68]],
-[510, [130]],
-[511, [113]],
-[512, [94]],
-[513, [93]],
-[423, [82]],
-[535, [50,51,52]],
-[459, [48,49,52]],
-[688, [37,49,53]],
-[689, [39,54,58]],
-[625, [38,50,54]],
-[658, [39,59,63,68]],
-[663, [36,37]],
-[644, [36,37]],
+[276, [134]],
+[531, [47]],
+[532, [48]],
+[441, [139]],
+[533, [54]],
+[534, [100]],
+[364, [241]],
+[143, [43,53,71,96,98,102,105,108,111,114,117,129,138,146]],
+[144, [82,88,153,158,173,182]],
+[145, [47,48,69,81,82,91,100,157,174,179]],
+[141, [60,83,87,104,110]],
+[76, [45,50]],
+[380, [119,122,126,131,134,137,140,143]],
+[379, [127,130,134,139,142,145,148,151]],
+[660, [96,100,104,120,123,128,140,142]],
+[121, [36,44]],
+[122, [36,46]],
+[458, [47,51,56,60]],
+[149, [97,109,113,117,123,128]],
+[280, [197]],
+[281, [124]],
+[402, [76,91,92,122,123,125,148,149,178,182,198,202,218,222,237,241,249,253,260]],
+[404, [139,144,149,154,313,347]],
+[403, [89,95,106,112]],
+[332, [175]],
+[134, [91]],
+[601, [76,82,88,94,199,219,245]],
+[725, [39,115]],
+[723, [70,115,146]],
+[526, [68]],
+[527, [130]],
+[528, [113]],
+[529, [94]],
+[530, [93]],
+[440, [82]],
+[552, [50,51,52]],
+[476, [48,49,52]],
+[710, [37,49,53]],
+[711, [39,54,58]],
+[647, [38,50,54]],
+[680, [39,59,63,68]],
+[685, [36,37]],
+[666, [36,37]],
 [29, [319,322,339]],
-[161, [55,81,86,97]],
-[645, [56,85,90,101]],
-[502, [55,97,102,114]],
+[171, [55,81,86,97]],
+[667, [56,85,90,101]],
+[519, [55,97,102,114]],
 [33, [279,282,299]],
 [34, [277,280,297]],
-[474, [38,100,103]],
-[690, [54]],
-[693, [47]],
-[678, [70]],
-[669, [77,94,97]],
-[673, [82]],
-[682, [48]],
-[683, [79,88]],
-[668, [107,116]],
-[694, [77]],
-[334, [162,168,174,180,193,199,204,219,220,221,225,226,227]],
-[335, [185,186,187,188,193,194,195,196,201,202,203]],
-[70, [207,208,209,241,242,243]],
-[719, [30]],
-[527, [45]],
-[525, [44]],
-[528, [34]],
-[366, [119,120,121]],
-[364, [127,128,129]],
-[365, [96,97,98,103,104,105]],
-[880, [133,134,135,136,137,138,144,145,146,147,153,157,164,168]],
-[369, [119,120,121,125,128,131,134,137]],
-[367, [127,128,129,133,136,139,142,145]],
-[526, [54]],
-[600, [137,186,189,202,206,216,387,447]],
-[684, [51,55]],
-[685, [73]],
-[686, [54,58]],
-[372, [119]],
-[371, [127]],
-[475, [38,100,103]],
-[476, [112,131]],
-[758, [150,166]],
-[759, [161,176]],
-[350, [150,151,152,153,154,155,156,157,208,209,210,211,212,213,214,215]],
-[349, [150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235]],
-[477, [64,126,129]],
-[566, [88,435,447,455]],
-[564, [96,387,399,407]],
-[500, [103,488,500,508]],
-[584, [179]],
-[401, [82,108,109,110,122,123,124,125,126,127,128,129,130,131,136,137,138,139,140,141,142,143,144,145,158,159,160,161,162,165,167,168,169,170,171,175,176,178,179,183,184,186,187,191,192,193,194,199,200,201,202,203,204,205,206,207,208,209,210,211,212,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245]],
-[714, [135]],
-[461, [47,140,144,146,148,153]],
-[650, [35,36,37,44,48,54,60,66]],
-[534, [90]],
-[532, [98]],
-[520, [84]],
-[530, [123]],
-[531, [343]],
-[533, [72]],
-[521, [91]],
-[201, [234]],
-[376, [122,123,124,125,129,130,131,132,133,134,135,136,137,143,146,149,152,155]],
-[377, [129,130,131,132,136,137,138,139,140,141,142,143,144,150,153,156,159,162]],
-[163, [98]],
-[164, [39]],
-[165, [46]],
-[603, [97,122,131]],
-[271, [125,126,135,136,145,146,153,156]],
-[276, [100,103]],
-[505, [53,57,61,70,74]],
-[568, [56]],
-[478, [35,97,100]],
-[292, [179,180,185]],
-[293, [80,81,86]],
-[742, [57,79,80,81,100,120]],
-[884, [53]],
-[743, [57,79,80,81,100,120]],
-[885, [53]],
-[370, [119,120,121]],
-[368, [76,77,78]],
-[382, [122,123,124,125,129,130,131,132,133,134,135,136,137]],
-[381, [78,79,80,81,85,86,87,88,89,90,91,92,93]],
-[431, [35,140,143]],
-[219, [51]],
-[220, [52,53]],
-[667, [51,80]],
-[155, [428]],
-[202, [105,106,107,108,117,118,321,322,323,324,331,332,533,534,535,536,545,546]],
-[203, [148,237,588,589,590,591,669,672,673,674,675]],
-[383, [112,115,118,121,124,127,130]],
-[384, [57,60,63,66,69,72,75]],
-[77, [70,76,244]],
-[529, [199,234,245,308,340,365,374]],
-[177, [82,232,244,266,315,348,359,392,406]],
-[166, [294,306,328]],
-[178, [78,251,267,285,335,340,357,381,403,408,425,435]],
-[573, [163,240,255,291,293,300,334,357,359,366,400]],
-[179, [69,201,238,243,284,295,300,326]],
-[180, [69,173,210,215,256,267,272,298]],
-[167, [349,390]],
-[435, [45,134,137]],
-[886, [33,37]],
-[129, [93]],
-[716, [108,143,150]],
-[224, [112]],
-[710, [66,98]],
-[449, [143]],
-[792, [44,50,56,78,86,91,116,122,127,139,149]],
-[596, [131,159]],
-[168, [34]],
-[412, [56,57,58,59,60,73,74,75,76,77]],
-[744, [57,79,80,81,100,120]],
-[887, [53]],
-[745, [57,79,80,81,100,120]],
-[888, [53]],
-[479, [38]],
-[821, [114,115]],
-[480, [99,102]],
-[481, [38,100,103]],
-[482, [38,99,102]],
-[483, [38]],
-[152, [69,70,133]],
-[485, [38]],
-[488, [38,100,103]],
-[489, [38,100,103]],
-[818, [90,93,96,99]],
-[820, [90,93,96,99]],
-[507, [50,133,134]],
-[831, [38,41,44,47]],
-[833, [36,41,46,51,56]],
-[846, [49,54]],
-[889, [37,41,45]],
-[863, [56,62,67,91]],
-[865, [56,62,67,91]],
-[850, [48]],
-[879, [36,41]],
-[881, [31]],
-[729, [81,86,91]],
-[890, [31]],
-[490, [89]],
-[891, [27,32,37]]
+[491, [38,100,103]],
+[712, [54]],
+[715, [47]],
+[700, [70]],
+[691, [77,94,97]],
+[695, [82]],
+[704, [48]],
+[705, [79,88]],
+[690, [107,116]],
+[716, [77]],
+[349, [162,168,174,180,193,199,204,219,220,221,225,226,227]],
+[350, [185,186,187,188,193,194,195,196,201,202,203]],
+[71, [207,208,209,241,242,243]],
+[741, [30]],
+[544, [45]],
+[542, [44]],
+[545, [34]],
+[383, [119,120,121]],
+[381, [127,128,129]],
+[382, [96,97,98,103,104,105]],
+[902, [133,134,135,136,137,138,144,145,146,147,153,157,164,168]],
+[386, [119,120,121,125,128,131,134,137]],
+[384, [127,128,129,133,136,139,142,145]],
+[543, [54]],
+[622, [137,186,189,202,206,216,387,447]],
+[706, [51,55]],
+[707, [73]],
+[708, [54,58]],
+[389, [119]],
+[388, [127]],
+[492, [38,100,103]],
+[493, [112,131]],
+[780, [150,166]],
+[781, [161,176]],
+[367, [150,151,152,153,154,155,156,157,208,209,210,211,212,213,214,215]],
+[366, [150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235]],
+[494, [64,126,129]],
+[588, [88,435,447,455]],
+[585, [96,387,399,407]],
+[517, [103,488,500,508]],
+[606, [179]],
+[418, [82,108,109,110,122,123,124,125,126,127,128,129,130,131,136,137,138,139,140,141,142,143,144,145,158,159,160,161,162,165,167,168,169,170,171,175,176,178,179,183,184,186,187,191,192,193,194,199,200,201,202,203,204,205,206,207,208,209,210,211,212,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245]],
+[736, [135]],
+[478, [47,140,144,146,148,153]],
+[672, [35,36,37,44,48,54,60,66]],
+[551, [90]],
+[549, [98]],
+[537, [84]],
+[547, [123]],
+[548, [343]],
+[550, [72]],
+[538, [91]],
+[211, [234]],
+[393, [122,123,124,125,129,130,131,132,133,134,135,136,137,143,146,149,152,155]],
+[394, [129,130,131,132,136,137,138,139,140,141,142,143,144,150,153,156,159,162]],
+[173, [98]],
+[174, [39]],
+[175, [46]],
+[625, [97,122,131]],
+[284, [125,126,135,136,145,146,153,156]],
+[289, [100,103]],
+[522, [53,57,61,70,74]],
+[590, [56]],
+[495, [35,97,100]],
+[305, [179,180,185]],
+[306, [80,81,86]],
+[764, [57,79,80,81,100,120]],
+[907, [53]],
+[765, [57,79,80,81,100,120]],
+[908, [53]],
+[387, [119,120,121]],
+[385, [76,77,78]],
+[399, [122,123,124,125,129,130,131,132,133,134,135,136,137]],
+[398, [78,79,80,81,85,86,87,88,89,90,91,92,93]],
+[448, [35,140,143]],
+[229, [51]],
+[230, [52,53]],
+[689, [51,80]],
+[165, [428]],
+[212, [105,106,107,108,117,118,321,322,323,324,331,332,533,534,535,536,545,546]],
+[213, [148,237,588,589,590,591,669,672,673,674,675]],
+[400, [112,115,118,121,124,127,130]],
+[401, [57,60,63,66,69,72,75]],
+[79, [70,76,244]],
+[546, [199,234,245,308,340,365,374]],
+[187, [82,232,244,266,315,348,359,392,406]],
+[176, [294,306,328]],
+[188, [78,251,267,285,335,340,357,381,403,408,425,435]],
+[595, [163,240,255,291,293,300,334,357,359,366,400]],
+[189, [69,201,238,243,284,295,300,326]],
+[190, [69,173,210,215,256,267,272,298]],
+[177, [349,390]],
+[452, [45,134,137]],
+[909, [33,37]],
+[138, [93]],
+[738, [108,143,150]],
+[234, [112]],
+[732, [66,98]],
+[466, [143]],
+[814, [44,50,56,78,86,91,116,122,127,139,149]],
+[618, [131,159]],
+[178, [34]],
+[429, [56,57,58,59,60,73,74,75,76,77]],
+[766, [57,79,80,81,100,120]],
+[910, [53]],
+[767, [57,79,80,81,100,120]],
+[911, [53]],
+[496, [38]],
+[843, [114,115]],
+[497, [99,102]],
+[498, [38,100,103]],
+[499, [38,99,102]],
+[500, [38]],
+[162, [69,70,133]],
+[502, [38]],
+[505, [38,100,103]],
+[506, [38,100,103]],
+[840, [90,93,96,99]],
+[842, [90,93,96,99]],
+[524, [50,133,134]],
+[853, [38,41,44,47]],
+[855, [36,41,46,51,56]],
+[868, [49,54]],
+[912, [37,41,45]],
+[885, [56,62,67,91]],
+[887, [56,62,67,91]],
+[872, [48]],
+[901, [36,41]],
+[903, [31]],
+[751, [81,86,91]],
+[913, [31]],
+[507, [89]],
+[904, [27,32,37]]
 ],
 "memberKind": "Property"
 }
 ,
 "TextWrapping":{
 "files": [
-[574, [46]],
-[575, [46]],
-[419, [64]],
-[430, [190,195]],
-[683, [81,90]],
-[668, [109,118]],
-[694, [79]]
+[596, [46]],
+[597, [46]],
+[436, [64]],
+[447, [190,195]],
+[705, [81,90]],
+[690, [109,118]],
+[716, [79]]
 ],
 "memberKind": "Property"
 }
@@ -48069,34 +49419,37 @@ var contents = {
 "files": [
 [32, [40,43]],
 [41, [38,41]],
-[638, [291]],
-[111, [34]],
-[108, [35]],
-[605, [35,36,40,41]],
+[109, [56,60]],
+[660, [291]],
+[120, [34]],
+[117, [35]],
+[627, [35,36,40,41]],
 [29, [324,328]],
 [33, [284,288]],
 [34, [282,286]],
-[334, [95,102,107,156,184]],
-[335, [77,106,217,218,219]],
-[686, [103]],
-[312, [239,380]],
-[714, [134]],
-[529, [289,309,342,343,356,400]],
-[177, [81,243,250,265,291,346,347,357,358,409,410]],
-[178, [77,266,274,284,316,334,339,356,375,402,407,424]],
-[179, [68,200,226,227,237,242,259,277,283,294,299,316]],
-[180, [68,172,198,199,209,214,231,249,255,266,271,288]],
-[821, [86]],
-[695, [71]],
-[152, [82,135]],
-[879, [35,42]]
+[349, [95,102,107,156,184]],
+[350, [77,106,217,218,219]],
+[314, [89,97]],
+[315, [120,128]],
+[708, [103]],
+[327, [239,380]],
+[736, [134]],
+[546, [289,309,342,343,356,400]],
+[187, [81,243,250,265,291,346,347,357,358,409,410]],
+[188, [77,266,274,284,316,334,339,356,375,402,407,424]],
+[189, [68,200,226,227,237,242,259,277,283,294,299,316]],
+[190, [68,172,198,199,209,214,231,249,255,266,271,288]],
+[843, [86]],
+[717, [71]],
+[162, [82,135]],
+[901, [35,42]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[430, [189,194]]
+[447, [189,194]]
 ],
 "memberKind": "Property"
 }
@@ -48107,239 +49460,243 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[278, [206]],
-[279, [177]],
-[280, [153]],
-[301, [148]],
-[344, [173]],
-[343, [210]],
-[758, [99]],
-[759, [108]]
+[291, [206]],
+[292, [177]],
+[293, [153]],
+[316, [148]],
+[361, [159]],
+[360, [203]],
+[780, [99]],
+[781, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[590, [49]],
-[589, [226]],
-[591, [283]]
+[612, [49]],
+[611, [226]],
+[613, [283]]
 ],
 "memberKind": "Property"
 }
 ,
 "Focus`1":{
 "files": [
-[190, [126]]
+[200, [126]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetRectFromCharacterIndex`2":{
 "files": [
-[139, [42,46,52,56]]
+[149, [42,46,52,56]]
 ],
 "memberKind": "Method"
 }
 ,
 "IsEnabled":{
 "files": [
-[605, [167,171]],
-[387, [261,268,279,280,287,288]],
-[579, [79,91]],
-[277, [63,86]],
-[288, [66,170,175,198]],
-[335, [46]],
-[600, [76]],
-[500, [64,65]],
-[565, [91,131,173]],
-[590, [35,52]],
-[78, [73]]
+[627, [167,171]],
+[404, [261,268,279,280,287,288]],
+[601, [79,91]],
+[290, [63,86]],
+[301, [66,170,175,198]],
+[350, [46]],
+[622, [76]],
+[517, [64,65]],
+[587, [91,131,173]],
+[612, [35,52]],
+[80, [73]]
 ],
 "memberKind": "Property"
 }
 ,
 "Select`2":{
 "files": [
-[758, [94]],
-[759, [103]]
+[780, [94]],
+[781, [103]]
 ],
 "memberKind": "Method"
 }
 ,
 "SelectedText":{
 "files": [
-[139, [105]]
+[149, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionLength":{
 "files": [
-[139, [49,85]]
+[149, [49,85]]
 ],
 "memberKind": "Property"
 }
 ,
 "SelectionStart":{
 "files": [
-[139, [40,42,46,49]]
+[149, [40,42,46,49]]
 ],
 "memberKind": "Property"
 }
 ,
 "Text":{
 "files": [
-[632, [48]],
+[654, [48]],
 [45, [46,54,62,133,137,152,161,185,194]],
 [47, [36]],
 [50, [36]],
 [52, [133,141]],
 [53, [45,53]],
-[158, [37]],
-[430, [51,71,95,125]],
-[576, [123,129,384]],
-[577, [122,170,357]],
-[228, [194,303]],
-[429, [52]],
-[278, [205]],
-[279, [176]],
-[280, [152]],
-[107, [34,43,45,50,52]],
-[697, [46,55,60,61,62,63,66,70,74,81,95,96]],
-[698, [93]],
-[139, [40,50]],
-[606, [35,39,41,42,43,44,48,51,54,63,67]],
-[607, [35,39,42,43,44,45,49,52,55,64,66]],
-[605, [49,53,56,57,58,59,63,66,69,77,83,84,85,121,124]],
-[385, [81]],
-[387, [159,166,326,328,329,332,533,542]],
-[123, [72,91,94,139,145,156]],
-[124, [52,64,77,108,113]],
-[579, [78,90,116,153,158,204,209]],
-[277, [53,61]],
-[288, [80]],
-[621, [34,35,36,37,38,39,49,50,51,52,53,54]],
-[622, [52,58,77,83,86,92,95,101,104,110,113,119,124,125,126,127,128,129,130,131,132,143,145,146,147,148,149,150,151,152,153,154,155,156,157,158]],
-[623, [51,57,72,78,81,87,90,96,99,105,108,114,119,120,121,122,123,124,125,126,137,139,140,141,142,143,144,145,146,147,148,149,150,151]],
-[136, [61]],
-[154, [357,358,435]],
-[138, [55]],
-[665, [48]],
-[664, [61]],
-[661, [49]],
-[502, [81]],
-[678, [43]],
-[674, [41]],
-[335, [155]],
-[209, [131,169]],
-[325, [66,88,107]],
-[676, [42]],
-[427, [34,42,93,105,114]],
-[611, [88]],
-[832, [49,50]],
-[892, [49]],
-[875, [71]],
-[893, [96]],
-[613, [73,91,114]],
-[870, [71]],
-[894, [69,81]],
-[895, [72]],
-[896, [69,81]],
-[880, [90]],
-[216, [70]],
-[897, [69,78,81,82,83,84,85,86,87,88,103]],
-[526, [30]],
-[213, [43,74,88,93]],
-[600, [75,166,175,204,222]],
-[301, [147]],
-[344, [172]],
-[343, [209]],
-[834, [94,121,185]],
-[758, [93,94,117]],
-[759, [102,103,126]],
+[168, [37]],
+[447, [51,71,95,125]],
+[598, [123,129,384]],
+[599, [122,170,357]],
+[238, [194,303]],
+[446, [52]],
+[276, [184,186,187,189,190]],
+[277, [106,111,117]],
+[70, [164,174]],
+[291, [205]],
+[292, [176]],
+[293, [152]],
+[109, [92,96]],
+[116, [34,43,45,50,52]],
+[719, [46,55,60,61,62,63,66,70,74,81,95,96]],
+[720, [93]],
+[149, [40,50]],
+[628, [35,39,41,42,43,44,48,51,54,63,67]],
+[629, [35,39,42,43,44,45,49,52,55,64,66]],
+[627, [49,53,56,57,58,59,63,66,69,77,83,84,85,121,124]],
+[402, [81]],
+[404, [159,166,326,328,329,332,533,542]],
+[132, [72,91,94,139,145,156]],
+[133, [52,64,77,108,113]],
+[601, [78,90,116,153,158,204,209]],
+[290, [53,61]],
+[301, [80]],
+[643, [34,35,36,37,38,39,49,50,51,52,53,54]],
+[644, [52,58,77,83,86,92,95,101,104,110,113,119,124,125,126,127,128,129,130,131,132,143,145,146,147,148,149,150,151,152,153,154,155,156,157,158]],
+[645, [51,57,72,78,81,87,90,96,99,105,108,114,119,120,121,122,123,124,125,126,137,139,140,141,142,143,144,145,146,147,148,149,150,151]],
+[146, [61]],
+[164, [357,358,435]],
+[148, [55]],
+[687, [48]],
+[686, [61]],
+[683, [49]],
+[519, [81]],
+[700, [43]],
+[696, [41]],
+[350, [155]],
+[219, [131,169]],
+[340, [59,82,102]],
+[698, [42]],
+[444, [34,42,93,105,114]],
+[633, [88]],
+[854, [49,50]],
+[914, [49]],
+[897, [71]],
+[915, [96]],
+[635, [73,91,114]],
+[892, [71]],
+[916, [69,81]],
+[917, [72]],
+[918, [69,81]],
+[902, [90]],
+[226, [70]],
+[919, [69,78,81,82,83,84,85,86,87,88,103]],
+[543, [30]],
+[223, [43,74,88,93]],
+[622, [75,166,175,204,222]],
+[316, [147]],
+[361, [158]],
+[360, [202]],
+[856, [94,121,185]],
+[780, [93,94,117]],
+[781, [102,103,126]],
 [30, [97,157,541]],
-[564, [60,61,62,63,64,65,66,67,152,153,154,155,157,158,159,160]],
-[500, [62,63,208,213,220,232]],
-[312, [240,279,383]],
-[714, [77,84]],
-[394, [251]],
-[650, [92]],
-[395, [140,149,164,216,217,221,242,247,252]],
-[828, [18]],
-[829, [20,27]],
-[257, [26]],
-[258, [33]],
-[237, [29]],
-[800, [30]],
-[787, [30,37,41]],
-[602, [32,33]],
-[603, [34,35]],
-[869, [40]],
-[219, [45,46,52,53,54]],
-[220, [45,46,47,54,55,56,57,58]],
-[667, [46,52,61]],
-[313, [257,331]],
-[156, [27]],
-[143, [46,47]],
-[144, [23,45,48,52,53]],
-[146, [37,38]],
-[147, [39,40]],
-[149, [28,32,33]],
-[150, [31,35,36]],
-[155, [341,342,407]],
-[565, [167]],
-[202, [103,104,109,110,111,112,113,114,115,116,319,320,325,326,327,328,329,330,337,341,346,350,362,365,367,388,389,390,392,393,394,396,397,531,532,537,538,539,540,541,542,543,544]],
-[392, [66,164,165]],
-[402, [44,50,81,82]],
-[590, [71,72]],
-[78, [86,96]],
-[529, [85,203,236,266,291,302,385,399]],
-[181, [58,140,156,165]],
-[182, [57,139]],
-[127, [83,125,131,146]],
-[128, [55,82,95,115,118,125,134]],
-[581, [66,75,83,105]],
-[218, [50,66,124,140]],
-[217, [52,68,85,95,156,172,189,199]],
-[224, [29,111]],
-[608, [40,45]],
-[583, [45,73]],
-[792, [47,82]],
-[215, [34,39,43,50,53]],
-[597, [52,57,61,65,72,75,126,135,139,199]],
-[598, [51,56,60,64,81,82,90,127]],
-[599, [20,25,29,36]],
-[589, [230,234]],
-[591, [287,291]],
-[314, [115,127,128,140,209,321,331]],
-[296, [262,321,331]],
-[410, [56,60,63,65,66,102,105,124,127,131,132,157,159,160]],
-[315, [223]],
-[411, [91,92,126,141,148]],
-[412, [122,144,145]],
-[153, [41,124]],
-[518, [57,59]],
-[190, [224,225,238]],
-[226, [53]]
+[585, [60,61,62,63,64,65,66,67,152,153,154,155,157,158,159,160]],
+[517, [62,63,208,213,220,232]],
+[327, [240,279,383]],
+[736, [77,84]],
+[411, [251]],
+[672, [92]],
+[412, [140,149,164,239,240,244,265,270,275]],
+[850, [18]],
+[851, [20,27]],
+[268, [26]],
+[269, [33]],
+[247, [29]],
+[822, [30]],
+[809, [30,37,41]],
+[624, [32,33]],
+[625, [34,35]],
+[891, [40]],
+[229, [45,46,52,53,54]],
+[230, [45,46,47,54,55,56,57,58]],
+[689, [46,52,61]],
+[328, [257,331]],
+[166, [27]],
+[153, [46,47]],
+[154, [23,45,48,52,53]],
+[156, [37,38]],
+[157, [39,40]],
+[159, [28,32,33]],
+[160, [31,35,36]],
+[165, [341,342,407]],
+[587, [167]],
+[212, [103,104,109,110,111,112,113,114,115,116,319,320,325,326,327,328,329,330,337,341,346,350,362,365,367,388,389,390,392,393,394,396,397,531,532,537,538,539,540,541,542,543,544]],
+[409, [66,164,165]],
+[419, [44,50,81,82]],
+[612, [71,72]],
+[80, [86,96]],
+[546, [85,203,236,266,291,302,385,399]],
+[191, [58,140,156,165]],
+[192, [57,139]],
+[136, [83,125,131,146]],
+[137, [55,82,95,115,118,125,134]],
+[603, [66,75,83,105]],
+[228, [50,66,124,140]],
+[227, [52,68,85,95,156,172,189,199]],
+[234, [29,111]],
+[630, [40,45]],
+[605, [45,73]],
+[814, [47,82]],
+[225, [34,39,43,50,53]],
+[619, [52,57,61,65,72,75,126,135,139,199]],
+[620, [51,56,60,64,81,82,90,127]],
+[621, [20,25,29,36]],
+[611, [230,234]],
+[613, [287,291]],
+[329, [115,127,128,140,209,321,331]],
+[309, [262,321,331]],
+[427, [56,60,63,65,66,102,105,124,127,131,132,157,159,160]],
+[330, [223]],
+[428, [91,92,126,141,148]],
+[429, [122,144,145]],
+[163, [41,124]],
+[535, [57,59]],
+[200, [224,225,238]],
+[236, [53]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[139, [59]]
+[149, [59]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[312, [241,381]],
-[394, [241,245,252]],
-[650, [82,86,93]],
-[828, [23,25,31]],
-[829, [32,34,40]]
+[327, [241,381]],
+[411, [241,245,252]],
+[672, [82,86,93]],
+[850, [23,25,31]],
+[851, [32,34,40]]
 ],
 "memberKind": "Property"
 }
@@ -48350,8 +49707,8 @@ var contents = {
 "members": {
 "Handled":{
 "files": [
-[136, [46]],
-[138, [46]]
+[146, [46]],
+[148, [46]]
 ],
 "memberKind": "Property"
 }
@@ -48363,8 +49720,8 @@ var contents = {
 "Time":{
 "files": [
 [45, [40]],
-[832, [58]],
-[275, [113,122]]
+[854, [58]],
+[288, [113,122]]
 ],
 "memberKind": "Property"
 }
@@ -48375,37 +49732,37 @@ var contents = {
 "members": {
 "IsEnabled":{
 "files": [
-[543, [108]],
-[545, [108,159]],
-[546, [101,102,103,104]],
-[162, [76]],
-[426, [111,281,305]]
+[560, [108]],
+[562, [108,159]],
+[563, [101,102,103,104]],
+[172, [76]],
+[443, [111,281,305]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsOn":{
 "files": [
-[543, [147]],
-[545, [199]],
-[546, [144,172,200,228]],
-[444, [146]],
-[445, [44,76]],
-[385, [184,189,204,209,224,229]],
-[386, [64,65,84,101]],
-[124, [95]],
-[611, [58,62,188]],
-[832, [61,62]],
-[875, [146]],
-[893, [73]],
-[880, [71,106]],
-[343, [187]],
-[297, [75,215]],
-[162, [64,175]],
-[313, [125,137,149,161]],
-[426, [64,110,280]],
-[493, [87]],
-[490, [77]]
+[560, [147]],
+[562, [199]],
+[563, [144,172,200,228]],
+[461, [146]],
+[462, [44,76]],
+[402, [184,189,204,209,224,229]],
+[403, [64,65,84,101]],
+[133, [95]],
+[633, [58,62,188]],
+[854, [61,62]],
+[897, [146]],
+[915, [73]],
+[902, [71,106]],
+[360, [180]],
+[310, [75,215]],
+[172, [64,175]],
+[328, [125,137,149,161]],
+[443, [64,110,280]],
+[510, [87]],
+[507, [77]]
 ],
 "memberKind": "Property"
 }
@@ -48416,21 +49773,21 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[468, [74]]
+[485, [74]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
 "files": [
-[468, [75]]
+[485, [75]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsOpen":{
 "files": [
-[468, [99,213]]
+[485, [99,213]]
 ],
 "memberKind": "Property"
 }
@@ -48441,7 +49798,7 @@ var contents = {
 "members": {
 "SetToolTip`2":{
 "files": [
-[468, [76]]
+[485, [76]]
 ],
 "memberKind": "Method"
 }
@@ -48452,21 +49809,21 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[683, [59]],
-[668, [52]],
-[694, [34]],
-[201, [342]],
-[162, [127]],
-[465, [113,189]],
-[457, [495]],
-[448, [96,122]]
+[705, [59]],
+[690, [52]],
+[716, [34]],
+[211, [342]],
+[172, [127]],
+[482, [113,189]],
+[474, [495]],
+[465, [96,122]]
 ],
 "memberKind": "Method"
 }
 ,
 "RemoveAt`1":{
 "files": [
-[815, [101]]
+[837, [101]]
 ],
 "memberKind": "Method"
 }
@@ -48477,16 +49834,16 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[458, [95]],
-[437, [82]]
+[475, [95]],
+[454, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[458, [96]],
-[437, [83]]
+[475, [96]],
+[454, [83]]
 ],
 "memberKind": "Property"
 }
@@ -48502,11 +49859,11 @@ var contents = {
 ,
 "Dispatcher":{
 "files": [
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]]
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]]
 ],
 "memberKind": "Property"
 }
@@ -48516,39 +49873,39 @@ var contents = {
 [29, [244,245,266]],
 [33, [204,205,226]],
 [34, [202,203,224]],
-[465, [66]]
+[482, [66]]
 ],
 "memberKind": "Method"
 }
 ,
 "Focus`1":{
 "files": [
-[436, [232]]
+[453, [241]]
 ],
 "memberKind": "Method"
 }
 ,
 "Height":{
 "files": [
-[536, [91,96,101,107]]
+[553, [91,96,101,107]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[258, [90,98]],
-[238, [55,85]],
-[239, [27,59]],
-[240, [27,59]],
-[804, [25,39]],
-[805, [24,37]],
-[736, [25,39]],
-[653, [52,59]],
-[806, [22,29]],
-[242, [28,41,46,109]],
-[244, [66,77]],
-[801, [26,44,49,71]],
+[269, [90,98]],
+[248, [55,85]],
+[249, [27,59]],
+[250, [27,59]],
+[826, [25,39]],
+[827, [24,37]],
+[758, [25,39]],
+[675, [52,59]],
+[828, [22,29]],
+[252, [28,41,46,109]],
+[254, [66,77]],
+[823, [26,44,49,71]],
 [66, [34,47]]
 ],
 "memberKind": "Property"
@@ -48556,53 +49913,53 @@ var contents = {
 ,
 "Loaded":{
 "files": [
-[458, [89]],
+[475, [89]],
 [6, [24]],
-[436, [226,233]],
-[437, [79]]
+[453, [235,242]],
+[454, [79]]
 ],
 "memberKind": "Event"
 }
 ,
 "OnHolding`1":{
 "files": [
-[450, [129]]
+[467, [129]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnKeyDown`1":{
 "files": [
-[450, [92]]
+[467, [92]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnKeyUp`1":{
 "files": [
-[450, [102]]
+[467, [102]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnPointerPressed`1":{
 "files": [
-[450, [136]]
+[467, [136]]
 ],
 "memberKind": "Method"
 }
 ,
 "OnRightTapped`1":{
 "files": [
-[450, [149]]
+[467, [149]]
 ],
 "memberKind": "Method"
 }
 ,
 "Unloaded":{
 "files": [
-[458, [108]],
-[437, [102]]
+[475, [108]],
+[454, [102]]
 ],
 "memberKind": "Event"
 }
@@ -48622,7 +49979,7 @@ var contents = {
 "members": {
 "Orientation":{
 "files": [
-[844, [38,41]]
+[866, [38,41]]
 ],
 "memberKind": "Property"
 }
@@ -48633,14 +49990,14 @@ var contents = {
 "members": {
 "Stretch":{
 "files": [
-[845, [60,63,66,69]]
+[867, [60,63,66,69]]
 ],
 "memberKind": "Property"
 }
 ,
 "StretchDirection":{
 "files": [
-[845, [38,41,44]]
+[867, [38,41,44]]
 ],
 "memberKind": "Property"
 }
@@ -48651,34 +50008,34 @@ var contents = {
 "members": {
 "CaptureSelectedContentToDataPackageAsync`0":{
 "files": [
-[141, [41]]
+[151, [41]]
 ],
 "memberKind": "Method"
 }
 ,
 "Navigate`1":{
 "files": [
-[141, [23]]
+[151, [23]]
 ],
 "memberKind": "Method"
 }
 ,
 "NavigateToString`1":{
 "files": [
-[135, [38,49,83,122,127]],
-[154, [305]],
-[155, [289]],
-[716, [173]],
-[184, [140]]
+[145, [38,49,83,122,127]],
+[164, [305]],
+[165, [289]],
+[738, [173]],
+[194, [140]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[154, [304]],
-[141, [28]],
-[155, [288]]
+[164, [304]],
+[151, [28]],
+[165, [288]]
 ],
 "memberKind": "Property"
 }
@@ -48689,14 +50046,14 @@ var contents = {
 "members": {
 "Disabled":{
 "files": [
-[498, [43,49]]
+[515, [43,49]]
 ],
 "memberKind": "Field"
 }
 ,
 "Enabled":{
 "files": [
-[498, [39]]
+[515, [39]]
 ],
 "memberKind": "Field"
 }
@@ -48711,24 +50068,41 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[825, [24]],
-[463, [60,71,82]]
+[847, [24]],
+[480, [60,71,82]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Path":{
 "files": [
-[825, [24]],
-[463, [60,71,82]]
+[847, [24]],
+[480, [60,71,82]]
 ],
 "memberKind": "Property"
 }
 ,
 "Source":{
 "files": [
-[825, [24]],
-[463, [60,71,82]]
+[847, [24]],
+[480, [60,71,82]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"CollectionViewSource":{
+"members": {
+"Source":{
+"files": [
+[297, [91]],
+[298, [108]],
+[299, [109]],
+[332, [116]],
+[308, [108]],
+[920, [12]],
+[921, [12]]
 ],
 "memberKind": "Property"
 }
@@ -48739,14 +50113,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[898, [156]]
+[922, [156]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Count":{
 "files": [
-[898, [156]]
+[922, [156]]
 ],
 "memberKind": "Field"
 }
@@ -48757,11 +50131,11 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[264, [259]],
-[463, [106]],
-[794, [117]],
-[899, [37]],
-[797, [117]]
+[275, [259]],
+[480, [106]],
+[816, [117]],
+[923, [37]],
+[819, [117]]
 ],
 "memberKind": "Constructor"
 }
@@ -48774,61 +50148,62 @@ var contents = {
 "members": {
 "ClearValue`1":{
 "files": [
-[836, [106]],
-[436, [302]],
-[720, [247,248]]
+[858, [106]],
+[453, [311]],
+[742, [247,248]]
 ],
 "memberKind": "Method"
 }
 ,
 "Dispatcher":{
 "files": [
-[746, [51,116]],
-[174, [65]],
-[429, [85]],
-[157, [77]],
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]],
-[742, [84,92,103,111,123,131]],
-[743, [84,92,103,111,123,131]],
-[352, [39]],
-[590, [49]],
-[589, [226]],
-[591, [283]],
-[744, [84,92,103,111,123,131]],
-[745, [84,92,103,111,123,131]]
+[768, [51,116]],
+[184, [65]],
+[446, [85]],
+[167, [77]],
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]],
+[764, [84,92,103,111,123,131]],
+[765, [84,92,103,111,123,131]],
+[369, [39]],
+[612, [49]],
+[611, [226]],
+[613, [283]],
+[766, [84,92,103,111,123,131]],
+[767, [84,92,103,111,123,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetValue`1":{
 "files": [
-[157, [28,46]],
-[849, [19]]
+[167, [28,46]],
+[871, [19]]
 ],
 "memberKind": "Method"
 }
 ,
 "RegisterPropertyChangedCallback`2":{
 "files": [
-[720, [55]]
+[453, [70]],
+[742, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
 "files": [
-[157, [32,50]],
-[541, [156,158,159]],
-[540, [253]],
-[457, [533,534,544,545]],
+[167, [32,50]],
+[558, [156,158,159]],
+[557, [253]],
+[474, [533,534,544,545]],
 [43, [77,78]],
-[342, [130]],
-[436, [298]],
-[720, [253,254]]
+[359, [130]],
+[453, [307]],
+[742, [253,254]]
 ],
 "memberKind": "Method"
 }
@@ -48839,51 +50214,51 @@ var contents = {
 "members": {
 "Register`4":{
 "files": [
-[840, [13]],
-[828, [36]],
-[825, [66,138,146]],
-[453, [39]],
-[715, [41]],
-[462, [53]],
-[443, [26,39]],
-[900, [39,51]],
-[733, [129,141,153]],
-[901, [25]],
-[734, [26]],
-[902, [39,51]],
-[735, [129,141,153]],
-[492, [25]],
-[849, [10,27]],
-[903, [18,25]],
-[487, [27]],
-[862, [47]],
-[904, [22,30]],
-[741, [32]],
-[455, [29]],
-[496, [25]],
-[456, [59,94,127]],
-[822, [24,31,38,50,57]],
-[439, [26,33]]
+[862, [13]],
+[850, [36]],
+[847, [66,138,146]],
+[470, [39]],
+[737, [41]],
+[479, [53]],
+[460, [26,39]],
+[924, [39,51]],
+[755, [129,141,153]],
+[925, [25]],
+[756, [26]],
+[926, [39,51]],
+[757, [129,141,153]],
+[509, [25]],
+[871, [10,27]],
+[927, [18,25]],
+[504, [27]],
+[884, [47]],
+[928, [22,30]],
+[763, [32]],
+[472, [29]],
+[513, [25]],
+[473, [59,94,127]],
+[844, [24,31,38,50,57]],
+[456, [26,33]]
 ],
 "memberKind": "Method"
 }
 ,
 "RegisterAttached`4":{
 "files": [
-[636, [136,138,140]],
-[643, [147,149,151]],
-[649, [133,135]],
-[157, [35,53]],
-[655, [136,138,140]],
-[656, [136,138,140]],
-[657, [134,136]]
+[658, [136,138,140]],
+[665, [147,149,151]],
+[671, [133,135]],
+[167, [35,53]],
+[677, [136,138,140]],
+[678, [136,138,140]],
+[679, [134,136]]
 ],
 "memberKind": "Method"
 }
 ,
 "UnsetValue":{
 "files": [
-[862, [47]]
+[884, [47]]
 ],
 "memberKind": "Property"
 }
@@ -48894,25 +50269,25 @@ var contents = {
 "members": {
 "NewValue":{
 "files": [
-[900, [59]],
-[902, [59]],
-[455, [102]],
-[456, [142,190]]
+[924, [59]],
+[926, [59]],
+[472, [102]],
+[473, [142,190]]
 ],
 "memberKind": "Property"
 }
 ,
 "OldValue":{
 "files": [
-[455, [102]],
-[456, [157,205]]
+[472, [102]],
+[473, [157,205]]
 ],
 "memberKind": "Property"
 }
 ,
 "Property":{
 "files": [
-[456, [205]]
+[473, [205]]
 ],
 "memberKind": "Property"
 }
@@ -48923,130 +50298,145 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[353, [47]],
+[370, [47]],
 [61, [47]],
-[373, [50]],
-[362, [47]],
-[364, [47]],
-[374, [50]],
-[367, [47]],
-[371, [47]],
-[556, [38,106]],
-[776, [87]],
+[390, [50]],
+[379, [47]],
+[381, [47]],
+[391, [50]],
+[384, [47]],
+[352, [69]],
+[314, [61]],
+[315, [92]],
+[388, [47]],
+[577, [38,106]],
+[798, [87]],
 [67, [135]],
-[375, [50]],
-[377, [47]],
-[548, [93]],
-[443, [250]],
-[152, [75]],
-[454, [27]],
-[741, [52]],
-[859, [36]]
+[392, [50]],
+[394, [47]],
+[565, [93]],
+[460, [250]],
+[162, [75]],
+[471, [27]],
+[763, [52]],
+[881, [36]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Interval":{
 "files": [
-[353, [49]],
+[370, [49]],
 [61, [47]],
-[373, [52]],
-[362, [49]],
-[364, [49]],
-[374, [52]],
-[367, [49]],
-[371, [49]],
-[556, [111,115,196]],
-[776, [87]],
+[390, [52]],
+[379, [49]],
+[381, [49]],
+[391, [52]],
+[384, [49]],
+[352, [70]],
+[314, [61]],
+[315, [92]],
+[388, [49]],
+[577, [111,115,196]],
+[798, [87]],
 [67, [135]],
-[375, [52]],
-[377, [49]],
-[548, [94]],
-[443, [252,296]],
-[152, [79]],
-[454, [32]],
-[741, [53]],
-[859, [37]]
+[392, [52]],
+[394, [49]],
+[565, [94]],
+[460, [252,296]],
+[162, [79]],
+[471, [32]],
+[763, [53]],
+[881, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsEnabled":{
 "files": [
-[556, [133,214]]
+[577, [133,214]]
 ],
 "memberKind": "Property"
 }
 ,
 "Start`0":{
 "files": [
-[353, [107,146]],
+[370, [107,146]],
 [61, [76,125,154]],
-[373, [70]],
-[362, [107,170]],
-[364, [107,146]],
-[374, [70]],
-[367, [107,164]],
-[371, [107,144]],
-[556, [125,202,229]],
-[776, [92]],
+[390, [70]],
+[379, [107,170]],
+[381, [107,146]],
+[391, [70]],
+[384, [107,164]],
+[352, [72]],
+[314, [63]],
+[315, [94]],
+[388, [107,144]],
+[577, [125,202,229]],
+[798, [92]],
 [67, [140]],
-[375, [70]],
-[377, [107,181]],
-[548, [504]],
-[443, [253]],
-[152, [80]],
-[454, [67]],
-[741, [74]],
-[859, [65]]
+[392, [70]],
+[394, [107,181]],
+[565, [504]],
+[460, [253]],
+[162, [80]],
+[471, [67]],
+[763, [74]],
+[881, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[353, [83,112,167]],
+[370, [83,112,167]],
 [61, [129,183,321]],
-[373, [87]],
-[362, [83,112,191]],
-[364, [83,112,167]],
-[374, [87]],
-[367, [83,112,185]],
-[371, [83,112,165]],
-[556, [135,216,369,373]],
-[776, [97]],
+[390, [87]],
+[379, [83,112,191]],
+[381, [83,112,167]],
+[391, [87]],
+[384, [83,112,185]],
+[352, [80]],
+[314, [71]],
+[315, [102]],
+[388, [83,112,165]],
+[577, [135,216,369,373]],
+[798, [97]],
 [67, [154,172]],
-[375, [87]],
-[377, [83,112,202]],
-[548, [508]],
-[443, [300]],
-[152, [93,148]],
-[454, [39]]
+[392, [87]],
+[394, [83,112,202]],
+[565, [508]],
+[460, [300]],
+[162, [93,148]],
+[471, [39]]
 ],
 "memberKind": "Method"
 }
 ,
 "Tick":{
 "files": [
-[353, [48]],
+[370, [48]],
 [61, [51]],
-[373, [51]],
-[362, [48]],
-[364, [48]],
-[374, [51]],
-[367, [48]],
-[371, [48]],
-[556, [118,197]],
-[776, [91]],
+[390, [51]],
+[379, [48]],
+[381, [48]],
+[391, [51]],
+[384, [48]],
+[352, [71]],
+[314, [62,70]],
+[315, [93,101]],
+[388, [48]],
+[577, [118,197]],
+[798, [91]],
 [67, [139]],
-[375, [51]],
-[377, [48]],
-[548, [95]],
-[443, [251]],
-[152, [76]],
-[454, [33]],
-[741, [54]],
-[859, [38]]
+[392, [51]],
+[394, [48]],
+[565, [95]],
+[460, [251]],
+[162, [76]],
+[471, [33]],
+[763, [54]],
+[881, [38]]
 ],
 "memberKind": "Event"
 }
@@ -49059,7 +50449,7 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[540, [267]]
+[557, [267]]
 ],
 "memberKind": "Method"
 }
@@ -49070,14 +50460,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[404, [500]]
+[421, [500]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Inlines":{
 "files": [
-[404, [501]]
+[421, [501]]
 ],
 "memberKind": "Property"
 }
@@ -49088,9 +50478,9 @@ var contents = {
 "members": {
 "FontWeight":{
 "files": [
-[154, [449]],
-[810, [47]],
-[155, [442]]
+[164, [449]],
+[832, [47]],
+[165, [442]]
 ],
 "memberKind": "Property"
 }
@@ -49101,7 +50491,7 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[404, [423,476]]
+[421, [423,476]]
 ],
 "memberKind": "Method"
 }
@@ -49112,7 +50502,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[404, [509]]
+[421, [509]]
 ],
 "memberKind": "Constructor"
 }
@@ -49123,14 +50513,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[540, [280]]
+[557, [280]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Inlines":{
 "files": [
-[540, [281]]
+[557, [281]]
 ],
 "memberKind": "Property"
 }
@@ -49141,45 +50531,49 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[404, [484,489,494]],
-[154, [448,455]],
-[540, [277]],
-[810, [42,47,54,56]],
-[155, [441,448]]
+[421, [484,489,494]],
+[164, [448,455]],
+[557, [277]],
+[832, [42,47,54,56]],
+[165, [441,448]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "FontWeight":{
 "files": [
-[154, [449]],
-[810, [47]],
-[155, [442]]
+[164, [449]],
+[832, [47]],
+[165, [442]]
 ],
 "memberKind": "Property"
 }
 ,
 "Text":{
 "files": [
-[404, [485,490,495]],
-[537, [36,37,38]],
-[459, [57]],
-[154, [192,193,194,197,201,216,318,450,456]],
-[690, [32]],
-[693, [30]],
-[721, [90]],
-[540, [278]],
-[466, [82,83]],
-[810, [42,47,54,56]],
-[155, [176,177,178,181,185,200,299,302,443,449]],
-[469, [34,35,36,37]],
-[122, [98]],
-[863, [48]],
-[839, [39]],
-[865, [48]],
-[881, [32]],
-[843, [33]],
-[844, [34]]
+[421, [485,490,495]],
+[554, [36,37,38]],
+[476, [57]],
+[164, [192,193,194,197,201,216,318,450,456]],
+[712, [32]],
+[715, [30]],
+[743, [90]],
+[351, [90]],
+[352, [118]],
+[314, [127,133]],
+[315, [156,157,158]],
+[557, [278]],
+[483, [82,83]],
+[832, [42,47,54,56]],
+[165, [176,177,178,181,185,200,299,302,443,449]],
+[486, [34,35,36,37]],
+[131, [98]],
+[885, [48]],
+[861, [39]],
+[887, [48]],
+[903, [32]],
+[865, [33]],
+[866, [34]]
 ],
 "memberKind": "Property"
 }
@@ -49190,14 +50584,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[404, [481]]
+[421, [481]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Inlines":{
 "files": [
-[404, [486,491,501,502,506,509]]
+[421, [486,491,501,502,506,509]]
 ],
 "memberKind": "Property"
 }
@@ -49208,9 +50602,9 @@ var contents = {
 "members": {
 "FontWeight":{
 "files": [
-[154, [449]],
-[810, [47]],
-[155, [442]]
+[164, [449]],
+[832, [47]],
+[165, [442]]
 ],
 "memberKind": "Property"
 }
@@ -49223,34 +50617,34 @@ var contents = {
 "members": {
 "AcceptedOperation":{
 "files": [
-[151, [98,124,174,194]],
-[153, [76,120]],
-[152, [183,195]]
+[161, [98,124,174,194]],
+[163, [76,120]],
+[162, [183,195]]
 ],
 "memberKind": "Property"
 }
 ,
 "DataView":{
 "files": [
-[151, [98,113,118,174,188,193]],
-[153, [75,117,123]],
-[152, [182,194]]
+[161, [98,113,118,174,188,193]],
+[163, [75,117,123]],
+[162, [182,194]]
 ],
 "memberKind": "Property"
 }
 ,
 "DragUIOverride":{
 "files": [
-[151, [176,177]],
-[153, [79,83,84,91,92,93]],
-[152, [184]]
+[161, [176,177]],
+[163, [79,83,84,91,92,93]],
+[162, [184]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[151, [117,192]]
+[161, [117,192]]
 ],
 "memberKind": "Method"
 }
@@ -49261,8 +50655,8 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[151, [125,195]],
-[153, [61]]
+[161, [125,195]],
+[163, [61]]
 ],
 "memberKind": "Method"
 }
@@ -49273,22 +50667,22 @@ var contents = {
 "members": {
 "Data":{
 "files": [
-[153, [41]],
-[152, [160,161]]
+[163, [41]],
+[162, [160,161]]
 ],
 "memberKind": "Property"
 }
 ,
 "DragUI":{
 "files": [
-[153, [45,60]]
+[163, [45,60]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetDeferral`0":{
 "files": [
-[153, [51]]
+[163, [51]]
 ],
 "memberKind": "Method"
 }
@@ -49299,14 +50693,14 @@ var contents = {
 "members": {
 "SetContentFromDataPackage`0":{
 "files": [
-[153, [45]]
+[163, [45]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetContentFromSoftwareBitmap`1":{
 "files": [
-[153, [60]]
+[163, [60]]
 ],
 "memberKind": "Method"
 }
@@ -49317,38 +50711,38 @@ var contents = {
 "members": {
 "Caption":{
 "files": [
-[151, [177]],
-[153, [79]]
+[161, [177]],
+[163, [79]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsCaptionVisible":{
 "files": [
-[153, [93]],
-[152, [184]]
+[163, [93]],
+[162, [184]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsContentVisible":{
 "files": [
-[153, [84]]
+[163, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsGlyphVisible":{
 "files": [
-[151, [176]],
-[153, [83,92]]
+[161, [176]],
+[163, [83,92]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetContentFromBitmapImage`1":{
 "files": [
-[153, [91]]
+[163, [91]]
 ],
 "memberKind": "Method"
 }
@@ -49359,7 +50753,7 @@ var contents = {
 "members": {
 "TimeSpan":{
 "files": [
-[548, [264,265,279]]
+[565, [264,265,279]]
 ],
 "memberKind": "?"
 }
@@ -49370,14 +50764,14 @@ var contents = {
 "members": {
 "Dark":{
 "files": [
-[184, [106,112]]
+[194, [106,112]]
 ],
 "memberKind": "Field"
 }
 ,
 "Light":{
 "files": [
-[184, [101]]
+[194, [101]]
 ],
 "memberKind": "Field"
 }
@@ -49388,8 +50782,8 @@ var contents = {
 "members": {
 "ErrorMessage":{
 "files": [
-[872, [61]],
-[548, [446]]
+[894, [61]],
+[565, [446]]
 ],
 "memberKind": "Property"
 }
@@ -49400,29 +50794,29 @@ var contents = {
 "members": {
 "LeftToRight":{
 "files": [
-[194, [351,949]],
-[195, [286]],
-[196, [391,956]],
-[197, [321]],
-[198, [366]],
-[201, [430]],
-[121, [126]],
-[863, [72,78]],
-[865, [72,78]]
+[204, [347,925]],
+[205, [282]],
+[206, [387,940]],
+[207, [317]],
+[208, [362]],
+[211, [430]],
+[130, [126]],
+[885, [72,78]],
+[887, [72,78]]
 ],
 "memberKind": "Field"
 }
 ,
 "RightToLeft":{
 "files": [
-[194, [351,949]],
-[195, [286]],
-[196, [391,956]],
-[197, [321]],
-[198, [366]],
-[201, [430]],
-[863, [74]],
-[865, [74]]
+[204, [347,925]],
+[205, [282]],
+[206, [387,940]],
+[207, [317]],
+[208, [362]],
+[211, [430]],
+[885, [74]],
+[887, [74]]
 ],
 "memberKind": "Field"
 }
@@ -49433,20 +50827,20 @@ var contents = {
 "members": {
 "Keyboard":{
 "files": [
-[277, [85]],
-[288, [169,197]],
-[289, [165,191]],
-[497, [167]]
+[290, [85]],
+[301, [169,197]],
+[302, [165,191]],
+[514, [167]]
 ],
 "memberKind": "Field"
 }
 ,
 "Programmatic":{
 "files": [
-[529, [404]],
-[436, [67,126,232]],
-[720, [210,234]],
-[190, [126]]
+[546, [404]],
+[453, [67,135,241]],
+[742, [210,234]],
+[200, [126]]
 ],
 "memberKind": "Field"
 }
@@ -49457,131 +50851,133 @@ var contents = {
 "members": {
 "ActualHeight":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[440, [38]],
-[159, [235]],
-[430, [178]],
-[194, [1040,1058,1061,1063,1074]],
-[278, [206]],
-[279, [177]],
-[280, [153]],
-[107, [63]],
-[441, [37]],
-[458, [95]],
-[323, [95]],
-[301, [148]],
-[344, [173]],
-[343, [210]],
-[442, [106]],
-[758, [99]],
-[759, [108]],
-[413, [94]],
-[560, [94]],
-[559, [90]],
-[460, [92,107]],
-[201, [223,300,324]],
-[162, [143,204,347]],
-[432, [69]],
-[448, [151,153]],
-[836, [76]],
-[342, [120]],
-[451, [63]],
-[437, [82]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[457, [38]],
+[169, [235]],
+[447, [178]],
+[204, [1016,1034,1037,1039,1050]],
+[291, [206]],
+[292, [177]],
+[293, [153]],
+[116, [63]],
+[458, [37]],
+[475, [95]],
+[338, [95]],
+[316, [148]],
+[361, [159]],
+[360, [203]],
+[459, [106]],
+[780, [99]],
+[781, [108]],
+[430, [94]],
+[581, [94]],
+[580, [90]],
+[477, [92,107]],
+[211, [223,300,324]],
+[172, [143,204,347]],
+[449, [69]],
+[465, [151,153]],
+[858, [76]],
+[359, [120]],
+[453, [281]],
+[468, [63]],
+[454, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "ActualWidth":{
 "files": [
-[324, [95]],
-[282, [93]],
-[115, [97]],
-[116, [113]],
-[440, [38]],
-[194, [1040,1057,1061,1066,1071]],
-[107, [63]],
-[441, [37]],
-[458, [96]],
-[323, [95]],
-[442, [106]],
-[413, [94]],
-[560, [94]],
-[559, [90]],
-[460, [107]],
-[201, [222,299,323]],
-[162, [142,203,346]],
-[432, [69]],
-[448, [150,152]],
-[451, [63]],
-[437, [83]]
+[339, [95]],
+[295, [93]],
+[124, [97]],
+[125, [113]],
+[457, [38]],
+[204, [1016,1033,1037,1042,1047]],
+[116, [63]],
+[458, [37]],
+[475, [96]],
+[338, [95]],
+[459, [106]],
+[430, [94]],
+[581, [94]],
+[580, [90]],
+[477, [107]],
+[211, [222,299,323]],
+[172, [142,203,346]],
+[449, [69]],
+[465, [150,152]],
+[453, [281]],
+[468, [63]],
+[454, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "AddHandler`3":{
 "files": [
-[905, [27]]
+[929, [27]]
 ],
 "memberKind": "Method"
 }
 ,
 "ClearValue`1":{
 "files": [
-[836, [106]],
-[436, [302]],
-[720, [247,248]]
+[858, [106]],
+[453, [311]],
+[742, [247,248]]
 ],
 "memberKind": "Method"
 }
 ,
 "DataContext":{
 "files": [
-[677, [52,83]],
-[328, [58]],
-[603, [96,113,158]],
-[450, [112,143]],
-[152, [172]],
-[455, [109]],
-[499, [126]],
-[190, [137]]
+[699, [52,83]],
+[343, [58]],
+[625, [96,113,158]],
+[467, [112,143]],
+[162, [172]],
+[472, [109]],
+[516, [126]],
+[200, [137]]
 ],
 "memberKind": "Property"
 }
 ,
 "DesiredSize":{
 "files": [
-[492, [51]]
+[509, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[746, [51,116]],
-[174, [65]],
-[429, [85]],
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]],
-[742, [84,92,103,111,123,131]],
-[743, [84,92,103,111,123,131]],
-[590, [49]],
-[589, [226]],
-[591, [283]],
-[744, [84,92,103,111,123,131]],
-[745, [84,92,103,111,123,131]]
+[768, [51,116]],
+[184, [65]],
+[446, [85]],
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]],
+[764, [84,92,103,111,123,131]],
+[765, [84,92,103,111,123,131]],
+[612, [49]],
+[611, [226]],
+[613, [283]],
+[766, [84,92,103,111,123,131]],
+[767, [84,92,103,111,123,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "DoubleTapped":{
 "files": [
-[730, [34]]
+[752, [34]]
 ],
 "memberKind": "Event"
 }
@@ -49591,11 +50987,11 @@ var contents = {
 [29, [244,245,266]],
 [33, [204,205,226]],
 [34, [202,203,224]],
-[750, [45]],
-[465, [66,140,277,290,308,313]],
-[541, [147,148,149,150,151,169]],
-[540, [243,245,248,252,256,258,295]],
-[342, [115]]
+[772, [45]],
+[482, [66,140,277,290,308,313]],
+[558, [147,148,149,150,151,169]],
+[557, [243,245,248,252,256,258,295]],
+[359, [115]]
 ],
 "memberKind": "Method"
 }
@@ -49603,181 +50999,182 @@ var contents = {
 "Height":{
 "files": [
 [31, [84]],
-[538, [108,275]],
-[192, [289,453]],
-[193, [311]],
-[194, [1018]],
-[536, [91,96,101,107]],
-[494, [25,28]],
-[465, [288,299]],
-[457, [521,527,537,545,568]],
-[467, [61,63]],
-[468, [105,107]],
-[448, [103,151,153]],
+[555, [108,275]],
+[202, [289,453]],
+[203, [311]],
+[204, [994]],
+[476, [67]],
+[553, [91,96,101,107]],
+[511, [25,28]],
+[482, [288,299]],
+[474, [521,527,537,545,568]],
+[484, [61,63]],
+[485, [105,107]],
+[465, [103,151,153]],
 [43, [79]],
-[836, [99]],
-[342, [120]],
-[184, [145]]
+[858, [99]],
+[359, [120]],
+[194, [145]]
 ],
 "memberKind": "Property"
 }
 ,
 "HeightProperty":{
 "files": [
-[201, [255]],
-[162, [239]]
+[211, [255]],
+[172, [239]]
 ],
 "memberKind": "Property"
 }
 ,
 "Holding":{
 "files": [
-[730, [36]]
+[752, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "HorizontalAlignment":{
 "files": [
-[430, [191,196]],
-[457, [554]],
-[342, [121]],
-[756, [72]],
-[757, [105]]
+[447, [191,196]],
+[474, [554]],
+[359, [121]],
+[778, [72]],
+[779, [105]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignmentProperty":{
 "files": [
-[720, [248,254]]
+[742, [248,254]]
 ],
 "memberKind": "Property"
 }
 ,
 "InvalidateArrange`0":{
 "files": [
-[540, [270]]
+[557, [270]]
 ],
 "memberKind": "Method"
 }
 ,
 "InvalidateMeasure`0":{
 "files": [
-[465, [147,304]],
-[540, [271]],
-[457, [438]]
+[482, [147,304]],
+[557, [271]],
+[474, [438]]
 ],
 "memberKind": "Method"
 }
 ,
 "Language":{
 "files": [
-[518, [59]]
+[535, [59]]
 ],
 "memberKind": "Property"
 }
 ,
 "Loaded":{
 "files": [
-[458, [89]],
-[326, [36]],
-[327, [36]],
-[328, [34]],
+[475, [89]],
+[341, [36]],
+[342, [36]],
+[343, [34]],
 [6, [24]],
-[436, [226,233]],
-[437, [79]]
+[453, [235,242]],
+[454, [79]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationCompleted":{
 "files": [
-[444, [40]]
+[461, [40]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationDelta":{
 "files": [
-[444, [39]]
+[461, [39]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationInertiaStarting":{
 "files": [
-[444, [41]]
+[461, [41]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationMode":{
 "files": [
-[444, [45,114,121,125,136]]
+[461, [45,114,121,125,136]]
 ],
 "memberKind": "Property"
 }
 ,
 "ManipulationStarted":{
 "files": [
-[444, [38]]
+[461, [38]]
 ],
 "memberKind": "Event"
 }
 ,
 "Margin":{
 "files": [
-[538, [112,277]],
-[192, [293,455]],
-[193, [315]],
-[373, [113,114,121,122]],
+[555, [112,277]],
+[202, [293,455]],
+[203, [315]],
+[390, [113,114,121,122]],
 [29, [160,161]],
 [33, [120,121]],
 [34, [118,119]],
-[683, [91,93]],
-[668, [119,121]],
-[374, [113,114,121,122]],
-[375, [113,114,121,122]],
-[342, [124]],
-[862, [30,36]]
+[705, [91,93]],
+[690, [119,121]],
+[391, [113,114,121,122]],
+[392, [113,114,121,122]],
+[359, [124]],
+[884, [30,36]]
 ],
 "memberKind": "Property"
 }
 ,
 "MarginProperty":{
 "files": [
-[201, [253]],
-[162, [237]]
+[211, [253]],
+[172, [237]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxHeight":{
 "files": [
-[461, [103,107]],
-[548, [384,399]]
+[478, [103,107]],
+[565, [384,399]]
 ],
 "memberKind": "Property"
 }
 ,
 "MeasureOverride`1":{
 "files": [
-[492, [42]]
+[509, [42]]
 ],
 "memberKind": "Method"
 }
 ,
 "MinHeight":{
 "files": [
-[548, [383,398]]
+[565, [383,398]]
 ],
 "memberKind": "Property"
 }
 ,
 "MinWidth":{
 "files": [
-[548, [382,397]]
+[565, [382,397]]
 ],
 "memberKind": "Property"
 }
@@ -49787,138 +51184,139 @@ var contents = {
 [29, [218]],
 [33, [178]],
 [34, [176]],
-[675, [51]],
-[523, [106]],
-[841, [44]],
-[587, [66]],
-[181, [113]],
-[182, [112]],
-[554, [51]],
-[555, [51]],
-[342, [119]],
-[818, [85]],
-[831, [33]],
-[497, [121]]
+[697, [51]],
+[540, [106]],
+[863, [44]],
+[609, [66]],
+[191, [113]],
+[192, [112]],
+[575, [51]],
+[576, [51]],
+[359, [119]],
+[840, [85]],
+[853, [33]],
+[514, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "OnApplyTemplate`0":{
 "files": [
-[823, [48]],
-[824, [37]],
-[826, [42]],
-[492, [31]],
-[827, [33]],
-[849, [46]]
+[845, [48]],
+[846, [37]],
+[848, [42]],
+[509, [31]],
+[849, [33]],
+[871, [46]]
 ],
 "memberKind": "Method"
 }
 ,
 "Opacity":{
 "files": [
-[342, [137,147]]
+[359, [137,147]]
 ],
 "memberKind": "Property"
 }
 ,
 "Parent":{
 "files": [
-[454, [109,126]]
+[471, [109,126]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerEntered":{
 "files": [
-[730, [29]]
+[752, [29]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerExited":{
 "files": [
-[730, [30]]
+[752, [30]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerPressed":{
 "files": [
-[730, [25]]
+[752, [25]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerPressedEvent":{
 "files": [
-[905, [27]]
+[929, [27]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerReleased":{
 "files": [
-[730, [26]]
+[752, [26]]
 ],
 "memberKind": "Event"
 }
 ,
 "RegisterPropertyChangedCallback`2":{
 "files": [
-[720, [55]]
+[453, [70]],
+[742, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "RenderTransform":{
 "files": [
-[444, [63,152]],
-[201, [219,320]],
-[162, [125,200,343]]
+[461, [63,152]],
+[211, [219,320]],
+[172, [125,200,343]]
 ],
 "memberKind": "Property"
 }
 ,
 "RightTapped":{
 "files": [
-[730, [37]]
+[752, [37]]
 ],
 "memberKind": "Event"
 }
 ,
 "SetBinding`2":{
 "files": [
-[201, [253,254,255]],
-[162, [237,238,239]]
+[211, [253,254,255]],
+[172, [237,238,239]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetValue`2":{
 "files": [
-[541, [156,158,159]],
-[540, [253]],
-[457, [533,534,544,545]],
+[558, [156,158,159]],
+[557, [253]],
+[474, [533,534,544,545]],
 [43, [77,78]],
-[342, [130]],
-[436, [298]],
-[720, [253,254]]
+[359, [130]],
+[453, [307]],
+[742, [253,254]]
 ],
 "memberKind": "Method"
 }
 ,
 "SizeChanged":{
 "files": [
-[495, [49,52]],
-[842, [36]]
+[512, [49,52]],
+[864, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "StartDragAsync`1":{
 "files": [
-[152, [121]]
+[162, [121]]
 ],
 "memberKind": "Method"
 }
@@ -49928,210 +51326,223 @@ var contents = {
 [29, [312,316]],
 [33, [272,276]],
 [34, [270,274]],
-[683, [80,89]],
-[668, [108,117]],
-[694, [78]],
-[677, [53]],
-[476, [125,128]],
-[201, [234,246]],
-[162, [229]],
-[155, [421,425]]
+[705, [80,89]],
+[690, [108,117]],
+[716, [78]],
+[699, [53]],
+[493, [125,128]],
+[211, [234,246]],
+[172, [229]],
+[165, [421,425]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[470, [190]],
-[471, [108]],
-[472, [139]],
-[473, [126]],
-[538, [106,273]],
-[192, [287,451]],
-[712, [161]],
-[713, [147]],
+[487, [190]],
+[488, [108]],
+[489, [139]],
+[490, [126]],
+[555, [106,273]],
+[202, [287,451]],
+[570, [81,102]],
+[568, [102,117,171]],
+[569, [106,126,190,225]],
+[734, [161]],
+[735, [147]],
 [29, [334]],
 [33, [294]],
 [34, [292]],
-[474, [108]],
-[475, [108]],
-[476, [117]],
-[477, [134]],
-[461, [158]],
-[715, [83]],
-[760, [42]],
-[478, [105]],
-[431, [155]],
-[155, [412]],
-[529, [103,126]],
-[177, [111,134]],
-[166, [121,143]],
-[178, [107,129]],
-[179, [93,116]],
-[180, [93,315]],
-[167, [117,140]],
-[181, [114,135]],
-[182, [113,134]],
-[435, [149]],
-[408, [60,71]],
-[479, [82]],
-[480, [112]],
-[481, [108]],
-[482, [107]],
-[483, [82]],
-[485, [82]],
-[488, [108]],
-[489, [108]],
-[815, [55,57,63,72,76,98]],
-[726, [41,66]],
-[863, [46]],
-[865, [46]],
-[850, [35]],
-[729, [35,60]],
-[843, [32]],
-[844, [33]],
-[845, [34,56]],
-[170, [162]]
+[491, [108]],
+[492, [108]],
+[493, [117]],
+[494, [134]],
+[478, [158]],
+[737, [83]],
+[782, [42]],
+[495, [105]],
+[448, [155]],
+[165, [412]],
+[546, [103,126]],
+[187, [111,134]],
+[176, [121,143]],
+[188, [107,129]],
+[189, [93,116]],
+[190, [93,315]],
+[177, [117,140]],
+[191, [114,135]],
+[192, [113,134]],
+[452, [149]],
+[425, [60,71]],
+[496, [82]],
+[497, [112]],
+[498, [108]],
+[499, [107]],
+[500, [82]],
+[502, [82]],
+[505, [108]],
+[506, [108]],
+[837, [55,57,63,72,76,98]],
+[748, [41,66]],
+[885, [46]],
+[887, [46]],
+[872, [35]],
+[751, [35,60]],
+[865, [32]],
+[866, [33]],
+[867, [34,56]],
+[180, [162]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tapped":{
 "files": [
-[730, [33]],
-[825, [39]]
+[752, [33]],
+[847, [39]]
 ],
 "memberKind": "Event"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93]],
-[116, [109]],
-[440, [36]],
-[159, [232]],
-[430, [175]],
-[191, [410]],
-[107, [61]],
-[441, [35]],
-[139, [59]],
-[323, [93]],
-[442, [104]],
-[432, [67]],
-[449, [215]],
-[451, [62]]
+[339, [91]],
+[295, [89]],
+[124, [93]],
+[125, [109]],
+[457, [36]],
+[169, [232]],
+[447, [175]],
+[201, [410]],
+[116, [61]],
+[458, [35]],
+[149, [59]],
+[338, [93]],
+[459, [104]],
+[449, [67]],
+[466, [215]],
+[453, [280]],
+[468, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "Unloaded":{
 "files": [
-[458, [108]],
-[437, [102]]
+[475, [108]],
+[454, [102]]
 ],
 "memberKind": "Event"
 }
 ,
 "UpdateLayout`0":{
 "files": [
-[465, [148,305]],
-[540, [272]],
-[457, [439]]
+[482, [148,305]],
+[557, [272]],
+[474, [439]]
 ],
 "memberKind": "Method"
 }
 ,
 "VerticalAlignment":{
 "files": [
-[457, [554]],
-[756, [73]],
-[757, [106]]
+[474, [554]],
+[778, [73]],
+[779, [106]]
 ],
 "memberKind": "Property"
 }
 ,
 "Visibility":{
 "files": [
-[470, [96,101,140,145,185,196]],
-[471, [74,103,114]],
-[472, [129,133,145]],
+[487, [96,101,140,145,185,196]],
+[488, [74,103,114]],
+[489, [129,133,145]],
 [32, [40,43]],
 [41, [38,41]],
-[473, [111,114,119]],
-[134, [81,89]],
-[373, [158,171,198,199,200,210,211,212]],
-[638, [291]],
-[111, [34]],
-[108, [35]],
-[605, [35,36,40,41]],
-[385, [50]],
-[387, [97]],
-[386, [49]],
-[154, [304]],
+[490, [111,114,119]],
+[276, [145,279]],
+[204, [640,641]],
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[207, [548,549]],
+[144, [81,89]],
+[109, [56,60]],
+[390, [158,171,198,199,200,210,211,212]],
+[660, [291]],
+[120, [34]],
+[117, [35]],
+[627, [35,36,40,41]],
+[402, [50]],
+[404, [97]],
+[403, [49]],
+[164, [304]],
 [29, [324,328]],
 [33, [284,288]],
 [34, [282,286]],
-[474, [74,103,115]],
-[334, [95,102,107,156,184]],
-[335, [77,106,217,218,219]],
-[209, [271,310]],
-[374, [158,171,198,199,200,210,211,212]],
-[523, [91]],
-[524, [101]],
-[686, [103]],
-[475, [74,103,114]],
-[477, [100,129,140]],
-[312, [239,241,380,381]],
-[714, [134]],
-[461, [98,153,164]],
-[394, [241,245,252]],
-[650, [82,86,93]],
-[828, [23,25,31]],
-[825, [127,128,133,134]],
-[829, [32,34,40]],
-[258, [110,111,116,117]],
-[201, [268,348]],
-[375, [158,171,198,199,200,210,211,212]],
-[692, [69,73,79,85]],
-[465, [206,311]],
-[541, [155,165,166]],
-[540, [249,261,266]],
-[478, [71,100,111]],
-[431, [145,149,161]],
-[313, [95]],
-[141, [28]],
-[155, [288]],
-[426, [104,105,249,250,264,265,283,284,343,344]],
-[529, [289,309,342,343,356,400]],
-[177, [81,243,250,265,291,346,347,357,358,409,410]],
-[178, [77,266,274,284,316,334,339,356,375,402,407,424]],
-[179, [68,200,226,227,237,242,259,277,283,294,299,316]],
-[180, [68,172,198,199,209,214,231,249,255,266,271,288]],
-[435, [139,143,155]],
-[121, [85,91,150,156]],
-[122, [29,52]],
-[315, [77,78,106,107]],
-[755, [45,46,57,58]],
-[412, [49,50,68,69]],
-[310, [131,158]],
-[821, [86,113]],
-[480, [73,118]],
-[695, [71]],
-[492, [49]],
-[481, [74,103,114]],
-[482, [73,102,113]],
-[484, [46]],
-[152, [81,82,134,135]],
-[847, [149,166,190]],
-[436, [75]],
-[488, [74,103,114]],
-[489, [74,103,114]],
-[822, [45,70]],
-[507, [128]],
-[879, [35,42]],
-[439, [71]]
+[491, [74,103,115]],
+[349, [95,102,107,156,184]],
+[350, [77,106,217,218,219]],
+[219, [271,310]],
+[391, [158,171,198,199,200,210,211,212]],
+[314, [89,97]],
+[315, [120,128]],
+[540, [91]],
+[541, [101]],
+[708, [103]],
+[492, [74,103,114]],
+[494, [100,129,140]],
+[327, [239,241,380,381]],
+[736, [134]],
+[478, [98,153,164]],
+[411, [241,245,252]],
+[672, [82,86,93]],
+[850, [23,25,31]],
+[847, [127,128,133,134]],
+[851, [32,34,40]],
+[269, [110,111,116,117]],
+[211, [268,348]],
+[392, [158,171,198,199,200,210,211,212]],
+[714, [69,73,79,85]],
+[482, [206,311]],
+[558, [155,165,166]],
+[557, [249,261,266]],
+[495, [71,100,111]],
+[448, [145,149,161]],
+[328, [95]],
+[151, [28,29]],
+[165, [288]],
+[443, [104,105,249,250,264,265,283,284,343,344]],
+[546, [289,309,342,343,356,400]],
+[187, [81,243,250,265,291,346,347,357,358,409,410]],
+[188, [77,266,274,284,316,334,339,356,375,402,407,424]],
+[189, [68,200,226,227,237,242,259,277,283,294,299,316]],
+[190, [68,172,198,199,209,214,231,249,255,266,271,288]],
+[452, [139,143,155]],
+[130, [85,91,150,156]],
+[131, [29,52]],
+[330, [77,78,106,107]],
+[777, [45,46,57,58]],
+[429, [49,50,68,69]],
+[325, [131,158]],
+[843, [86,113]],
+[497, [73,118]],
+[717, [71]],
+[509, [49]],
+[498, [74,103,114]],
+[499, [73,102,113]],
+[501, [46]],
+[162, [81,82,134,135]],
+[869, [149,166,190]],
+[453, [84]],
+[505, [74,103,114]],
+[506, [74,103,114]],
+[844, [45,70]],
+[524, [128]],
+[901, [35,42]],
+[456, [71]]
 ],
 "memberKind": "Property"
 }
@@ -50139,40 +51550,40 @@ var contents = {
 "Width":{
 "files": [
 [31, [85]],
-[430, [189,194]],
-[191, [411]],
-[538, [107,274]],
-[192, [288,452]],
-[193, [310]],
-[194, [1017]],
-[373, [106,108]],
-[459, [45]],
+[447, [189,194]],
+[201, [411]],
+[555, [107,274]],
+[202, [288,452]],
+[203, [310]],
+[204, [993]],
+[390, [106,108]],
+[476, [45,66]],
 [29, [168,173]],
 [33, [128,133]],
 [34, [126,131]],
-[374, [106,108]],
-[375, [106,108]],
-[494, [24,27]],
-[465, [287,298]],
-[457, [521,527,537,544,567]],
-[467, [60,62]],
-[468, [104,106]],
-[448, [103,150,152]],
+[391, [106,108]],
+[392, [106,108]],
+[511, [24,27]],
+[482, [287,298]],
+[474, [521,527,537,544,567]],
+[484, [60,62]],
+[485, [104,106]],
+[465, [103,150,152]],
 [43, [80]],
-[449, [216]],
-[342, [122]],
-[497, [175,179]],
-[498, [181,185]],
-[184, [144]]
+[466, [216]],
+[359, [122]],
+[514, [175,179]],
+[515, [181,185]],
+[194, [144]]
 ],
 "memberKind": "Property"
 }
 ,
 "WidthProperty":{
 "files": [
-[201, [254]],
-[162, [238]],
-[720, [247,253]]
+[211, [254]],
+[172, [238]],
+[742, [247,253]]
 ],
 "memberKind": "Property"
 }
@@ -50183,8 +51594,8 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[541, [161,162]],
-[822, [50]]
+[558, [161,162]],
+[844, [50]]
 ],
 "memberKind": "Constructor"
 }
@@ -50195,8 +51606,8 @@ var contents = {
 "members": {
 "Star":{
 "files": [
-[541, [161,162]],
-[822, [50]]
+[558, [161,162]],
+[844, [50]]
 ],
 "memberKind": "Field"
 }
@@ -50207,25 +51618,25 @@ var contents = {
 "members": {
 "Center":{
 "files": [
-[457, [557]]
+[474, [557]]
 ],
 "memberKind": "Field"
 }
 ,
 "Left":{
 "files": [
-[430, [191,196]],
-[342, [121]],
-[720, [254]],
-[822, [57]]
+[447, [191,196]],
+[359, [121]],
+[742, [254]],
+[844, [57]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stretch":{
 "files": [
-[756, [72]],
-[757, [105]]
+[778, [72]],
+[779, [105]]
 ],
 "memberKind": "Field"
 }
@@ -50238,7 +51649,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[730, [34]]
+[752, [34]]
 ],
 "memberKind": "Constructor"
 }
@@ -50249,23 +51660,23 @@ var contents = {
 "members": {
 "FindNextFocusableElement`1":{
 "files": [
-[436, [123]],
-[720, [207]]
+[453, [132]],
+[742, [207]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetFocusedElement`0":{
 "files": [
-[450, [68,82]],
-[720, [119]]
+[467, [68,82]],
+[742, [119]]
 ],
 "memberKind": "Method"
 }
 ,
 "TryMoveFocus`1":{
 "files": [
-[720, [203]]
+[742, [203]]
 ],
 "memberKind": "Method"
 }
@@ -50276,51 +51687,51 @@ var contents = {
 "members": {
 "Down":{
 "files": [
-[436, [117]],
-[720, [129,152,171]]
+[453, [126]],
+[742, [129,152,171]]
 ],
 "memberKind": "Field"
 }
 ,
 "Left":{
 "files": [
-[436, [97]]
+[453, [106]]
 ],
 "memberKind": "Field"
 }
 ,
 "Next":{
 "files": [
-[720, [148,201]]
+[742, [148,201]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[436, [90,121]]
+[453, [99,130]]
 ],
 "memberKind": "Field"
 }
 ,
 "Previous":{
 "files": [
-[720, [159,201]]
+[742, [159,201]]
 ],
 "memberKind": "Field"
 }
 ,
 "Right":{
 "files": [
-[436, [103]]
+[453, [112]]
 ],
 "memberKind": "Field"
 }
 ,
 "Up":{
 "files": [
-[436, [110]],
-[720, [124,163,175]]
+[453, [119]],
+[742, [124,163,175]]
 ],
 "memberKind": "Field"
 }
@@ -50331,7 +51742,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[730, [36]]
+[752, [36]]
 ],
 "memberKind": "Constructor"
 }
@@ -50342,31 +51753,31 @@ var contents = {
 "members": {
 "GetPosition`1":{
 "files": [
-[450, [110]]
+[467, [110]]
 ],
 "memberKind": "Method"
 }
 ,
 "Handled":{
 "files": [
-[450, [114]]
+[467, [114]]
 ],
 "memberKind": "Property"
 }
 ,
 "HoldingState":{
 "files": [
-[730, [108,113]],
-[464, [59]],
-[760, [40]],
-[450, [108]]
+[752, [108,113]],
+[481, [59]],
+[782, [40]],
+[467, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "OriginalSource":{
 "files": [
-[450, [112]]
+[467, [112]]
 ],
 "memberKind": "Property"
 }
@@ -50377,19 +51788,22 @@ var contents = {
 "members": {
 "Handled":{
 "files": [
-[450, [76,89]],
-[436, [127]],
-[720, [125,130,179,186]]
+[467, [76,89]],
+[453, [136]],
+[742, [125,130,179,186]]
 ],
 "memberKind": "Property"
 }
 ,
 "Key":{
 "files": [
-[721, [96]],
-[450, [60,66,80,97]],
-[436, [91]],
-[720, [121]]
+[276, [171]],
+[277, [97]],
+[70, [153]],
+[743, [96]],
+[467, [60,66,80,97]],
+[453, [100]],
+[742, [121]]
 ],
 "memberKind": "Property"
 }
@@ -50400,7 +51814,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[444, [40]]
+[461, [40]]
 ],
 "memberKind": "Constructor"
 }
@@ -50411,7 +51825,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[444, [39]]
+[461, [39]]
 ],
 "memberKind": "Constructor"
 }
@@ -50422,21 +51836,21 @@ var contents = {
 "members": {
 "Complete`0":{
 "files": [
-[444, [80]]
+[461, [80]]
 ],
 "memberKind": "Method"
 }
 ,
 "Delta":{
 "files": [
-[444, [93,94,95]]
+[461, [93,94,95]]
 ],
 "memberKind": "Property"
 }
 ,
 "Position":{
 "files": [
-[444, [87]]
+[461, [87]]
 ],
 "memberKind": "Property"
 }
@@ -50447,7 +51861,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[444, [41]]
+[461, [41]]
 ],
 "memberKind": "Constructor"
 }
@@ -50458,35 +51872,35 @@ var contents = {
 "members": {
 "Rotate":{
 "files": [
-[444, [48]]
+[461, [48]]
 ],
 "memberKind": "Field"
 }
 ,
 "RotateInertia":{
 "files": [
-[444, [50,136]]
+[461, [50,136]]
 ],
 "memberKind": "Field"
 }
 ,
 "TranslateInertia":{
 "files": [
-[444, [49,136]]
+[461, [49,136]]
 ],
 "memberKind": "Field"
 }
 ,
 "TranslateX":{
 "files": [
-[444, [46,114,125]]
+[461, [46,114,125]]
 ],
 "memberKind": "Field"
 }
 ,
 "TranslateY":{
 "files": [
-[444, [47,114,121]]
+[461, [47,114,121]]
 ],
 "memberKind": "Field"
 }
@@ -50497,7 +51911,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[444, [38]]
+[461, [38]]
 ],
 "memberKind": "Constructor"
 }
@@ -50508,15 +51922,15 @@ var contents = {
 "members": {
 "IsInContact":{
 "files": [
-[152, [119]]
+[162, [119]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerDeviceType":{
 "files": [
-[342, [80]],
-[905, [44]]
+[359, [80]],
+[929, [44]]
 ],
 "memberKind": "Property"
 }
@@ -50527,9 +51941,9 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[730, [25,26,29,30]],
-[341, [32,33,34,35,36,37]],
-[905, [27]]
+[752, [25,26,29,30]],
+[358, [32,33,34,35,36,37]],
+[929, [27]]
 ],
 "memberKind": "Constructor"
 }
@@ -50540,27 +51954,27 @@ var contents = {
 "members": {
 "GetCurrentPoint`1":{
 "files": [
-[341, [42,51,67,79,89]],
-[445, [153,169]],
-[152, [121]],
-[342, [85]]
+[358, [42,51,67,79,89]],
+[462, [153,169]],
+[162, [121]],
+[359, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetIntermediatePoints`1":{
 "files": [
-[445, [161]]
+[462, [161]]
 ],
 "memberKind": "Method"
 }
 ,
 "Pointer":{
 "files": [
-[445, [150,172,180]],
-[152, [119]],
-[342, [80]],
-[905, [44]]
+[462, [150,172,180]],
+[162, [119]],
+[359, [80]],
+[929, [44]]
 ],
 "memberKind": "Property"
 }
@@ -50571,7 +51985,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[730, [37]]
+[752, [37]]
 ],
 "memberKind": "Constructor"
 }
@@ -50582,21 +51996,21 @@ var contents = {
 "members": {
 "GetPosition`1":{
 "files": [
-[450, [145]]
+[467, [145]]
 ],
 "memberKind": "Method"
 }
 ,
 "Handled":{
 "files": [
-[450, [146]]
+[467, [146]]
 ],
 "memberKind": "Property"
 }
 ,
 "OriginalSource":{
 "files": [
-[450, [143]]
+[467, [143]]
 ],
 "memberKind": "Property"
 }
@@ -50607,7 +52021,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[730, [33]]
+[752, [33]]
 ],
 "memberKind": "Constructor"
 }
@@ -50618,14 +52032,14 @@ var contents = {
 "members": {
 "Handled":{
 "files": [
-[825, [49]]
+[847, [49]]
 ],
 "memberKind": "Property"
 }
 ,
 "OriginalSource":{
 "files": [
-[455, [109]]
+[472, [109]]
 ],
 "memberKind": "Property"
 }
@@ -50640,8 +52054,8 @@ var contents = {
 "members": {
 "Reset":{
 "files": [
-[416, [140,166]],
-[418, [140,166]]
+[433, [140,166]],
+[435, [140,166]]
 ],
 "memberKind": "Field"
 }
@@ -50652,8 +52066,8 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[416, [140,166]],
-[418, [140,166]]
+[433, [140,166]],
+[435, [140,166]]
 ],
 "memberKind": "Constructor"
 }
@@ -50670,14 +52084,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[714, [190]]
+[736, [190]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "KeyFrames":{
 "files": [
-[714, [230,231,232]]
+[736, [230,231,232]]
 ],
 "memberKind": "Property"
 }
@@ -50688,14 +52102,14 @@ var contents = {
 "members": {
 "KeyTime":{
 "files": [
-[714, [194,199,204]]
+[736, [194,199,204]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[714, [209,210,211,218,219,220]]
+[736, [209,210,211,218,219,220]]
 ],
 "memberKind": "Property"
 }
@@ -50706,12 +52120,12 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[486, [58]],
-[847, [123]],
-[739, [45]],
-[487, [86]],
-[848, [94]],
-[858, [30]]
+[503, [58]],
+[869, [123]],
+[761, [45]],
+[504, [86]],
+[870, [94]],
+[880, [30]]
 ],
 "memberKind": "Constructor"
 }
@@ -50722,16 +52136,16 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[486, [67,99]],
-[487, [96]]
+[503, [67,99]],
+[504, [96]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "SetIsTargetElement`2":{
 "files": [
-[847, [85,88]],
-[848, [79,82]]
+[869, [85,88]],
+[870, [79,82]]
 ],
 "memberKind": "Method"
 }
@@ -50742,8 +52156,8 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[847, [134]],
-[848, [112]]
+[869, [134]],
+[870, [112]]
 ],
 "memberKind": "Constructor"
 }
@@ -50754,7 +52168,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[750, [39]]
+[772, [39]]
 ],
 "memberKind": "Constructor"
 }
@@ -50765,21 +52179,21 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[714, [203]]
+[736, [203]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ControlPoint1":{
 "files": [
-[714, [203]]
+[736, [203]]
 ],
 "memberKind": "Property"
 }
 ,
 "ControlPoint2":{
 "files": [
-[714, [203]]
+[736, [203]]
 ],
 "memberKind": "Property"
 }
@@ -50790,28 +52204,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[714, [193,198,202]]
+[736, [193,198,202]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "KeySpline":{
 "files": [
-[714, [203]]
+[736, [203]]
 ],
 "memberKind": "Property"
 }
 ,
 "KeyTime":{
 "files": [
-[714, [194,199,204]]
+[736, [194,199,204]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[714, [209,210,211,218,219,220]]
+[736, [209,210,211,218,219,220]]
 ],
 "memberKind": "Property"
 }
@@ -50822,67 +52236,67 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[750, [29]],
-[714, [171]]
+[772, [29]],
+[736, [171]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Begin`0":{
 "files": [
-[750, [67]],
-[714, [154,165]]
+[772, [67]],
+[736, [154,165]]
 ],
 "memberKind": "Method"
 }
 ,
 "Children":{
 "files": [
-[750, [40]],
-[714, [233]]
+[772, [40]],
+[736, [233]]
 ],
 "memberKind": "Property"
 }
 ,
 "Completed":{
 "files": [
-[750, [74,80]]
+[772, [74,80]]
 ],
 "memberKind": "Event"
 }
 ,
 "Pause`0":{
 "files": [
-[714, [155]]
+[736, [155]]
 ],
 "memberKind": "Method"
 }
 ,
 "Seek`1":{
 "files": [
-[714, [156]]
+[736, [156]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetTarget`2":{
 "files": [
-[750, [45]],
-[714, [172,195]]
+[772, [45]],
+[736, [172,195]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetTargetProperty`2":{
 "files": [
-[714, [213,222]]
+[736, [213,222]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stop`0":{
 "files": [
-[750, [99]]
+[772, [99]]
 ],
 "memberKind": "Method"
 }
@@ -50893,10 +52307,10 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[486, [71]],
-[847, [76]],
-[487, [100]],
-[848, [76]],
+[503, [71]],
+[869, [76]],
+[504, [100]],
+[870, [76]],
 [22, [82]]
 ],
 "memberKind": "Constructor"
@@ -50908,7 +52322,7 @@ var contents = {
 "members": {
 "Completed":{
 "files": [
-[750, [74,80]]
+[772, [74,80]]
 ],
 "memberKind": "Event"
 }
@@ -50919,15 +52333,15 @@ var contents = {
 "members": {
 "Clear`0":{
 "files": [
-[847, [133]],
-[848, [111,119]]
+[869, [133]],
+[870, [111,119]]
 ],
 "memberKind": "Method"
 }
 ,
 "RemoveAt`1":{
 "files": [
-[720, [75]]
+[742, [75]]
 ],
 "memberKind": "Method"
 }
@@ -50940,72 +52354,83 @@ var contents = {
 "members": {
 "Alerts":{
 "files": [
-[906, [34]]
+[930, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Communications":{
 "files": [
-[907, [34]]
+[931, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "GameChat":{
 "files": [
-[908, [34]]
+[932, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "GameEffects":{
 "files": [
-[909, [34]]
+[933, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "GameMedia":{
 "files": [
-[910, [34]]
+[934, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Media":{
 "files": [
-[911, [34]]
+[935, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Movie":{
 "files": [
-[912, [34]]
+[936, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Other":{
 "files": [
-[913, [34]]
+[937, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "SoundEffects":{
 "files": [
-[914, [34]]
+[938, [34]]
 ],
 "memberKind": "Field"
 }
 ,
 "Speech":{
 "files": [
-[915, [34]]
+[939, [34]]
 ],
 "memberKind": "Field"
+}
+}
+}
+,
+"Brush":{
+"members": {
+"Opacity":{
+"files": [
+[940, [32,48]]
+],
+"memberKind": "Property"
 }
 }
 }
@@ -51014,48 +52439,48 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[444, [57]],
-[445, [125]]
+[461, [57]],
+[462, [125]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CenterX":{
 "files": [
-[444, [88]],
-[445, [198]]
+[461, [88]],
+[462, [198]]
 ],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
 "files": [
-[444, [89]],
-[445, [199]]
+[461, [89]],
+[462, [199]]
 ],
 "memberKind": "Property"
 }
 ,
 "Rotation":{
 "files": [
-[444, [93]],
-[445, [203]]
+[461, [93]],
+[462, [203]]
 ],
 "memberKind": "Property"
 }
 ,
 "TranslateX":{
 "files": [
-[444, [94]],
-[445, [204]]
+[461, [94]],
+[462, [204]]
 ],
 "memberKind": "Property"
 }
 ,
 "TranslateY":{
 "files": [
-[444, [95]],
-[445, [205]]
+[461, [95]],
+[462, [205]]
 ],
 "memberKind": "Property"
 }
@@ -51066,7 +52491,7 @@ var contents = {
 "members": {
 "SurfaceContentsLost":{
 "files": [
-[443, [64]]
+[460, [64]]
 ],
 "memberKind": "Event"
 }
@@ -51077,7 +52502,7 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[448, [72,107]]
+[465, [72,107]]
 ],
 "memberKind": "Constructor"
 }
@@ -51088,14 +52513,14 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[523, [112]],
-[524, [107]],
-[916, [32]],
-[917, [32]],
-[918, [32]],
-[919, [19]],
-[727, [27,28,29,30,31]],
-[728, [26,27,28,29,30]]
+[540, [112]],
+[541, [107]],
+[941, [32]],
+[942, [32]],
+[943, [32]],
+[944, [19]],
+[749, [27,28,29,30,31]],
+[750, [26,27,28,29,30]]
 ],
 "memberKind": "Constructor"
 }
@@ -51106,31 +52531,32 @@ var contents = {
 "members": {
 "TransformBounds`1":{
 "files": [
-[463, [55]]
+[480, [55]],
+[453, [281]]
 ],
 "memberKind": "Method"
 }
 ,
 "TransformPoint`1":{
 "files": [
-[324, [92]],
-[282, [90]],
-[115, [94]],
-[116, [110]],
-[440, [37]],
-[159, [234]],
-[430, [177]],
-[191, [411]],
-[444, [87]],
-[446, [78]],
-[107, [62]],
-[441, [36]],
-[139, [60]],
-[323, [94]],
-[442, [105]],
-[432, [68]],
-[449, [216]],
-[451, [66]]
+[339, [92]],
+[295, [90]],
+[124, [94]],
+[125, [110]],
+[457, [37]],
+[169, [234]],
+[447, [177]],
+[201, [411]],
+[461, [87]],
+[463, [78]],
+[116, [62]],
+[458, [36]],
+[149, [60]],
+[338, [94]],
+[459, [105]],
+[449, [68]],
+[466, [216]],
+[468, [66]]
 ],
 "memberKind": "Method"
 }
@@ -51141,24 +52567,24 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[538, [89]],
-[192, [270]]
+[555, [89]],
+[202, [270]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ImageSource":{
 "files": [
-[538, [90,259]],
-[192, [271,437]]
+[555, [90,259]],
+[202, [271,437]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stretch":{
 "files": [
-[538, [91]],
-[192, [272]]
+[555, [91]],
+[202, [272]]
 ],
 "memberKind": "Property"
 }
@@ -51171,78 +52597,78 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[191, [130]],
-[134, [78]],
-[264, [247]],
-[154, [207,222,326]],
-[669, [72]],
-[561, [62]],
-[692, [66]],
-[709, [42]],
-[145, [103]],
-[147, [79]],
-[155, [191,206,310]],
-[202, [310]],
-[203, [138,225]],
-[710, [105]],
-[449, [86]],
-[416, [34]],
-[418, [34]],
-[920, [43]]
+[201, [130]],
+[144, [78]],
+[275, [247]],
+[164, [207,222,326]],
+[691, [72]],
+[582, [62]],
+[714, [66]],
+[731, [42]],
+[155, [103]],
+[157, [79]],
+[165, [191,206,310]],
+[212, [310]],
+[213, [138,225]],
+[732, [105]],
+[466, [86]],
+[433, [34]],
+[435, [34]],
+[945, [43]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[634, [76,77,78]],
-[669, [62]],
-[238, [49]],
-[653, [46]],
-[654, [55]],
-[709, [52]],
-[409, [43]],
-[153, [88]],
-[920, [48,49,50,51,52,53,54,55,56,57,58,59]],
-[756, [71]],
-[757, [104]],
-[921, [25]],
-[507, [130]]
+[656, [76,77,78]],
+[691, [62]],
+[248, [49]],
+[675, [46]],
+[676, [55]],
+[731, [52]],
+[426, [43]],
+[163, [88]],
+[945, [48,49,50,51,52,53,54,55,56,57,58,59]],
+[778, [71]],
+[779, [104]],
+[946, [25]],
+[524, [130]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "SetSource`1":{
 "files": [
-[134, [79]],
-[154, [208,223,327]],
-[669, [74]],
-[561, [63]],
-[692, [67]],
-[709, [47]],
-[145, [104]],
-[147, [80]],
-[155, [192,207,311]],
-[710, [106]]
+[144, [79]],
+[164, [208,223,327]],
+[691, [74]],
+[582, [63]],
+[714, [67]],
+[731, [47]],
+[155, [104]],
+[157, [80]],
+[165, [192,207,311]],
+[732, [106]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetSourceAsync`1":{
 "files": [
-[264, [248]],
-[202, [313]],
-[203, [142,228]],
-[416, [36]],
-[418, [36]]
+[275, [248]],
+[212, [313]],
+[213, [142,228]],
+[433, [36]],
+[435, [36]]
 ],
 "memberKind": "Method"
 }
 ,
 "UriSource":{
 "files": [
-[191, [131]],
-[449, [87]]
+[201, [131]],
+[466, [87]]
 ],
 "memberKind": "Property"
 }
@@ -51253,47 +52679,47 @@ var contents = {
 "members": {
 "PixelHeight":{
 "files": [
-[538, [97,262]],
-[192, [278,440]],
-[201, [300]],
-[457, [564,568]]
+[555, [97,262]],
+[202, [278,440]],
+[211, [300]],
+[474, [564,568]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
 "files": [
-[538, [96,261]],
-[192, [277,439]],
-[201, [299]],
-[457, [563,567]]
+[555, [96,261]],
+[202, [277,439]],
+[211, [299]],
+[474, [563,567]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetSource`1":{
 "files": [
-[134, [79]],
-[154, [208,223,327]],
-[669, [74]],
-[561, [63]],
-[692, [67]],
-[709, [47]],
-[145, [104]],
-[147, [80]],
-[155, [192,207,311]],
-[710, [106]]
+[144, [79]],
+[164, [208,223,327]],
+[691, [74]],
+[582, [63]],
+[714, [67]],
+[731, [47]],
+[155, [104]],
+[157, [80]],
+[165, [192,207,311]],
+[732, [106]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetSourceAsync`1":{
 "files": [
-[264, [248]],
-[202, [313]],
-[203, [142,228]],
-[416, [36]],
-[418, [36]]
+[275, [248]],
+[212, [313]],
+[213, [142,228]],
+[433, [36]],
+[435, [36]]
 ],
 "memberKind": "Method"
 }
@@ -51304,35 +52730,35 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[153, [52]]
+[163, [52]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "GetPixelsAsync`0":{
 "files": [
-[153, [54]]
+[163, [54]]
 ],
 "memberKind": "Method"
 }
 ,
 "PixelHeight":{
 "files": [
-[153, [58]]
+[163, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
 "files": [
-[153, [57]]
+[163, [57]]
 ],
 "memberKind": "Property"
 }
 ,
 "RenderAsync`1":{
 "files": [
-[153, [53]]
+[163, [53]]
 ],
 "memberKind": "Method"
 }
@@ -51343,14 +52769,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[195, [392]]
+[205, [374]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "SetBitmapAsync`1":{
 "files": [
-[195, [393]]
+[205, [375]]
 ],
 "memberKind": "Method"
 }
@@ -51361,42 +52787,42 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[538, [216]],
-[192, [246]],
-[201, [199]],
-[162, [107]],
-[457, [617]]
+[555, [216]],
+[202, [246]],
+[211, [199]],
+[172, [107]],
+[474, [617]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "PixelBuffer":{
 "files": [
-[538, [217]],
-[192, [247]],
-[201, [200]],
-[162, [108]],
-[457, [619]]
+[555, [217]],
+[202, [247]],
+[211, [200]],
+[172, [108]],
+[474, [619]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelHeight":{
 "files": [
-[538, [97,262]],
-[192, [278,440]],
-[201, [300]],
-[457, [564,568]]
+[555, [97,262]],
+[202, [278,440]],
+[211, [300]],
+[474, [564,568]]
 ],
 "memberKind": "Property"
 }
 ,
 "PixelWidth":{
 "files": [
-[538, [96,261]],
-[192, [277,439]],
-[201, [299]],
-[457, [563,567]]
+[555, [96,261]],
+[202, [277,439]],
+[211, [299]],
+[474, [563,567]]
 ],
 "memberKind": "Property"
 }
@@ -51409,23 +52835,23 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[444, [56]],
-[445, [126]]
+[461, [56]],
+[462, [126]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Matrix":{
 "files": [
-[444, [56,84]],
-[445, [126,194]]
+[461, [56,84]],
+[462, [126,194]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformPoint`1":{
 "files": [
-[444, [87]]
+[461, [87]]
 ],
 "memberKind": "Method"
 }
@@ -51438,37 +52864,56 @@ var contents = {
 "members": {
 "CenterX":{
 "files": [
-[842, [48]],
-[451, [68]]
+[472, [61,62]],
+[864, [48]],
+[468, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
 "files": [
-[842, [49]],
-[451, [71]]
+[864, [49]],
+[468, [71]]
+],
+"memberKind": "Property"
+}
+,
+"CenterZ":{
+"files": [
+[472, [65,66]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScaleX":{
 "files": [
-[451, [74]]
+[468, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScaleY":{
 "files": [
-[451, [74]]
+[468, [74]]
 ],
 "memberKind": "Property"
 }
 ,
 "TranslateZ":{
 "files": [
-[451, [75]]
+[468, [75]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"PerspectiveTransform3D":{
+"members": {
+"Depth":{
+"files": [
+[468, [75]]
 ],
 "memberKind": "Property"
 }
@@ -51481,56 +52926,67 @@ var contents = {
 "members": {
 "Buffering":{
 "files": [
-[548, [481]]
+[565, [481]]
 ],
 "memberKind": "Field"
 }
 ,
 "Closed":{
 "files": [
-[872, [56]],
-[548, [469]]
+[894, [56]],
+[565, [469]]
 ],
 "memberKind": "Field"
 }
 ,
 "Opening":{
 "files": [
-[548, [473]]
+[565, [473]]
 ],
 "memberKind": "Field"
 }
 ,
 "Paused":{
 "files": [
-[563, [161]],
-[556, [213]],
-[566, [402,406]],
-[564, [354,358]],
-[500, [455,459]],
-[548, [283,487,533]],
-[449, [158,184]]
+[584, [161]],
+[577, [213]],
+[588, [402,406]],
+[585, [354,358]],
+[517, [455,459]],
+[565, [283,487,533]],
+[466, [158,184]]
 ],
 "memberKind": "Field"
 }
 ,
 "Playing":{
 "files": [
-[556, [220]],
-[181, [51]],
-[182, [50]],
-[548, [205,283,491,502,528]],
-[449, [180,227]]
+[577, [220]],
+[191, [51]],
+[192, [50]],
+[565, [205,283,491,502,528]],
+[466, [180,227]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stopped":{
 "files": [
-[548, [495,532]],
-[449, [159,185]]
+[565, [495,532]],
+[466, [159,185]]
 ],
 "memberKind": "Field"
+}
+}
+}
+,
+"RectangleGeometry":{
+"members": {
+"Rect":{
+"files": [
+[472, [69]]
+],
+"memberKind": "Property"
 }
 }
 }
@@ -51539,44 +52995,44 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[194, [900,924]],
-[196, [949]],
-[197, [805]],
-[198, [922]],
-[201, [219]],
-[162, [200]],
-[203, [47]]
+[204, [876,900]],
+[206, [933]],
+[207, [782]],
+[208, [906]],
+[211, [219]],
+[172, [200]],
+[213, [47]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Angle":{
 "files": [
-[194, [900,924]],
-[196, [949]],
-[197, [805]],
-[198, [922]],
-[201, [219]],
-[162, [200]],
-[203, [604,607,610,614]]
+[204, [876,900]],
+[206, [933]],
+[207, [782]],
+[208, [906]],
+[211, [219]],
+[172, [200]],
+[213, [604,607,610,614]]
 ],
 "memberKind": "Property"
 }
 ,
 "CenterX":{
 "files": [
-[201, [219,323]],
-[162, [200,346]],
-[203, [664]]
+[211, [219,323]],
+[172, [200,346]],
+[213, [664]]
 ],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
 "files": [
-[201, [219,324]],
-[162, [200,347]],
-[203, [665]]
+[211, [219,324]],
+[172, [200,347]],
+[213, [665]]
 ],
 "memberKind": "Property"
 }
@@ -51587,47 +53043,47 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[201, [207,295]],
-[162, [138]]
+[211, [207,295]],
+[172, [138]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CenterX":{
 "files": [
-[201, [207,295]],
-[162, [138]]
+[211, [207,295]],
+[172, [138]]
 ],
 "memberKind": "Property"
 }
 ,
 "CenterY":{
 "files": [
-[201, [207,295]],
-[162, [138]]
+[211, [207,295]],
+[172, [138]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScaleX":{
 "files": [
-[201, [207,295]],
-[162, [138]]
+[211, [207,295]],
+[172, [138]]
 ],
 "memberKind": "Property"
 }
 ,
 "ScaleY":{
 "files": [
-[201, [207,295]],
-[162, [138]]
+[211, [207,295]],
+[172, [138]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformBounds`1":{
 "files": [
-[463, [55]]
+[480, [55]]
 ],
 "memberKind": "Method"
 }
@@ -51638,69 +53094,76 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[470, [176,179]],
-[471, [94,97]],
-[472, [118,121]],
-[543, [100,124,130,185,191]],
-[298, [107,112,141,142,148,149,156,162,203,209,218,224,248,249,250,259,260,262,263,275]],
-[544, [79,85,147,152,159]],
-[545, [103,110,154,161,175,178,182,189,190,191,231,237,240]],
-[546, [110,130,136,147,153,175,181,203,209,234,235,236,237,246,247,248,249,393,399]],
-[420, [102,126,132,158,164]],
-[473, [102,105]],
-[345, [385,386,407,408,421,435]],
-[538, [37,47]],
-[192, [38,48]],
-[193, [41,51]],
-[730, [44,52,60,68,76,84,93,110,115,120]],
-[341, [213,217,221]],
-[444, [71,102,108]],
-[445, [188,213,220]],
-[194, [976]],
-[154, [210]],
-[474, [94,97]],
-[600, [136,388,448]],
-[475, [94,97]],
-[477, [120,123]],
-[566, [434,446]],
-[564, [386,398]],
-[500, [487,499]],
-[461, [132,135]],
-[650, [49,55,61]],
-[110, [83]],
-[102, [88,103]],
-[103, [123]],
-[105, [76]],
-[478, [91,94]],
-[431, [134,137]],
-[155, [194]],
-[448, [70,105]],
-[166, [396,412,427]],
-[167, [414,430,445]],
-[435, [128,131]],
-[596, [132,160]],
-[480, [93,96]],
-[734, [42]],
-[481, [94,97]],
-[482, [93,96]],
+[487, [176,179]],
 [488, [94,97]],
-[489, [94,97]],
-[814, [31]],
-[726, [45,48,51,54,70,73,76,79]],
-[727, [63]],
-[728, [48,51,54,57]],
-[729, [39,42,45,48,64,67,70,73]],
-[490, [109]],
-[169, [60]],
-[171, [87,88,122,135,162,163,197,210]]
+[489, [118,121]],
+[560, [100,124,130,185,191]],
+[311, [107,112,141,142,148,149,156,162,203,209,218,224,248,249,250,259,260,262,263,275]],
+[561, [79,85,147,152,159]],
+[562, [103,110,154,161,175,178,182,189,190,191,231,237,240]],
+[563, [110,130,136,147,153,175,181,203,209,234,235,236,237,246,247,248,249,393,399]],
+[437, [102,126,132,158,164]],
+[490, [102,105]],
+[362, [385,386,407,408,421,435]],
+[555, [37,47]],
+[202, [38,48]],
+[203, [41,51]],
+[752, [44,52,60,68,76,84,93,110,115,120]],
+[358, [213,217,221]],
+[461, [71,102,108]],
+[462, [188,213,220]],
+[204, [952]],
+[164, [210]],
+[491, [94,97]],
+[622, [136,388,448]],
+[492, [94,97]],
+[494, [120,123]],
+[588, [434,446]],
+[585, [386,398]],
+[517, [487,499]],
+[478, [132,135]],
+[672, [49,55,61]],
+[119, [83]],
+[111, [88,103]],
+[112, [123]],
+[114, [76]],
+[495, [91,94]],
+[448, [134,137]],
+[165, [194]],
+[465, [70,105]],
+[176, [396,412,427]],
+[177, [414,430,445]],
+[452, [128,131]],
+[618, [132,160]],
+[497, [93,96]],
+[756, [42]],
+[498, [94,97]],
+[499, [93,96]],
+[505, [94,97]],
+[506, [94,97]],
+[836, [31]],
+[748, [45,48,51,54,70,73,76,79]],
+[749, [63]],
+[750, [48,51,54,57]],
+[751, [39,42,45,48,64,67,70,73]],
+[507, [109]],
+[179, [60]],
+[181, [87,88,122,135,162,163,197,210]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Color":{
 "files": [
-[467, [86]],
-[725, [35]]
+[484, [86]],
+[747, [35]]
+],
+"memberKind": "Property"
+}
+,
+"Opacity":{
+"files": [
+[940, [32,48]]
 ],
 "memberKind": "Property"
 }
@@ -51711,34 +53174,34 @@ var contents = {
 "members": {
 "Fill":{
 "files": [
-[538, [91]],
-[192, [272]],
-[845, [63]]
+[555, [91]],
+[202, [272]],
+[867, [63]]
 ],
 "memberKind": "Field"
 }
 ,
 "None":{
 "files": [
-[457, [566]],
-[845, [60]]
+[474, [566]],
+[867, [60]]
 ],
 "memberKind": "Field"
 }
 ,
 "Uniform":{
 "files": [
-[443, [30]],
-[845, [66]]
+[460, [30]],
+[867, [66]]
 ],
 "memberKind": "Field"
 }
 ,
 "UniformToFill":{
 "files": [
-[756, [74]],
-[757, [107]],
-[845, [69]]
+[778, [74]],
+[779, [107]],
+[867, [69]]
 ],
 "memberKind": "Field"
 }
@@ -51749,8 +53212,8 @@ var contents = {
 "members": {
 "Stretch":{
 "files": [
-[538, [91]],
-[192, [272]]
+[555, [91]],
+[202, [272]]
 ],
 "memberKind": "Property"
 }
@@ -51761,14 +53224,14 @@ var contents = {
 "members": {
 "TransformBounds`1":{
 "files": [
-[463, [55]]
+[480, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "TransformPoint`1":{
 "files": [
-[444, [87]]
+[461, [87]]
 ],
 "memberKind": "Method"
 }
@@ -51779,26 +53242,26 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[444, [55]],
-[445, [124]],
-[714, [179]]
+[461, [55]],
+[462, [124]],
+[736, [179]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Children":{
 "files": [
-[444, [59,60]],
-[445, [128,129]],
-[714, [180,181]]
+[461, [59,60]],
+[462, [128,129]],
+[736, [180,181]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[444, [84]],
-[445, [194]]
+[461, [84]],
+[462, [194]]
 ],
 "memberKind": "Property"
 }
@@ -51809,22 +53272,22 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[341, [228]],
-[714, [180]]
+[358, [228]],
+[736, [180]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "X":{
 "files": [
-[341, [229]]
+[358, [229]]
 ],
 "memberKind": "Property"
 }
 ,
 "Y":{
 "files": [
-[341, [230]]
+[358, [230]]
 ],
 "memberKind": "Property"
 }
@@ -51835,35 +53298,35 @@ var contents = {
 "members": {
 "FindElementsInHostCoordinates`2":{
 "files": [
-[450, [122]]
+[467, [122]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetChild`2":{
 "files": [
-[758, [71]],
-[759, [79]],
-[529, [414,417]],
-[342, [46,61]],
-[438, [104]]
+[780, [71]],
+[781, [79]],
+[546, [414,417]],
+[359, [46,61]],
+[455, [104]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetChildrenCount`1":{
 "files": [
-[758, [63]],
-[759, [71]],
-[529, [415]]
+[780, [63]],
+[781, [71]],
+[546, [415]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetParent`1":{
 "files": [
-[342, [88]],
-[720, [45,48]]
+[359, [88]],
+[742, [45,48]]
 ],
 "memberKind": "Method"
 }
@@ -51878,14 +53341,14 @@ var contents = {
 "members": {
 "NavigationMode":{
 "files": [
-[436, [194]]
+[453, [203]]
 ],
 "memberKind": "Property"
 }
 ,
 "SourcePageType":{
 "files": [
-[436, [196]]
+[453, [205]]
 ],
 "memberKind": "Property"
 }
@@ -51896,24 +53359,24 @@ var contents = {
 "members": {
 "Disabled":{
 "files": [
-[194, [83]],
-[196, [96]],
-[197, [76]],
-[198, [81]],
-[486, [63]],
-[487, [92]]
+[204, [83]],
+[206, [96]],
+[207, [76]],
+[208, [81]],
+[503, [63]],
+[504, [92]]
 ],
 "memberKind": "Field"
 }
 ,
 "Required":{
 "files": [
-[473, [42]],
-[855, [35]],
-[191, [82]],
-[195, [76]],
-[476, [83]],
-[449, [46]]
+[490, [42]],
+[877, [35]],
+[201, [82]],
+[205, [76]],
+[493, [83]],
+[466, [46]]
 ],
 "memberKind": "Field"
 }
@@ -51924,26 +53387,26 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[436, [223,225]]
+[453, [232,234]]
 ],
 "memberKind": "Property"
 }
 ,
 "NavigationMode":{
 "files": [
-[458, [334]],
-[611, [74]],
-[875, [56]],
-[893, [61]],
-[613, [59]],
-[870, [57]],
-[894, [55]],
-[895, [58]],
-[896, [55]],
-[880, [59]],
-[216, [56]],
+[475, [334]],
+[633, [74]],
 [897, [56]],
-[437, [323]]
+[915, [61]],
+[635, [59]],
+[892, [57]],
+[916, [55]],
+[917, [58]],
+[918, [55]],
+[902, [59]],
+[226, [56]],
+[919, [56]],
+[454, [323]]
 ],
 "memberKind": "Property"
 }
@@ -51951,52 +53414,52 @@ var contents = {
 "Parameter":{
 "files": [
 [31, [47,49]],
-[470, [58,60]],
-[746, [68]],
-[853, [56,58]],
-[737, [35]],
-[458, [349,359]],
-[154, [71]],
-[601, [27]],
-[600, [72,74]],
+[487, [58,60]],
+[768, [68]],
+[875, [56,58]],
+[759, [35]],
+[475, [349,359]],
+[164, [71]],
+[623, [27]],
+[622, [72,74]],
 [62, [95]],
-[235, [90]],
-[442, [112]],
-[841, [57]],
+[245, [90]],
+[459, [112]],
+[863, [57]],
 [30, [615,617,733,735]],
-[714, [46]],
-[461, [63,65]],
-[650, [38,40]],
-[715, [24,26]],
-[462, [23]],
-[752, [41]],
-[431, [59,64,66]],
-[155, [66]],
-[435, [62,67,69]],
-[486, [39]],
-[847, [39]],
-[487, [50]],
-[848, [49,52]],
-[876, [30,32]],
-[741, [70]],
-[437, [338,348]]
+[736, [46]],
+[478, [63,65]],
+[672, [38,40]],
+[737, [24,26]],
+[479, [23]],
+[774, [41]],
+[448, [59,64,66]],
+[165, [66]],
+[452, [62,67,69]],
+[503, [39]],
+[869, [39]],
+[504, [50]],
+[870, [49,52]],
+[898, [30,32]],
+[763, [70]],
+[454, [338,348]]
 ],
 "memberKind": "Property"
 }
 ,
 "Uri":{
 "files": [
-[611, [74]],
-[875, [56]],
-[893, [61]],
-[613, [59]],
-[870, [57]],
-[894, [55]],
-[895, [58]],
-[896, [55]],
-[880, [59]],
-[216, [56]],
-[897, [56]]
+[633, [74]],
+[897, [56]],
+[915, [61]],
+[635, [59]],
+[892, [57]],
+[916, [55]],
+[917, [58]],
+[918, [55]],
+[902, [59]],
+[226, [56]],
+[919, [56]]
 ],
 "memberKind": "Property"
 }
@@ -52030,7 +53493,7 @@ var contents = {
 [19, [87]],
 [20, [95]],
 [21, [77]],
-[204, [78]],
+[214, [78]],
 [22, [96]],
 [23, [92]],
 [24, [95]],
@@ -52048,32 +53511,32 @@ var contents = {
 "members": {
 "Back":{
 "files": [
-[436, [194]]
+[453, [203]]
 ],
 "memberKind": "Field"
 }
 ,
 "Forward":{
 "files": [
-[611, [74]],
-[875, [56]],
-[893, [61]],
-[613, [59]],
-[870, [57]],
-[894, [55]],
-[895, [58]],
-[896, [55]],
-[880, [59]],
-[216, [56]],
-[897, [56]]
+[633, [74]],
+[897, [56]],
+[915, [61]],
+[635, [59]],
+[892, [57]],
+[916, [55]],
+[917, [58]],
+[918, [55]],
+[902, [59]],
+[226, [56]],
+[919, [56]]
 ],
 "memberKind": "Field"
 }
 ,
 "New":{
 "files": [
-[458, [334]],
-[437, [323]]
+[475, [334]],
+[454, [323]]
 ],
 "memberKind": "Field"
 }
@@ -52084,10 +53547,10 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[712, [89,108]],
-[715, [29]],
-[462, [26]],
-[487, [62]]
+[734, [89,108]],
+[737, [29]],
+[479, [26]],
+[504, [62]]
 ],
 "memberKind": "Constructor"
 }
@@ -52102,8 +53565,8 @@ var contents = {
 "members": {
 "PageNumber":{
 "files": [
-[465, [232]],
-[457, [407]]
+[482, [232]],
+[474, [407]]
 ],
 "memberKind": "Property"
 }
@@ -52114,9 +53577,9 @@ var contents = {
 "members": {
 "PrintTaskOptions":{
 "files": [
-[465, [195]],
-[541, [180]],
-[457, [310,311]]
+[482, [195]],
+[558, [180]],
+[474, [310,311]]
 ],
 "memberKind": "Property"
 }
@@ -52127,8 +53590,8 @@ var contents = {
 "members": {
 "Intermediate":{
 "files": [
-[465, [219]],
-[457, [374,385]]
+[482, [219]],
+[474, [374,385]]
 ],
 "memberKind": "Field"
 }
@@ -52139,76 +53602,76 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[465, [85]]
+[482, [85]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "AddPage`1":{
 "files": [
-[465, [248]],
-[457, [477]]
+[482, [248]],
+[474, [477]]
 ],
 "memberKind": "Method"
 }
 ,
 "AddPages":{
 "files": [
-[465, [89,107]]
+[482, [89,107]]
 ],
 "memberKind": "Event"
 }
 ,
 "AddPagesComplete`0":{
 "files": [
-[465, [254]],
-[457, [481]]
+[482, [254]],
+[474, [481]]
 ],
 "memberKind": "Method"
 }
 ,
 "DocumentSource":{
 "files": [
-[465, [86]]
+[482, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "GetPreviewPage":{
 "files": [
-[465, [88,106]]
+[482, [88,106]]
 ],
 "memberKind": "Event"
 }
 ,
 "InvalidatePreview`0":{
 "files": [
-[541, [133]],
-[540, [325]],
-[457, [290]]
+[558, [133]],
+[557, [325]],
+[474, [290]]
 ],
 "memberKind": "Method"
 }
 ,
 "Paginate":{
 "files": [
-[465, [87,105]]
+[482, [87,105]]
 ],
 "memberKind": "Event"
 }
 ,
 "SetPreviewPage`2":{
 "files": [
-[465, [232]],
-[457, [446]]
+[482, [232]],
+[474, [446]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetPreviewPageCount`2":{
 "files": [
-[465, [219]],
-[457, [374,385]]
+[482, [219]],
+[474, [374,385]]
 ],
 "memberKind": "Method"
 }
@@ -52221,8 +53684,8 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[443, [43]],
-[455, [33]]
+[460, [43]],
+[472, [33]]
 ],
 "memberKind": "Constructor"
 }
@@ -52233,41 +53696,41 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[840, [13]],
-[828, [36]],
-[825, [138,146]],
-[715, [41]],
-[462, [53]],
-[443, [30]],
-[900, [39]],
-[733, [129,141,153]],
-[901, [25]],
-[734, [26]],
-[902, [39]],
-[735, [129,141,153]],
-[492, [25]],
-[849, [10,27]],
-[903, [18,25]],
-[487, [27]],
-[862, [47]],
-[741, [32]],
-[496, [25]],
-[822, [24,31,38,50,57]],
-[439, [26,33]]
+[862, [13]],
+[850, [36]],
+[847, [138,146]],
+[737, [41]],
+[479, [53]],
+[460, [30]],
+[924, [39]],
+[755, [129,141,153]],
+[925, [25]],
+[756, [26]],
+[926, [39]],
+[757, [129,141,153]],
+[509, [25]],
+[871, [10,27]],
+[927, [18,25]],
+[504, [27]],
+[884, [47]],
+[763, [32]],
+[513, [25]],
+[844, [24,31,38,50,57]],
+[456, [26,33]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[825, [66]],
-[453, [39]],
-[157, [36,54]],
-[443, [43]],
-[900, [51]],
-[902, [51]],
-[455, [33]],
-[456, [63,98,131]]
+[847, [66]],
+[470, [39]],
+[167, [36,54]],
+[460, [43]],
+[924, [51]],
+[926, [51]],
+[472, [33]],
+[473, [63,98,131]]
 ],
 "memberKind": "Constructor"
 }
@@ -52278,8 +53741,8 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[825, [24]],
-[463, [62,73,84]]
+[847, [24]],
+[480, [62,73,84]]
 ],
 "memberKind": "Constructor"
 }
@@ -52290,8 +53753,8 @@ var contents = {
 "members": {
 "OriginalSource":{
 "files": [
-[450, [112,143]],
-[455, [109]]
+[467, [112,143]],
+[472, [109]]
 ],
 "memberKind": "Property"
 }
@@ -52302,44 +53765,44 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[133, [35,36]],
-[134, [39,40,41]],
-[135, [36,37]],
-[131, [40,41,42,43]],
-[659, [30]],
+[143, [35,36]],
+[144, [39,40,41]],
+[145, [36,37]],
+[141, [40,41,42,43]],
+[681, [30]],
+[722, [31]],
+[702, [30]],
+[724, [32]],
+[687, [31,32]],
+[686, [32,33]],
+[683, [32,33]],
+[688, [37]],
+[646, [34,35,36]],
+[703, [31]],
+[709, [32]],
+[710, [31]],
+[711, [33]],
+[647, [32]],
+[680, [33]],
+[685, [29,30]],
+[666, [29,30]],
+[171, [37,38]],
+[667, [38,39]],
+[519, [37,38]],
+[712, [33]],
+[715, [31]],
 [700, [31]],
-[680, [30]],
-[702, [32]],
-[665, [31,32]],
-[664, [32,33]],
-[661, [32,33]],
-[666, [37]],
-[624, [34,35,36]],
-[681, [31]],
-[687, [32]],
-[688, [31]],
-[689, [33]],
-[625, [32]],
-[658, [33]],
-[663, [29,30]],
-[644, [29,30]],
-[161, [37,38]],
-[645, [38,39]],
-[502, [37,38]],
-[690, [33]],
-[693, [31]],
-[678, [31]],
-[675, [29]],
-[670, [29]],
-[671, [29]],
-[672, [29]],
-[673, [32]],
-[476, [80]],
+[697, [29]],
+[692, [29]],
+[693, [29]],
+[694, [29]],
+[695, [32]],
+[493, [80]],
 [62, [26,27,28]],
-[442, [33,34]],
-[566, [48,50,51,54,55,56,57,58,59]],
-[564, [45,47,48,51,52,53,54,55,56]],
-[500, [54,56,57,58,59,69,70,71,72,73,74]],
+[459, [33,34]],
+[588, [48,50,51,54,55,56,57,58,59]],
+[585, [45,47,48,51,52,53,54,55,56]],
+[517, [54,56,57,58,59,69,70,71,72,73,74]],
 [43, [38]]
 ],
 "memberKind": "Constructor"
@@ -52349,39 +53812,51 @@ var contents = {
 ,
 "Shapes":{
 "children": {
+"Ellipse":{
+"members": {
+"Visibility":{
+"files": [
+[204, [640]],
+[207, [548]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
 "Polyline":{
 "members": {
 ":ctor`0":{
 "files": [
-[448, [68]]
+[465, [68]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Points":{
 "files": [
-[448, [75,82,87,89]]
+[465, [75,82,87,89]]
 ],
 "memberKind": "Property"
 }
 ,
 "Stroke":{
 "files": [
-[448, [68]]
+[465, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeDashArray":{
 "files": [
-[448, [68]]
+[465, [68]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
 "files": [
-[448, [68]]
+[465, [68]]
 ],
 "memberKind": "Property"
 }
@@ -52392,121 +53867,140 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[538, [105]],
-[192, [286]],
-[193, [309]],
-[194, [994]],
-[448, [103]],
-[342, [118]]
+[555, [105]],
+[202, [286]],
+[203, [309]],
+[204, [970]],
+[465, [103]],
+[359, [118]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Fill":{
 "files": [
-[538, [109]],
-[192, [290]],
-[193, [312]],
-[342, [123]]
+[560, [124,130]],
+[311, [141,142,148,149,249,250]],
+[561, [79,85]],
+[562, [103,154,175,178,182,189,190,191]],
+[563, [130,136]],
+[437, [126,132]],
+[555, [109]],
+[202, [290]],
+[203, [312]],
+[359, [123]],
+[749, [63]],
+[750, [48,51,54,57]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[538, [108,275]],
-[192, [289,453]],
-[193, [311]],
-[194, [1018]],
-[448, [103]],
-[342, [120]]
+[555, [108,275]],
+[202, [289,453]],
+[203, [311]],
+[204, [994]],
+[476, [67]],
+[465, [103]],
+[359, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignment":{
 "files": [
-[342, [121]]
+[359, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[538, [112,277]],
-[192, [293,455]],
-[193, [315]],
-[342, [124]]
+[555, [112,277]],
+[202, [293,455]],
+[203, [315]],
+[359, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[342, [119]]
+[359, [119]]
 ],
 "memberKind": "Property"
 }
 ,
 "Opacity":{
 "files": [
-[342, [137,147]]
+[359, [137,147]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[342, [130]]
+[359, [130]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stroke":{
 "files": [
-[538, [110]],
-[192, [291]],
-[193, [313]],
-[194, [976]],
-[448, [103]]
+[555, [110]],
+[202, [291]],
+[203, [313]],
+[204, [952]],
+[465, [103]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeDashArray":{
 "files": [
-[448, [103]]
+[465, [103]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
 "files": [
-[538, [111]],
-[192, [292]],
-[193, [314]],
-[194, [973]],
-[448, [103]]
+[555, [111]],
+[202, [292]],
+[203, [314]],
+[204, [949]],
+[465, [103]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[538, [106,273]],
-[192, [287,451]]
+[555, [106,273]],
+[202, [287,451]]
+],
+"memberKind": "Property"
+}
+,
+"Visibility":{
+"files": [
+[204, [641]],
+[207, [549]],
+[151, [29]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[538, [107,274]],
-[192, [288,452]],
-[193, [310]],
-[194, [1017]],
-[448, [103]],
-[342, [122]]
+[555, [107,274]],
+[202, [288,452]],
+[203, [310]],
+[204, [993]],
+[476, [66]],
+[465, [103]],
+[359, [122]]
 ],
 "memberKind": "Property"
 }
@@ -52517,109 +54011,128 @@ var contents = {
 "members": {
 "Fill":{
 "files": [
-[538, [109]],
-[192, [290]],
-[193, [312]],
-[342, [123]]
+[560, [124,130]],
+[311, [141,142,148,149,249,250]],
+[561, [79,85]],
+[562, [103,154,175,178,182,189,190,191]],
+[563, [130,136]],
+[437, [126,132]],
+[555, [109]],
+[202, [290]],
+[203, [312]],
+[359, [123]],
+[749, [63]],
+[750, [48,51,54,57]]
 ],
 "memberKind": "Property"
 }
 ,
 "Height":{
 "files": [
-[538, [108,275]],
-[192, [289,453]],
-[193, [311]],
-[194, [1018]],
-[448, [103]],
-[342, [120]]
+[555, [108,275]],
+[202, [289,453]],
+[203, [311]],
+[204, [994]],
+[476, [67]],
+[465, [103]],
+[359, [120]]
 ],
 "memberKind": "Property"
 }
 ,
 "HorizontalAlignment":{
 "files": [
-[342, [121]]
+[359, [121]]
 ],
 "memberKind": "Property"
 }
 ,
 "Margin":{
 "files": [
-[538, [112,277]],
-[192, [293,455]],
-[193, [315]],
-[342, [124]]
+[555, [112,277]],
+[202, [293,455]],
+[203, [315]],
+[359, [124]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[342, [119]]
+[359, [119]]
 ],
 "memberKind": "Property"
 }
 ,
 "Opacity":{
 "files": [
-[342, [137,147]]
+[359, [137,147]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetValue`2":{
 "files": [
-[342, [130]]
+[359, [130]]
 ],
 "memberKind": "Method"
 }
 ,
 "Stroke":{
 "files": [
-[538, [110]],
-[192, [291]],
-[193, [313]],
-[194, [976]],
-[448, [68,103]]
+[555, [110]],
+[202, [291]],
+[203, [313]],
+[204, [952]],
+[465, [68,103]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeDashArray":{
 "files": [
-[448, [68,103]]
+[465, [68,103]]
 ],
 "memberKind": "Property"
 }
 ,
 "StrokeThickness":{
 "files": [
-[538, [111]],
-[192, [292]],
-[193, [314]],
-[194, [973]],
-[448, [68,103]]
+[555, [111]],
+[202, [292]],
+[203, [314]],
+[204, [949]],
+[465, [68,103]]
 ],
 "memberKind": "Property"
 }
 ,
 "Tag":{
 "files": [
-[538, [106,273]],
-[192, [287,451]]
+[555, [106,273]],
+[202, [287,451]]
+],
+"memberKind": "Property"
+}
+,
+"Visibility":{
+"files": [
+[204, [640,641]],
+[207, [548,549]],
+[151, [29]]
 ],
 "memberKind": "Property"
 }
 ,
 "Width":{
 "files": [
-[538, [107,274]],
-[192, [288,452]],
-[193, [310]],
-[194, [1017]],
-[448, [103]],
-[342, [122]]
+[555, [107,274]],
+[202, [288,452]],
+[203, [310]],
+[204, [993]],
+[476, [66]],
+[465, [103]],
+[359, [122]]
 ],
 "memberKind": "Property"
 }
@@ -52632,12 +54145,12 @@ var contents = {
 "members": {
 "NewSize":{
 "files": [
-[495, [58,59]],
-[455, [74]],
-[496, [46]],
-[497, [173,175,179]],
-[498, [181,185]],
-[499, [182,186]]
+[512, [58,59]],
+[472, [74]],
+[513, [46]],
+[514, [173,175,179]],
+[515, [181,185]],
+[516, [182,186]]
 ],
 "memberKind": "Property"
 }
@@ -52648,18 +54161,18 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[266, [393]],
-[284, [186]],
-[269, [397]],
-[285, [213]],
-[270, [412]],
-[286, [229]],
-[405, [97]],
+[279, [393]],
+[297, [186]],
+[282, [397]],
+[298, [213]],
+[283, [412]],
+[299, [229]],
+[422, [97]],
 [12, [27]],
-[272, [417]],
-[295, [200]],
-[202, [58]],
-[203, [68]]
+[285, [417]],
+[308, [200]],
+[212, [58]],
+[213, [68]]
 ],
 "memberKind": "Constructor"
 }
@@ -52670,19 +54183,19 @@ var contents = {
 "members": {
 "Wrap":{
 "files": [
-[430, [190,195]],
-[683, [81,90]],
-[668, [109,118]],
-[694, [79]]
+[447, [190,195]],
+[705, [81,90]],
+[690, [109,118]],
+[716, [79]]
 ],
 "memberKind": "Field"
 }
 ,
 "WrapWholeWords":{
 "files": [
-[574, [46]],
-[575, [46]],
-[419, [64]]
+[596, [46]],
+[597, [46]],
+[436, [64]]
 ],
 "memberKind": "Field"
 }
@@ -52693,30 +54206,30 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[121, [128,132]]
+[130, [128,132]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[726, [32]]
+[748, [32]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`4":{
 "files": [
-[538, [112,277]],
-[192, [293,455]],
-[193, [315]],
-[373, [113,114,121,122]],
-[374, [113,114,121,122]],
-[463, [93]],
-[375, [113,114,121,122]],
-[342, [124]],
-[862, [30,36]],
-[184, [94]]
+[555, [112,277]],
+[202, [293,455]],
+[203, [315]],
+[390, [113,114,121,122]],
+[391, [113,114,121,122]],
+[480, [93]],
+[392, [113,114,121,122]],
+[359, [124]],
+[884, [30,36]],
+[194, [94]]
 ],
 "memberKind": "Constructor"
 }
@@ -52726,10 +54239,10 @@ var contents = {
 [29, [153,160]],
 [33, [113,120]],
 [34, [111,118]],
-[683, [92]],
-[668, [120]],
-[121, [128,132]],
-[342, [124]]
+[705, [92]],
+[690, [120]],
+[130, [128,132]],
+[359, [124]]
 ],
 "memberKind": "Field"
 }
@@ -52739,7 +54252,7 @@ var contents = {
 [29, [154,161]],
 [33, [114,121]],
 [34, [112,119]],
-[121, [128,132]]
+[130, [128,132]]
 ],
 "memberKind": "Field"
 }
@@ -52750,386 +54263,397 @@ var contents = {
 "members": {
 "AddHandler`3":{
 "files": [
-[905, [27]]
+[929, [27]]
 ],
 "memberKind": "Method"
 }
 ,
 "Arrange`1":{
 "files": [
-[456, [438]]
+[473, [438]]
 ],
 "memberKind": "Method"
 }
 ,
 "CapturePointer`1":{
 "files": [
-[445, [150]]
+[462, [150]]
 ],
 "memberKind": "Method"
 }
 ,
 "ClearValue`1":{
 "files": [
-[836, [106]],
-[436, [302]],
-[720, [247,248]]
+[858, [106]],
+[453, [311]],
+[742, [247,248]]
 ],
 "memberKind": "Method"
 }
 ,
 "DesiredSize":{
 "files": [
-[453, [17,18]],
-[492, [51,60,74,99,163,164]],
-[456, [261,262,352,353,426]]
+[470, [17,18]],
+[509, [51,60,74,99,163,164]],
+[473, [261,262,352,353,426]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[746, [51,116]],
-[174, [65]],
-[429, [85]],
-[465, [167]],
-[542, [59]],
-[541, [109,131]],
-[540, [142,148,188,194,203,322]],
-[457, [198,290]],
-[742, [84,92,103,111,123,131]],
-[743, [84,92,103,111,123,131]],
-[352, [39]],
-[590, [49]],
-[589, [226]],
-[591, [283]],
-[744, [84,92,103,111,123,131]],
-[745, [84,92,103,111,123,131]]
+[768, [51,116]],
+[184, [65]],
+[446, [85]],
+[482, [167]],
+[559, [59]],
+[558, [109,131]],
+[557, [142,148,188,194,203,322]],
+[474, [198,290]],
+[764, [84,92,103,111,123,131]],
+[765, [84,92,103,111,123,131]],
+[369, [39]],
+[612, [49]],
+[611, [226]],
+[613, [283]],
+[766, [84,92,103,111,123,131]],
+[767, [84,92,103,111,123,131]]
 ],
 "memberKind": "Property"
 }
 ,
 "DoubleTapped":{
 "files": [
-[730, [34]]
+[752, [34]]
 ],
 "memberKind": "Event"
 }
 ,
 "Holding":{
 "files": [
-[730, [36]]
+[752, [36]]
 ],
 "memberKind": "Event"
 }
 ,
 "InvalidateArrange`0":{
 "files": [
-[540, [270]]
+[557, [270]]
 ],
 "memberKind": "Method"
 }
 ,
 "InvalidateMeasure`0":{
 "files": [
-[465, [147,304]],
-[540, [271]],
-[457, [438]]
+[482, [147,304]],
+[557, [271]],
+[474, [438]]
 ],
 "memberKind": "Method"
 }
 ,
 "ManipulationCompleted":{
 "files": [
-[444, [40]]
+[461, [40]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationDelta":{
 "files": [
-[444, [39]]
+[461, [39]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationInertiaStarting":{
 "files": [
-[444, [41]]
+[461, [41]]
 ],
 "memberKind": "Event"
 }
 ,
 "ManipulationMode":{
 "files": [
-[444, [45,114,121,125,136]]
+[461, [45,114,121,125,136]]
 ],
 "memberKind": "Property"
 }
 ,
 "ManipulationStarted":{
 "files": [
-[444, [38]]
+[461, [38]]
 ],
 "memberKind": "Event"
 }
 ,
 "Measure`1":{
 "files": [
-[453, [15]],
-[492, [162]],
-[456, [258]]
+[470, [15]],
+[509, [162]],
+[473, [258]]
 ],
 "memberKind": "Method"
 }
 ,
 "Opacity":{
 "files": [
-[342, [137,147]]
+[359, [137,147]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerCanceled":{
 "files": [
-[445, [113]]
+[462, [113]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerCaptureLost":{
 "files": [
-[342, [51,66]]
+[359, [51,66]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerEntered":{
 "files": [
-[730, [29]]
+[752, [29]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerExited":{
 "files": [
-[730, [30]],
-[342, [52,67]]
+[752, [30]],
+[359, [52,67]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerMoved":{
 "files": [
-[445, [111]]
+[462, [111]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerPressed":{
 "files": [
-[730, [25]],
-[445, [110]],
-[342, [49,64]]
+[752, [25]],
+[462, [110]],
+[359, [49,64]]
 ],
 "memberKind": "Event"
 }
 ,
 "PointerPressedEvent":{
 "files": [
-[905, [27]]
+[929, [27]]
 ],
 "memberKind": "Property"
 }
 ,
 "PointerReleased":{
 "files": [
-[730, [26]],
-[445, [112]],
-[342, [50,65]]
+[752, [26]],
+[462, [112]],
+[359, [50,65]]
 ],
 "memberKind": "Event"
 }
 ,
 "RegisterPropertyChangedCallback`2":{
 "files": [
-[720, [55]]
+[453, [70]],
+[742, [55]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReleasePointerCapture`1":{
 "files": [
-[445, [172,180]]
+[462, [172,180]]
 ],
 "memberKind": "Method"
 }
 ,
 "RenderTransform":{
 "files": [
-[444, [63,152]],
-[445, [131,262]],
-[201, [219,320]],
-[162, [125,200,343]]
+[461, [63,152]],
+[462, [131,262]],
+[211, [219,320]],
+[172, [125,200,343]]
 ],
 "memberKind": "Property"
 }
 ,
 "RightTapped":{
 "files": [
-[730, [37]]
+[752, [37]]
 ],
 "memberKind": "Event"
 }
 ,
 "SetValue`2":{
 "files": [
-[541, [156,158,159]],
-[540, [253]],
-[457, [533,534,544,545]],
+[558, [156,158,159]],
+[557, [253]],
+[474, [533,534,544,545]],
 [43, [77,78]],
-[342, [130]],
-[436, [298]],
-[720, [253,254]]
+[359, [130]],
+[453, [307]],
+[742, [253,254]]
 ],
 "memberKind": "Method"
 }
 ,
 "StartDragAsync`1":{
 "files": [
-[152, [121]]
+[162, [121]]
 ],
 "memberKind": "Method"
 }
 ,
 "Tapped":{
 "files": [
-[730, [33]],
-[825, [39]]
+[752, [33]],
+[847, [39]]
 ],
 "memberKind": "Event"
 }
 ,
 "Transform3D":{
 "files": [
-[451, [58]]
+[468, [58]]
 ],
 "memberKind": "Property"
 }
 ,
 "TransformToVisual`1":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93]],
-[116, [109]],
-[440, [36]],
-[159, [232]],
-[430, [175]],
-[191, [410]],
-[107, [61]],
-[441, [35]],
-[139, [59]],
-[323, [93]],
-[442, [104]],
-[432, [67]],
-[449, [215]],
-[451, [62]]
+[339, [91]],
+[295, [89]],
+[124, [93]],
+[125, [109]],
+[457, [36]],
+[169, [232]],
+[447, [175]],
+[201, [410]],
+[116, [61]],
+[458, [35]],
+[149, [59]],
+[338, [93]],
+[459, [104]],
+[449, [67]],
+[466, [215]],
+[453, [280]],
+[468, [62]]
 ],
 "memberKind": "Method"
 }
 ,
 "UpdateLayout`0":{
 "files": [
-[465, [148,305]],
-[540, [272]],
-[457, [439]]
+[482, [148,305]],
+[557, [272]],
+[474, [439]]
 ],
 "memberKind": "Method"
 }
 ,
 "Visibility":{
 "files": [
-[470, [96,101,140,145,185,196]],
-[471, [74,103,114]],
-[472, [129,133,145]],
+[487, [96,101,140,145,185,196]],
+[488, [74,103,114]],
+[489, [129,133,145]],
 [32, [40,43]],
 [41, [38,41]],
-[473, [111,114,119]],
-[134, [81,89]],
-[373, [158,171,198,199,200,210,211,212]],
-[638, [291]],
-[111, [34]],
-[108, [35]],
-[605, [35,36,40,41]],
-[339, [51]],
-[385, [50]],
-[387, [97]],
-[386, [49]],
-[407, [62]],
-[154, [304]],
+[490, [111,114,119]],
+[276, [145,279]],
+[204, [640,641]],
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[207, [548,549]],
+[144, [81,89]],
+[109, [56,60]],
+[390, [158,171,198,199,200,210,211,212]],
+[660, [291]],
+[120, [34]],
+[117, [35]],
+[627, [35,36,40,41]],
+[356, [51]],
+[402, [50]],
+[404, [97]],
+[403, [49]],
+[424, [62]],
+[164, [304]],
 [29, [324,328]],
 [33, [284,288]],
 [34, [282,286]],
-[474, [74,103,115]],
-[334, [95,102,107,156,184]],
-[335, [77,106,217,218,219]],
-[209, [271,310]],
-[374, [158,171,198,199,200,210,211,212]],
-[523, [91]],
-[524, [101]],
-[686, [103]],
-[475, [74,103,114]],
-[477, [100,129,140]],
-[312, [239,241,380,381]],
-[714, [134]],
-[461, [98,153,164]],
-[394, [241,245,252]],
-[650, [82,86,93]],
-[828, [23,25,31]],
-[825, [127,128,133,134]],
-[829, [32,34,40]],
-[258, [110,111,116,117]],
-[201, [268,348]],
-[375, [158,171,198,199,200,210,211,212]],
-[692, [69,73,79,85]],
-[465, [206,311]],
-[541, [155,165,166]],
-[540, [249,261,266]],
-[478, [71,100,111]],
-[431, [145,149,161]],
-[313, [95]],
-[141, [28]],
-[155, [288]],
-[426, [104,105,249,250,264,265,283,284,343,344]],
-[529, [289,309,342,343,356,400]],
-[177, [81,243,250,265,291,346,347,357,358,409,410]],
-[178, [77,266,274,284,316,334,339,356,375,402,407,424]],
-[179, [68,200,226,227,237,242,259,277,283,294,299,316]],
-[180, [68,172,198,199,209,214,231,249,255,266,271,288]],
-[435, [139,143,155]],
-[121, [85,91,150,156]],
-[122, [29,52]],
-[315, [77,78,106,107]],
-[755, [45,46,57,58]],
-[412, [49,50,68,69]],
-[310, [131,158]],
-[821, [86,113]],
-[480, [73,118]],
-[695, [71]],
-[492, [49]],
-[481, [74,103,114]],
-[482, [73,102,113]],
-[484, [46]],
-[152, [81,82,134,135]],
-[847, [149,166,190]],
-[436, [75]],
-[488, [74,103,114]],
-[489, [74,103,114]],
-[822, [45,70]],
-[507, [128]],
-[879, [35,42]],
-[439, [71]]
+[491, [74,103,115]],
+[349, [95,102,107,156,184]],
+[350, [77,106,217,218,219]],
+[219, [271,310]],
+[391, [158,171,198,199,200,210,211,212]],
+[314, [89,97]],
+[315, [120,128]],
+[540, [91]],
+[541, [101]],
+[708, [103]],
+[492, [74,103,114]],
+[494, [100,129,140]],
+[327, [239,241,380,381]],
+[736, [134]],
+[478, [98,153,164]],
+[411, [241,245,252]],
+[672, [82,86,93]],
+[850, [23,25,31]],
+[847, [127,128,133,134]],
+[851, [32,34,40]],
+[269, [110,111,116,117]],
+[211, [268,348]],
+[392, [158,171,198,199,200,210,211,212]],
+[714, [69,73,79,85]],
+[482, [206,311]],
+[558, [155,165,166]],
+[557, [249,261,266]],
+[495, [71,100,111]],
+[448, [145,149,161]],
+[328, [95]],
+[151, [28,29]],
+[165, [288]],
+[443, [104,105,249,250,264,265,283,284,343,344]],
+[546, [289,309,342,343,356,400]],
+[187, [81,243,250,265,291,346,347,357,358,409,410]],
+[188, [77,266,274,284,316,334,339,356,375,402,407,424]],
+[189, [68,200,226,227,237,242,259,277,283,294,299,316]],
+[190, [68,172,198,199,209,214,231,249,255,266,271,288]],
+[452, [139,143,155]],
+[130, [85,91,150,156]],
+[131, [29,52]],
+[330, [77,78,106,107]],
+[777, [45,46,57,58]],
+[429, [49,50,68,69]],
+[325, [131,158]],
+[843, [86,113]],
+[497, [73,118]],
+[717, [71]],
+[509, [49]],
+[498, [74,103,114]],
+[499, [73,102,113]],
+[501, [46]],
+[162, [81,82,134,135]],
+[869, [149,166,190]],
+[453, [84]],
+[505, [74,103,114]],
+[506, [74,103,114]],
+[844, [45,70]],
+[524, [128]],
+[901, [35,42]],
+[456, [71]]
 ],
 "memberKind": "Property"
 }
@@ -53160,15 +54684,15 @@ var contents = {
 "members": {
 "Center":{
 "files": [
-[457, [558]]
+[474, [558]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stretch":{
 "files": [
-[756, [73]],
-[757, [106]]
+[778, [73]],
+[779, [106]]
 ],
 "memberKind": "Field"
 }
@@ -53179,217 +54703,246 @@ var contents = {
 "members": {
 "Collapsed":{
 "files": [
-[470, [96,140,185,196]],
-[252, [34,35,245,262,343]],
-[260, [42,44,45,46,47,48,49,50,131,140,203,230,330,331,344,715,943,956,964,965,966,967]],
-[259, [32,219]],
-[261, [34,235]],
-[471, [74,103,114]],
+[487, [96,140,185,196]],
+[262, [34,35,245,262,343]],
+[271, [42,44,45,46,47,48,49,50,131,140,203,230,330,331,344,715,943,956,964,965,966,967]],
+[270, [32,219]],
+[272, [34,235]],
+[488, [74,103,114]],
 [45, [264,276,296]],
-[472, [133,145]],
-[159, [58,59,60]],
-[430, [39,40,41]],
+[489, [133,145]],
+[169, [58,59,60]],
+[447, [39,40,41]],
 [32, [40,43]],
 [41, [38,41]],
-[473, [111,119,120]],
-[283, [183,190,197]],
-[194, [657,658,661,664,665]],
-[197, [571,572]],
-[198, [720,721,727,731]],
-[134, [89]],
-[373, [158,198,210,212]],
-[638, [228]],
-[922, [45]],
-[605, [40,41]],
-[339, [43,51]],
-[385, [50]],
-[387, [97]],
-[386, [49]],
-[407, [54,62]],
-[154, [348,412]],
+[490, [111,119,120]],
+[296, [183,190,197]],
+[276, [93,278,279]],
+[204, [633,634,637,640,641]],
+[570, [65]],
+[568, [83]],
+[569, [87]],
+[207, [548,549]],
+[208, [704,705,711,715]],
+[144, [89]],
+[109, [56]],
+[390, [158,198,210,212]],
+[660, [228]],
+[947, [45]],
+[627, [40,41]],
+[356, [43,51]],
+[402, [50]],
+[404, [97]],
+[403, [49]],
+[424, [54,62]],
+[164, [348,412]],
 [29, [110,328]],
 [33, [70,288]],
 [34, [68,286]],
-[474, [74,103,115]],
-[721, [91]],
-[334, [95,107,156]],
-[335, [77,216]],
-[209, [310]],
-[374, [158,198,210,212]],
-[686, [102,103]],
-[475, [74,103,114]],
-[477, [100,129,140]],
-[312, [239,241,454,465,517,563,616,646]],
-[461, [98,153,164]],
-[394, [245]],
-[650, [86]],
-[395, [243,248]],
-[588, [77,78,91,109]],
-[828, [25]],
-[825, [128,133]],
-[453, [57]],
-[829, [34]],
-[258, [110,117]],
+[491, [74,103,115]],
+[743, [91]],
+[349, [95,107,156]],
+[350, [77,216]],
+[219, [310]],
+[391, [158,198,210,212]],
+[351, [65]],
+[352, [104]],
+[314, [89]],
+[315, [120]],
+[708, [102,103]],
+[492, [74,103,114]],
+[494, [100,129,140]],
+[327, [239,241,454,465,517,563,616,646]],
+[478, [98,153,164]],
+[411, [245]],
+[672, [86]],
+[412, [266,271]],
+[610, [77,78,91,109]],
+[850, [25]],
+[847, [128,133]],
+[470, [57]],
+[851, [34]],
+[269, [110,117]],
 [66, [117]],
 [67, [115,132,175]],
-[201, [95,96,267,269,348,351,608]],
-[375, [158,198,210,212]],
-[275, [48]],
-[692, [73,79,85]],
-[465, [278]],
-[541, [155,165,166,170]],
-[540, [244,249,261,266,296]],
-[478, [71,100,111]],
-[119, [70,75]],
-[120, [136]],
-[431, [149,161]],
-[313, [95]],
-[141, [29]],
-[155, [332,391]],
-[426, [104,249,264,284,344]],
-[529, [289,342,343,400]],
-[177, [250,291,357,409,410]],
-[178, [274,316,375]],
-[573, [258,296,362]],
-[179, [226,227,277,283]],
-[180, [198,199,249,255]],
-[435, [143,155]],
-[221, [117,140,149,158]],
-[222, [117,140,149,158]],
-[223, [89,98,107]],
-[121, [85,156]],
-[122, [29,52]],
-[315, [77,107]],
-[755, [45,58]],
-[412, [49,69]],
-[310, [131,163]],
-[923, [20]],
-[480, [73,102,107,118]],
-[695, [65,71,90]],
-[924, [20]],
-[481, [74,103,114]],
-[482, [73,102,113]],
-[484, [46,49]],
-[152, [81,135]],
-[847, [166,190]],
-[740, [72,74,80,82]],
-[436, [75]],
-[488, [74,103,114]],
-[489, [74,103,114]],
-[925, [24]],
-[822, [70]],
-[879, [42]],
-[439, [71]]
+[211, [95,96,267,269,348,351,608]],
+[392, [158,198,210,212]],
+[288, [48]],
+[714, [73,79,85]],
+[482, [278]],
+[558, [155,165,166,170]],
+[557, [244,249,261,266,296]],
+[495, [71,100,111]],
+[128, [70,75]],
+[129, [136]],
+[448, [149,161]],
+[328, [95]],
+[151, [29]],
+[165, [332,391]],
+[443, [104,249,264,284,344]],
+[546, [289,342,343,400]],
+[187, [250,291,357,409,410]],
+[188, [274,316,375]],
+[595, [258,296,362]],
+[189, [226,227,277,283]],
+[190, [198,199,249,255]],
+[452, [143,155]],
+[231, [117,140,149,158]],
+[232, [117,140,149,158]],
+[233, [89,98,107]],
+[130, [85,156]],
+[131, [29,52]],
+[330, [77,107]],
+[777, [45,58]],
+[429, [49,69]],
+[325, [131,163]],
+[948, [20]],
+[497, [73,102,107,118]],
+[717, [65,71,90]],
+[949, [20]],
+[498, [74,103,114]],
+[499, [73,102,113]],
+[501, [46,49]],
+[162, [81,135]],
+[869, [166,190]],
+[762, [72,74,80,82]],
+[453, [84]],
+[505, [74,103,114]],
+[506, [74,103,114]],
+[950, [24]],
+[844, [70]],
+[901, [42]],
+[456, [71]]
 ],
 "memberKind": "Field"
 }
 ,
 "Visible":{
 "files": [
-[470, [101,145,185]],
-[252, [270,332]],
-[260, [43,135,200,227,332,338,342,569,600,726,832,942,957,963]],
-[259, [225]],
-[261, [240]],
-[471, [103]],
+[487, [101,145,185]],
+[262, [270,332]],
+[271, [43,135,200,227,332,338,342,569,600,726,832,942,957,963]],
+[270, [225]],
+[272, [240]],
+[488, [103]],
 [45, [263,275,286]],
-[472, [129]],
-[473, [111,114,115]],
-[283, [177]],
-[194, [657,658,661,664,665]],
-[197, [571,572]],
-[198, [720,721,726,732]],
-[134, [81]],
-[373, [171,199,200,211]],
-[638, [213,227]],
-[111, [34]],
-[108, [35]],
-[922, [42]],
-[605, [35,36]],
-[339, [37]],
-[407, [46]],
-[154, [211,225,304,320,329,343,407]],
+[489, [129]],
+[490, [111,114,115]],
+[296, [177]],
+[276, [73,145]],
+[204, [633,634,637,640,641]],
+[570, [66]],
+[568, [84]],
+[569, [88]],
+[207, [548,549]],
+[208, [704,705,710,716]],
+[144, [81]],
+[109, [60]],
+[390, [171,199,200,211]],
+[660, [213,227]],
+[120, [34]],
+[117, [35]],
+[947, [42]],
+[627, [35,36]],
+[356, [37]],
+[424, [46]],
+[164, [211,225,304,320,329,343,407]],
 [29, [324]],
 [33, [284]],
 [34, [282]],
-[474, [103]],
-[721, [91]],
-[334, [102,184]],
-[335, [106,216]],
-[209, [271]],
-[374, [171,199,200,211]],
-[523, [91]],
-[524, [101]],
-[686, [102,103]],
-[475, [103]],
-[477, [129]],
-[312, [380,381,703]],
-[714, [134]],
-[461, [153]],
-[394, [241,252]],
-[650, [82,93]],
-[395, [253]],
-[588, [84,92,110]],
-[828, [23,31]],
-[825, [127,134,146]],
-[453, [57]],
-[829, [32,40]],
-[258, [111,116]],
+[491, [103]],
+[743, [91]],
+[349, [102,184]],
+[350, [106,216]],
+[219, [271]],
+[391, [171,199,200,211]],
+[351, [71]],
+[352, [110]],
+[314, [97]],
+[315, [128]],
+[540, [91]],
+[541, [101]],
+[708, [102,103]],
+[492, [103]],
+[494, [129]],
+[327, [380,381,703]],
+[736, [134]],
+[478, [153]],
+[411, [241,252]],
+[672, [82,93]],
+[412, [276]],
+[610, [84,92,110]],
+[850, [23,31]],
+[847, [127,134,146]],
+[470, [57]],
+[851, [32,40]],
+[269, [111,116]],
 [67, [56,116,133,176]],
-[201, [95,96,268,270,347,350,609]],
-[375, [171,199,200,211]],
-[275, [56]],
-[692, [69]],
-[465, [141,206,311,314]],
-[541, [155,165,166,170]],
-[540, [244,249,261,266]],
-[478, [100]],
-[119, [69,76]],
-[120, [51]],
-[431, [145]],
-[145, [108]],
-[146, [78]],
-[141, [28]],
-[147, [84]],
-[155, [195,209,288,304,313,327,396]],
-[426, [105,250,265,283,343]],
-[529, [309,356]],
-[177, [81,243,265,346,347,358]],
-[166, [257,266]],
-[178, [77,266,284,334,339,356,402,407,424]],
-[573, [243,303,369]],
-[179, [68,200,237,242,259,294,299,316]],
-[180, [68,172,209,214,231,266,271,288]],
-[167, [87,238,246,260,306,323,362,379]],
-[435, [139]],
-[221, [113,167]],
-[222, [113,167]],
-[223, [116]],
-[121, [85,91,150]],
-[122, [29,52]],
-[315, [78,106]],
-[755, [46,57]],
-[412, [50,68]],
-[310, [158,167]],
-[821, [86,113]],
-[923, [20]],
-[480, [102]],
-[695, [71,88]],
-[924, [20]],
-[492, [49]],
-[481, [103]],
-[482, [102]],
-[152, [82,134]],
-[847, [149]],
-[740, [73,75,79,81]],
-[488, [103]],
-[489, [103]],
-[925, [24,29]],
-[822, [45]],
-[507, [128]],
-[879, [35]]
+[211, [95,96,268,270,347,350,609]],
+[392, [171,199,200,211]],
+[288, [56]],
+[714, [69]],
+[482, [141,206,311,314]],
+[558, [155,165,166,170]],
+[557, [244,249,261,266]],
+[495, [100]],
+[128, [69,76]],
+[129, [51]],
+[448, [145]],
+[155, [108]],
+[156, [78]],
+[151, [28]],
+[157, [84]],
+[165, [195,209,288,304,313,327,396]],
+[443, [105,250,265,283,343]],
+[546, [309,356]],
+[187, [81,243,265,346,347,358]],
+[176, [257,266]],
+[188, [77,266,284,334,339,356,402,407,424]],
+[595, [243,303,369]],
+[189, [68,200,237,242,259,294,299,316]],
+[190, [68,172,209,214,231,266,271,288]],
+[177, [87,238,246,260,306,323,362,379]],
+[452, [139]],
+[231, [113,167]],
+[232, [113,167]],
+[233, [116]],
+[130, [85,91,150]],
+[131, [29,52]],
+[330, [78,106]],
+[777, [46,57]],
+[429, [50,68]],
+[325, [158,167]],
+[843, [86,113]],
+[948, [20]],
+[497, [102]],
+[717, [71,88]],
+[949, [20]],
+[509, [49]],
+[498, [103]],
+[499, [102]],
+[162, [82,134]],
+[869, [149]],
+[762, [73,75,79,81]],
+[505, [103]],
+[506, [103]],
+[950, [24,29]],
+[844, [45]],
+[524, [128]],
+[901, [35]]
 ],
 "memberKind": "Field"
+}
+}
+}
+,
+"VisualState":{
+"members": {
+"Name":{
+"files": [
+[869, [56,62,80,104,111,198,205,209]]
+],
+"memberKind": "Property"
 }
 }
 }
@@ -53398,15 +54951,27 @@ var contents = {
 "members": {
 "NewState":{
 "files": [
-[847, [73]],
-[848, [66]]
+[869, [73]],
+[870, [66]]
 ],
 "memberKind": "Property"
 }
 ,
 "OldState":{
 "files": [
-[848, [66]]
+[870, [66]]
+],
+"memberKind": "Property"
+}
+}
+}
+,
+"VisualStateGroup":{
+"members": {
+"CurrentState":{
+"files": [
+[869, [54,58,93,102,108,120,203]],
+[870, [57,91]]
 ],
 "memberKind": "Property"
 }
@@ -53417,15 +54982,15 @@ var contents = {
 "members": {
 "GoToState`3":{
 "files": [
-[476, [101]],
-[153, [74,106,116]],
-[847, [56,62,80,104,111,198,205,209]],
-[454, [40,68]],
-[741, [49,62]],
-[455, [51,81,92]],
-[499, [184,188,192]],
-[438, [110]],
-[190, [121,166,172,244]]
+[493, [101]],
+[163, [74,106,116]],
+[869, [56,62,80,104,111,198,205,209]],
+[471, [40,68]],
+[763, [49,62]],
+[472, [51,81,92]],
+[516, [184,188,192]],
+[455, [110]],
+[200, [121,166,172,244]]
 ],
 "memberKind": "Method"
 }
@@ -53436,10 +55001,10 @@ var contents = {
 "members": {
 "Activate`0":{
 "files": [
-[115, [137]],
-[116, [245]],
+[124, [137]],
+[125, [245]],
 [1, [55,77,92,101,108,119,136]],
-[853, [46]],
+[875, [46]],
 [9, [83]],
 [2, [83,129,156]],
 [10, [89]],
@@ -53457,14 +55022,14 @@ var contents = {
 [0, [134,187]],
 [40, [65]],
 [4, [58,84,96]],
-[117, [87]],
+[126, [87]],
 [13, [101]],
 [14, [94]],
 [15, [84]],
 [16, [86]],
-[118, [74]],
-[119, [107,155]],
-[120, [102]],
+[127, [74]],
+[128, [107,155]],
+[129, [102]],
 [17, [80]],
 [5, [43]],
 [42, [45]],
@@ -53473,7 +55038,7 @@ var contents = {
 [19, [77]],
 [20, [85]],
 [21, [67]],
-[204, [68]],
+[214, [68]],
 [22, [86]],
 [23, [82]],
 [24, [85]],
@@ -53487,73 +55052,73 @@ var contents = {
 ,
 "Activated":{
 "files": [
-[132, [44,49]]
+[142, [44,49]]
 ],
 "memberKind": "Event"
 }
 ,
 "Bounds":{
 "files": [
-[470, [93,137]],
-[471, [45,71]],
-[472, [70,96]],
-[473, [49,80]],
-[373, [106]],
-[458, [95,96]],
-[459, [57]],
-[474, [45,71]],
-[374, [106]],
-[475, [45,71]],
-[476, [100]],
-[477, [71,97]],
-[461, [54,95,103]],
-[375, [106]],
-[464, [38]],
-[478, [42,68]],
-[466, [81]],
-[467, [60,61,62,63]],
-[468, [104,105,106,107]],
-[479, [45,68]],
-[480, [44,70]],
-[481, [45,71]],
-[482, [44,70]],
-[483, [45,68]],
-[485, [45,68]],
-[486, [76]],
-[487, [106]],
+[487, [93,137]],
 [488, [45,71]],
-[489, [45,71]],
-[437, [82,83]],
-[490, [55]],
-[184, [146]]
+[489, [70,96]],
+[490, [49,80]],
+[390, [106]],
+[475, [95,96]],
+[476, [57]],
+[491, [45,71]],
+[391, [106]],
+[492, [45,71]],
+[493, [100]],
+[494, [71,97]],
+[478, [54,95,103]],
+[392, [106]],
+[481, [38]],
+[495, [42,68]],
+[483, [81]],
+[484, [60,61,62,63]],
+[485, [104,105,106,107]],
+[496, [45,68]],
+[497, [44,70]],
+[498, [45,71]],
+[499, [44,70]],
+[500, [45,68]],
+[502, [45,68]],
+[503, [76]],
+[504, [106]],
+[505, [45,71]],
+[506, [45,71]],
+[454, [82,83]],
+[507, [55]],
+[194, [146]]
 ],
 "memberKind": "Property"
 }
 ,
 "Close`0":{
 "files": [
-[746, [90,131]],
-[714, [127]],
-[752, [63]]
+[768, [90,131]],
+[736, [127]],
+[774, [63]]
 ],
 "memberKind": "Method"
 }
 ,
 "Content":{
 "files": [
-[324, [91]],
-[282, [89]],
-[115, [93,135]],
-[116, [109,244]],
+[339, [91]],
+[295, [89]],
+[124, [93,135]],
+[125, [109,244]],
 [1, [57,76,91,106,107,117,118,134,135]],
-[470, [70,71,152,154]],
-[853, [41,45]],
+[487, [70,71,152,154]],
+[875, [41,45]],
 [9, [53,72]],
 [2, [53,72,88,102]],
 [10, [54,73,102]],
-[855, [45]],
-[737, [41]],
-[446, [77]],
+[877, [45]],
+[759, [41]],
+[463, [77]],
 [35, [49,63]],
 [36, [49,63]],
 [37, [49,63]],
@@ -53568,17 +55133,17 @@ var contents = {
 [0, [56,123,168,172,176]],
 [40, [85,101]],
 [4, [82,92]],
-[117, [85]],
-[750, [141]],
+[126, [85]],
+[772, [141]],
 [13, [64,83]],
-[650, [74]],
+[672, [74]],
 [14, [57,74]],
-[825, [44]],
+[847, [44]],
 [15, [19,56,73]],
 [16, [56,75]],
-[118, [70]],
-[119, [103,154]],
-[120, [98]],
+[127, [70]],
+[128, [103,154]],
+[129, [98]],
 [17, [43,73]],
 [5, [28,33]],
 [8, [61]],
@@ -53587,8 +55152,8 @@ var contents = {
 [19, [49,66]],
 [20, [57,74]],
 [21, [39,56]],
-[857, [14,18,22,26,30,34]],
-[204, [45,64]],
+[879, [14,18,22,26,30,34]],
+[214, [45,64]],
 [22, [55,76]],
 [23, [54,71]],
 [24, [57,74]],
@@ -53596,249 +55161,249 @@ var contents = {
 [26, [57,74]],
 [27, [44,64]],
 [28, [71,116]],
-[818, [36]],
-[815, [54]],
-[819, [36]],
-[820, [36]]
+[840, [36]],
+[837, [54]],
+[841, [36]],
+[842, [36]]
 ],
 "memberKind": "Property"
 }
 ,
 "CoreWindow":{
 "files": [
-[563, [32]],
-[458, [99,101,113,115,248]],
-[713, [90]],
-[208, [139]],
-[77, [42]],
-[437, [92,94,110,112,238]]
+[584, [32]],
+[475, [99,101,113,115,248]],
+[735, [90]],
+[218, [139]],
+[79, [42]],
+[454, [92,94,110,112,238]]
 ],
 "memberKind": "Property"
 }
 ,
 "Current":{
 "files": [
-[354, [73,136,155]],
-[355, [68,123,141]],
-[353, [80,145,164]],
-[356, [87,133,215]],
-[357, [79,144,163]],
-[324, [91]],
-[282, [89]],
-[115, [93,119,135,137]],
-[116, [109,228,244,245]],
+[371, [73,136,155]],
+[372, [68,123,141]],
+[370, [80,145,164]],
+[373, [87,133,215]],
+[374, [79,144,163]],
+[339, [91]],
+[295, [89]],
+[124, [93,119,135,137]],
+[125, [109,228,244,245]],
 [1, [55,57,76,77,91,92,101,106,107,108,117,118,119,134,135,136]],
-[470, [70,71,93,137,152,154]],
-[746, [90,131]],
-[853, [41,45,46]],
-[359, [73,134,153]],
+[487, [70,71,93,137,152,154]],
+[768, [90,131]],
+[875, [41,45,46]],
+[376, [73,134,153]],
 [9, [53,72,83]],
-[471, [45,71]],
+[488, [45,71]],
 [2, [53,72,83,88,102,129,156]],
-[472, [70,96]],
-[563, [32]],
+[489, [70,96]],
+[584, [32]],
 [10, [54,73,89,102]],
-[473, [49,80]],
-[855, [45]],
-[737, [41]],
+[490, [49,80]],
+[877, [45]],
+[759, [41]],
 [61, [93,141,178]],
-[361, [74,135,154]],
-[446, [77]],
+[378, [74,135,154]],
+[463, [77]],
 [35, [49,63,74]],
 [36, [49,63,74]],
 [37, [49,63,74]],
 [38, [49,63,74]],
 [39, [49,63,74]],
-[132, [44,49]],
-[373, [67,86,106]],
-[363, [74,161,180]],
-[362, [80,169,188]],
+[142, [44,49]],
+[390, [67,86,106]],
+[380, [74,161,180]],
+[379, [80,169,188]],
 [3, [58,71,90,227,240,250]],
-[458, [95,96,99,101,113,115,248]],
-[713, [90]],
-[208, [139]],
-[267, [146,213,232]],
-[459, [57]],
+[475, [95,96,99,101,113,115,248]],
+[735, [90]],
+[218, [139]],
+[280, [146,213,232]],
+[476, [57]],
 [11, [53,72,83]],
 [29, [42,66,74]],
-[161, [32]],
-[645, [33]],
-[502, [32]],
+[171, [32]],
+[667, [33]],
+[519, [32]],
 [33, [53,55]],
-[696, [31]],
+[718, [31]],
 [34, [51,53]],
-[474, [45,71]],
-[721, [34,41]],
-[366, [74,137,156]],
-[364, [80,145,164]],
-[374, [67,86,106]],
-[369, [74,155,174]],
-[367, [80,163,182]],
-[372, [74,135,154]],
-[371, [80,143,162]],
-[475, [45,71]],
+[491, [45,71]],
+[743, [34,41]],
+[383, [74,137,156]],
+[381, [80,145,164]],
+[391, [67,86,106]],
+[386, [74,155,174]],
+[384, [80,163,182]],
+[389, [74,135,154]],
+[388, [80,143,162]],
+[492, [45,71]],
 [12, [46,49]],
-[476, [81,100]],
+[493, [81,100]],
 [0, [56,123,134,168,172,176,187]],
-[477, [71,97]],
-[566, [33]],
-[564, [30]],
-[500, [34]],
+[494, [71,97]],
+[588, [33]],
+[585, [30]],
+[517, [34]],
 [40, [65,85,101]],
 [4, [58,65,82,84,92,96]],
-[117, [85,87]],
-[750, [73,79,141]],
-[714, [127]],
+[126, [85,87]],
+[772, [73,79,141]],
+[736, [127]],
 [13, [64,83,101]],
-[461, [54,95,103]],
-[650, [74]],
+[478, [54,95,103]],
+[672, [74]],
 [14, [57,74,94]],
-[825, [44]],
-[375, [67,86,106]],
-[376, [74,173,192]],
-[377, [80,180,199]],
+[847, [44]],
+[392, [67,86,106]],
+[393, [74,173,192]],
+[394, [80,180,199]],
 [15, [19,56,73,84]],
-[464, [38]],
+[481, [38]],
 [16, [56,75,86]],
-[478, [42,68]],
-[752, [63]],
-[118, [53,70,74]],
-[119, [53,103,107,137,154,155]],
-[120, [81,98,102]],
-[370, [74,137,156]],
-[382, [74,153,172]],
-[466, [35,41,81]],
+[495, [42,68]],
+[774, [63]],
+[127, [53,70,74]],
+[128, [53,103,107,137,154,155]],
+[129, [81,98,102]],
+[387, [74,137,156]],
+[399, [74,153,172]],
+[483, [35,41,81]],
 [17, [43,73,80]],
 [5, [28,33,43]],
 [42, [45]],
-[426, [188,203]],
-[467, [60,61,62,63]],
-[468, [104,105,106,107]],
-[383, [66,157,179]],
-[77, [42]],
+[443, [188,203]],
+[484, [60,61,62,63]],
+[485, [104,105,106,107]],
+[400, [66,157,179]],
+[79, [42]],
 [8, [61,64]],
 [43, [41,103]],
-[121, [26,36,152,157]],
-[122, [39,45]],
-[813, [35,41]],
+[130, [26,36,152,157]],
+[131, [39,45]],
+[835, [35,41]],
 [18, [50,69,80,85,99]],
 [19, [49,66,77]],
-[443, [62,418]],
-[479, [45,68]],
-[416, [97]],
-[480, [44,70]],
-[418, [97]],
-[481, [45,71]],
-[482, [44,70]],
+[460, [62,418]],
+[496, [45,68]],
+[433, [97]],
+[497, [44,70]],
+[435, [97]],
+[498, [45,71]],
+[499, [44,70]],
 [20, [57,74,85]],
-[483, [45,68]],
-[485, [45,68]],
+[500, [45,68]],
+[502, [45,68]],
 [21, [39,56,67]],
-[486, [33,76,80,87]],
-[857, [14,18,22,26,30,34]],
-[204, [45,64,68]],
-[487, [106,123,128,136]],
+[503, [33,76,80,87]],
+[879, [14,18,22,26,30,34]],
+[214, [45,64,68]],
+[504, [106,123,128,136]],
 [22, [55,76,86]],
-[488, [45,71]],
+[505, [45,71]],
 [23, [54,71,82]],
 [24, [57,74,85]],
 [25, [57,74,85]],
 [26, [57,74,94]],
 [27, [44,64,75]],
-[489, [45,71]],
+[506, [45,71]],
 [28, [71,116,120]],
-[437, [82,83,92,94,110,112,238]],
-[818, [36]],
-[815, [54]],
-[819, [36]],
-[820, [36]],
-[490, [55]],
-[184, [146]]
+[454, [82,83,92,94,110,112,238]],
+[840, [36]],
+[837, [54]],
+[841, [36]],
+[842, [36]],
+[507, [55]],
+[194, [146]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispatcher":{
 "files": [
-[115, [119]],
-[116, [228]],
+[124, [119]],
+[125, [228]],
 [29, [42]],
-[161, [32]],
-[645, [33]],
-[502, [32]],
-[696, [31]],
-[566, [33]],
-[564, [30]],
-[500, [34]],
+[171, [32]],
+[667, [33]],
+[519, [32]],
+[718, [31]],
+[588, [33]],
+[585, [30]],
+[517, [34]],
 [4, [65]],
-[118, [53]],
-[119, [53,137]],
-[120, [81]],
-[416, [97]],
-[418, [97]]
+[127, [53]],
+[128, [53,137]],
+[129, [81]],
+[433, [97]],
+[435, [97]]
 ],
 "memberKind": "Property"
 }
 ,
 "SetTitleBar`1":{
 "files": [
-[121, [152,157]]
+[130, [152,157]]
 ],
 "memberKind": "Method"
 }
 ,
 "SizeChanged":{
 "files": [
-[373, [67,86]],
-[721, [34,41]],
-[374, [67,86]],
-[476, [81]],
-[375, [67,86]],
-[466, [35,41]],
+[390, [67,86]],
+[743, [34,41]],
+[391, [67,86]],
+[493, [81]],
+[392, [67,86]],
+[483, [35,41]],
 [43, [41]],
-[121, [26,36]],
-[122, [39,45]],
-[813, [35,41]],
-[486, [33,80,87]],
-[487, [123,128,136]]
+[130, [26,36]],
+[131, [39,45]],
+[835, [35,41]],
+[503, [33,80,87]],
+[504, [123,128,136]]
 ],
 "memberKind": "Event"
 }
 ,
 "VisibilityChanged":{
 "files": [
-[354, [73,136,155]],
-[355, [68,123,141]],
-[353, [80,145,164]],
-[356, [87,133,215]],
-[357, [79,144,163]],
-[359, [73,134,153]],
+[371, [73,136,155]],
+[372, [68,123,141]],
+[370, [80,145,164]],
+[373, [87,133,215]],
+[374, [79,144,163]],
+[376, [73,134,153]],
 [61, [93,141,178]],
-[361, [74,135,154]],
-[363, [74,161,180]],
-[362, [80,169,188]],
-[267, [146,213,232]],
-[366, [74,137,156]],
-[364, [80,145,164]],
-[369, [74,155,174]],
-[367, [80,163,182]],
-[372, [74,135,154]],
-[371, [80,143,162]],
-[750, [73,79]],
-[376, [74,173,192]],
-[377, [80,180,199]],
-[370, [74,137,156]],
-[382, [74,153,172]],
-[426, [188,203]],
-[383, [66,157,179]],
-[443, [62]]
+[378, [74,135,154]],
+[380, [74,161,180]],
+[379, [80,169,188]],
+[280, [146,213,232]],
+[383, [74,137,156]],
+[381, [80,145,164]],
+[386, [74,155,174]],
+[384, [80,163,182]],
+[389, [74,135,154]],
+[388, [80,143,162]],
+[772, [73,79]],
+[393, [74,173,192]],
+[394, [80,180,199]],
+[387, [74,137,156]],
+[399, [74,153,172]],
+[443, [188,203]],
+[400, [66,157,179]],
+[460, [62]]
 ],
 "memberKind": "Event"
 }
 ,
 "Visible":{
 "files": [
-[443, [418]]
+[460, [418]]
 ],
 "memberKind": "Property"
 }
@@ -53849,7 +55414,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[132, [44,49]]
+[142, [44,49]]
 ],
 "memberKind": "Constructor"
 }
@@ -53860,7 +55425,7 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[476, [81]],
+[493, [81]],
 [43, [41]]
 ],
 "memberKind": "Constructor"
@@ -53872,27 +55437,27 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[354, [73,136,155]],
-[355, [68,123,141]],
-[353, [80,145,164]],
-[357, [79,144,163]],
-[359, [73,134,153]],
+[371, [73,136,155]],
+[372, [68,123,141]],
+[370, [80,145,164]],
+[374, [79,144,163]],
+[376, [73,134,153]],
 [61, [93,141,178]],
-[361, [74,135,154]],
-[363, [74,161,180]],
-[362, [80,169,188]],
-[267, [146,213,232]],
-[366, [74,137,156]],
-[364, [80,145,164]],
-[369, [74,155,174]],
-[367, [80,163,182]],
-[372, [74,135,154]],
-[371, [80,143,162]],
-[376, [74,173,192]],
-[377, [80,180,199]],
-[370, [74,137,156]],
-[382, [74,153,172]],
-[383, [66,157,179]]
+[378, [74,135,154]],
+[380, [74,161,180]],
+[379, [80,169,188]],
+[280, [146,213,232]],
+[383, [74,137,156]],
+[381, [80,145,164]],
+[386, [74,155,174]],
+[384, [80,163,182]],
+[389, [74,135,154]],
+[388, [80,143,162]],
+[393, [74,173,192]],
+[394, [80,180,199]],
+[387, [74,137,156]],
+[399, [74,153,172]],
+[400, [66,157,179]]
 ],
 "memberKind": "Constructor"
 }
@@ -53913,52 +55478,52 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[427, [78]],
-[611, [53,200]],
-[832, [64]],
-[892, [51]],
-[875, [46]],
-[893, [50]],
-[897, [75]],
-[926, [17,41]]
+[444, [78]],
+[633, [53,200]],
+[854, [64]],
+[914, [51]],
+[897, [46]],
+[915, [50]],
+[919, [75]],
+[951, [17,41]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CacheControl":{
 "files": [
-[611, [101,105,109,114,118]],
-[926, [18,42]]
+[633, [101,105,109,114,118]],
+[951, [18,42]]
 ],
 "memberKind": "Property"
 }
 ,
 "CookieManager":{
 "files": [
-[832, [65]],
-[892, [52]],
-[897, [76]]
+[854, [65]],
+[914, [52]],
+[919, [76]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[611, [168,198]]
+[633, [168,198]]
 ],
 "memberKind": "Method"
 }
 ,
 "IgnorableServerCertificateErrors":{
 "files": [
-[611, [129,130]]
+[633, [129,130]]
 ],
 "memberKind": "Property"
 }
 ,
 "MaxVersion":{
 "files": [
-[611, [56,204]]
+[633, [56,204]]
 ],
 "memberKind": "Property"
 }
@@ -53969,15 +55534,15 @@ var contents = {
 "members": {
 "ReadBehavior":{
 "files": [
-[611, [101,105,109]]
+[633, [101,105,109]]
 ],
 "memberKind": "Property"
 }
 ,
 "WriteBehavior":{
 "files": [
-[611, [114,118]],
-[926, [18,42]]
+[633, [114,118]],
+[951, [18,42]]
 ],
 "memberKind": "Property"
 }
@@ -53988,21 +55553,21 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[611, [101]]
+[633, [101]]
 ],
 "memberKind": "Field"
 }
 ,
 "MostRecent":{
 "files": [
-[611, [105]]
+[633, [105]]
 ],
 "memberKind": "Field"
 }
 ,
 "OnlyFromCache":{
 "files": [
-[611, [109]]
+[633, [109]]
 ],
 "memberKind": "Field"
 }
@@ -54013,15 +55578,15 @@ var contents = {
 "members": {
 "Default":{
 "files": [
-[611, [114]]
+[633, [114]]
 ],
 "memberKind": "Field"
 }
 ,
 "NoCache":{
 "files": [
-[611, [118]],
-[926, [18,42]]
+[633, [118]],
+[951, [18,42]]
 ],
 "memberKind": "Field"
 }
@@ -54032,14 +55597,14 @@ var contents = {
 "members": {
 "Dispose":{
 "files": [
-[428, [49]]
+[445, [49]]
 ],
 "memberKind": "?"
 }
 ,
 "SendRequestAsync`1":{
 "files": [
-[428, [38]]
+[445, [38]]
 ],
 "memberKind": "Method"
 }
@@ -54054,22 +55619,22 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[212, [46]]
+[222, [46]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "ContentLength":{
 "files": [
-[880, [108]]
+[902, [108]]
 ],
 "memberKind": "Property"
 }
 ,
 "ContentType":{
 "files": [
-[212, [47,48]],
-[597, [138]]
+[222, [47,48]],
+[619, [138]]
 ],
 "memberKind": "Property"
 }
@@ -54080,7 +55645,7 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[597, [143]]
+[619, [143]]
 ],
 "memberKind": "Constructor"
 }
@@ -54091,21 +55656,21 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[212, [47]]
+[222, [47]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "CharSet":{
 "files": [
-[212, [48]]
+[222, [48]]
 ],
 "memberKind": "Property"
 }
 ,
 "Parse`1":{
 "files": [
-[597, [138]]
+[619, [138]]
 ],
 "memberKind": "Method"
 }
@@ -54116,7 +55681,7 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[427, [84]]
+[444, [84]]
 ],
 "memberKind": "Constructor"
 }
@@ -54127,7 +55692,7 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[427, [84]]
+[444, [84]]
 ],
 "memberKind": "?"
 }
@@ -54138,28 +55703,28 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[428, [37]]
+[445, [37]]
 ],
 "memberKind": "?"
 }
 ,
 "Authorization":{
 "files": [
-[597, [143]]
+[619, [143]]
 ],
 "memberKind": "Property"
 }
 ,
 "TryAppendWithoutValidation`2":{
 "files": [
-[575, [65]]
+[597, [65]]
 ],
 "memberKind": "Method"
 }
 ,
 "UserAgent":{
 "files": [
-[427, [84]]
+[444, [84]]
 ],
 "memberKind": "Property"
 }
@@ -54170,7 +55735,7 @@ var contents = {
 "members": {
 "Add":{
 "files": [
-[428, [42]]
+[445, [42]]
 ],
 "memberKind": "?"
 }
@@ -54183,97 +55748,97 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[575, [64]],
-[880, [50]],
-[216, [48]],
-[215, [107]],
-[597, [39,141,202]],
-[598, [38]]
+[597, [64]],
+[902, [50]],
+[226, [48]],
+[225, [107]],
+[619, [39,141,202]],
+[620, [38]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`1":{
 "files": [
-[427, [80]],
-[611, [65,201]],
-[875, [48]],
-[893, [52]],
-[926, [19,43]]
+[444, [80]],
+[633, [65,201]],
+[897, [48]],
+[915, [52]],
+[951, [19,43]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "DefaultRequestHeaders":{
 "files": [
-[575, [65]],
-[427, [84]],
-[597, [143]]
+[597, [65]],
+[444, [84]],
+[619, [143]]
 ],
 "memberKind": "Property"
 }
 ,
 "Dispose`0":{
 "files": [
-[427, [73]],
-[611, [174,199]],
-[875, [133]],
-[893, [140]],
-[613, [145]],
-[870, [121]],
-[894, [114]],
-[895, [136]],
-[896, [116]],
-[880, [207]],
-[216, [116]],
-[897, [147]]
+[444, [73]],
+[633, [174,199]],
+[897, [133]],
+[915, [140]],
+[635, [145]],
+[892, [121]],
+[916, [114]],
+[917, [136]],
+[918, [116]],
+[902, [207]],
+[226, [116]],
+[919, [147]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetAsync`1":{
 "files": [
-[611, [132]],
-[893, [107]],
-[870, [82]],
-[897, [114]]
+[633, [132]],
+[915, [107]],
+[892, [82]],
+[919, [114]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetBufferAsync`1":{
 "files": [
-[926, [23]]
+[951, [23]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetStringAsync`1":{
 "files": [
-[215, [108]],
-[597, [40,203]],
-[598, [39]]
+[225, [108]],
+[619, [40,203]],
+[620, [39]]
 ],
 "memberKind": "Method"
 }
 ,
 "PostAsync`2":{
 "files": [
-[894, [80]],
-[896, [83]],
-[880, [112]],
-[216, [83]],
-[597, [144]]
+[916, [80]],
+[918, [83]],
+[902, [112]],
+[226, [83]],
+[619, [144]]
 ],
 "memberKind": "Method"
 }
 ,
 "SendRequestAsync`1":{
 "files": [
-[875, [95]],
-[613, [87]],
-[895, [91]],
-[926, [49]]
+[897, [95]],
+[635, [87]],
+[917, [91]],
+[951, [49]]
 ],
 "memberKind": "Method"
 }
@@ -54284,7 +55849,7 @@ var contents = {
 "members": {
 "ResponseHeadersRead":{
 "files": [
-[613, [89]]
+[635, [89]]
 ],
 "memberKind": "Field"
 }
@@ -54295,61 +55860,61 @@ var contents = {
 "members": {
 ":ctor`3":{
 "files": [
-[832, [49]],
-[892, [49]]
+[854, [49]],
+[914, [49]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Domain":{
 "files": [
-[897, [83]]
+[919, [83]]
 ],
 "memberKind": "Property"
 }
 ,
 "Expires":{
 "files": [
-[832, [54,58]],
-[897, [86]]
+[854, [54,58]],
+[919, [86]]
 ],
 "memberKind": "Property"
 }
 ,
 "HttpOnly":{
 "files": [
-[832, [62]],
-[897, [88]]
+[854, [62]],
+[919, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "Name":{
 "files": [
-[897, [82]]
+[919, [82]]
 ],
 "memberKind": "Property"
 }
 ,
 "Path":{
 "files": [
-[897, [84]]
+[919, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "Secure":{
 "files": [
-[832, [61]],
-[897, [87]]
+[854, [61]],
+[919, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "Value":{
 "files": [
-[832, [50]],
-[897, [85]]
+[854, [50]],
+[919, [85]]
 ],
 "memberKind": "Property"
 }
@@ -54360,21 +55925,21 @@ var contents = {
 "members": {
 "DeleteCookie`1":{
 "files": [
-[892, [52]]
+[914, [52]]
 ],
 "memberKind": "Method"
 }
 ,
 "GetCookies`1":{
 "files": [
-[897, [76]]
+[919, [76]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetCookie`1":{
 "files": [
-[832, [65]]
+[854, [65]]
 ],
 "memberKind": "Method"
 }
@@ -54385,22 +55950,22 @@ var contents = {
 "members": {
 "Get":{
 "files": [
-[875, [82]],
-[613, [84]]
+[897, [82]],
+[635, [84]]
 ],
 "memberKind": "Property"
 }
 ,
 "Head":{
 "files": [
-[926, [47]]
+[951, [47]]
 ],
 "memberKind": "Property"
 }
 ,
 "Post":{
 "files": [
-[895, [87]]
+[917, [87]]
 ],
 "memberKind": "Property"
 }
@@ -54411,14 +55976,14 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[896, [80]]
+[918, [80]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Add`1":{
 "files": [
-[896, [81]]
+[918, [81]]
 ],
 "memberKind": "Method"
 }
@@ -54429,42 +55994,42 @@ var contents = {
 "members": {
 "BytesReceived":{
 "files": [
-[880, [147,183]]
+[902, [147,183]]
 ],
 "memberKind": "Field"
 }
 ,
 "BytesSent":{
 "files": [
-[880, [146,174]]
+[902, [146,174]]
 ],
 "memberKind": "Field"
 }
 ,
 "Retries":{
 "files": [
-[880, [145]]
+[902, [145]]
 ],
 "memberKind": "Field"
 }
 ,
 "Stage":{
 "files": [
-[880, [144,172,176]]
+[902, [144,172,176]]
 ],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToReceive":{
 "files": [
-[880, [161,163]]
+[902, [161,163]]
 ],
 "memberKind": "Field"
 }
 ,
 "TotalBytesToSend":{
 "files": [
-[880, [150,152]]
+[902, [150,152]]
 ],
 "memberKind": "Field"
 }
@@ -54475,14 +56040,14 @@ var contents = {
 "members": {
 "ReceivingContent":{
 "files": [
-[880, [176]]
+[902, [176]]
 ],
 "memberKind": "Field"
 }
 ,
 "SendingContent":{
 "files": [
-[880, [172]]
+[902, [172]]
 ],
 "memberKind": "Field"
 }
@@ -54493,31 +56058,31 @@ var contents = {
 "members": {
 ":ctor`2":{
 "files": [
-[875, [82]],
-[613, [84]],
-[895, [87]],
-[926, [47]]
+[897, [82]],
+[635, [84]],
+[917, [87]],
+[951, [47]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Content":{
 "files": [
-[895, [88]]
+[917, [88]]
 ],
 "memberKind": "Property"
 }
 ,
 "Headers":{
 "files": [
-[428, [37]]
+[445, [37]]
 ],
 "memberKind": "Property"
 }
 ,
 "Properties":{
 "files": [
-[875, [93]]
+[897, [93]]
 ],
 "memberKind": "Property"
 }
@@ -54528,60 +56093,60 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[427, [35,54]],
-[613, [94]],
-[870, [87]]
+[444, [35,54]],
+[635, [94]],
+[892, [87]]
 ],
 "memberKind": "Property"
 }
 ,
 "EnsureSuccessStatusCode`0":{
 "files": [
-[870, [85]]
+[892, [85]]
 ],
 "memberKind": "Method"
 }
 ,
 "Headers":{
 "files": [
-[427, [53]],
-[428, [42]]
+[444, [53]],
+[445, [42]]
 ],
 "memberKind": "Property"
 }
 ,
 "IsSuccessStatusCode":{
 "files": [
-[557, [386]]
+[578, [386]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReasonPhrase":{
 "files": [
-[427, [51]]
+[444, [51]]
 ],
 "memberKind": "Property"
 }
 ,
 "Source":{
 "files": [
-[611, [138]]
+[633, [138]]
 ],
 "memberKind": "Property"
 }
 ,
 "StatusCode":{
 "files": [
-[427, [51]],
-[556, [246]]
+[444, [51]],
+[577, [246]]
 ],
 "memberKind": "Property"
 }
 ,
 "Version":{
 "files": [
-[611, [138]]
+[633, [138]]
 ],
 "memberKind": "Property"
 }
@@ -54592,7 +56157,7 @@ var contents = {
 "members": {
 "NotFound":{
 "files": [
-[556, [246]]
+[577, [246]]
 ],
 "memberKind": "Field"
 }
@@ -54603,15 +56168,15 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[895, [85]],
-[880, [103]]
+[917, [85]],
+[902, [103]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Headers":{
 "files": [
-[880, [108]]
+[902, [108]]
 ],
 "memberKind": "Property"
 }
@@ -54622,22 +56187,22 @@ var contents = {
 "members": {
 ":ctor`1":{
 "files": [
-[894, [81]],
-[896, [81]]
+[916, [81]],
+[918, [81]]
 ],
 "memberKind": "Constructor"
 }
 ,
 ":ctor`2":{
 "files": [
-[597, [137]]
+[619, [137]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "Headers":{
 "files": [
-[597, [138]]
+[619, [138]]
 ],
 "memberKind": "Property"
 }
@@ -54648,14 +56213,14 @@ var contents = {
 "members": {
 "Http11":{
 "files": [
-[611, [187]]
+[633, [187]]
 ],
 "memberKind": "Field"
 }
 ,
 "Http20":{
 "files": [
-[611, [56,190]]
+[633, [56,190]]
 ],
 "memberKind": "Field"
 }
@@ -54666,22 +56231,22 @@ var contents = {
 "members": {
 "Headers":{
 "files": [
-[427, [54]]
+[444, [54]]
 ],
 "memberKind": "Property"
 }
 ,
 "ReadAsInputStreamAsync`0":{
 "files": [
-[613, [94]]
+[635, [94]]
 ],
 "memberKind": "Method"
 }
 ,
 "ReadAsStringAsync`0":{
 "files": [
-[427, [35]],
-[870, [87]]
+[444, [35]],
+[892, [87]]
 ],
 "memberKind": "Method"
 }
@@ -54696,7 +56261,7 @@ var contents = {
 "members": {
 "Text":{
 "files": [
-[716, [108,150,171]]
+[738, [108,150,171]]
 ],
 "memberKind": "Property"
 }
@@ -54707,28 +56272,28 @@ var contents = {
 "members": {
 ":ctor`0":{
 "files": [
-[716, [64]]
+[738, [64]]
 ],
 "memberKind": "Constructor"
 }
 ,
 "BypassCacheOnRetrieve":{
 "files": [
-[716, [65]]
+[738, [65]]
 ],
 "memberKind": "Property"
 }
 ,
 "RetrieveFeedAsync`1":{
 "files": [
-[716, [76]]
+[738, [76]]
 ],
 "memberKind": "Method"
 }
 ,
 "SetRequestHeader`2":{
 "files": [
-[716, [69]]
+[738, [69]]
 ],
 "memberKind": "Method"
 }
@@ -54739,7 +56304,7 @@ var contents = {
 "members": {
 "Text":{
 "files": [
-[716, [167]]
+[738, [167]]
 ],
 "memberKind": "Property"
 }
@@ -54750,7 +56315,7 @@ var contents = {
 "members": {
 "GetStatus`1":{
 "files": [
-[716, [83]]
+[738, [83]]
 ],
 "memberKind": "Method"
 }
@@ -54761,14 +56326,14 @@ var contents = {
 "members": {
 "InvalidXml":{
 "files": [
-[716, [84]]
+[738, [84]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[716, [90]]
+[738, [90]]
 ],
 "memberKind": "Field"
 }
@@ -54779,14 +56344,14 @@ var contents = {
 "members": {
 "Items":{
 "files": [
-[716, [111,117,131,140,147]]
+[738, [111,117,131,140,147]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[716, [107]]
+[738, [107]]
 ],
 "memberKind": "Property"
 }
@@ -54797,35 +56362,35 @@ var contents = {
 "members": {
 "Content":{
 "files": [
-[716, [165,167]]
+[738, [165,167]]
 ],
 "memberKind": "Property"
 }
 ,
 "ElementExtensions":{
 "files": [
-[716, [161]]
+[738, [161]]
 ],
 "memberKind": "Property"
 }
 ,
 "Links":{
 "files": [
-[716, [154,156]]
+[738, [154,156]]
 ],
 "memberKind": "Property"
 }
 ,
 "Summary":{
 "files": [
-[716, [169,171]]
+[738, [169,171]]
 ],
 "memberKind": "Property"
 }
 ,
 "Title":{
 "files": [
-[716, [150]]
+[738, [150]]
 ],
 "memberKind": "Property"
 }
@@ -54838,7 +56403,7 @@ var contents = {
 "members": {
 "GetStatus`1":{
 "files": [
-[716, [92]]
+[738, [92]]
 ],
 "memberKind": "Method"
 }
@@ -54849,43 +56414,43 @@ var contents = {
 "members": {
 "CannotConnect":{
 "files": [
-[589, [123]],
-[591, [113]]
+[611, [123]],
+[613, [113]]
 ],
 "memberKind": "Field"
 }
 ,
 "NotFound":{
 "files": [
-[589, [124]],
-[591, [114]]
+[611, [124]],
+[613, [114]]
 ],
 "memberKind": "Field"
 }
 ,
 "OperationCanceled":{
 "files": [
-[591, [170,215]]
+[613, [170,215]]
 ],
 "memberKind": "Field"
 }
 ,
 "RequestTimeout":{
 "files": [
-[589, [125]],
-[591, [115]]
+[611, [125]],
+[613, [115]]
 ],
 "memberKind": "Field"
 }
 ,
 "Unknown":{
 "files": [
-[576, [354]],
-[577, [327]],
-[228, [282]],
-[716, [94]],
-[589, [130,159,192]],
-[591, [120,174,219,249]]
+[598, [354]],
+[599, [327]],
+[238, [282]],
+[738, [94]],
+[611, [130,159,192]],
+[613, [120,174,219,249]]
 ],
 "memberKind": "Field"
 }
