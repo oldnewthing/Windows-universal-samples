@@ -52,7 +52,7 @@ ContainerNode.prototype.populateNode = function populateNode() {
         this.element.appendChild(this.list);
         for (var name in this.contents.children) {
             var item = document.createElement("li");
-            item.innerText = name;
+            item.textContent = name;
             new ContainerNode(item, this.contents.children[name]);
             this.list.appendChild(item);
         }
@@ -62,7 +62,7 @@ ContainerNode.prototype.populateNode = function populateNode() {
         this.element.appendChild(this.list);
         for (var name in this.contents.members) {
             var item = document.createElement("li");
-            item.innerText = name + " (" + this.contents.members[name].memberKind + ")";
+            item.textContent = name + " (" + this.contents.members[name].memberKind + ")";
             new MemberNode(item, this.contents.members[name]);
             this.list.appendChild(item);
         }
@@ -77,7 +77,7 @@ MemberNode.prototype = new ApiNode;
 
 function createAnchor(href, text) {
     var anchor = document.createElement("a");
-    anchor.innerText = text;
+    anchor.textContent = text;
     anchor.href = href;
     anchor.target = "_blank";
     return anchor;
