@@ -4,10 +4,8 @@
     this.populated = false;
     this.list = null;
 
-    if (contents) {
-        contents.node = this;
-        rootElement.addEventListener("click", ApiNode.prototype.toggleNodeHandler.bind(this));
-    }
+    contents.node = this;
+    rootElement.addEventListener("click", ApiNode.prototype.toggleNodeHandler.bind(this));
 }
 
 ApiNode.prototype.ensurePopulated = function ensurePopulated() {
@@ -43,7 +41,21 @@ function ContainerNode(rootElement, contents) {
     ApiNode.call(this, rootElement, contents);
 }
 
-ContainerNode.prototype = new ApiNode;
+ContainerNode.prototype = Object.create(ApiNode.prototype);
+
+function setItemContent(item, name, suffix) {
+  switch (name.charAt(name.length - 1)) {
+  case "!":
+    item.className = "missing";
+    name = name.substr(0, name.length - 1);
+    break;
+  case "/":
+    item.className = "partlyMissing";
+    name = name.substr(0, name.length - 1);
+    break;
+  }
+  item.textContent = name + (suffix || "");
+}
 
 ContainerNode.prototype.populateNode = function populateNode() {
     if (this.contents.children) {
@@ -52,7 +64,7 @@ ContainerNode.prototype.populateNode = function populateNode() {
         this.element.appendChild(this.list);
         for (var name in this.contents.children) {
             var item = document.createElement("li");
-            item.textContent = name;
+            setItemContent(item, name);
             new ContainerNode(item, this.contents.children[name]);
             this.list.appendChild(item);
         }
@@ -62,7 +74,7 @@ ContainerNode.prototype.populateNode = function populateNode() {
         this.element.appendChild(this.list);
         for (var name in this.contents.members) {
             var item = document.createElement("li");
-            item.textContent = name + " (" + this.contents.members[name].memberKind + ")";
+            setItemContent(item, name, " (" + this.contents.members[name].memberKind + ")");
             new MemberNode(item, this.contents.members[name]);
             this.list.appendChild(item);
         }
@@ -73,7 +85,7 @@ function MemberNode(rootElement, contents) {
     ApiNode.call(this, rootElement, contents);
 };
 
-MemberNode.prototype = new ApiNode;
+MemberNode.prototype = Object.create(ApiNode.prototype);
 
 function createAnchor(href, text) {
     var anchor = document.createElement("a");
