@@ -44,16 +44,9 @@ function ContainerNode(rootElement, contents) {
 ContainerNode.prototype = Object.create(ApiNode.prototype);
 
 function setItemContent(item, name, suffix) {
-  switch (name.charAt(name.length - 1)) {
-  case "!":
-    item.className = "missing";
-    name = name.substr(0, name.length - 1);
-    break;
-  case "/":
-    item.className = "partlyMissing";
-    name = name.substr(0, name.length - 1);
-    break;
-  }
+  var ratio = name.charAt(name.length - 1);
+  item.className = "level" + ratio;
+  name = name.substr(0, name.length - 2);
   item.textContent = name + (suffix || "");
 }
 
