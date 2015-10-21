@@ -20,6 +20,10 @@ ApiNode.prototype.openNode = function openNode() {
     this.list.style.display = "block";
 };
 
+ApiNode.prototype.scrollIntoView = function scrollIntoView() {
+    (document.documentElement || document.body).scrollTop = this.list.offsetTop;
+};
+
 ApiNode.prototype.toggleNode = function toggleNode() {
     this.ensurePopulated();
     if (this.list) {
@@ -130,4 +134,7 @@ function autoNavigate(target) {
             current.node.openNode();
         }
     }, this);
+    if (current) {
+        current.node.scrollIntoView();
+    }
 }
