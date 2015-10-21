@@ -106,6 +106,14 @@ MemberNode.prototype.populateNode = function populateNode() {
     }, this);
 };
 
+function findShortName(container, name) {
+    for(var longName in container) {
+        if (name === longName.substr(0, longName.length - 2)) {
+            return container[longName];
+        }
+    }
+}
+
 function autoNavigate(target) {
     var pieces = decodeURIComponent(target).split(".");
     var current = contents;
@@ -113,9 +121,9 @@ function autoNavigate(target) {
     pieces.forEach(function (name) {
         if (current) {
             if (current.children) {
-                current = current.children[name];
+                current = findShortName(current.children, name);
             } else if (current.members) {
-                current = current.members[name];
+                current = findShortName(current.members, name);
             }
         }
         if (current) {
