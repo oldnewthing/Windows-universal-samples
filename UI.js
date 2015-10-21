@@ -132,9 +132,7 @@ function autoNavigate(target) {
         }
         if (current) {
             current.node.openNode();
+            current.node.scrollIntoView();
         }
     }, this);
-    if (current) {
-        current.node.scrollIntoView();
-    }
 }
