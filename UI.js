@@ -100,7 +100,7 @@ MemberNode.prototype.populateNode = function populateNode() {
         var entry = fileTable[fileEntry[0]];
         var file = dirTable[entry[0]] + "/" + entry[1];
         var item = document.createElement("li");
-        var href = "https://github.com/Microsoft/Windows-universal-samples/blob/v1.0.8/Samples/" + file;
+        var href = "https://github.com/Microsoft/Windows-universal-samples/blob/v1.0.9/Samples/" + file;
         item.appendChild(createAnchor(href, file));
         fileEntry[1].forEach(function (lineNumber) {
             item.appendChild(document.createTextNode(" "));
