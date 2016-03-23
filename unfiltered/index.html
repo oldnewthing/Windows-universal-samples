@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Samples API concordance</title>
+<style>
+body {
+    font-family: Segoe UI;
+}
+li {
+    cursor: pointer;
+    background: white; /* do not inherit */
+}
+.level0 { background-color: #fc682a; }
+.level1 { background-color: #fc7a41; }
+.level2 { background-color: #fc8c58; }
+.level3 { background-color: #fd9e6f; }
+.level4 { background-color: #fdb087; }
+.level5 { background-color: #fdc29e; }
+.level6 { background-color: #fed4b5; }
+.level7 { background-color: #fee6cc; }
+.level8 { background-color: #fff9e4; }
+.level9 { background-color: white; }
+</style>
+</head>
+<body>
+    <div id="idTree">
+
+    </div>
+
+    <script src="data.js"></script>
+    <script src="files.js"></script>
+    <script src="dirs.js"></script>
+    <script src="UI.js"></script>
+    <script>
+        new ContainerNode(idTree, contents);
+        contents.node.openNode();
+        if (window.location.hash) {
+            autoNavigate(window.location.hash.substring(1));
+        } else if (window.location.search) {
+            autoNavigate(window.location.search.substring(1));
+        }
+    </script>
+</body>
+</html>
